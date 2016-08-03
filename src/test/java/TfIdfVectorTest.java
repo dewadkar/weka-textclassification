@@ -10,6 +10,7 @@ public class TfIdfVectorTest {
     @Test
     public void termFrequencyTest(){
         TfIdfVector tfIdfVector = new TfIdfVector();
-        assertEquals(0,tfIdfVector.termFrequency(),0);
+
+        assertEquals(0.0,tfIdfVector.termFrequency(),0);
     }
 }
