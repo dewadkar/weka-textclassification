@@ -1,4 +1,4 @@
-package testing;
+package training;
 
 import org.junit.Ignore;
 import org.junit.Test;
@@ -14,7 +14,7 @@ import static org.junit.Assert.assertNotNull;
 /**
  * Created by dewadkar on 8/4/2016.
  */
-public class ClassifierTest
+public class AutoClassifierTest
 {
     private static final String DATA_SET ="resources/weather.txt" ;
 
