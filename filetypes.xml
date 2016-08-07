@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="Complete_story" type="PLAIN_TEXT" />
-      <mapping pattern="problem_statement" type="PLAIN_TEXT" />
-      <mapping ext="test_bkp" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
