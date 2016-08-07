@@ -1,5 +1,6 @@
 package training;
 
+import org.apache.commons.io.FileUtils;
 import weka.classifiers.Classifier;
 import weka.classifiers.Evaluation;
 import weka.classifiers.evaluation.NominalPrediction;
@@ -7,6 +8,7 @@ import weka.classifiers.rules.DecisionTable;
 import weka.classifiers.rules.PART;
 import weka.classifiers.trees.DecisionStump;
 import weka.classifiers.trees.J48;
+import weka.core.Debug;
 import weka.core.FastVector;
 import weka.core.Instances;
 
@@ -24,7 +26,7 @@ public class AutoClassifier {
     private static String DATA_SET_FILE_PATH = "resources/weather.txt";
 
     private static final Classifier[] CLASSIFIERS = new Classifier[]{
-            new J48(), // a decision tree
+//            new J48(), // a decision tree
             new PART(),
             new DecisionTable(),//decision table majority classifier
             new DecisionStump() //one-level decision tree
@@ -44,6 +46,7 @@ public class AutoClassifier {
                                Instances trainingSet, Instances testingSet) throws Exception {
         Evaluation evaluation = new Evaluation(trainingSet);
         model.buildClassifier(trainingSet);
+        Debug.saveToFile("modelName",model);
         evaluation.evaluateModel(model, testingSet);
         return evaluation;
     }
@@ -101,9 +104,18 @@ public class AutoClassifier {
                 + "\n---------------------------------");
     }
 
+//    public static void main(String[] args) throws Exception {
+//        AutoClassifier autoClassifier = new AutoClassifier();
+//        String trainingFileName="C:\\Users\\IBM_ADMIN\\IdeaProjects\\nlp\\resources\\dataset\\training.arff";
+//        Instances[][] split = autoClassifier.dataInstances(trainingFileName);
+//        autoClassifier.validateClassifiersForTrainingData(split, CLASSIFIERS);
+//
+//    }
+
     public static void main(String[] args) throws Exception {
         AutoClassifier autoClassifier = new AutoClassifier();
-        Instances[][] split = autoClassifier.dataInstances(DATA_SET_FILE_PATH);
+        String trainingFileName="C:\\Users\\IBM_ADMIN\\IdeaProjects\\nlp\\resources\\dataset\\trainingVectors.arff";
+        Instances[][] split = autoClassifier.dataInstances(trainingFileName);
         autoClassifier.validateClassifiersForTrainingData(split, CLASSIFIERS);
 
     }
