@@ -1,3 +1,6 @@
+package preprocessing;
+
+import org.junit.Assert;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
@@ -10,6 +13,7 @@ public class TfIdfVectorTest {
     @Test
     public void termFrequencyTest(){
         TfIdfVector tfIdfVector = new TfIdfVector();
-        assertEquals(0,tfIdfVector.termFrequency(),0);
+
+        Assert.assertEquals(0.0,tfIdfVector.termFrequency(),0);
     }
 }
