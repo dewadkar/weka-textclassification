@@ -1,28 +1,6 @@
 group 'nlp'
 version '1.0-SNAPSHOT'
 
-////sourceCompatibility = 1.6
-////targetCompatibility = 1.6
-//
-//repositories {
-//    mavenCentral()
-//}
-//
-//dependencies {
-//    compile group: 'nz.ac.waikato.cms.weka', name: 'weka-stable', version: '3.6.6'
-//    compile group: 'javax.xml.parsers', name: 'jaxp-api', version: '1.4.5'
-//    compile group: 'org.apache.commons', name: 'commons-io', version: '1.3.2'
-//    compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.0'
-//
-//
-//
-//
-//    testCompile group: 'junit', name: 'junit', version: '4.11'
-//}
-//
-//apply plugin: 'java'
-
-
 
 repositories {
     mavenCentral()
