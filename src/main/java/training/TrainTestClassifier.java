@@ -108,8 +108,6 @@ public class TrainTestClassifier {
 
         System.out.println("Wait .. Converting test data set to word vector.");
 
-//        StringToWordVector testFilter = new StringToWordVector();
-//        testFilter.setInputFormat(dataRaw);
         Instances testingData = Filter.useFilter(testRawData, filter);
 
         System.out.println("Done .. Converted test data set to word vector.");
