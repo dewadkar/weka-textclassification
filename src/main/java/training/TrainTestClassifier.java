@@ -9,8 +9,12 @@ import weka.classifiers.meta.AttributeSelectedClassifier;
 import weka.classifiers.trees.J48;
 import weka.core.Debug;
 import weka.core.Instances;
+import weka.core.Stopwords;
 import weka.core.converters.ArffSaver;
 import weka.core.converters.TextDirectoryLoader;
+import weka.core.stemmers.SnowballStemmer;
+import weka.core.stemmers.Stemmer;
+import weka.core.stemmers.Stemming;
 import weka.filters.Filter;
 import weka.filters.unsupervised.attribute.StringToWordVector;
 
@@ -41,6 +45,7 @@ public class TrainTestClassifier {
 
         TextDirectoryLoader loader = new TextDirectoryLoader();
         loader.setDirectory(new File(DATA_SET_TRAIN_FILES));
+
         Instances dataRaw = loader.getDataSet();
 
 
@@ -51,6 +56,8 @@ public class TrainTestClassifier {
 
         StringToWordVector filter = new StringToWordVector();
         filter.setInputFormat(dataRaw);
+        filter.setStemmer(new SnowballStemmer());
+        filter.setStopwords(new File("resources/stopword/engstopwords.txt"));
         Instances dataFiltered = Filter.useFilter(dataRaw, filter);
 
         System.out.println("Done ..  word vector file like arff file of weka created.");
@@ -101,9 +108,9 @@ public class TrainTestClassifier {
 
         System.out.println("Wait .. Converting test data set to word vector.");
 
-        StringToWordVector testFilter = new StringToWordVector();
-        testFilter.setInputFormat(dataRaw);
-        Instances testingData = Filter.useFilter(testRawData, testFilter);
+//        StringToWordVector testFilter = new StringToWordVector();
+//        testFilter.setInputFormat(dataRaw);
+        Instances testingData = Filter.useFilter(testRawData, filter);
 
         System.out.println("Done .. Converted test data set to word vector.");
 
