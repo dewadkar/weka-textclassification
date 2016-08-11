@@ -1,24 +1,22 @@
 package training;
 
 import preprocessing.DataSet;
+import weka.attributeSelection.ASEvaluation;
 import weka.attributeSelection.CfsSubsetEval;
-import weka.attributeSelection.ChiSquaredAttributeEval;
 import weka.attributeSelection.GreedyStepwise;
+import weka.classifiers.Classifier;
 import weka.classifiers.Evaluation;
 import weka.classifiers.meta.AttributeSelectedClassifier;
 import weka.classifiers.trees.J48;
 import weka.core.Debug;
 import weka.core.Instances;
-import weka.core.Stopwords;
-import weka.core.converters.ArffSaver;
 import weka.core.converters.TextDirectoryLoader;
 import weka.core.stemmers.SnowballStemmer;
-import weka.core.stemmers.Stemmer;
-import weka.core.stemmers.Stemming;
 import weka.filters.Filter;
 import weka.filters.unsupervised.attribute.StringToWordVector;
 
 import java.io.File;
+import java.io.IOException;
 
 /**
  * Created by dewadkar on 8/7/2016.
@@ -41,79 +39,92 @@ public class TrainTestClassifier {
 
         System.out.println("Done ..  Created data set directory.");
 
-        System.out.println("Wait ..  loading dataset");
 
-        TextDirectoryLoader loader = new TextDirectoryLoader();
-        loader.setDirectory(new File(DATA_SET_TRAIN_FILES));
-
-        Instances dataRaw = loader.getDataSet();
-
-
+        System.out.println("Wait ..  loading training dataset");
+        Instances trainingDataSet = loadDirDataSetToWekaFormat(DATA_SET_TRAIN_FILES);
         System.out.println("Done ..  loaded dataset");
 
-//        System.exit(0);
         System.out.println("Wait ..  converting data set to word vectors.");
-
-        StringToWordVector filter = new StringToWordVector();
-        filter.setInputFormat(dataRaw);
-        filter.setStemmer(new SnowballStemmer());
-        filter.setStopwords(new File("resources/stopword/engstopwords.txt"));
-        Instances dataFiltered = Filter.useFilter(dataRaw, filter);
-
+        Filter stringToWordVectorFilter = filterStringToWordVectorType(trainingDataSet);
+        Instances filteredTrainingDataSet = Filter.useFilter(trainingDataSet, stringToWordVectorFilter);
         System.out.println("Done ..  word vector file like arff file of weka created.");
 
+        Classifier decisionTreeJ48 = getClassifier(filteredTrainingDataSet);
 
+        System.out.println("Wait .. Evaluating Cross - Fold trained classifier.");
+        evaluateCrossFoldModel(filteredTrainingDataSet, decisionTreeJ48);
+
+        System.out.println("Wait .. Evaluating classifier for trained data.");
+        evaluateTestingDataSetGivenTrainingDataSet(stringToWordVectorFilter, filteredTrainingDataSet, decisionTreeJ48);
+
+
+    }
+
+    private static Classifier getClassifier(Instances filteredTrainingDataSet) throws Exception {
         System.out.println("Wait ..  processing attribute selection");
-
-        AttributeSelectedClassifier attributeSelectedClassifier = new AttributeSelectedClassifier();
-        CfsSubsetEval eval = new CfsSubsetEval();
-        GreedyStepwise search = new GreedyStepwise();
-        search.setSearchBackwards(true);
-
+        ASEvaluation attributeFilter = new CfsSubsetEval();
         System.out.println("Done ..  Selected attributes and created training data set.");
+        Classifier decisionTree = new J48();
+        return buildClassifier(filteredTrainingDataSet, attributeFilter, decisionTree);
+    }
 
+    private static GreedyStepwise isSearchBackWord() {
+        GreedyStepwise attributeSearchModelForRanking = new GreedyStepwise();
+        attributeSearchModelForRanking.setSearchBackwards(true);
+        return attributeSearchModelForRanking;
+    }
 
+    private static Classifier buildClassifier(Instances trainingData, ASEvaluation asEvaluation, Classifier classifier) throws Exception {
         System.out.println("Wait ..  Building classifier");
 
-        // train J48 and output model
-        J48 decisionTreeJ48 = new J48();
-        attributeSelectedClassifier.setClassifier(decisionTreeJ48);
-        attributeSelectedClassifier.setEvaluator(eval);
-        attributeSelectedClassifier.setSearch(search);
+        AttributeSelectedClassifier attributeSelectedClassifier = new AttributeSelectedClassifier();
+        attributeSelectedClassifier.setClassifier(classifier);
+        attributeSelectedClassifier.setEvaluator(asEvaluation);
+        attributeSelectedClassifier.setSearch(isSearchBackWord());
 
-
-        decisionTreeJ48.buildClassifier(dataFiltered);
-        System.out.println("\n\nClassifier model:\n\n" + decisionTreeJ48);
+        classifier.buildClassifier(trainingData);
+        System.out.println("\n\nClassifier model:\n\n" + classifier);
         System.out.println("Done ..  Trained classifier");
+        return classifier;
+    }
 
+    private static void evaluateTestingDataSetGivenTrainingDataSet(Filter filter, Instances dataFiltered, Classifier decisionTreeJ48) throws Exception {
+        Instances testRawData = loadDirDataSetToWekaFormat(DATA_SET_TEST_FILES);
+        Instances testingData = filteredData(filter, testRawData);
+        evaluateTestingDataOnClassifier(dataFiltered, decisionTreeJ48, testingData);
+    }
 
-        System.out.println("Wait .. Evaluating trained classifier.");
-
+    private static void evaluateCrossFoldModel(Instances dataFiltered, Classifier decisionTreeJ48) throws Exception {
         Evaluation evaluation = new Evaluation(dataFiltered);
         evaluation.crossValidateModel(decisionTreeJ48, dataFiltered, 4, new Debug.Random(1));
         System.out.println(evaluation.toSummaryString());
         System.out.println("Done ..  Evaluation");
+    }
 
+    private static StringToWordVector filterStringToWordVectorType(Instances dataRaw) throws Exception {
+        StringToWordVector filter = new StringToWordVector();
+        filter.setInputFormat(dataRaw);
+        filter.setStemmer(new SnowballStemmer());
+        filter.setStopwords(new File("resources/stopword/engstopwords.txt"));
+        return filter;
+    }
 
-
-        System.out.println("Wait .. Loading test data set.");
-
+    private static Instances loadDirDataSetToWekaFormat(String dataSetDirPath) throws IOException {
         TextDirectoryLoader testLoader = new TextDirectoryLoader();
-        testLoader.setDirectory(new File(DATA_SET_TRAIN_FILES));
-        Instances testRawData = testLoader.getDataSet();
+        testLoader.setDirectory(new File(dataSetDirPath));
+        return testLoader.getDataSet();
+    }
 
-        System.out.println("Done .. Loaded test data set.");
-
-
-
+    private static Instances filteredData(Filter filter, Instances testRawData) throws Exception {
         System.out.println("Wait .. Converting test data set to word vector.");
 
         Instances testingData = Filter.useFilter(testRawData, filter);
 
-        System.out.println("Done .. Converted test data set to word vector.");
+        System.out.println("Done .. Converted test data set to word ̄Avector.");
+        return testingData;
+    }
 
-
-
+    private static void evaluateTestingDataOnClassifier(Instances dataFiltered, Classifier decisionTreeJ48, Instances testingData) throws Exception {
         System.out.println("Wait .. Evaluating testing data on trained classifier.");
 
         Evaluation testEvaluation = new Evaluation(dataFiltered);
@@ -121,7 +132,5 @@ public class TrainTestClassifier {
         System.out.println(testEvaluation.toSummaryString("\nResults\n======\n", false));
 
         System.out.println("Exit .. All processing done.");
-
-
     }
 }
