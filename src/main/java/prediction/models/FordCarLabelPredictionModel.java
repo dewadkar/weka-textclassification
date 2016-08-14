@@ -22,7 +22,7 @@ public class FordCarLabelPredictionModel extends PredictionModel {
     public static void main(String[] args) {
         PredictionModel predictionModel = new FordCarLabelPredictionModel();
         try {
-            Instances trainingData = predictionModel.trainedDataNominal();
+            Instances trainingData = predictionModel.labelTrainedData();
             int numAttributes= 45;
             Instances attributeSelectedByChiSquare = predictionModel.chisquareAttributeSelection(trainingData, numAttributes);
             Instances attributeSelectedByInfoGain = predictionModel.infoGainAttributeSelection(trainingData, numAttributes);

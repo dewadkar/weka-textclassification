@@ -274,7 +274,7 @@ public class PredictionModel {
         return trainingData;
     }
 
-    public Instances trainedDataNominal() throws Exception {
+    public Instances labelTrainedData() throws Exception {
         NumericToNominal convert= new NumericToNominal();
         String[] options= new String[2];
         options[0]="-R";
@@ -296,5 +296,13 @@ public class PredictionModel {
         Evaluation testEvaluation = new Evaluation(trainedData());
         testEvaluation.evaluateModel(classifierModel, testingData());
        return testEvaluation;
+    }
+
+    public Instances productTrainedData() {
+        return null;
+    }
+
+    public Evaluation testingClassifierForProductData(Classifier classifierModel) {
+        return null;
     }
 }
