@@ -1,21 +1,27 @@
 package training;
 
+import org.apache.commons.io.FileUtils;
 import preprocessing.DataSet;
-import weka.attributeSelection.ASEvaluation;
-import weka.attributeSelection.CfsSubsetEval;
-import weka.attributeSelection.GreedyStepwise;
+import weka.attributeSelection.*;
 import weka.classifiers.Classifier;
 import weka.classifiers.Evaluation;
 import weka.classifiers.meta.AttributeSelectedClassifier;
+import weka.classifiers.misc.SerializedClassifier;
 import weka.classifiers.trees.J48;
 import weka.core.Debug;
 import weka.core.Instances;
+import weka.core.converters.ArffLoader;
 import weka.core.converters.TextDirectoryLoader;
 import weka.core.stemmers.SnowballStemmer;
 import weka.filters.Filter;
+import weka.filters.supervised.attribute.AttributeSelection;
+
+import weka.filters.unsupervised.attribute.NumericToNominal;
 import weka.filters.unsupervised.attribute.StringToWordVector;
 
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileReader;
 import java.io.IOException;
 
 /**
@@ -43,27 +49,85 @@ public class PredictionModel {
 
         System.out.println("Wait ..  loading training dataset");
         Instances trainingDataSet = predictionModel.loadDirDataSetToWekaFormat(DATA_SET_TRAIN_FILES);
+
         System.out.println("Done ..  loaded dataset");
 
         System.out.println("Wait ..  converting data set to word vectors.");
         Filter stringToWordVectorFilter = predictionModel.filterStringToWordVectorType(trainingDataSet);
         Instances filteredTrainingDataSet = Filter.useFilter(trainingDataSet, stringToWordVectorFilter);
         System.out.println("Done ..  word vector file like arff file of weka created.");
+//        predictionModel.attributeScoring(filteredTrainingDataSet,"resources/scoring");
+        AttributeSelection attributeSelectionFilter = predictionModel.createFilter(300);
+        attributeSelectionFilter.setInputFormat(filteredTrainingDataSet);
+        Instances newData = Filter.useFilter(filteredTrainingDataSet, attributeSelectionFilter);
 
-        Classifier decisionTreeJ48 =predictionModel.getClassifier(filteredTrainingDataSet);
+        for (int i = 0; i < newData.numAttributes(); i++) {
+            System.out.print(newData.attribute(i).name() + " ");
+        }
+
+//        ArffSaver saver = new ArffSaver();
+//        saver.setInstances(filteredTrainingDataSet);
+//        saver.setFile(new File("resources/train.arff"));
+//        saver.writeBatch();
+       /* Classifier decisionTreeJ48 =predictionModel.getClassifier(filteredTrainingDataSet);
 
         System.out.println("Wait .. Evaluating Cross - Fold trained classifier.");
         predictionModel.evaluateCrossFoldModel(filteredTrainingDataSet, decisionTreeJ48);
 
         System.out.println("Wait .. Evaluating classifier for trained data.");
         predictionModel.evaluateTestingDataSetGivenTrainingDataSet(stringToWordVectorFilter, filteredTrainingDataSet, decisionTreeJ48);
-
+*/
 
     }
 
+    public AttributeSelection createFilter(int numAtts) {
+
+        AttributeSelection filter = new AttributeSelection();
+        try {
+
+            Ranker search = new Ranker();
+            search.setNumToSelect(numAtts);
+
+            GainRatioAttributeEval eval = new GainRatioAttributeEval();
+            //InfoGainAttributeEval eval = new InfoGainAttributeEval();
+            //ReliefFAttributeEval eval = new ReliefFAttributeEval();
+            filter.setEvaluator(eval);
+            filter.setSearch(search);
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        return filter;
+    }
+
+
+    public void attributeScoring(Instances tr, String filePath) {
+        try {
+            FileUtils fileUtils = new FileUtils();
+            File file = new File(filePath);
+            double e1, e2, e3;
+            AttributeEvaluator as = new InfoGainAttributeEval();
+            AttributeEvaluator as2 = new GainRatioAttributeEval();
+            AttributeEvaluator as3 = new ChiSquaredAttributeEval();
+            fileUtils.writeStringToFile(file, "INDEX,NAME,IG,IGR,CHI");
+            for (int i = 0; i < tr.numAttributes(); i++) {
+                e1 = as.evaluateAttribute(i);
+                e2 = as2.evaluateAttribute(i);
+                e3 = as3.evaluateAttribute(i);
+
+                fileUtils.writeStringToFile(file, i + "," + tr.attribute(i).name() + "," + e1 + "," + e2 + "," + e3);
+                System.out.println(i + "," + tr.attribute(i).toString() + e1 + "," + e2 + "," + e3);
+            }
+        } catch (Exception e) {
+            System.out.println("Exception thrown in attributeScoring = " + e.toString());
+        }
+    }
+
+
     private Classifier getClassifier(Instances filteredTrainingDataSet) throws Exception {
         System.out.println("Wait ..  processing attribute selection");
-        ASEvaluation attributeFilter = new CfsSubsetEval();
+        ASEvaluation attributeFilter = new ChiSquaredAttributeEval();
         System.out.println("Done ..  Selected attributes and created training data set.");
         Classifier decisionTree = new J48();
         return buildClassifier(filteredTrainingDataSet, attributeFilter, decisionTree);
@@ -74,6 +138,7 @@ public class PredictionModel {
         attributeSearchModelForRanking.setSearchBackwards(true);
         return attributeSearchModelForRanking;
     }
+
 
     private Classifier buildClassifier(Instances trainingData, ASEvaluation asEvaluation, Classifier classifier) throws Exception {
         System.out.println("Wait ..  Building classifier");
@@ -92,6 +157,7 @@ public class PredictionModel {
     private void evaluateTestingDataSetGivenTrainingDataSet(Filter filter, Instances dataFiltered, Classifier decisionTreeJ48) throws Exception {
         Instances testRawData = loadDirDataSetToWekaFormat(DATA_SET_TEST_FILES);
         Instances testingData = filteredData(filter, testRawData);
+        Debug.saveToFile("resources/testing.arff", testingData);
         evaluateTestingDataOnClassifier(dataFiltered, decisionTreeJ48, testingData);
     }
 
@@ -137,5 +203,98 @@ public class PredictionModel {
 
     public String predict(String testDataDirPath) {
         return null;
+    }
+
+    public Instances trainedData() throws IOException {
+        BufferedReader reader = new BufferedReader(new FileReader("resources/train.arff"));
+        ArffLoader.ArffReader arff = new ArffLoader.ArffReader(reader);
+        return arff.getData();
+    }
+
+    public Instances testingData() throws IOException {
+        BufferedReader reader = new BufferedReader(new FileReader("resources/test.arff"));
+        ArffLoader.ArffReader arff = new ArffLoader.ArffReader(reader);
+        return arff.getData();
+    }
+
+    public Instances gainRatioAttributeSelection(Instances trainingData, int numAtts) {
+
+        AttributeSelection filter = new AttributeSelection();
+        try {
+            Ranker search = new Ranker();
+            search.setNumToSelect(numAtts);
+            GainRatioAttributeEval eval = new GainRatioAttributeEval();
+            filter.setEvaluator(eval);
+            filter.setSearch(search);
+            filter.setInputFormat(trainingData);
+            return Filter.useFilter(trainingData, filter);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return trainingData;
+    }
+
+    public Instances infoGainAttributeSelection(Instances trainingData, int numAtts) {
+
+
+        AttributeSelection filter = new AttributeSelection();
+        try {
+
+            Ranker search = new Ranker();
+            search.setNumToSelect(numAtts);
+
+            InfoGainAttributeEval eval = new InfoGainAttributeEval();
+            filter.setEvaluator(eval);
+            filter.setSearch(search);
+            filter.setInputFormat(trainingData);
+            return Filter.useFilter(trainingData, filter);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return trainingData;
+    }
+
+    public Instances chisquareAttributeSelection(Instances trainingData, int numAtts) {
+
+        AttributeSelection filter = new AttributeSelection();
+        try {
+
+            Ranker search = new Ranker();
+            search.setNumToSelect(numAtts);
+
+            ChiSquaredAttributeEval eval = new ChiSquaredAttributeEval();
+            filter.setEvaluator(eval);
+            filter.setSearch(search);
+            filter.setInputFormat(trainingData);
+            return Filter.useFilter(trainingData, filter);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        return trainingData;
+    }
+
+    public Instances trainedDataNominal() throws Exception {
+        NumericToNominal convert= new NumericToNominal();
+        String[] options= new String[2];
+        options[0]="-R";
+        options[1]="first-last";  //range of variables to make numeric
+
+        convert.setOptions(options);
+        convert.setInputFormat(trainedData());
+        return Filter.useFilter(trainedData(), convert);
+    }
+
+    public Classifier buildClassifier(Instances instance, Classifier classifier) throws Exception {
+        classifier.buildClassifier(instance);
+        System.out.println("\n\nClassifier model:\n\n" + classifier);
+        System.out.println("Done ..  Trained classifier");
+        return classifier;
+    }
+
+    public Evaluation testingClassifierForLabelData(Classifier classifierModel) throws Exception {
+        Evaluation testEvaluation = new Evaluation(trainedData());
+        testEvaluation.evaluateModel(classifierModel, testingData());
+       return testEvaluation;
     }
 }

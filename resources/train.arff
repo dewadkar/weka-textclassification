@@ -742,9 +742,9 @@
 @attribute reader numeric
 @attribute reading numeric
 @attribute ready numeric
-@attribute real numeric
-@attribute realize numeric
-@attribute realized numeric
+@attribute numeric numeric
+@attribute numericize numeric
+@attribute numericized numeric
 @attribute rear numeric
 @attribute reason numeric
 @attribute reasonable numeric
