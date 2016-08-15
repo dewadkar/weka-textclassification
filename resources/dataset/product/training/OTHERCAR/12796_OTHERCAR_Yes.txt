@@ -1,0 +1,41 @@
+DOC>
+<DOCID> 12796 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_CanonPowerShott-Canon_PowerShot_S20 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-321A-14CF3A25-3A31CA1C-prod4 </URL>
+<TEXT>
+            Last month I tested a few digital cameras. One of them was Canon PowerShort S20. This are my remarks about this camera.
+
+The camera uses 1/1.8&quot; CCD matrix with resolution 3.34 megapixels 3.14 effective megapixels). Maximum picture size is 2048 x 1536 pixels. There are 4 resolution settings: from 640 x 480 pixels per inch (4&quot; x 6&quot;) to
+2048 x 1536 pixels per inch (10&quot; x 12&quot;). Therefore memory requirements for each resolution are different: from 300-400 Kb (640 x 480) to from 1.5-1.8 Mb (2048 x 1536).
+
+The camera has very compact design (105,4 � 69,4 � 33,8 mm) and weights
+about 270 g (without battery). Gold color is fine.
+
+Standart kit includes:
+- the camera,
+- 2CR5 Lithium battery and CR 2016 (for saving date and time),
+- cables: TV-out, serial, USB,
+- software: TWAIN driver, Canon PhotoStitch 3.1, Zoom Browser EX 2.2
+- CompactFlash card 16 Mb type I/II,
+- manuals.
+
+It's very lightweight and compact (easily fits in pocket). Usually cameras are plastic, this is metal. In spite of resolution (2048 X 1536 max), it's not professional camera. This is a camera for the amateur with a few additional features.
+
+The camera has a lot of features. The shutter button and the mode select wheel are placed on the top. Controls for zooming, flash controls, menu, Macro, timer and LCD (1,8� - 1140000 pixels) are placed on the back. The zoom, menus and navigation are all intuitive. The menu is viewed on viewfinder screen. It's easy to use.
+
+Automatic mode is great. You must point and shoot, and nothing more. 1600 X 1200 with medium compression - it's enough for amateur. But in manual mode you can choose all: resolution, level of compression and other. In special mode you may use the camera for low light conditions, black/white and fast moving objects.
+
+It has 2:1 optical zoom and 2:1 or 4:1 digital zoom. Optical zoom is very good. But I don't advice work with digital zoom. Results are mediocre.
+
+Included software to allow you to manipulate with yours photos on computer very comfortable.
+
+I think this camera is required the next improvements:
+- add a rechargable battery
+- increase optical zoom
+- add IBM 340 Mb Microdrive.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

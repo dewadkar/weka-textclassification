@@ -1,0 +1,190 @@
+DOC>
+<DOCID> 18946 </DOCID>
+<PRODUCT> Digital_Cameras/Nikon_D100_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_72201965188 </URL>
+<TEXT>
+            Nikon introduced the first serious professional digital SLR camera, the D1, in early 1999. The D1 was the first reasonably priced digital SLR, and prior to its introduction professional caliber Digital cameras often cost more than a new car.  The D1wasn�t cheap, at almost six grand, but it was considerably cheaper than its competition.  It was a risky business move for Nikon because digital photography had narrow professional applications and there was very limited demand for serious digital cameras. The D1 combined all the professional attributes of the Nikon F5 with digital imaging capability and quickly became the digital darling of photojournalists and working pros. Nikon�s second generation  �D� cameras offered much greater processing speed (with the D1H) and much higher image resolution (with the D1X.) for professional photographers who wanted to exploit the immediacy and convenience of digital photography
+
+Nikon�s third generation digital SLR, the new D100, covers the middle ground between upscale point and shoot digi-cams like the Nikon CP5700, the Canon G2, and the Sony DSC-F707 and more expensive professional digital SLR�s like the Nikon D1X or the Canon EOS 1D. Entry level digital SLR�s are a new segment of the digital camera market created to provide serious amateurs and budget conscious professionals with affordable entry into the massive system of 35mm lenses and accessories available from Nikon and Canon..
+
+Anyone who is familiar with Nikon�s current model inventory will immediately recognize the family resemblance between the new D100 and Nikon�s popular entry level N80 SLR.  Basically, Nikon�s engineers managed to shoehorn many of the digital components of the larger D1X into a compact body based on the N80 to create a camera that incorporates some of the best features of both models.  The N80 was an almost perfect choice because of it�s compact size, light-weight, and a proven performance. The D1-D1X digital components were also performance proven by the most demanding consumers on the planet, professional photographers.  By adding cutting edge technology and components already in inventory, Nikon�s research and development costs were drastically reduced.  These R&D savings are passed on to Nikon�s customers in the form of lower prices. The concept isn�t new, Carrol Shelby and Ford Motor Company used the same thinking in the early sixties to create a brand new sports car.  The Shelby Cobra was assembled from a staid under-powered English roadster (the AC) and Ford�s proven small block 260-289 ci V8. Shelby added some improvements in braking, steering, and suspension and Ford was able to market an aggressive new sports car that could compete toe to toe with Ferrari, and at less than half the cost
+
+<b>Lens Compatibility and the 1.5X effect</b>
+
+The D 100 works best with D & G series AF Nikkors (all functions).  Here�s a short list of basic function restrictions with other Nikon lenses, �D�--manual-focus Nikkors (all functions--except autofocus), non-D AF Nikkors (all functions except 3D Matrix Metering), AI-P Nikkors   (all functions except 3D Matrix Metering & autofocus). Non-CPU Nikkors can be used in Manual mode but the D 100�s exposure metering won�t function.  Older �metering prong� (pre AI) Nikkors and IX (APS) Nikkors cannot be used. 
+
+The D100�s CCD is smaller than a 35mm film frame (1�X1.5�) which means that lens focal lengths are effectively multiplied by 1.5X.  An 80-200mm zoom will become a 120�300mm zoom and the Nikkor 24-85 zoom will become a 36�128mm zoom when mounted on the D100.  The 1.5X multiplier is great if you need telephoto reach, but seriously compromises wide-angle options. 
+
+
+ 
+<b>Viewfinder/LCD</b> 
+
+<b>Viewfinder</b>
+
+The D100 features a high eyepoint TTL optical viewfinder with diopter adjustment for eyeglass wearers. The viewfinder provides an illuminated display with focus area indicators, shutter speed, aperture, exposure mode, metering, and flash compensation information.  The viewfinder also features an on demand architectural grid and a circular outline to indicate the Center-Weighted metering area. 
+
+<b>LCD</b>
+
+First time digital SLR users may be surprised to discover that the D100�s LCD is not an EVF* (electronic viewfinder) like the LCD�s on point and shoot digital cameras.  The LCD screen on the D100 can�t be used as a viewfinder. It provides lots of information about images after exposure including a histogram display (which provides a dynamic range readout graph) and a highlights display (which "blinks" highlights that are over-exposed). 
+
+*Digital SLR's don't provide a live preview image like consumer digital cameras because of the reflex mirror, mechanical shutter and sensor design (the sensor can't be used to provide a video feed). The LCD is used for image review (post exposure) and for navigating menus.  . 
+
+ <b>Metering</b>
+
+Nikon�s famous 3D Matrix metering, plus Center-Weighted, and Spot metering.  Metering is very accurate in all three modes.
+
+<b>Auto Focus</b>
+
+Auto focus is quick and accurate but appears to be based on the N80�s AF system rather than the more robust and faster D1X system.
+
+<b>Flash</b>
+
+The D 100 has a built-in �pop-up� speedlight with settings for Front-Curtain Sync, Red-Eye Reduction, Red-Eye Reduction with Slow Sync, Slow Sync, or Rear-Curtain Sync.  Users can adjust flash output from -3 to +1 EV (in one-third-step increments) for precise lighting control.  Flash exposure is managed by Nikon's 3D matrix metering system (with CPU Nikkors) which compares distance information (from the AF system) with light reflected back to the flash sensor from the subject, to control flash output.  This system allows users to automatically achieve a pleasing and realistic balance between flash and ambient light for more appealing images. 
+
+The D 100 features a standard hot shoe for external flash, but provides full flash function only with Nikon DX speedlights.  
+
+<b>Design, Controls, & Ergonomics</b> 
+
+The D 100 is a well-designed digital SLR.  The compact Polycarbonate body is light-weight, tough enough for real world use, with good dust and moisture seals.  The D 100 will hold up well in everyday photographic situations but the camera was not designed for the sort of sustained heavy-duty abuse of combat photography or shooting images in harsh and unforgiving environments.  Wedding photographers, part time pros, and photographic artists will love the D 100.
+
+Controls are logically placed and fall easily to hand.  The D 100�s menus (once you get used to them) are straightforward and navigation is simple and consistent.  The D100 is very well balanced (especially with a fast prime like the Nikkor 85/1.4 or a �street� type zoom like the Nikkor 24-85) but with heavier lenses like the Nikkor 80-200/f2.8 zoom the optional battery grip will provide better balance, a vertical shutter release, and enhanced battery life.
+
+<b>Timing/Shutter Lag</b>
+
+In operation the D 100 is very fast, especially when compared to prosumer digi-cams, close to the speed of the D1X.  Shutter lag is minimal, but not as fast as the D1X (Nikon claims 72Ms for the D1X and just under 100 Ms for the D100).  The D100�s shot to shot speed is very good (the buffer is large enough to hold 7-9 consecutive images) cycle time (start up/shut down) is almost instantaneous.  
+
+<b>Power</b>
+
+The D 100 uses Nikon�s new EN-EL3 Lithium-Ion battery (included) which is good for several hours of heavy sustained use.  We were never able to drain the battery completely.   The MH-18 charger (included) will fully recharge the EN-EL3 battery in about two hours.  Rather than buy a back�up battery, purchasers should consider Nikon�s MB-D100 Multi-Function battery pack, which provides a heavy duty grip and a vertical shutter release, uses standard AA cells, and is equipped with a microphone for recording sound.
+ 
+<b>Technical Specifications</b> 
+
+Resolution: 6.31 Megapixels (effective resolution--3008 x 2000---RAW images 3034 x 2024)
+Viewfinder: Optical TTL Pentaprism 
+LCD: 1.8� TFT with LED backlighting
+Lens Mount: Nikon F mount----Compatible with virtually all Nikon lenses AF & MF (with some restrictions)
+Exposure Compensation: yes +2/-2 EV in 1/3 EV steps 
+Exposure Modes: Auto-Multi Program (Flexible Program can be enabled),  Shutter-Priority, Aperture-Priority, Manual ( shutter speed/aperture values adjustable in 1/2 or 1/3 EV steps)
+Metering: 3D Matrix Metering, Center-Weighted Averaging, &  Spot
+White Balance: automatic, sunny, cloudy, incandescent, fluorescent, and speedlight 
+Shutter Speeds: 30 seconds to 1/4000th of a second in 1/3 EV steps 
+Flash: Built-in pop-up and dedicated Nikon Hot Shoe for use with all Nikon DX Speedlights
+Flash Synch: 1/180th of a second (max)
+White Balance: Auto, Incandescent, Fluorescent, Sunlight, Flash, Cloudy, Shade, & Preset 
+White Balance Bracketing: Yes (the D100 shoots three exposures, one normal, one with warm bias, and one with cool bias)
+Auto Bracketing: Yes (in 1/3 EV steps)
+Auto Focus: Dynamic AF (Closest Subject Priority can be enabled) five area AF
+AF Illumination lamp: Yes
+Contrast Adjustment: Auto,  Normal, Less contrast, More contrast, & Custom
+Hue Adjustment: Yes +3/-3 increments from standard
+Storage Media: CompactFlash (types I&II) officially supports the use of IBM MicroDrives. 
+Image Capture: jpeg or RAW 
+Connectivity: USB (1.1)
+Sensitivity: Auto (200 - 1600) 200, 250, 320, 400, 500, 640, 800, 1000, 1250, 1600, Hi-1 (ISO 3200), Hi-2 (ISO 6400) 35mm equivalents
+Power: Lithium-Ion battery pack EN-EL3 (7.4V, 1400 mAh)
+Battery Life: Nikon claims in excess of 1500 exposures
+
+MSRP-$2499.00---------Street Price $2000.00  
+
+<b>Included</b>
+
+Strap, Body cap, Eyepiece cap, LCD monitor cover, Video cable, USB cable, Rechargeable Li-ion battery EN-EL3, Quick Charger MH-18, Nikon View 5 CD-ROM 
+
+<b>Optional</b> 
+
+AC Adapter EH-5, Multi-function battery pack MB-D100, Charger MH-19, Nikon Speedlights SB-80DX/SB-28DX/SB-50DX, Case CF-D100, and Nikon Capture 3 
+
+<b>In the Field/Handling & Operation</b> 
+
+I have a very old friend who sells new and used photographic gear (both digital and analog) and I often get together with him to go out and play with cameras and lenses.  Mid way through July he called me and told me that he was getting one of Nikon�s new D 100 digital SLR�s and he asked me to go along and help him evaluate the camera.  He called again the following Friday and asked me to meet him for coffee and then we drove to Iroquois Park and the Olmsted hilltop prairie. Iroquois Park covers a large heavily forested hill that rises more than 800 feet above the surrounding suburbs. Once you are inside the park, it is quite easy to believe that you are "out in the country" rather than completely surrounded by a large metropolitan area. The park was designed by famous nineteenth century landscape architect Frederic Law Olmsted. There is a small prairie area and several diminutive marshy areas near the top of the hill.  The lighting was beautiful for doing close-up work (slightly overcast but not gloomy) and we decided to invest the afternoon in shooting landscapes and macro. 
+
+This quiet and serene hilltop refuge, seemingly far away from the busy city below was an excellent choice for a photo shoot location.  The prairie area was filled with an almost riotous profusion of wildflowers and I�ve never seen it prettier. The little prairie is a photographer�s dream, especially in the summer when the area sports dozens of varieties of colorful seasonal wildflowers, the perfect place to check out a new camera. My friend and I stayed until dusk on Saturday afternoon shooting groupings of wildflowers and some wildflower close-ups with a 105/f2.8 Micro-Nikkor  (the D100�s 1.5X magnification factor is really neat with macro optics like the 105/f2.8 which becomes a 160mm macro lens).  We tried out the D 100 on some general landscape type shots with a Nikkor 24-120 zoom (here�s where the 1.5X magnification factor really sucks because the 24-120 zoom becomes a 36-180 zoom----basically negating the wide angle value of the lens) Landscape and Close-up shots all worked very well and the D 100�s digital output compared favorably with Ektachrome 100 slides we shot at the Olmsted Prairie with a Nikon N55 SLR a few weeks back.  Later, we ran a couple of 8X10�s on the Epson Stylus Photo 785 EPX printer and they compared very well with Kodak ISO 100 color print film enlargements in terms of resolution and color. 
+
+The following Saturday afternoon we got together to attend the Kentucky Music Weekend, also at Iroquois Park in Louisville�s south end.  This summer is the 27th straight year for the KMW, which started as a very small bicentennial event in 1976.  I attended my first KMW in 1978 or 79 and saw an absolutely astounding group called Trapezoid.  Trapezoid had a completely new sound that combined bluegrass, celtic, folk, and traditional country music with hammered dulcimers handling the lead chores, rather than the usual guitars, fiddles, or banjo�s.  I made a point of meeting the hammered dulcimer player, a West Virginia wildman named Sam Rizzetta that evening and I�ve been a fan ever since. I bought Trapezoids �The Three Forks of the Cheat� album the following day and still listen to it.  Trapezoid broke up sometime in the early 80�s while I was living in Texas.  Several of the former band members were re-uniting for the KMW and I wanted to hear them play again.  Sam is generally regarded as one of the finest hammered dulcimer players in the world.  
+
+The KMW has always been held at the Iroquois Amphitheater (constructed in 1938 by the WPA--Works Progress Administration), but for the past couple of years a reconstruction project has moved the festival to a near-by hillside. This years festival featured an emphasis on the nineteen sixties and the folk music revolution that inspired many of the KMW�s most popular performers.  The Kentucky Music Weekend is always an enthusiastic convergence of musical styles, high spirits, and down home fun.  Visitors are sure to hear celtic, bluegrass, gospel, and folk music.  Performers this year (in addition to the sort of re-united Trapezoid) included Tom Chapin (Harry�s little brother) the Cantrell�s, John Gage, Ten Penny Bit, Golden Bough, and Soulgrass.  All the performers did a great job and it was really a lot of fun wandering around snapping pictures of the festivities with the D 100.  
+
+<b>A Few Concerns</b> 
+
+JPEG images seem a bit soft (the D100 needs a dedicated image sharpening mode) which should be a relatively simple fix for Nikon.  No PC Sync flash socket and while the D100 supports the latest in Nikon TTL flash units ( SB-28DX-SB-50DX--SB-80DX), other flash units must be used without TTL camera support.  The D100�s LCD does not have the excellent anti-reflective coating of its bigger brother's (D1, D1H, D1x) 
+
+<b>Conclusion</b> 
+
+For almost two years there were only two entry level digital SLR�s available, suddenly there are four (six if you include the two earlier models) and prices are falling.  Competition will open serious professional level digital photography to a whole new generation of photographers.  Four years ago the average digital SLR   cost between $15,000 and $20,000.  Today consumers can buy a six megapixel digital camera for less than two thousand dollars, and by Christmas that six megapixel digital SLR will cost less than $1800.00.  
+
+<b>Competition</b>
+
+The D100�s most obvious competitor is the Canon EOS D60, a second generation digital SLR that is strikingly similar in size, features, and cost. The second generation Fuji Finepix S2 Pro (also based on the Nikon N80 body) and the Sigma SD9 D (digital) SLR will provide digital SLR shoppers with lots of options. My friend got to spend a couple day recently (on a trip to NY) checking out Canon�s new D 60 digital SLR.  He liked the D60 a little better than he liked the D100.  I haven�t had a chance to try the D60 yet but if it is better than the D100, it is very good indeed.  The two cameras are very similar in terms of features, but the Nikon�s battery life is (according to my friend) about 30 per cent better and the D 60�s street price is about $200.00-$300.00 higher than the D 100�s.  So if you�re invested in a Nikon system with lenses, bodies, and accessories----go with the D100.  If you�re invested in the EOS system then go with the D60.  However if you are starting from scratch you may want to check out both cameras very carefully before you invest two grand.
+
+<b>A Final Word----The Future</b>
+
+Look for Nikon to introduce a new professional digital SLR sometime within the next year.  The new camera will have the Nikon D family�s exceptional build quality, the D1H�s blazing speed, the D1X�s superb usability, a new 35mm negative sized sensor, and 7 or 8 megapixel resolution, a quantum leap forward in professional digital SLR development. 
+
+Are you considering spreading your imaging wings and setting up a home digital darkroom? Check out my reviews of a bargain priced and very capable photo quality ink-jet printer that may be just what you are seeking to handle image output chores. 
+
+<b>Epson Stylus Photo 785 EPX</b> ink-jet printer 
+<a href='/content_60776812164'>http://www.epinions.com/content_60776812164</a> 
+ 
+For definitive advice on <b>How to Choose a Digital Camera</b> please see my review: 
+<a href='/elec-review-2E46-17B174E2-39A418E3-prod1'>http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+For more information about selected Digital Camera models, you may find this list below informative: 
+
+<b>Nikon Digital Cameras</b> 
+
+Nikon Coolpix 5700
+<a href='/content_70131814020'>http://www.epinions.com/content_70131814020</a>
+
+Nikon Coolpix 4500
+<a href='/content_69311368836'>http://www.epinions.com/content_69311368836</a>
+
+Nikon Coolpix 2500 
+<a href='/content_65176440452'>http://www.epinions.com/content_65176440452</a> 
+
+Nikon Coolpix 5000 
+<a href='/content_52720406148'>http://www.epinions.com/content_52720406148</a> 
+
+ Nikon D1X 
+<a href='/content_36023996036'>http://www.epinions.com/content_36023996036</a> 
+
+ <b>Canon Digital Cameras</b> 
+
+Canon Powershot A40
+<a href='/content_65832652420'>http://www.epinions.com/content_65832652420</a>
+ 
+Canon Powershot S40 
+<a href='/content_59617087108'>http://www.epinions.com/content_59617087108</a> 
+
+Canon Powershot S30 
+<a href='/content_59041746564'>http://www.epinions.com/content_59041746564</a> 
+ 
+Canon Powershot G2 
+<a href='/content_47646084740'>http://www.epinions.com/content_47646084740</a> 
+
+<b>Sony Digital Cameras</b>
+
+Sony DSC-F707 
+<a href='/content_60512439940'>http://www.epinions.com/content_60512439940</a> 
+
+
+Just �cut�n�paste� the URL into your browser�s address window. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

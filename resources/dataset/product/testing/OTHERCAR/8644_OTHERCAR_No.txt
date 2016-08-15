@@ -1,0 +1,89 @@
+DOC>
+<DOCID> 8644 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Vivitar_Vivicam_3825_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_95617584772 </URL>
+<TEXT>
+            I have to say that I&#146ve had fun with this camera.  There&#146s not a lot of pressure about adjusting white balance and aperture and so on.  You can mess with those things on this camera if you want, but the 3825 isn&#146t really designed with the technical photography enthusiast in mind.  It&#146s for those folks who want easy, good-quality digital images.   And with that end in mind, the Vivicam 3825 succeeds admirably.  Vivitar portrays itself as the &#147point-and-shoot people.&#148  That&#146s basically the size of it.  The Vivitar Vivicam 3825 is, in my opinion, essentially a point-and-shoot 4 MP camera, which has some nice manual options and extra features typical of mid-range cameras.
+
+<b>Physical Appearance and Layout</b>
+
+The Vivitar Vivicam 3825 is about average in size, though definitely larger than the 4MP Canon cameras.  I was impressed with the ergonomic mechanism to open the lens cover&#151very nice touch.  Overall, the layout of the various controls are relatively intuitive.  What I liked was that it wasn&#146t necessary for me to pull out the manual to try to figure out the basic controls&#151the buttons are where I would have put them had I designed it.  The flash is centered on the body, and both the optical viewfinder and the lens are lined up on the left side of the camera&#146s body.  
+
+All of the controls are laid out in such a way that anyone with large hands (I&#146m 6&#1461;&#148) shouldn&#146t have any problems using them.  The 3825 is just a little too large to be a pocket camera, but it&#146s zoom doesn&#146t really warrant considering it any kind of prosumer camera: it just sort of falls in between the cracks.  On the bright side though, Vivitar does provide a svelte pseudo-suede carrying case for it, which I liked very much.
+
+<b>Performance</b>
+
+Let&#146s come right to the heart of the matter.  Now, I&#146m not a photography pro by any means (see <a href="/user-howard_creech">http://www.epinions.com/user-howard_creech</a>, Howard Creech&#146s photography reviews for that), but I have had a good amount of experience with both SLR 35 mm and basic and more serious digital cameras.  As such, I had fun with the 3825, but I was occasionally frustrated by its performance and, in general, I did not come away impressed.  In good and average lighting conditions, the Vivicam 3825 performed well.  I was pleased with the photo outcomes in all four settings (see Specs for settings).  In lower light conditions, when the flash wasn't usable, I also encountered some washout at all four settings.
+
+When using the Fine setting, I noticed some graininess that I would not normally associate with a 4 MP camera.  I also encountered some parallax distortion when using the optical viewfinder.  This wasn&#146t noticeable at all on landscape shots, but on portraits, it was awful.  Most people, I suppose, prefer to use the LCD, but in high sunlight it just isn&#146t practical, and it&#146s nice to be able to save the batteries from the energy-devouring display.  Be forewarned about the 3825&#146s optical viewfinder: use it at your own risk.
+
+Once I noticed the parallax problem, I was surprised to note that none of the pictures I had taken&#151some in snow, indoors, fluorescent lighting, sunlight, cloudy conditions, and nighttime&#151had any chromatic aberrations!  Alright!  I can&#146t compare the CCD to other manufacturer&#146s, but I found this achievement to be spectacularly impressive, in light of my opinion of the Vivicam thus far.
+
+I didn&#146t have much luck with the burst mode.  The 3825 has about a 1.5-2 second delay between pictures, so in a ten second burst, I got five pictures with the camera set to the VGA setting (the lowest setting).
+
+<b>Some more about the Features</b>
+
+The 3825 does allow the photographer some manual control over shots, as well as giving some automatic options.  For focusing, Autofocus, Macro, and Infinity functions are controlled by an independent button, making quick switches easy.  The camera automatically focuses on the object in the center of the field of vision, but by using the zoom, the user can focus on objects to either side.  The white balance is also automatic, but can be changed either for the conditions (daylight, incandescent, or fluorescent) or in .25 increments from &#1501;.5 to  1.5 at the whim of the photographer.  However, changing this setting necessitates bringing up the menu, making quick adjustments more difficult. 
+
+The menu also controls the single/burst mode, the ISO setting , the quality setting, and the photometry.  The LCD monitor displays, when the camera is in capture mode, everything possible about the settings at the time, and everything can be changed by either utilizing the menu button or simply using the scene, mode, flash, or timer buttons.  There is also a display button that turns the display on and off or turns on and off the displayed functions.
+
+No video. (and of course, no audio)
+
+The flash is good for up to about 10 feet; I didn&#146t have much luck with it at less than five feet either.  It does have red-eye reduction, but do everyone a favor and use software to get rid of red-eye.  Using the flash button, one can select whether to set the flash on auto, always on, or always off.  When using the landscape scene mode, the flash turns itself off.  The flash did a decent job of adjusting to mixed light settings.
+
+The Vivicam 3825 can be hooked up to the computer using the included USB 1.1 cable, but as this is a real battery consumer, and no AC adapter is included (it is an optional accessory though), I used a card reader to download pictures from the included 16 MB SD card.
+
+I did like the LCD.  It&#146s just a hair over 1 �&#148, and surprisingly, it didn&#146t seem to drain the batteries too terribly much.  Speaking of batteries, the 3825 takes a 3V lithium or two AA batteries.  I shot over 100 pictures without having to change batteries.
+
+<b>Included Items</b>
+
+-Vivitar Vivicam 3825
+-USB cable (mine was unfortunately not included by mistake and had to be sent from Vivitar)
+-Video cable
+-Software CD-Rom (comes with MGI Photosuite and Photovista)
+-User Manual 
+-Wrist strap
+-Camera Pouch
+-16 MB SD Card
+
+<i>Specifications
+
+Image Sensor: 4.0 Megapixels (1 1/8&#148 CCD Sensor)
+Image Quality: 2272 x 1704 pixels (Fine)
+  1600 x 960 pixels (Basic)
+  640 x 480 pixels (Economy)
+File Format: Still & Burst Files: Exif 2.2 (JPEG Compression)
+File System: DCF
+Print File System: DPOF
+Lens: 2.8x zoom lens F2.9-F4.8
+Focal Length: f=7.25mm-20.3mm (equivalent to 24mm-97mm on a 35mm camera)
+Focal Range: Standard: 70 cm &#150 infinity
+  Macro: 10 cm &#150 70 cm (wide)
+    25 cm &#150 70 cm (tele)
+Digital Zoom: Capture Mode: 2x
+  Playback Mode: 2x, 3x, 4x
+Viewfinder Type:  Real image viewfinder
+Shutter Speed: 1/1000 &#150 2 seconds
+Exposure Metering: Spot, Center Weighted
+Exposure Control: Auto, AE Range: LV 6 &#150 16
+Exposure Compensation: -1.5 EV to  1.5 EV (in 0.25 EV increments)
+White Balance: Auto/Daylight/Incandenscence/Fluorescence
+Sensitivity: Equivalent to ISO 100/200/400
+Flash: Auto, Fill-in, Flash Off, Red-eye Reduction
+Flash Range: 3.0 M at Wide (Guide #7.5)
+Self-timer: 10 second delay
+LCD monitor: 1.6&#148 color TFT LCD
+Connectors: AC power port (DC in 3.4 V), USB port, Vidoe Output (NTSC/PAL)
+Weight: Approx. 210g (without battery)
+Dimension: 106mm (W) x 40 mm (H) x 63 mm (D)</i>
+
+<b>Final Thoughts</b>
+
+The Vivitar Vivicam 3825 lists for $399 and can be found on the street for $250-300.  If I were looking for another 4 megapixel camera with a 3x optical zoom, I would probably go for something smaller, with video capabilities, like Canon&#146s S400.  That said, the 3825 does seem to fare about average among the 4 megapixel examples, and you could certainly do far worse.  But there are better buys out there.
+
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

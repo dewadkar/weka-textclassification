@@ -1,0 +1,220 @@
+DOC>
+<DOCID> 7263 </DOCID>
+<PRODUCT> Digital_Cameras/Minolta_Dimage_F100_Digital_Camera__Camera_2777_301 </PRODUCT>
+<URL> http://www.epinions.com/content_76963548804 </URL>
+<TEXT>
+            The Minolta Corporation, a serious player in thirty-five millimeter photography for more than fifty years, came late to the digital camera wars and they've been playing catch up ever since.  That is good for consumers since the Mind of Minolta is compelled to try a little harder and offer a little bit more to be competitive.  Minolta's first major venture into the highly competitive digicam marketplace, the Dimage 3000 (an expensive dual sensor digital SLR that used lenses from Minolta&#146s APS film SLR&#146s) was a resounding failure, but the very capable Dimage S404 and the feature rich five megapixel Dimage 7 and three megapixel Dimage 5 have gone a long way toward improving consumer confidence and good will. 
+
+The company's newest offering, the Dimage F100 is a homely but genuinely pocketable four megapixel digital camera with a super feature set.  Minolta&#146s engineers didn&#146t worry about trying to make the F100 look cute, instead they invested their time and effort in stuffing features and capabilities into the small camera body. 
+
+The camera looks and functions as if it had actually been designed by consumers.  The durable metal body is very compact and the lens retracts fully into the body behind a built-in lens cover, both features that consumers love. The F100 uses two AA alkaline or NiMH batteries (consumers love being able to buy batteries almost anywhere when power runs low) or a single CRV3 lithium battery to power the camera.  F100 users can shoot short video clips (with sound) and copy pictures in-camera. 
+
+The F100 makes auto everything point and shoot photography a lead pipe cinch with a newly designed auto focus system that evaluates the scene and locks focus on the subject, even if it's off-center. Activate the Subject Tracking AF function and the camera will track the subject in three dimensions.  To make automatic shooting even easier the nifty Digital Subject Program Selection feature will automatically select either Program AE or one of five preset scene modes to optimize the exposure settings for the type of subject that you're shooting. 
+
+The F100's greatest asset is its incredible flexibility-- under the shiny metal body shell beats the electrical heart of a true dual personality digital camera.  For snapshooters and beginning photographers the F100&#146s Auto mode puts the camera in control of just about everything involved in the exposure process except selecting the subject, and the results are consistently excellent. For more advanced photographers the F100's manual feature set includes full manual mode, aperture-priority, shutter-priority, and a manual focus option. Spot metering, auto-bracketing, manual white balance, uncompressed TIFF images, and sharpening and contrast adjustments add creative user options seldom found on cameras in this class.
+
+<b>Viewfinder/LCD</b> 
+
+The F100's real-image optical viewfinder zooms along with the lens and shows a bit more than eighty per cent of the frame (which is about average for digi-cam optical viewfinders) The viewfinder doesn't provide any diopter adjustment for eyeglasses wearers but the high eyepoint will help people with eyeglasses see the full image area through the eyepiece. I wear glasses, and I had no problem using the optical viewfinder for composition.  Two LED&#146s on the left side of the viewfinder eyepiece indicate operational status.  The top LED glows green when focus is locked and blinks when the AF system is unable to achieve focus.  The bottom LED glows orange when the flash is charged and ready and blinks when the flash is charging.
+ 
+The F100&#146s 1.5-inch LCD is a bit small but the separate status LCD on the F100&#146s top deck lets you check settings without turning on the larger screen, making it easier to use the optical viewfinder (and save battery power). The LCD is clear and the images are crisp and display color is quite good. The LCD screen automatically activates when the camera is powered up. You can use the Display button to disable the information display (press once) or turn off the LCD (press twice).  Press the button three times and the LCD and information display comes back up. You can check the most recently captured image by pressing the Quick View / Erase button in any record mode. The LCD displays (In Playback mode) a histogram so you can double-check/adjust exposure settings.
+
+<b>Lens</b> 
+
+The F100 uses an AF Minolta optical f2.8-f4.7/38-114mm (35mm equivalent) all glass 3X Zoom lens with a telescoping design that extends the lens when the camera is powered up.  When you turn the camera off the lens retracts behind a sliding lens cover.  The F100&#146s 3X zoom is quite sharp from corner to corner with virtually no chromatic aberration (purple fringing) but the lens does exhibit some noticeable barrel distortion at the wide-angle end of the zoom range.
+
+<b>Manual Focus</b>
+
+In Manual focus mode a distance scale appears on the LCD screen to help shooters to focus more precisely.  
+
+<b>Macro Focus</b>
+ 
+The F100's minimum focusing distance in macro mode is seven inches, which doesn't seem very close for flowers, insects, and small e-bay items.  Unlike most digital cameras the F100's 3X Zoom does macro at the telephoto end of the range (most digital cameras use the wide angle end of the range for macro) which results in a larger image and a bit more stand-off distance, which facilitates better flash coverage of macro subjects.  A well designed and very useful macro mode. 
+
+<b>Exposure</b> 
+
+The F100 provides full Auto, Program AE, Aperture Priority, Shutter Priority, and Manual exposure modes. Preset "scene" modes include Portrait, Night Portrait, Landscape, Sunset, Sports Action, and Macro modes. Available aperture settings range from f/2.8 to f/8.0 (depending on zoom setting) and shutter speeds range from 1/1,000th of a second to four seconds (Bulb mode permits exposures for as long as 15 seconds). 
+
+The F100 offers an Exposure Compensation mode that allows shooters to fine tune exposures from -2 to +2 EV, in one-third step increments. There's also an Auto Exposure Bracketing mode, which allows the photographer to capture three separate exposures of the same image at incrementally different settings, a very useful feature when rapidly changing lighting conditions make determining the best exposure setting difficult.
+
+The F100 offers both automatic and manual focus control, users can select any one of the five AF focus points and manually lock focus on that area. A nifty new AF feature (available only on the F100) enables the camera to continually adjust focus, rather than waiting until the Shutter button is pressed.  This feature does lower shutter lag noticeably, but I suspect the increased power consumption may shorten battery life a bit.
+
+The F100&#146s exposure options provide an unusual level of adaptability for serious photographers and the intuitive control layout further enhances the cameras creative capabilities.  The F100's flexibility makes it the almost perfect digi-cam choice for families with two photographers who have widely different skill levels. 
+
+<b>Auto Mode</b> 
+
+Probably the most exciting new features on the F100 are the Area AF and Subject Tracking AF.  The advanced Area AF focus mode (according to Minolta) can actually recognize people in the frame, based on shape, brightness, and color characteristics.  The feature does a surprisingly good job of selecting the most logical subject in most cases.
+
+In use, the F100&#146s five-area autofocus system automatically locks onto the subject nearest one of the five AF areas. Many new parents buy digital cameras so they can document the growth and development of their little bundles of joy and one of their major complaints is that digital cameras don&#146t respond quickly enough to capture children doing cute stuff. Minolta's new Area AF locks quickly on people in the frame.  The F100's new Subject Tracking AF feature takes this capability a step further, allowing photographers to lock focus on moving subjects, like a small very active child. Couple these two features with Automatic Digital Subject Program Selection and new parents chances to grab a once in a lifetime shot of their toddler doing something cute are dramatically improved.  All the photographer has to do is keep his/her subject in the frame and the F100 does the rest
+
+Minolta&#146s new Automatic Digital Subject Program Selection option automatically adjusts the exposure settings to optimize the exposure for the type of subject or scene it thinks is being photographed. The F100 evaluates the scene and determines if the subject fits the scene parameters for Portrait, Night Portrait, Landscape, Sunset, or Sports Action preset options and then adjusts exposure settings for the scene mode selected.  This is a great feature for novice photographers who may know very little about the art and science of photography, but still want the best and most creative images possible. This is the first camera I&#146ve seen in thirty years that actually had the ability to improve the photographs of someone who knew absolutely nothing about photography.  Don&#146t get me wrong, Automatic Digital Subject Program Selection is not a magical solution that will make anyone with a shutter finger a great photographer, rather it will noticeably improve image quality for inexperienced photographers.  
+
+<b>Manual Mode</b> 
+
+The new F100's automatic features are absolutely amazing, however more advanced photographers have not been ignored.  The Manual mode offers serious shooters a full range of exposure options including Program AE, Aperture Priority, Shutter Priority, and full Manual modes.  The F100 also provides an excellent range of image adjustment controls, including Sharpness, Saturation, Contrast, and Color (users can select Neutral Color, Vivid Color, or Black and White). The F100 supports limited manual focus, spot metering, autobracketing, a manual white balance mode, and Custom Recall feature that saves your last manual setting. Shooters can also make copies of their pictures in-camera and save images as uncompressed TIFFs.  
+
+<b>Metering</b>
+
+The F100's default Multi-Segment metering mode divides the scene in front of the camera into 270 segments, which are evaluated by the camera&#146s CPU for contrast and color. The F100 then selects the best aperture and shutter speed combination to capture the image.  The Spot-metering mode makes an exposure reading from a very small area in the center of the frame, allowing more advanced photographers  to bias the exposure for the most important element in the composition.  For example, the photographer wants to shoot a portrait of a backlit subject. Using Multi-Segment metering the exposure will be biased by the bright light and the subject will be dark in the resulting image.  If the photographer uses the spot-metering mode (by metering on just the face of his/her subject) the shot will be properly exposed to highlight the subject of the portrait rather than the bright background.  
+
+<b>Movie Mode</b>
+
+The F100's Movie mode captures moving images (with sound) @ 320 x 240 pixels.  The video clips can be up to 35 seconds in duration.  Users can also record up to 30 minutes of audio or use the Voice Memo mode to record 5-15 second audio notes  to their still images.
+
+<b>Flash</b>
+
+The F100's built-in multi mode flash (Auto, Fill, Flash Cancel, and Red-Eye Reduction modes) has a range of about ten feet.  Photographers can use the exposure compensation adjustment to alter flash brightness.  The F100's auto flash mode works quite well in most situations, the fill flash mode also works very well.  The red eye reduction mode (like most digi-cams) isn&#146t as effective as fixing red-eye post exposure with adobe photoshop or paintshop pro.  The F100's built-in flash is considerably more effective in macro mode than most point and shoot digital cameras.
+
+<b>Sensitivity</b>
+
+ISO (35mm equivalent) settings are Auto, 100, 200, 400, and 800. 
+
+<b>White Balance</b>
+
+White Balance settings are Auto, Daylight, Cloudy, Tungsten, Fluorescent, and Custom (manual).
+
+<b>Image Storage</b>
+
+Images are saved as uncompressed TIFF files, or as JPEGs  (at three different compression levels). The F100 uses SD (or MMC) memory cards and the camera ships with a 16MB card.  SD (or MMC) cards are something of a mixed blessing.  The postage stamp sized cards function faster than CF, SM, or Sony&#146s Memory Stick, but they also cost more. 
+ 
+<b>Controls, Design,  & Ergonomics</b> 
+
+The Dimage F100 looks like one of the current crop of compact Sony digital cameras with the lens offset to the end of the camera body, rather than centered.  For long-time photographers this arrangement takes a little getting used to.  Overall the F100 is quite compact and easily pocketable (although it will make for a bulgy pocket).  After a short period of familiarization, the F100&#146s controls and user interface will become intuitive.  The slick metallic body is light and compact with only a small bump on the lower left corner of the front panel to act as a grip.
+
+This seems poorly thought out style over function especially since the F100 is sort of homely anyway. The addition of a small grip wouldn&#146t really have marred the aesthetics much, but it would make the camera easier to hold and use.  Be sure to loop the wrist strap over your hand when shooting, or you may end up dropping the camera.  The F100&#146s controls are well laid and the menus are simple and logical, but you will need to devote a little quality time to the instruction manual if you want to take advantage of all the F100's nifty features.
+  
+<b>Power</b>
+
+The F100 uses two AA type batteries or one CR-3V photo-lithium battery.  Battery life with NiMH AA&#146s is quite good if you use the optical viewfinder most of the time.  Using the LCD full time will significantly lower battery life. I didn&#146t try the lithium battery.
+ 
+<b>Technical Specifications</b> 
+
+Resolution: 2272X1704 (4 megapixels)
+Lens: Minolta all glass f2.8-f4.7/38mm-114mm (35mm equivalent) zoom. 8 elements in 7 groups.  No filter thread for attaching add on lenses or filters
+Viewfinder: True Image (zooming) Optical and LCD Monitor with 1.5&#148 screen. 
+Exposure: Auto, Program AE, Aperture Priority, Shutter Priority, and Manual Modes
+Auto Focus: Five AF points, Intelligent Area AF focusing with Subject Tracking AF system. 
+Shutter speeds: 1/1,000th of a second  to 4 seconds (15-second Bulb setting) 
+Built-in flash: Yes, multi mode with four settings.
+White Balance: Auto and six presets plus one custom (manual) setting. 
+Video Out: yes
+Connectivity: USB 
+
+<b>Included</b>
+
+16MB SD card, 2 AA alkaline batteries, Video cable, USB cable, wrist strap, manual, DiMAGE Software  
+
+ 
+<b>In the Field/Handling & Operation</b>
+
+My friend (who sells digital and analog cameras and photographic equipment) stopped by and asked me if I had heard anything about Minolta's new F100. It turns out the F100 is creating the same sort of word of mouth reputation for solid value and super performance that the classic Olympus C3000 enjoyed two years ago.  My friend had gotten the use of a brand new F100 for a couple of weeks, so off we went to Iroquois Park to check out whether the auto mode was as well designed as my friend had heard. 
+
+Iroquois Park covers a large heavily forested hill that rises more than 800 feet above the surrounding suburbs and once you are inside the park, it is quite easy to believe that you are out in the country rather than completely surrounded by a large metropolitan area. There is a small wildflower prairie at the top of the hill that is home to a varied community of native Kentucky plants, wildflowers, and prairie grasses. Old growth trees surround the meadow.
+
+Our long drought is finally over and we both wanted to see if all the rain had brought the fall blooming wildflowers out.  Usually, the prairie is a photographer?s paradise, especially in the early fall when the area sports dozens of varieties of colorful seasonal wildflowers. It is the perfect place to check out a new camera, especially if you want to compare the full auto mode and the manual mode by shooting the same shots in both modes.  We had decided that my friend would shoot a scene first in the auto mode.  Once he was happy with the image (without showing it to me) he would save it to the SD card and pass the camera over to me to shoot the same scene using the manual mode (I would save my best shot to memory without showing him the result) 
+
+My friend and I spent a warm Saturday afternoon shooting wildflowers up close with the new F100.  We also checked out the landscape scene mode and shot a few macro shots of some of the mushrooms that have popped up after all of our recent rain. 
+
+Once we finished shooting and returned to my friends car, we got our only unpleasant surprise of the day.  While we were playing around with the camera, a hit and run driver had clipped my friends parked car. 
+
+The following weekend we checked out the images that we had shot and they were stunning.  Both the auto mode scenics and those shot in manual mode were very good, proving that the camera really could be used by almost anyone from absolute beginner to seasoned pro with consistently good results.  The F100 had very good color and printed 8X10 images were very close to the quality level of 8X10 enlargements from medium speed 35mm slide film. We had a pretty good time with the camera (other than my friends car getting hit by a hit and run driver) and the F100 did a great job on everything except a couple of shots with large expanses of blue sky.  Those shots had noticeable digital noise.
+
+The following Friday evening I met my friend and another photographer at Bowman Field to shoot the annual balloon glow that is the kick off event of the Adam Mathews Cheesecake Balloon Festival. What really sets the Adam Mathews Cheesecake Balloon Festival apart (especially for photographers) is the fact that festival spectators are allowed complete access to the balloons. You can get up close, talk to the crews, and shoot pretty much anything you like. The Adam Mathews cheesecake isn&#146t free anymore, but the $2.00 per slice charge goes to charity.  
+
+Hurricane Isidore had dumped five inches of rain on Louisville during the two days before the festival and Friday dawned cold, gray, and wet.  The rain didn&#146t stop until late afternoon, but we ended up having absolutely perfect weather and the event drew a large crowd to watch the balloons inflated just after dark. This can make for some stunning color images because the propane burners used to produce the hot air for lift, light the balloons up beautifully against the night-time sky. The balloons are huge when you are able to get up close.  Most of the burners only flared for a couple of seconds, so it was very difficult to time exactly when to trip the shutter. The F100 did a pretty good job and the short shutter lag was a real help in getting the timing right. 
+
+We did a couple of long exposures with the camera on a tripod and they had quite a bit of noise (white or colored hot spots).  Minolta suggests limiting long exposures to eight seconds or less and ours were longer than that (15 seconds on the bulb setting) so that may have been a contributing factor.  Most folks who buy the F100 won&#146t be shooting lots of long exposures, so it may not be a serious concern..  I did manage to get a couple of great shots of colorful glowing balloons against the dark night-time sky. 
+
+Saturday afternoon we got together and printed a couple of 8X10&#146s of the glowing balloons and they were really quite good.  The colors were accurate and vibrant and the resolution was very good too.  
+
+<b>Shutter Lag</b>
+
+The F100 has a very quick shot to shot time.  The Boot-up cycle (the length of time from turning on the camera until the lens is extended and the camera is ready to operate) is about 3.0 seconds  Shutter lag is very good and write to card times are quick (due to the F100&#146s large buffer). Overall timing is faster than average for cameras in the price range. 
+
+<b>Image Quality</b>
+
+Image quality is very good except for long exposures in low light conditions. Low light performance is generally fairly good in settings with decent ambient light, however long exposures show more noise than average for cameras in this price range.  Minolta needs to do a little refinement work on the F100&#146s noise reduction system.  Colors are well saturated and very accurate, especially indoors under a variety of lighting sources.  Images have a good dynamic range but landscapes with wide expanses of blue sky do show more noise than comparable cameras. 
+ 
+<b>A Few Concerns </b>
+
+The F100 exhibits higher than normal noise levels in long exposures and in landscapes with large expanses of blue sky.  The auto white balance setting produces a slight bluish cast (cool color) in very bright sunlight. The Automatic Digital Subject Program Selection is pretty easily fooled in scenes that have a lot of activity.
+
+My friend says that he has had problems with SD cards and the MAC OS recognizing them in the past.  This is my first experience with SD cards and all I noticed was that they were faster than CF, SM, or Sony Memory Sticks.  If you use a MAC system you may want to investigate this a little further before you buy the F100. 
+ 
+<b>Conclusion</b>
+
+Innovative design, incredible automatic modes, "intelligent" autofocus, a compact all-metal body, fully retracting 3X zoom lens, 4.0 megapixel resolution, and full manual control make the F100 one of the neatest digital cameras around.  I believe it is going to be one of the big sellers this Christmas buying season, and my friend who's been selling cameras for sixteen years agrees.
+
+It isn&#146t often that you find a camera that is so well designed that two photographers with vastly different skill levels can both use it with great results. The F100 may be the best family camera that I&#146ve ever used, kudos to Minolta for listening to consumers and adopting many of their suggestions while designing this camera.
+
+Are you considering spreading your imaging wings and setting up a home digital darkroom? Check out my review of a bargain priced and very capable photo quality ink-jet printers. 
+
+<b>Epson Stylus Photo 785 EPX</b> ink-jet printer 
+<a href='/content_60776812164'>http://www.epinions.com/content_60776812164</a> 
+
+ For definitive advice on <b>How to Choose a Digital Camera</b> please see my review: 
+<a href='/elec-review-2E46-17B174E2-39A418E3-prod1'>http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+For more information about specific Digital Camera models you may find my Digital Camera reviews informative: 
+
+<b>Nikon Digital Cameras</b> 
+
+Nikon Coolpix 4500
+<a href='/content_69311368836'>http://www.epinions.com/content_69311368836</a>
+
+Nikon Coolpix 2500 
+<a href='/content_65176440452'>http://www.epinions.com/content_65176440452</a> 
+
+
+<b>Canon Digital Cameras</b> 
+
+Canon Powershot S40 
+<a href='/content_59617087108'>http://www.epinions.com/content_59617087108</a> 
+
+Canon Powershot S30 
+<a href='/content_59041746564'>http://www.epinions.com/content_59041746564</a> 
+
+ Canon Powershot G2 
+<a href='/content_47646084740'>http://www.epinions.com/content_47646084740</a> 
+
+ 
+<b>Sony Digital Cameras</b> 
+
+Sony DSC-F707 
+<a href='/content_60512439940'>http://www.epinions.com/content_60512439940</a> 
+
+Sony DSC S85 
+<a href='/content_51957567108'>http://www.epinions.com/content_51957567108</a> 
+
+
+<b>Olympus Digital Cameras</b> 
+
+Olympus Camedia C3020 
+<a href='/content_57190944388'>http://www.epinions.com/content_57190944388</a> 
+
+Olymous Camedia E 20N 
+<a href='/content_54953348740'>http://www.epinions.com/content_54953348740</a> 
+
+Olympus Camedia C3040 
+<a href='/content_42675179140'>http://www.epinions.com/content_42675179140</a> 
+
+ 
+<b>Fuji Digital Cameras</b> 
+
+Fuji Finepix 2600 Zoom 
+<a href='/content_58485149316'>http://www.epinions.com/content_58485149316</a> 
+ 
+<b>Minolta Digital Cameras</b> 
+
+Minolta Dimage 5 
+<a href='/content_49104522884'>http://www.epinions.com/content_49104522884</a> 
+
+
+Just &#147cut&#146n&#146paste&#148 the URL into your browser&#146s address window. 
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

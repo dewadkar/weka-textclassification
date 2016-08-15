@@ -1,0 +1,24 @@
+DOC>
+<DOCID> 4720 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Canon_PowerShot_A80_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_122174541444 </URL>
+<TEXT>
+            I thought I had found the perfect 4-megapixel camera... Perhaps not!
+
+I came to the A80 as the proud owner of Canon's EOS Rebel 35mm camera, which is a workhorse piece of photography equipment and very, very highly recommended. Canon knows photography, and the brand's popularity is, in my estimation, justly deserved. The A80 promises the convenience of a point-and-shoot as well as much of the flexibility of an SLR, with excellent performance in either case, and at an exceptional price point. The user takes as little or as much control of the photo-making process as he/she prefers, and the results are extremely satisfying.
+
+Generally, I think the promise is largely fulfilled. All of the familiar photo-taking modes--from fully-automatic, to portrait, to sports, to night, to panoramic, to fully-manual, to aperture-control, etc--are represented here, in addition to two user-preset modes for storing your preferred settings. There is, as above, tremendous opportunity for flexibility: auto white balance (or manual), control of flash intensity, control of ISO setting, a automatic multi-focus (defeatable), the ability to add attachment lenses, etc and so on, all of which is well-documented in other reviews, not to mention in the serviceable, if somewhat lean, instruction manual. The camera's start-up time is quick and the average user will fire up the A80 and be taking very good photos in no time.
+
+Overall, image quality is superb, even at modest resolution settings. At the best resolution, images are stunningly precise and seem to have very natural color balance (options exist for shooting in enhanced color, black and white and sepia as well). Purple fringing is a non-issue for me; although I can see it, it doesn't bother me. Results in indoor without a flash (a potentially tricky situation) can be very, very good with the proper mode selection and tweaking, and outdoor results in daylight are about as good as it gets. Shooting performance is very good, with very acceptable shuttler lag, quick camera start-up time, and decent (3X) optical zoom capability. Battery consumption is quite conservative, and you will get hundreds of exposures from a single charge of 4AA rechargeables.
+
+The included software works, but I like the simplicity of XP's camera manager. The movie mode works, but at a limited resolution compared with other models (including Canon's little brother, the A70, which has a VGA movie mode); this feature is fun, but nothing more in my estimation.
+
+My problems with the camera center around ergonomics. I still haven't found a use for the flip screen other than flipping it back into the camera so that the LCD is protected. I'm somewhat concerned about the long-term durability of the mechanism that allows for screen rotation and flipping. And, as has been mentioned elsewhere, the LCD is simply too small. Readable, yes. Sufficient in resolution, probably. Too small, absolutely. The placement of the slider that toggles between shooting and playback modes is OK, but the actual slider itself feels flimsy and cheap, and I also worry about its durability (the A70 seems to have a superior switch for this function). I'm also not thrilled with the placement of the zoom control, and probably would have preferred it on the rear of the camera. Finally, a diopter correcting knob for the viewfinder is a must in a camera like this.
+
+There's a lot to like here, and it's hard to argue with the shooting performance of this camera. Unfortunately, the engineering isn't quite what it ought to be, and I'm considering moving to another model. A camera with this much shooting prowess ought to have a better LCD and better review controls.
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

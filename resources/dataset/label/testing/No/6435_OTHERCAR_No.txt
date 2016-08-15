@@ -1,0 +1,28 @@
+DOC>
+<DOCID> 6435 </DOCID>
+<PRODUCT> Digital_Cameras/Fuji_FinePix_3800_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_116457311876 </URL>
+<TEXT>
+            I brought my brand new Finepix 3800 to Las Vegas and took about 200 pictures with it, both indoor and out, in the daytime and at night, mostly without using the flash. The pictures came out sharp and the colors were brilliant. My pictures of the Strip at night of the casinos are postcard quality. For outdoor night shots, I put the camera on something solid before shooting the picture to prevent shaking, since I did not bring a tripod with me. Most of the pictures were taken at 1/2 second with f/2.8 (Note: Fuji includes this info in the file, I only find out after loading the pictures on my computer). When situations permit, I have also put the camera down and used the self-timer to take pictures, further eliminating camera shake.
+
+This is my very first digital camera. My other camera is a Nikon N70 SLR, shooting pictures since the '60s with a Minolta SRT-101. The color of a picture of an orchid taken at the Mirage was so rich, it put all of my Nikkor lenses to shame. I also took some pictures inside St Mark's Square (indoor) at the Venetian. The 3800 was able to produce accurately the color of the performers' costumes. The night shots taken on top of the Eiffel Tower at Paris were fantastic. What I am trying to illustrate is that I have no problems taking pictures in low light and how accurate the 3800 is in terms of color.
+
+Other than the small 16MB xD card, the only other problem I've found with the 3800 is that once you press the shutter to focus, the picture on the camera's LCD screen "freezes" and you won't see the subject moving (this was a problem shooting lion pictures at the MGM). So you really can't focus first and take a shot even a second later. I've bought a 512MB xD card, with it I can take up to 400 pictures using 3.2 megapixels in "fine" mode. I find 3.2 megapixels just the right size, fine enough for my pictures and not too big in terms of file size. Another must is a set (or 2) of rechargeable NiMH AA batteries. I use a Rayovak 1 hour charger.
+
+I do wish the flash has a higher guide number, allowing it to reach a subject farther away, but then I shouldn't compare it with my Nikon SB-28 dedicated flash. :-)
+
+Others have complained about Fuji always uses the same filenames beginning with 0001. Some have also complained about the lens cap falling off. I don't find either to be a problem. I do keep the adapter ring on at all times. It protects the camera lens from accidental scratches and the lens cap fits the adapter ring nicely.
+
+The 3800 comes with a CD-ROM. The only software you must load is the USB Mass Storage Driver. Once you've loaded that and connected the camera to the computer with the USB cable provided, the camera becomes a "removable drive" on your computer and you can use Windows or MS-DOS to copy the picture files to your computer hard drive. It works extremely well. The camera is also suppose to work with the Mac.
+
+The 6X optical zoom lens is mighty long.
+
+The camera is easy to use, though you do have to read the manual at least once to learn how to use all the features. It was rated no. 1 by Consumer Report two years (2002 & 2003) in a row for 3 megapixel digital cameras. Even though the 3800 is an older model, it is still an excellent camera. I paid $296 for it, before a $60 manufacturer mail in rebate. It is also a great value.
+
+UPDATE:  Soon after I returned from Las Vegas, the camera was no longer recognized by the computer (I tried it on two different computers) as a "Removable Drive", meaning I can no longer upload pictures to the computer.  I took the camera in to California Precision Service in Sacramento for warranty service on November 11th.  I'd used CPS before and they were great.  But as of today (December 5), CPS told me they were still waiting for a new PC Board.  I am getting very frustrated.
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

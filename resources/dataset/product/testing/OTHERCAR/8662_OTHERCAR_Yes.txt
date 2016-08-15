@@ -1,0 +1,61 @@
+DOC>
+<DOCID> 8662 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_225285_I_630705 </PRODUCT>
+<URL> http://www.epinions.com/content_48202354308 </URL>
+<TEXT>
+            I love this camera. I used (and have kept) my trusty Olympus D450Z for almost 2 years, and became hooked on a digital camera. The D450Z was great except: 
+-the 1.3megapixel ccd did limit me to at most 5x7 prints 
+-it used a slow serial port transfer 
+-the 3x optical zoom was just not sufficient for too many pictures I wanted to take 
+
+The C700UZ with its 2.1megapixels, USB, and 10x zoom has solved all these issues. 
+
+I am not by any means a professional photographer, and to get professional reviews, I suggest going to: 
+http://www.imaging-resource.com/ 
+http://www.steves-digicams.com/ 
+http://www.dpreview.com 
+http://www.cnet.com 
+
+I will provide here a general user's review. My main interests in picture taking have been of family pictures (indoor and outdoor), my kids' sports (soccer and basketball), and vacation and scenery. 
+
+Family pictures work well, and the flash unit is quite acceptable. 
+
+Sports pictures have worked very well for outdoor events. I have discovered that you need to take MANY sports action pictures to get one decent one. Using a digital camera I can as many pictures as I want and only keep the good ones, of course. The camera has an action setting, and the 10x zoom has been invaluable for getting some incredible soccer pictures. I do recommend, however, that you use a tripod to help steady the camera. (The Olympus 2100UZ does come with an image stabilization feature, but the camera is significantly larger. For my uses, I wanted the smaller size.) 
+Trying to take indoor basketball pictures has not been very successful, but it may have to do with the poor lighting in the gyms. 
+
+Scenery pictures have also been excellent, but I have occasionally encountered what is called chromatic aberration. In high contrast areas of a picture (for example, a bright sky behind the dark leaves of a tree), the pictures appear with a purplish tinge around them. It isn't particularly glaring or problematic, but it happens frequently enough on that really great picture that you will want to try to tone it down. It can easily be done with the high-end photo editing software (eg. Photoshop), but the cheapest (free) and easiest way to do it is with Serif's PhotoPlus 5.0. This free download (http://www.serif.com/downloads.asp) allows you to select a tonal range across an entire picture and then reduce its contrast. (I have not found any other mid- to low-end product that can do this: PhotoDeluxe, PictureIt, PhotoDraw, Image Composer, PhotoImpact, SmartPhoto.) 
+
+Other scattered observations: 
+The camera comes with an 8Mb SmartMedia card. You will find heated discussions about the superiority of one of the media formats--SmartMedia, CompactFlash, Memory Stick, etc.--but I have been very pleased with SmartMedia. It is small, and it is now also cheap. (I have purchased a 64Mb card for $35.) Some people prefer to have a high Mb card, but I have gone with cards in the 16, 32, or 64 range both because they are cheaper and because I won't lose everything if I should happen to lose one card. I have also purchased a MicroTek CameraMate USB SmartMedia/CF reader. I use it to download images from the card without always having to use the camera (which does come with a USB transfer cable). I can also use this device and the SM cards as portable storage devices for any file type. 
+
+The camera comes with a new lithium-ion battery pack, but you will quickly want to get NiMH rechargeable batteries. Battery life in general is quite good-- I can take about 150 shots or so, viewing, deleting, etc on one set of charged batteries. 
+
+I like the clamshell design on my old D450Z. The C700UZ is larger, but it is still unbelievably compact for a 10x optical zoom. Many of the older Olympus models had a lens capped that dropped off when the camera was turned on, but the C700UZ lens cap now has a retainer cord. Once you have a 10x optical zoom, it is hard to go to anything else. (I never even bother with the digital zoom. You can enlarge pictures later on the computer.) 
+
+The camera comes with an NTSC A/V cable so you can plug the camera into a TV or VCR and view your pictures onscreen. It's a great way to share pictures. Note that many other cameras do not have this feature. 
+
+The included Camedia software is fine, but I find that I mostly use the built-in preview feature of Windows Explorer on my WinME system. You will want another photoediting program to do any significant editing. 
+
+The 1.5" TFT LCD works quite well, even in bright outdoor light. 
+
+You can even shoot up to 15 second movies with this camera. They aren't the greatest quality, but it is a nice extra feature. 
+
+The viewfinder is not a through the lens type but is, as I understand it, actually a mini-LCD panel. The advantage to it is that your picture comes out just as you see it. The disadvantage is that there is some loss of detail, and it can be a bit dim. It works well enough. 
+
+The camera can be used pretty much as a point and shoot if you want using the AUTO setting. You do have other automatic settings (landscapes, portraits, action), and if you want, you can take full control of all settings. I find that the automatic settings are useful for most purposes, but I do some manual settings when I want to do macro mode, play around with flash effects, when I want to set white balance settings under different lighting situations (eg, flourescent) or adjust ISO settings. The camera has an amazing ISO 800 equivalency which is great for low light shots. 
+
+It is possible to buy a CLA-4 adaptor and add lens, filters, etc to this camera. 
+
+I have settled on using the HighQuality JPEG setting. Each picture uses about 450k or so. The quality is excellent for producing up to 8x10" prints. I keep all my pictures on my computer and burn to CD. I print some of the pictures on my inkjet. For pictures I want as prints, I upload to sites like Ofoto or ClubPhoto. I recently have begun using Walmart's services and have been satisfied. 
+
+To really get all the potential out of this camera (which I am not doing), you need to read the manual. There is a brief starter manual printed, but you really have to read the full manual which only comes on the included CD. 
+
+The camera feels well-balanced and well-made and has been quite durable and sturdy. 
+
+I waited until BestBuy had one of their 10% off anything 3-day sales to get my camera at a price comparable to the best online price available. 
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

@@ -1,0 +1,35 @@
+DOC>
+<DOCID> 35535 </DOCID>
+<PRODUCT> Digital_Cameras/510651_Fuji_Film_FinePix_6800_Zoom </PRODUCT>
+<URL> http://www.epinions.com/content_18738089604 </URL>
+<TEXT>
+            Well, the first opinion will tell ALL of the features of this camera.  So I will talk a bit about the image quality and make a few comparative statements.
+
+The very first thing I noticed when I pulled this camera out of the box, is that it is the sharpest looking camera I have ever seen.  So if looks are important to you then check this baby out.
+
+I printed out a 8.5 x 11 inch print on a dye sub printer and compared it to a similar print done from the Fuji 4700.  The 4700 had excellent close up detail, but small text in the background, though legible, was not sharp.  The 6800 had even better close up detail, and I could clearly read ALL of the small text (license plates) in the background.  There was a whole lot less pixelization in the 6800.  Color reproduction was also very accurate.  The colors in my print were just about dead-on without any manipulation at all.
+
+Now we can talk a bit about zooming ratios.  With digital cameras, resolution has a HUGE part to play in the zooming capability of the camera.  The higher the resolution, the more detail you will see, and therefore the more you can magnify the image.  This is basically the same concept as using finer grain films to get a bigger enlargement.  You can magnify a 100 ASA film much more than you can an 800 ASA film.  Likewise you can magnify a 6 Megapixel image more than you can a 1 Megapixel image.  
+
+So the point I am getting to is this, the effective zooming ability of one camera can be compared to the effective zooming ability of another camera by multiplying the resolution by the optical zoom and then simply seeing which one comes out with the bigger number.  
+
+For instance, you have a 1 MP camera with a 3x optical zoom.  1 times 3 is 3.  Then you have a 3 MP camera with a 3x optical zoom.  3 times 3 is 9.  So the 3 MP camera has 3 times the effective optical zooming ability of the other camera.  So now you can do the math on the 6800 yourself and compare the zoom to any other camera out there.
+
+The math above may easily be confused with Digital Zoom.  However, they are NOT the same thing.  The above formula is simply a way of linking the actual enlarging capacity of the image to the telephoto capacity of the lens.  Digital zoom has NOTHING to do with the lens on the camera.
+
+In fact, I would say that digital zoom should not even be taken into consideration when buying a digital camera.  Your computer can do the digital zooming after you transfer the image onto your hard drive.  And the computer can do it faster and to the exact area you want it to.  AND it won't eat your precious battery power.
+
+By the by, the 6800 uses Fuji's NP-80 battery.  Which means excellent battery life and the ability to charge the battery without removing it from the camera.
+
+
+
+
+
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

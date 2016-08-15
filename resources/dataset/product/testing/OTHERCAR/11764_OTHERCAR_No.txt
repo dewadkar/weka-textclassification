@@ -1,0 +1,33 @@
+DOC>
+<DOCID> 11764 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Kodak_DC3200 </PRODUCT>
+<URL> http://www.epinions.com/content_87053799044 </URL>
+<TEXT>
+            I've been using this camera for an year and hence my comments are not from the first look, but from usage of several months.
+
+If you are looking for a camera which has the best dollar per pixel value, then this is the winner.
+But, if you are looking for convenience, durability, good quality pictures for all light conditions, keep away from this.
+
+Takes good pictures in daylight, but one has to work hard to get a non-shaken picture in poor light conditions.
+
+Battery life is about average. The good part is that it runs on regular AA batteries, so you can get them anywhere. But, the bad part is that you have to carry lots of them with you when you go on a trip. I am not sure if this has a charger inside, but the camera did not come with any AC adapter. There is a 'DC in' socket on the camera, which means there would be an optional AC adapter from KODAK to use with this camera for an extra price, but I am not sure if that can charge the batteries, if we use rechargeable AA batteries.
+
+The size of the camera is big for its features. Come on! Kodak designers, what were you thinking? Digital cameras don't need a film compartment, a motor to advance/rewind the film. All they need is circuitry to record data onto a memory card, an LCD screen, and a flash and that's it. The size could be much smaller on this. With the camera being light weight and big in size, you get a plastic hollow feeling when you carry this camera. Even with this big size of the camera, the battery compartment is very tight. It is barely bigger than the size of the batteries. As a result, the tension on the spring is very high causing an overload on the small plastic cover that holds the batteries. My battery compartment broke with first month of its use. I now use duck tape to cover my compartment. I am not alone in this area. My brother who has the same camera has broken battery compartment too.
+
+Camera features are very well decided in the design. Cut down all the non-sense and give only required to an average user. Can take pictures in two different resolution settings on to in-built memory or to an external compact-flash memory. I used an 64MB external memory to take more than 300 pictures during one of my vacation on this camera. It takes little while to record the picture after you release the shutter. But I think it has more to do with the speed of the memory than the camera itself. I used a cheaper memory and hence it might be of less speed. It has an in-built flash, not very powerful but of average power.
+
+The interface software which downloads the pictures into your PC was simple to use and easy to understand. It has some bugs though. In my Windows-XP, I cannot download to the same folder all the time, I have to let it create a new folder everytime I download pictures.
+
+I would have liked a USB interface or a firewire interface. Serial port is too slow. I had to wait for considerable amount of time, before the pictures are downloaded to my PC.
+
+It does not an optical zoom, eliminating the need of a motor here and another question on why that big size? 
+
+It has a video out (cable has to be purchased extra) to connect to a VCR and record the video(no audio).
+
+I would only recommend this if you want a digital camera for a bargain price.
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

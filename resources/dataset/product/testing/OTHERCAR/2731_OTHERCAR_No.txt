@@ -1,0 +1,33 @@
+DOC>
+<DOCID> 2731 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1997_Chevrolet_Suburban </PRODUCT>
+<URL> http://www.epinions.com/auto-review-1359-6BDB50A-395AB27D-prod1 </URL>
+<TEXT>
+                 I purchased a 1997 Suburban for my wife and two young kids right after my Dad was killed in an automobile accident in June 1997.  A large truck swerved across the centerline of a two lane highway on a rainy, low visibility day to avoid hitting an RV that had suddenly stopped on the road ... my Dad had no time to react and was killed instantly along with my step-Mom (they were in a minivan).  The truck driver was not injured.
+  
+     After reading the eye witness accounts, I decided I wanted my family in the biggest passenger vehicle available.  Simple physics ... Force = Mass x Acceleration ... the bigger vehicle will always win over the smaller vehicle assuming both vehicles are moving at relatively the same speed.
+
+     We have a 4-wheel drive version with anti-lock brakes and truck tires with a 65 psi tire pressure.  All these features significantly enhance the safety of this vehicle.  The tire pressure is important for hydroplaning reasons.  A tire hydroplanes at 9 times the square root of the tire pressure.  Most vehicle tires have a 35 psi pressure which equates to a hydroplane speed of approximately 54 miles an hour (9 x 6 = 54).  With 65 psi tires they hydroplane speed rises to 72 mph (9 x 8 = 72).
+
+     The hydroplane speed is based on a smooth tire riding on a smooth surface ... so tire tread and the road surface will all affect the hydroplane speed. For example, a grooved highway will increase the hydroplane speed because the grooves channel water away from the road. The tire pressure gives me a rough idea of when my tires will hydroplane ... for example, if I'm driving my Ford Expedition on a highway that may potentially have standing water on it (not draining properly) then I will definitely keep my speed below 55 mph because I know the 35 psi tires on my Expedition will hydroplane at that speed if the combination of the tread on my tires and the road surface is unable to channel the water away from the bottom of the tire. 
+
+     A related issue is friction (I have none if I'm hydroplaning) ... it takes a certain amount of friction to stear and also to brake. Under certain conditions you may not be able to do both ... understanding that principle may prevent you from losing complete control of your vehicle (or aircraft, we can have the same problem when landing on a wet or icy runway--I'm a pilot in the US Air Force). For example, if I simultaneously brake as I enter a turn and start to lose control of the vehicle, I should straighten out the turn and continue to brake, or continue the turn and stop braking, or discontinue both until I regain control of the vehicle.
+
+     With a heavier vehicle you also have to contend with increased stopping distance. I'm very sensitive to that ... which makes me appreciate the anti-lock brakes on both of our vehicles. Our Suburban has front disks and rear drums ... I wish it had disk brakes front and rear. Our Expedition as disk brakes on all four wheels ... it definitely makes a difference. 
+
+     By the way, I find that drivers of all sorts of vehicles tailgate ... it's unacceptable and dangerous no matter what you drive. My desired minimum is 2 seconds (at 60 mph 2 seconds equals 176 ft) of spacing between myself and the vehicle in front of me ... that's assuming normal conditions ... if things are not "normal" then I increase my spacing. 
+
+     In the flying business, we call it operational risk management (ORM). In ORM, we measure human factors and then modify the mission we're flying to mitigate any risks those human factors may present. 
+
+     Our experience with the Suburban has been positive although not trouble free.  We had numerous electrical problems that left us stranded on six different occasions.  It took several trips to the dealership before they figured out that the culprit was a faulty alternator (but replaced the alarm system, battery, and starter in the interim).  Fortunately, all was covered by the original warranty and we have not had a problem in over a year and a half.
+
+     By the way, our Suburban is a Choo Choo Conversion with a TV, VCR, 4 leather captain's chairs and heated front seats.  It's the only way to travel with small kids ... put a video in the VCR and headsets on the kids and the adults can enjoy the ride in peace and comfort!  The 40 gallon gas tank gives us a 600 mile range which means you'll make more bathroom stops than gas stops.
+
+     We've also towed a 3,000 lb trailer behind our Suburban from Texas to Indiana to Florida.  It handled marvelously with very little impact on our gas mileage and plenty of torque for the hills ... we never slowed below 55 mph even on the steepest uphill grades.  The Suburban drives more like a Cadillac than a truck.  We also own a Ford Expedition ... it definitely drives & feels like a truck.  We love our Suburban and will probably replace it with another Suburban when the time is right.  We currently have approximately 65,000 miles on the vehicle and bought it used from a dealer with approximately 9,000 miles on it.
+     
+            
+<label> No
+<rating>  4.0
+
+</DOC>
+<

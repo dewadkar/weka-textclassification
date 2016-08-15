@@ -1,0 +1,64 @@
+DOC>
+<DOCID> 133 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Fuji_Finepix_MX-1200_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/elec-review-692A-2C9F13DB-399D2B85-prod5 </URL>
+<TEXT>
+            To start things off, let me say that I am a camera/printer snob. I am one of those people who'll love to debate over the best camera (or printer), and drool over the newest and best (Nikon CoolPix 990, baby!). However, my budget does not meet my tastes, and so for my digital camera, I purchased a Fuji MX-1200 -- on blind faith. I don't even remember where I saw the model name, perhaps accidentally on eBay while I was searching for something else, and immediately I had to have it. 
+
+I am not in the least bit sorry.
+
+<b>Price</b>
+This camera, for me, wins the best under-$300 prize, despite the fact that it is only $200. Or perhaps I should say, the best price/performance ratio for a camera under $300.  I paid $220 after a $30 rebate at buy.com, but now you can buy them for $199 outright if you look (link at bottom of review, no, I don't get referral fees for it. I only wish I did!) My only complaint is lack of optical zoom, not even 1x, but that would increase the price a lot so I'm not complaining too loudly.
+
+<b>Image Quality &amp; Resolution</b>
+In general, the picture quality is quite impressive, though of course it performs better in some situations than others. I always say that the only purpose of having a high resolution camera is so that when you scale the pictures down to a reasonable quality/sharpness, you get a reasonable size. I am basing all of the following on the image quality in the highest resolution (1280x960) and the highest quality setting (FINE). In this case, you can scale to 50% (often the accepted scale to get the best picture quality for online/on-computer viewing) and still get a very large image -- 640x480. If you scale to 66.7%, the image is not quite as sharp as at 50%, but still very, very acceptable. Especially for two hundred bucks.
+
+The resolution of this camera is also quite amazing for the price. What's even more amazing is that, although Fuji is really hyped up on their SuperCCD technology (basically interpolating photos like cheap scanners interpolate scans by color guesswork), the actual optical resolution is 1280x960 native. In many of their more expensive cameras, the top resolution is interpolated and not native, meaning the largest setting is grainy, blurry, etc, which even scaled down produces inferior pictures. Why they do this, I don't know -- why the camera review places don't complain, I have even less of a clue. 
+
+Usually this top resolution that is interpolated is many factors larger than the native resolution -- like in the new Fuji 40i, the top interpolated resolution is 2400x1800 pixels and the output is pretty crummy, and the max <b>optical</b> resolution is actually 1280x960, just like the Fuji MX-1200. They claim it is a 4.3 megapixel camera when the optical resolution is only 1.3 megapixels. Sounds like Fuji is quietly trying to rip people off, but  the MX-1200 is one camera immune to this ploy.
+
+
+Shots taken at 640x480 are also quite nice for the resolution, but the scaling rule applies, and so the pictures you get in the end aren't nearly as large and detailed as in the higher resolutions. Of course, if you only want little pictures on your web page, by all means shoot in 640x480.
+
+
+<b>Packaging</b>
+By packaging I mean not only what comes in the box, but the form factor the camera guts are housed in.
+
+The camera comes with a 4MB SmartMedia card, which is just plainly too small, especially if you crave image quality -- which means high res. I purchased a 32MB card for my camera and I hold about 50 - 55 best quality, best resolution shots on it, and it set me back about $70. Not bad, but my 4MB card is lying around useless. The camera comes with a serial cable, but this is horribly slow and the software stinks, so I suggest taking advantage of the coupon included for a free USB or PC Card SmartMedia reader. I bought a SmartMedia reader on my own instead of using the coupon, and the speed difference is phenomenal.
+
+The camera also comes with a set of four rechargable batteries and charger, if you buy that package. Not all do. However, I use them and find a good life of 200 shots or so, with intermittent to heavy LCD use.
+
+The camera itself is, unfortunately, made of plastic. However, this is quickly forgotten when you realize how compact and portable it is. It also lacks a lens cover and while the tiny lens is somewhat recessed, I went ahead and spent $5 on the Fuji-brand soft cover for the camera. It gives me piece of mind. Sort of. 
+
+
+Harking back to the plastic case, I think I am upset by it now. I managed to break my Fuji MX-1200 by falling on top of it in a nasty spill on a friend's drive way (invisible hole in the lawn, yuck!). My laptop, which I also fell on, and my Palm Vx, which was in the same bag as the camera, both survived. I felt lucky that the least expensive thing I was carrying was what broke (and then only the LCD, it still takes pictures), but now that I think about it, a metal case would have saved its life most likely. Well, live and learn, and repair the damage.
+
+
+<b>Controls</b>
+The controls for this camera are great. There is a thumb wheel that lets you choose the different modes - play, record, record (manual), etc. Then there is a four-directional thumb pad for accessing menu options such as exposure compensation and white balance, should you choose to set those manually. The button for the display on/off is right above the LCD itself, which is handy, but the button didn't always seem to work properly, even before I broke the camera. The other button, for confirming changes and such, is to the slight right of the DISP button. 
+
+One of the coolest features I noted about this camera were the playback options. You can choose to look at one frame at a time or a listing of frame thumbnails and then select the one you want. What's even neater is that you can zoom into pictures by a factor of 4x and then surf around them, admiring the details. 
+
+
+The controls for image quality and other items are fairly intuitive, and when they're not, the Fuji manual is quite helpful. Do be careful not to accidentally let the focus switch on the side slide down to &quot;Macro&quot;; I have ruined several shots by accidentally moving it when I was holding the camera.
+
+
+<b>Timing</b>
+This little camera is very quick. It turns on in just a matter of a second or maybe two, and the delay between shots is never more than about 2.5 seconds, often less.
+
+
+<b>Conclusion</b>
+This camera is a great buy for the money. For the casual photographer, the quality is great and the price is right. The included coupon for the free SmartMedia reader is a great touch, but buy a bigger media card. Fuji designed the camera and its interface with lots of nice little touches and features, like the gold sticker on the SmartMedia slot showing you which way is up. Battery life is quite good. Buy the soft case to protect your lens. It's easy to use, light and small to carry, and comes with great documentation. As long as you don't plan on putting your Fuji MX-1200 between your heavy body and some hard concrete (I weigh 180 pounds, so I'm not calling it flimsy!), you and it will get along fine! Even though I managed to break mine, I still give it a 4 (a 4.5 if epinions offered that), so you can tell how much I love mine and I don't regret buying it at all! That alone should sum it up pretty well. :)
+
+
+
+Link for the $199 Fuji MX-1200: http://www.theweb-shop.com/featured/prod_detail.asp?Sku=3502713&amp;Cat_Id=C2700
+
+
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,50 @@
+DOC>
+<DOCID> 31430 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Canon_PowerShot_S50 </PRODUCT>
+<URL> http://www.epinions.com/content_102278991492 </URL>
+<TEXT>
+            I have been a 35mm SLR photographer for 25 years, and until recently I didn't see any digital camera could match the quality of film. 
+
+However, I was thinking for some time that a pocket sized point and shoot camera would be useful for those times when I couldn't carry around a full sized camera. After seeing the quality from a friend's new digital camera, I felt perhaps that would be the way to go. Besides the convenience of being able to print from my home computer, I liked the idea of being able to shoot short videos as well.
+
+After much research I settled on the Canon S50. I also considered the Minolta F300, but found the LCD was a little too small, and it just didn't feel right in my hands. I briefly considered the Olympus C5050, which is a terrific camera, but too bulky for a carry-around-anywhere camera. I also tried the Pentax Optio 500, but found the images to have excessive contrast, even at the lowest contrast setting. 
+
+The Canon S50 is as close to perfect as I could find. It is a serious camera in a point and shoot package. Though marginally larger and heavier than its competitors, it offers a wide range of features for both the photographic novice as well as advanced users. 
+
+The controls are well laid out and intuitive to use. Menus are easy to access and photographic settings, such as exposure compensation, fill flash, etc., can be set fairly quickly on the fly. I won't go into describing every single button and function, for that information is readily available elsewhere on the web.
+
+I really like the 1.8" LCD screen, which can be set to two brightness levels. It is noticeably larger than the 1.5" screens on most competing cameras, making it much easier to compose images and review them later. In bright sunlight the LCD, like all digital camera LCDs, get washed out, but it helps to set the LDC brightness to high in bright light. I set it back to low at other times to reduce battery drain.
+
+I did not purchase an extra battery as some have advised. One has proven sufficient for around town use. The battery charges fairly quickly. Under an hour when topping off. A little over an hour when almost fully drained. If I take it on a trip, I think a second battery may be in order, as would more memory.
+
+I did purchase a 128MB Compact Flash card, as the 32 MB card included in the package, roughly equivalent to a single roll of film, is insufficient for heavy shooting.
+
+But the real measure of the camera is in the final images. In this I have a hard time deciding if film is better or worse. 
+
+The camera offers four levels of resolution and three levels of JPEG compression. It also records images in RAW format. RAW images are marginally compressed, but suffer no quality loss when decompressed and saved in TIFF format on your computer. In practice, I have found little need for the RAW format. The highest JPEG setting is indistinguishable from a RAW image, and the medium JPEG setting is also extremely good. For 90% of my shooting I use the medium JPEG setting and the highest resolution. This gives the best compromise between image quality and memory capacity. If a shot turns out to be especially terrific, you can save it in RAW format after shooting, if you act quickly enough. 
+
+Images are incredibly sharp. Stunningly so, in fact. I had one shot of a hang glider enlarged to 16x20, and it looked at least as sharp as any 35mm film image blown up to the same size. Two other images were enlarged to 11x14 with equally impressive results. Imaging theory says a 5 megapixel digital camera shouldn't be able to make sharp prints larger than 11x14, but theory is wrong!
+
+Colors are equally stunning, saturation is excellent This camera also does a great job of bringing out shadow detail without blowing out highlights, even in direct sun. A shot of my sister in the sun definitely outperformed film in producing a pleasing level of contrast, without fill flash. 
+
+I have also made several photos of street scenes at night with excellent results. I use longer shutter speeds at the lower ISO settings, as there tends to be a lot of image "noise" at ISO 200 and 400.
+
+But my favorite part of owning this camera is its ability to go everywhere I do. I often take it to work in my jacket pocket. It is a little too large to fit comfortably in a jeans pocket, but it works very well in the baggier pockets of khakis. I got a $9 Tamrac belt pack which helps free up pocket space when needed. 
+
+This easy portability has freed my creative eye to make exciting photographs wherever I happen to be, with whatever I happen to see. I can put the camera down low or up high for unusual angles, and immediately see the results. Sometimes I put the camera into a tight space, point it in a general direction, snap the photo, then look at the results on the screen. If the composition is off, I can re-shoot it on the spot. By not being tied to the viewfinder while shooting, I can experiment with all sorts of creative angles. 
+
+I also like the movie mode, which allows up to three minutes of low resolution video with sound. The quality is quite good considering this is primarily a still camera. I have edited and compressed these AVI files in Windows Movie Maker and used them on a web site with good results. You can see one of these here http://members.aol.com/toysontrax/11insalinas.WMV The quality of this WMV file is not as clear as the original AVI, but it gives you a good idea of what it can do. 
+
+I have encountered only one significant problem. On my first outing with the camera, I found I was having to tilt the camera up slightly on the right to get straight horizons. Further tests confirmed this. The image sensor was not square with the camera body. I returned the camera to the store and the sales person found every S50 in their inventory had the same problem. We also tested an S45, but it was perfectly square.  I got my money back, and returned to the store a week later. We found all of them had the problem, but one was much less severe than the rest. I ended up with that camera. The very slight "tilt" on this unit has not posed a serious problem, for I can easily compensate. 
+
+One minor problem, and this is probably due to the small lens, is soft focus in the corners. I haven't done any testing to see if it is limited to certain aperatures or focal lengths. 
+
+The software that comes with the camera is intuitive and easy to use. I really like Canon's Zoom Browser which makes it easy to transfer images from the camera to my computer and then keep the photos organized. ArcSoft photo suite is also one of the better bundled photo editors that I have seen. It isn't Photoshop, but it does have many similar capabilities, such as layering, contrast and color controls, and a variety of special effects. 
+
+This camera has so many features and abilities that I cannot cover them all. I expected this camera would supplement my 35mm cameras, but it has rapidly become my primary camera. 
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

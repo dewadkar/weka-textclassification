@@ -1,0 +1,34 @@
+DOC>
+<DOCID> 4848 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Canon_Digital_Rebel_EOS-300D_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_114428186244 </URL>
+<TEXT>
+            Having owned Nikon cameras for my entire life, it took a lot of reading and rereading reviews, specifications and image samples before I decided to purchase this camera. 
+
+Upon first opening the box, the camera seems extremely light (the body is plastic versus the magnesium body of its big brother the 10D), but don't let that fool you. This camera is more solid and well put together than any of the smaller point and shoot digital cameras I have owned, and has a good feel when shooting. It's actually a relief to shoot with such a light camera versus the heavier SLR bodies I am used to shooting with. No part of the camera "gives" when squeezed or handled. 
+
+The kit comes with a battery (BP511), battery charger, USB cables, software, camera strap and the 18-55 lens. The 18-55mm lens that comes with  the kit (the 300d is available in body only and kit form) has a nice range (equal to 28-88 in 35mm format) but doesn't feel as tight or operate as smoothly as the Nikon lenses I am accustomed to. Overall, the lens does capture nice images and has a decent range.
+
+This is a 6.3 megapixel camera, and as such, be prepared to step up your compact flash cards accordingly. I wouldn't have anything less than a 512mb card in the bag and would reccomend popping for a 1 gig card if funds allow. At full (RAW) resolution, a 512mb card will get you 69 or so shots. The camera also supports type 4 IBM microdrive cards.
+
+Buyers should be aware that there are no ultra-wide angle lens choices available for this camera due to the 1.6 focal length offset of the camera.   It does take all of Canons EF lens line, however. 
+
+In continuous shooting mode, the 300D can shoot at up to 2.5 frames per second with a 4 frame burst. I would have liked a 6 frame burst capture, but for under $1,000.00, what do I expect? 
+
+Canon is proud to tout the Rebel's ability to capture hi-res 7MB per shot RAW (Canon's proprietary file format) images (a medium JPEG file is saved along with each RAW shot taken), but what they fail to tell you is that this file format is not available in full auto mode. This was a disappointment to me. The highest resolution image you can capture at full resolution in full auto is a 3mb 3072 by 2048 JPEG image. I work in the publishing business and JPEG's usually degrade too much to be of any use after being edited once or twice. Canons software will convert the images to TIFF files and there are also plug-ins available for Photoshop to convert the RAW filesto TIFF's as well. 
+
+Battery life is nothing short of extraordinary. 500 shots per charge is not uncommon. I still purchased an extra battery for convenience sake since they are not unreasonably priced as some batteries can be. 
+
+The camera's menus are easy to navigate, quick to set and very clearly laid out. The LCD display is adjustable, clear and mine was free from any stuck or dead pixels. 
+
+Image quality is excellent, detailed, crisp and bright in all modes (there are creative, full auto, full manual and programmed manual settings). 
+
+Canon has a winner on their hands, and I am sure they will capture (and convert) many Nikon and other die-hard camera fans with the price of this digital SLR. For the price, you really can't ask for more. I wouldn't hesitate to reccomend it to all but the most finicky (professionals). 
+
+Good shooting! 
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

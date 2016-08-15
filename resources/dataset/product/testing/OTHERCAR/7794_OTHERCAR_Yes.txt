@@ -1,0 +1,36 @@
+DOC>
+<DOCID> 7794 </DOCID>
+<PRODUCT> Digital_Cameras/Fuji_FinePix_S2_Pro_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_81739812484 </URL>
+<TEXT>
+            The Finepix S2 Pro is the second generation digital SLR from Fujifilm.  Despite its low-profile brand, its quality and performance are at the very top.  Its highlights include:
+ - Nikon F-mount that accepts a full range of Nikkor lenses
+ - Firewire port
+ - USB (1.1) port
+ - Uncompress RAW or TIFF picture formats
+ - ISO range from 100, 160, 200, 400, 800, and 1600
+ - Additional display panel above LCD panel allows quick adjustments & access
+ - High speed five-area auto focus system
+ - Dual-media slots (Smart Media, Compact Flash I & II, and Microdrive)
+ - Optional camera-to-PC shooting software (differs by region)
+
+The camera is based on Nikon F80 SLR with conventional shooting modes of M (Manual), A (Aperture-priority), S (Shutter-priority), and P (Auto Multi-Program).  If you are used to the robustness of Nikon F3, F4, or F5, the S2 Pro can &#145feel&#146 somewhat fragile.  Don&#146t get me wrong, the built quality is great and the pictures are even better.
+
+Naturally most buyers or prospective buyers will be comparing the S2 Pro with Nikon&#146s own D100.  Most buyers probably own some Nikon gear already, too.  I&#146ve along been a Nikon user since the F3.  When the S2 Pro came out, I couldn&#146t resist a head-to-head comparison with the D100.  The results came as a surprise for me.  With same settings at 6MP, same shutter speeds and apertures, JPG fine, and everything else at default, the S2 Pro produced slightly sharper pictures, better over contrast and saturation than the D100 did.  The difference is clear with skin tone reproduction.  The S2 Pro produced more life-like colors with higher contrasts.  Just about everyone who saw the pictures preferred the ones taken with S2 Pro.  In the end, it&#146s the images that matter.  
+
+The S2 Pro does lack the portrait grip that is offered as an option on the Nikon D100.  I have been spoiled by the portrait grip on the F3 and the F4s.  The S2 Pro should have been designed with one.
+
+The dual battery design of the S2 Pro also seems awkward.  The four AA&#146s at the lower compartment serve all the digital functions such as preview and read/write to media.  The two lithium (CR123A) ones serve conventional functions like metering system, and built-in flash.  Naturally the lithium ones have longer life than the four AA, you&#146ll have to carry two different kinds of spare batteries.
+
+For the first time at this price point, the S2 Pro offers a Firewire port as well as an external flash sync terminal that are commonly found in more expensive digital SLRs.  The additional display and four bottons above the LCD screen provide quick access to white balance settings, resolution setting, AF modes, shutter speed, aperture, and more.
+
+Another great feature of the S2 Pro is the hyper utility software.  It allows the camera to be connected to a PC (via Firewire only) or a Mac where your PC can instantly (well, almost) retrieve the images for preview.  There&#146s no need to use the camera&#146s internal media, and it&#146s great if you do a lot of studio work.
+
+If you are looking for a professional digital SLR, the S2 Pro is definitely worth a closer look, even if you are starting the system from scratch.  If you already own Nikon gears, do find a chance to compare the D100 with the S2 Pro before you buy.  That way you can choose the one that suits your preference.
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

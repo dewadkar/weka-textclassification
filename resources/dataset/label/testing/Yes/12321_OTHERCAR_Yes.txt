@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 12321 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Mitsubishi_Eclipse </PRODUCT>
+<URL> http://www.epinions.com/auto-review-13C2-4F921E8-385C04D3-prod2 </URL>
+<TEXT>
+            Despite what others may say, the newest addition to the Eclipse family is a brilliant one.  It's sporty, roomy, and comfortable.  With the new sportronic transmission, you can choose how you drive.  A much easier to drive version of an old classic.  Compared to older models, there is much more room.  For those of you who like loud music, it's easier to install a system in this car than in the past.  Good car for teenagers because there isn't as much power as can be found in other sports cars.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

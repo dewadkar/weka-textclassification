@@ -1,0 +1,70 @@
+DOC>
+<DOCID> 33454 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_D_520_Zoom_Digital_Camera__Camera_D520ZOOM </PRODUCT>
+<URL> http://www.epinions.com/content_70955536004 </URL>
+<TEXT>
+            All right, I'm going to be brutally honest with you.  I bought this camera as a wedding present for some very good friends of mine who are getting married.  I chose it because I have a very similar model (D-510).  But I'm not going to see my friends until at least the end of August and frankly, I couldn't resist the urge to pull the camera out of the box and, y'know...make sure it works alright.
+
+Well, no major surprises really.  It looks and functions a lot like my camera with a few minor improvements and design changes.
+
+Here's the rundown of what I think is right with the camera.
+
+The Camedia D-520 is very easy to use.  Of course, I had the benefit of having used a very similar model of camera, but nonetheless I feel confident that most people would find it very easy to open the camera, take pictures, use the zoom lens and review the pictures stored in memory on the viewing screen.  I refused to consult the owner's manual with my own camera and figured out how to do these things without much of a problem.  
+
+The software bundled with the camera (Mac & PC compatible) is pretty straightforward as well.  I of course took the opportunity to compare this version of the photo editor to the one that came with my camera (bought almost a year ago).  There were no major discrepancies.  Loading your images, trimming them, rotating them and playing with the contrast, etc. are all intuitive to anyone with a moderate degree of computer literacy.  Note: you will need a USB port on your computer in order to upload the pictures from your camera.  A USB cable is provided.
+
+The D-520's 3x optical zoom allows for a modest range of framing variability.  The zoom effect is visible both on the viewing screen as well as through the view finder.  This feature, along with the editing capabilities offered by the software allows for a lot of flexibility (up to 7.5x zoom).  The lens itself is capable of shooting objects 18" from the camera.  
+
+My favorite feature of this camera is pretty much universal to all digital cameras: the erase feature.  (I actually did have to consult the manual to figure this one out.)  I think this must be one of the main selling points of digital cameras.  After you take a picture, turn on the viewing screen and take a look at the actual shot you got.  Was the lighting off?  Does your sister's double chin look too obvious?  Just trash it and try again.  What a godsend to be able to know immediately if you have a good picture rather than waiting and paying for printing before you actually see your pictures!
+
+The body of this camera is made of sturdy plastic that protects the lens, flash and memory card.  It looks (and I assume actually is) identical to the material my camera is made of and mine is holding up fine after 10 months of use in 4 different countries.  My camera has a few superficial dents and scratches, but these haven't effected the camera's performance at all.
+
+For the sake of comparison, I also printed out a few pictures I took with this camera.  They look sharp.  At a 5" x 7" size, they look about the same to me as a standard photograph from a real camera.  I tried cropping and enlarging a section of one picture and the printing quality did diminish a bit.  But for my own amateur uses the print quality seems quite adequate.
+
+One nice improvement in the D-520 is that the display screen is not an LCD.  It has glass or plastic screen to protect it, so the fact that it's right underneath the viewfinder on the back of the camera is no problem.  My model has an LCD screen optimally positioned to get nose grease all over it and thus damage it.  You can also use the display as your viewfinder, but leaving the display screen on all the time will eat up your batteries even faster than normal.
+
+Now here's a few things I don't like about this camera:
+
+The single most annoying thing about this camera is the delay in image capturing once you've depressed the shoot button.  This is true for my camera, the D-510, and I was sort of hoping that Olympus would show improvement in this department with the D-520.  Sadly, this is not the case.  This lag time means you will probably not get a few shots you thought you had, especially when you first start using the camera.  You can learn to work around this to a certain extent, but fast action shots will remain problematic.
+
+Like most digital cameras, this one eats through batteries very fast.  This is especially problematic for this camera because it runs on only two AA batteries.  There were actually two batteries included at purchase.  I've found through my own use that the best bet is to use nickel metal-hydride batteries which last the longest.  Again, this isn't a shortcoming that is unique to this model or brand; just something to be aware of.
+
+The D-520 comes with a ridiculously small memory card: a mere 16 meg.  It seems to me that the smallest card anyone would reasonably be able to get by with is a 64 meg, since each photo weighs in at around 0.4 meg.  Granted, you can conserve card space by deleting unwanted shots, but packaging a digital camera with a 16 meg card is obviously an overt marketing ploy to sell more cards.  The need to upgrade your card should be factored in when you are comparing prices on various models before you buy.
+
+The flash for the D-520 works well, but I don't like the fact that I cannot override the camera's decision about when to use it.  The only option is to push the flash down into its little recess when setting up a shot that I know the camera would normally use a flash for.
+
+Etcerata:
+
+It would have been nice if Olympus had included a carrying case for this camera.  While most of the camera is protected by the sturdy plastic exterior, the display screen is more vulnerable to damage.  It seems like such a low-cost thing to include for a high-priced item.  You may want to look for something appropriate to carry it in if you buy the D-520.
+
+There is a video feature for this camera that you can use to capture short films without sound.  You can record up to 15 seconds of footage at high resolution, or 60 seconds at low resolution.  Either way, this sucks up an enormous amount of memory, so I have rarely used this feature.
+
+The owner's manual for the D-520 comes in five languages and is fairly easy to use and thorough.  I've never run into any problems that weren't resolved after consulting the manual.
+
+
+<b>The Specs</b>
+
+Memory card: sold with 16 meg card, upgradeable
+Batteries: requires 2 AA batteries (included)
+Weight: just over 12 ounces with 4 AA batteries loaded
+Overall dimensions: 4.375" x 1.375" x 2.375" (11cm x 3.5cm x 6cm)
+Viewing screen dimensions: 1.5" x 0.9" (3.1cm x 2.3cm)
+System requirements: Windows 98/98SE/Me/2000Pro/XP or MacOS 8.6-9.2.x/OS X
+Warranty: 1 year, limited: covers only defects 
+
+
+<b>Final thoughts</b>
+
+Overall this is a very satisfactory camera that I've had a lot of fun using. Although it drains batteries very quickly, it's reliable. For amateur photographers this camera and the bundled software should meet most needs. If you think you can live with the drawbacks listed above, I recommend it. 
+
+
+I also recommend my own camera, the <a href="/content_68202106500">Camedia D-510</a>.
+
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

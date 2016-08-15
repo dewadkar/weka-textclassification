@@ -1,0 +1,28 @@
+DOC>
+<DOCID> 5584 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Nikon_Coolpix_2100 </PRODUCT>
+<URL> http://www.epinions.com/content_123018120836 </URL>
+<TEXT>
+            <b>The Nikon Coolpix 2100</b>
+''''' "Wow.  That's a great digital camera."  When I show a friend some pictures I've taken, that's what I hear every time.  So much for my skill as a photographer, eh?.  But my friends are right.  This little megapixel monster simply takes beautiful pictures.  And ultimately, that's what it comes down to, isn't it?<p>
+
+<b>Features</b>
+''''' OK, the pictures are great, but what else should I know?  Well, you don't really <i>need</i> to know anything else.  This camera has an auto mode that is perfect for most settings.  You just point and shoot and it's all good.  If you want to get fancy, however, the 2100 is very accomodating.  On manual mode, the <b>exposure</b> is adjustable to  /- 2 in increments of 3/10ths.  What do those numbers refer to?  Beats me. But I know that -2 is very dark and  2 is very bright.  I have never encountered a situation where I actually needed to adjust the exposure to take a good picture.  It's nice to have the option, however, in case you want to make art.   
+''''' The <b>white balance</b> is also adjustable in manual mode.  It's not something that you are likely to stumble upon, but it's actually a really cool feature.  What's white balance?  Beats me.  But I know that it lets you specify the lighting  that you are dealing with and that it makes a difference.  The choices include daylight, incandescent, florescent, cloudy and speedligh (the flash.)  It also has auto (the default) and preset.  Preset is a really nice, though badly named, option that allows you to use "auto" once, and then have that become the setting that the camera will use until you tell it otherwise.  So if you don't like the choices, but you don't want it to auto determine the white balance somewhat differently in every pic, you can use preset.  
+'''''The sad thing is, most users probably never mess with the white balance.  I was taking pictures of a bunch of old black and white photos, at night, in my kitchen, with two 75 watt bulbs providing light.  My pics, for some reason, weren't turning out that great.  I messed with the white balance and showed dramatic improvement.  After that, I started messing with it in better conditions and showed improved pictures there too.  But until you have a problem - and with this camera you won't have many - you aren't likely to play with the white balance.
+''''' Other features include a decent sized, <b>color lcd screen</b> for shot preview/review, manual viewfinder, timer - up to ten seconds, 2 flash modes, real zoom, "digital zoom" (which is nonsense and which you should never use on any camera including this one) and movie record (it makes silly little 10 sec no sound quicktime movies - hardly worth mentioning).  It also has preset "scene" modes that I never use and that seem kind of pointless.
+
+<p>
+<b>Interface with User</b>The interface here is not terribly intuitive.  For starters, the buttons are identified mostly by vague icons without text.  At first this prompts a lot of questions like "what's that button with the squiggly line do?"  The "internal" interface, on the other hand, is mostly "dancing with menus."  There of plenty of menus to thumb through, but there are also strangely secret menus that only pop up when you push the button with the guy doing something followed by the button with a square on it.  Like I said, not very intuitive.  But the manual is robust and the tutorial DVD is helpful.  You'll get used to this camera reasonably quickly.<p>
+
+<b>Interface with Computer</b>
+There are really no problems here as long as you ignore Nikon.  Nikon wants you to buy their flash cards and to use their transfer protocol.  And if you do, you'll be fine.  Except for paying five times to much for your flash cards.  If you use a non-nikon flash card, you can't use their protocol.  Eventually you figure out that you can just use the protocol built into Windows XP(dunno bout other os's), It works straight from the camera's usb out.  Or, what works even better, get a cheap card reader.  The reader isn't necessary but it's nice to have.  You'll have to get a second flash card, though, no matter what.  The teeny one that comes with the camera holds maybe 20 pics.  But I found a generic 128 meg card for less than half the cost of the nikon 64 meg card, and I got a cheap card reader to read the generic.  Works great.  The 128 card holds over 200 pictures and uploads pictures to the comp via the reader more quickly than does the nikon protocal.<p>
+
+<b>Complaints</b>
+I wish it were black instead of silver.  The silver sometimes reflects off of glossy or reflective subjects.  (I take a lot of pics of old photographs.)  I wish you could set the timer for always on.  As is, if I take ten pics in a row, each one using the timer, I've got to set it ten times.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

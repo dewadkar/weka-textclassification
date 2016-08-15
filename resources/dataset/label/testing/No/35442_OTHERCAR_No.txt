@@ -1,0 +1,231 @@
+DOC>
+<DOCID> 35442 </DOCID>
+<PRODUCT> Digital_Cameras/Sony_DSC_F707_621066 </PRODUCT>
+<URL> http://www.epinions.com/content_60512439940 </URL>
+<TEXT>
+            In December of last year my friend (who sells and distributes digital and analog photographic equipment) and I discussed doing a comprehensive/comparative test of all five, 5 megapixel digital cameras. We�ve already tested the Nikon D1X, The Nikon Coolpix 5000 and the Olympus E20N.  We recently got to spend the better part of a week with the Sony DSC F707.  My friend is selling the Minolta Dimage 7 as fast as he can get them and I don�t hold out much hope that we are going to be able to shake one loose to play with any time soon. 
+
+I liked the Nikon D1X and the Coolpix 5000, but I didn�t like the Olympus E20N much. I�ve been looking forward to getting my hands on the futuristic looking new five megapixel Sony. I�ve tested several Sony digital cameras and what always amazes me about the Sony Corporation is they�re all over the board in terms of design, engineering, and technology.  Unlike Nikon, Olympus, Fuji, and Canon, whose digicams have many design/engineering similarities, offerings from Sony don�t look much like each other and often perform the same functions in radically different ways.  To complicate matters further, only Sony offers three different image storage format options.  The industry standards for storage media (digital film) are CompactFlash (Nikon & Canon) and Smart Media (the choice of Olympus and Fuji). Sony should have seen the writing on the wall and jumped on the CompactFlash/Smart Media bandwagon three years ago (when it became obvious that 1.44 Mb floppy discs were going the way of the Dodo).  Instead, Sony has obstinately stuck with their proprietary memory stick storage media, the 1.44 Mb floppy disc, and CD-R/CD-RW for image storage.
+
+CD-R/CD-RW is a storage media solution that holds incredible promise, but until the read-write and initialize-finalize times can be shortened to reasonable levels CD-R/CD-RW is more a curiosity than a real solution. Sony needs to forget their corporate dream of controlling both the device and the storage media it uses. Compact Flash (and the compatible IBM microdrive because of its incredible capacity) is the most logical choice for professionals and serious amateurs who need the ability to store massive TIFF and RAW files that will be used for professional applications.  Smart Media is the best choice for amateurs and snap-shooters that need less capacity but want the same level of speed and performance. Olympus offers both CompactFlash and Smart Media card slots on their top of the line E10/E20N models and Fuji offers both options for their S1/S2 Pro Digital SLR.
+
+The memory stick is a poor third choice and until Sony realizes that its proprietary solution is the ugly red-headed step child of the digital storage media family and gets on board with either (or both) CF or SM they cannot expect to be taken seriously in the digital camera wars.  Think about it this way, the DSC F707 can easily generate 10-15 Mb TIFF (uncompressed) image files and Sony offers a maximum capacity Memory Stick of 128 Mb.  That�s fewer (TIFF) images than a twelve exposure roll of 35mm film.  Factor in Sony�s higher price per Mb for image storage media and the dream of �free� digital photography disappears quite rapidly.  The DSC-F707 is the cheapest five megapixel digital camera currently available, but you could end up having to buy five or six expensive 128 Mb memory sticks for an all day photographic outing or short vacation (or carry your laptop with you everywhere you go).  You are not required to shoot at TIFF resolution, but what is the point of having a digital camera that can shoot images that will compete with 35mm color print film, and then not use that capability?
+
+Sony�s insistence on proprietary storage media for their digital cameras will, in the long run, bring them the same result that staying with betamax in the face of marketplace reality brought them twenty years ago.  During the betamax debacle Sony had a moral leg to stand on, betamax was clearly the higher quality video tape format, that�s not the case when the memory stick is compared with CF and SM formats. If Sony wants to be a player in this lucrative and still growing high technology market they need to move forward on the image storage front.  Consumers are becoming leery of buying Sony digital cameras, lest they end up getting stuck with a dead format like their parents who bought betamax recorders. Are you listening Sony? 
+
+My second major problem with Sony�s new DSC F707 is the EVF (electronic viewfinder) the tiny EVF screen doesn�t provide enough detail for pro/serious amateur level applications.  EVF�s are a common feature in digital video cameras, but digital still photography is a much different medium. Five megapixel digital cameras are obviously targeted/marketed toward demanding serious amateur and semi-pro photographers and an optical viewfinder is a minimum requirement in pro level photographic tools.  EVF�s in digital video cameras are not a problem because the small discrepancies in focus move by so fast that our minds (�persistence of vision�) supply the missing visual data and composition is more relevant to the unfolding action than to grabbing the viewers attention with a single image.  EVF�s are also fine in digital cameras that will be used for shooting birthday parties, family events, and office picnics (something with a 1.3 or 2.1 megapixel resolution) since the small 4X6 prints and low-res email JPegs will cover most focusing discrepancies.  With a five megapixel digital camera (that has the potential to be used as a professional or semi professional imaging tool) the EVF takes critical focus decisions out of the photographers hands and that is an inexcusable engineering/design mis-step. 
+
+
+The DSC F707 is built on the popular Sony DSC F505 camera frame.  The F 505 has been around for quite a while first as a 2.1 megapixel model and then as an updated 3.3 megapixel model.  The problem with the F505 frame is ergonomic.  The massive 5X Carl Zeiss Zoom makes up about seventy per cent of the mass of the DSC F707, and that seventy per cent is not balanced, but is all on the left side of the body.  Nikon dealt with this problem in their 900 series Coolpix digital cameras (with tilt swivel lenses) by offering the cameras with moderate aperture (read smaller) 3X zooms.  The DSC F707 is not an easy camera to use, it reminds me in many ways of the disappointing Canon Powershot Pro 90IS.
+
+<b>Features</b>
+
+<i>Lens</i>
+
+The f 2.0-f2.4/38 � 190mm (35mm equivalent) all glass Carl Zeiss zoom tilts (making it possible to use the LCD as a waist level finder) and has a six blade iris diaphragm (for true depth of field),  however the lens is not stabilized. 
+
+<i>Exposure</i>
+
+Aperture Priority, Shutter Priority, Manual, macro setting, burst mode (3 full size images in two seconds), exposure bracketing (3 images with different exposure settings) Programmed AE modes: Landscape, Twilight, and Portrait. NightFraming and NightShot.  NightShot mode is the same mode featured in Sony camcorders and allows photographers to shoot images in total darkness. The images look like the grainy greenish military night vision goggle images seen in TV reports from Afghanistan.. NightFrame, lets you use infra-red focus assist to frame your subject and then switches to normal color mode and uses the built-in flash (or the optional HVL-1000) to light the image. 
+
+<i>Auto-Focus</i>
+
+Hologram Laser assisted for speed and accuracy. The DSC-F707�s auto focus speed and accuracy is comparable to mid level 35mm SLR�s like the Nikon N80/N65 and the Canon Rebel
+
+
+<i>Flash</i>
+
+The DSC-F707's built-in flash has very good range, from about 1.5 feet to about 16 feet.  Modes include automatic, red-eye reduction, fill, and off. The flash automatically pops-up when needed and features TTL pre-flash.  The optional Sony HVL-F1000 flash vastly improves flash performance.
+
+<i>Battery/Power</i>
+
+Battery performance is amazing, between three and four hours on a fully charged battery.  Sony says 280 minutes, which is actually close to the truth (most manufacturers ridiculously overstate battery capability) the DSC-F707 uses of the NP-FM50 (7.2v 8Wh) InfoLITHIUM battery (developed for Sony camcorders) The battery power level is displayed on the color LCD (or EVF) so you don�t have to wonder when it's going to go dead on you. 
+
+<i>Start-up/Cycle/Shutter Lag Times</i>
+
+Start-up/cycle/shutter lag times are among the very best in the digital camera industry.  The only consumer level digital camera that is faster is the Nikon Coolpix 5000. 
+ 
+<b>Technical Specifications</b>
+
+Resolution: 5.2 Megapixel (2560x1920)
+Viewfinder: Electronic (EVF) 
+LCD: 1.8�
+Lens: 5X Carl Zeiss F2.0-2.4/38-190mm zoom
+Exposure Modes: Program AE (3 modes) Shutter speed priority, Aperture priority, Manual, and NightShot and NightFrame exposure modes
+Auto Exposure Bracketing with +/- 0.3, 0.7 or 1.0 steps 
+Three shot burst mode at 2fps 
+Shutter Speeds: 30 seconds to 1/1000th of a second. 
+Metering: Multi-pattern, Center-weighted, and Spot 
+Sensitivity: Auto, 100, 200, and 400 ISO equivalent 
+Flash: Built-in with shoe mount and connector for the optional HVL-F1000 external flash 
+In Camera Sharpening: Yes +/- 2 EV 
+Noise Reduction: Yes (automatic for exposures longer than 2.5 seconds) 
+Image Formats: JPEG, uncompressed TIFF, movies saved as Motion JPEGs (no audio).
+Image Storage: Sony Memory Stick  (16 Mb stick included)
+Power: Sony InfoLITHIUM NP-FM50 battery pack and AC adapter 
+Other: Epson (PIM) Print Image Matching compatible 
+Filter Thread: 58mm
+
+<b>Included</b> 
+
+NP-FM50 infolithium rechargeable battery, USB and A/Vcable, 16 Mb memory stick, AC adapter,  MGI Photosuite 8.1, Videowave SE, USB drivers, lens cap, and shoulder strap 
+
+<b>Optional</b>
+
+Sony HVL-F1000 flash (this is the only external flash useable with the DSC-F707) and lens hood LSF-H58
+
+<b>In The Field/Handling & Operation</b>
+
+Everyone here in Kentucky is breathlessly waiting for spring to begin in earnest.  Three seasons of the year (Spring, Summer, & Fall) Kentucky is one of the most beautiful places on the planet.  We have dozens of varieties of blooming trees and hundreds of varieties of wildflowers.  The long grass prairies of the western plains begin here, and Kentucky is the northern most extension of the ancient southern forests that re-seeded the northern third of the continent after the last ice age. 
+
+My friend recently decided he wanted to participate in the Kentucky Wildflower Watch, a service provided by Kentucky�s Tourism folks to pinpoint some of our gorgeous spring wildflower displays.  The Kentucky Department of Travel website http://www.kentuckytourism.com will post sightings reported by amateur naturalists, hikers, birders, and photographers (you can call 1-800-225-8747) of wildflowers in bloom, and where they were found. I love the Kentucky woods in the Spring when warm sunny weather brings Dutchman�s Breeches, Bloodroot, Wild Iris, Virginia Bluebells, Bluets Yellow Lady Slipper Orchids (very rare), Trout Lilies (which my father always called Dogstooth Violets), and dozens of other varieties of wildflowers bursting through the decaying leaf litter on the forest floor and along the banks of hundreds of rain swollen creeks.  
+
+After taking a little time to run some color tests (we shot colorful plastic beach toys on a white background) which showed that the Sony DSC-F707 has excellent color balance (although both of us thought the reds were a little �hot�) we decided to go to Cherokee Park and wander the area along the scenic loop (which traverses several miles of steep hillsides with old growth woods on both sides of  Beargrass Creek) and see what we could find in bloom.  The peak of our wildflower seasons is still three or four weeks in the future (the last two weeks in April and the first two weeks in May) so we didn�t expect to find too much blooming this early.  We saw Cut-leaf Toothwort, Chickweed, Bluets (which my Dad always called Quaker Ladies), Virginia Bluebells, and Common Violets.  We also shot landscapes along Beargrass Creek, a small waterfall in nearby Seneca Park, and a couple of colorfully dressed rollerbladers on the park�s scenic loop road. 
+
+The following weekend we made a quick trip to the top of Iroquois Hill (in Iroquois Park) to shoot the small protected long grass prairie.  The City Parks Department and the Nature Conservancy plan to do a controlled burn sometime this month to kill off invasive non-native species so we wanted to check it out before the burn..  The small prairie is a wonderful refuge from the stress of the city.  During the summer the prairie grasses get chest high and the small bowl like area appears to be miles from civilization, even though the park is completely surrounded by the city.  We found a few wildflowers around the natural wetland areas (there are several small springs) and some striking late afternoon lighting on the sere grasses and silhouetted stunted leafless trees growing in the center of the prairie area.
+
+We tried to print a couple of 8X10�s with the Epson Stylus Photo EPX 785 that we�ve been testing but the print head was so clogged we weren�t able to use the printer.  Be very careful to turn off this printer (and it�s sibling the Epson Stylus Photo 780) after each use.  If you forget and leave them on for extended periods you�ll find the prints heads so clogged that the unit can�t be used again until after some serious maintenance.
+
+For a real taste of how beautiful Kentucky is in the spring visit Pine Mountain State Resort Park http://www.state.ky.us/agencies/parks/pinemtn2.htm, our first State Park (1924).  The lodge has some beautiful rockwork created by traditional mountain stonemasons (working for the Civilian Conservation Corps) in the 1930�s. The Park is located in Kentucky's mountainous southeastern corner with some of the most beautiful scenery in the eastern U. S.  If you visit during mid April be sure to check out the Pine Mountain Wildflower Weekend in Harlan (April 19-21) at the Pine Mountain Settlement School.  This is one of our premiere wildflower events with two full days of medicinal plant lectures, wildflower hikes, folk dancing, mountain music, and slide shows in an early 20th century mountain settlement school (my Parents both went to high school here).   Meals and lodging are available in the original rustic school buildings (606) 558-3571 Email: pinemountain@kih.net  Y�all come on down and stay fer a spell, we�d love to see ya.
+
+<b>A Few Concerns</b>
+
+The 5X Carl Zeiss Zoom lens isn�t stabilized and with no way to check focus except for the EVF, shots at the telephoto end have a strong tendency to be blurred or out of focus with no way for the photographer to know until after the image is transferred to the computer.  There is noticeable barrel distortion at the wide- angle end of the zoom. The DSC-F707 doesn�t offer in-camera control over color saturation level or contrast.  No Fluorescent, Cloudy or Flash white balance settings 
+
+<b>Conclusion</b>
+
+Camera design whether analog or digital is usually pretty traditional; a camera body with a lens attached, creating a balanced image making device. The Sony DSC-F707 (like the Canon Pro 90IS) is more of a huge lens with a small camera body attached. The DSC-F707 is neither intuitive nor logical in its handling and operation.  The camera is a strange combination of pro performance, digital camcorder add-ons, and amateur point�n�shoot features.   The DSC-F707 can be found for about $750 (about $100 cheaper than the Nikon Coolpix 5000) the cheapest five megapixel digital camera available.  But is the DSC-F707 really a bargain?  The images are superb, easily comparable to any other five megapixel digital camera available.  Low light options with Sony�s newest camera are just incredible, allowing photography even in total darkness.  Battery life with DSC-F707 is nothing short of great, the longest operational period available with any consumer level digital camera.  Unfortunately, the pros do not outweigh the cons.
+
+Sony could have made the DSC-F707 an exceptional digital imaging tool by simply adding lens stabilization, an optical viewfinder, and a CompactFlash card slot.  The DSC-F707 with lens stabilization (improved performance) would have overcome the ergonomic balance issues.  The addition of an optical viewfinder would have made the DSC-F707 much more attractive (and useful) to pros and serious amateurs. Finally the addition of a CF card slot would have lifted the DSC-F707 to legendary status by extending the storage capabilities to one gigabyte (with the IBM MicroDrive).  I believe that Sony could have made these three simple changes for $150- $200 per unit (raising the street price to around $900) making the DSC F707 a fantastic bargain when compared with the Nikon Coolpix 5000, the Olympus E20N, and the Minolta Dimage 7.  I can�t recommend the Sony DSC-F707.  Kick up a hundred bucks more and buy the Nikon Coolpix 5000.
+
+
+Are you considering spreading your imaging wings and setting up a <b>digital darkroom</b>? Check out my review of a bargain priced and very capable photo quality ink-jet printer. 
+
+The Epson Stylus Photo 780 ink-jet Printer 
+<a href='/content_54223670916'>http://www.epinions.com/content_54223670916</a> 
+
+For information on <b>How to Choose a Digital Camera</b> please see my review: 
+
+<a href='/elec-review-2E46-17B174E2-39A418E3-prod1'>http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+For more information about specific Digital Camera models, please see my Digital Camera Reviews: 
+
+<b>Nikon Digital Cameras</b> 
+
+Nikon Coolpix 5000 
+<a href='/content_52720406148'>http://www.epinions.com/content_52720406148</a> 
+
+Nikon Coolpix 885 
+<a href='/content_46290931332'>http://www.epinions.com/content_46290931332</a> 
+
+Nikon Coolpix 995 
+<a href='/content_40256769668'>http://www.epinions.com/content_40256769668</a> 
+
+Nikon D1X 
+<a href='/content_36023996036'>http://www.epinions.com/content_36023996036</a> 
+
+Nikon D1 
+<a href='/elec-review-4868-E2433E5-38737CF8-prod2/tk_~CB003.1.78'>http://www.epinions.com/elec-review-4868-E2433E5-38737CF8-prod2/tk_~CB003.1.78</a> 
+
+Nikon Coolpix 880 
+<a href='/elec-review-2DA8-DF21E52-39E118CA-prod5'>http://www.epinions.com/elec-review-2DA8-DF21E52-39E118CA-prod5</a> 
+
+Nikon Coolpix 990 
+<a href='/elec-review-3B78-3C431D90-3A345313-prod3'>http://www.epinions.com/elec-review-3B78-3C431D90-3A345313-prod3</a> 
+
+<b>Canon Digital Cameras</b> 
+
+Canon Powershot S40
+<a href='/content_59617087108'>http://www.epinions.com/content_59617087108</a>
+
+Canon Powershot S30 
+<a href='/content_59041746564'>http://www.epinions.com/content_59041746564</a> 
+
+Canon Powershot A20 
+<a href='/content_56389701252'>http://www.epinions.com/content_56389701252</a> 
+
+Canon Powershot G2 
+<a href='/content_47646084740'>http://www.epinions.com/content_47646084740</a> 
+
+Canon Powershot S10 
+<a href='/content_7563808388/tk_~CB003.1.74'>http://www.epinions.com/content_7563808388/tk_~CB003.1.74</a> 
+
+Canon EOS D30 
+<a href='/content_11625991812/tk_~CB003.1.58'>http://www.epinions.com/content_11625991812/tk_~CB003.1.58</a> 
+
+Canon Powershot PRO 90IS 
+<a href='/content_30440001156/tk_~CB005.1.9'>http://www.epinions.com/content_30440001156/tk_~CB005.1.9</a> 
+
+Canon Powershot G1 
+<a href='/content_8768294532/tk_~CB003.1.70'>http://www.epinions.com/content_8768294532/tk_~CB003.1.70</a> 
+
+Canon Powershot PRO 70 
+<a href='/elec-review-6496-25768DA-38C3E01A-prod9/tk_~CB003.1.70'>http://www.epinions.com/elec-review-6496-25768DA-38C3E01A-prod9/tk_~CB003.1.70</a> 
+
+
+<b>Sony Digital Cameras</b> 
+
+Sony DSC S85 
+<a href='/content_51957567108'>http://www.epinions.com/content_51957567108</a> 
+
+Sony MVC-CD 300 
+<a href='/content_45591793284'>http://www.epinions.com/content_45591793284</a> 
+
+Sony DSC-S50 
+http:<a href='/content_15885897348'>http://www.epinions.com/content_15885897348</a> 
+
+Sony Mavica MVC-CD1000 
+<a href='/elec-review-5F01-365BA12-3980602C-prod3/tk_~CB003.1.14'>http://www.epinions.com/elec-review-5F01-365BA12-3980602C-prod3/tk_~CB003.1.14</a> 
+
+<b>Olympus Digital Cameras</b> 
+
+Olympus Camedia C3020 
+<a href='/content_57190944388'>http://www.epinions.com/content_57190944388</a> 
+
+Olymous Camedia E 20N 
+<a href='/content_54953348740'>http://www.epinions.com/content_54953348740</a> 
+
+Olympus Camedia C3040 
+<a href='/content_42675179140'>http://www.epinions.com/content_42675179140</a> 
+
+Olympus Camedia C3000 
+<a href='/content_26106105476/tk_~CB003.1.30'>http://www.epinions.com/content_26106105476/tk_~CB003.1.30</a> 
+
+Olympus Camedia E10 
+<a href='/elec-review-59FB-183DFC73-3A17388F-prod2/tk_~CB003.1.42'>http://www.epinions.com/elec-review-59FB-183DFC73-3A17388F-prod2/tk_~CB003.1.42</a> 
+
+<b>Fuji Digital Cameras</b> 
+
+Fuji Finepix 2600 Zoom 
+<a href='/content_58485149316'>http://www.epinions.com/content_58485149316</a> 
+
+Fuji Finepix S1 �PRO� 
+<a href='/elec-review-5591-16816C34-39047A87-prod5/tk_~CB003.1.18'>http://www.epinions.com/elec-review-5591-16816C34-39047A87-prod5/tk_~CB003.1.18</a> 
+
+<b>Minolta Digital Cameras</b> 
+
+Minolta Dimage 5 
+<a href='/content_49104522884'>http://www.epinions.com/content_49104522884</a> 
+
+
+Just �cut�n�paste� the URL into your browser�s address window. 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

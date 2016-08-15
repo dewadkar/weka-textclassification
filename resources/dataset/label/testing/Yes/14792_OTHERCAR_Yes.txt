@@ -1,0 +1,72 @@
+DOC>
+<DOCID> 14792 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital-Umax_UmaxAstraCamm-Umax_AstraCam </PRODUCT>
+<URL> http://www.epinions.com/content_7605358212 </URL>
+<TEXT>
+            I was waiting for a digital camera that took great pictures, 
+downloaded them quickly to my desktop or laptop, and cost less
+than $200. I looked into the HPPhotoSmart 215 but was turned off
+by reports of battery issues on epinions, especially since the 215
+took 4 AA batteries. SmartMedia was reported as difficult to change
+as well. That wouldn't do.
+
+Then the Umax Astracam 1800 came to my attention. 1.3 megapixels, 
+Sony CCD, USB Download, TWO AA batteries, Video Out, and will take
+Smartmedia up to 32 Megs (thats 160 1280X960 photos!). All for about
+$200.
+
+Nobody had it. Backordered. So I waited some more and finally got one 
+from PC Mall for $184.99 plus tax and shipping. When it arrived it
+was pretty obvious that it was a re-stock. The Panasonic alkaline batteries
+in the unit were dead and the strap was also missing. I believe this was not 
+the fault of Umax, but of PCMall.
+
+I put fresh AA's in and clicked the SmartMedia into place and turned it on.
+The camera came to life and I was taking pictures right away. It is important
+to note that Umax kept costs down by not including a preview screen. The
+view-finder is accurate (unlike my 35mm). There is no zoom. This IS a budget
+camera! 
+
+Next I installed the software. I attempted a minimum install and it was a disaster.
+The software argued with the scanner (which is also a Umax!). I uninstalled everything
+and installed again fully (except the Adobe PhotoDeluxe disc). This time the camera chirped
+to life and began sending the pictures to the computer. Although I can access the
+camera via Twain in my graphics program, I found it easiest to give in to the
+automatic software (cheesy background music and all) and just copy select images to the folders I want them in.  What could be easier? Note: AutoDownload is PC only.  
+
+The software looks like it would be perfect for a family's needs, with slideshow and printing options. It even has a panorama stitching option that I'd like to play with
+sometime.  
+
+The pictures looked fantastic. Blacks were true and colors were very good. Even
+taken through the windshield of the car they looked great. As a web-designer
+this camera will meet many (though not the most critical) of my needs. I can shoot 
+an object and be working with it on my computer in minutes. Switching the SmartMedia
+is superfast. It's also VERY economical. I popped in an 8 meg card from Outpost ($20
+including overnight shipping!) and the camera was ready to take 40 more shots.  
+
+In dark situations the pictures were occasionally grainy, but the camera often did well in
+low light with no flash at all. For the first couple of days the camera wouldn't autodownload without rebooting, but that stopped mysteriously. Now I just plug in
+the USB cable (which is always hooked up and ready) and it goes to work. THIS is
+EXACTLY what I was looking for. 
+
+Only after scouring the net did I find out that I could set the auto-timer
+by pressing the two outer buttons at the same time, then pressing the shutter
+button. Or that you can tweak the exposure. Why Umax didn't include this in
+the manual is beyond me. 
+
+The construction is pretty light duty, but not terrible. Umax has been using
+this general design for awhile and things make sense. But there have been quality-
+control issues: the source of the auto-timer info received his with a loose lens
+assembly - it took lousy pictures. He was able to fix it, but the casual user
+would probably just send it back. I'm sure as they put more out they will address 
+some of these issues/concerns. 
+
+I am more than pleased. I've been taking pictures constantly for 5 days and even
+left the camera on for a few hours and the batteries still read full.
+I plan to have some prints made and then report the results.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

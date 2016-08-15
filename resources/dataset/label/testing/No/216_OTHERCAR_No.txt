@@ -1,0 +1,43 @@
+DOC>
+<DOCID> 216 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_Powershot_G1 </PRODUCT>
+<URL> http://www.epinions.com/content_12010622596 </URL>
+<TEXT>
+            Since everyone seems to be in love with this camera, I would like to take this opportunity to present the negative viewpoints of the camera, and thus justify why I do not recommend this camera: 
+	CONS
+
+-The camera cannot be turned on with lens cap in place. You get an LCD error message, requiring you to switch camera off, then on again. I would prefer that it give a viewfinder LED and audible warning instead
+
+-The zoom control is located on a ring surrounding shutter release, and the minimum aperture is f8. Furthermore, the buttons on the back in way of thumb & should be closer to middle of camera. 
+
+- I can�t convert the Video format, AVI, to something smaller like MPEG, as it seems blocked by Canon.
+
+-The FULL AUTO mode is definitely not designed for indoor shooting especially under Sulfur vapor lights. Also under fluorescent lighting, picture are always severely under exposed. 
+Obviously the G1's programming has never taken into account those lights 
+
+-The Dial for mode switching is used for too many things causing you sometimes to switch out of a selected option thus causing horribly shot pictures. 
+
+-The rubber cover over the PC connection and power are cumbersome to use. 
+
+-In addition, the lens cover does not fit over lens when it is extended. I can�t get the lens to retract unless I shut the camera to off or it times out. 
+
+-I don�t like the fact that the software constantly asks you to select applications every time you link to your PC. 
+
+-Terrible flimsy rubber cover over input/output terminals.
+
+-The swivel LCD is neat but does not rotate a full 360 degrees. Someone may break it off if in a hurry or not familiar with operation. 
+
+-The Tripod mount off-center, which could cause some problems with set shooting situations. 
+
+- The Diopter adjustment wheel is far to small, and is also hard to adjust. In this situation, I think that the remote is definitely handy.
+
+In addition, the lack of a focusing aid (ie. enlargement area) is a weakness as one generally has to depend upon the camera's auto-focus capability. Of course there is a focus set feature for non-centered subjects, but it is not always clear (in the view screen) when this procedure is needed. Deleting pictures one at a time takes 3 button pushes: set, right, set. Perhaps a small issue, but this is one push too many and set has to be used twice in row to delete 2 adjacent shots. The lack of a large, rubberized handgrip makes me feel a wee bit insecure. I am considering some anti-slip tape over some of the smooth areas on the right side of the camera.
+
+In conclusion, despite the fact that this camera has made remarkable advancements in the area of digital camera technology, I would much rather wait for a camera that has less kinks in it than to spend my $800 on a camera that will surely become obsolete in a few years. 
+
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

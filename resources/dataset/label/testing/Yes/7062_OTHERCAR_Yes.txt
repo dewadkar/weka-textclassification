@@ -1,0 +1,80 @@
+DOC>
+<DOCID> 7062 </DOCID>
+<PRODUCT> Digital_Cameras/485156_Fuji_Film_Fuji_FinePix_4700_Zoom </PRODUCT>
+<URL> http://www.epinions.com/content_10948021892 </URL>
+<TEXT>
+            (UPDATED March 18, 2001)
+
+This is an excellent little point and shoot digital camera.  It is a good replacement for a compact 35mm film camera.
+
+Digital cameras have progressed significantly in the last several years to a point where you can now buy a decent camera for a decent price.  The Fuji overall gets a 4 star instead of 5, mainly because it requires some post-image correction of photos.  If you are familiar with photo-editing tools, then don't let this stop you from picking up the 4700.
+
+I'll expand on some of the items in the pros/cons list.  Before I do .. let's talk about resolution.  2 Megapixel cameras are going to be more than enough for most people, because 2MP ~ 8x10 printed photo.  How often are you planning on printing photos that big?  Beware falling into the trap that you need a 3 or 4 MP camera just because it's the latest and greatest.  (Remember also, that the bigger the image produced, the more memory you need).
+
+Anyway on to the Fuji 4700...
+
+Starting with size: this camera can fit easily in a jacket pocket which makes it great for taking on trips or around town. Don't underestimate the value of compactness. This is likely the best part of the camera.
+
+Speed: if you have been shooting with a 35mm camera, you will notice very little difference in terms of getting the camera started, to the recycle time between shots.  Some digital cameras like the Sony line are *extremely* slow in both starting and between shots.
+
+Looks: it's a great looking camera; petite and with a magnesium alloy body - there is nothing other to say about that, except be careful leaving it lying around!
+
+Discounted prices: I picked this camera up for $500 US. That marks a *remarkable* achievement in the market considering that the same camera was listed for $1000 US last year.
+
+Battery life: I have experience using older digital cameras, and trust me, 100+ shots (without LCD) on a pair of batteries is pretty good (compared to 20 on an older Kodak that took 4 AAs).
+
+Ni-MH: this is an excellent choice for power, since Ni-MHs are cheap (compared to proprietary batteries) and provide quite a bit of juice.  They are light and small, and so you can easily carry an extra set.  They are also affordable. [Fuji is taking a step backwards with the 4800z and going proprietary again]
+
+Features & stuff to play with: I couldn't begin to list all of the features ... it has a fair number.  Nothing outrageous though.
+
+16 MB card: you will hear most people say this is too small.  Well small is relative - and considering most cameras come with 8 or 4 MB, 16 MB is pretty good!  You can fit 50 shots on it at 1280x960 and medium quality.  I recommend shooting at high quality however, as that limits the amount of image loss by jpeg compression.  You can get 25 shots at 1280x960, or 8 at 2480.
+
+Interface: the menu interface both on the LCD control panel, and the LCD display are clear and concise.  Interface btw - is not ergonomics (see below)
+
+LCD: the main LCD display panel is beautiful. Sharp and with good contrast.
+
+Protected lens: when the camera is off, a thin metal cover keeps the lens clean.  Finally, no lens cover to lose...
+
+3x optical zoom: a remarkable achievement for a camera this size.  Too bad about barrel distortion at the wide-angle though... (see below)
+
+Movies: I was cynical about this feature at first, but after using it I am surprised.  I have a Hi8 camcorder but I rarely use it because of its size, and because it draws too much attention to the user.  The Fuji is great to start with.  You may not think 80s is much on a 16 MB card, but the truth is, if you filming friends, they don't usually have much to say anyway...
+
+IMAGE QUALITY
+
+Good colors: the Fuji produces the best natural colors I have seen from a digital camera yet. (Go to www.imaging-resource.com and compare the images of the Fuji to the Canon S100 to see the difference).  That does not mean something better won't come along.
+
+Flash: initially I believed the flash had a good range, but I am starting to believe that it is not that good.  In fact many of my photos have required post- brightness, contrast, and intensity corrections.  The flash is quiet though, and works well if your subject is close.  One other complaint about the flash: you do have to push the button to raise it.  Not a biggie...
+
+Barrel distortion: quite apparent at wide-angle in photos with any kind of edges in them.  Again, an image editor is needed to fix this.  A suggestion is to use the free photoshop filters called Debarrelizer (with an angle of 28-32deg) or Panorama Tools (Ptools, 1.1 and 0.04 for D,C fields).  By the way, photoshop filters also work with PhotoDeluxe 2.0 (which comes with this camera), and Corel PhotoPaint.  So you can fix the distortion, but it is a pain.
+
+Blue tint to images: there is a slight blue tint to the images (nothing as serious as Canon cameras though). Again, this is something easily corrected with an image editor. 
+
+A common complaint by users is that images are somewhat soft.  This can be corrected by changing the contrast/intensity and doing a 10% sharpen with an image editor.
+
+Blurry pictures: you will get more blurry pictures with this camera than most compact 35mms. The solution is to learn to be still when shooting, and to make sure you have allowed the camera to focus lock on the object.  Another possibility is to use macro mode (if your subject is closer than 80 cm), use the AF/AE locks and hold the camera steady.
+
+OTHER STUFF
+
+No 1600x1200: this maybe perhaps the achilles heel of the camera.  The fact that 2400x1800 requires alot of storage space means I don't use it as much as 1280x960.  Not to mention the 2400x1800 adds a fair bit of interpolation, such that the resulting images are fuzzy on scree.  (They are good for printing out though). 1600x1200 (which will be available in the upcoming 4800z in June) would have been nice to have.
+
+Printing: Images printed on my Epson 740 have been exceptional, and beyond my expectations.
+
+Ergonomics: a couple of complaints:
+a) its possible to drop this camera because sometimes you need to pressing buttons on it with both hands. If you're pressing buttons, it becomes hard to hold onto.  (in other words, may be a bit too small)
+b) there are WAY too many buttons on the back of the camera.  They all have a good purpose, but I wish Fuji found away to have less of them, and still keep it useable.  At first use, the interface is intimidating.
+c) shift button (for secondary features) is pointless most of the time and requires two handed operation (see (a) above)
+d) round lcd panel - they could have fit more info in it if it was square.  Also would be nice if it was clearer.
+
+Manual mode: the inclusion of a manual mode with the ability to set ISO, manual focus, etc., is nice, but not really in line with the target market of this camera.  The main problem is that setting up manual mode takes time and is essentially a pain.  I appreciate the intentions, but wish Fuji had put the time in improving the camera in other areas.
+
+USB jack: it is the small mini-usb type, and I am worried about how long it will last after repetitive use.  (This is fixed with the 4800z - because it has a USB cradle).
+
+Lastly... there is no case included with the camera. Not really a big deal, but still, I kind of expect a case for a camera that looks so great.
+
+Overall, a good camera for people just getting started in digital photography.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

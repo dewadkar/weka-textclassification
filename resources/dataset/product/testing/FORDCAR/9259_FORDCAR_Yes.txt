@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 9259 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Ford_Contour </PRODUCT>
+<URL> http://www.epinions.com/auto-review-2DCA-91D47A-390644EE-prod4 </URL>
+<TEXT>
+            The 2000 Contour is a 4-door, 5-passenger midsize sedan available in one trim only. Its closest competitors include the Nissan Altima, Volkswagen Jetta, Pontiac Grand Am and Chevrolet Malibu. According to Ford, &quot;Contour offers shoppers an attractive blend of responsive driving dynamics, upscale styling and sporty performance.&quot; Upon introduction, the Contour is equipped with a standard 2.5-liter, V6, 170-horsepower engine that consume 20-mpg in the city and 29-mpg on the highway. A 5-speed manual transmission with overdrive is standard and a 4-speed automatic transmission with overdrive is optional. The 2000 Contour is a carryover from 1999. New standard features include a Securilock(tm) vehicle anti-theft system, variable-speed interval windshield wipers, remote keyless entry, power antenna, fog lights, and added colors. <br><br>
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

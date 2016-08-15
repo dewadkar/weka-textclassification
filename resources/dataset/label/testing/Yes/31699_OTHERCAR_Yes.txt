@@ -1,0 +1,48 @@
+DOC>
+<DOCID> 31699 </DOCID>
+<PRODUCT> Digital_Cameras/Minolta_Dimage_Xi_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_85881228932 </URL>
+<TEXT>
+            I purchased the Dimage Xi after much research. I was looking for a small digital camera that I could have with me all the time. In addition, I also wanted a camera that had the capability of recording video clips at 30fps with audio, and the Dimage Xi does it very well. The video clip resolution is 320x240, so at full size, the video output will have some artifacts and be a little bit blurry. If you view them at the native resolution, they're quite good. 
+
+One note, when you are recording a video clip, only the 2X or 4X digital zoom is functional, and like all digital zooms produces pixilated results. The 3x optical zoom can be preset before shooting, but cannot be adjusted during.
+
+I found the operational menus easy to navigate, with the only problem being that the displayed text is quite small, so you really have to pay attention to what you're doing.
+
+The various resolution settings will allow for very high-resolution photos, which can easily yield photo-quality results with prints up to 11x14. However, if you are planning on cropping the original and then enlarging the cropped portion, you may only be able to obtain photo-quality results up to 8x10 instead. 
+
+There is a nice feature which in the Review mode, allows you to select images for e-mail use and automatically makes a copy of the image, ready for e-mailing, i.e. 72 dpi and 640x480 resolution, set up as a jpeg image ready to attach to any e-mail or posting on the web.
+
+As an improvement, I would like to see a future iteration of this camera having a direct access button on the camera to toggle between still image recording and movie recording. 
+
+I found it a little cumbersome to always have to go through the menu process to select between the camera's Movie Mode and Still mode.  You'll probably find yourself doing this more often than you might expect.
+
+The first of only two complaints I have with this camera has to do with the White Balance control. This is used to adjust the camera to the light source of the scene to assure that the colors are the same as you see with your eyes.
+
+For example, when a scene is photographed under florescent lighting, without the proper white balance being set, the photo will turn out with a greenish cast to it. Likewise, if the camera is set the Outdoor setting and you take the photo indoors with only incandescent lighting (regular lightbulbs) the resulting image will have an orange cast to it, making it look like it was illuminated by the light of a fireplace.
+
+I found that regardless of the combination of settings I tried, including the AUTO setting, every photo where the flash had been used, the images turned out having a bluish cast to them. As a result, I had to adjust the color balance using Photoshop (which most people do not own). The included software can also be used to make color corrections, though it is somewhat limited.
+
+This condition may have been unique to my particular camera, but it was so annoying that I decided to return the camera. Unfortunately, the dealer I bought it from was again out-of-stock, so I had to accept a refund. When I find another one that I can try out first, if the problem turns out to have been unique to the particular unit I originally purchased, I'll eagerly buy another one.
+
+I am sure that after this camera has been on the market for a few more months (as it has just been available for 3-4 weeks as of this date), if what I experienced turns out to be a widespread problem, Minolta will have to offer a software patch to remedy the situation.
+
+If it turns out to be a hardware issue, then the problem will not be fixable without sending the camera to Minolta for repair which is not an exciting alternative.
+
+As I mentioned, my particular camera may have had a problem, and the situation may only be an isolated case. My recommendation would be that before you buy, if possible try it out to confirm that the results are pleasing to you. Try many flash shots, both indoors and outdoors. For the outdoor shots, be sure to use the camera's Auto Fill-In mode.
+
+Unfortunately, at this time, very few retailers have this camera in stock as it is VERY popular. If you do find one, insist that they put a SD memory card in the camera so you can try it out. Most stores are reluctant to do this, as the cards get stolen if left in the camera.
+
+In my case, I could not find a single store where I live that had the camera in stock, so I had to buy it on-line and did not have the luxury of trying it out first.
+
+My second criticism is that even though the camera is ready to shoot almost immediately after pressing the Power-On button, when press the shutter release, there's a two-second delay before the picture is actually taken. Many times, this delay period results in a blurred picture or one where the subject is in the middle of a 'blink'. Be sure to also try this when you check out the camera in the store.
+
+These two issues are my only complaints about this camera, and one of them (the bluish cast delivered with flash pictures) may be an isolated problem that you won't have to deal with.
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

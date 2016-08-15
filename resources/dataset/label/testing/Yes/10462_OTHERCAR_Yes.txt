@@ -1,0 +1,124 @@
+DOC>
+<DOCID> 10462 </DOCID>
+<PRODUCT> Digital_Cameras/Canon_PowerShot_A200_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_91284213380 </URL>
+<TEXT>
+            A200s have been discontinued by Canon, but Canon cycles new Powershots very quickly.  Its predecessor, the A100, is no longer available anywhere.  The A300 is now being marketed in 2003, with a slightly different layout.
+
+This report was made after 6 weeks with an A200 after 300 photos. I used 2 sets of charged AA NimH ~ 150 images per set, for this test. I spent a lot of time playing with menus.  Chances are you can get more images per battery charge.
+
+I've owned a digicam since 2000, and used them since 1996.  For picture quality per megapixel, I rate the Nikon Coolpix as one of the highest, albeit not the easiest to use, with cryptic menus and button layouts.  2 Megapixel is old stable technology.
+
+Powershot photos hold their own against the Coolpix, but the Coolpix algorithms and lens still makes it a superb 2 megapixel over the Powershot.  See Steve's Digicam for sample photos and movies.  
+
+However, a Powershot A200 menu makes the Coolpix menus look like Calculus.
+
+The A200 reviews on epinions.com are true, and there are equally detailed and good reviews at the power-user level at http://www.steves-digicams.com
+
+I draw different conclusions on its usability, its great!
+
+I have an intrinsic bias towards no-fuss rugged devices I can take to remote locations, with minimal support equipment, to quickly take in-out of jacket pocket, turn on, and snap a photo.  I'll often be in a situation requiring a quick shot:  in bad weather with wind blowing all around, a rough ride on a boat etc.
+
+For this test, I've been using the A200 in 6F weather, blizzard snow, rain, in doors, dropped on rugs and couches (its still under warranty :)) to see how it faired.
+
+The A200's diving case ruggedizes the camera substantially, it floats, and you can't say that about most digital cameras.  On power up in 2-3 seconds, its ready to snap.  Tons faster than the Coolpix.  Firing lag increases as the battery wears down.
+
+There are better scuba diving and smaller cameras out there, but a 30% reduction in size doesn't translate to 100-200% increase in cost, such as the Elph series of Canon, or other issues such as dedicated batteries (and chargers!)
+
+All alkaline powered cameras eat batteries.  Its really just an excuse to use AA NiMH, and I strongly suggest you get a set of rechargeables to make digital photography economical.  Generic AA NiMH are cheaper, get over 100 shots per set of AA, and keep many spare pairs around.  NiMH are easy to find, its chargers are small and compact, and if you coordinate your gear, you can use AA with other devices (shavers, lights, walkmen, radios etc.) whereas dedicated batteries are dedicated, and you have to lug a separate charger for it.  However, the 2 AA in the A200 don't last as long as 4 AA used in my Coolpix, but in return the A200 is small enough to operate single handedly.
+
+Pro photographers tell you only a small fraction of your photos are keepers, under 10%.  Key then is taking a LOT of pictures per event.  Typically I do about 300-500 per trip, if not more.  With memory cards cheap these days, digital makes such a session realistic and _very_ economical.  Compact flash I is old memory technology.  $40 get you 128M-256M depending on deals.
+
+A200 Hi res 1600x1200 images are ~500K each, and default medium compression.  Medium compression is best compromise to use regularly. Powershot's light sensitivity and gamma is set a tad lower than my Coolpix.
+
+Minimal compression is best in posed timed tripod shots, as even your heartbeat jitter will show a minor blur that negates the sharpness of this mode.
+
+To get the most out of any camera, it pays to read the manual, but a Powershot in default "idiot" mode, is just open, fire and shoot.  It cycles quickly without using the flash, and its 3 seconds for flash cycling with fresh batteries.
+
+A macro mode is good to ~ 4", compared to a Coolpix's 0.25" and I use these features often to take close ups of wildlife. In practice its more like 2-3 inches.
+
+Its easy to switch to silent movie mode, open the lens hold it down for 2-3 seconds, and fire away.  Do it again to flip to camera mode.  short movies, at least 320x240, improve an appreciation, over a static shot, of a tornado in motion, or large waves crashing on beaches.  Once on, Auto or manual modes are set until reset.  The camera and button layouts are such that you can operate all controls with one hand [sorry lefties] and thumb, like a cellphone (the A200 is about size of a cheapie Nokia.)
+
+Without a zoom option, there are limited creative framing options available, but this is the economy feature of the A200 series.  Better zooms are in the A40 and up series.
+Digital zoom is useless.  I find analog zooms make the camera more prone to drop damage and increases power on to firing time.  The fancy image processing options in the A200 are useless since its done when images are taken. Image processing is most flexible done a good basic photo on your PC, not in the field, or on a 1 inch LCD screen.
+
+Most of the software and cables of the A200 can be dumped.  Its easier, faster and economical to use a $20 compact flash reader, take the images out of camera this way and not bother with twain drivers.  Why waste batteries this way?  You can use any software thereafter for image processing and cataloging on your PC.  If you don't have any, well, Canon gives you some ... however there are better freeware options out there.  The stitching feature however, is tailored made for Powershot, so if you enjoy making panoramic views, you may want to load their imaging software.  The install was flawless on Windows 98.
+
+The camera can be controlled via the USB port. These functions work best in better cameras, such as taking time lapse photos. But without advance framing and syncing capabilities, this feature has little use.  The A200 is a good entry level camera, and Canon could remove these features to increase battery life or decrease the camera size and weight.
+
+What would give this camera 5 stars?  Tad longer battery life, but its OK as is.  Better ergonomics and a user interface, but its OK as is.  Its one reliable digital camera you can get for $180 with good imaging.  Scuba case can be found from $160-200.  
+
+When buying on the net beware, some lower priced offers are often negated by padded costs for shipping and handling.  The net cost to you is almost the same for purchases from a more reputable dealer. 
+
+
+SCUBA DIVING TO 130' IN ROUGH WEATHER WITH THE A200 AND CASE  April 16, 2003
+
+The weather was rough the last two weeks, blowing wind to the low 60s, seas to 8-12', bad vis is most parts, but occasional good moments.  The A200 in its case survived well, and it took superb pictures.  I rate it a 5 star over any basic underwater camera and my yield of good photos is over 80%!  Centered, light balanced, close ups, and yes! NO FLASH in many photos and still excellent results.  Oh my, and the movie mode! Excellent underwater, WYSIWYG.  I took 250Megs of images and movies.
+
+Movies are 3.8megs long maximum, regardless of time.  In complex images, it can be as short as 15 seconds, but images that compress well lasted up to 30 seconds: blue water vistas with fish did better than a close up of a hydroid in macro mode.
+
+In depths just a foot or so past 100' the camera buttons were very stiff and would not operate! Not only could you not take photos, but it served as warning one was past operational depth.  No leaks in bounce dives to 130' in multiple dives, and operation began easily once above 100'.
+
+The complex series of buttons on the diving case seemed overdone, but after much practice taking surface shots, the identical buttons in the diving case made it easy to reflexly adjust the camera to take underwater photos and movies.  In many instances, sudden events occurred and while the camera was stowed, I quickly whipped it out and fired away!  Cycle time without flash was fast, movie mode set up was fast, and I didn't miss anything I pointed my camera too!  Awesome!
+
+It was a snap to open the camera and do maintenance on the boat quickly, in rough weather.  However, the latch requires two hand operation and prevents accidental opening anywhere.  Awesome!
+
+The camera suffered when images over 4 feet away would backscatter horribly at times, but the same image done close up would come up superb with the diffusion filter applied ( included with the case.)  So, I simply did natural light photos, a blue tinge, but it was photo real.  Then, I would switch to movie mode and take a moving picture to add more info to a high resolution static image.
+
+In cold water, NiMH battery life was reduced over half, so it was necessary to switch to fresh batteries per dive.  It seemed to last as long as on the surface once water temps were in the 70s.
+
+I played with the autofocus and IR ranging focus assist, and the camera had difficulty focusing without it underwater in vis as low as 5'.  So, in the default 'idiot' mode, the camera does best.  Leave it be.
+
+Love it!
+
+
+CAMERA and CASE May 4, 2003
+
+BATTERY LIFE:  In the Caribbean in 80F water, the batteries lasted over 4 hours of diving a day, pratically the entire dive day.  I switched to Radio Shack 1800mAH.  You can get no name brand 1800mAH or better elsewhere on the net for $2.50 a cell.
+
+http://www.radioshack.com/product.asp?catalog%5Fname=CTLG&category%5Fname=CTLG%5F004%5F021%5F000%5F000&product%5Fid=23%2D528
+
+Took the camera and case on a short technical dive to 180'.
+The buttons won't work, but the case didn't leak.
+
+It functioned above 100' but the power-on button is sluggish until 90'.  TIP: turn the camera on before descending past 90',it will power on when any other button is pressed.
+
+Note the camera case is only rated to 100' and while engineers are oft to derate a product by 50%, my prior experience with engineering methods suggests that about 180' is the true limit of this cases' integrity.
+
+Be meticulous with keeping the cases' o-ring clean and enjoy.
+
+Because of the quick power-up time,  as the camera has no motors and analog zoom to worry about, I was able to capture many underwater moments quickly, as the camera was always at the ready.  A flash picture took about 3 seconds to recycle, and I took over 400Megs of images and movies.
+
+Dropped it quite a bit it its case, survived!
+
+
+EPILOGUE: FINAL UPDATE 10.22.2003
+
+The camera died. One bottle capful of sea water entered through the lens seal at 150' 2 months ago.  This wasn't enough to damage the camera, but while surfacing, the expanding gases pushed out the small amount of water, then at 15' a small vacuum created by this leak caused 10 capfuls of water to enter, so there was about an inch of water with the case standing on end.  What killed the camera was that even with the camera OFF, a watch battery keeps certain circuits ON, so small amounts of water that managed to wet the camera initiated an electrolysis, coating some of the IC inside the camera causing many short circuits.  I disassembled the camera and verified the damage.  I disassembled the waterproof case.  Small amounts of deposits had begun to penetrate the lens seal.  Since this seal is screwed on and not meant to be maintained by the user, it led to a build up of sediment that slowly pushed into the camera until a leak occurred.  As this sediment appears as dried seawater penetrated under pressure, rinsing and drying did not clear it out once done on the surface.
+
+I called Canon, they state that the camera and its case are not warranted if new and taken diving.  This is not the case for digital cameras sold explicitly for diving purposes.  Its now back at the factory and I await the bill.
+
+IMAGE QUALITY, UPDATE:
+
+The camera has a tendency to over contrast images when light reflecting off a dark surface confuses the contrast balance.  It can be fixed with Photoshop, but less so in the movie files.
+
+
+LESSONS LEARNED:
+
+The maximum depth must not be exceeded or risk frying the camera.  Unlike analog cameras, a small amount of sea water will cause major if not unfixable damage.  Small amounts of fresh water is not as damaging.
+
+I would regularly unscrew and maintain the lens seal along with the o-ring.
+
+For pure scuba purposes, recent price drops are making digital cameras sold specifically for diving a better option because its warranted.
+
+Flood insurance won't help, typically $100 a year, a new A200 second hand costs as much.
+
+
+  
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

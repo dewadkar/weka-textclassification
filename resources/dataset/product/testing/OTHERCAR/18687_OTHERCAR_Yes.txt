@@ -1,0 +1,46 @@
+DOC>
+<DOCID> 18687 </DOCID>
+<PRODUCT> Digital_Cameras/484361_Olympus_Camedia_C_2000_Zoom </PRODUCT>
+<URL> http://www.epinions.com/elec-review-1E80-18EBE14-389536C2-prod4 </URL>
+<TEXT>
+            The C-2000 Zoom is my 3rd Olympus digital camera, and it's nice to see some pretty nice improvements over the years. The image quality is getting better and better and is getting more attention than my pro SLR! :) 
+
+At the time, I was choosing between this camera and the Nikon Coolpix 950. I went with this one mostly due to availability. On paper, the specs are great: 2.1 megapixel, 3x optical zoom, F2.0/2.8 aperture and relatively compact size. My comments will address the functionality in real-world situations. 
+
+<b>GENERAL COMMENTS</b>
+Compared to earlier Olympus digital cameras, this one certainly takes a big step forward in performance. Not only is the image cycling time much faster, the exposures are consistently well and evenly exposed from corner to corner. Even with tricky mixed lighting situations, the C-2000 does a great job of delivering smooth tone and nice sharpness throughout the focal range. The flash does a fantastic job considering its small size. Most of these comments also apply to the C-2020, which has some slight changes. 
+
+<b>ERGONOMICS: 4</b>
+As far as ergonomics are concerned, I have a few gripes. Firstly, the &quot;power&quot; button is on top, next to the shutter release button. I often found myself accidentally shutting the machine off while trying to shoot a picture. This can be easily fixed, as (I believe) is the case with the C-2020 and forthcoming C-3030. Secondly, the zooming lens extends way too far out for my liking. It's a bit ironic that such a compact camera turns into a large bulky thing when you fully extend the lens. I also don't like how the viewfinder turns &quot;blurry&quot; when the camera is off; it's only useful when the thing is turned on. The zooming action works fairly well, though having a thumb-controlled toggle on the back panel would be more efficient and lets you keep your finger on the shutter release at all times. Zoom-happy people beware: The zooming action is also quite slow. It also has a tendency to suck up more battery power than you'd imagine. One more thing; the lens cap falls off if you breath on it. The friction &quot;tabs&quot; that hold the cap in place are fragile and one of mine is broken, effectively making the cap useless.
+
+When you're shooting with the LCD off (a good idea, since it sucks up battery life like there's no tomorrow), the image appears briefly on the LCD. It would be nice to push a button and keep the image there until you push it again. This lets you show people what you've just shot because otherwise, you have to switch modes, wait for the lens to retract and then appear in the image preview mode.
+
+I don't know if this is possible, but I'd like to have the zoom lens stick out less far. Even at the wide-angle setting, I find it easy to knock the lens barrel around.
+
+<b>CONSTRUCTION QUALITY: 3</b>
+As with other &quot;prosumer&quot; cameras, the C-2000 approaches pro-level features but with consumer quality construction. Some nice touches: the SmartMedia card door and slot are solid and snap with authority. Lens cap really sucks -- needs to be built-in. 
+
+<b>FOCUSING: 3</b>
+Like most digital cameras, the best way to shoot is to compose your image with the shutter depressed half-way. This lets you lock the focus and when the green light illuminates, you're ready to shoot with little shutter release delay typical of digicams. Granted, it's not as responsive as a pro SLR, but with practice, you can eliminate the &quot;predictive&quot; shooting I often do to compensate for shutter lag.
+
+<b>IMAGE QUALITY: 4.5</b>
+Having used previous Olympus cameras before, I had high expectations. The 2.1 megapixels are really nice. Exposures are even all over, but there is some softness at the wider angle settings. The C-2000 handles tricky lighting situations with aplomb. These days, digital images are just getting better and better. I have made 8x10 prints taken with this camera, and though you wouldn't confuse it with 35mm film, it's getting pretty darn good. 
+
+<b>METERING: 4</b>
+I'm used to a professional metering system, so my expectations for this consumer-type camera were pretty low. I must say that I'm nearly always pleasantly surprised at how well this camera does. I usually keep the metering on the standard &quot;matrix&quot; which evaluates the entire scene and averages the light reflectivity. I've also tried to trick the camera with a mix of harsh sunlight, shadows and reflected light and/or flash and exposures usually come out pretty well. The flash doesn't work well beyond 15 feet, but that's to be expected with most built-in flash units.
+
+<b>FILE TRANSFERS: 2</b>
+Can you say slow? At this point, I would have expected to see USB on this camera, but the serial port is all we get. C'mon man! These images can get pretty darn big and if you fill up a 32MB card, it'll take you a while to get them all downloaded to your machine. The supplied Olympus software is also kind of lame and is also a resource hog; if you're using a Mac it'll take over your system (like printing), and on Windows, it'll slow your system down. Also, let's have more than just an 8MB card standard please?  
+
+<b>OVERALL: 4</b>
+At any rate, while this review may sound fairly negative, the machine works pretty well and delivers very satisfying results. The gripes may be minor for some people. Best thing to do is go and play with a variety of cameras and see what works for you.
+
+Happy shooting!
+
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,104 @@
+DOC>
+<DOCID> 7408 </DOCID>
+<PRODUCT> Digital_Cameras/Kodak_Easy_Share_DX4200_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_88213196420 </URL>
+<TEXT>
+            <b><i> Why I got this camera</i></b>
+
+I received this camera for Christmas because I was always borrowing my friend's HP Photosmart 612. I'm not a professional photographer, so my quality demands are the same as a 4 x 6 picture taken on an automatic 35mm camera. 
+
+I use a digital camera because some pictures of aren't worth the photo-finishing fee, but are nice to have, and I'm free to take a lot of pictures, increasing my chances of getting a really great picture. I do notice an increase in my photography skill through the hundreds of digital pictures I've taken. 
+
+I don't print most of my pictures but instead store and view them on the computer. As well some pictures I want to share with distant friends and family, or just share with a lot of people, and I don't want to spend the time and effort on developing and scanning. Sometimes I want a picture to immediately put in a digital project, such as a Christmas card, document, web page, or a calendar.
+
+<b><i> Pros</i></b>
+
+<b> Photo quality</b>
+The pictures come out quite clear, and in fairly bright conditions, the pictures are not grainy, even without a flash (I like some non flash photography because they seem more natural and capture the background better). The CX4200 produces crisp color, and sharp edges. I have printed some pictures from my printer, and some photos have been used in small publications and have come out clear.
+
+There is a slight bit of lens distortion. It is no worse than an equivalently priced film camera, and for the purposes the camera serves it is acceptable.
+
+Most of the time the exposure is correct but occasionally the exposure the camera selects isn't that good (bright snowy settings come out gray), however the camera has exposure compensation for � 2 EV. As well the exposure can be set before taking the picture by aiming it at the object to set the exposure to, press the shutter button down half way, then frame the original image and press all the way down. An example of when this is useful would be someone inside, in front of a window, point at another object inside, half press down the button, and then frame the person again. 
+
+If the camera is held still, and there is a decent amount of light, flash free pictures come out great. The maximum shutter time quoted in the manual is 1/8 a second, however with the exposure compensation set to  2, it will be 1/2 a second. At this setting if the camera is held very still (or a tripod is used) some decent night shots can captured.
+
+Underexposed photos come out a little grainy with a slight overall blue color. However outdoor photos with lots of sunlight come out amazing (with fast shutter times of upto 1/1000 a second). The flash is sufficiently bright for up to 10 feet away.
+
+The color balance is good and most pictures come out correctly. Photos look good with tungsten(normal light bulb), fluorescent, sunlight and flash lighting conditions.
+
+<b>Build quality</b>
+The camera is fairly ruggedly built and if treated with care I'm sure it will last for years. The only I don't like is the power switch / lens cover seems a little weak so I take great care using this switch.
+
+<b>Ease of use</b>
+The camera is very easy to use. I had it out of the box and taking pictures in under a minute. It is very much a point and shoot camera. The menus and buttons are set up to be easy to navigate. Multiple assignments are made to buttons to make them easy to use. For example, the "OK" button can be pressed to make selections in menus, or to turn on and off the screen in capture mode, or zoom into a picture in review mode. The arrows can be used to navigate menus, activate digital zoom or the status line in capture mode, or scroll around a zoomed in picture in review mode, or activate and scroll through thumbnails. 
+
+Although the manual (on an included CD) isn't necessary, reading it will allow you to take full advantage of the camera's features.
+
+I don't use Kodak's Easy share software, but I'm told it's easy to use. The Easy share software has the capability to set the clock on the camera to the clock on the computer every time the camera is connected. I just set the time on the camera. I use the minimum drivers (3 MB), which makes the camera appear as a drive in My Computer when the camera is plugged in and turned on. I can then drag and drop files on or off the camera.
+
+<b>Features and design</b>
+The camera includes a "share" button that allows you to tag photos for automatic email or printing when connected to the computer. I don't use this because it requires the use of Easy share software.
+
+The camera also includes a video out port that with the included cable, allows you to use a TV instead of the LCD screen. You can use it to review pictures, or run a slideshow, with very high quality. This is a neat feature because everyone loves to crowd around and grab digital cameras to try and view the picture on the small little screen. If you aren't around a computer, or are at a friend's house, you can let everyone see the picture on a big screen. With the cable, the TV can also act as a viewfinder, however it is very blocky and cannot replace a video camera.
+
+The Close up mode allows you to take pictures of objects between 20cm and 30cm and has really clear focus. Turning on this feature will automatically turn on the LCD preview screen and will say on the bottom of the screen "Close up". This prevents you from accidentally leaving it on for normal pictures.
+
+The camera includes a rotation sensor, that means if the camera is held sideways it will save it rotated (a 1632 x 1232 photo will be saved as 1232 x 1632) it will rotate it depending on which way you turn the camera. It is only good for 90 degrees each way, and not upside down, and if the camera is pointed straight down at the ground it may rotate the picture, which could be undesired. This feature can be turned off if not desired.
+
+The camera has "always capture" which means regardless of if you are in a menu or review, if you start to press down the shutter button, it will change to capture mode, this can prevent you from missing a Kodak moment. Shutter lag isn't too bad (usually under a second), and can be reduced if the shutter button is pressed half way down before taking the picture, setting the exposure before hand, which is important to capture action shots. As well, the camera has a RAM buffer will hold up to 3 pictures. This allows you to take 3 pictures within two seconds of each other, without having to wait for the camera to write to the flash memory. However the flash (the light, not memory) won't be fully recharged in this time.
+
+The camera is fairly compact, and about the size of a small 35mm camera, a lot of people just assume it's a film camera and don't think anything of it (even though the lens is toward the side). The small size is due to the fact that it uses 2 AA batteries instead of 4, and the small MMC / SD memory it uses. The camera also has a lens cover that covers the lens when the power switch is turned off. This makes it a good camera to slip in your pocket and take along with you (however a small case will prevent the screen for being scratched and provide some shock protection). It isn't as small as some super compact cameras, but they usually cost several times the cost for the same picture quality (2 MP)
+
+The camera doesn't record small videos like other comparable cameras (HP 320) however I didn't look for this; I want the camera for stills. As well it doesn't have photo effects built in like black and white photos, but you can do those later on the computer, and figure out later what will give a better picture, rather than being stuck with a black and white photo you wished were color. By keeping the options down they can keep the camera cheaper and easier to use, since that is the intended market.
+
+<b><i> Cons</i></b>
+
+<b>Memory</b>
+The Internal memory (16MB) is a little on the small side. It only fits around 18 pictures on the highest quality (3 stars) (1632 x 1232), 34 on the 2 star quality (1184 x 888) and  73 on 1 star, (800 x 600), which if you are nearby a computer is fine, but is not that good for a trip or photogenic event. I purchased a 64MB SD card and now it can fit 76 on the highest quality, in addition to the 18 on the internal memory. This is good for most of my purposes, but if away on a trip for a few weeks, you may want more memory, or access to a computer. The location for storage can be selected through the menus, without the need of removing the card.
+
+<b>Battery life</b>
+The battery life is a little short. This camera uses 2 AA batteries, however it would be better with 4. On a pair of Ni-MH batteries, I can get over 100 pictures on one charge if I'm relatively conservative on the use of screen / flash (This includes using the screen and flash sometimes, reviewing pictures on the screen, and uploading to a computer every 20 - 30 pictures). The camera has a couple power saving options such as: turn on or off "quick view" and "live view". Quick view will show the captured picture on the screen for a few seconds after it is taken. If you have this option turned off, you can view the image right after it is taken by pressing the review button. Live view lets you use the LCD screen as a viewfinder. If this is turned off, you can turn the screen on and off by pressing the "OK" button. Using the features only when you want them cuts down on battery consumption 
+
+The manual says "Alkaline batteries not recommended", they are not joking. Alkaline cannot deliver the high current required for a digital camera. They did however throw in a pair of Kodak Oxy-alkaline batteries. They are claimed to be specially formulated for high current applications. I did get a couple hundred pictures on them, but I won't buy them again. I tried using normal energizer alkalines once and the camera wouldn't function properly. 
+
+Even Ni-MH can have problems. If I'm taking a lot of pictures in quick succession, it will start flashing the exhausted battery warning(blinking battery picture), and shut off, but if I wait a couple minutes it is fine, and I can get another 40 - 60 pictures out of the batteries. The only real options are lithium batteries, or Ni-MH rechargeable batteries. I purchased a $25 charger and a couple sets of batteries. This is usually enough for my uses. The option of using disposable lithium batteries is good if traveling, or if you don't take too many pictures. Ni-MH will discharge if left on a shelf for 3 months. However I frequently take pictures, and recharge the batteries so it isn't an issue for me. As well the lithium batteries will last for a few hundred pictures more than Ni-MH. I tried some Ni-Cd batteries but I found the battery life to be unsatisfactory.
+
+The battery indicator isn't very good for rechargeable batteries. It will indicate low battery (picture of a battery that is not flashing) when there is plenty of charge, then will suddenly flash the exhausted warning, and will shut off the camera (after hopefully finishing any writing to memory). It would be better if the battery indicator had a few more options, like full, half, close to empty and empty, similar to the HP Photosmart 612.
+
+<b> Zoom</b>
+The camera doesn't have optical zoom, a 2x or 3x would be good for getting a little closer to subjects, however if it had the zoom lens it would cost more. Kodak does sell a 2MP zoom camera (CX4230) for $50 more. One advantage to not having the zoom lens is the camera can be shut off, and have the lens covered, without waiting for it to write to memory, because there is no wait for the lens to retract.
+
+The 2x digital zoom is garbage, because it doesn't capture any more information, it just blows up what's in the middle, which can be done on a computer. 
+
+<b> Viewfinder </b>
+The view through the optical viewfinder is off centered (parallax) and it is a little difficult to determine the sides of a shot, there isn't a very definite edge when looking through the window. I have to move my eye to the left side of the window to get an accurate view. I would recommend with any digital camera, use the LCD, and some reference points, figure out how to frame in the viewfinder to get a good shot. It is better using the optical viewfinder sometimes because the LCD doesn't show much in the dark, it's easier to hold the camera still when taking a picture when its by your face, better for batteries, and you don't have people saying "Is that a digital camera? Let me see that!" 
+
+<b>LCD</b>
+The LCD is a little small(4 cm or 1.6 inches). When reviewing photos, even zoomed in to the maximum, they can appear blurry because one pixel on the screen represents more than one on the picture. However the screen is brighter than some and if somewhat shielded, can be viewed on a sunny day.
+
+As well I think a small LCD status screen would be good. It could show flash settings, remaining pictures, etc, without having to turn on the backlit screen. It is a little excessive turning on the backlit screen just to tell you the battery is low or what you changed the flash setting to. This would actually increase battery life.
+
+<b>The dock</b>
+Kodak pushes the dock. Some people claim you "need" the dock, however it is not needed. It costs $120 Canadian, and makes it slightly easier to connect to the computer, and comes with one battery pack that it charges when the camera is on the dock. The camera comes with a USB cable, and is still very easy to connect.
+
+The $120 can buy a charger with 2 sets of batteries, a 64MB SD card, a case (none is included) with some money still left over.
+
+However some people may like the convince of not having to open the camera to remove the batteries to charge, and like having it on the dock ready to go.
+
+<b><i>Closing thoughts</i></b>
+In closing, this camera is very good for snapshots. If you are interested in starting digital photography, and have used simple film equipment, or if you want a first camera, and have a budget in the range of a couple hundred dollars, but want something that can produce reasonable prints (4 x 6 quality), this is a good camera to consider.
+
+Some of the low resolution cameras (640 x 480 resolution) are interesting at first, but they don't produce very good prints, they are more of a toy then a replacement of a film camera. If you want a camera that can produce good prints, but nothing too fancy, consider any number of the 2MP range cameras, such as the Kodak EasyShare CX4200 (or CX4230), or the HP 320 or 612, or similar products such as Canon Powershot or Fuji FinePix.
+
+If you need professional grade pictures, you will probably want to look in the 3 mega pixel or above range. This is just a basic snap shot camera.
+
+-----------------------------------
+<b>Update</b> March 29, 2003
+
+Today I was turning on the camera and the spring that keeps the lens cover closed broke. The cover will stay out of the way when the camera is on, but in the off position it will slide around. The lens is recessed from the opening so it should still be fairly safe. I was careful with the camera as to not break anything, especially the lens cover / switch, which feels cheaply made. I store the camera in a camera case so it should be safe. Watch out for this if you buy this camera.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

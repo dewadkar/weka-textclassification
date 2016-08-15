@@ -1,0 +1,68 @@
+DOC>
+<DOCID> 33726 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2003_Acura_RSX </PRODUCT>
+<URL> http://www.epinions.com/content_94390357636 </URL>
+<TEXT>
+            <b>Background:</b>
+The Acura RSX came out in 2002 as the replacement for the Integra.  Currently there are two models available, the base model with either 5-speed automatic w/sportshift or 5-speed manual and the Type-S model with a 6-speed manual transmission.  The base model is a replacement for the GS and LS models of the Integra while the Type-S model is a replacement for the GS-R model.  A Type-R model has yet to be released in the US and there are currently no definite plans on bringing it over.
+
+Differences in Type-S and Base model &#150 Both trim levels come with a 2.0 I-VTEC engine.  While the base model engine produces 160hp@ 6500 rpms and 141ft-lbs @ 4000 rpms, the Type-S trim produces 200hp @ 7400rpms and 142ft-lbs@ 6000 rpms.  The Type-S comes standard with leather and an in-dash 6-CD changer.  The Type-S also has additional suspension and brakes upgrades: larger front rotors (11.8in vs. 10.2in), front strut bar, stiffer suspension, and larger anti-roll bars.)
+
+<b>Changes for 2003:</b>
+There are very few changes from the 2002 model year.  The MSRP increased slightly to 20,475 for the base RSX to 23,770 for the Type-S.  A new color is now available and a &#147Factory Performance Package&#148 will be made available.  This performance package is available from Acura dealers and adds suspension, brake, tire, and wheel upgrades along with a new body kit.  This expensive upgrade will cost an additional $4800 + labor and comes with a factory warranty.  With the RSX cost approaching 30K with the performance package, my advice would be too look at a different car if you&#146re going to spend that much money.  Many other better cars are available in the ~30 K price range.
+
+My review will focus on the Type-S model, but much of the review can also apply to the base model.
+
+<b>Dealer experience:</b>
+There are about seven Acura dealers in the Chicagoland area.  Instead of visiting all of them, I emailed the Internet managers to give me a price quote.  I found this worked much better in getting a good deal.  In my e-mail I stated the invoice figures, the holdback fee that dealers get, and other price quotes from Internet managers.  Showing that you&#146re a knowledgeable consumer goes a long way in getting them to give you good quotes.  This allowed me to get my car for $200 over invoice.  Here&#146s a break down of the cost of my car.
+
+Base Price - $21,900
+Dealer Installed Options - $500
+Tax 6.75% - $1500
+Title, License, Other Fees - $250
+OTD Price $24,150
+
+<b>Interior:</b>
+The RSX has one of the nicest interiors in its class and price range.  The materials used and the build quality are exceptional.  The control layout is very clean and easy to use.  The front seats are comfortable and give you good support. The back seat though is a whole different story.  Legroom is decent for a 2-door coupe but headroom is severely lacking.  The backseats are best used for only short trips or children.  Average size adults will find back seat entry hard and will have to crouch down to avoid hitting their head on the hatch.
+
+<b>Exterior:</b>
+Overall the RSX has a clean, sleek appearance.  Although not as sporty and aggressive looking as some of its competitors, the RSX manages to come off looking more refined and upscale.  My only complaint is the car rides higher than most other sport coupes.  Park the RSX next to Celica or Integra and you&#146ll see that it&#146s a few inches higher than they are.  This gives the front passengers more headroom, but it makes the car look less sporty.
+
+<b>Practicality:</b>
+Sport coupes are not the most practical cars out there.  Although the RSX is no exception there are a few things that make it a decent daily driver.  Fuel economy is pretty good.  I generally average about 25-26 mpg in mixed driving during the winter.  I expect that the number to go up during the warmer months.  Premium fuel is required though.  Being a hatchback, the RSX does have good amount of cargo space with the back seats pushed down.  As far as winter drivability, the RSX can drive through moderate snow without too many problems.
+
+<b>Performance:</b>
+Acceleration &#150 The RSX has great acceleration.  0-60 times average around 6 and half seconds and quarter mile times are usually low 15&#146s with a decent driver to high 14&#146s (good driver and conditions).  The RSX does need to be revved high to get the most from its engine and the low torque output.  The 6-speed transmission has short throws and close ratios that allow you to make the most out the engine.  Although the torque peaks at a high 6000 rams, the RSX has a flat torque curve that provides adequate torque at low RPM&#146s.
+
+Handling/Steering &#150 Getting into the RSX, one of the first things you noticed is that the steering wheel is small. Once you start moving, you&#146ll notice that the steering has a weighted feel to it and the steering is quick and direct.  This gives the RSX a very stable and sporty steering feel.  As soon as you start riding into the corners, you&#146ll notice that the RSX has little body roll and understeer.  Being stiffer and tuned more for performance, the suspension gives up some comfort but overall it&#146s a good compromise.  Coming to a stop the rotors grasp smoothly and firmly quickly bringing the car to a halt.
+
+The suspension setup has changed from double wishbone to struts up front.  What does this mean for it&#146s handling&#133. NOTHING.  Old Integra owners may whine about the suspension change, but nearly every review has the RSX-S out handling the GS-R it replaced.  Another thing they forget is that BMW&#146s and some Porsches uses struts and they sure as hell out handle nearly any Honda/Acura.  
+
+The only thing holding back this car is the lack of LSD (limited slip differential) and the tires.  The tires are good for everyday driving and last long but they are limiting the performance potential of the car.
+
+<b>Tuning:</b>
+The aftermarket is growing rapidly for the RSX.  Not as large as the B-Series engine (prior Civics and Integras) but it does have more of an aftermarket than most cars.  Considering it&#146s only been out for year and half that&#146s pretty impressive.  Another thing to note is that the RSX engine responds fairly well to modifications.  Spending $900 dollars (Hondata ECU, Cold Air Intake) can get the RSX into the low 14&#146s in the quarter mile.  
+
+Below is a list of some of the upgrades currently available.
+
+N/A (Naturally Aspirated) Engine Upgrades - A variety of cold air and short-ram intakes are available from well know makers (AEM, Injen, etc).  Header&#146s are also available from Comptech and DC Sports.  There are many cat-back exhausts for the RSX from at least half a dozen manufacturers.  For those serious about racing, a racing header and exhaust system(non street legal) is available from Comptech and Jackson Racing.
+
+ECU &#150 Hondata can reprogram your ECU for you.  This allows the Rev limiter to be changed, VTEC engagement, and other things to be modified for optimal performance. This is perhaps the best performance for the dollar upgrade for the RSX.
+
+Forced Induction (Turbo/Supercharger) &#150 There currently is a turbo available through Cybernation.  A supercharger by Jackson Racing is in development and should be out before the summer 03.  Greddy and other companies are said to be working on a turbo kit for the RSX.
+
+Suspension &#150 Springs, shocks, sway bars, etc. are available from manufacturers such as Eibach, Spoon, Neuspeed, etc.
+
+<b>Problems/Reliability:</b>
+Based of Honda/Acura&#146s history reliability should be pretty good for this car.  I believe the 2002 RSX has gotten rated as average reliability but it&#146s not uncommon for the first year model to have minor issues that need to get fixed.  The 2003 will probably get rated higher for reliability.  The only issue some others and I have run across has to do with the transmission.  The problem is known as the 2nd gear grind.  When shifting into 2nd gear there will sometimes be a notchy/grind type sound during cold weather.  This does get better and disappears when the car gets warmed up.  I would not worry too much about this.  Most cars do have some issues/problems that you would find out about if you researched it extensively online.
+
+<b>Stereo:</b>
+Bose 6-CD in dash changer, 7 speaker setup, subwoofer, Wow what a setup for a stock stereo&#133.sounds pretty good on paper huh. Too bad it doesn&#146t sound as good when you turn it on.  The power and the low-end bass are lacking in the system.  The clarity is good and the 6 in dash CD player is convenient but overall it does not live up to its &#147premium&#148 sound system billing.
+
+For those looking for all out performance, I would suggest the Subaru WRX or Neon SRT-4.  The performance per dollar of those cars cannot be matched.  However if you are like me and are looking for the best overall package, the Acura RSX Type-S should be on your list of cars to test drive.  I found the Acura RSX Type-S to have the best blend of good looks, refinement (for a sport coupe), performance, and price out of all the cars I was considering and would highly recommend it.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

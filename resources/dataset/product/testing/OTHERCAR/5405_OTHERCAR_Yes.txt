@@ -1,0 +1,20 @@
+DOC>
+<DOCID> 5405 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_CanonPowerShott-Canon_PowerShot_A5 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-C89-19CB508-38955A81-prod4 </URL>
+<TEXT>
+            As Donald Norman talks about in his new book the invisible computer, the problem is that all the features in new technological products make them harder to use. We trade in usability for convenience and end up with Swiss Army Knives.
+His solution, the Information Appliance, is supposed to do just one thing, but does that one thing extremely good. Well, the Canon Powershot A5 does that one thing perfectly.
+It doesn't have a zoom.. but hey, we have legs. Doesn't it look more professional if you walk around to make a good composition, instead of standing still (like a real tourist) and let the zoom do all the walking. The lack of zoom gives you better pictures in return, more color, better composition and no deformation.
+
+It has one feature that shouldn't have been there, but I admit that I love it: panoramic stitching. You can take several pictures side by side stitching them visually through the display. It is great fun but it has a drawback, you have to stitch them later in your computer.
+
+As we all know, digital pictures will give us the burdon of organizing them later on. This becomes even more problematic as you have to import the pictures with a TWAIN plugin. This is one of those ugly applications that plugin to other applications that import the files into &quot;untitled-1&quot; files, loosing all the precious data such as time that the picture was taken, serial nr of the picture and original jpg data.
+
+I suggest you buy a Sandisk Imagemate or other USB cardreader with the Powershot to speed up the import process and keep the original data.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

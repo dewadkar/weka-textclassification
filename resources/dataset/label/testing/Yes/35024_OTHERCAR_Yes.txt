@@ -1,0 +1,45 @@
+DOC>
+<DOCID> 35024 </DOCID>
+<PRODUCT> Digital_Cameras/Minolta_DiMAGE_7_Digital_SLR_Camera_Outfit__I___Camera_2766101K </PRODUCT>
+<URL> http://www.epinions.com/content_34622377604 </URL>
+<TEXT>
+            Two of my colleagues had bought this digicam almost at the same time, I borrowed the camera from one of them to have a trial and test (just b4 I first wrote this review) and here were my observations:-
+
+The 7X wide-aperture zoom-lens is extremely impressive and unique in the market. It has a wide angle down to 28mm (35mm equilvalent). The lens is a Minolta APO lens which has very good coatings except two lens elements reflect "white" light. I suspect the elements are aspherical elements. In the field test, the sharpness, high -contrast and low-distortion of the lens made me very surprised. The image quality is superior even at 28mm wide and 200mm tele - no deterioration seen at all and very sharp. All straight lines in a shot at 28mm appear as absolute straight lines in the captured picture! The attached lens hood is a bayonet type and is very convenient to attach/detach and store.
+
+The handling is simply just like a traditional SLR or some other ZLRs that you can concentrate on the picture composition and holding the camera securely with both your left hand and right hands. The selection dials and buttons layout are logical and convenient. But I must mention about the holding positions for the right hand are not fitted to my hands very well, especially for the right thumb.
+
+I still consider the camera as light-weight by considering it has such a lens and so many features
+
+The camera also has little time-lag from pressing the shutter to capturing, of coz the exposure and focus needed to be locked first.
+
+The AF is very quiet but also very slow. If you used to operate a Canon AF SLR, I think this kind of speed is totally unacceptable, it just like the focusing speed of the ancient AF SLR in the 80's (except Canon brand).
+
+The electronic viewfinder (EV) is also not good enough. I wonder why many reviews on the net rated it as "good" or "excellent"?? The image is very yellowish under artifical light source (but the external LCD does not have the same problem), the light level latitude is very narrow, e.g., if you point at a window, the outdoor scene cannot be seen through the viewfinder since the wall of the window is backlit. The EV also produce some zig-zag saw-like pattern imposed to the objects. The frame rate is fast but still not very smooth. Under bright sunlight, the image in EV appear very grey and a little bit dark. On the other hand, in low light, there are many noises before it will switch to black&white if the environment becomes even darker.
+
+The color produced in the picture is not exactly the same as other digicams that I've played with, maybe I can say a little bit "strange". My friend told me that this is becoz the color space used is proprietary, but not sRGB one. He also said that a Minolta software can convert the color space but unfortunately he did not get the software when he bought the camera.
+
+The exposure for the outdoor pictures sometimes "over" and sometimes "under" a little bit, this maybe owing to the auto exposure compensation by the multi-pattern exposure meter. I think there is room for improvement for the accuracy.
+
+The file size of the pictures taken varies greatly from below 1.5M to near 3M, maybe there is some special algorithms used in the compression techniques.
+
+Finally, I wish to mention a minor design fault: several pixels of dark corner will appear at the upper right corner of picture taken at full wide angle setting, that maybe caused by the lens hood or the 49mm filter and I will update the info when I found out the actual reason.
+-----------------------------------------------------
+
+Now, about two months have elapsed, and I've discussed with the two owners for their comments.
+
+First of all, I found that the little dark corner is caused by the attached 49mm filter. Furthermore, there will also be shadows at the upper corners if the lens hood is not properly attached very exactly. So special care must be taken in attaching the lens hood.
+
+Secondly, they both use high capacity NiMH batteries. One of them reported that he could take about 60 shots without any problem whilst the other told me about 90, but he amended that he seldom used the LCD. Therefore, the camera is really power hungry but I still consider that the power consumption is acceptable under normal situations, except that one must carries more spare battery packs.
+
+Furthermore, I have inspected a considerable large number of sample photos taken under various situations and lighting conditions. I considered the picture quality is superior and is much better than most of  the other digicams on the market, including my Olympus C-3000. If the exposure is correct, the pictures are usually with good details for both highlight and shawdow areas, low distortion, and saturated colours. The lens also has very little flares, even when there is a sun in the picture and there is no serious fogging effect. Night shoots are wonderful, without noticable flares and little light "leakage" to neighborhood pixels.
+
+However, I still found that the overall color tones of the pictures, especially the skin colors, are a little bit greenish under some situations. Unluckily, my friend told me that converting the color space to sRGB by the minolta software doesn't help.
+
+As a conclusion, I still think this camera is very unique on the market and the overall performance is very good and is an ideal digi-tools for taking very good quality pictures which are not very far away from film quality already. Of course, I'll be very glad if Minolta can improve the drawbacks I mentioned above.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

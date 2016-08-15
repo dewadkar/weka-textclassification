@@ -1,0 +1,37 @@
+DOC>
+<DOCID> 12885 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_D_370L_Digital_Camera__Camera_D_370L </PRODUCT>
+<URL> http://www.epinions.com/content_42362900100 </URL>
+<TEXT>
+            Bought an Olympus D-370 for $199 with free 16 meg memory card recently. It has enough features as a budget camera to be useful, but it could be better. 
+
+The included instructions didn't explain that the included "download manager" is useless. You just connect the camera to USB cable, install software, and it appears as "Removable drive". I had to visit the Olympus website to find updated instructions. 
+
+Quality of camera is good. The pictures are a wee bit fuzzy overall, but reasonable. The LCD is quite bright and useful as preview tool. The flash is good and quite powerful. Took many pictures and never noticed any red-eye, both indoor and outdoors, day and night. 
+
+The USB port connection is fast, virtually HD speed, and behaves exactly like a removable drive (with only a few megs of memory, of course). 
+
+One odd feature: it eats battery like CRAZY when connected to the USB port (even with PC off!) If you left it connected, it can eat 4 AA Duracells in just one day even without using it! Disconnect it when you're not using it and the batteries will last a while. 
+
+The flash doesn't charge quite as quickly as one would want to. There's a 1-2 second wait for the flash to charge up, and that means you may not be able to catch that picture immediately. The camera also has a tendency to go into "power-save" and takes a second or two to "wake up", making you miss some shots. There doesn't seem to be an option to turn that off. Often, I had to close the cover and re-open to reinitialize the camera. 
+
+The menus aren't as intuitive as one would expect to. Instead of a "mode" dial like on most cameras, there's only the "shutter" button on top, with all other options controlled by the rear panel arrow/trigger buttons. The result is you need to scroll through multiple menu choices to choose things like turn flash on/off, use panoramic view, take QT movie, and so on. 
+
+There is no optical zoom in this camera, and the digital zoom (only 2X) is a bit fuzzy. The built-in 2 megs of memory is useless. You REALLY need at LEAST a 16-meg SmartMedia card to go with it (enough to take 45 pics). If you splurge for a 128-meg SM card, you can take 399 pictures (estimated). 
+
+The camera needs 4 AA batteries, which can be a bit expensive, but if you don't leave it plugged in all the time, or get the optional AC adapter, the batteries can last a while. Rechargeable batteries also help.
+
+The QT movie mode is a bit fuzzy and a little shaky as the camera doesn't have shake-proof, but it's adequate. However, you can only record only 60 seconds at a time. Also, there is no sound. Still, if you want a movie, you should be using a digital camcorder, not a digital camera. 
+
+The "motor drive" mode allows you to take a series of pictures at 1-second interval until the camera needs to catch a breath. This works quite well except that you can't use the flash (the flash doesn't cycle that fast). This is useful in catching some action in sort-of time lapse manner. In practice, I was able to get 8-12 pictures in a row. 
+
+The battery indicator doesn't work that well, as there doesn't seem to be any intermediate stages between "battery full" vs. "out of power". When out of power, the camera simply won't work or turns itself off, without giving any other indications. 
+
+All in all, this is one of the best cameras in this price range, and definitely worth considering. You just need to be aware of the issues you may have. If you don't need "instant shots", don't mind lugging an extra set of AA batteries around, and get a large SM card to go with the camera, this camera is great. For those who need "instant shot" or higher resolution, this camera will not do. 
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

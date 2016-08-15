@@ -1,0 +1,34 @@
+DOC>
+<DOCID> 10699 </DOCID>
+<PRODUCT> Digital_Cameras/615104_Fuji_Film_FinePix_6900_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_46029966980 </URL>
+<TEXT>
+            There was a time recently when digital still cameras were few and far between. Their resolution was somewhat limited with grainy pictures. Well, this has evolved into a large selection of megapixel cameras, in all price ranges.
+
+Most people purchase these cameras by the megapixel count, by price, or both! Some cameras have the same megapixel resolution, but take better pictures than the others. This is due to the size of the CCD or charge coupled device, which is the image sensor, and how the digital information is processed. Generally it is true that the higher megapixels, the greater resolution and sharpness, but many people neglect the optics.
+
+The optics of a digital camera is still the lens that focuses the image onto the CCD. If the lens is cheap or not ground well, the images can be distorted and have an "unfocused look". Even more important is the optical value of the lens. A 6X zoom lens will have more play, and be able to zoom in with greater range than a 3X zoom. One very important note here! Don't be fooled by specs listing a digital zoom. This is a non-optical or electronic magnification of the object focused on. No matter how good the camera, a digital zoom will always be grainy. It is electronic, and not being magnified by the lens. A 6X zoom lens on a camera such as this is excellent. Personally, I would still prefer better lenses, but for most purposes, this lens is fine, and quite superior to many other lenses on digital still cameras.
+
+Now, having gotten that out of the way, let's take a general look at this camera.The first thing you notice is its unusual shape. You will see that the lens assembly is predominant, and the camera body is almost secondary. When you hold it, you realize how small it is! It is about half the size of a regular SLR camera. The LCD display on the back of the camera is nice and large, and is very clear. It can be used as a viewfinder to arrange your shot, or you can look through a standard viewfinder, saving some of the battery life in the process!
+
+I found the viewfinder a little grainy. Note that the viewfinder is not optical. It is linked through the electronics fed by the lens. The pop-up flash however does illuminate the shot nicely! As far as accuracy of framing a shot, both seemed pretty good, although the LCD screen seemed to be a little more frame accurate, but by a miniscule margin!You have your choice of viewing everything through the viewfinder of the LCD screen. I chose the viewfinder as it saves a great deal of battery time, and was not uncomfortable at all!
+
+The menu is set through the LCD screen, as it is on almost all of the LCD cameras. The problem I had was that the menu is a little confusing! There are so many options as far as resolution, you are not sure which one you are selecting! The one thing to know is that if you select the very highest resolution, the camera will tell you that there is not enough memory in the 8MB card included. The resolution is so high, it will not fit on that card. By necessity you must almost immediately upgrade to at least a 32MB memory card. This is also known as "digital film", or the area where the pictures are stored. If a card is full you can erase selected pictures, or simply pop in a new card and be ready to shoot again.
+
+I have not put the camera through all of its paces as yet, but the battery life seems a little limited. Be nice to get some longer run time. Mine lasted a few hours and died. Battery life depends on how often you use the flash, LCD screen, special features, etc. If you plan on shooting a special once in a lifetime event like a wedding, you can either utilize the AC adapter and shoot with an extension cord, (awkward), or have another battery charged and ready. The battery has to be charged in the camera, so that is a big disadvantage. I am checking to see if there is an external battery charger, which would make life a lot easier.
+
+In my set up, I transferred the pictures to my MAC, and then to an Epson color printer. For all the MAC people out there, the CD ROM does have Macintosh compatible software on it, for USB connections. If you look at page 69 in the instruction manual, you will find the set-up for MAC computers!  The higher resolution was excellent and the color was pure, the picture sharp. As I explained earlier, in reality this is a 3 megapixel camera, but the way the image is handled, Fuji claims a 6 megapixel equivalent!I have no reason to doubt them. They are experts in photography and have a reputation to live up to. We can go into very complicated explanations of the camera and how it processes the digital image, but the important thing is that it does it well!
+
+There are so many other functions this camera performs, it would take an entire page just to list them all! For example, the camera allows you to print a date on each print,will record min-video segments, do white balance,flash brightness adjustment,sharpness control, manual focus, macro shooting, exposure compensation, zoom on recorded images, framing brackets in viewfinder, auto power settings, and even more! That is why I say the camera has so many options, it is almost confusing at times.
+
+It is designed beautifully however. Forinstance, when you choose to erase a frame, or a shot you have taken, instead of just erasing it, the camera throws up a blue pixilated design to show you it is erasing! This doesn't mean much, but it is a nice touch. Kind of neat actually. This just adds to the nice touches of the 6900! 
+
+To wrap it all up, if you can afford the $700 or so for this camera, it is a good purchase. There are other, less expensive cameras with good resolution, but the lens on this camera is about all the average person would require. Go to Fuji's web site for more detailed information: http://www.fujifilm.com/tcm.html?
+x-tempest-op=generic&ContentType=Product&UserTypeId=2&CategoryId=304&CurrentTopCategory
+=4&pagetype=UserTypeCategoryHome
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

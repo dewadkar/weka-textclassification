@@ -1,0 +1,24 @@
+DOC>
+<DOCID> 1273 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Nikon_Coolpix_990 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-4C89-49A4DFBF-3A5694E1-prod3 </URL>
+<TEXT>
+            I got this camera for christmas. What a great gift!
+
+It very flexible allowing two fairly automatic &quot;modes&quot; and a manual mode. By this I mean that there is a full automatic mode which does everything for you, plus a setting called &quot;program&quot; in manual mode which let's you override a few things. Then, once you are comfortable you can move to aperture or time priority program and eventually full manual mode (you choose both aperture and exposure time).
+
+I find all control pretty intuitive with a fair user interface.
+
+Hooking to my computer was problematic at first. Had to download a special dll (a dynamic link library file) in order for it to work on my Dell laptop running Win ME. Once I figured that out, it now communicates flawlessly. Check the Nikon tech site if you have problems (www.nikon.com click on tech support).
+
+My only gripe is that the optical viewfinder has some dirt in it so there's a little speck off to the right side of the image. I only notice it in bright, relatively plain background shots like the sky. But it is irritating. Tech support said they would clean it for free, but I'd have to send it in. Bad QA in my opinion.
+
+Would like to know if others have had the dirty view finder problem.
+
+Max<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

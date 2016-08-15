@@ -1,0 +1,44 @@
+DOC>
+<DOCID> 25142 </DOCID>
+<PRODUCT> Digital_Cameras/614803_Canon_Power_S110_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_49941876356 </URL>
+<TEXT>
+            1. Can you see the picture of the camera direct on TV using AV cable? I think elph has NTSC output (where as here it is Ixus-V with PAL color video out).
+Yes.  There is a proprietary cable that connect the elph to TV, USB or the Canon printer.  The TV output is on normal RCA jacks, one more for mono sound since this can take small movies.  It can output both PAL and NTSC.  Mine is set obviously on ntsc.  Ixus-V is the same -- my manual has that on it too. 
+
+2. Can you record the audio of the picture.. few seconds/
+Yes.  I need to get a big memory stick.  I am waiting for deals to show up.  The resolution is not that great in video mode.  Sound sensitivity is pretty good for the size of the camera.  
+
+3. Have you synchronized the camera direct with PC using serial port or USB
+Only USB comes with it.  I have left the usb cable attached and just plug the camera back and forth.
+
+4. How many pictures you can take per minute or what is the time required to take consecutive pictures.
+This is not a professional camera at all.  It does take a second or so before it takes the pictures.  Usually I can do around one picture every 2 seconds.  It does have continuous picture mode, but that does not work real well - fast enough.  I do not have exact numbers
+
+5. The memory stick size you have 8M or 16M or both. Can the memory stick keep the pictures if you remove it out of he camera and for how long?
+Mem stick is called the Compact Flash -- available from anyone.  I do not recommend the Memory stick, because as Betamax, it is proprietary Sony technology, and eventually, they will have to keep up with Compact Flash and the other memory flash product.  This is flash memory so it stays good all the time.  I can use the same card in other cameras and move it back to my camera and still continue using it.  I have 8m.  I get a free 16m that I will apply for (rebate).  And in a couple of weeks - Jan or so, I will buy a 80-96 or 128mb card.
+
+7. Can you resize the photo direct from the camera by panning and tilting the picture for editing before saving it to the memory.
+Only thing camera can do is rotate pics.  Everything else is done on the computer.  The coolest program is one that stitches pictures together.  That way, I can get a good panoramic picture
+
+8. Can you also change the resolution of the camera after picture has been taken at highest resolution.
+No.  Only view it.
+
+9. any more useful experience?
+Many.  The flash is tiny.  If I take a picture indoors, the flash only illuminates the item if it is within 3 feet, else it looks real bad.  
+Also, everyone still gets red eye.  Indoor, also has a problem with good balancing.  Also, many pictures were coming out to be blurred.  Was disappointed with results in low light. 
+Outdoor pics are much nicer.  
+
+10. What is the battery type Lith-ion and what is the capacity? How often you need to recharge?
+Lith ion.  Since operation requires that you use the lcd, it eats up after around a 100 pictures, after which I have to recharge.  
+
+11. The TFT screen is the color screen visible in day light?
+Yes.  It is quite bright and high res.  
+
+I do like the camera.  It does have its flaws, which do not allow for professional to semi-professional photography.  Also, the lcd does not have a protective cover, which I think is really dumb.  Last, the curvature of the flash and red-eye flash make it impossible to clean if dust comes on it.  Last, it is made in Japan!
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

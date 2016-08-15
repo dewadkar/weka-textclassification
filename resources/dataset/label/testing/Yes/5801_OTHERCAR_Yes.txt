@@ -1,0 +1,32 @@
+DOC>
+<DOCID> 5801 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Olympus_D-490_Zoom </PRODUCT>
+<URL> http://www.epinions.com/content_47244414596 </URL>
+<TEXT>
+            If you're about to jump into digital photography for the first time, read on.  I bought my Olympus Camedia D-490 Zoom camera to replace an ailing 35mm point-and-shoot machine.  After exhaustive research and numerous interviews with digital camera owners, I went for the D-490 because... well, because it was on sale at CompUSA.  But for all the wrong reasons, I must say, I ended up with the right camera.
+
+The price tag notwithstanding, your first decision will be how many megapixels to buy.  I have printed 8x10 photos of images taken using the "HQ" mode -- the middle of 5 different resolution options, and they look great.  If you never plan to go over 5x7, a 1 megapixel format should do you fine, and save a little money.  For the leisure photographer, the 2.1 megapixel offering in the D-490 is more than adequate.
+
+To zoom, or not to zoom, that is the next question.  I would not buy another camera without it.  The 3x optical zoom is fine for most situations, and preserves the full picture quality at the max telephoto setting.  This camera also features a 2.5x digital zoom.  The digital zoom feature is nearly useless if you plan to use a computer for image processing, since this mode does little more than crop the images.  In addition, the optical viewfinder only works with the optical zoom; you have to use the video monitor to frame your digitally zoomed pictures.  In short, if you plan to zoom, get a camera with an optical zoom lens or you may be disappointed.
+
+On the subject of viewfinders...  make sure you have one.  Some cameras rely on a video monitor, which can be very difficult to see in bright light, and is hard to use even under ideal conditions.  The D-490 has both.
+
+Power to the pixel!  The only recurring cost of taking digital photos is supplying power to the camera.  The Olympus came with a set of non-rechargeable lithium ion batteries.  I got about 200 pictures out of the set before they went south (vs the 100 or so pictures they promise!), albeit with very little warning from the battery life indicator.  Although Olympus cautions that using alkaline batteries could give disappointing results, the $22 for another set of lithiums motivated me to challenge that statement.  I have found, happily, that 4 alkalines (size AA) will yield about 150 frames -- about an 85% cost saving, and with no ill effects so far.  Rechargeable NiMH batteries can be used as well.  I also made the mistake of buying an AC power adapter -- more on that later.
+
+SmartMedia cards are used to store the pictures.  Although I gave little thought to the storage media used by Olympus (I bought it because it was on sale, remember) I've really come to like these little things.  The included 8mb card is a bit small, holding from 1 to 82 images depending on the resolution selected (16 images at the default "HQ" setting.)  I bought an extra pair of 16mb cards, and have yet to want for extra storage.
+
+Getting your pictures out of the camera is the next thing you need to consider.  The Camedia can plug right into your TV for instant viewing -- a neat trick for those family gatherings.  Or, you can use the built-in mini monitor on the back of the camera.  But a more important function is getting the images into your computer.  The included serial cable plugs right into your computer, but the image transfer rate is painfully slow, and consumes battery life.  So, I bought an AC power adapter.  Bad idea.  Although it preserves the batteries, Olympus says to first remove the batteries before using the adapter -- what a pain!  And it still takes forever to transfer the pictures.  MUCH better:  get a SmartMedia card reader.  I bought a Lexar USB reader (actually a reader/writer) for about $40, and haven't needed the AC adapter or serial cable since.  A full 16mb card transfers in just a few seconds.  The reader was very easy to set up, and functions just like an extra drive on your computer.  As a bonus, it makes a handy backup data storage device, too.
+
+The D-490 is easy to use right out of the box, as long as you stick close to with the basic and default functions.  If you can handle a 35mm point and shoot zoom camera, you can use the D-490.  The myriad of advanced features, however, are a bit harder to use.  The menus are not entirely intuitive, and the instruction manual, while complete, is not well organized.  The list of features is pretty good, though:  auto flash, red-eye reduction, 15fps video mode, close-up mode, exposure compensation, focus lock, ISO sensitivity setting, self-timer, soft image adjustment, white balance, panorama mode and many, many more.
+
+The Camedia Master computer software provides the basic downloading, image processing, and printing functions to get you started.  It's a bit light on image processing features, though, and you may eventually want to buy a more elaborate image processing software program.
+
+The flip-up flash is another thing to consider.  I find the flip configuration handy, since it provides an easy way to select the flash mode.  Some photographers may prefer a fixed flash, automatically selected based on light levels.  The Camedia has the automatic flash feature, but you still have to flip it up for the flash to work.
+
+All in all, the D-490 zoom is a terrific camera, and ideal for the first time digital photographer.  The basic features are simple to use, and the advanced features, though a bit cumbersome, will satisfy most shutterbugs for a long, long time.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

@@ -1,0 +1,37 @@
+DOC>
+<DOCID> 25047 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Kodak_DC-4800 </PRODUCT>
+<URL> http://www.epinions.com/content_46410796676 </URL>
+<TEXT>
+            *Make sure you read the update at the end!
+
+First, let me state I have probably shot more photos (in a sense) with Kodak digital cameras than almost any human being outside of their labs in Rochester New York.  I've been using a number of DC240s and DC265's for time lapse purposes on multi-year projects, which means hundreds and hundreds of thousands of images.  And I've been impressed with what their cameras can do when they're working right -- I've captured images that are nothing short of stunning.  
+
+Which is why, when it came time to purchase a camera for my OWN use (family photos, etc) I instinctively chose a Kodak, and one with the highest resolution and best features I could find.  My anticipation was that the 4800 would deliver better pictures than the DC265 (which regularly took beautiful shots, although at a mere 1.5 megapixels) and would cycle hopefully as quickly as the DC240 (which, though they have a tendancy to die on me, are spritely cameras with quick responsiveness when they work.)
+
+I bought a reconditioned camera direct from Kodak; they offered them on their website complete with a package of goodies including extra battery, charger, lens cleaner, photo paper, etc for $500.  Sounded like a good deal, and they'd take one of my busted cameras for a $150 trade in. An even better deal!  And I waited to be blown away.
+
+Camera arrived.  I loaded it, walked into the living room, and took a series of shots at each of the resolutions available, including the uncompressed 9meg TIF file photo.  Reviewed them all on the computer...and saw virtually no difference between them.  Admittedly the .7 megapixel and the 1.5 megapixel photos were considerably smaller, but they were crisp and nice...whereas the 3.1 megapixel pictures didn't offer me that much more resolution, and the difference between 3.1 meg regular, 3.1 meg highly compressed, and 3.1 meg uncompressed TIF was virtually NOTHING.  I looked at it in Photoshop at extreme magnification, and was baffled.  Each had similar artifacts; the grays were blotchy for all of them, not just a JPG compression artifact.  First lesson -- don't bother with the highest images qualities, since they burn up memory but provide no better pictures.
+
+Started taking pictures without a flash (1/8 second) in various interior rooms.  An occasional picture would be purplish, extremely noisy...  Something wrong here?  The next one would be fine.  None of them were great.  Disappointing.  Got better results from my 265.
+
+I've been trying it out over the past month (there's a 30 day return policy, which I believe I'll be taking advantage of.)  Interior shots (without flash) were almost uniformly uninspiring; noisy, grainy, blurry.  I would anticipate occasional blurriness from hand-holding a 1/8 second exposure, or darkness from inadequate light, but not the messy graininess and smeariness it delivered.  And when the camera was held on a solid surface for stability, the image quality only marginally improved.  Disappointing.
+
+Another surprise is the misalignment of the viewfinder.  I didn't even notice at first that I was getting way too much headroom in all my shots; now I compensate by intentionally cutting off people's heads in the viewfinder; that makes the pictures come out perfectly on the viewscreen afterwards.  (I never use the built-in monitor for framing, since that's a huge battery hog; I religiously use the parallax viewfinder.  But I've never had one that's this far out of alignment.)
+
+Two minor annoyances -- I'd grown used to the classy datestamp the DC265 provides, and its "autorotate" feature which realizes when you're turning the camera sideways and saves the picture with the correct orientation.  On the 4800 you don't have autorotation, and the datestamp looks like it was stuck on with cheap LEDs -- what would have been so difficult in making it look better?  And of course combining the two, when I tip the camera to take a vertical shot I get the datestamp in the wrong place -- even after rotating the picture upright in Photoshop, I still have the datestamp floating up in the sky, sideways.  Pain.
+
+I've taken a couple hundred shots with the 4800 in three weeks; there have been a few good ones.  But I've learned my lesson -- I'll either repair one of my 265's or pick up a used 265 or 290 on ebay and almost certainly get better pictures.  (After all this, I'm still not considering experimenting with Canons, Nikons, etc.  Perhaps I should...but I've loved the image quality of other Kodak cameras, and I've read that Kodaks still provide the best pictures.  And the samples from, say, the digital Elph have been less than exciting.  No, I'll stick with Kodak, love/hate them as I do.)
+
+Incidentally, when reading the bulk of the epinion reviews on this camera, a couple themes keep recurring.  Yes, the lens cap keep falling off and is a terrible design.  Yes, it ships with what I consider a "courtesy flash card" (16 meg) that serves to let you try out the camera before buying a serious card (I use an 80 meg).  Both of these issues are true, but WHO CARES.  They can be corrected with a few bucks at a camera store.  The real issue is picture quality, and though I believe this camera can deliver some great shots under the right circumstances, it fails on too many occasions to capture what another camera might.  And that can't be fixed at any price.
+
+*****UPDATE******
+After writing this review and realizing I used the word "disappointing" too many times, I called Kodak to return the camera, and just to be certain I didn't get a lemon I talked to a tech support rep.  Unlike the sales rep (who reassured me the 4800 was the best camera Kodak makes, everybody loves it, etc etc), the tech support rep verified that the DC260/265/290 series cameras took superior pictures, especially in low light.  But that series of cameras is no longer made, so the best they have is the 4800...  In other words, their image quality reached a pinnacle a year or two ago and it's all downhill from here!  I was astonished and furious (they could have told me that when I placed the order, I ASKED!) and will now either buy a used DC290 (fabulous pics!) or a new Canon S30 or some other competition.  
+
+So if you're considering this camera, be forewarned!
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

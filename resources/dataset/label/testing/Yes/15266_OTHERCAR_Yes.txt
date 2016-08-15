@@ -1,0 +1,24 @@
+DOC>
+<DOCID> 15266 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_SonyMCVV-Sony_MVC-FD81 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-73E6-EA30DA0-3874C1D7-prod3 </URL>
+<TEXT>
+            Easy to use.  Flexible.  Uses floppy disks.  These are a few of my favorite things about the Sony Mavica.
+
+Insert an info-lithium battery and a standard floppy disk and you can take anywhere from e-mail sized snapshots to full-screen high resolution photos and pretty much everywhere in between.  The built in flash and well-lit LCD display is fairly accurate, and even freezes the photo you just took for a second  or two so you can see if you like it or not.  In outdoor, well let settings, you have the option of turning off the backlight, which nearly doubles the amount of time on a single battery, which on a good lithium should be more than 2 hours to begin with.
+The fact that files are stored on standard floppies is fantastic.  The fact that these floppies contain a customized HTML document that contains the pictures is phenomenal.  Basically the unit puts all the files it takes on a single disk into a .jpg or .bmp file (depending on what you select) and then links those files on a single HTML document also on the disk.  So you can preview your files and movies in your internet browser before deciding which ones to use, etc.
+The naming convention is pretty nice too.  Each file the camera stores has a number that is not repeated, so spanning literally hundreds of disks is possible.
+
+To add to this, Sony put in the capability to film an MPEG movie with this camera, again with many options of quality and size.  By default, you get up to 60 seconds of video time, less if you choose higher quality.  The nice thing about this particular camera is that the quality of the MPEG movie is very good.  The camera focuses very rapidly, so movement does not cause too much blurring.
+
+Most of my work with this camera has been in a work environment.  Several different people use the camera, most of which are almost completely technically illiterate.  The camera�s easy of use was a major selling point.  Our users put in a floppy disk, and turn on the power.  They take the pictures by pushing a button.  It couldn�t get much easier.
+The camera is pretty durable, though it hasn�t been dropped yet to my knowledge.  But it�s had its share of dings, bumps and near misses and keeps on truckin�.
+
+I�m sure there are plenty of worthy, more affordable cameras out there.  But I would say beyond a shadow of a doubt that for raw productivity, this camera is worth the expense.
+<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

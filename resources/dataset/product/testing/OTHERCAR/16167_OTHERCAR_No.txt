@@ -1,0 +1,55 @@
+DOC>
+<DOCID> 16167 </DOCID>
+<PRODUCT> Digital_Cameras/419757_Fuji_Film_MX_2900_Digital_Camera_Kit </PRODUCT>
+<URL> http://www.epinions.com/elec-review-5B1-3776760-389A1C1F-prod3 </URL>
+<TEXT>
+            I've used several digicams in the past, but never learned much about their differences or how they work. However, after getting a Fuji MX2900, I've learned a lot about them, just not the way I'd like to.  Here's why:
+
+Looking at the specs, Fuji's MX2900-Zoom seemed like a great camera at a great price (I paid about $700 even for everything). It had all the relevant features, including a huge 2.3 megapixel capture size, 3x optical zoom, timer, large (2&quot;) LCD display, built-in flash, <b>hot-shoe for an external flash,</b> larger 35mm body format, <b>metal tripod threads,</b>, included 8MB Smartmedia card, so on and so forth, and good reviews on digital camera sites such as &lt;A HREF= http://www.imaging-resource.com  target=_blank&gt;Imaging Resource&lt;/a&gt;. Other than that, I was completely new to digital imagery, so I thought everything was pretty much in order.  I placed my order, along with an additional 32MB Smartmedia (hey, if you're shooting at 1800x1200, you're going to need more space). 
+
+I was pretty excited when I received the cam. Included in the box was just about everything, including a nice, light Lithium Ion battery, AC adapter, lens cap, serial, video, and S-video cables, pretty much the works.  All in all, the camera is much lighter than I'd expect for something of its size, and was nice and portable for my needs.
+
+I was initially pleased with the 2900, here's what I found worked well:
+
+1. 3X optical zoom worked quite well.
+2. 1800x1200 image size allowed for more detail to be captured.
+3. Viewfinder is a pretty good representation of capture size
+4. LCD shows 100% of capture area
+5. Controls are very easy to learn and very intuitive
+6. Battery is light, life is very long for its size
+
+Now after a few weeks with the 2900, I've developed quite a laundry list of gripes, which is incidentally where I started learning more about digital cameras in general. I'll try to keep each item short:
+
+1. Camera start-up time is slow - like most zoom cameras, you have to wait for the lens to telescope.  The MX2900 does take a little longer than most 3X zoom digicams though.
+
+2. Initial start-up places the zoom half-way - ok, this is a small issue and perhaps one of preference, but I wish it would start in full wide-angle mode.
+
+3. Zoom has limited number of &quot;steps&quot; - Hit the small telephoto lever and the zoom stops in noticeable increments
+
+4. *Flash is VERY weak* - I'd say half the power of the flashes on other digicams (especially those running off 4 AA batteries)
+
+5. *AF is poor in non-ideal conditions* - getting low-light or close-up focus on subjects is very difficult, and resulted in quite a number of blurry shots that I never got on other cameras
+
+6. Macro is not narrow enough - Some digicams allow you to focus less than a centimeter away from your target.  I could only get focused shots at about a foot's distance with the MX2900's macro.
+
+7. *Sharpness filter is HORRIBLE* - Take a picture with sharpness turned up and you get dither/sawtooth artifacts around edges, discoloration, and an appearance of lower resolution. I eventually shot with no sharpening and instead used an unsharp mask in Photoshop after importing the images to PC.
+
+8. *Images are noisy* - When I heard this camera did 1800x1200 (2.3 MP) I assumed the images would be unbelievably smooth and crisp.  However, take a picture of a smooth gradient and you'll see bands and splotches of greens, blues, and purples. This happens in all JPG and uncompressed TIFF formats. I later learned that this was a common occurrence in 2+ megapixel cameras, as more and more sensor elements are being jammed onto the same sized CCD (1 / 1/8 inch) as older 1mp cams. It's especially noticeable on the MX2900. After comparisons with a friend's Olympus C-2000, my suspicisons were confirmed - resolution means NOTHING to the average photographer looking for nice viewable pictures. 
+
+9. *Lens is particularly &quot;slow&quot;* - Not in the sense of zoom times, but rather the little amount of light let in by the lens. I believe the aperture settings are anywhere from f4 to f7, which is very slow (you should ideally look for f2.8 or thereabouts, although it costs more). This lets less light in, and results in darker, duller pictures. Match this up with a weak flash and you've got more problems.
+
+10. Image load times are slow - it generally takes 5-7 seconds to view each 1800x1200 images in the camera's LCD. A long time to wait. 
+
+11. Zoom function is neutered - The camera claims a 4x zoom on the LCD so see your pictures in greater detail.  It looks like it only zooms up to 2.2x or so before scaling the pixels up (which doesn't help)
+
+12. Lack of 1280x1024 mode - 1800x1200 and 640x480 are included.  You can even resize 1800x1200 images in-cam to 1280x1024, but it's a pain and the option to shoot in that resolution isn't supported.
+
+Well, that's about it. A lot of small issues, a few big issues that I just couldn't get over.  To recap, I (perhaps foolishly) expected a camera that would give me nearly scanner-quality shots. While I found that was unlikely even for some of the new 3-6mp cameras coming out, the image quality/CCD issues kept me from truely enjoying digital photography with this device. 
+
+In the end, there are a few other cameras I'd look to. For image quality, Canon's PowerShot Pro S70 (a cheaper, older 1536x1024 SLR camera) has garnered much acclaim, or for the criminally insane, Nikon's D1, which is imo unparalleled in image quality but also costs $5000.  While I haven't played around much with the, the Olympus C-2000, C-2020, Kodak DC-265/290, and Nikon's Coolpix 950 are excellent, high-quality alternatives with similar features, specs and target market. <br><br>
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

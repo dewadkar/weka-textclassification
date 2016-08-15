@@ -1,0 +1,18 @@
+DOC>
+<DOCID> 24065 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital-Relisys_RelisysDimeraProductFamilyily-Relisys_Dimera_3500 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-53EE-1BB46A4B-3851C129-bd3 </URL>
+<TEXT>
+            My family got me a Relisys Dimera DC-3500 for Father's day. I was intrigued by the fact that it looks exactly like an inexpensive 35mm camera in almost every respect, so it is easy to snap off pictures without immediately being bugged to post them so people can see themselves. I've taken about a hundred or so pictures - all in 640 X 480 mode for posting online. I am fairly impressed for the price. The family paid $129 for the Dimera (Digital Camera) plus shipping from Egghead, although I have since seen them advertised for less than $100.
+
+The order arrived in about five days or so via surface. In natural light or incandescent, the picture quality rivals regular photographs. In fluorescent lighting, it accents the blue-green portion of the spectrum which makes for great Halloween pictures, but little else.
+
+It uses the 123A type batteries which can sometimes be hard to find and are always a bit pricey. I would recommend buying the AC adapter since it takes a while to download pictures via the serial interface, which tends to kill batteries. Except for the batteries, I have been pleased with the camera and used it under various conditions, from after-dark football games where my son was performing at halftime to pictures of co-workers for an online directory. The one set of shots I took in dim, fluorescent-lit conditions ended up being tossed, but everything else came out great. 
+
+One quirk I found is that it is almost impossible to get a PC to recognize the attached camera if it isn't attached to COM1, even though the documentation says it will work on any port. Also, it works best with Win9X, not NT because of the differences in the way the 9X system handles interrupts.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

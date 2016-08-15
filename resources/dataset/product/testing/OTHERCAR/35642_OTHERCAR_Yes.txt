@@ -1,0 +1,28 @@
+DOC>
+<DOCID> 35642 </DOCID>
+<PRODUCT> Digital_Cameras/_Kodak_810_1263__618403 </PRODUCT>
+<URL> http://www.epinions.com/content_50885004932 </URL>
+<TEXT>
+            Santa brought me a Kodak DX3215 Digital Camera with docking station this year and I really like it now that I have it working properly.
+
+Being a notch above a non-technical computer user, I selected the "Custom Installation" choice on the software installation menu for this digital camera. The default install location on your computer is your C: drive under "Program Files." I never, ever install programs on my C: drive, so I changed the installation path to my E: drive. Yikes... what a mistake! After I installed the software, charged the battery in the camera in the docking station, and took some pictures my life went downhill after that. My computer kept crashing, my cable-modem access to the internet went away and the camera would not work at all!
+
+I read the manual and couldn't figure out why the camera wasn't working and why my computer was having a nervous breakdown right in front of me. So, I called Kodak customer service. Before I go any further, I will say that the technician was very pleasant and did ultimately resolve the issue. I sat on hold for 2 1/2 hours before I ever spoke to the technician. I was on the line with the technician for another 1 1/2 hours before the problem was resolved. The problem is that Kodak has designed the software to work properly ONLY if it is installed on the same drive as your Microsoft Windows software. If you don't install the camera software on your windows drive, you'll have more problems than you could possibly imagine! Yes, he resolved the issue, I just wish it could have happened a little quicker. For the record, I did not call on Christmas day. I called a few days later and didn't expect the extremely long wait time.
+
+This being said, the camera is working beautifully now. It is very easy to operate and the photographs are terrific. The quality of the photos is almost as good as the Canon camera I got for Christmas a couple of years ago. When I go on vacation I will probably bring the digital camera and the regular camera because the quality on the digital camera is so good. Yesterday, I brought the Kodak with me to the cemetery to take some pictures of family headstones (sounds weird, I know, but genealogy is my hobby and passion!). I got home, uploaded the pictures to my computer via the one-touch button on the camera's docking station and was thoroughly impressed and happy with the quality and detail of the photographs. 
+
+<b>Camera Specifications</b>
+The KODAK EasyShare DX3115 zoom digital camera is easy to use � all you need to do is point and shoot. With its 1280 x 960 image resolution you get vivid, razor-sharp prints up to 5 x 7 inches. The 4x zoom enables you to get close to the fun so you won�t miss out on once-in-a-lifetime moments. The EasyShare DX3115 has 8MB of internal memory and a MultiMediaCard/Secure Digital� memory card expansion slot in case you need additional memory. 
+
+1.3-megapixel CCD
+2x optical/2x digital zoom
+Automatic, fill, red-eye and off flash modes
+Automatic white balance
+Real-image optical viewfinder
+USB and KODAK EasyShare Camera Dock compatible 
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

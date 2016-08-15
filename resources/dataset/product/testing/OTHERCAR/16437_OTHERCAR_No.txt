@@ -1,0 +1,26 @@
+DOC>
+<DOCID> 16437 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Fuji_FinePix_2400_ZOOM </PRODUCT>
+<URL> http://www.epinions.com/content_25641258628 </URL>
+<TEXT>
+            All I wanted out of a digital camera is something that would take quite decent quality pictures that I could use for website design. At 2.1 megapixels, the Fuji Finepix 2400 zoom suffices. It is one of the cheapest 2.1 megapixel digital cameras on the market right now if you can stomach the price. 
+
+It has all the standard features (http://www.fujifilm.co.uk/fujidc/fp2400z/info.html) including a self-timer, an LCD screen and three picture sizes (640x480, 1280x960, 1600x1200). You can manipulate the quality between Fine and Normal at 1280 and 1600 modes to give you extra savings on the file sizes. At Fine mode and 1280 picture size, the manual suggests that you can reach 101 pictures. You might get slightly more or less since the files sizes do vary quite a lot depending on the solidity of the subject and light conditions. 
+
+The flash comes in five modes. Auto, Red-Eye Reduction, Force Flash Off, Force Flash On and Slow Synchro. The others are self-explanatory except for the last one. Self-Synchro starts the flash but only after 3 seconds to allow more light to enter the image naturally. This is similar to the effect of slow shutter speed on a regular film camera so you can do those light-bending night shots. 
+
+There is also a pseudo aperture control on the camera. In manual mode, you can adjust the white balance and you can adjust the exposure on a scale from +1.5 to -0.9. The difference in quite discernable in low-light conditions.
+
+The 3x optical zoom which stretches between 35mm to 114mm is a plus. It isn't terribly useful because at 2.1 megapixel quality, you can basically crop as you want on your image manipulation software like Photoshop without too perceptible an image loss. But don't expect to have a very sharp image. 
+
+Two things I really dislike about this camera. It requires fairly heavy pressure for the shutter button to register. I've missed several good shots when I hadn't depressed the shutter heavily enough. This is a design feature, not a flaw. Light pressure on the shutter button allows the Finepix 2400z to adjust its autofocus onto subjects of your choice that you place in the viewfinder centre. 
+
+The second thing I dislike is that it requires 2-5 seconds for the image to be constructed in the memory. If you forget that, or have shaky hands or are on a boat in the middle of the ocean, you'll get a lopsided image that probably has some motion blur. This means that no matter how good the autofocus is on the Finepix, you'll never get it 100% focused. And nothing in the manual suggests that it has a shake compensation feature. But it does have a shake-alert in case to tell you if you're shaking too much. But it only came on when I shook the camera to simulate a 4.5 on the Richter Scale. On the plus side, if you like to take action pictures with a slow shutter speed, this flaw is great. 
+
+Overall, it's not bad for a first camera. I can get used to the slow image construction and the heavy pressure shutter. But you'll definitely want to upgrade from this camera ASAP.
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

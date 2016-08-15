@@ -1,0 +1,35 @@
+DOC>
+<DOCID> 227 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_Powershot_G1 </PRODUCT>
+<URL> http://www.epinions.com/content_27344866948 </URL>
+<TEXT>
+            Canon's Powershot G1 was a relatively late entry to the 3-megapixel category, but the delay apparently gave their engineers extra time to produce a very well-thought out design with an amazing wealth of features.  Among the major benefits:
+
+- Excellent image quality.  Maximum image size is 2048x1536 pixels.  You can use varying degrees of compression, including an uncompressed RAW mode.  Unlike just about every camera in its class, the G1 offers a 50 ISO setting, which increases exposure time but can produce photos with less "noise."
+
+- Very fast lens -- depending on the zoom, f2.0 to f2.5.  This allows extra flexibilty w/ regard to varying lighting conditions, and makes the 50 ISO option practical.
+
+- Multiple photographic modes.  Fully automatic, aperture priority, shutter priority, program and manual.
+
+- Amazing battery life.  I use a 128-meg memory card, which will accomodate around 70 very high-quality images, always use the LCD rather than the viewfinder, and don't always recharge the camera between "rolls" -- and yet the battery has never died on me.  What's more, the rechargeable battery is included, which is more than you can say for Nikon digitals.  Since rechargeable batteries tend to be fairly expensive, this must be taken into account when comparing prices between Canons and Nikons.
+
+- Excellent LCD.  It's not the biggest, but it's certainly one of the sharpest, and can be pivoted to any useful angle.  It's really the only viewfinder the G1 requires.
+
+- Movie capability.  The G1 only takes monaural low-res AVI's with a 30-sec max running time, but thie is a great feature.  
+
+- CF I/II memory slot.  Right now, Compact Flash is the best memory medium for digital cameras.  It's typically available and, more importantly, usable in higher capacities than SmartMedia.  Many SmartMedia-based cameras can't use cards larger than 64 meg, whereas no such limitation exists for CF.  In fact, the G1 can even use a 1 GByte IBM Microdrive.     
+
+The G1 is not without flaws, most of which are fairly minor:
+
+- Useless optical viewfinder.  It's a good thing the LCD screen is so good, because the viewfinder is small, awkward and seems designed to scratch your glasses and/or eyeball.
+
+- Somewhat slow startup time.   The time between turning the camera on and being ready to snap a picture feels like about 10 seconds.
+
+- Tricky autofocus.  Sometimes the autofocus can't focus on certain subjects.  There is also sometimes a focusing lag between pressing the shutter release and taking the shot.
+ 
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

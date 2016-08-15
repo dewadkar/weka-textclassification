@@ -1,0 +1,58 @@
+DOC>
+<DOCID> 32331 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Kodak_EZ200 </PRODUCT>
+<URL> http://www.epinions.com/content_57671323268 </URL>
+<TEXT>
+            I remember years ago, when the normal camera was one with film in it, in the world of Kodak Instamatics, Polaroid Land Cameras and the old Kodak Box Cameras came along the 110.  It promised a lower cost, smaller profile, and easier to use format.  The problem was the picture quality was not as good, the same hold true today with the Kodak EZ200. Although the picture quality is not as good, it is by all means acceptable.  I take the pictures I get with the EZ200 and using my favorite Photo Editor, simply click on the command to SHARPEN the photo and it's remarkable how clean of a picture you can really get.  It won't rival the high end Digital Cameras, but is more than acceptable for Web Pages, Email and sharing with family members.  I found my EZ200 at the local Walmart priced at under $50, so in my opinion this was a steal, not just a bargain.  It far outshines the quality of similar priced cameras like the Jazz and Polaroid 320. The camera comes with an included USB Cable and a 65 page Users Guide that effectively explains the uses and operations of the camera as well as a good trouble shooting section.  
+
+The reason I bought this camera is because I wanted a digital to carry with me on outings in the woods and on the ocean shore.  At under $50 I don't have to hate myself in the morning if I damage it or lose it on these excursions.  The viewfinder is bright and allows you to see the subject you want to photograph quite easily.  There is an LCD on top next to the Shutter Button which tells you the mode you are in and how many pictures you have taken. To power the camera up you simply press the Power Button, check the LCD to make sure you are in the right mode, Webcam or Digital Camera (High Quality, Web Quality, Burst, Video).  To take your picture simply point it at your subject and depress the Shutter Button.  
+
+Downloading the pictures onto your computer is a breeze with the included software, or most Twain Source Accessible Graphic Editors.  You connect the camera via an included USB cable to an available USB port on your computer.  
+
+Specifications of the camera are:
+
+Pixel Resolutions:
+Video Clip         160x120
+High Quality       640x480
+Web Quality        320x240
+Burst              320x240
+
+Frame Rates:
+Video Clip         20fps
+Webcam             30fps@CIF 352x288
+                   26fps@VGA w/500Mhz System
+                   15fps@VGA w/255Mhz System
+
+Color 24 bit  Millions of colors
+
+File Format     JPG (Stills)
+                AVI (Video)
+
+Picture Storage  4MB internal
+
+Lens  f/2.3
+
+Focus Range  Digital Camera 30 in. - Infinity
+             Webcam         2 in. - Infinity
+
+Power Digital Camera 4 aaa alkaline batteries
+      Webcam         powered through USB cable
+
+Width    3.6 in.
+Depth    1.4 in.
+Height   2.7 in.
+Weight   4.7 oz with batteries
+
+Capacity 
+64  High Quality Pictures
+128 Web Quality
+10  Seconds of video
+
+Keep in mind if you are looking for a camera to use strictly for snapshots and not interested in features like Zoom Lenses or adding titles to you pics, take a good look at the EZ200.  At home stuffed in a backpack or purse at your favorite picnic.  Cheaper to replace then a higher priced digital camera.  I rationalized it this way, the average disposable 35mm camera you can pick up off the shelf at your local store runs about $9.00 plus developing of the pictures.  If you bought 5 of these cameras for $45.00 you'd get about 125 pictures plus developing of around $5 or another $25 you've spent a total of $70 or $20 more than this camera which will give you many many more pictures plus no developing costs!
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

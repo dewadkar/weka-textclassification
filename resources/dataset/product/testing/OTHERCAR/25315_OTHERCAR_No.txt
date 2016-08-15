@@ -1,0 +1,54 @@
+DOC>
+<DOCID> 25315 </DOCID>
+<PRODUCT> Digital_Cameras/Nikon_Coolpix_5700_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_107807542916 </URL>
+<TEXT>
+            A few of the problems I had with this camera, other people also mentioned, but there were other issues people didn't talk about. I also can't understand the positive reviews for this camera, unless it's being used in plain and simple point and shoot. For anything more serious, this camera just doesn't cut it.
+
+I bought the 5700 for use on a 5 month trip, in which time I took over 6000 pictures with it (no, I'm not making up this up). I had used several cameras before(digital and non-digital), so I wasn't new to photography.
+
+In outside bright daylight the picture quality is very good. However, in Programmed-Auto, the camera would tend to underexpose(regardless of lighting).
+
+As a result of the camera's tendency to underexpose, I would shoot in Shutter-Priority. In bright daylight with cloud cover, I would usually choose a shutter of either 1/250th or 1/500th (where, at the same aperture the camera would choose 1/1000 or 1/2000).
+
+The camera uses an "edge detection" algorithm to get focus, instead of a typical infrared based system(which figures out the distance between the object and camera using light). The edge algorithm essentially steps the camera focus until the image becomes clear to the internal Digital Signal Processor. The problem with this technique is that:
+
+A. It takes a contrast in the image(in colors) AND a *long* time to get focus (compared to a normal point and shoot or SLR) since the camera doesn't actually know the distance and has to continually adjust the focus until the image becomes clear.
+
+Focusing can take anywhere between 1 - 5 seconds if the object is not at the same distance as the previous object or is of uniform color. As an example, with the CoolPix 5700 you couldn't take a picture of a plain white piece of paper or a vanilla colored wall since the camera needs contrasts of colors for it's algorithm. I had a lot of problems trying to take Macro shots of a Hibiscus, since the colors are usually uniform vibrant red.
+
+Also as a consequence of the slow focus time, if you want to shoot anything with motion or something that's fast moving(or moved right after focus), forget it.
+
+B. In anything other than conditions with a lot of ambient light, the camera *fails* to get focus.
+
+It however tries, stepping multiple times (taking several seconds) and then lets you know it didn't get lock.
+
+In multiple occasions I was in doors with quite a bit of ambient light, but I couldn't get the camera to focus.
+
+The focusing problems were VERY infuriating. The Minolta DiImage 7i/7Hi uses an optical assisted method which I found gets focus VERY quickly...too bad the Minolta has noise problems.
+
+Annoyingly, if you accidentally take a picture when the AF didn't work, the camera doesn't write that in the info.txt file(which logs information for every exposure), so sometimes you end up with blurry shots if YOU don't keep track of the AF.
+
+I also found the 5700's zoom is noisy and slow. Again, the Minolta offers the ability for you to manually rack the zoom in/out which I think I would have liked.
+
+Battery life on the 5700 is also not stellar. With a Crucial 128MB CF card, I could average 110-120 pictures (at 1600x1200 resolution) per battery, if minimal zooming was used. Since Nikon uses a proprietary battery (EN-EL1) if you want more pictures, you have to pay for Nikon batteries and they aren't cheap.
+
+I also found the button assignments and usage pretty stupid on this camera. The 5700 follows a convention much like previous Nikon CoolPixs, but I still thought it was overly complicated.
+
+As an example, switching between Macro Mode, Normal and Infinite focus is controlled by ONE button. This means you have to press one button and cycle until the desired mode is chosen. Pressing the button once, advances it to the next mode.
+
+So, if you want to quickly switch from Macro and Normal, and then switch back, it requires multiple button presses, and it's easy to overshoot and have to go back around.
+
+If you happen to use the camera into Shutter-Priority (where you control the Shutter and it chooses the aperture) or Aperture-Priority (where you choose aperture, it chooses shutter) or Manual (you chose both) the camera doesn't give you a light reading(it just chooses a value in SP or AP)! This makes it tough to decide if the camera is making a smart choice or not, unless you carry a dedicated light meter with you.
+
+It's also worth nothing that in full-auto setting (Mode A), the camera is set for continual autofocus, which means that it's ALWAYS focusing. You have to move to a user setting (U1, U2 or U3) before you can turn-off continuous auto-focus.
+
+Others have pointed out that it's tough to get a filter for the camera, so the lens is exposed and will tend to get scratched.
+
+Finally, as "icing" on the cake if you use the self-timer, the time is fixed at 10 seconds, with no way to adjust it. For a $1000 camera, you'd expect to be able to set the self-timer...
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

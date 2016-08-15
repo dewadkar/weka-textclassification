@@ -1,0 +1,45 @@
+DOC>
+<DOCID> 2787 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_OlympusDigitall-Olympus__D-400_Zoom </PRODUCT>
+<URL> http://www.epinions.com/elec-review-6B13-13AA2C4-38887BF2-bd1 </URL>
+<TEXT>
+            The Olympus D-400 Zoom is an excellent digital camera for the beginner and intermediate user.
+
+Here are some of the benefits:
+The Olympus D-400 comes with an 8 meg storage media card to allow storage of digital pictures in more than one resolution level. Whether you are looking to take web quality pictures at 480X640 resolution or more photo quality pictures at 1280x960 resolution, the olympus handles it all. At 1280x960 the user will find that they can adjust the compression rates to obtain higher quality images. Here is the break down on image storage/media card at each quality:
+
+
+RESOLUTION/������8 MEG�����16 MEG�����32 MEG
+QUALITY��������� �# PICS�����#PICS������ #PICS
+-------------�����-------��� -------��   -------
+640X480������     �����122���������244������ �489
+1280x960 HRHC��36������   ��72�������    �144
+1280x960 HRLC��� 18��������   36������   �� 72
+1280x960 HRUC��� 2�����  ���  4��������     8
+
+HRHC = High Res, High Compression(~220k/image)
+HRLC = High Res, Low Compression(~445k/image)
+HRUC = High Res, Un-Compressed(~4000k/image)
+
+I personally recommend using high resolution, high compression. The pictures print out on photo paper at a good quality. 
+
+The Olympus D-400 Zoom can handle all forms of lighting conditions. From a bright sunny day, to complete darkness, images come out clear and well lit (of course in complete darkness you better be sure what you are shooting at). You will also find that you can adjust shutter speeds and flash controls, for low light situations, as well red eye elimination. 
+
+The olympus comes with a 3x optic zoom built in, but with an added 2x digital telephoto you can obtain 6x zooms. An added feature is what is called Macro mode, here the user can take close ups of images within 18 inches from the target subject. 
+
+Other Features:
+The Olympus D-400 is capable in the lower resolutions to take series shots at 2 shots per/second for 640x480 res and 1 shot per/second 1280x960 HRHC. 
+It also provides the ability to build complex panaramic images with the on screen guides. 
+Auto focus, timer, picture review/delete/settings.
+
+Every Thing has a down side:
+There are some cons to the olympus D-400. First most notable is the battery life. Camera use seems to die before you even get started taking pictures. One hint that I can offer for preserving battery life is not to use the digital screen when taking pictures. Treat the camera like a normal camera and use the eye lens. It works the same and you will get a longer life out of the batteries (then again it is always more fun to see what you are shooting on the little screen). 
+Another con is the upload time from the camera to your pc. The camera comes with a a serial port adaptor which can be vary time consuming when uploading (20-30 minutes). If you are really impatient there is an alternative. You can buy an PCMCIA  adapter that reads directly from your card and is a whole lot fast (under a minute).
+
+There are many accessories available for this camera and it is not badly priced for the beginner to intermediate user. <br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

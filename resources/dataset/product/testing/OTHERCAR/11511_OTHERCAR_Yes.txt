@@ -1,0 +1,39 @@
+DOC>
+<DOCID> 11511 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2001_Nissan_Maxima </PRODUCT>
+<URL> http://www.epinions.com/content_7759302276 </URL>
+<TEXT>
+            The best part of the <b>Maxima</b> is the engine. The 3-liter V6 produces 222 hp at 6400 RPM and 217 lb-ft of torque at 4000 RPM. Some magazine publications call this engine one of the best engines in the US.
+
+The engine has short stroke (relatively to its bore) which indicates its �revability� � the reason manufactures put more cylinders in cars is to decrease the inertia and one of the ways to do it is to decrease the stroke and increase the bore � I read about it in �Car and Driver�.
+
+The V6 engines are usually quite smooth (comparing to inline 4-cylinder ones; the best architecture for reducing vibrations and internal friction is inline-6, employed by BMW and Lexus IS300/GS300). Maxima's 3-liter engine is very smooth and vibration-free.
+
+What�s surprising is Maxima�s fuel economy � it is pretty good for a 3-liter engine (22/27 with manual transmission). The car goes 0-60 in 8 seconds (stick), which is quite good, but not excellent. The result is hampered by the car�s heavy weight.
+
+Interior is roomy and sound insulation is very good. Although I don�t like the interior design, it is stylish and materials look rich. The exterior � it depends on personal taste, but it is distinctive, that�s for sure. The trunk is very large.
+
+Even the base model is very well equipped � antitheft system, climate control, cruise control, power everything and ABS are standard. The car has disc brakes at all four corners and ABS, the brakes are not very easy to modulate and stops could be quicker.
+
+The chassis feels very solid. The car is built in Japan and the fit and finish level is very good. Both transmissions (auto and manual) have good gear ratios and the engine is very drivable because of the good torque curve.
+
+The crash test results are good, but insurance premiums are above average, probably due to the V6 engine.
+
+The suspension is very good while driving on the freeway, but on roars with bad surfaces the suspension does not work well. The steering is overboosted, and the price is too high. Taking into account these factors, along with the quirky styling, I didn�t buy the Maxima. 
+-----------------------------
+<b>FEATURES</b>
+
+<b>3.0L 222 hp V6 Engine</b>
+222 hp @ 6400 RPM
+217 lb-ft @ 4000 RPM
+Bore X Stroke (in.): 3.66 X 2.89
+Compression Ratio: 10:1
+Fuel economy with 4-Speed Automatic Overdrive: 19 / 26 MPG
+Fuel economy with 5-Manual Automatic Overdrive: 22 / 27 MPG
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

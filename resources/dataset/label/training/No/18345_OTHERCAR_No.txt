@@ -1,0 +1,28 @@
+DOC>
+<DOCID> 18345 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_CasioQVV-Casio_QV-120 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-1541-22ECFAC-393077D0-prod2 </URL>
+<TEXT>
+            I don't think I've come across such an &lt;expurgated&gt; piece of &lt;censored&gt; in all my years working with computer products.
+
+I was given a Casio QV-120 as an award from a company that I no longer work for.
+
+Billed as a digital camera, perfect for the consumer, the Casio QV-120 underperforms in all categories applicable to such a device.
+
+The camera takes *awful* pictures in any kind of indoor lighting, and lacks a built-in flash. Unforgivable.
+
+There's no way to focus the camera other than from &quot;macro&quot; to &quot;normal&quot; mode, making it impossible to get a clean shot of anything - all of the pictures look somewhat &quot;fuzzy&quot; once you get them onto a computer, and you're not trying to figure out what you took on the miniscule 1.5&quot; LCD display. Also unforgivable.
+
+Software is included with the camera to download pictures from it into your computer. The included software for Macintosh is a plug-in for Adobe Photoshop, but the camera doesn't include a version of Photoshop. There's a small application included that supposedly lets you take the pictures from the camera and save them on your hard disk as JPEG-formatted graphics, but I never managed to get it to work. The Photoshop plug-in *does* work, after a fashion, but requires a connection through a serial port. Downloading the pictures takes a *long* time, and seems to be limited by the camera, not by the computer.
+
+Color quality from the Casio is *awful*. Flesh tones seem to suffer the most, with any color containing a quantity of red coming a close second.
+
+Battery consumption is *incredible*. The QV-120 will go through four AA batteries faster than you can snap 24 pictures and download them to your computer. And this without a flash!
+
+Overall, this camera's a poor choice to purchase at any price. If someone gave it to you as a gift, you might stuff it into a long athletic sock and beat them with it for buying such a piece of junk. If they didn't buy it, beat them with it anyway for even picking it up from whatever horizontal surface it was lying on.<br><br>
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

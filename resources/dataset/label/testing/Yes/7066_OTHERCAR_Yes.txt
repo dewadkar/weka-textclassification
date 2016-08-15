@@ -1,0 +1,43 @@
+DOC>
+<DOCID> 7066 </DOCID>
+<PRODUCT> Digital_Cameras/485156_Fuji_Film_Fuji_FinePix_4700_Zoom </PRODUCT>
+<URL> http://www.epinions.com/elec-review-1EAE-4B8AD89A-3A5B70F2-prod3 </URL>
+<TEXT>
+            Before making a major purchase, I always spend a lot of time thinking about how I will use the item, and what features I truly need, and those that would be nice. I have a toddler, and I wanted a digital camera that was portable, could produce photo-quality 4 x 6 prints, would store a fair amount of images, wouldn't bankrupt me with batteries, had an LCD screen, and would be as user-friendly as a point-and-shoot film camera. The Fuji FinePix 4700 Zoom really delivers.
+
+<b>Fast Facts</b>
+Resolution: 2.3 or 2.4 megapixel, though advertised as 4.3 megapixel
+Image sizes: 2400 x 1800, 1280 x 960, or 640 x 480
+Quality modes (jpeg compression): Fine, Normal, Basic
+Film: comes with 16MB smart media card (Nice! Most others come with only a 4 or 8MB card)
+Power: mine came with 2 sets of AA Ni-MH rechargeable batteries and the charger. Can use standard AAs.
+Shooting modes: Auto, manual, night scene, landscape, portrait, continuous (shoots 3 shots in under a second), movie (does up to 80 second AVI with sound)
+3x optical zoom
+Unobtrusive pop-up flash has auto, forced, red eye reduction, and night scenes mode.
+Includes cable for USB hookup to your computer (note that USB port is REQUIRED to get images into your computer), and A/V output for viewing images on your television using standard RCA jacks (these can also plug into your VCR).
+Storage capacity: Largest size, highest quality--9 images. Smallest size, highest quality--90 images. I usually shoot medium size (1280x960) at highest quality, which will hold 24 images.
+
+<b>First impressions</b>
+Wow! Right out of the box I was taking great pictures. I was amazed at the size of this camera. It easily fits in my shirt pocket, though the weight makes my pocket sag. I was also impressed by how quickly the camera is ready to shoot after powering it on, which is important if you have a toddler running around the place. The dial with the shooting modes and the LCD panel with 4 direction buttons on the back were a little confusing at first. Reading the well-written manual after a few days helped clarify things.
+
+<b>Later impressions</b>
+The camera gives a slightly red cast to images taken indoors with a flash, probably due to the incandescent bulbs. Using the accompanying software, Adobe PhotoDeluxe, can help correct this, but I prefer using the GIMP. (See how I fix this at http://www.toddslater.org/gimp/imaging.shtml) The colors seem to be right on when shooting outdoors.
+
+The camera has a manual mode for the more advanced photographer. I rarely use this mode, but you can adjust the strength of the flash, turn on or off the auto focus, shoot in 200, 400, or 800 mode, adjust the white balance, and more.
+
+I have printed some pictures using ezprints.com, and have been pleased with the quality. I mostly use my images for web work and sharing with family and friends via e-mail, however.
+
+I also like the included Exif viewer software. You can automatically rename images by date, including time if you want, or choose your own naming system. The Exif viewer also can tell you the setting the image was taken with, which is nice when you want to compare how different settings render the same shot.
+
+The only real complaint I have about the camera is the movie mode. The movies are in AVI format, but the Windows Media Player doesn't have a codec for these movies, so you have to use QuickTime. I like QuickTime, but I had to modify my file associations so that the movie would bring up the QT player.
+
+<b>In short,</b> the FinePix 4700 will give you great quality digital images in a small, convenient camera. It really is a point-and-shoot, with some great manual features for advanced photographers.
+
+<b>A note about the price</b>
+I bought mine in May 2000 when the retail price was $999. I found it for $799 and the vendor had a $100 discount if you spent over $500, so I got it for $699. That was an awesome price because I haven't seen it any cheaper 8 months later. If you can't find it for around $700 or less, you might want to check out a camera with higher resolution. You may be able to find a 3+ megapixel camera for the same price now.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

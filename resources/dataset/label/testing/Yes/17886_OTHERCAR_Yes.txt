@@ -1,0 +1,18 @@
+DOC>
+<DOCID> 17886 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Chevrolet_Blazer </PRODUCT>
+<URL> http://www.epinions.com/auto-review-3265-D6FDDAC-38FE6EFC-prod6 </URL>
+<TEXT>
+            Here's some important information for anyone owning a mid 90's or later s10 style blazer...take a look under the hood. Note that the oil filter is mounted on an assembly that is hidden behind a flap under the dust shield below the radiator. Standard hydraulic hoses carry the oil, under pressure, to the filter and possibly to the radiator for cooling. These hoses are neoprene, swaged onto metal tubes. THEY CAN SEPARATE, PUMPING ALL THE ENGINE OIL OUT IN LESS THAN A FEW SECONDS. If this happens, there is a severe risk of serious engine damage if it is not shut down immediately. I have seen two of these vehicles this has happened to in ONE shop near my residence. 
+
+This is an idiotic design flaw. There are ways to fix it so that it will not happen. The problem is caused by the &quot;swage&quot; not being tight enough. The swage consists of a metal collar that is compressed around the neoprene hose, clamping it to the pipe end. Over time vibration, heat and other factors can cause the hose to slide off the pipe end. When that happens, the oil pump simply empties the crackcase oil through the broken hose.
+
+There are two approaches to fixing this. 1. Remove the hoses, take them to a good hydraulic systems shop - a place where they make up similar hoses that are used to handle much higher pressures, such as for plow hydraulics, and have them make up a set of hoses that meet a much more rigid pressure spec. 2. You can with some effort, remove the swage collars by cutting them away. This done, you replace the hose with higher pressure rated hose, and use two hose clamps at each hose end to hold it on the pipes. Part of periodic service then includes checking the hose ends and clamps for tightness.
+
+If one of these hoses does fail, and severe damage results, you might have success making GM pay for it all - be prepared for a fight. Your case in attempting to do that is that the design is flawed; that such a critical component should not be able to fail in that way.<br><br>
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

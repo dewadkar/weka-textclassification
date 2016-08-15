@@ -1,0 +1,27 @@
+DOC>
+<DOCID> 12520 </DOCID>
+<PRODUCT> Digital_Cameras/Sony_DSC_F717_Cyber_shot_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_116258344580 </URL>
+<TEXT>
+            Yes, it's 21st century, and it's time for me to move on to digital. I had Canon EOS camera, which I loved, but developing film in local photo shops was expensive, quality of prints was so-so, and Kodak Photo CD that they would make had only 1.2 MP scanned images usually made through dirty scanner. So I started to look for professional or-semi-professional digital camera and finally narrowed my choice to this one.
+Great <b>optics</b>! Thanks, Karl Zeiss! Be careful, though. Never wipe out dust from lens with clothes - always blow it away. Use supplied brush to gently remove dust from the lens. Even one microscopic grand of sand is so abrasive it can scratch the lens. Oh, did I mention, all filters etc. from Canon camera were matching Sony lens, so I was able to save on accessories somewhat.
+<b>Zoom:</b>For a 21st century camera, I'd expect more then 5x optical <b>zoom</b>. Telephoto lens somewhat compensates it. Got used one on eBay for $200. New one would cost you about $500.
+<b>Focus:</b>you can use manual focus, or auto focus, which is pretty fast. Also extremely helpful for shooting in dark environment - laser-guided focus adjustment. Especially helps when shooting nocturnal animals in complete darkness. The camera would throw several laser beams on to subject and adjust focus, so even in darkness your subjects won't come out with two noses or four hands. Infra-red sensors allow you to make monochrome pictures in very dim light conditions. Don't get excited: it's not powerful enough (intentionally so) to see people's underwear with it.
+<b>Shutter speed</b> is very slow, like in most digital cameras under $2000. Forget about shooting fast motion, unless you can train yourself to preemptively press shutter button half (or quarter) a second ahead of the desired composition. For shooting sport events, flying insects I'd shoot about 100 frames, then drop 95 that are out of focus or badly composed. It's disappointing, but not terrible. I shoot at least 200 frames a day anyway. Over time, you'll just learn to press shutter button sooner and better compose your pictures. First few weeks I used to throw away 1/3 of the pictures. Now I am down to about 5%.
+<b>MPEG</b> video clip shooting is very poor quality. You can shoot videos at 320x200 with 30fps (not bad), but image is very granular. Most $40 webcams have better video quality. So it's only good for small clips to put on the web or attach to email. Mono microphone is not very sensitive, either.
+<b>Ergonomics:</b> no, it doesn't fit in the pocket, but thanks to enormous lens this camera is a chick magnet! You can't use it with single hand because zoom controls are located on the lens. I got used to using both hands, and single-handed shooting was not that important, as experience showed.
+<b>Menus</b> were not very hard to get used to, but even after using this camera for a year and making over 5000 shots I still have hard time once in a while in remembering how to turn certain feature on or off.
+<b>Software:</b> camera comes with USB Mass Storage Driver. Windows XP already has that driver, but WIndows 2000 will need one from CD. Other software was not very useful.
+<b>LCD display</b> is quite big and useful for reviewing pictures. May be because I was SLR user for so long, I prefer view finder anyway.
+<b>Battery life</b> is great. Sales reps would insist that you buy 4 hour battery - save the money. I shoot 500 shots a day and recharge it once in 3 days (once in 2 days when using flush a lot).
+<b>Memory:</b> camera comes with 8mb memory stick. It's good for 20 JPEG shots with maximum quality, or 2-3 minute video (good compression, but poor quality). So spend $100 and buy 256Mb memory card - it can store 100 photos - half a day worth of shooting. For full day shooting, either buy second memory card, or flush the pictures onto laptop, like I was doing when traveling. MemoryStick is kinda slow. But MS Pro are more expensive, though faster, and not all of them are compatible with this unit.
+You can also shoot pictures in 24-bit <b>TIFF</b> for best quality, but be prepared to wait a minute or so after each shot to wait while picture is being written onto memory stick. The quality of picture is almost the same between JPEG and TIFF in bright light and high contrast compositions.
+Be prepared to carry tripod with you if you intend to make color shots in darkness or dim light conditions. Otherwise pictures will come out poorly focused, blurry or grainy (underexposed).
+For <b>panoramic shots</b>, get a wide-angle lens. I am happy with cheap one I use ($70 package, includes set of 6 filters), but you can get high-grade one for about $250.
+Compared to other cameras, and weighed value for the money (I paid $650 for the camera and free shipping), I think I've got best value.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

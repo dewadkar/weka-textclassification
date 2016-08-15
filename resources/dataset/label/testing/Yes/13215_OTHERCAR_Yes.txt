@@ -1,0 +1,52 @@
+DOC>
+<DOCID> 13215 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Canon_PowerShot_A70 </PRODUCT>
+<URL> http://www.epinions.com/content_126087630468 </URL>
+<TEXT>
+            My luck with cameras hasn't been worth a share of Enron. My Nikon F3 SLR with its full brace of lenses went to my first wife, Medusa  (you know, the lady with snakes for hair, whose mere glance turns men into stone), as part of the divorce settlement. My back-up camera, a Minolta X370 SLR, shuffled off its mortal coil somewhere in Spain, extruding 380-some-odd very underexposed shots (Thank Providence for scanners and Adobe Photoshop). Then camera-less and impoverished, I swallowed my pride and bought a low-end Canon digital point-and-shoot which was easy to use and was going to keep me in pictures until I could afford something better. Unfortunately, it ran away from home (euphemism for "stolen") before I had it even a year.
+
+But I think my luck may be about to change. I recently bought a Canon A70 and discovered to my shock and surprise that I actually like it - for its price I REALLY like it.
+
+Don't get me wrong. It is not in the same class as my beloved Nikon F3 (few cameras are), or even my late, lamented Minolta (before it packed it in). But this new Canon can actually produce large 8.5" X 11" prints that can fool me into believing they could have come from a good 35mm SLR - unless I look too closely. Most users - unless they know precisely what to look for - would never tell the difference. The output is that good.
+
+I thought I would be frustrated due to a lack of what photo geeks like to call "creative control." But while most people will achieve excellent overall results by leaving the camera set to its default "auto" mode, there is a total of TWELVE possible exposure modes from which to choose.
+
+There are automatic modes for portrait shots, landscape shots, extreme closeups, action shots and panoramas. For people with more photographic knowledge and/or the desire to diddle, there are aperture and shutter priority semi-automatic modes, and a fully manual mode allowing manual setting of shutter speed and f-stop.
+
+It even does a surprisingly decent job of recording *.avi video. The frame rate is a trifle jerky, but the image quality is good (if limited to only 640x480) and the sound pickup is quite clear. Of course recording time is tightly limited by the size of one's Compact Flash card, so don't toss your camcorder yet. But in a pinch or just for some yucks... CF cards are getting bigger (up to 4GB) and cheaper ($130 for 512MB - good for up to 12 minutes or so) all the time.
+
+I miss the flexibility of interchangeable lenses, but it has  3:1 optical zoom (35mm film equivalent of 35 - 105mm focal length range) - wide enough for framing most subject matter. Don't expect good closeups of the action on the field if you are seated in the "nosebleed" seats, though. If you want longer telephoto shots, you must cough up $150 for an optional screw-in range doubler, which gets you to about 200mm telephoto equivalent, but at the price of slower f-stop range. The doubler penalizes lens aperture (light-gathering ability) from f2.8 to f5.6. If you want to join the ranks of celebrity paparazzi, there is just no substitute for an SLR with a lens the size of a rottweiler's leg.
+
+But don't even think of using the available digital zoom feature. The results look like crap. In all fairness to Canon though, digital zooms ALWAYS look like crap. But it begs the question of why such a useless feature has become standard issue on nearly all digital cameras.
+
+For taking group pictures in tight quarters, there is a 24mm-equivalent wide-angle add-on, too.
+
+Colors are ZOWIE!! Almost too zowie! - something I've noticed on all digital cameras. I can't quite put my finger on it. It's not a matter of color balance or saturation. The A70 has excellent and thoroughly user-transparent automatic white-balance enabled by default, so the colors are nearly always very accurate. But the colors look almost hyper-real. Autumn shots - with the reds, greens, and yellows - are just stunning - not oversaturated, but somehow BETTER than real. 
+
+For difficult lighting situations, there are white-balance presets for sunny or cloudy days, tungsten or fluorescent indoor lighting, or you can set the color balance manually.
+
+The camera has continuous shooting capability, too. This is good for getting that best action shot. It only works well if you set the image resolution and compression to normal or fine. If you set it to super-fine - for best possible image resolution - the sequential shots slow to a crawl, because it takes that much extra time for the image to be written to the CF card. There is no free lunch at this price. If you want rapid action shots, you must trade away some image resolution. I don't use this feature very often, so it doesn't frustrate me much. But it is worth mentioning that digital cameras in general just can't keep up with a good 35mm film camera equipped with a motor drive.
+
+The megapixel numbers don't always tell the complete story as far as perceived picture sharpness is concerned. The quality of the lens in the A70 makes up for a lot. Images are sharp from corner to corner and contrast is very good. I've seen many more expensive cameras - including SLRs - that don't look as good. The images in normal lighting conditions just jump off the paper at you - very impressive for a mere 3.2 megapixel camera. But remember that only a year ago or so, 3.2 megapixels was top-of-the-line, so it's nothing to wrinkle your nose at.
+
+In normal conditions, there is no detectable electronic noise from the imaging chip evident, though it does start to show up if you are trying to take low-light time exposures without flash. The noise looks like film grain - the look of really fast ASA1600 film in dim light. If nighttime time exposures are your thing, you may be disappointed here again.
+
+If you look really closely, especially if the image is enlarged or if one opts for maximum compression for smallest image file size, one can see evidence of artifacts - chromatic haloing, cubing, jaggies and pixelization - that betray that the images are digital. On a standard 4" X 6" snapshot size print, forget it. I can't see much of anything wrong in a properly exposed shot. Even 8.5" X 11" prints appear nearly pristine - about as good as prints from ASA200 film, though not perhaps as good as ASA64 or ASA25.
+
+Ergonomically, the camera is well-designed. One still needs to read the manual to figure out how everything works, but the basic functionality is intuitive and the controls fall easily to hand. You can pick it up and start taking pictures right away. It has a pleasant heft to it - it doesn't feel cheap, despite its mostly plastic construction.
+
+This camera is bulkier than many of the newer digital cameras in the market, and to me, this is a good thing. Many companies, Canon included, make advertising hay about how compact their newest offerings are. This camera is a little too bulky and heavy to be comfortable in the shirt pocket, but if it were any smaller it would be utterly unusable by me. When shopping, I rejected many otherwise fine cameras because their controls were just too damned tiny to use comfortably. Personally, I think compactness is a virtue that can be taken too far and this Canon is teetering on that edge as far as I am concerned.
+
+Lastly, I wish these people would end their flash memory format wars. This Canon uses Compact Flash, which is the cheapest per megabyte and available in the largest capacities. SmartMedia seems to be gradually fading, but Sony has its proprietary Memory Stick, Secure Digital is getting to be very popular and the new XD (for Extreme Digital) Picture Card being touted by Olympus and Fuji is gradually gaining a foothold, too. For all my devices and gadgets that use flash memory, I had to buy a "Swiss Army Knife" reader that reads 6 different formats. ENOUGH ALREADY! I thought the writable DVD format wars were bad.
+
+Off my soapbox...
+
+Nickpicking aside, this camera is an out-of-the-park home run for the flexibility, ease of use and image quality that it offers for such a low price.
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

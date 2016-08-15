@@ -1,0 +1,57 @@
+DOC>
+<DOCID> 24418 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Sony_DSC-S50 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-61E4-95B92CD-3A3308D6-prod1 </URL>
+<TEXT>
+            We were loaned a DSC-S50 while our DSC-F55 is in the shop (see my review of the DSC-F55), so I have an ideal opportunity to compare the two cameras.  If I was buying a digital camera now, the DSC-S50 would be right in my price range, so I would probably end up buying it or the next model up.  
+
+<b>Features of the camera include:</b>
+ - 2.1 megapixel pictures (1600 X 1200, or bigger than most monitors)
+ - up to 15 seconds of 320 X 200 pixel MPG movies, with sound.
+ - Onboard LCD screen for previewing
+ - Uses Sony's memory stick technology, allowing storage devices from 4 MB (included with the camera) to 64MB
+ - Includes capability of A/V out to a TV
+ - Battery included lasts approximately 3 hours, or enough shots to fill a 64MB stick 3 times.
+ - 3X optical zoom, 6X digital zoom.
+ - Ability to edit/delete/zoom in on pictures already on your memory stick.
+
+<b>Accessories you might wish to consider buying:</b>
+
+ - For laptop owners, the PCMCIA adaptor for the memory stick, which turns the stick into a hard drive accessable by Windows Explorer
+ - Additional batteries (recharging when you need one right now is a real pain)
+ - Larger memory sticks (4MB will take about 9 high resolution still pictures and about 3 15 second high resolution movies)
+
+<b>My experience using this product:</b>
+
+I've found this camera superior to the DSCF55 in that flash shots seem to be less overexposed.  The optical zoom feature makes for crisper shots than cameras that use digital zoom only.  
+
+I've noticed that in taking pictures, if you take them in rapid succession, you'll end up confusing the camera into taking a shot without the flash going off.  You can just delete the picture later, of course, but it's annoying to miss part of the action.  There's a delay between the camera focusing and the shutter releasing, and that means that what is frozen in the LCD screen for a moment isn't necessarily what you end up taking a picture of.  Just requires some adjustment, that's all.  
+
+With this camera, you tend to take a lot of pictures (with 300 low resolution pictures per 64MB stick, it's easy to just keep clicking away).  Editing them out, before or after you've downloaded them to a computer, is easy and probably necessary, to avoid having thousands of pictures that you will quail at looking at later in life.  
+
+The lack of permanence of the pictures bothers some people, I think.  They still associate pictures with print pictures.  We see pictures as something to be emailed to friends and family, and this is done a lot easier when the original file is in JPG format (or TIFF format, as this camera gives the option of saving the files in).  I suppose the JPG and MPG format might become obsolete at some point, just as Kodak Brownie film is obsolete (although I'm sure professionals can still make their own Brownie format film).
+
+<b>What I like about this camera:</b>
+
+It's small, a bit chunky, but very portable.  The pictures are crisp, and immediately available for download.  The flash pictures are superb, the focusing, even in the dark, excellent.  The memory stick technology is the wave of the future, at least for Sony.  The beauty of the technology is its portability, and usefulness in other Sony products.  There's a Sony picture frame that scrolls through every picture on a memory stick that would be great for demonstrations (it's pricey though).  In a pinch, with the PCMCIA adaptor, the memory stick can be used as a hard drive, or a back up of key documents.  Think of it as a huge floppy disk, but much smaller.  If the camera is made obsolete, it's not likely that the memory sticks will, although in the future, a 64MB memory stick might look small compared to the 4GB sticks that will become standard.
+
+<b>What do I hate?</b>
+
+There's a bunch of decals plastered all over the camera that take some time to peel off.  Also, there's a decal on the camera that says that it's USB capable, which I can only pray means that you can download pictures through the USB port.  That would be much quicker than the serial cable method on the DSC-F55.  I'm unsure about this, so I'll only raise it as a flag, but I thought that Windows 95 machines had trouble accessing USB ports, and that you need at least Windows 98.  This won't be a problem for most people, but for some, it will mean finding an alternate means of downloading pictures to your computer.  
+
+<b>Who should buy this product?</b>
+ - People who are computer enabled, and can take advantage of the portability of the pictures that come out of this camera.
+ - Real estate salesmen, who might want to take pictures of prospective homes, or small, narrated movies, and include them on a website.  
+ - Product demonstrators, who can download a presentation onto a camera (in movie format) and then play it on a TV without the bother of a VCR.
+ - Snapshot enthusiasts, including parents or grandparents.  
+
+Related review of Sony DSC-F55 by pageclot:
+<a href='/elec-review-8F7-14C3FB1D-3A31AD52-prod4'>http://www.epinions.com/elec-review-8F7-14C3FB1D-3A31AD52-prod4</a>
+
+p
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

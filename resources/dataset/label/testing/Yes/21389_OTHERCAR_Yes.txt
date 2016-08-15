@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 21389 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1999_Toyota_Camry </PRODUCT>
+<URL> http://www.epinions.com/content_38587633284 </URL>
+<TEXT>
+            The 1999 Toyota Camry is the best car I have ever owned.  It's probably the most dependable car on the market. To this day, I have not had a problem with it.  It's a great family car too.  With room for five passengers, everyone can sit comfortably.  Or even sleep for that matter. The ride is smooth enough to lull you like a baby. It's very fuel efficient, roughly 20 city miles and 28 highway miles to the gallon.  In addition to these features, it has a large trunk, big enough to fit three people (trust me on this one folks).  This car is an excellent buy and one of the best all around vehicles. I would highly recommend this automobile to anyone in the market for a new car.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

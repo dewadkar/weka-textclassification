@@ -1,0 +1,84 @@
+DOC>
+<DOCID> 24719 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Sony_DSC-S70 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-7BB2-D3BFF9E-396B50D5-prod2 </URL>
+<TEXT>
+            There goes my Nikon...
+There goes my scanner...
+There goes my 20 roll/month photo lab allowance...
+
+My company decided it was time to replace our aging Kodak DCS-50 camera, so the media guys went out camera hunting and came back with a Sony DSC-S70. A couple of days later they gave me a little demo and let me play with it for a couple days.
+
+I was in love.
+
+Still, it was $900, so I had to cool down a bit.
+
+Less than a month later I received some consultant fees I forgot about, so I managed to buy my own DSC-S70 before my wife could spend it all :-)
+
+I have been using this camera for a couple weeks, and have already found the many things that make it so special, and also the few annoying things that make it half a notch less than perfect.
+
+Good: Beautiful lens.
+This lens is just great. The Zeiss lens is awesome, I just love it.
+
+Good: Many MANY metering choices. Aperture priority, shutter priority, two night modes, two landscape modes, and even a spot meter!!!
+
+Hell, my Nikon N60 doesn't have a spot meter!
+
+Bad: No AF-lock. No AE-lock. If it has it, please email me and tell me how to do it.
+
+Good: It is very small and light. Carrying a Nikon, two lenses, flash and 10-20 rolls of film is no joke. I have a little Case Logic bag for mine and it has the exact size to carry all the cables and the camera, yet the whole combo weights nearly nothing when compared with my camera bag. And since I bought an extra battery later ($60) I don't even carry the recharger.
+
+Bad: It gets a bit hot. Not enough to burn but still enough to bother me.
+
+Bad: LCD screen is useless out in the sun. This is common, but there has to be a polarized film that can be applied to LCDs to make them visible in bright light.
+
+Good/Bad: I love the menu and its features, but I would have preferred a simple dial with a bunch of standarized settings. For example, the exposure settings belong to a dial. The white balance too. 
+
+Good: The white balance feature.
+
+This camera ships with a 8MB memory stick, which is reasonable for web resolution pictures at 640x480. Megapixel photos are breathtaking, but I would not do these without a 64MB memory stick. I also bought a 16MB stick. Last sunday I put 250 or so shots at 640x480 on my 16MB stick. The battery had about 8 minutes left, and I used the LCD screen the whole time.
+
+TIFF is a waste of time. A megapixel photo at full resolution nearly fills a 16MB memory stick plus it takes forever to write to it.
+
+I am having some trouble printing, but I am going to blame it on my printer drivers. It seems they are trying to correct the JPEG artifacts and the results are terrible. The photos are just beautiful at even 640x480. At full resolution they are incredible even if using JPEGs.
+
+The USB connection is just awesome. I converted my wife's PC back from NT to Windows 98 to take advantage of USB and it is just great. Once connected to USB the PC sees the camera as a hard drive. You can drag and drop the pictures like any folder in your PC. Installation was completely trouble-free. I also connected it to a laptop at work and it performed flawlessly.
+
+I don't have real complains that would keep me from recommending the camera to other people, but I do have a wish list:
+1. Speed up the writing of TIFF to memory stick
+2. Rethink the buttons. Try a dial like 99% of the SLRs out there.
+3. Polish up the menu flow a little bit.
+
+This camera basically rocks. If I could afford it I would buy another one for my wife. And my poor Nikon N60 is in trouble...
+
+10/21/2000 (Update)
+
+I have not shot one frame of film since the day I bought this camera. I am about to get rid of my Nikon N60 kit, right now I am still keeping it for sentimental reasons, it is one hell of a camera.
+
+I have not been able to solve the riddle of the weird printer behavior. I only know that the photos I send to dotPhoto.com are printing beautifully. I framed a few digital prints and hung them side-by-side some conventional photos at work and people can't tell me which ones are digital.
+
+I upgraded both my home PCs to Windows Millenium and the USB downloads are as smooth as under WIndows 98. So far the camera has performed flawlessly and this is still the only digital camera I recommend if cost is a factor.
+
+The batteries are both performing as expected. I can fill a 16MB memory stick at 640x480 with the LCD turned on the whole time. I have not experimented with using some kind of film on the LCD screen, but I am looking for options.
+
+I still find the TIFF mode useless. It is literally impossible to distinguish between a TIFF at full resolution (almost 16MB) and a JPEG at full resolution (around 1.2 MB). I imagine that TIFF will be handy for very precise applications, but for general use the high resolution JPEG is the way to go. As of two days ago I have shot 1756 good frames, &quot;good&quot; meaning that I actually took the file home and burned it on a CD. 
+
+I imagine I discarded a couple hundred that I re-shot on the spot. 1756 frames is around 74 rolls of 24-frames apiece. 74 rolls times the $5 or so that Costco charges for developing, that's $370 of development that I did not pay. My dotPhoto account says I have ordered $42.92 worth of digital prints, so my net savings is $370 - $42.92 = $327.08.
+
+This means that I have saved roughly $327.08 since July by using a digital camera and only sending to print the stuff I really need on paper than by shooting film. And that's not counting the frames that went to waste.
+
+12/13/2000 (Update)
+
+This week it was the first time that it really paid off to carry around a second infolithium battery. I left the camera in my backpack for about a week without using it. I pulled it out in a hurry and it was dead! The cold had drained the battery completely. The second battery was in the same bag, it only takes a second to swap. Amazingly, the second battery still had a full charge, so it is probable I had left the camera connected to USB without leaving it recharging too. Thanks to having that second battery I did not lose  my photo opportunity :-)
+
+Something else happened. We were told at work that we were going to take a team photo. We agreed on the theme and took some props to an in-house studio. Just to be safe I carried my camera thinking they would let me take a couple shots once the photographer was done. Well, it seems we were misled a little bit. The &quot;photo shoot&quot; was run by one of our media production guys with a HP digital camera. He could not use the company's DSC-S70 because HIS boss took the camera on a trip. I gave him my camera to take a couple of shots after he was done taking his.
+
+Wonder of wonders, the company ended up using the shots off my Sony instead of the HP!
+
+<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

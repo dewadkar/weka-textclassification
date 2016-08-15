@@ -1,0 +1,75 @@
+DOC>
+<DOCID> 28159 </DOCID>
+<PRODUCT> Digital_Cameras/Fuji_FinePix_S602_Zoom_Digital_Camera___Camera_FP_S602Z00 </PRODUCT>
+<URL> http://www.epinions.com/content_90991726212 </URL>
+<TEXT>
+            I won't pretend to be an expert on photography or anything associated with digital imaging.  Like many people, my eyes glaze over as soon as one starts talking about manually adjusting aperture settings.  So this is a review from someone who is essentially a layperson.
+
+If you're the type of person who likes that kind of in-depth review, you might want to try these two websites:
+
+http://www.steves-digicams.com/
+http://www.dpreview.com/
+
+If not - feel free to continue reading.
+
+<b>PREFACE</b>
+
+We purchased this prosumer camera for my workplace to capture higher resolution images that will be used in various graphic design projects and elsewhere.  We were looking for a good, middle-of-the road camera that would be easy enough (and durable enough) to use for those in the department who are somewhat techno-illiterate - and were prepared to spend upwards of $1000.  Fortunately we found the FujiFilm FinePix S602 Zoom.
+
+<b>THE REVIEW</b>
+
+After reading numerous reviews and speaking with some folks at various photography and electronics stores - I settled on the FujiFilm S602 Zoom, and haven't been disappointed yet.
+
+The camera feels solid, and is ergonomic and well-designed to fit in one's hands.  All of the buttons and switches are within reach - and they're surprisingly intuitive and easy to learn.
+
+I use the camera primarily in the 'auto' mode, allowing the camera to choose what is best for me - and I haven't run into many problems.  There have only been a few occasions on which I've had to manually adjust the zoom because the auto couldn't pick out the item I wanted to be the subject.
+
+The pictures are crisp and gorgeous, and are generally better than what you'll find on other cameras - mainly due to FujiFilm's "Super CCD" photo cell.  Essentially the "Super CCD" utilizes hexagonal pixels instead of rectangular ones like just about every other digital camera.  The result is photos that are more smooth and much more representative of the light coming off of whatever you're shooting.  On closer magnifications, they don't pixellate nearly as much and retain much of their form.
+
+Even at night, the camera takes great pictures.  Digital cameras have traditionally been rather poor at accomplishing this task.  I recently took it out on the Las Vegas strip and captured some fantastic shots of the lights at night and the pictures turned out very well - even from far away.
+
+The digital movies that the camera shoots capture audio as well (which you can turn off).  They're by no means on par with something you'd capture on a professional DV cam - but for a digital still camera - they're spectacular.  The audio quality, however, is lacking a bit.
+
+The camera is durable (or at least it's proven to be so thus far).  My co-worker, who is quite hard on digital cameras, hasn't managed to break it yet *knock on wood*.  One factor that contributes to the durability of the camera is that most all of the inputs and ports for the camera are tucked safely behind little snap-out doors that protect them from dust and grit.  
+
+The FinePix viewing software that comes with the camera works well enough, and I had zero problems accessing the camera from one of my USB ports (both on my PC, and on my laptop).  It transfers content quickly and efficiently from its memory cards back to my computer, which is another plus.
+
+<b>MY COMPLAINTS</b>
+
+The main complaint about this camera is that it eats batteries like a motha.  Four AA batteries are good for maybe an hour or so - it's hard to quantify that in terms of how many shots you'll get, because it all depends on how much you use the zoom.  I definitely recommend that you pick up some NiMH rechargeable batteries for this camera.
+
+When taking photos using the zoom - be sure you have steady hands, or you can very easily end up with a blurred picture.  For whatever reason - it's difficult to not be shaking and trigger the "motion" alert.
+
+A caveat of the digital movie feature is that while you are in that mode - you can't zoom in and out; you're locked in to whatever magnification you select.  Also, the camera will occasionally have to stop the movie to process what it just shot, which can be annoying.
+
+With all of the great stuff this camera has and all of the care and attention that went into it - it's kind of a bummer that the camera doesn't come with a DC cable that might help it save on battery consumption (especially for tasks that are usually reserved for being at one's desk, like unloading the pictures and movies).  It does, at least, offer the option to plug the camera in to a wall socket - so that option is available.
+
+<b>FEATURES</b>
+
+- 3.1 Million Effective Pixel Super CCD 
+- 3.3 Million Total Sensor 1/1.7" Super CCD 
+- 6.0 Million Output Pixels (2832 x 2128) 
+- Hot shoe for attaching external flashes to the camera
+- Mount on bottom of camera for a tripod
+- Fujifilm's New 3rd generation Super CCD System featuring Pixel Data Coupling Technology for Increased sharpness and color with less electronic noise, and new Pixel-Mixing Technology for improved video capture with greater detail. 
+- 6X Aspherical Zoom Captures Images with Astonishing Clarity, f/2.8-f/11; 13 steps. (35 - 210mm, 35mm cameras equivalent zoom). 
+- 26.4X Total Zoom 
+- Digital Movie Mode; QVGA (320x240) Motion JPEG at 30 frames / Sec. Or VGA (640x480) Motion JPEG at 30 frames/Sec. With Sound 
+- Continuous Shooting Mode; 5 Frames / Sec. at Full Resolution for 5 pictures or 1.8 Frame/Sec for 40 pictures at 1 MegaPixel Mode (1280x960) 
+- Black and White mode 
+- Voice Recording Modes with 30 Sec. Picture Annotations [speaks for itself *pun intended* - you can make little notations about the photos you take when you take them so that you can remember info later on]
+- Built-in Miniature LCD Through-the- Lens Viewfinder and 2" Color LCD Playback Monitor. 
+- Full Exposure override, Shutter and Aperture Priority with Manual Focus Control & Hot shoe mount. 
+- Optional Lens Mounting Ring for use with 55mm Filters, 1.5x Telephoto lens or 0.79x wide angle lens 
+15 to 1/2000 Sec Shutter Speeds 
+- ISO Modes; 100/200/400 and 800/1600 at 1 MegaPixel Mode 
+2" LCD Color Monitor 
+- Dual Media Slots Support SmartMedia&#153, or IBM Microdrive [a VERY handy feature and a great step over its competition - you can either use SmartMedia cards *up to 128 megs* to store your data - or you can plug in 1 GB microdrives.  Either way you'll be HARD pressed to run out of room to shoot with.]
+- Convenient USB port for Fast Computer File Transfers [it ALSO comes with a quick cable that you can plug in to your TV/VCR/DVD player and view the images and movies directly from the camera.
+- 17.6oz weight (excluding Battery)
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

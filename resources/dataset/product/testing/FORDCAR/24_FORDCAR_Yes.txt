@@ -1,0 +1,23 @@
+DOC>
+<DOCID> 24 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1999_Ford_Taurus </PRODUCT>
+<URL> http://www.epinions.com/auto-review-AA5-4B24A1B-38DB0830-prod6 </URL>
+<TEXT>
+                 I have always preferred Ford products. When buying a car
+I expect to keep it for awhile. Every Ford I have owned has             given me years of satisfaction. That is until I bought a Taurus.
+     One year after buying my car the trouble began. My wife
+was driving when she noticed the &quot;Service Engine Soon&quot; light 
+came on. She drove the car to the dealer and the Service Manager
+said we needed a new transmission. Fortunately our warranty had not expired.
+     As far as everything else, I am quite satisfied. It drives
+smoothly and the engine seems to have a lot of power. I have
+also been satisfied with the gas mileage.
+     Before buying a Taurus it would be best to talk to the
+Dealer about this. Ask about its history of transmission problems
+and what Ford is doing to correct this problem.<br><br>
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

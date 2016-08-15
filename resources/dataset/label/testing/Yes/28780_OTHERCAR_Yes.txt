@@ -1,0 +1,52 @@
+DOC>
+<DOCID> 28780 </DOCID>
+<PRODUCT> Digital_Cameras/Sony_DSC_S75_537760 </PRODUCT>
+<URL> http://www.epinions.com/content_78137429636 </URL>
+<TEXT>
+            This is my first foray into digital imaging, though I have been a 35mm and medium format photographer since 1980.  I researched more than 30 digital cameras before buying this one, including several from Nikon, Olympus, Canon, and Minolta.  This is the one that satisfied my baseline requirements and stayed within my price range.  
+
+Although rated as an entry level "professional" digital camera, this one falls short of what I would call a professional camera (based on comparisons of 35mm and medium format professional cameras)  The only thing I would call "pro quality" is the excellent Carl Zeiss lens.  Other pro-like features include the ability to manually set the shutter speed and aperture, and record picture data (date, shutter speed, ISO, aperture).   This camera will record digital pictures in multiple formats, (very-low resolution) MPEG movies, and sound clips.  
+
+The user controls the mode via a dial on top of the camera: Automatic, Aperture-priority, Shutter-speed priority, Manual, Movie, Playback.  Pictures and movies are stored on Sony's proprietary "Memory Sticks", available from 8 to 128MB capacities (Sony will introduce a 1 GB memory stick around 1 Jan 03).   The back of the camera has two LCDs - a simple display of battery life and memory, and a 1.5-inch color display: viewfinder, menu, battery power, flash status, remaining memory, and camera setup. 
+
+The CCD is rated at 3.3 megapixels, providing overall resolutions up to 2048 x 1536. The zoom is combined optical and digital:  after you exceed 4x optical zoom, the camera will pause momentarily before automatically switching to digital zoom (up to a total of 6x optical / digital zoom)  A very easy-to-use sliding-bar display on the back shows where you are in the zoom range.  
+
+The pictures I have taken have been decent, but there is a significant lag between pushing the shutter-release button and image recording -- in sports photography, this means you get a lot of pictures of nothing (where the action was just a second ago).  Since I bought this camera in large part for coaching, this has been a disappointment.  I have learned to compensate for this somewhat, but it is still annoying.  The ability to zoom and pan the pictures on the LCD right after taking them has been a very nice surprise - the quality of this display is excellent.  The pictures are very clear, with little optical distortion, and very good color saturation (when there are problems, the Adobe Photo Shop software does a good job of enhancing the colors).  
+
+In the MPEG mode, the user can take short video clips with sound, but the image quality is poor.  It is OK for recording the general feeling of a "happening," but not good enough to show a runner any problems with his stride (for example).  In addition, you cannot zoom while recording MPEG movies.  
+
+The camera has a powerful Manual mode, allowing the user to set the shutter speed, aperture, and ISO setting individually, and see the effect in "real time."  I have used this to see how a 35mm picture will come out (the way we used to use Polaroids!), but I seriously doubt most users will ever use this mode.  
+
+There are several viewing options, including the previously mentioned ability to zoom and rotate the pictures.  The user can crop and resize the pictures on the camera, but I have found no reason to do so.  One of the best features of the DSC S75 is the ability to hook the camera up to a TV to show the pictures.  As a coach, I use this extensively (and the zoom, pan, and rotate features are really nice).
+
+The camera has a USB port to connect to your computer, as well as a video-out port to connect to a TV (using the supplied cords).  In truth, I got annoyed with the relatively slow transfer times from the camera to the computer via the USB cable, so I bought a memory stick reader - it is much faster and more flexible, and I suggest you go this route.  
+
+The power port is protected under a rubber cover on the back, so you can recharge the battery while it is in the camera.  Additional batteries and chargers are available from Sony, but I have seen no reason to go this route.  The battery is an excellent memory-less lithium ion battery with over 3 hours of power available under most conditions (If you use the camera in cold weather or use the display / review mode a lot, it will be shorter by about an hour).  Additionally, the charger is universal power compatible - you can use it no matter where you travel (as long as you have an adapter to fit the plug).  This is a huge advantage while traveling.
+
+Other users have complained about the user interface, but the controls seem intuitive to me -- especially for the most common features, which are controlled by a 4-direction thumb pad.  The more esoteric features in the manual mode are more difficult to use.  But as I said before, I doubt most users will use them. 
+
+One big disappointment is the very small 8MB memory stick.  It is not large enough to hold even a single full-size, uncompressed TIFF image  (Even the aftermarket 32 MB stick I bought will hold only 2).  It will hold a couple full-size JPEG images, but not many (up to 8, depending on the size and the resolution).  I don't know a single person who has not gone out and bought a larger memory stick (I bought a 256 MB one, and I will buy the 1GB one when it comes out).  Clearly, this is a place where Sony (and other camera makers) have tried to shave costs and keep the camera at a ~$500 price.
+
+Bottomline:  This is a good camera that is an excellent compromise between features and value.  If you are in the market for a ~$500 camera, give this one serious consideration.
+
+Note: I ahve been using this camera for more than 6 months now, and I cannot believe how much I enjoy it.  I am not ready to abandon my 35mm equipment entirely, but for many applications, it is superior.
+
+
+Ease of use:   *****
+Image Quality: *****
+Movie quality: **
+Features:      *****
+Battery Life:  ***** (3+ hours)
+Software:      ***
+Price:         **** ($500)
+Value:         ****
+
+OVERALL:       *****
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

@@ -1,0 +1,28 @@
+DOC>
+<DOCID> 28773 </DOCID>
+<PRODUCT> Digital_Cameras/Sony_DSC_S75_537760 </PRODUCT>
+<URL> http://www.epinions.com/content_74437332612 </URL>
+<TEXT>
+            The Sony DSC-S75 is the entry level model in their "professional" digital camera range, replacing the previous S71 , and offering a more comprehensive feature set than the company's smaller models.  For the extra money, you get the ability to record MPEG movies with sound, a Carl Zeiss lens, more control over picture settings, and slightly better resolution.
+
+The CCD is a 3.3 megapixel affair, offering overall resolutions of up to 2048 x 1536.  A combined optical/digital zoom feature is provided.  Once the 4x optical zoom has been exceeded, the camera automatically switches to digital zoom for the last 2x.  
+
+Control is provided by a rotary switch at the top of the unit, allowing the user to change between the various modes; automatic, playback, movie, manual shot, sceen shot etc etc.  Storage is via Sony's proprietory "Memory Sticks", available in 8, 16, 32, 64 and 128MB capacities.  At the back you will find two LCD panels, a simple alphanumeric "letterbox" display showing battery power, flash status and remaining memory.  The LCD colour viewfinder is a 1 1/2" affair, upon which memory options are shown as well.
+
+My experiences with th S-75 were universally good, the pictures are of a high quality with very little optical distortion, and colours are reproduced with stunning accuracy.  Zooming can be done from long distances with very little loss of quality.  The MPEG movie facility offers short video clips to be taken with sound, but the image quality is fairly poor and taken at low resolution so can't really be taken all that seriously.  The real power of this camera is its manual mode, allowing the user to play around with settings such as focus, shutter speed, apeture size and so on.
+
+Viewing options are numerous; in common with most digital cameras you can view all images on the memory card in thumbnail format on the viewfinder, and the user has the option of doing multiple deletes using this thumbnail mode.  Basic editing features such as crop and rotate are offered, but are no real substitutes for a proper editing package.  (MGI PhotoSuite is bundled with the S75)
+
+At the side under a flip down cover you will find a mini-USB socket for connecting to your computer, as well as Aan V out socket (the S75 comes supplied with a 3.5mm-to-RCA lead) for connecting to a VCR or a TV set so you can display the pictures on screen.  Under another rubber flap at the back there is a power connector; the S75's battery is charged "in situ" using a power pack, also meaning that it can be run directly from the wall socket - useful if the battery is dead and you still want to use the camera.  Power comes courtesy of a Lithium-Ion battery which is good for around 200 minutes on a full charge.
+
+Gripes include the rather confusing user interface, for instance why does it need two LCD displays when all the necessary information can be displayed on just one????  Also as well as the "compass key" for circumventing the various menus etc, there are thumbwheels for adjusting the viewfinder and navigating within the manual setup mode.  They don't feel particularly nice to use either, and appear like afterthoughts in the overall makeup.
+
+It's a pity as well about the rather measily 8MB memory stick that comes with it....not nearly good enough for the large resulutions that this machine is capable of.  With an 8 meg card at full resolution, the game is over after 4 pictures.  After paying over $500 for a camera, one would expect Sony to be a shade more generous.
+
+But overall the S75 is a very impressive product, and has a distinct feeling of quality and durability that the lesser models in the Sony range don't have.  It feels heavy and substantial, and fells like something that could take knocks in its stride.  This also means that it is not really a pocket machine - it is firmly aimed at the serious amateur / quasi-professional.  Highly recommended if you can justify the purchase cost.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

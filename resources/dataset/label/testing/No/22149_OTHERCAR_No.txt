@@ -1,0 +1,16 @@
+DOC>
+<DOCID> 22149 </DOCID>
+<PRODUCT> Digital_Cameras/pr-D-Link_DSC-350_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/elec-review-3513-E0619B7-39FD0FA1-prod2 </URL>
+<TEXT>
+            I bought this product with a new 800 Mhz Pentium III to work on a project.  I have been unable to get the camera to work with my system at all.  Every time I load the drivers and connect the camera I receive an error message (&quot;Unknown Device&quot;).  I have deleted and loaded the software dozens of times with no success.  However, my sister bought the same model camera and hers works fine.  Mine even works on her system.  She has a 500 Mhz Pentium III running Windows 98.  I am running Windows ME. Her D-Link software on my system did not work either.  
+
+I even contacted D-Link Tech Support.  They were unable to do anything for me or offer any workable suggestions.  Their final suggestion was that my system may not be compatible and I probably should return the camera.  Well, I guess I will.  It has been weeks and nothing has worked. 
+
+  <br><br>
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

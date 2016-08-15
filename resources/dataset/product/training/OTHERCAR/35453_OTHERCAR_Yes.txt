@@ -1,0 +1,78 @@
+DOC>
+<DOCID> 35453 </DOCID>
+<PRODUCT> Digital_Cameras/Sony_DSC_F707_621066 </PRODUCT>
+<URL> http://www.epinions.com/content_48344108676 </URL>
+<TEXT>
+            I'm writing this camera review assuming you know something about Sony cameras and have already checked out the features of the F707 on the web site.  There's really no need for me to repeat camera features and specifications that you can read elsewhere.  My goal is to give you some useful information on why to get the F707.  
+
+I've been a Sony camera fan for about 5 years.  This F707, marks my 6th Sony camera.  Why did I upgrade from the F505v to this F707?  
+
+The #1 reason is the higher resolution pictures.  Sony advertises 5.24 megapixels with the 707 and 3.3 with the 505.  Unfortunately due to restraints caused by the lens, the actually resolution is 4.92 (707) and 2.94 (505).  Still, this 4.92 still blows most cameras in this price range out of the water.  The pictures of both the 505 and 707 are sharp and clear.  With the 707, I was actually able to see whiskers and freckles on a picture of a cats face from about 5 feet away.  The 505 also takes some very detailed photos.  
+
+Additionally, for all  you photography nuts, the lens on the 707 is faster than the 505. The 505 lens had maximum aperture of F2.8 at wide angle and F3.3 at telephoto, the 707 lens has a maximum aperture of F2.0 at wide angle and F2.4 at telephoto.
+
+My #2 reason for wanting the upgrade is the Hologram AF feature.  Let me first explain the problem before I explain what this feature is.
+
+While traveling, I often found myself trying to take pictures of friends or scenery at night.  In the dark, the LCD shows nothing until the flash goes off, so you have no way of focusing.  One night I actually remember using the burning end of a cigarette someone was holding, as my guide to pointing the camera at the correct spot in order to get the picture. 
+
+This is a problem of the past with Hologram AF. You press the shutter release button half way down and a laser pattern appears on the subject.  This is enough light to allow the camera to focus.  Press the shutter release completely down and you have your perfect picture.  (Sony claims that this laser is safe, you can point it directly at someones face and it will not effect them.)
+
+Reason #3: 3 picture burst mode.  You can take three picture is a row with a 1 second interval in between.  Unfortunately, after the burst you do have to wait for the camera to finish recording before taking anymore pictures.  (This can be up to 12 seconds when shooting at the highest resolution.)  This feature has been available with many other cameras and to my knowledge this is the first time Sony added it to their line of cameras.
+
+Reason #4:  The small flash has a reach of up to 16.4 feet.  After I first read this, I was a bit skeptical.  However when I sat at my friend's house taking pictures from across the room using the Hologram AF feature to frame their pet cat, the flash was able to reach the pet and give me a very nice picture. 
+
+Some other cool additions and nice features are listed in the paragraphs below:
+
+Night Framing:  allows you to take pictures in complete darkness.  Its the green and black infared imaging you've seen from army night vision scopes, but still pretty neat in a digital camera.
+
+The rubber grip added to the front of the camera is great addition.  It makes the camera easier to hold by giving you a bit more to grip onto.
+
+View Finder: Allows you to see the your picture when it is too bright outside to view the LCD screen.
+
+Shutter Speeds: 30 shutter speeds in the 707 versus 8 in the 505.  That's an amazing amount of control over your digital pictures, if you choose to use it.  Any questions?
+
+Aperture Priority Mode:  This gives you the chance to change the depth of field for your photo.  The camera will automatically calculate the correct shutter speed to match it.  
+
+Shutter Priority Mode:  You choose the shutter speed and the camera automatically calculates the correct aperture for the photo.
+
+Full Manual Exposure Mode: You select both the shutter speed and aperture for your photo.  
+
+Manual Focus Mode:  You turn  the ring at the end of the lens to manually focus your photo.  You have the ability to make fine adjustments.
+
+Auto Exposure Mode:  Don't understand what all this photography mumbo jumbo is?  Then let the camera do all the work and choose auto exposure!
+
+Ev variables (Exposure values): With 505, to access this feature you need to use multiple clicks on a menu screen.  With the 707, it a scrolling button.  This is so much more convenient.
+
+Battery life:  The battery life on this camera is amazing.  On a full charge, I can generally get at least 4 hours of use.  Sony states 280 minutes, which is a bit more than I usually get.  However, no other cameras can beat that amount of battery life.  The 505 had a little over an hours worth of use from a fully charged battery.
+
+Chromatic aberrations: This phenomenon is when your pictures display a purple haze around areas of your picture where there is bright light.  It is also called purple fringing.  This problem is well documented in many digital cameras including the Canon G2.  The Sony 505 did have a slight problem with purple fringing.  With the 707, I haven't seen one of my pictures with this issue.    
+
+Image Information:  When viewing a thumbnail of a photo you have already taken, you can press the information button.  The camera will display aperture, shutter speed, ev variable, iso setting, white balance, metering mode, and flash settings.  This can be helpful if you are trying to judge what needs to be changed in order to get a better shot next time.
+
+Cons:  This is a great camera, so I have a very few complaints.  One item that I have not gotten used to yet, is the location of the zoom button on the lens.  With the 505 it was located on the camera body.  I found that location very convenient.  The zoom on the lens body of the 707 is a little uncomfortable for me, though I'm sure I'll get used to it.
+
+This camera has so many features, it takes a significant amount of time to learn how to use many of the new buttons and get used to the different modes. 
+
+For some reason Sony removed the black and white picture mode.  Its not a big deal because the photo can always be edited later, but I found that I miss it.
+
+Photo Formats:  Now you can take pictures in both JPG and TIF formats.  TIF contains more information about the photo and on average takes about 14 meg of space vs about 2 meg for a JPG.  You'll run out of space on a 128 meg memory stick awful quickly if you use TIF format.  (Though Sony is planning to make a 2 gig memory stick in the next year or so.)
+
+My bottom line:  This camera gives you an amazing amount of control over your pictures.  You can change the aperture, shutter speed, environmental light variables, white balance, iso settings, flash settings and much more.   
+
+On the other hand, if you aren't ready for all that control you can use the automatic settings and let the camera make all the decisions for you.  (If this is you, this camera gives you plenty of room to grow into learning more about photography.)
+
+Pricing is a bit prohibitive, but if you compare the Sony to other cameras in this price range...it can't be beaten.  Many more expensive cameras give you less resolution and fewer features.
+
+
+
+
+
+
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

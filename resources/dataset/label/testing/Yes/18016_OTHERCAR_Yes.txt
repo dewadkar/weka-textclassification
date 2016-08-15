@@ -1,0 +1,19 @@
+DOC>
+<DOCID> 18016 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_OlympusDigitall-Olympus__D-620L </PRODUCT>
+<URL> http://www.epinions.com/elec-review-5025-8FE2041-39DDECFD-prod1 </URL>
+<TEXT>
+            Olympus is one of the quality names  in photography, so it�s no surprise that it also has some of the better digital cameras on the market. Retailing for about $400, the D-620L features a 1.3-megapixekl resolution and includes a quality Olympus 5.5mm F2.8 lens. The D-620L focuses on image quality by allowing you to bypass the usual JPEG compression and download compression-free TIF images. The result is, at the highest quality setting you only get two 1280x960-pixel images on the 8Mb Smartmedia memory card, but you�re getting the best the camera can provide. 
+
+The D-620L gives you a myriad of setting options using the 1.8inch TFT LCD screen. These include preset white-balanced for daylight or overcast conditions, even if you�re photographing under tungsten or fluorescent lamps. There are two focus options : 50cm to infinity or 10cm to 50cm in macro mode. The image quality was quite good, particularly when I found the colours to be a little pale, particularly when compared with the Canon and Kodak models. The lens on the far left-hand side also makes it a little awkward to hold, especially if you have large hands.
+
+The camera only has serial port connection, which means no Apple computer support. It also means downloading images can take some time. It took just over 12 minutes to download two super-high quality images into an 800Mhz Pentium III. The camera also takes its time writing SHQ TIF images to memory, an icon on the LCD screen tells you how much time is left. 
+
+Overall, the D-620L is definitely a camera worth considering.
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

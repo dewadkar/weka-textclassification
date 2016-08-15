@@ -1,0 +1,84 @@
+DOC>
+<DOCID> 15746 </DOCID>
+<PRODUCT> Digital_Cameras/Canon_PowerShot_S40_Digital_Camera__Camera_7298A001AA </PRODUCT>
+<URL> http://www.epinions.com/content_56424894084 </URL>
+<TEXT>
+            In the past year, Canon has released a number of digital cameras that are competitively priced while offering high end features.  Models like the G2, S30, and S40 are such camera.  In fact these three camera share many similarities with each other... in a way the S40 camera is a merger of the S30 and G2.
+
+<b>What is the S40?</b>
+
+The S40 is based on the same basic engine as Canon's highly rated G2 digital camera.  So you get a 4 megapixel camera (well it's really a 3.8 megapixel camera... but details, details...) with many of the bells and whistles of the more expensive G2 camera.  However, the S40 has several advantages over the G2 and a few fallbacks as well.  Also, the S40 shares many of the same advantages and disadvantages of the G2 camera.  In the same way, the S30 is almost the same camera as the S40.  They share the same design and menu systems and differ mostly in the resolution of the cameras. 
+
+The S40 is a fairly compact camera... not as much as the Digital Elph Series by Canon which includes the S100, S110, and S300 cameras however.  The cameras dimensions are 4.4 x 2.3 x 1.7 inches.  The weight of the S40 is 11.4 oz so it's not too much of a burden on you.  The more radical design of the S40 (and the S30) adds many improvements over Canon's older designs (when I say radical design... I mean compared to Canon's older stuff).  The camera is more or less made of metal with the major exception being the sliding cover.  The back houses several buttons and a nice 1.8 inch color LCD but is still not as nice as the G2's flip out screen... probably because of the anti-reflective coating on the G2's screen... It makes a big difference.
+
+<b>Some of the functions you get</b>
+
+Turning the power on and off on the camera is much more intuitive than with other Canon cameras.  Gone is the power button... in with the sliding cover.  Slide the cover to expose the camera lens, the camera turns on and the lens extended.  When you slide the cover towards the lens, the camera lens retracts and you can shut the cover.
+
+The LCD is on the left side of the back of the camera with the optical viewfinder on top of it.  There are two lights next to the viewfinder indicating option/activities such as AutoFocus Lock, accessing the CF Card, Macro focus, AutoFocus problems, and a few other problems.  as well.
+
+The bottom right (from the rear of the camera) houses both the battery and the Compact Flash card.  You get the battery with the camera though as well as the battery charger.  As if you want an exta battery, you need to get the NB-2L Lithium Ion battery or equivalent third party product.  
+
+The tripod mount is centered right under the lens... this made it tons easier to shoot several photos that I wanted to stitch together.  Why have so few digital camera makers done this with their tripod mount hole?!
+
+On the left side of the camera (you are looking at the back of the camera), you have a rubber cover that protects the A/V port and USB port.  The USB port also provides a direct connection to the Canon portable CP-10 printer (that works with the S110 and S300 cameras) and also Canon's newer S820D inkjet printer.  A nice touch indeed.
+
+The flash is decent for photos up to 6 feet.  Pictures looked good on the LCD screen in near pitch black conditions with the flash at close range (subject within 5-6 feet).
+
+<b>It's all in the details!</b>
+
+You have to love it when a company puts in a comprehensive and clear manual into the package.  If you have a problem with the camera, it can be found in the instruction manual.
+
+The overall package also includes a 16MB CompactFlash Card (go buy at least a 128MB card from somewhere... like Costco if you have one locally or from Amazon or even Newegg.com), a wrist strap, USB cable, AV cable, the NB-2L lithium ion battery and charger (AC power directly to the camera is separate), and a CD-ROM with some of the bonus software and drivers.
+
+The PhotoStitch software works well to create long photographs from a series of photos.  The Zoom Browser EX is a nice run of the mill digital photo album software from Canon.  The ArcSoft Photo and Video Impression software is okay overall... I still rather use PhotoShop for photo editing (or PhotoImpact from Ulead for the budget conscious).
+
+<b>More features and details</b>
+
+The S40 has a 3x optical zoom and 4x (really 3.6x) digital zoom.  The camera is approximately a 3.8 megapixel camera which is about 2272 x 1704 resolution.  I'm not sure where Canon gets 4 to 4.1 megapixel resolution from.  The S40 also allows you to take short video clips as well.  You can choose from two resolutions.  320 x 240 (High quality mode) allows you to shoot up to 30 seconds of video at 15 frames per sec (fps).  160 x 120 (low quality mode) allows you to shoot up to 120 seconds of video at 15 fps.
+
+You have an record exposure mode dial that allows several settings.  For those of you who want to point and shoot, you have the Full Automatic mode (which I usually use).  The other modes include Programmed Automatic mode, Shutter Priority Auto mode, Aperture Priority Auto mode, and Full Manual mode.  To be honest, I'm still figuring out these other modes.  There are also scene exposure modes that can be selected on the same dial.  These include Portrait mode, Landscape mode, Night Scene, Fast Shutter, and Slow Shutter.  Lastly, there are a few extra exposure modes.  These are Colour Effect (for B&W photos and increasing or decreasing color saturation), Stitch Assist, and the Movie mode.
+
+You also have multiple flash modes that include Auto, Redeye Reduction Auto, Redeye Reduction Fill-In, Fill-In, and no flash.
+
+You can record a voice clip with a particular shot.  The photo will have a WAVE voice file associated with the photo up to 60 seconds long.
+
+Photos can be stored as JPEGs or RAW files.  RAW is just the photo data without the camera making any adjustments to it.  These files are very large in size.  If you're lucky, you can store 4 maybe 5 on a 16 MB Compact Flash card.  Most people will use the JPEG format.  There are three JPEG compression formats that include SuperFine (big file), Fine, and Normal (Smallest file).  You also have a selection of 4 image resolutions... the max being 2272x1704 (3.8 megapixels) and the lower resolutions being 1600x1200 (1.92 megapixels), 1024x768 (0.78 megapixels), and 640x480 (0.31 megapixel).  For a file size comparison, 7 photos at SuperFine 4 megapixels can fit on the 16 MB Compact Flash card.  13 photos on Fine 4 megapixels can fit on the a 16MB card.  
+
+The camera allows you to choose between ISO 50, 100, 200, and 400 which is supposed to be similar to film settings.  Automatic ISO mode switches between ISO 50 and 100 only.  On top of that, there is a great amount of user control over the contrast, sharpness, and saturation over each photo as well.
+
+There is the continuous shot mode allows you to shoot a burst of images (one right after another with a short lag time by holding down the shutter button).  Canon has two continuous shoot modes which they rate as 1.5 fps for a burst of 9 images in Continuous Normal mode, and 2.5 fps for a burst up to 5 images in Continuous High mode.  You can keep to a Single shot per shutter button depress.  There are two self-timer modes... 2 secs and 10 secs.
+
+<b>What is the difference between the S40 and G2 then?</b>
+
+About $100 in the MSRP... street prices may fluctuate as far as $150 difference between the two cameras.  The G2 being more expensive.  The G2 has some nice extras over the S40 though.  The G2 LCD screen is a flip-out screen than can be rotated into several different positions.  Secondly, the LCD on the G2 has a reflective coating.
+
+The G2 has a hot shoe to add an external flash... the S40 doesn't have a hot shoe at all.  The battery life of the G2 is far superior to the S40 (mostly due to the larger battery on the G2).  The equipped flash on the G2 is also much more powerful than the S40 camera.  The G2 also allows add on lens... the S40 doesn't.  The S40 is a much smaller package than the G2 with almost the exact same feature set as the G2.
+
+<b>Major weaknesses of the S40</b>
+
+The weak flash of the S40 can be a downer.  Night photos need to be taken with some type of light source or taken close up to the subjects.  It also hurts that you can't attach an external flash to the S40.
+
+Battery life is decent at best.  Canon rates it as 180 images with the LCD on and 420 with the LCD off or 150 minutes of playback mode.  I still haven't dared to use the camera past two hours as of yet.  At 2 hours, the battery low indicator started flashing for me.
+
+For a 4 megapixel camera, a 3x optical zoom is still rather small.  I would have preferred a 4x or even 5x zoom.
+
+The price is high as expected from a 4 megapixel camera.  Most people will not need a 4 megapixel camera.
+
+Only a standard 16MB Compact Flash card is bundled with the camera.  At least the Nikon's camera include a high speed Compact Flash card with their camera.  It's a minor point but the card is slow and too small.  You need to buy another card with the camera.
+
+<b>My Final Verdict</b>
+
+Overall, this is a great camera for a reasonable price... assuming that you need a 4 megapixel camera.  If you plan on making 8x10 photos, great there aren't that many camera to choose from.  I think that the S40 gave some of the best color reproduction on photos even above those taken on my Nikon Coolpix 5000.  The camera is fairly easy to learn with enough advanced features to satisfy some professional photographers.  However, the weak flash may make some buyers look elsewhere... like Canon's G2 or Nikon's CoolPix 5000 cameras.  The camera is very stylish to boot... much nicer looking than the G2.  I really like this camera even though I own a CoolPix 5000 already.
+
+However, if you're buying a digital camera for archiving photos and printing 4x6 or even 5x7 photos... a 4 megapixel camera is pretty much overkill in my opinion.  A 3 megapixel camera or well made 2 megapixel camera will suit your needs better and at a much lower price.  Look at the Canon S30 camera and if you need a pocketable camera, look at Canon's Digital Elph cameras (the S110 and S300).  If you're on a budget and don't need the megapixels, there is no need to buy a S40 with so many excellent options out there.
+
+I also have a S110 (well, I did till my girlfriend starting using it) and felt that was an excellent camera for everyday photography.  It was easy to use and easy to carry... maybe I'll write a review on it (if I get it back long enough to play with it!).  I'm going to play with my friend's S30 to see if there are any appreciable differences versus the S40.
+
+If you like to read my Nikon CoolPix 5000 review or my Canon S300 review, visit my profile page.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

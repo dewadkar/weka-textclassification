@@ -1,0 +1,65 @@
+DOC>
+<DOCID> 25908 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_225295_617869 </PRODUCT>
+<URL> http://www.epinions.com/content_55357443716 </URL>
+<TEXT>
+            If you're in the market for a 4 megapixel market, go no further than Olympus.  Picture quality is the final word in my book and this camera has got it.  It sports many great features such as aperture priority, shutter priority, flash with adjustable intensity, large internal buffer, remote control, etc.  I did extensive research on this camera, compared actual pictures it had taken, etc. There were other cameras out there but the quality was A+ on this one.  Olympus also makes the D-40z compact 4 megapixel, but the 4040 has a much better lens and a few extra features.
+
+*** UPDATE: Consumer report rated the 3040 the #2 3-5mp camera.  The 4040 was kind of new (so they didn't have a chance to rate it) and it's almost exactly like the 4040. ***
+
+The 4040 has many resolution modes which is a real bonus depending on the type of picture you will be taking.  You can crank down the resolution for web shots or bring it to 4 megapixels for that portrait shot you want to blow up to 11" X 14".  The available resolutions are the following:  2274 x 1704, 2048 x 1536, 1600 x 1200, 1280 x 960, 1024 x 768 &  640 x 480.   Some resolution modes have a higher and lower JPG quality setting and the 2274 x 1704 can be saved to TIFF (although you can't really tell the difference anyway.)
+
+Picture quality is excellent in its point in shoot mode,although you can get some even more spectacular shots if you know what you're doing with the ISO/aperture/shutter speed/manual modes.  You have aperture priority control, shutter priority, ISO level, or manual.  In all except manual mode (as the name implies), you can get custom control of one attribute such as aperture and the camera automagically adjusts the remaining attributes to conditions.  Manual focus is an option as well as spot focus modes.  
+
+I can't really say enough about the lens.  It's a 3x optical lens, very bright, aperture settings (F1.8 - 10 telephoto, F2.6 - 10 telephoto), 35mm equivalent of 35-105mm focal length.  Aperture settings come in handy for different effects regarding depth of field and perspective.  A fixed lens (like I used to have) may actually warp a picture's depth of field and perspective (not to mention add a few pounds to everyone.)  
+
+OTHER FEATURES
+Remote control for shots and playback
+Playback to analog video out (NTSC - US model)
+Self timer
+Flash intensity adjustable
+USB download
+Lens cap
+Image effects such as B&W, sephia, etc.
+Movie capture at two modes to .MOV format
+Smartmedia media
+Noise reduction for night shots 
+Panoramic function (with Olympus media card only)
+Enlargement mode to 3200X2400 (photoshop can do the same for you though)
+Motor drive type emulation (up to 2 shots per second up to 8)
+Sharpness, contrast and brightness corrections
+Optical viewfinder (covers a little less than the actual output picture though)
+Color LCD 
+Concise LCD readout on top of camera indicating modes and shots remaining
+
+ADDITIONAL INFO
+The camera also sports a very nice grip which is very comfortable in your hand, and it's not large at all - it has a mini SLR look to it.  It actually looks more like a real camera than a digital camera.  Even the readout on top of the camera which indicates modes and number of shots left is reminiscent of new 35mm cameras.
+
+CONS
+One thing which aggrevates me to no end still is the menu structure.  Although it's very clear and easy to navigate, it's not real easy to get anywhere QUICKLY.  Changing things involves several layers of menus and the available buttons on the back of the camera are minimal (maybe thats why all the menu stuff).  It does, however, have a shortcut key to help out for having one preset setting.  I also had some troubles getting the download drivers installed but a quick trip to their website for support remedied that right away.  Other than that, downloading is a breeze because it looks like another drive on your computer when the camera is plugged in - no special software needed.
+
+Pictures viewed on the LCD screen on the back of it seemed more overexposed than they really were when downloaded.  This can be misleading, so be careful not to erase pictures before you downloaded them because of this.
+
+There also seems to be a fair delay between releasing the shutter and the picture actually being taken.  This is normal for a digicam, but it can get annoying if your not used to it.  Doing an exposure lock before taking the actual shot improves this significantly though.
+
+I considered getting an external bounce flash for more natural lighting effects and was upset to find out that this camera uses a 5 pin rare (or maybe proprietary) connector - not the usual PC type.  You can buy a cable for this to work with flashes with the PC connector put it costs like $50 - which is more than some flashes!
+
+When turning on the camera, during the warm up, the lens extends and if you forgot to take of the lens cap, your lens will make a not too healthy grinding noise.  I knew about this ahead of time and compensated for it (see the following section.)
+
+EXTRAS YOU MIGHT CONSIDER
+Battery life on this camera seems to be about average, which is real bad if you're using 4 AA alkalines.  Consider getting some rechargeables (1600maH NiMH type).  Additionally, the included smartmedia is way too small for the size pictures this puts out.  You can pick a 128MB smartmedia card on the net at the ~$70 range.  One cool thing about this camera is that you can add attachment lenses and filters.  That means filters, wide angle lenses, telephoto lenses, macro lenses, etc.  I bought an aftermarket adapter piece and UV filter.  I don't really need a filter but it helps to protect the lens and you could put the lens cap on the filter.  This all means when you crank the camera up  it will extended but it will all be inside the adapter piece and therefore not hit the filter or the cap!  This was $35 - a wise investment.
+
+If you want to make prints I would strongly recommend nothing less than an Epson 880 or 1280 photo printer with archival papers.
+
+
+OVERVIEW
+All in all this camera is nice to look at, nice to hold, and takes extremely nice pictures.  It is definitely aimed at the prosumer market but point and shooters will definitely be impressed as well.  If your planning on learning more about photography and f stops etc.. this is a camera you can grow into nicely. It's also a good value if you know where to get it.  I bought mine at buydig.com.  If you pay anywhere near the retail price for this, then this camera will not be the great value that it should be.  This camera has the best lens and picture for the discounted price range of most other 4mp cameras.
+
+Side NOTE:  The Olympus D-40 is near the same price and is an extremely compact 4mp camera.  It is lacking in some features and according to DPreview.com the picture is not as good (this is were the lens comes into play)
+Also, the 3040 is pretty much the same thing as the 4040 but 3.3 mp and it's about $50 cheaper.  I thought it was worth paying the extra $50 to get an additional .7 mp.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

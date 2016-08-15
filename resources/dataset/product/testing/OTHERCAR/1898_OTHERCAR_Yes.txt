@@ -1,0 +1,24 @@
+DOC>
+<DOCID> 1898 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Agfa_ePhoto_CL18 </PRODUCT>
+<URL> http://www.epinions.com/content_46476332676 </URL>
+<TEXT>
+            I bought this little digital camera about 6 months ago. I also read the reviews here at epinions.com before I made my decision. More than enough has been said about the technical details so I will not go through that again. I only want to point out what nobody else has mentioned, or what I found to be different than described by others.
+
+<b>Built in flash</b> is very weak, don't expect miracles. I did not have problems with overexposed images which were mentioned by some other reviewers. The manual warns though that images may get overexposed if the objects are too close. The declared range of the flash is 1-2 m. Actually, from my experience I can say that the camera does a pretty good job when the existing light mixes with the flash. I even tried something unconventional - I used an additional servo flash (one that senses that a flash went off and fires simultaneously). Surprisingly, even though the servo flash was quite a bit more powerful than the built in flash, the camera managed to determine the exposure perfectly.
+
+<b>TV output</b> comes very handy since the camera has no LCD display for the images. The picture on the TV may look slightly worse than the final result will be, and at least on my television it has a slightly wrong aspect ratio (horizontal/vertical). Still, it works for what it is intended for and that is checking which images came out good when you have no computer available. I would be considering Agfa CL20 (a slightly better model) as my next digital camera, but unfortunately it lacks the TV output. Maybe I will wait for the next model in this price range.
+
+<b>16 or 32 pictures</b> is what manual says. The bad news is that 32 is the maximum because the camera will never take more than 32 images and there is no memory expansion. The good news is that 16 images on high quality (less compression, less detail loss) is a worst case estimate. Even with images with a lot of contrasts and details I managed to get at least 20 images before the memory was full. My recommendation is - keep it on high quality setting. Low quality setting may not look much worse at first, but then maybe you will come home with some memory unused and blocky patterns on the best shot you got.
+
+<b>Image quality</b> could be better. Depending on lighting conditions I have noticed colorful patterns on small details or white halo on some bright/dark edges. However, the quality is never the same you would get by downscaling an image of a higher resolution down to 640x480! If the conditions are good, the image can come out great. The ones that don't come out that good can still be repaired to some extent with the bundled Corel Print House 5. Sharpening with a moderate setting (say 8) and adjusting the brightness slightly (and maybe reducing the contrast to -2) will do miracles to the image, as long as you don't overdo it.
+
+Oh, and one more thing that can't be stressed enough. Yes, you do need to hold this camera steady. Two reasons for it - one is that the camera will not underexpose, it will use long exposure times if the lighting is poor. The other is - it is very light which makes it less steady in itself. Add some latency and you might move it when you think it is done, but actually just at the moment it is taking the picture.
+
+Don't expect this to be the last camera you will ever buy. It's a toy. But a great toy. Sure, you can get a conventional snapshot camera for a lot less, but with a digital camera the pictures are virtually free. And this one, you can take anywhere. It's not a $1000 item that you would worry about!
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

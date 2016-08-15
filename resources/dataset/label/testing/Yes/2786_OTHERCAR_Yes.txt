@@ -1,0 +1,15 @@
+DOC>
+<DOCID> 2786 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_OlympusDigitall-Olympus__D-400_Zoom </PRODUCT>
+<URL> http://www.epinions.com/elec-review-901-30F9C9E-37DD9AD6-prod1 </URL>
+<TEXT>
+            The Olympus D-400 Zoom Digital Camera is a very capable camera, with a good selection of features and a very sharp, accurate CCD. The camera can take images at two resolutions: 640x480 and 1280x960. At the 1280x960 resolution, the camera offers 3 variations: uncompressed, high-quality compression, and low-quality compression. With the supplied 8-meg smartmedia card, the camera can store around 120 shots at the 640x480 resolution, 36 shots at the most-compressed high-res, 18 shots at the high-quality compression high-res, and 2 shots high-res uncompressed.
+We bought the camera after reading reviews on CNET and MacWorld, and for the most part, the glowing reviews are correct. After taking a few shots at 640x480, we switched to the high-res, high-quality compression format, and have stuck with that for almost all pictures. The image quality at this resolution is really good. Colors are saturated and accurate, the auto-focus works well, and the macro mode allows close-focus shots that can capture impressive levels of detail. The camera controls are somewhat cryptic, but once you learn the meaning of the symbols, it's easy to change modes on the camera. Images at the resolution we're using take about 4 seconds to store on the smartmedia card. The camera handles a wide range of lighting conditions, and for the most part can adapt well to indoor and outdoor lighting. The LCD display is sharp and is pretty much real-time, although the preview images on it are brighter and higher contrast than the downloaded images turn out.
+The only drawbacks we've seen so far are in battery usage and in image download time. The serial port interface is horribly slow, and the included Flashpath floppy adaptor is not much faster. (see below for a vastly improved way to download.) For effective use, you should get at least one extra smartmedia card so that you don't have to tie up the camera for a half-hour downloading after you've filled up the card. Battery usage is ok as long as the LCD isn't used during photography. With the LCD in use, a set of alkaline batteries lasts for about 20 high-res, low-compression shots. Rechargeable batteries are a must with this camera. In fact, the supposedly &quot;dead&quot; alkaline batteries that came out of the camera routinely tested as barely discharged, and were quite usable in other electronic devices. 
+HIGHLY RECOMMENDED ACCESSORY - More recently, I got a USB Smartmedia reader, which cost around $60.00. This accessory has completely replaced the standard download options. It appears to the PC like a removable drive, and a full 16 MByte Smartmedia card can be copied to the hard drive in about 20 seconds, as opposed to around 30 minutes with the Flashpath adaptor or the serial cable. Once the driver is installed, there is no other software needed to read the card.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

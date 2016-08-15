@@ -1,0 +1,43 @@
+DOC>
+<DOCID> 30253 </DOCID>
+<PRODUCT> Digital_Cameras/elec_AgfaePhotoo-Agfa_ePhoto_Smile </PRODUCT>
+<URL> http://www.epinions.com/elec-review-CA0-1F82207D-397B99E6-prod5 </URL>
+<TEXT>
+            WARNING To anyone thinking of buying this Digital Camera, offering &quot;VGA (640 x 480 pixels) image resolution with Agfa PhotoGenie� technology&quot; (quote taken from AGFA's web page for this monster, the URL is:
+
+http://www.agfahome.com/product/FAQ_ListPublic.html?object=FAQ&amp;id=3150
+
+**TAKE NOTE** -- this camera does NOT have a true 640 x 480 resolution -- which probably explains why it has such CRUMMY reviews on this (and other) web sites.
+
+Direct quote from Agfa's Q&amp;A on the above web site:
+
+&quot;Q:� What is the resolution of the ePhoto Smile digital camera?
+A:� The ePhoto Smile features 640 x 480 pixel image resolution with Agfa PhotoGenie� technology.&quot;
+
+And, even worse...from the same web page...
+
+&quot;PhotoGenie optimizes the image quality of pictures captured in the camera's highest resolution mode, producing images with a resolution of 640 x 480 pixels. This is a higher resolution than normally possible using the camera's 130,000 pixel CCD sensor&quot;
+
+Do the math - 640 x 480 resolution requires a CCD with no less than  307,200 pixels. The paltry 130 thousand pixel CCD installed in this beastly camera offers a *TRUE* resolution LESS than even 640 x 240 (which would require  153,600 pixels in the CCD).
+
+They pawn off some cheap software to interpolate and smooth the JPEG image as an excuse for calling a &quot;low quality&quot; image a &quot;high quality&quot; image. Kinda like Intel saying, &quot;here is our Pentium-2000 'mhz' &quot; chip (that actually runs at 1000 'real' mhz :-)
+
+Absolutely insane.
+
+SO: in closing. I don't own this camera. I nearly bought one today through an auction at Ebay. Very close call. If you want an inexpensive digital camera, KNOW WHAT YOU ARE GETTING
+
+-if you want a CHEAP Low-Res digital camera (320 x 240) that doesn't tell lies, get yourself a &quot;JamCam Jr&quot; - available for a net cost of $10 USD plus shipping from places like &quot;Dragon.CA&quot; (URL is
+
+http://www.dragon.ca/games/accessories/jamcamjr.htm )
+
+(btw, no affiliation with dragon.ca other than as a satisfied customer :-)
+
+-Alternately, if you want a DECENT &quot;Inexpensive&quot; Digital camera that takes *real* 640x480 images, get yourself the &quot;Dimera 3500&quot; (which even has a removable memory cartridge that can be upgraded) - for a cost of approx $100 USD.
+
+However: Don't let these lies that AGFA tell fool you!! AVOID THIS CAMERA !!<br><br>
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

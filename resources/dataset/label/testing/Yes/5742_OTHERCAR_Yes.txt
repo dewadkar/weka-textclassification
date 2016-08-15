@@ -1,0 +1,32 @@
+DOC>
+<DOCID> 5742 </DOCID>
+<PRODUCT> Digital_Cameras/_Pentax_Optio330__616642 </PRODUCT>
+<URL> http://www.epinions.com/content_102055317124 </URL>
+<TEXT>
+            Last month, I bought this compact DC used (for several months only) from my colleague. At a very good price, I got the following:-
+- all the things originally boxed;
+- an additional spare battery made by Fuji, with larger marked capacity of 1035mAh;
+- a 128MB CF card;
+
+The camera is really compact enough (though not the smallest nor lightest in its class), but yet felt very solid. Its build quality is indeed pretty good and the body is mainly made of stainless steel and the lens elements' coatings seems quite good too.
+
+The AF is surprisingly fast for a DC, it is indeed much faster than my good old Oly C-3000Z. The system time lag is also the shortest I have seen for a DC. The optical viewfinder is *very* accurate. IMO, it comes first for both viewfinder accuracy and system response when compared with all the Nikon, Olympus, Canon DCs which I had used - really amazing for such a small camera!
+
+Beside the technical concerns above, it is a very easy to use DC. It would be much easier to use if there is a separate simple traditional LCD on the top panel. This could help to preserve battery power and make it more convenient to use without turning on the color LCD on the back.
+
+On the downside, it is very battery hungry. The front right part of the body (the gripping area) becomes hot for just a while it is turned on. Maybe it has a very powerful CPU and the area is served as a "heatsink". Or there maybe a special advantage when it is used in the cold winter ;-). This powerful cpu can also explain why the system response is so fast for this DC. However, battery power always drained quickly even when it is connected to the PC for downloading pics and I think some USB power should be utilised for this case.
+
+Regarding the picture quality, photos taken are not the sharpest amongst its class, especially when compared with "bigger" DCs of top class. The color accuracy is ok and some outdoor photos are of pleasing warm tone. However, under some situations, the pictures come out to be a little bit grey. 
+
+The flash power is enough but not always accurate, it is sometimes overexposed and sometimes under (quite a lot occasionally).
+
+There is no bundled softcase in box, but this is a common fault for almost all manufacturers indeed. They just want to make more money for selling the case separately. But I think they are really too mean to do so as all the DC are quite expensive indeed. I finally found a Casio QV-R3 case which can suit perfectly for my Optio since QV-R3 is the same sister model.
+
+The last con is that there is no sound recorded in movie mode. But instead, there is some little awful sound produced by the camera itself (it seems to be come out from the lens). So, this may be the true reason that it do not have a microphone!
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

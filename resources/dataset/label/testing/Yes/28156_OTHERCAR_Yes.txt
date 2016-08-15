@@ -1,0 +1,26 @@
+DOC>
+<DOCID> 28156 </DOCID>
+<PRODUCT> Digital_Cameras/Fuji_FinePix_S602_Zoom_Digital_Camera___Camera_FP_S602Z00 </PRODUCT>
+<URL> http://www.epinions.com/content_96547147396 </URL>
+<TEXT>
+            I've been working towards purchasing a Fuji Finepix S602 for several months and finally bit the bullet.  For me, the 602's movie mode as an attractive feature.  Many cameras allow full frame movies, but for only 20 or 30 seconds.  In the 602's case, movies can be shot for as long as you have memory in the camera.  With the 1 GB IBM Microdrive I purchased, I have over 25 minutes of VGA movie recording time, if I choose!
+
+Out of the box, Fuji provides a simple quick start document that had me shooting pics and movies in a couple of minutes.  The only manual setting I played with in the first day was the default setting for picture quality.  Fuji's out-of-the-box default is 1 megapixel, for some reason.  I'm currently using the 3 MP "normal" setting and the resulting .jpg's are quite suitable for 8x10 pics.
+
+Fuji's auto settings seem to handle fluorescent, incandescent, and daylight very well.  The camera is somewhat large to accomodate the 6x optical zoom, but it feels like a regular camera in your hand and the basic controls are intuitive.
+
+There are a literal boatload of customizable features and controls, which I'm sure will take me a month or more to get through and learn.  But for right out of the box, it has been a very easy experience for me.  I'm happy to know that as my experience and interest in special features grows, the S602 will have the ability to grow with me.
+
+With the S602's incredible movie mode (including sound), there are some caveats.  Zoom doesn't work while in movie mode, so you've got to choose the best zoom level and stay with it for the entire shot.  You can, of course, yank individual frames from the movie mode for still pics - but these will be at a relatively low quality 640x480 resolution. 30 frames per second at that resolution is absolutely gorgeous on TV but suitable only for small prints as stills.
+
+Also reported on several newsgroups is the S602's inability to shoot in video mode with many slower Compact Flash cards.  I confirmed this with a 32 MB Sandisk 4x Compact Flash card.  The S602 found this card (which is very common out there) too slow for movie mode, although it handles still pics just fine.  Some people report that you'll need a 12x or faster CF card to shoot movies; I played it safe and got the big IBM Microdrive, which fits in the CF slot of the camera, and it just goes and goes in video mode.  The S602 also has a slot for a SmartMedia card, and a 16 MB card is included in the box.  Enough for about 25 still pics in 3 megapixel "normal" mode.  To switch back and forth between two cards installed in the camera at the same time, you must go into a menu to select the "default" card to be used at the time.
+
+I have a 6-in-1 card reader attached to USB via my computer, and the cards show all videos and still pics through Windows (XP) Explorer just fine.  Fuji includes software on disk for picture importing and editing, but I haven't installed any of it yet - I'm just grabbing the pics and videos off the cards and using my computer's existing editing software to massage them.
+
+I paid $569 for my S602 (new, USA camera with USA warranty card) from NewEgg.com.  Free shipping to boot.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

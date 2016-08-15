@@ -1,0 +1,54 @@
+DOC>
+<DOCID> 209 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_Powershot_G1 </PRODUCT>
+<URL> http://www.epinions.com/content_24569876100 </URL>
+<TEXT>
+            <B>This is the first camera I've ever owned that required me to actually read the manual. That says something right there.</B>
+
+My previous digital camera was the Canon S20. I liked the size of the S20, but I figured I might as well pawn it off on Ebay while it was still worth something. Besides, I was due for a new toy.
+
+The Powershot G1 is Canon's newest offering in their small-size digital camera lineup. It features a 3.3 megapixel CCD, 3x zoom (optical... very nice), a CF+ slot for industry standard CompactFlash memory cards and IBM Microdirves (up to 1GB), and would you believe it? Full manual control for aperture and shutter settings. 
+
+<B>What it includes</B>
+
+The camera itself is packaged with a 16MB CF card, a tiny remote (comes in handy for those remote shots), a ridiculously long strap, assorted cables (USB, Serial and Composite for use with a TV), a rechargable battery (standard BP-511 type used on a lot of their mini camcorders), a power supply (which charges the battery inside the camera), and some software including drivers and Photoshop LE which I generally consider as worthless. And oh yes, a Lens Cap. 
+
+<B>Ergonomics</B>
+
+The camera itself is definitely larger than the Canon S20 by quite a margin. While it's still a "compact" size, it's not the miniscule size of its older sibling. It's comfortable to hold, with my only major gripe being the location of the zoom control (it's placed on the top of the camera around the shutter button). The LCD screen is the swivel type, allowing you to put the LCD just about anywhere you need it to be. The display is bright and viewable even outdoors. The optical viewfinder is horrible, but aren't they all on consumer digital cameras?  I'd say you see around 85% of your shot through the viewfinder, but watch your distance from your subject. There's also a diopter adjustment for eyeglass wearers. 
+
+The camera itself is no featherweight. It definitely has some girth as well, though it feels relatively comfortable in my large hands. Not too cramped, not too cumbersome. My wife has no problem with it either. 
+
+<b>Taking Pictures</b>
+
+The camera has TONS of different modes, some of which are useful, some of which are 100% useless. 
+
+The first mode I tried was "Auto" mode. Boy is this mode worthless. I think Canon probably threw this mode in as an afterthought. For flash photography in this mode, just about EVERY picture you take has a horrible red caste over it. While the pictures are detailed and richly colored, the red caste is definitely annoying. While it's easily fixable in Photoshop or even ThumbsPlus (my favorite all-around imaging application), should you really have to make these changes yourself? For outdoor and non-flash photography, this mode fares a bit better, but quite frankly you won't be shooting in this mode. If you want a camera that will take care of just about everything for you (like the S20), <b>this camera is not for you</b>. 
+
+I also tried the full manual setting (sometimes I wonder if the "manual" setting is called such because you need to read the manual to figure out how to adjust everything). This mode is GREAT for trick photography or challenging shots (such as night photography). You can independently configure your aperture and shutter settings, which is rare in a consumer digital camera, much less one that's under $1000. It's a bit confusing seeing these features on a camera that looks like a normal point and shoot though. Again, with default "Auto White Balance" settings in this mode, you'll see a red caste if you use the flash. More on white balance later.
+
+My favorite mode is "P" mode, or Programmed autoexposure. This is by far the most useful mode for everyday shooting. In P mode, the camera judges the best aperture and shutter settings automatically while still allowing you to configure white balance. White balance is certainly tricky on this camera, and it will take quite a bit of patience to get it right. When I first started shooting in this mode, I used the "Evaluate White Balance" menu option on a white sheet of paper to take some pictures of my wife painting the baby's room (we're expecting this August). I did this because of the old "red caste" problem when using the flash, and the room wasn't bright enough for non-flash photography. After evaluating the white balance on a sheet of paper, I took a few shots, and they all turned out blue. This was VERY dismaying, and for a while I thought there was something wrong with the camera. After playing around with the settings some more, I found that you have nearly perfect results if you evaluate the white balance with the flash off. Also, as it turns out from my experience, <b>you're going to get some kind of red or blue shift if you use the camera's internal flash. </b>
+
+Luckily there's a hot shoe for a Canon Speedlite-series bounce flash. While it looks like it would make the camera top-heavy, i'm sure this flash will make your shots look much more natural. I don't own a speedlite, so I can't vouch for just how good it will make your shots. 
+
+Some of the other modes on the camera are Portrait (for taking foreground portraits with a narrow depth of field), night photography, sports (fast shutter), a somewhat useful "quick shot" mode (full focal length) for when the subject is unpredictable and you need to snap a quick picture. There are other modes, but I don't really find them very useful. 
+
+The camera also offers variable ISO. I typically leave mine on ISO50 for the best color saturation in bright light conditions. There's also an Auto ISO mode, though I haven't exactly seen its results. I prefer to select my own mode. At ISO ranges above 200, there's an auto CCD-noise reduction algorithm on the camera to try to eliminate noise from the CCD, a common problem with digital cameras.
+
+A note on the battery: there are plenty of BP-511 aftermarket batteries for Canon camcorders that will work with the G1. There are some that WON'T however. The BP-511 battery pack that comes with the G1 has a groove running down the center of it. Recently I purchased a Maxell BP-511 replacement that lacks this groove. As a result, it won't fit in the battery compartment. However, the Polariod PR511L <b>does</b> work. Do yourself a favor, if you're going to buy a BP-511 replacement for this camera, bring the battery to the store with you and make sure there's a groove there that will allow the battery to fit in your G1. 
+
+<b>Image Quality</b>
+
+Image quality is generally excellent. Shots are well saturated and accurate. Is there CCD noise? You betcha. In darker areas you'll notice some CCD noise in your shots, pretty much like most other consumer digital cameras. It's not extreme, however. Also there's some noted purple color fringing in high-contrast shots (for example light filtering through leaves on trees or hard contrast lines on overcast days). As with most digital cameras, these are anomalies we usually live with. There's assorted tools to get rid of these anomalies, my favorite being the Quantum Mechanic plugin (see my S20 epinion for more on this). Printed images are incredible, with 12x18 shots on SuperA3 paper looking absolutely stellar. 
+
+<b>Summary</b>
+
+So, should you buy this camera? If you're the kind of person who just wants a point and shoot camera with excellent quality, no. Stick with the S20. The S20 is much more simple to operate, and the AUTO mode on the G1 is really not worth the price of admission.  There are better cameras if you want simplicity. If you're a camera newbie and don't understand the importance of an aperture setting or a shutter setting, pass this camera by. 
+
+However, if you want a camera that gives you all the control of your standard SLR and can live with the viewfinder's limitations, then run out and purchase this camera. The fact that it's small enough to pass as a standard point and shoot will give you plenty of freedom to take shots just about anywhere. The 3X zoom is much more generous than the S20. The manual options and even the programmed modes offer you the flexibility to handle the more challenging shots. There are also plenty of aftermarket lenses, converters and the like for this camera (boy, that didn't take long...)
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

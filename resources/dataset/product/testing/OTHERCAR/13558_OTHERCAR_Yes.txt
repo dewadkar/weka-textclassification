@@ -1,0 +1,43 @@
+DOC>
+<DOCID> 13558 </DOCID>
+<PRODUCT> Digital_Cameras/Aiptek_PenCAm_VR_Voice_Recorder_Webcams </PRODUCT>
+<URL> http://www.epinions.com/content_42952986244 </URL>
+<TEXT>
+            Well, I see Epinions finally added a secion for this camera, good, I have been waiting for this for a few weeks now *smiles*
+  As I have said in other reviews I have on here, I am a low-end digital camera collector. I like playing with these 'toy' cameras, seeing what kind of pics I can squeeze out of them, sometimes I get some really nice pics.
+ This review is about one such cam, the Aiptek Pencam VR, the VR in this case is for Voice Recorder, which is one of the main reasons I bought this cam when I did.
+  I was in need of a voice recorder (either tape, or digital) and had been looking, when I came upon this device.
+  I allready owned one such camera, the Aiptek Pencam Trio (8 meg non-vga version) and did my first epinions review on it in fact, So I am familar with how their cameras work. 
+  In the case of the Pencam VR, they have changed a few things, one is the shape, not really a 'pencam' as much anymore, it appears as if they have tried to add some ergonomics to the basic pencam style, and to a point, they work well. 
+  When using the Pencam VR as a recorder, you hold it in such a way that your finger is on the shutter button (you press & hold it to record) and the mic is off to your left, in a very good recording position. this curved shape also makes using the viewfinder when in camera mode a bit easier, as it keeps you from having to angle the cam to avoid your nose, so you can see out the viewfinder.
+  as a camera is takes ok pictures, good (for this kind of camera), but nothing to write home about. the extra resolution helps a bit (over what the original pencam could do). 
+  This cam also does what Aiptek calls Video Cam mode, now this I don't use much on this cam, because you only have like 26 frames in 640x480, or about 107 or so in Low res (about 320x240 I think), and the framerate is a lot lower, like 9 fps in low res, and 3 fps in high res) whereas the older pencam (with 8 mb) had a higher framerate (even in the lower res mode, it still did better than 9 fps, more like 15 or so). 
+  You can see this when using it in Ct (continuous) mode, the cam beeps when a frame is shot, the beeping noise seems slower than on my older cam, and it carries over when you view the finished video, they are jerky, so I don't use this cam for videos.
+  Don't take this review the wrong way, I really like this cam, the improvements they made, outweigh the loss of video mode. The lens is better, they have a glass lens now, (like what the Pencam 2 uses) they now include a cover for the USB port to keep dust and dirt out (which, BTW, is the same port the older cam uses). The 2 tone case for the cam seems to be somewhat 'rubberized', the shutter button is bigger, and they recessed the power/mode button, making it harder to press accidently.
+  my main purpose for carrying this cam with me everyday, is for it's voice recorder function, so let me tell youa bit about it, it's a basic recorder, no volume control, but the volume is good enough to hear in most cases, esp if you hold the speaker to your ear. the speaker is on the front of the cam, right below the lens. The Mic, as I said earlier, is on the back, next to the text display, and just below the viewfinder. It's not a overly sensitive mic.. it will pick up your voice, but usually nothing too far away, or too quiet. If you hold it too close to your mouth, you'll sometimes get 'popping' sounds in your recordings, or breath sounds.. usually I hold it about 3-5 inches from my face when talking (at a normal volume level) and I get good recordings..
+  the various modes for the cam are controlled by the mode button, pressing it once powers the cam, and sets it in cam mode, each consecutive press cycles through the other modes (Ar, or Audio Record, Ap, audio play, Da, or Delete last audio, Ct, or continuous mode, Dc, delete continuous, St, or Self Timer, Cl or Clear all, and Lr, or Low res mode)
+ The cam has a delete last mode, depending on the last action taken (Audio, Picture, or Continuous ) it will let you delete the last action, then each time you go back to the delete last mode, it selects the nex in line, etc..
+ It sounds confusing, but after a day of playing, I got the hang of it
+  This cam also works as a web cam, like the other members of the pencam family, it's passable, but again, not the best thing out there, but it will work (given enough lighting)as a decent webcam for video conferencing, or the like.
+  they include a good deal of software on 2 cd's, the usuall Aiptek Pencam manager and driver (Twain compliant), plus a load of other software, mostly SE versions of Ulead editing software, like VideoStudio SE, and Photo Express 3.0 SE, Cool 360, for wrap-around pictures, Photo Explorer, and Video Live Mail (not by Ulead, I don't think) and finally, Video Kanoid, a kind of virtual video game thing...
+they also include Netmeeting 3,0 on the CD, as well as an electronig version of the manual.
+  some of the specs of this cam are as follows...
+  It has a 640x480 color CMOS sensor, 8 MB sdram (meaning, when the batteries (2 AAA Alkaline) die, you loose your pics on the cam) it can take 26 pics at 640x480, or 107 at 320x240 (or QVGA as they call it) it also will do 13 min of recorded audio (max) at 10KHz mono, the lens view angle is 54 degrees.
+   
+   This style cam makes for some interesting uses, you can, for example, use it for candid pics (keeping it out of site til needed for that quick shot), plus it's very portable, it comes with a wrist strap, but I usually keep mine in my pocket, taking it out for that quick pic, or recording. Speaking of which, that's my biggest use for this cam right now, I use it everyday at work, whenever I need to remember something (and don't have a piece of paper handy)I'll just take this out and record what I needed to remember, then listen to it when I get to where I need to be, then delete the message when done (this helps me as I am usually doing too many things to keep everything straight in my head *smiles*).
+  I also use this cam when I am visiting my niece, as she's always doing something cute (she's 2 years old).
+ Now when I go visiting, I usually have my full camera bag with me (consisting of a Sony Digital 8 camcorder, my Fuji 1400Zoom digital camera, my Creative Labs Web Cam Go Plus, my older Aiptek Pencam Trio, and now my Polaroid I-Zone Digital Combo) and my Pencam VR in my pocket, and my Casio Wrist Cam on my wrist (yes, I know, too much free time *smiles*). But anyway, I don't usually bring all that inside, unless I need it, then I go out and get what I need.. 9/10 times, I just use the Pencam VR and Wrist Cam (unless I need a flast at night, then I get the Fuji and the Polaroid.. sometimes I'll even bring the Yahoo cam, and use it's IR capabilities, or the camcorder and take stills with it, using it's IR mode).
+  As you can see, I REALLY like taking pictures, and rarely go out without at least 1 or 2 cameras on me, cause you never know when a good photo op might turn up..
+ 
+ Anyway, that's all for now, as I think of new stuff, I'll add it in,
+  Thank you for reading
+
+P.S. almost forgot one other feature... you can add voice comments to your photos... how it works is like this, you take the pic, then record a voice note, be it a description, or just the sounds around you, etc.. then when you dump the data to the computer, there's an option to add voice files to the pics, you just select the voice file to attach to what pic file, and it makes an avi file out of it, which plays back in media player, as a still shot, with audio .. kinda neat, I have used it a few times, not too often though.. in fact, I almost forgot the cam did this *smiles*
+
+ 
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

@@ -1,0 +1,22 @@
+DOC>
+<DOCID> 11322 </DOCID>
+<PRODUCT> Digital_Cameras/Concord_Camera_EyeQ_3X_SLR_Zoom_Digital_Camera__Camera_EYEQ_3X </PRODUCT>
+<URL> http://www.epinions.com/content_62062235268 </URL>
+<TEXT>
+            This camera caught my eye for two reasons.  First, it's incredibly tiny, stylish, and unconventional.  Second, it's incredibly cheap (about $60 blisterpacked at Wal-Mart).
+
+The design quality evident with a glance at the camera is even more evident when you start to use it.  It's easy to use because everything makes sense, and the camera does a lot of the work for you.  You give up some control to get this convenience, but the camera is pretty "smart" about what it does for you: auto white balance, auto focus, auto flash, and so on.  Most of the time, especially outdoors with plenty of light, or indoors at a reasonable distance (not too close, not too far) from the subject, the camera's automatic adjustments produce quite credible, consistent results.
+
+The biggest possible problem with this camera (depending on your needs) is the resolution.  The sensor is only 640x480, but as the packaging somewhat misleadingly trumpets, the camera has an interpolation mode that'll boost the images to 1280x960.  Unfortunately, getting the pictures out at that resolution requires that the user <i>not</i> use the simple drag-and-drop "My Camera" driver that integrates into Windows Explorer, but instead use the rather more cumbersome ArcSoft PhotoImpression 3.0 software that's bundled with the camera.... and then, to maximize the quality of the final JPEG file on the PC, further remember to bump up the compression setting in PhotoImpression to 100 from its default of 90 when saving the downloaded image to disk.
+
+Another, smaller, possible problem with this camera is the fact that it doesn't accept any sort of removable media.  After you've taken your 40-80 shots, you need to run to your PC and download the images before you can take another.  Perhaps there's a market here for an add-on that'll plug into the camera's USB port to let a user in the field dump all the pictures from the camera to a separate device, freeing the camera to get back to capturing images.
+
+UPDATE 1-May-2002 -- After sending off images from this camera, at various resolutions and compression levels, and checking out the prints... I've returned the camera to the store where I bought it.  My subjective impression of the quality of the ostensibly "enhanced" higher-resolution images was that they seemed blurrier than the "unenhanced" lower-resolution images.  The bottom line is that this camera produces images that are probably perfectly acceptable for posting snapshots to the web, or even for business purposes like real estate pictures or pictures of valuables you'll want to file in your insurance folder... but you won't like the prints you get from such low-resolution images if you're hoping to keep memories of special times and special people.  For those special pictures, go ahead and bite the bullet... spend more (probably a lot more, sadly) for a camera with a higher native resolution.
+
+If Concord Camera makes a new version of this camera that bumps up the specs to make it a truly megapixel (or 2 megapixel!) camera, and increases the onboard memory to match it, I'll be the first in line to try it again... but until then, this innovative but limited camera has, I'm afraid, only a limited audience.
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

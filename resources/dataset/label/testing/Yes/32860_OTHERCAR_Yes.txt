@@ -1,0 +1,53 @@
+DOC>
+<DOCID> 32860 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_NikonCoolpixx-Nikon_Coolpix_880 </PRODUCT>
+<URL> http://www.epinions.com/content_22176829060 </URL>
+<TEXT>
+            Nikon CoolPix 880 - very compact and simple in use the camera, is easy to operate it, and it is possible to carry in a pocket. The workmanship, as well as was necessary to expect from an inexpensive model, is above the average. Therefore it is possible to be sure, that it will serve rather long.
+
+Nikon CoolPix 990 has accepted relay race CoolPix 950 has corrected some it defects (saving the common concept) and has received 3-megapixel matrix. After this the company Nikon has decided to replace CoolPix 800 on CoolPix 880.
+
+This model is delivered in two variants of coloring: silver and black.
+
+To keep in hands this camera pleasantly. The information mapped on the screen, is quite clear, is conveniently read and has all necessary parameters of work.
+
+In CoolPix 880 is used the matrix by a size of 1/1,8 inches with number of elements - 3,34 mln (effective - 3,14 mln), permitting to create images by a size up to 2048x1536 pixels. The camera is equipped optics Zoom-Nikkor (9 elements in 7 groups) with 2,5 modification of a focal length - from 8 up to 20 mm (from 38 up to 95 mm in an equivalent of 35-mm film). It has a good macromode with a distance to object from 4 up to 40 sm. Start diaphragms - 1:2,8 on a "short" side (38 mm) and 1:4,2 on "long" side (115 mm).
+
+The sensitivity of a matrix is determined automatically or is exhibited 100 ISO, 200 ISO or 400 ISO. To save images it is possible in the following sizes: 2048x1536, XGA (1024x768) and VGA (640x480). To all resolutions it is possible to apply three various levels of compression (Fine, Normal, and Basic), however when you desire (and only in "manual" mode with the maximum resolution) the shots can be saved without compression in a standard format TIFF.
+
+Mode Selector Dial has the following possibilities:
+- Auto - completely automatic mode for usual, elementary shooting, type "point and shot";
+- Scene - mode of shooting with the beforehand programmed and fixed parameters intended for shooting of portraits, landscapes etc.; 
+- Program - mode, when monitors behind one parameter, and remaining photographer setting; 
+- Aperture Priority - Mode of priority of the diaphragm, for want of which diaphragm is set up manually; 
+- Manual - manual mode, both diaphragm, and exposition are installed manually;
+- CSM - all parameters, including an exposition, are set manually; 
+- and last mode Playback - intended for viewing. 
+
+Due to the appeared buffer of memory by a size of 16 Mbytes it is possible to shoot by a series with frequency 1,5 frames per second (amount of frames in a series depends on a selected degree of a compression - from 3 up to 8 in the maximum resolution). In a mode Ultra High Speed Continuous is possible to do short video with frequency 30 frames per second for QVGA (approximately 40 seconds, with the sanction 320x200) or 15 frames per second for a QuickTime-format. The resulting file of a 40-second video is approximately 12 Mbytes.
+
+Apart from it the following modes are realized:
+- serial shooting; 
+- the shooting of three frames selects the contract with automatic definition of an exposition, and then automatic choice of the best frame from a series (system most "sharp" image in a number); 
+- automatic removal of "parasitic noise" matrix; 
+- the image is possible correct during shooting (to change brightness, visibility and clearness).
+
+"Has saved" CoolPix 880 and possibility of construction of a histogram of an image intrinsic earlier only to expensive professional cameras of a type Sony DSC-D770 or Nikon D1. The histogram, in difference from picture on the LCD-screen, gives an objective information about brightness of a frame and allows to make unambiguous conclusions about it quality. 
+
+CoolPix 880 is sold in a package with power-intensive, but very expensive battery 2CR5. But if in film devices it is very long and it the charge suffices on some tens recordings, here, especially for extended functions requiring LCD-display, it use is unjustified cost.
+
+The firm Nikon offers accumulators and charge devices, but only in addition, as an option. It's a pity, that for this inexpensive camera Nikon does not offer an economic solution with recharged power supplies, as it is done by other manufacturers. It is necessary to complain, that Nikon CoolPix 880 is sold with 16-Mbytes C�mpactFlash-card that, certainly, is small for 3-megapixel camera.
+
+Quality of shots is excellent. CoolPix 880 gives high quality even on shots of the low resolution. Due to successful Nikkor-Zoom, which has a perfect system of a focussing and good details, unique system of a measurement of an exposition on a matrix from 256 segments and at last, good algorithms of processing of an image, the quality of shots received on this camera, certainly, deserves a praise. And the definition of an exposition on this algorithm of firm Nikon is so successful, that many shots to receive otherwise very difficulty (for example, "against the sun").
+
+Thus, even for use completely automatic mode the camera selects the best exposition (and to deceive it in this sense rather difficulty). The photos are received without visible defects (even with high degree of compression) and enough details. In addition to optics Nikkor practically does not give distortions in a mode 95 mm and gives only absolutely small "barrel-type" distortion in "short" side (38 mm).
+
+The system of the menu in CoolPix 880 is similar on CoolPix 990. It has become much more convenient and easier in use. If to press an appropriate button and to call the menu on a LCD-screen, with the help of only joystick - navigator you can realize both choice, and setting of necessary significance.
+
+Nikon CoolPix 880 is delivered together with two compact discs with the software. First CD contains Adobe Acrobat Reader 4.0 and PDF-version of the user's guide of the camera in various languages (Nikon Guide to Digital Photography). Second CD includes the program NikonView Version 3.0 and USB-drivers for Macintosh and Windows. NikonView is the utility, which is for viewing of photos and transfer them on the computer. As well as previous devices of firm Nikon, CoolPix 880 is not operated from the computer by base software. However as it is made on chipset of firm Sierra Imaging, for it there is a lot of the programs, realizing rigorous management and shooting from the computer.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

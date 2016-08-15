@@ -1,0 +1,18 @@
+DOC>
+<DOCID> 16301 </DOCID>
+<PRODUCT> Digital_Cameras/188278_Hewlett_Packard_PhotoSmart_C200xi </PRODUCT>
+<URL> http://www.epinions.com/elec-review-3821-17E9EA8D-384813E9-bd1 </URL>
+<TEXT>
+            I know that Hewlett Packard is an industry mega-giant, but I've never really been too impressed with their products. My Epson ink-jet prints circles around any DeskJet I've tried, when buying laser printers for work I choose QMS over HP any day, and I'm a Tru64 (DEC) UNIX admin, with an aversion to HP-UX. 
+
+When we were looking for a digital camera I immediately pooh-poohed HP's camera offerings. &quot;Let's go look at Epson or Kodak,&quot; I said, having had good prior experiences with both. I wasn't the one who was actually purchasing the camera though, and the person who was wanted to keep his spending around $300. With that budget in mind, off to Best Buy we went!
+
+I was very pleasantly surprised by the HP C200 camera. Pictures taken at maximum resolution (1 megapixel) are sharp and clear, and even at medium resolution are still of good quality. At first was using up batteries like they were going out of style, but we were using the LCD screen as a viewfinder - which is usually un-necessary imo. With the LCD screen off the batteries have lasted through well over 100 snaps. Investing in some rechargable batteries is a good idea. The camera doesn't come with an AC adapter either, which comes in handy when you're downloading pictures to your PC since the camera needs to be on. You can buy one from HP for about $50, but I got one at Fry's a lot cheaper, and that works just fine. The camera comes with an 8 MB memory card, and an extra 16 MB card was about $60. I also recommend buying a case since one isn't included.
+
+Overall, this is a great camera. It's pictures are just as good if not better than ones I've seen off a more expensive Epson, Sony, or Kodak camera. It's only drawbacks are that battery consumption is high if you simply MUST use the LCD, and the serial interface is sort of slow. A USB option would make sense for users of Win 95/98. Since I'm on NT 4 USB isn't an option for me, but I don't mind the transfer speed. $299... what a bargain!<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

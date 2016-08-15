@@ -1,0 +1,63 @@
+DOC>
+<DOCID> 9367 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Minolta_Dimage_F200_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_107156508292 </URL>
+<TEXT>
+            <i>I returned this camera after 4 days of use.</i> Having said that, this review describes my own experiences with the Dimage F200, along with some factual information to help <b><i>You</i></b> ultimately decide if this camera is right for you.
+<p>
+<b>Looking for the right camera.. </b>
+
+I'm a first time buyer of a digital camera, but I spent 6-8 months researching and reviewing over 15 different brands/models to find the correct one. I wanted a compact model, at least 4 mega-pixel, with manual override controls for added flexibility, and under US$450. At the top of my list was the Minolta Dimage F200, followed by Sony Cybershot DSC-P9. I own a Minolta Maxxum 5 SLR (35mm), which is an exceptional film camera, so I was inclined towards the Minolta.
+<p>
+<b>The Minolta Dimage Fxx digital family.. </b>
+
+The earlier model Minolta Dimage F100 had somewhat mixed reviews. Users wrote bad reviews complaining of terrible battery life, noisy operation, and lots of "noise" (or grains) on dark pictures.. I hoped the newer F200 would be much better. The new Dimage F200 was launched around March of 2003, but for some reason to this date (mid July 2003) it still has not made it to any major US electronics supplier.. other than Costco superstore! So when I found it at Costco for $350, I immediately took it home to try it out. What a BIG disappointment...
+<p>
+<b><i>Below is my experience with the Dimage F200 digital camera.</i></b>
+
+<b>Pros</b>
+
+- Superb quality of pictures. Tones and colors are nearly perfect outdoors, indoors only with flash it is acceptable.
+- Lots of features. Manual controls are similar to 35mm SLRs, with great flexibility.
+- Uses standard AA NiMH batteries
+- Intuitive controls, easy to navigate.
+
+<b>Cons</b>
+
+- Battery life is TERRIBLE with LCD on!
+- Zoom is extremely SLOOOOW.
+- The bundled 16MB SD card is a joke, with the fact that SD is still very expensive.
+- Camera is noisy, in the Auto mode the lens has this annoying grinding noise.
+- Camera gets extremely HOT with LCD on.
+- Lens is flimsy, and users of F100 wrote bad reviews stating lens usually break under warranty.
+- Optical viewfinder is 80% of actual view, and at close range it is notoriously misaligned.
+- Pictures taken without LCD are out-of-focus about 20-30% of time.
+- Macro mode does not have zoom (it is fixed so you move camera instead).
+<p>
+
+<b>OK, so now some technical jargon.. </b>
+
+<i>I am an engineer by career, so I tend to look at technical stuff with close attention.</i> The Dimage F200 weighs around 8.4 ounces (~0.45 lb) with batteries making it fairly lightweight. However, its "boxed" design makes it uncomfortable to fit in a pocket, and it only has a hand strap..  so hand-held is only way to carry this unit handy. The battery drain is no joke, some folks from the reviews I point to below measured that this camera drained 1.6 Amps of current with LCD on. Thats 1,600 milliAmps! For an old HI-8 camcorder that current drain is probably normal, but for a "tiny" digital still camera that is way out of whack! Then it is no wonder that the bundled 1800 mAh batteries die in less than an hour with LCD on, and they end up extremely HOT to the point that I wonder if the heat can damage the SD Memory card!<br>
+
+<i>The zoom is SLOW, I mean slooooooow. </i>The autofocus is also very slow, slower than normal. One of the reviews below measured the response time to be well below standard values for similar models. But what got me is number of users of the earlier F100 model that had problems with lens breaking or jamming, rendering camera useless (hopefully under the 1 year Warranty!). Being that I found the F100 almost identical in lens design to the F200, I will take NO CHANCES and I returned this camera to Costco.<br>
+
+<i>I did a little experiment for the sake of extending the poor battery life.</i> On normal setting with LCD on.. a fresh pack of NiMH AA's lasts less than 50 shots. So I set picture size to lowest setting (VGA, 640x480), and that gave me 140 pictures inside the small 16MB SD card. Then turned OFF the LCD, and used only optical viewfinder to snap away all those pictures indoors in both well-lit and dark areas. I took three pictures of each thing/object. As an owner of a Minolta Maxxum 5 SLR, I am used to the Minolta "half-depressed" shutter for auto-focus, so I tried that with the F200. The results were SO DISAPPOINTING! At least one of every three pictures of the exact same thing would be blurry or out-of-focus! So that leaves the optical viewfinder practically useless for indoor use..
+<p>
+<b>Conclusion</b>
+
+<i>Anyhow, I found other annoyances (i.e: flash takes 6-8 seconds to recharge!) that made me return this camera.</i> Don't get me wrong, the design is decent, the picture quality are superb, but too many issues bring down the added value of manual controls and compact design. I am still looking to find the right camera, and next on my list is the Panasonic DMC-LC43 which uses Leica lenses and supposed to be much faster and better than the F200.
+<p>
+
+<b>Some links to reviews and info of Minolta Dimage F200: </b>
+=================================================
+http://www.digit-life.com/articles2/minoltadimagef200/
+
+http://www.image-acquire.com/Minolta_F200.html
+
+http://www.dpreview.com/reviews/read_opinions.asp?prodkey=minolta_dimagef200
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

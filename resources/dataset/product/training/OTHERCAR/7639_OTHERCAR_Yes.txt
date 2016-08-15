@@ -1,0 +1,16 @@
+DOC>
+<DOCID> 7639 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Minolta_Dimage_Z1_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_126936780420 </URL>
+<TEXT>
+            When my JVC progressive scan camcorder finally gave out, I thought I'd take a look at the state of movie recording on digital cameras. I went with the Z1 and I have to say I really love this camera. For taking pictures it is a great digital camera. The pictures look fantastic on full auto and your have the option of full manual control, it's really laid out like a SLR in that regard. For taking movies it's very good but not as convenient as a digital camcorder. My biggest issues with the movie taking are: 1) you cannot zoom while taking a video with audio recording turned on (Minolta says the recorded noise of the zoom is just too loud) 2) You cannot use manual focus when shooting videos. As with most digital cameras and camcorders, the auto focus has trouble maintaining focus lock in lower light situations. In quiet settings this has the added distraction of the audio recording picking up the gentle click and whir of the autofocus. It's not terribly loud in the recordings, but it's there. My last gripe about the movie recording is that (according to Minolta) if your SD card can't write at least 10 megabytes a second the audio won't quite be in sync with the video (particularly at 640x480 30 fps). I use Lexar 32x (about 5-6 megabytes a sec) and the sync is definately off at 640x480 30fps. I use Final Cut Express to post process my movies and so just correct it there, but it is something to be aware of. This 10 meg/sec figure (I got directly from Minolta customer support) seems very suspicious to me since at 640x480 30 fps the camera is only writing at a mere 1 meg/sec, nowhere near 10.
+
+I've found battery life to be excellent even with the flash, and the flash is one of the most powerful for a camera in this price range. I've read reviews knocking the Z1 for "cheap construction" but I think it's more than adequate. The reviews I've read on lens rattle I think are also overblown - the lens does have a slight amount of play which can be heard if you shake it about, but then again - why would you do that? It certainly doesn't seem to affect picture quality from what I can see, even if you rotate the camera for a vertical shot.
+
+So why do I still love this camera if it seems like I'm mostly complaining? For $300 I get a great digital camera and a decent digital camcorder in a very compact form - it's wonderful to be able to switch back and forth so easily! For what I use it for (home pics/movies and the web work I do) it has been a great buy.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

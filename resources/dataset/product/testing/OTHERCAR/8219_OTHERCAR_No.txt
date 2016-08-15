@@ -1,0 +1,68 @@
+DOC>
+<DOCID> 8219 </DOCID>
+<PRODUCT> Digital_Cameras/615434_Polaroid_Corporation_320_PhotoMAX_FUN__Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_54060158596 </URL>
+<TEXT>
+            I have a confession to make, I am a technological dummy.  No bones about it, I can't and generally don't care too, know too much about anything electronic.  That is why I got myself a husband quite frankly.  Now, with that said, I must admit that in one area, my husband also has no interest in anything electronic, and therefore, I am left to my own devices.  That happens to be the computer, and anything affiliated with it like the digital camera that is the subject of this review...
+
+-----
+<i>The Polaroid <b>Photomax 320</b> digital camera</i>-
+
+Ever since I decided I was going to have to start selling my old "junk" on eBay to make more room and money for my new treasures, I have sort of been in the market for a digital camera.  In the interim, I have been a frequent borrower of my mother-in-law's wonderful digital camera.  Curiously enough, after a whole year of this borrowing, she bought me a digital camera all my own for Christmas this year.  I was quite delighted with the thoughtfulness of this gift, and I couldn't wait to get it home and test it out.
+
+-----
+<i>The Packaging</i>-
+It should have tipped me off really, but nothing was going to dampen my enthusiasm for organizing, cleaning, and selling all the stuff I'd been saving up to sell since the last camera borrowing.  The <b>Photomax 320</b> comes in a blister pack, you know the clear, stiff plastic that things like electric razors come in.  I had some difficulty slicing that open, but I soldiered on in a hurry to test it out.  
+
+<i>The Set-Up</i>-
+Wow, is all I can say about the first impression.  The camera is light once it's out of the package.  It is lighter than a disposable.  Again I should have had a clue.  The installation and set up required nothing more than to insert the 9V battery (included by the way).  The wrist strap listed as a feature on the package, was already attached for me. =)
+
+The <b>Photomax 320</b> came with Kodak photo software as well.  I followed the easy installation directions as prompted by the computer after I put in the CD-rom.  I was actually feeling pretty resourceful at this point, since I am the techno-dummy.
+
+<i>Taking Pictures</i>-
+O.K. Here goes, I grabbed the first item on the pile and started snapping photos.  This was not too tough a task since all I had to do was locate the item in the viewfinder and snap.  There is only one button on the camera.  In a matter of moments, there I had 5 quick pictures from different distances and in different lights.  I was sure I could get one usable photo.
+
+<i>Retrieving Photos</i>-
+The <b>Photomax 320</b> does not have an LCD display to view your photos as you take them, so you aren't able to see them until you upload them to your computer.  To do this, you need simply to plug in the serial cable to the computer and camera, and click on the newly installed photo software.  The directions are really quite easy to follow.
+
+<i>The Results</i>-
+Well, here we get to the title of my review <b>Oh Boy, It's Bad!</b>  There is no other way to describe how these photos turned out.  They were blurry, dark, hard to identify objects.  I was so sure that it must be a glitch, I tried again, and yet again.  I used different backdrops, natural light, etc.  I am a glutton for punishment, because no matter what this camera just wasn't going to take anything resembling a photo.
+
+-----
+<i>What Did I Do?</i>-
+Well at this point, I did what any self-respecting consumer does, and headed to the store to return my <b>Photomax 320</b>.  I really didn't want to since it was a kindhearted gift, but ultimately it was a kindhearted gift that someone had spent good money on, and I needed to find a replacement digital camera that would actually <i>work</i>.  Mission accomplished!! I am the proud owner of a new <b>HP Photosmart 215</b> proof that you don't need to spend a fortune to get an adequate camera.  (More on that in a review to come later).
+
+
+------
+<i>The Technical Spec.'s</i>-
+
+It a quick list of spec's that will quickly show the reasons why there are problems with this camera to anyone in the know about such things.  For the rest of us, I'll try to translate.
+<i>Connection-serial port</i>
+ This is the connection between the computer and the camera to upload photos to your PC.  Most newer cameras and computers will run on USB (a faster cable connection).
+<i>Resolution-320x240</i>
+ O.K. you caught me, I don't <i>really</i> know what pixels are exactly, but I do know that these are woefully inadequate and the reason for the poor photo quality I got.  People disagree on the suggested resolution needed for good photo quality, but I will say that my new, replacement camera with 1.3 megapixels of resolution is adequate for my eBay and e-mail needs.  The higher the pixels, the better the photo quality, and you may decide you need more.
+<i>Flash</i>-none
+ That's right, there is no flash, which probably did not help my photos at all.  I tried to take them in several different kinds of light, as well as outdoors to no avail.
+
+There is no memory card on this camera, and if memory serves, it will hold 18 photos before you'll need to delete them.  I never got near that mark before returning my camera, so I can't be positive.
+
+The <b>Photomax 320</b> also does not come with an adaptor, so if you decide to buy this and use it regularly, you may want to invest in a 9V adaptor so you won't waste your batteries during the photo upload.
+
+
+All in all, I have rarely been so thoroughly disappointed in a product of any kind.  Please, please don't be lured by the price.  I wouldn't even recommend this camera as a starter for a child, it just isn't adequate and doesn't work.  For not too much more money, you can have a really decent digital camera experience.
+
+-----
+<i>Final Thoughts</i>-
+May I suggest to anyone in the market for a digital camera, be it entry level of otherwise, to take a moment and read the excellent guide on choosing a digital camera written by Epinions member Howard_Creech.
+<a href='/elec-review-2E46-17B174E2-39A418E3-prod1'>http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a>
+This will give you a great idea for what kind of camera will meet your own needs, and the price range in which to look.  I only wish I'd stumbled upon it <i>before</i> my <b>Photomax</b> experience.
+
+
+Thanks for reading.
+Comments always appreciated. =)
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

@@ -1,0 +1,168 @@
+DOC>
+<DOCID> 32334 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Minolta_Dimage_F300_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_92347993732 </URL>
+<TEXT>
+            The Dimage F300, Minolta&#146s update of the very popular F 100 may be the perfect compromise for consumers looking for five megapixel resolution, compact size, and a raft load of automatic and manual options at a reasonable price.  My friend (who sells new and used digital and analog photographic equipment) and I both really liked Minolta&#146s nifty four megapixel F 100 when we tested it several months ago. The even more impressive little F 300 lands right in the middle of the five megapixel digicam pack, right between the ultra compact Olympus C50 and Nikon&#146s prosumer  CP 5700.  The F300 offers a twenty five per cent increase in resolution over Canon&#146s popular G3, but at about two thirds of the price (the five megapixel F 300 costs about the same as the four megapixel Canon S45) 
+
+The Minolta Corporation has been a serious player in thirty-five millimeter photography for more than half a century, but the company came late to the digital camera wars and it is always good for consumers when major corporations try to play catch up with their competitors.  The compact F 300 features an all metal body, a lens that retracts fully into the body (behind a built-in lens cover), point and shoot ease of use, and a high level of creative control for those who want to take almost complete charge of their photography. 
+
+<b>What&#146s New?</b>
+
+The most significant difference is the F300&#146s five megapixel CCD sensor (the F100 is a four megapixel camera).  Minolta has also broadened the ISO sensitivity range, added a new 11 FPS UHS mode, more creative control, better battery life, and an improved noise reduction system (the F100 has slightly above average image noise).  The F300&#146s ADSPS (Automatic Digital Subject Program Selection) mode automatically selects one of the five scene programs--- portrait, sports action, landscape, sunset, or night portrait---and then optimizes the camera's exposure and image-processing controls for the scene in front of the lens. Another nifty feature is the Digital Effects Control, which collects all the F 300&#146s image adjustment options under one function.  Color, contrast, saturation, and sharpness can be adjusted before the image is saved to memory.  Making image adjustments pre-exposure provides a better &#147digital negative&#148 for post exposure image manipulation.  The F300 also features three metering modes (multi-segment, center-weighted, and spot) and four exposure modes (program, aperture priority, shutter priority, and manual) for true ease of use AND creative control.  
+
+<i>FEATURES</i> 
+
+<b>Viewfinder/LCD</b> 
+
+The F300's real-image optical viewfinder zooms with the lens.  The viewfinder doesn't provide any diopter adjustment for eyeglasses wearers but the high eyepoint OVF allows people with eyeglasses to see the full image area through the eyepiece. I wear glasses, and I had no problems using the optical viewfinder. 
+
+The F100&#146s 1.5-inch LCD is a bit small but the top deck status LCD allows users to check settings without booting up the LCD screen, making it easier to use the optical viewfinder (and save battery power). The LCD is clear and the images are crisp and color is very good. The LCD screen automatically activates when the camera is powered up. You can use the Display button to disable the LCD screen (press twice). Press the display button three times and the LCD and information display comes back up. The LCD displays (In Playback mode) a histogram so users can double-check the exposure range. 
+
+<b>Lens</b> 
+
+The F300 features an AF Minolta &#147GT&#148 f2.8-f4.7/38-114mm (35mm equivalent) all glass (w/3 aspheric elements to ensure sharp images at all focal lengths) 3X Zoom.  The lens telescopes out when   the camera is powered up. When you turn the camera off the lens retracts behind a sliding lens cover.   
+
+<b>Auto Focus</b>
+
+The F300 offers five AF focus points and users can manually lock focus on a selected AF area. A nifty new feature enables the camera to continually adjust focus, rather than waiting until the Shutter button is pressed. This feature does lower shutter lag noticeably, but I suspect the increased power consumption may shorten battery life a bit.  The F300 improves on the Subject Tracking AF that made the F 100 so versatile. Subject Tracking AF and Area AF work in tandem to locate and follow your subject through three-dimensional space for fast, accurate, and flexible auto focusing.
+
+<b>Manual Focus</b> 
+
+The F300 provides a manual focus mode.  When the camera is in MF mode a distance scale appears on the LCD screen to help users focus precisely. 
+
+<b>Macro Focus</b> 
+
+The F300's minimum focusing distance in macro mode is seven inches, which may not seem very close for flowers, insects, and small e-bay items, but unlike most digital cameras the F300's Zoom does macro at the telephoto end of the range (most digital cameras use the wide angle end of the range for macro) which results in a larger image and a bit more stand-off distance.  This makes for better flash coverage of macro subjects. 
+
+<b>Exposure</b> 
+
+The F300 features full Auto,  Aperture Priority, Shutter Priority, and Manual exposure modes. Preset "scene" modes include Portrait, Night Portrait, Landscape, Sunset, Sports Action, and Macro modes. Shutter speeds range from 1/1,000th of a second to four seconds (Bulb mode permits exposures for as long as 15 seconds). 
+
+The F100 offers an Exposure Compensation mode that allows shooters to fine tune compositions +/-2 EV, in one-third EV increments. There's also an Auto Exposure Bracketing mode, which allows the photographer to capture three separate exposures of the same image at incrementally different settings, a very useful feature when rapidly changing lighting conditions make determining the best exposure setting difficult. 
+ 
+The F300&#146s exposure options provide an unusual level of adaptability for serious photographers and the intuitive control layout further enhances the cameras creative capabilities. The F300's flexibility makes it the almost perfect choice for families with two photographers who have widely different skill levels.  
+
+<b>Metering</b> 
+
+The F300's default Multi-Segment metering mode divides the scene in front of the camera into 270 segments, which are then evaluated by the camera&#146s CPU for contrast and color. Center-Weighted metering evaluates the central area of the frame more heavily and biases the exposure toward traditional &#147portrait&#148 composition.  The Spot-metering mode makes an exposure reading from a very small area in the center of the frame allowing more advanced photographers to bias the exposure for the most important element in the composition. For example, if the photographer wants to shoot a portrait of a backlit subject, using Multi-Segment metering the exposure will be biased by the bright light coming from behind the subject and the subject will be dark in the resulting image. If the photographer uses the spot-metering mode (by metering on just the face of his/her subject, for instance) the shot will be properly exposed to highlight the subject of the portrait rather than the bright background. 
+
+<b>Flash</b> 
+
+The F300's built-in multi mode flash (Auto, Fill, Flash Cancel, and Red-Eye Reduction modes) has a range of about ten feet. Photographers can use the exposure compensation adjustment to alter flash brightness. The F300's auto flash mode works quite well in most situations, but the versatile fill flash mode will do the job nicely in trickier lighting situations. The red eye reduction mode (like most digi-cams) isn&#146t as effective as fixing red-eye post exposure. The F300's built-in flash is considerably more effective in macro mode (because of the slightly increased stand off distance)  than most point and shoot digital cameras. The F300 has no provision for external flash use.
+
+<b>Noise Reduction</b>
+
+Noise reduction in the F300 is noticeably improved over the F100.  The F300 utilizes a high signal-to-noise ratio plus a selectable noise reduction mode that compensates for video noise in exposures of one second or longer. 
+
+<b>Image Storage</b>
+
+Images are saved as uncompressed TIFF files, or as JPEGs (at three different compression levels). The F300 uses SD memory cards and the camera ships with a 32MB card. SD cards are something of a mixed blessing. The postage stamp sized cards function faster than CF, SM, or Sony&#146s Memory Stick, but they also cost more. 
+
+<b>Controls, Design, & Ergonomics</b> 
+
+The Dimage F300, like the F100, has the lens offset at the end of the camera body, rather than centered. For long-time photographers this arrangement takes a little getting used to. The F300 is compact and easily pocketable (although it will make for a somewhat bulgy pocket). After a short period of familiarization, the F300&#146s controls and user interface become intuitive. The slick metallic body is light and compact with only a small bump on the lower left corner of the front panel to act as a grip.  This seems poorly thought out style over function (especially since the F300 is sort of homely anyway). The addition of a small grip wouldn&#146t have marred the aesthetics much, but it would make the camera easier to hold and use. Be sure to loop the wrist strap around your hand when shooting, or you might end up dropping the camera. The F300&#146s menus are simple and logical, but you will need to devote a little quality time to the instruction manual if you want to take advantage of all the cameras capabilities. 
+
+<b>Power </b>
+
+The F300 uses two AA type batteries or one CR-3V photo-lithium battery. Battery life with NiMH AA&#146s is very good if you use the optical viewfinder most of the time. Using the LCD full time will significantly lower battery life.  
+
+
+<b>Technical Specifications</b> 
+
+Resolution: 2,560 x 1,920 (5 megapixels) 
+Lens: Minolta all glass f2.8-f4.7/38mm-114mm (35mm equivalent) zoom. 8 elements in 7 groups (with 3 aspheric elements). No filter thread for add on lenses or filters 
+Viewfinders: True Image (zooming) Optical VF and LCD Monitor 1.5&#148 screen (with anti reflection coating) 
+Exposure: Auto, Aperture Priority, Shutter Priority, and Manual Modes 
+Auto Focus: Five AF points, Intelligent Area AF focusing with Subject Tracking AF system. 
+Shutter speeds: 1/1,000th of a second to 4 seconds (15 to 1/1000th of a  second in shutter-priority and manual exposure modes) 15-second Bulb setting 
+Built-in flash: Yes, multi mode with four settings.
+Sensitivity: Auto and 64, 100, 200, and 400 ISO equivalents  
+White Balance: Auto and six presets plus one custom (manual) setting. 
+In Camera Image Adjustment: Yes (color, contrast, and sharpness)
+Noise Reduction: Yes
+Video Out: yes 
+Connectivity: USB 
+Power:	One CR-V3 lithium battery or two AA Ni-MH batteries (200-250 images with full time LCD and part time flash use)	
+
+Street Price Range $495-$599
+
+<b>Included</b>  
+
+One CR-V3 lithium battery, four Ni-MH batteries, battery charger, 32MB SD memory card, AV & USB cables, wrist strap, software, and users manual.
+
+<b>Optional</b> 
+
+Remote control RC-3, AC Adapter AC-6, Metal Chain Neck Strap NS-DG100
+ 
+<b>In the Field/Handling & Operation</b> 
+
+My friend (who sells digital and analog camera and photographic equipment) stopped by on a cold wet Saturday morning and showed me the new Minolta Dimage F300.  I really liked the F100 and had been very interested in checking out its successor. We headed out for Iroquois Park in Louisville&#146s South End to search for signs of spring.  We&#146ve had a cold, wet, dreary winter and everyone in Louisville has been waiting impatiently for Spring.  Louisville has one of the best City park systems in the United States, and Frederick Law Olmsted, America&#146s most famous Landscape Architect, designed most of this system of parks.  Iroquois Park covers a large heavily forested hill that rises more than 800 feet above the surrounding suburbs. 
+
+Once you are inside the park, it is easy to believe that you are "out in the country" rather than completely surrounded by a large metropolitan area. There are several diminutive marshy areas near the top of the hill.  This mini swamp was our shooting destination.  Marshy areas are one of the first places where signs of spring appear. I have seen wild irises in bloom with their bases rimmed in ice.  We weren&#146t lucky enough to find any wild irises this trip but we did shoot some water&#146s edge shots with dark water and shiny thin ice along the borders of the small ponds (with dead brownish yellow cattails in the background.  We had to keep our compositions pretty tight because the sky was gray and ugly.  After about an hour we gave up and headed home.  
+
+For our second outing with the F300 we got lucky and had two of the prettiest days we&#146ve had since last fall, sunshine, blue skies, and temperatures in the high fifties and low sixties.  We got together early Saturday afternoon and headed for Cave Hill Cemetery, Louisville&#146s only arboretum and one of the best places in town to spot signs of Spring.  Blue skies with small wispy white clouds made an excellent backdrop to the rows and rows of white marble and limestone headstones on the hill that serves as a final resting place for the hundreds of Union soldiers killed in Kentucky during the Civil War.  The top of the hillside has a smaller number of Confederate graves. The hill slopes down to a small pond with a group of trees at the bottom.  It has long been a favorite shooting site for both my friend and I. 
+
+Some wonderful patterns take shape as you walk along the road above the headstones.  We spent an hour and were able to shoot several striking images. We drove over to the oldest part of the graveyard to check out some of the Victorian monuments.  Cave Hill is planted with thousands of trees, shrubs, and bushes. Many of these plantings are rare flowering trees and shrubs that make the grounds absolutely gorgeous in the spring, summer and fall.  We spent two hours and found nothing but two very anemic violets; I guess wildflower photography just wasn&#146t in the cards. 
+
+After the cemetery we drove to nearby Cherokee Park.  My friend and I always cruise the scenic loop that parallels Beargrass Creek and it was such a pretty day (after more than two months of dreary, cold, wet weather) that just about everybody in the Highlands appeared to be out enjoying the 60 degree spring preview. 
+
+We shot  joggers, rollerbladers, people walking dogs, bicyclists, and even one guy with a huge rucksack and an Alpine walking stick.  The ancient old growth trees threw Beargrass creek into heavy shade but we were able to get a couple of interesting shots of exuberant dogs playing in the creek and before the afternoon was over we even saw a couple of people cruising around the scenic loop in convertibles <i>with the tops down!</i>. 
+ 
+Then we drove to nearby Seneca Park to shoot one of my favorite locations, a very small waterfall on Beargrass Creek right at the edge of the golf course.  This is one of the secrets of successful landscape photographers, choose a handful of interesting locales and shoot them year-round under every sort of lighting---you&#146ll become more and more familiar with the locale and over time your images will get stronger and stronger.  I&#146ve shot the little waterfall during all four seasons and in every kind of lighting imaginable. 
+ 
+Sunday we reviewed the images that we had shot (over the past two Saturdays) and they were stunning.  The scenics from Cave Hill and the people shots from Cherokee Park were all very good.  We had tried the camera in everything from Point & Shoot mode to full manual and the F300 really is versatile and usable enough to work for almost anyone from absolute beginner to seasoned pros. We printed a couple of 8X10&#146s (with an HP 1215 and Kodak photo paper) of some of the people shots from Cherokee Park and the colors were vibrant and the resolution was sharp as a tack. The F300 has dead on accurate color and printed 8X10 images were very close to the quality level of 8X10 enlargements from ISO 100 35mm color print film. We had a great time with the camera.  
+ 
+<b>A Few Concerns</b>
+
+The F300&#146s 3X zoom is quite sharp from corner to corner with virtually no chromatic aberration (purple fringing) but the lens does exhibit some noticeable barrel distortion at the wide-angle end of the zoom range.  If users ignore the low battery warning the F300 may suffer a lens malfunction (the camera shuts down and the lens won&#146t retract fully. 
+
+The F100 exhibited higher than average noise levels in long exposures and in landscapes with large expanses of blue sky. The F300 seems to have cured this shortcoming with its improved noise reduction program. The auto white balance setting produces a slight bluish cast (cool color) in very bright sunlight. The Automatic Digital Subject Program Selection is pretty easily fooled in scenes that have a lot of activity. 
+
+<b>Shutter Lag</b> 
+
+The F300 is a very quick camera.  The Boot-up cycle (the length of time from turning on the camera until the lens is extended and the camera is ready to operate) is about 3.0-4.0 seconds.  Shutter lag is very good and write to card times are quick (due to the F100&#146s large buffer). Overall timing is faster than average for cameras in the price range. 
+
+<b>Image Quality</b> 
+
+Image quality is excellent except in low light conditions. Low light image quality is fairly good in settings with decent ambient light.  Overall the F300 competes well with five megapixel digital cameras from other manufacturers Colors are well saturated and very accurate under a variety of lighting sources and the images have good dynamic range. 
+
+<b>Conclusion</b> 
+
+The F300 one of the neatest digital cameras around, it isn&#146t often that you find a camera that is so well designed that two photographers with vastly different skill levels can both use it with great results. The F100 may be the best family camera that I&#146ve ever used, kudos to Minolta for listening to consumers and adopting many of their suggestions while designing this camera.  If you don&#146t need five megapixels, consider the Dimage F100.  The F100 has most of the features that make the F300 neat and four megapixel resolution.  Now that the F300 is available I suspect F100 prices will drop nicely making the camera a real bargain.
+
+
+Links
+
+ 
+Are you considering spreading your imaging wings and setting up a home digital darkroom? Check out my reviews of a bargain priced and very capable photo quality ink-jet printer. 
+
+<b>Epson Stylus Photo 785 EPX</b> ink-jet printer 
+<a href="/content_60776812164">http://www.epinions.com/content_60776812164</a> 
+ 
+For definitive advice on <b>How to Choose a Digital Camera</b> please see my review: 
+<a href="/elec-review-2E46-17B174E2-39A418E3-prod1">http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+For more information about competing five megapixel digital cameras you may find the reviews listed below informative: 
+
+Nikon Coolpix 5700
+<a href="/content_70131814020">http://www.epinions.com/content_70131814020</a>
+ 
+Sony DSC F717
+<a href="/content_79857684100">http://www.epinions.com/content_79857684100</a> 
+
+Olympus Camedia C50
+<a href="/content_81891724932">http://www.epinions.com/content_81891724932</a>
+
+Olympus Camedia C5050
+<a href="/content_82693164676">http://www.epinions.com/content_82693164676</a>
+
+Olymous Camedia E 20N 
+<a href="/content_54953348740">http://www.epinions.com/content_54953348740</a> 
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,82 @@
+DOC>
+<DOCID> 6489 </DOCID>
+<PRODUCT> Digital_Cameras/Kodak_Easy_Share_DX3600_Digital_Camera_w_Dock__U___Camera_1032630k1 </PRODUCT>
+<URL> http://www.epinions.com/content_74074590852 </URL>
+<TEXT>
+            <B> Who the camera's for </B>
+
+The Kodak DX-3600 is squarely marketed to consumers who want a digital camera that behaves like a point-and-shoot film camera. For them, the �red-eye flash� button is an advanced and exotic feature. They don't want to know about JPG compression, couldn't care less how many megapixels their camera is (so long as they can get good-looking prints made at Wal-Mart), and wouldn't know what to do with a �Tungsten� setting. The 3600 shelters its owner from any of these concerns, making all photographic decisions on its own.
+
+Much of Kodak's marketing ties the camera with their docking system, which is sold either with the camera or as an option. The idea is for Aunt Bernice to put the camera it its cradle when she gets home, and the system automatically tops up the NI-Mh battery pack that comes with the dock while it transfers Bernice's latest images to her computer. For all this automation, Kodak wants an extra $80. If you plug in the USB cable that comes with the camera yourself, and recharge your own batteries, you can save the $80. I did.
+
+<B> The pertinent specs </B>
+
+2.2/2.3 megapixel CCD
+Glass lens
+2x optical / 3x digital (aka fake) zooms
+auto-focus (seems to perform an auto-focus routine when you press the shutter half-way)
+1.5 inch colour LCD screen
+optical viewfinder
+Flash
+Compact Flash port
+USB port
+8MB onboard memory
+microphone (!) for capturing audio to accompany movies
+tiny speaker on the camera's top for playing audio back
+NSTC/PAL video and audio out
+
+The DX-3600 is currently the cheapest camera available with 2.2 megapixel resolution and an optical zoom. Its cheaper little brother, the DX-3500, shares most of these specs, but lacks the zoom. The DX-3700 is also similar to the 3600, and while it has better resolution (3.0 megapixels), and is usually cheaper than the 3600, it also lacks an optical zoom. I decided I wanted a zoom more than I wanted more pixels.
+
+Inside the box
+
+- Camera
+- Case (a little bulky, but good enough as a freebie)
+- USB cable
+- Video/Audio cable for connecting the camera to a TV
+- Docking insert (kind of like a panty-liner) for use with the optional dock
+- Lithium battery pack, shaped like two AA batteries moulded together
+- Wrist strap
+- Manual 
+- Software CD
+
+I believe North American buyers get a real manual. Here in Asia, my camera came with one of those manuals-on-CD, in 16 different languages. 
+
+Everyone who purchases any digital camera, including Aunt Bernice, should invest in a few sets of NiMH batteries, a charger, and additional memory. An insert included with the box claims the DX-3600 will take 150 pictures on a pair of NiMH cells. This seems high to me � in my experience, I can get between 60-80 per charge, depending on how much I'm using the flash and for how long the LCD display is turned on. Incidentally, there is no DC power jack.
+
+The on-board 8MB is only enough for 12 images at best quality. A 128MB Compact Flash card (about $60) can hold 200 full-sized images between downloads. 
+
+<B> Using the camera </B>
+
+You turn the camera on by flicking a switch located just beneath the lens. This slides open a protective lens cover and causes the camera to boot up. It takes just under 10 seconds for the camera to be ready to take pictures. 
+
+The main operation of the camera is just like on a point-and-shoot 35mm or APS camera. The camera has a flash setting button, a rocker switch for the optical zoom, and a shutter button. And that�s basically it. A four-way rocker button navigates the menus, but these menus are mostly used for reviewing and deleting pictures, choosing between �best� (1800x1200) and �good� (900x600) image sizes, and system functions like setting the clock. For basic image taking, the camera controls the details. It's all very simple and easy, but experienced photographers will be driven crazy by the lack of manual controls.
+
+There's a half-second pause between pressing the shutter and the camera taking the picture. In that time, the camera makes final auto-focus and exposure adjustments. It's not annoying to be, but it's noticeable. There's also a 7-10 second wait between pictures in best mode for the camera to write to the card, recharge the flash, and get itself ready for the next shot.
+
+The camera also features a "video� mode, which captures small Quicktime-formatted images at 20 frames per second (real video is 30fps). The zoom and flash are disabled in video mode, and resulting indoor movies suffer from an erratic auto-white balance that causes colours to flicker, and generally too-low light levels. It�s an add-on, rather than a major feature. If video is important to you, consider purchasing a real camcorder.
+
+<B> What I like </B>
+
+Images from the DX-3600 are extremely sharp, with rich, Kodak film-like colour. Though you can't make many adjustments, the camera does a good job of figuring out the ideal settings for most situations. Colours are especially well-balanced on indoor shots, an Achilles� Heel for most inexpensive digital cameras. Extremely low light (say, candlelight) results in somewhat noisy and grainy pictures, but this is also the case on many digital and film cameras.
+
+I like the 2x optical zoom. When 2x is reached, further pressing the zoom rocker kicks in the digital zoom in .2x increments, all the way up to 6x. Generally, digital zoom should be avoided (you can do a better job resizing back on the computer), but two or three increments of it helps a little. Beyond that, the pixels get stretched too much to be usable.
+
+<B> What I don't like </B>
+
+The software takes over the computer, with start-up splashes and ugly messages every time you turn your PC on. If you have XP, like I do, don't bother with the included software. XP identifies the camera automatically without additional drivers. Use Microsoft Photo Editor (included with MS Office), or Paint Shop Pro. both are much better editing tools than what Kodak supplies.
+
+If you look through the viewfinder with your left eye � as I usually do � your oily nose rubs up against the bottom of the LCD screen. Skin oil is NOT good for LCD panels, so I'm frequently wiping the display with an optical cloth. I'd still rather than that than try to switch to my right eye for viewing. It's a left-handed thing, I think. 
+
+Speaking of left-handed things, If you hold the camera with two hands, your left hand runs the risk of covering the lens, which is positioned near the edge of the camera. It's something to stay on guard for.
+
+The DX-3600's design is clearly function over form. It looks like it could be Baby�s First Digicam by FisherPrice. The unit's light � too light. It almost as if it's partly empty. I believe they could have made it smaller and therefore given it a more solid feel. As it is, it won�t fit in a shirt pocket. It's also, in my opinion, ugly in a bulky kind of way. It personally doesn't bother me � maybe I'm ugly in a bulky kind of way - but if you're into cool looking cameras, consider a Nikon or an Olympus.
+
+<B>Conclusion</B>
+
+I'm pleased with my DX-3600. I spent a lot of time researching the purchase and got what I wanted, with no surprises. But as it lacks many basic controls commonly found on digital cameras, the DX-3600 is not for everyone.
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

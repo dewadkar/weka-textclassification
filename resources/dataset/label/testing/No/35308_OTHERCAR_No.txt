@@ -1,0 +1,20 @@
+DOC>
+<DOCID> 35308 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_CasioQVV-Casio_QV-7000SX </PRODUCT>
+<URL> http://www.epinions.com/elec-review-6C78-38A55547-39BBF3B2-prod5 </URL>
+<TEXT>
+            I use this camera to take pictures for a club I am a member of. It's great for taking pictures that are set-up. Since it takes the camera several seconds to refresh after taking a picture it is not at all suited to take spontaneous shots of moving objects. If you do, then you might only have one chance of getting a good picture, because the object might be gone by the time the camera can take the next picture.
+
+The resolution of the pictures is actually quite good, over 1 megapixel. However, if you are using these pictures for web design, this feature is irrelevant, since you can never use pictures this big on the web and have to save them in lower resolution anyway.
+
+The biggest problem with this camera however is the battery drain. It does not have a built-in rechargeable battery, so you need to put in 4 new AA batteries all the time. The battery life is barely 30 min of keeping the camera on.
+
+The software that comes with it is also pretty useless. However, Casio provides a driver that allows you to import pictures form the camera directly into any of the standard imaging software packages.
+
+Overall, this camera is not bad, but if you have a choice get one with a rechargeable battery and a faster refresh rate. Don't worry about the max resolution, since you will rarely need it.<br><br>
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

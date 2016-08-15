@@ -1,0 +1,18 @@
+DOC>
+<DOCID> 36201 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Ford_Focus </PRODUCT>
+<URL> http://www.epinions.com/auto-review-4A1F-B67C9C8-386C7C19-prod3 </URL>
+<TEXT>
+            It's a good car, a great concept, and a faulty execution:
+Okay, it has a lot more room than one should expect in a compact design. It probably saves more gas than it uses, and it is light years ahead of its predecessor in style and design.
+Yet, it has some true flaws:
+1.NVH - noise vibration and harshness - come on guys, compare this to the Toyota Corolla or Honda Civic - it needs a more refined engine.
+2. Manual transmission - if a 4 cyl engine is going to properly perform, it needs to marry its transmission, not just shack up in a drunken stupor for the evening. The stick shift on this car is baulky, with a heavy feel and a lack of convincing precision. Once again - learn from Honda and Toyota.
+Insufficient road isolation - understandably, it's a small 4 cyl car - yeat more could be done to make it more than a 2 hour drive. I wouldn't want to do the cross-country thing with it.
+<br><br>
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

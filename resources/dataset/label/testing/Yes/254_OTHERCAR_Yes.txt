@@ -1,0 +1,21 @@
+DOC>
+<DOCID> 254 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_Powershot_G1 </PRODUCT>
+<URL> http://www.epinions.com/content_51856576132 </URL>
+<TEXT>
+              The body of this camera is very nice. It's a little heavy, but that makes it easier to steady while taking a shot.
+  The LCD swivel screen is awesome, allowing you to see a preview of the picture from in front, above, below, beside, and directly behind. And, it's an actual preview, taking into consideration settings (f-stop, shutter speed, etc.) to give you an idea of what the finished picture will look like.
+  Taking pictures is easy - you press the shutter button down half way, and after it has focused and gathered settings of the environment, it beeps, telling you it's ready to take a picture. If the orange light comes on, that means the picture might not turn out well (too little light, too much light, not sturdy - long shutter speeds).
+  It takes Compact Flash cards, types I and II. It accepts the IBM microdrive also, which I haven't tried out. I can store more than 75 top quality pictures on a 128MB card, depending on the picture.
+  The camera comes with a remote control which has everything you'd expect. Nice addition.
+  I especially like the DPOF settings for digital printing. I have an HP Photosmart 100 portable printer that accepts compact flash cards. I choose the pictures I want to print on the camera (size, quantity), and the printer automatically recognizes the settings and prints accordingly.
+  One complaint, however, is that almost all pictures turn out with a sort of red "screen" across it. It is all fixed with Adobe Photoshop's "Auto Levels" filter. When one compares the original and modified picture, the original clearly has a red "screen."
+  One other complaint is the overexposed parts of the picture. The camera does do exposure bracketing, which I haven't tried. But, I like to take one picture on Auto sometimes, and when photographing something against a bright sky, the brightness burns out into the picture.
+  One excellent thing is the rechargeable lithium ion battery. I don't know exactly how many pictures it will take on one charge, but I've never had to worry about it because it lasts so long. I'd estimate more than 150 with using the LCD.
+  Other great additions are: support for external lens converters, external flashes (hot-shoe), standard tripod screw on bottom.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,60 @@
+DOC>
+<DOCID> 27768 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_PowerShot_S100 </PRODUCT>
+<URL> http://www.epinions.com/content_18993090180 </URL>
+<TEXT>
+            What comes in the box:
+
+Canon s100.
+approx. cost: $450
+- Canon S100 camera
+- Rechargeable battery (w/charger mechanism)
+- Wrist strap
+- 8 mb CompactFlash card
+- Software (for Mac and PC)
+- USB cable
+
+What are the image sizes?
+Fine, small: 153 kb
+Fine, large: 580 kb
+Superfine: 1458 kb
+
+Consider buying these upgrades immediately:
+
+1 - Additional CompactFlash memory.
+approx. cost: 100$ for a 128mb CF card (the cost varies considerably based on number of mb size)
+Upon your first use, you will have to immediately confront capacity issues with the 8mb CompactFlash card. For example, this standard 8mb CF card will fill to capacity with 4 hi-res shots! Once your memory is "full" you cannot take another shot; in order to take additional shots, you have to make room on the card by erasing one of your images. Of course this doesn't help because you want to keep your images, not erase them!
+
+2 - Additional battery.
+approx. cost: 55$
+Again, after your first session with this camera you will realize how quickly the camera drains the battery. This is only a hassle if you don't have a backup battery. If you don't have a backup battery and you are somewhere remote, away from an electrical outlet, you can't use the camera. However if your battery goes to zero and you have a charged backup, then you are ready to get shooting again!
+
+About the camera:
+
+Open the box.
+Taking the camera out of the box and starting the initial setup is exciting; the idea of having digital -- no film -- images begins to materialize as you unpack each of the components. 
+
+Charge the battery.
+The first thing you learn is that you have to charge the battery for the first use. However it's not as bad as a cordless telephone battery (having to charge it overnight). The canon battery charges in a speedy 2 hours! While you wait for the battery to charge you can load the Canon Powershot software on your computer.
+
+Load the software.
+This process couldn't be easier. You can install the software on either a Macintosh or a PC; I installed on a Mac. While loading the software onto the machine the booklet I was reading stated the software will automatically sense the Canon attached to your computer and will run the software automatically. I thought this sounded far-fetched and decided to cast final judgement once I got the entire configuration completed. By this time my battery was charged so I decided to take some shots.
+
+Shoot some images.
+I popped the battery in, then I inserted the CF card. Turn the camera on and bingo! You can start taking images. I kept the system configured to the default settings while taking the initial shots; the factory resolution is set at medium so each shot taken was using 600kb on the CF card. I learned hi-res shots take 1.5mb per shot -- luckily I had purchased the 128mb CompactFlash card!
+
+Download the images.
+Once you have some images shot, you will need to download the data to your computer. Connect the USB cable provided by the manufacturer to the s100. (bear in mind, there is no serial support -- it's USB only!). The software automatically senses the s100 has been connected and starts itself up; the next thing you know you are looking at the images onscreen. I have to hand it to the creators of this hardware and software, it really is a "no-brainer" to use. I even think someone who is inexperienced with technology could get used to this! Once you download the images, you can delete the images from the CF card. Unplug the camera and you're ready to start shooting again.
+
+Functionality. 
+If you are experienced with configuring your cell phone and manipulating settings on your computer software programs you will have the ability to operate your Canon s100. There are a variety of modes and features to the camera that make it a joy to use. 
+
+Tiny size.
+Yes, this camera is a mere fraction of what you are used to! I love being able to pop this camera into any pocket: breast pocket on a shirt, small pockets on lightweight jackets, even pants pockets. I have not had a problem with any of the buttons being too small to use. I am average size and build. 
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

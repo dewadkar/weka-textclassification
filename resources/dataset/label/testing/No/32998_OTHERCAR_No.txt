@@ -1,0 +1,38 @@
+DOC>
+<DOCID> 32998 </DOCID>
+<PRODUCT> Digital_Cameras/Minolta_Dimage_7i_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_75098918532 </URL>
+<TEXT>
+            Compared with my previous camera (a Nikon Coolpix 950), I found this model very difficult to use and was often frustrated by its inability to focus - see under Problems for more details. 
+
+I have had it for over two months now and am running into new obstacles every week. I intended to give it the benefit of a doubt, but my doubts are becoming stronger each day. I saw beautiful pictures posted by other D7i owners, and I am wondering why I can not produce what they can. Is it my lack of experience, or is my camera faulty?
+
+The camera does have lots of features. But if you are not experienced in photography, stay away from this model. To produce good shots, you have to use several buttons and wheels and by the time you are done, the opportunity may be gone. Its various automatic modes have too many shortcomings to produce good quality pics.
+
+The manual, while well organized, does not tell you crucial things you need to know about how to take good pictures. For example, the flex focus needs to be pointing at a vertical line to work - a horizontal line will confuse it. This is something I learned from reading this Minolta forum. The manual does not mention it. 
+
+I have contacted my local Minolta authorized repair center for help with my camera's autofocus and white balance problems, and their tech support person is on vacation until Sept. 16th. When he is back, I will ask him to help me. If he can't, I will ask Minolta for a refund, or I will sell this camera.
+
+ 
+
+
+Problems
+Autofocus is slow and unreliable. Even under closely controlled conditions (using a tripod, remote release, subject does not move, and camera confirms focus on the subject) it can produce out of focus images. I have pictures to prove that. It's impossible to tell whether an image is in focus by looking thru the EVF and the LCD - both before and after the picture was taken. The only way to know for sure is by viewing it on a computer, and by that time it's too late to correct.
+
+The "Custom white balance" does not work - I get a "Custom WB error" whenever I try to set it. The manual does not explain what to do about that. I have sent a request for support to Minolta and am awaiting their response.
+
+Sometimes it locked up when I changed any setting while it was writing to the card. I had to open and close the battery compartment to make the camera operable again. 
+
+No indication on EVF or LCD that the self-timer has started - only on the panel.
+
+Eats batteries fast. Could use a better power management system.
+
+Manual needs an alphabetized index, and a much more detailed trouble-shooting section.
+ 
+
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

@@ -1,0 +1,14 @@
+DOC>
+<DOCID> 11428 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Toyota_4Runner </PRODUCT>
+<URL> http://www.epinions.com/auto-review-48F1-4C5678B-391CA118-prod6 </URL>
+<TEXT>
+                 4Runner is a great SUV! From the very first time we test drove it, we absolutely loved it! The handling, sound system, and stability are fantastic. The leg room and trunk space are, well, spacious. There are a few problems, though. The V6 engine is (my dad told me this, but I don't know if it's true) supposedly the same V6 as the Sienna, Camry, and the Lexus ES300. Yet, it only has 183 hp, while the Sienna's was designed to have 194, and the Lexus is over 200 or something like that. (Hey, I'm a 6-grader, so don't expect me to know much about cars.)
+     Actually, I don't think this SUV only deserves 4 stars, but something more like 4.3, so I just put 4.
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

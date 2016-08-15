@@ -1,0 +1,22 @@
+DOC>
+<DOCID> 16419 </DOCID>
+<PRODUCT> Digital_Cameras/514341_Nikon_Coolpix_775 </PRODUCT>
+<URL> http://www.epinions.com/content_41097924228 </URL>
+<TEXT>
+            The Nikon CoolPix 775 digital camera is a great product.  I purchased the CoolPix 775, my first digital camera, after extensive research.  I was looking for a camera to bring along on vacation and allow me to post photos to my web site.  I am also a member of my neighborhood citizens� association and we use the camera to take photos of trash code violators and signs of rats in alleyways (we can then report the violations to the city for cleanup and citations).
+
+The CoolPix 775 is very simple to learn and use.  One of the key features is the �Scene Mode� dial.  There are eight modes to choose from:  one is fully automatic, the other seven may be used for specific situations including �Landscape�, �Portrait�, �Sunset�, �Beach/Snow�, �Night Portrait�, �Backlight�, and �Party/Indoor�.  The different modes change to the appropriate settings for focus, exposure and color balance.
+
+I am running the preview edition of Windows XP Professional on my home computer.  Getting the camera to communicate with the PC could not have been easier:  I simply plugged the camera in using the included USB cable and Windows XP immediately recognized the new device and installed the correct drivers.  I have not installed any of the software included with the camera � I have been using XP�s built-in digital photo software and it works great.
+
+My girlfriend and I have used the camera for several weeks in many situations, as well as handing it to companions to take their own photos.  Generally, the camera is a pleasure to use � we use the AUTO setting for just about every situation and consistently end up with very nice photos.  
+
+One difficulty working with the camera is the fact that there is a slight, but noticeable, delay between the time the shutter-release button is pressed and when the camera actually takes the picture.  The delay varies, but seems to be between one-quarter of a second to one second.  That delay may not seem like much, but it makes it tricky to know when you�ve actually got the photo you want.  More than once, someone has clicked the button, then moved the camera before the photo was shot, resulting in several shots of the cameraman�s feet.  Since there is no audible �click� or tactile feedback from the camera when the photo is physically taken, it takes some getting used to.  Each person we handed the camera to had the same complaint.
+
+You can view pictures taken with the CoolPix on my web site at http://www.kennyp.com
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

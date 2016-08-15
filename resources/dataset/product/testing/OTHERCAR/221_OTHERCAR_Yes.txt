@@ -1,0 +1,37 @@
+DOC>
+<DOCID> 221 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_Powershot_G1 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-3773-163C7037-3A357105-prod4 </URL>
+<TEXT>
+            I've been wanting a digital camera for almost three years, since the days of 'high-resolution 640x480' pictures, but would never take the plunge because the technology was not 'right' yet. The Canon G1 made me change my mind and am I pleased I bought it!
+
+To make easier to read the review, I'll separate it into topics:
+
+1. IMAGE QUALITY
+That's the most important thing for me, and any top 3.3 MPixel camera  will get you a very good picture. It is still less than half the quality of 35mm pictures taken with a good SLR camera, which tops at about 8 MPixels, but if you are gonna used it digitally, the scanning process would probably even things out. That said, a $800 dollar digital camera can already take on a $200 SLR...
+
+2. FEATURES
+Here is where this camera shines. It is the only one that has a ISO 50 mode, that produces great pictures. As with any other camera, using it at 400 ISO produces images with extreme noise, so you will want to go up to 100 or maybe ISO 200. But being able to view in real time the effect of aperture and shutter speed compensates for it in a sense.
+The battery is fantastic, and you can take more than 500 pictures without having to recharge it. I don't even think a spare is necessary, unless you will be in the wild for some time.
+And there's still the RAW format, a lossless format (a la TIFF) that occupies 1/3 of the space an uncompressed TIFF does. Very useful, for you can set up white point, contrast, sharpness and saturation without losing any image quality. If you are taking critical pictures, this is a gift from heaven.
+For comparisons with other cameras, check out this cool site: www.dpreview.com
+
+3. CAPACITY
+Oh boy, if you are going to buy this camera, do yourself a favor and buy the IBM Microdrive. What about taking 130 pictures in RAW or 160 in JPEG (maximum quality) without having to upload them to your PC? Yes, being able to use the microdrive was the deciding factor for me to buy this camera. And that's for the 340MB microdrive, but it is also available in 512MB and 1GB. You do the math.
+
+4. ADD-ONS
+What I really would like is to be able to use SLR lenses with digital cameras, but that's not possible with the G1, in truth it's not possible with any camera in this price-range.
+You can buy a macro lenses (x.8) or zoom (x1.2), however it is really not worth the money. It is too little for too much.
+
+5. CONCLUSION
+I have some gripes about it, the most severe being the auto-focus feature (a pain to use, a lot less precise than the Canon 1000FN SLR I have); and the pain that is using manual mode with flash and the LCD not compensating for it, so turning black at a high shutter speed/aperture combination.
+
+But take my word: this is a great machine, that will not only amaze your friends (it has happened with me all the time, mostly in parties) but also amaze you with it's features, image quality, battery life and capacity with an added microdrive.
+
+In other words, if you are willing to spend $800 in a digital camera, go for a Canon G1. If you are willing to spend $1050, buy the G1 and a microdrive. You won't regret it.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

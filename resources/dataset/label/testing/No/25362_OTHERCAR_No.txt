@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 25362 </DOCID>
+<PRODUCT> Digital_Cameras/elec_AgfaePhotoo-Agfa_ePhoto_CL30_Clik_ </PRODUCT>
+<URL> http://www.epinions.com/elec-review-74CD-92BD287-3866C3D9-prod2 </URL>
+<TEXT>
+            The Agfa ephoto CL30 is pretty and rather lightweight. You'd think it was easy to use. Well for an experienced digital camera user maybe.  Unfortunately it is not that easy for the novice.  After finally figuring out how to take pictures with it, we couldn't get it to download the pictures onto the computer. It is supposedly Windows and Mac compatible. We couldn't get it to work with the USB on the Mac, and finally got it to work on Windows. Unfortunately it didn't come with a power adaptor and the batteries wore out before we could get the pictures downloaded. Now who ever thought of designing this camera was not good at math. They designed a camera that uses 6.5 volts. But can only hold 4, 1.5 volt batteries. You do the math, we're short .5 volts. Which means the batteries wear out VERY QUICKLY!  Now try to go to Radio Shack or anywhere else and get an ac adaptor that does 6.5 volts. Forget it! They only have 6 volt. Which means you have to buy the special ac adaptor from Agfa. Granted the whole reason we chose this camera was the cost, and our inexperience was showing. The purchase price was $249 with a $50 rebate, of course the ac adaptor cost $50.77 plus shipping.  Well like I said, it is pretty and lightweight.  Was the price right? I'm not so sure. Maybe a more expensive brand wouldn't have given us the headaches this one has.  If we can only get it to work on the Mac! <br><br>
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

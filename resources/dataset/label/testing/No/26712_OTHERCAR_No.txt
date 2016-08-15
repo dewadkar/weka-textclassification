@@ -1,0 +1,35 @@
+DOC>
+<DOCID> 26712 </DOCID>
+<PRODUCT> Digital_Cameras/614723_Olympus_D_360L_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/elec-review-420E-18298960-39874A36-prod2 </URL>
+<TEXT>
+            Summary: Cheap, and has some nice features, but has some real problems taking high contrast pictures.
+
+The Olympus D-360L is a cheap digital camera with an LCD, but no zoom. Read somebody else's review for the detailed specs on this camera, I'm just going to provide an opinion.    
+
+Bad: no zoom. That's ok, for this price. I miss zoom sometimes, but usually I can move around enough to make up for it. For $300, who cares.
+
+Good: it has an LCD. I don't use it very often, because of the high battery drain, but having it is very useful at times.
+
+Worst of all: this camera cannot handle images with contrast in them. Take a picture where there is a some shade on a sunny day, and the shade will come out almost black.  I cannot count the number of times this destroyed a good shot.  This can be dealt with a little via software on the PC time, but it takes time, and the results are never perfect.  My member picture at left had to be manipulated to look OK, and it wasn't even that high contrast a picture.
+
+Good: in uniformly low light it takes bright, crisp pictures.
+
+Good: Images are stored on Smart Media, a cheap and very small flash 
+memory card. $20 for 8 megs.
+
+Bad: The optical viewfinder cannot be used until you turn on the camera, because it's covered up normally. Makes it a bit harder to conserve the battery.
+
+Good: quick to turn on (less than four seconds)
+
+Bad: changing settings is a pain, and you will need to change them often
+
+Bad: No USB support out of the box (but you can buy an adapter).
+
+In the end, I really wanted to like this camera, but due to the contrast issue, I don't. For the price it's pretty good, but I wish I had spent another $100 and gotten something that was better.<br><br>
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

@@ -1,0 +1,41 @@
+DOC>
+<DOCID> 28198 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Argus_DC3500_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_104178683524 </URL>
+<TEXT>
+            I own Argus DC3550 instead of DC3500. The model I have has 3xoptical/2xdigital zoom and can take up to 2.1 Megapixels JPEG picture. This is my first digital camera and so far I am satisfied with its performance.
+
+Pros:
+- Price is low if not the lowest. Good for entery level photographer.
+- Big 1.8" LCD display.
+- build in flash with auto/red eye/night/fill-in options.
+- Has Video Output function.
+- Comes with a camera bag.
+
+- Easy to set up when you first use it.
+- User friendly USB PC interface. Just plug in Windows ME/2000/XP and the machine will recognize the camera as a removeable driver.
+- The picture taken is clear even in the 640x480 mode. I tried taking pictures outdoor and indoor with 60 Watts light on. The pictures are terrific.
+
+Cons
+- The batteries drain very fast. I can only take 20 pictures when my 4 AA alkaline batteries died. I have to use NiMH rechargeable batteries instead.
+- Can only take 12 seconds movie.
+- You have to take off the len cap before you start the camera. Otherwise it will shut off automatically.
+- The power button seems not functioning properly sometimes. 
+- No AC adapter. 
+
+There is a combination of 6 different qualities- 
+2 poss. resolutions: 1600x1200 (which still isnt 2.1 mp tho??) & 800x600; and 3 poss. compressions: super fine, fine, normal
+This yields (w/ the onboard 8Mb) anywhere from 6 to 95 pictures.
+
+When you want to download the pictures to your computer, you have to plug it in with the USB and go into a temporary folder, that pops up, to get them. Then you have to save them to another folder on your computer or in MGI PhotoSuite to be able to do anything with them. REASON: when you disconnect the camera, the folder disappears. (They tell you this in the manual)
+
+Considering the price of this camera and the features it provides, I rate this camera as 4 star. If you are a beginner and your budget is tight, this camera is absolutely a choice.
+
+
+
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

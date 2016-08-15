@@ -1,0 +1,32 @@
+DOC>
+<DOCID> 22626 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2003_Honda_Civic_Hybrid </PRODUCT>
+<URL> http://www.epinions.com/content_106158526084 </URL>
+<TEXT>
+            All this talk of a hybrid Civic intrigued me.  From a technological standpoint, hybrid gas/electric powertrains are a pretty interesting concept to me, and I think they have a lot of potential.  I saw Honda's first hybrid, the Insight.  That was more of an experiment than a car.  It was extremely light (meaning it got blown around on the freeway by passing trucks), impractical (only sat two, and very little room for stuff) and expensive (well over $20,000 if memory serves).  The Civic Hybrid is what they should have done in the first place; put the new powertrain in an existing platform.  I mean, everyone knows what a Civic is.  If you looked under "Basic Transportation" in the dictionary you'd find a picture of a Honda Civic.  They're ubiquitous.  Obviously though, Honda was waiting for the Civic's upcoming redesign before dropping this high-tech powerplant into one of its top-selling models.
+
+From the outside, this particular Civic looks like, well, any other Civic.  It's conservative without being bland.  The only real way to be sure it's a hybrid is to look for the "HYBRID" tag on the decklid.
+
+The interior is pretty basic as well.  Nothing fancy here, folks.  It's roomy enough up front to accomodate most adults, but the back is for kids only.  Seats are comfortable and supportive, and the fabric is of a good, but not great quality.  All the controls are where you expect them to be.  Everything makes sense.  The only thing in here different from a regular Civic is the extra gauge on the dashboard that tells you what the electric half of the motor is doing.  To be honest I really don't think this is all that important.  It seems rather superfluous, and while it's nice to know what's going on I can't see any reason to care.
+
+The powerplant is totally transparent.  When stopped, the engine shuts off to conserve fuel and to reduce emissions.  When you're ready to go, it starts back up again without you even noticing.  Most of the time the engine is doing most of the motivation work.  The electric motor only runs things when the car is idling, and when extra power is needed.
+
+The gasoline half is a 1.3L inline four, about 400ccs smaller than the stock 1.7L conventional unit.  Together the combo makes a modest 93 horsepower, but you weren't planning to bracket-race this thing anyway.  This car is made for the long haul.  EPA fuel mileage is 46 city and 51 highway, and with a 13-gallon gas tank that means...well, that means you can go a LONG way between the pumps.  With that kind of mileage you might just forget what a gas station looks like.
+
+The performance of the Civic is...how do I put this nicely?....tepid.  Like I said, you won't be taking this thing to the drag strip.  Acceleration is modest at best, and the car has virtually no midrange power, which means you'd better think twice about passing that semi on that narrow 2-lane.  Brakes are okay for this class, but a little grabby.  This is probably due to the regenerative braking used to help recharge the car's battery bank.  It takes a little getting used to, but it's nothing major.
+
+Handling on the car is good enough for a car like this.  It's compliant enough to not knock your fillings loose, and competent enough to avoid that truck tire in the middle of the freeway.  There's lots of roll and dive however.  It's not a sportscar.
+
+There's one thing that's hard to swallow about this car.  At nearly $20,000, it's a lot to pay for what's essentially just an econobox.  The amount of money you'll save in fuel costs won't make up for it, though the tax credit you can claim will go a considerable way toward making up for it.
+
+This is the point where I discuss reliability for the car I review.  I don't see any reason to this time.  It's a Honda.  That should be enough.
+
+All in all, the Civic Hybrid isn't a bad car.  It's not for everyone, but if you're the type who wants to do his or her part to save the world, then the Civic Hybrid might just be up your alley.
+
+There isn't much to compare this car to right now.  There's only one other hybrid sedan on the market, and that's the Toyota Prius, a similarly-sized and priced car to the Civic, but with much more interesting styling.  Both vehicles are just about as good as each other.  If you're just looking for a small, fuel-efficient economy car, then the list of choices is far too long for me to repeat here.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

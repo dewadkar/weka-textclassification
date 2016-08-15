@@ -1,0 +1,41 @@
+DOC>
+<DOCID> 7314 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_OlympusDigitall-Olympus_D-460_Zoom </PRODUCT>
+<URL> http://www.epinions.com/content_24808164996 </URL>
+<TEXT>
+            I got this camera for my wife.  I consider myself an advanced amateur, but my wife is point & shooter.  We are both happy using this camera!
+
+This camera can be as simple or difficult as you want to make it.  It can be operational with a brief review at a few of the available functions, or you can get more involved with the panoramic functions, exposure selection (+ or - several stops), the metering selection,(spot or averaging), flash selections, and the list goes on.
+
+All the information on it's capabilities is found at the olympusamerica.com website, and while most cameras come with 1 fair-sized book with mutiple languages, this camera comes with 3 fair sized books, each in a different language.  (yes, English is one of them).  It's kind of intimidating, but there is a quick reference card, and as you get familiar with a few functions, you can read on and learn more.
+
+It's rated at 1.3 mega-pixels, but since it can store a picture uncompressed (TIFF), and the lens quality is great, you can get a better quality picture than most other 1.3 mp rated cameras.  For the use that we have, being able to take a picture, download it onto the computer, and email it to friends & family, we haven't yet required anything more than 1280X960.  It comes with an 8Mb Smart Card, and you can get about 36 pics using the medium quality mode, vs somewhere between 2 and 6 pics using the best quality available.  The only time you may want a better quality picture is if you are going to print it larger than 8X10, and frame it.
+
+You can't set the shutter speed, it doesn't come with a USB port, and you can't plug in an external flash for better portrait pics or side-lighting of still pics.
+
+The actual picture is much more than what's displayed in the view finder.  It would be OK for film you have to send in for prints... most do some major cropping... but with digital, you can crop any way you want, so the viewfinder should be closer to the actual picture.  To find out what you are getting, you have to use the LCD panel, which uses up more of your battery.
+
+The connection for the tri-pod is way of to the side, fairly close to the edge, on the opposite side of the shutter release button.  This can put a lot of stress on the tripod socket, and makes the camera unstable if you use a small tripod like a table-top tripod, or a small ball/socket tripod head.  If you use a tripod, I strongly recommend using the timed shutter release to keep the camera steady.
+
+We resolved the download prob by getting a USB smart card reader.  It made sense to me because you can plug it in, and leave it.  If we used the camera as the download agent, then we would would have to constantly dig out the camera and plug it into a serial port (or USB port for a different camera), causing wear & tear on the ports, along with lowering the life of the camera battery, or else plug the camera into some available socket(between the computer, printer, monitor, scanner, light and adding machine, there's not much left).  The card reader uses the power from the USB port, the memory card is already out of the camera because it's full, so all that's needed is to take the card, download it, and it's available for use.  (what can I say... I'm lazy)
+
+I have some flood lights, so I believe that by using the fill flash mode, portraits should come out pretty good... haven't tried it yet.
+
+Only had it a few months, so don't know how well the support is.
+
+Had too much fun showing pictures off of the camera to determine how many exposures we can get off of it.
+
+Had the camera for about 4 Months now... tried taking some action shots of the wifes' cats.  There is a delay of a few seconds between pushing the shutter button, and the picture actually being taken.  This is mainly because of the auto focus and autoexposure.  When you press down part way, it will automatically adjust the focus & exposure, then when you press all the way down, it will take the picture.
+
+So, to take the action shot, you have to focus on an area about where you expect the action to take place, press the shutter button down 1/2 way and hold it there until something happens, then press it the rest of the way.  The camera will then take the picture immediately.  I noticed that when trying to get the action shot, it was easier looking at the back LCD screen than through the view-finder.
+
+To get the action shot of the cats, I tied a string around a toy mouse, and tied the other end of the string on a stick, and while waving the stick/mouse with one hand, I tried taking a picture with the other.  The first 1/2 dozen or so pictures were of either nothing, hind legs or tail.  
+
+I finally got the idea of focusing the camera at a certain location, and holding down the shutter button part way, (locking the focus and exposure) turn off the red-eye reduction feature, and lure the cats into the focused area.  I couldn't look through the viewfinder and wiggle the stick at the same time, so turned on the LCD panel, and let it hang at a comfortable angle toward the desired location, and concentrated on getting the cats to go after the toy mouse.  When the cats were in the panel, it took just a twitch of the finger to get a picture.
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

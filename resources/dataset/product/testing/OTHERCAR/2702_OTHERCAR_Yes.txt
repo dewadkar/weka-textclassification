@@ -1,0 +1,48 @@
+DOC>
+<DOCID> 2702 </DOCID>
+<PRODUCT> Digital_Cameras/509173_Agfa_ePhoto_1680 </PRODUCT>
+<URL> http://www.epinions.com/content_8719797892 </URL>
+<TEXT>
+            The first impression of this means very good. You receive for the reasonable price rather decent possibilities compared to professional models of other firms. The liquid-crystal TFT-screen (active matrix) size 5,1 sm on a diagonal (2 inches) is on right, to a rotated half of camera and is used for induction, viewing images and set-up of functions managing parameters of an exposition. The optical viewfinder is not present; therefore it is offered to use for this purpose a LCD-screen. On the arrangement and receptions of shooting it reminds cameras with "mine" viewfinders, but though the LCD-screen rather bright, obviously, that all the same does not suffice to it of shutters for a guard from dazzles traditional for a classical photoequipment of such kind. However, some indemnification of absence of shutters is the possibility to turn the display and to change brightness of illumination. 
+
+The turn on of the camera is carried out rotation wheel from the right party: in one party - reproduction, in other - shooting. From my point of view, this realization of transition from a mode of shooting to reproduction through turn off the camera - extremely unsuccessful, which results to useless "jerking" of an optical system and electronics (approximately 7 seconds on loading) and unreasonable expenditure of battery powers.
+
+The choice of modes of shooting, opposite, is made rather conveniently: it is made with the help of small wheel (Agfa names it of Easy Pilot), and for it rotation the appropriate mode is selected, and the pressing it as on a button confirms choice (is like wheel in some modern computer mouse).
+
+The jacks for connection of the serial port, external power and videooutput are located from the back party and outside are closed door. Soft pressing opens this door.
+
+Paying attention on impressive sizes of the camera, we express doubts in choice by firm Agfa thin carriers SmartMedia for camera, when much more perspective the format CompactFlash is.
+
+Also it is possible to mark unusual design of the camera, of which to keep it in hands for want of long shootings is rather tiresome, but it is possible to shoot with any exotic positions of a camera. And though the optical viewfinder has not hindered it, at the expense of a turning screen it is possible to receive perfect shots in the most humble conditions (for example, keeping the camera above a head in crowd).
+
+However, despite of all marked defects, controls the camera ePhoto 1680 - one from most convenient among many cameras.
+
+Performances
+
+Agfa ePhoto 1680 is equipped excellent large and rather "light" optics with the aperture from 1:2,8 (for a wide-angle extremity - 38 mm) up to 1:3,5 (for "tele" - 114 mm) with a system of an autofocussing and 3-multiple Zoom, that is from 38 up to 114 mm in an equivalent of 35 mm. It ensures sufficient brightness and image contrast on all stretch of focal length.
+
+The 2X digital magnification in ePhoto 1680 special interests is not represented - the camera and so rather long-focus and the digital magnification can need unless for economies of a place on a flashcard.
+
+EPhoto 1680 offers four possible sizes of an image: PhotoGenie 1280�960, High 1280�960, Low 640�480, Black and White text mode. Practically all photographic parameters, including diaphragm, and endurance, and balance white, have both automatic and manual set-up.
+
+The camera is completed by a SmartMedia-card of volume 4 Mbytes ensuring saving of 6 images with the highest resolution or 48 with low.
+
+Quality of shots
+
+Agfa ePhoto 1680 has rather decent qualities of shots. A large matrix (1,3 mln. pixels) ensures the sufficient resolution of an image and excellent contrast.
+
+Agfa ePhoto 1680 makes the rather contrast, precise, pure and well-balanced photos for consequent use them in a digital kind or for printing on the printer. If you are restrained from it by non-traditional design and beforehand will prepare more spare battery, the possibilities, represented by the camera, quite will satisfy you on a lot of various appendices. Only try for want of to purchasing to drop the price, that the camera is obsolete a little.
+
+User interface
+
+As doubtless dignities ePhoto 1680 it is necessary to mark the good interface for management of the camera. The base icons are simple, and to work with a lifted screen simple switching of a button Easy Pilot very conveniently. The rotation wheel Easy Pilot moves a cursor from one icon to other, and pressing is opened connected with an appropriate option of the menu. All functions of the camera are easily accessible, and selected of preference can be saved. Balance white, diaphragm, endurance and other photographic parameters are easy to adjust and to save for consequent use. The menu and the icons are so simple what to look in the user's guide there is no necessity.
+
+The software
+
+Infortunately, Agfa ePhoto 1680 is connected to the computer only through the serial port. The drivers are used and the software with enclosed CD. The camera is completed by the rigorous TWAIN-driver with a possibility of shooting immediately from the computer (and with regular updating of an image on it a screen); by the program Agfa PhotoWise with technology PhotoGenie; by the graphic editor LivePix SE and special package PhotoVista, intended for creation of perspective panoramas. In common, ePhoto 1680 is very well supplied with the every possible software.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

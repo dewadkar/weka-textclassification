@@ -1,0 +1,22 @@
+DOC>
+<DOCID> 16170 </DOCID>
+<PRODUCT> Digital_Cameras/419757_Fuji_Film_MX_2900_Digital_Camera_Kit </PRODUCT>
+<URL> http://www.epinions.com/elec-review-6221-B61C06C-39480749-prod3 </URL>
+<TEXT>
+            I purchased the Fuji MX2900 after considering the Olympus C2020, deciding on this device because of its manual mode and feature list.  As an endocrinologist I needed pictures of diabetic foot ulcers (color and depth) and individuals of abnormal stature, as well as &quot;before&quot; photos of patients.  after bidding at Egghead on this camera for about a week, I obtained the Fuji 2900 with a USP Smartcard reader and external flash for $577, including shipping. 
+Among the attractive features are a 2&quot; display with brightness adjustment, a lithium battery which actually does produce 100 pictures following an overnight charge, and the USB reader, which acts like a hard drive even when hotplugged (something I do often), and image quality which produces perfectly adequate 1800x1200 images with very high color accuracy.  The highest .jpg setting gives images occupying 850-1000k of space.  The manual modes allow high sensitivity in fluorescent light or at night.  Unlike other reviewers, I found the internal flash adequate and have had little use for the external unit.
+On the downside, the uncompressed .tiff images (4.26 meg each) must be converted to .bmp or other formats using the EZtouch software before Windows 2000 will show thumbnails in Windows Explorer.  
+The auto shutter speed is rather slow, giving the equivalent of about 100 speed film... this is not a camera to be used for dynamic subjects.
+The Effects mode (Sepia, Rainbow Cross, Silver Cross, and B/W) is a waste of ROM, serving only to produce mangled copies of processed images.
+The Continuous-shooting mode (advertised as making up to 9 images in 3 seconds) requires 30-40 seconds of setup, often defeating its purpose.
+
+In summary, this is a camera for cooperative, static subjects; color and detail are commensurate with Fuji film camera standards.  Low-illumination performance is also very good.  For what I spent, it's an excellent value as a portrait camera.
+
+Sportsmen and casual photographers should look elsewhere.
+<br><br>
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

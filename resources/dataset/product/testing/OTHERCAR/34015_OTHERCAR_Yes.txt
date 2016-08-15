@@ -1,0 +1,81 @@
+DOC>
+<DOCID> 34015 </DOCID>
+<PRODUCT> Digital_Cameras/Canon_PowerShot_S30_Digital_Camera_7299A001AA__Camera_7299A001AA </PRODUCT>
+<URL> http://www.epinions.com/content_58220121732 </URL>
+<TEXT>
+            Maybe I should call this the PowerShot S40 Jr.  How about the PowerShot S40 Lite?  Either way, the PowerShot S30 has all the great features of its more powerful sibling the S40... as well as its weaknesses.  Along with their other digital camera releases, Canon is now trying to play some hardball in the digital camera field.
+
+<b>The S30... really</b>
+
+A digital camera that shares its characteristics and dimensions with its more powerful sibling... the S40.  The S30 is meant to be a fairly compact camera (not as compact as the Powershot S100/S110/S300 lineup) designed with a stainless steel body.  In fact, I could place the S40 review here and change all S40 references of the S40 to the S30 without any major difficulty... that's how similar the two cameras are.  So all the faults of the S40 are faults of the S30 as well.  The biggest difference in the S30 and S40 is the resolution of the cameras.  The S30 is a 3.2 MegaPixel camera... (3.145 MegaPixel camera since the largest image is 2048x1536)
+
+The cameras dimensions are 4.4 x 2.3 x 1.7 inches. The weight of the S30 is 11.5 oz with the battery and CompactFlash card so it's not too much of a burden on you.  The design of the S30 (and the S40) is a change from Canon older and more typical designs.  Just about the entire camera is designed with a high impact polycarbonate plastic with a exterior reinforced aluminum shell.  It is not the same as the stainless steel body employed by the PowerShot S100/110/300 series cameras (simply put the S30/40 body is cheaper to make than the S100/110/300 cameras).  The only major item on the camera that isn't covered with reinforced aluminum is the sliding lens cover.  The back houses several buttons and a nice 1.8 inch color LCD.  However, this LCD does not have an anti-reflective coating (like the S40).
+
+<b>Functions</b>
+
+Now, turning the power on and off on the S30 is much more intuitive than with the older compact Canon cameras. No more power button. Slide the cover to expose the camera lens, the camera turns on and the lens extends. When you slide the cover towards the lens, the camera lens retracts... once fully retracted, you can fully shut the cover.
+
+The LCD is on the left side of the back of the camera with the optical viewfinder on top of it. There are two lights next to the viewfinder indicating option/activities such as AutoFocus Lock, accessing the CF Card, Macro focus, AutoFocus problems, and a few other problems. as well.
+
+Bottom right (from the rear of the camera), there is a panel that covers both the battery and the Compact Flash card slots. One Lithium-Ion battery is included with the camera as well as the battery charger. If you want an extra battery, you need to get the NB-2L Lithium Ion battery or equivalent third party product.
+
+Thankfully, the tripod mount is centered right under the lens... this makes it tons easier to shoot several photos that you can stitch together cleanly. Why have so few digital camera makers done this with their tripod mount hole?! 
+
+Left side of the camera (you are looking at the back of the camera), you have a rubber cover that protects the A/V port and USB port. The USB port also provides a direct connection to the Canon portable CP-10 printer (that works with the S110 and S300 cameras) and also Canon's newer S820D inkjet printer so you can print directly from camera to printer. A nice touch indeed if you have the extra cash to pay for these features. 
+
+The flash is decent for photos up to 6 feet. Pictures looked good on the LCD screen in near pitch black conditions with the flash at close range (subject within 5-6 feet). Low light conditions showed overexposure at close range flash use.  However, the flash is very much useless for distance shooting beyond 5-6 feet.
+
+<b>What do you get in the Package?</b>
+
+Canon adds a comprehensive and clear manual with your package. It even printed (well most of it).  If you have a problem with the camera, it can usually be found in the instruction manual. 
+
+The S30 package also includes a measley 16MB CompactFlash Card (go buy at least a 128MB card from somewhere... like Costco if you have one locally or from Amazon or even Newegg.com), a wrist strap, USB cable, AV cable, one NB-2L lithium ion battery and charger (AC power directly to the camera is separate option and additional charge), and a CD-ROM with some of the bonus software and drivers. 
+
+Canon's PhotoStitch software works well to create long photographs from a series of photos. Again, the tripod under the lens of the camera makes stitching photos even easier.  The Zoom Browser EX is a nice run of the mill digital photo album software from Canon. The ArcSoft Photo and Video Impression software is okay overall... I still rather use PhotoShop for photo editing (or PhotoImpact from Ulead for the budget conscious). 
+
+<b>A bit more features and details </b>
+
+The S30 has a 3x optical zoom and 3.2x digital zoom. The camera is approximately a 3.15 megapixel camera which is about a 2048 x 1536 resolution. The S30 also allows you to take short video clips as well. You can choose from two resolutions. 320 x 240 (High quality mode) allows you to shoot up to 30 seconds of video at 15 frames per sec (fps). 160 x 120 (low quality mode) allows you to shoot up to 120 seconds of video at 15 fps. Just like the S40.
+
+Just like the S40, you have an record exposure mode dial that allows several settings. For those of you who want to point and shoot, you have the Full Automatic mode (which I usually use). The other modes include Programmed Automatic mode, Shutter Priority Auto mode, Aperture Priority Auto mode, and Full Manual mode. To be honest, I'm still figuring out these other modes. There are also scene exposure modes that can be selected on the same dial. These include Portrait mode, Landscape mode, Night Scene, Fast Shutter, and Slow Shutter. Lastly, there are a few extra exposure modes. These are Colour Effect (for B&W photos and increasing or decreasing color saturation), Stitch Assist, and the Movie mode. 
+
+Like the S40, you also have multiple flash modes that include Auto, Redeye Reduction Auto, Redeye Reduction Fill-In, Fill-In, and no flash. 
+
+You have the option to record a voice clip with particular shots. The photo will have a WAVE voice file associated with the photo up to 60 seconds long. Again, a feature to both the S30 and S40.
+
+Photos can be stored as JPEGs or RAW files. RAW is just the photo data without the camera making any adjustments to it. These files are very large in size. If you're lucky, you can store 6-7 on a 16 MB Compact Flash card. Most people will use the JPEG format. There are three JPEG compression formats that include SuperFine (big file), Fine, and Normal (Smallest file). You also have a selection of 4 image resolutions... the max being 2048x1536 (3.154 megapixels) and the resolutions being 1600x1200 (1.92 megapixels), 1024x768 (0.78 megapixels), and 640x480 (0.31 megapixel). For a file size comparison, 17 photos at Normal at 3.2 megapixels can fit on the 16 MB Compact Flash card. 9 photos on Fine with 3.15 megapixels resolution can fit on the a 16MB card. 
+
+The camera allows you to choose between ISO 50, 100, 200, and 400 which is supposed to be similar to film settings. Automatic ISO mode switches from between ISO 50 and 100 only. On top of that, there is a great amount of user control over the contrast, sharpness, and saturation over each photo as well.
+
+There is the continuous shot mode allows you to shoot a burst of images (one right after another with a short lag time between shots by holding down the shutter button). Canon has two continuous shoot modes which they rate as 1.5 fps for a burst of 9 images in Continuous Normal mode, and 2.5 fps for a burst up to 5 images in Continuous High mode. You can keep to a Single shot per shutter button depress. There are two self-timer modes... 2 secs and 10 secs. 
+
+The S30 can be bought for as low $420... quite a nice price overall.  Consider that the once highly rated Nikon CoolPix 995 camera is in the same price range and at some stores, a much higher price range!
+
+<b>Major weaknesses of the S30... lookie, it's just like the S40</b>
+
+The flash of the S30 is rather weak. Night photos need to be taken with some type of light source or taken fairly close up to the subjects. It also hurts that you can't attach an external flash to the S30 by any means. 
+
+Battery life is decent. Canon rated it as 180 images with LCD on and 420 with LCD off (i.e. 150 minutes of playback mode). The battery has lasted two hours with frequent shot taking. At 2 hours, the battery low indicator started flashing for me. 
+
+For a high end 3 megapixel camera, a 3x optical zoom is rather small. I would have liked to see a 4x or even 5x zoom. It's not a major thing but could be a noticable one.
+
+Only a standard 16MB Compact Flash card is bundled with the camera. At least the Nikon's camera include a high speed Lexar Compact Flash card with their camera (although 8 MB in size). It's a minor point but the card is slow and holds too few pictures. You must buy another CompactFlash card along with your S30 camera!
+
+<b>Final Verdict/Conclusions</b>
+
+I think this is an even better deal than the S40 camera.  It hits a decent price point, grants powerful features, obtains a solid and fairly high camera resolution (3.145 MegaPixels) that can be purchased by nearly everyone.  Most people will not likely need past 3 MegaPixels for regular household functions.  The camera is rather easy to transport and is fairly sturdy.  The S30 is a very solid camrea with enough features to keep the masses happy.
+
+However, if you're buying a digital camera for archiving photos and printing 4x6 or even 5x7 photos...  a 3 megapixel camera or well made 2 megapixel camera will suit your needs better and at a much lower price than a higher priced digital camera. Look at the Canon S30 camera and if you need a pocketable camera, look at Canon's Digital Elph cameras (the S110 and S300). If you're on a budget and need a decent amount of megapixels, the S30 looks to be an excellent camera.  My friend's S30 had few meaningful performance differences from my S40... other than the resolution of the images.
+
+Please read my profile for other reviews of cameras and other computer technolgoys.  I have reviewed:
+Canon PowerShot S30
+Canon PowerShot S300
+Nikon CoolPix 5000
+
+Happy digital camera shopping everyone.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

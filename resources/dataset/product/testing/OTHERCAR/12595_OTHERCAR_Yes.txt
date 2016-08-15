@@ -1,0 +1,57 @@
+DOC>
+<DOCID> 12595 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_CanonPowerShott-Canon_PowerShot_S10 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-41AC-D3A1D84-392841D1-prod5 </URL>
+<TEXT>
+            I made the decision to purchase the Canon S10 after reading reviews on epinions and dpreview.com (http://www.dpreview.com/reviews/canons10/).
+
+Other contenders I was considering include:
+* Canon S100
+* Canon S20
+* Nikon Coolpix 800
+* Nikon Coolpix 950
+* Fuji FinePix 7400
+* Sony DSC-F505
+
+Factors that lead me to choose the Canon S10 include:
+* Digital camera
+* 3 selectable image sizes
+* Type II compatible CompactFlash (for IBM Microdrive compatibility)
+* total cost under $1000
+* image quality
+
+I was originally slanting towards purchasing one of the Nikon Coolpix until I compared picture quality at dpreview's site.  The Canon S100 was a strong contender due to it's very small size, but I am leaving in 3 days to go to Paris (main reason I am buying a camera) and the S100 is not out yet.  I almost thought about getting a cheapo camera for the trip &amp; wait for the S100 to come out and then purchase it but then I realized it was not Type II compatible which would mean I would not be able to use IBM's great little Microdrive that allows storage of 340Mb of images which translates into 715 small images, 348 medium images, or 236 large images all at the highest resolution.  Additionally the Microdrive allows you the absolute fastest way of transferring images to your PC thru a PCMCIA laptop card that it plugs into.  The laptop card gives you an additional hard drive and you can just drag and drop the images to your PC.  Otherwise you would need to connect an RS-232 (serial cable) if you are running Windows NT or a USB cable if you are running Win 95/98 or Win 2000.  But this is supposed to be a review of the S10 and not the microdrive so...
+
+Other key features include:
+* SVideo Out (I really like the ability of the Fuji 7400 to record MPEG's - but then I thought I could record much higher end MPEG's in 16:9 format with the Sony TRV-900) so I can see the pics on my Sony XBR 36&quot; TV.
+* 3 selectable resolutions in addition to 3 selectable image sizes which translates into a TOTAL of 9 different image formats
+* Images are stored as JPEG's so no translations are required to share with friends, Super-Fine JPEG mode makes for TIFF like images at half the size 
+* It only costs $499 at J&amp;R Music world - if you do not live in or near New York City then you can buy it at their site @ http://www.jandr.com
+* 4 ISO levels
+* programmable aperture and shutter
+* self-timer 2 &amp; 10 second settings
+* continuous mode that allows you to take a series of pictures at 1.7 frames per second.
+* Excellent image quality  
+* Ability to take CF type II cards 
+* Quality build and good looks 
+* Size and weight 
+* Automatic lens cover 
+* Ergonimics: Excellent menu system and &quot;human interface&quot;
+* Good white balance 
+* Excellent low-light and night ability (need to adjust shutter settings)
+* Well thought-out features, useful &quot;IMAGE&quot; mode that makes settings for you for 5 different types of shots
+* Bright clear and detailed LCD with fast refresh rate 
+* Stitch assist mode (allows you to take 3 pictures of the Eiffel Tower and then reassemble them into one tall picture, also allows you to create a VR computer file that pans around the inside of your car)
+* Memory buffer display (shows number of images left that can fit on storage) 
+* USB or RS-232 capable
+
+FYI's 
+- I purchased the CA-PS100 battery charger &amp; AC Adapter in one for $100 at J&amp;R.
+- I purchase the Microdrive at J&amp;R - do NOT buy it there, you can save $75 by either buying it at IBM's web site for $379 plus tax and shipping or from outpost.com for $399 and free next day delivery.
+- You will need to download and install the firmware upgrade (it's pretty easy) in order to use the Microdrive, plus the upgrade fixes something in the flash<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

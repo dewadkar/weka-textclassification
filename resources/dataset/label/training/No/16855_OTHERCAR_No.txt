@@ -1,0 +1,31 @@
+DOC>
+<DOCID> 16855 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Sony_MVC-FD90 </PRODUCT>
+<URL> http://www.epinions.com/content_16217968260 </URL>
+<TEXT>
+            The beauty of this camera is storing the images on floppy disks (memory sticks optional).  This allows anybody at any computer with a floppy drive the ability to instantly access the photos without having to preload software.  
+
+However, there is a limit to how many images you can store on the floppy:
+
+640 x 480 = 30 images
+1024 x 768 = 10 images
+1280 x 960 = 6 images
+1472 x 1104 = 5 images
+
+This is a great camera for inside photography.  I have found that with good lighting that there is no need to use the flash.  If the flash is used, the surrounding areas are darkened.  If no flash, everything is exposed nicely and naturally.  The flash has 4 modes: on, off, auto, and red-eye reduction (mini flash bursts).
+
+For outside photography, the colors are fair, but the biggest drawback is that the view finder is a LCD (liquid crystal display) screen, which on a sunny day can be washed out.
+
+Battery life is longer than I expected.  If you find you'll have a few minutes between shots, you can turn off the backlight to the LCD screen and conserve more battery life.  Also, the less you access the disk, the better to (to view images you've already taken, etc.)  
+
+One featured that isn't talked about much, and for good reason, is the ability to record up to a minute of video.  The result is a very small and choppy video image in MPEG format.  It's a cute function, but by no means a replacement for a dedicated video camera.
+
+My biggest gripe with this camera is the 2-second lag time between the time you push the shutter button and the camera actually takes the picture.  I have lost many a perfect expression due to this.  
+
+One neat feature is all the images on the disk can easily be viewed with the HTML web page the camera creates, thumbnails and all.
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

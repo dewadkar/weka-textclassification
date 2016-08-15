@@ -1,0 +1,51 @@
+DOC>
+<DOCID> 19883 </DOCID>
+<PRODUCT> Digital_Cameras/509292_Hewlett_Packard_PhotoSmart_C30 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-474E-14872B8-38889F4E-bd1 </URL>
+<TEXT>
+            This camera has the best image quality I have ever seen in a cheap digital camera. The pictures are incredibly sharp and smooth. The pictures I take on this camera are beyond realistic. That alone and the $350 price tag make this camera a great buy. 
+The camera comes with all the standard digital camera features. A 1.4&quot; LCD Screen A 2X Digital Zoom, Autofocus, and a TV-Out Feature. 
+
+Platform(s) PC 
+Max. photo resolution 1152 x 872 
+Max. photo colors 16.7 million (24-bit) 
+Interface(s) serial, NTSC video out 
+Viewfinder type optical, color LCD 
+LCD dimensions 1.8 in. 
+Flash present? yes 
+Dimensions (W x D x H) 5 in. x 1.9 in. x 3.2 in. 
+Weight 0.7 lbs. 
+Minimum requirements (PC) Windows 95, 16MB RAM, CD-ROM drive 
+Lens 
+Lens type autofocus 
+Zoom/Telephoto? yes 
+Min. focus distance 9.5 in. 
+Memory and Storage 
+Max. photos 40 
+Max. number of highest-quality photos 8 
+Memory type CompactFlash card 
+Amt. of internal memory none 
+Amt. of removable memory 4MB 
+Power Supply 
+Batteries included? yes 
+Number of batteries included 4 
+Battery type alkaline 
+Battery size AA 
+Alternate power source included? yes 
+Power source type AC adapter 
+Software 
+Software included HP PhotoSmart, Microsoft Picture It 
+Software has editing tools? yes 
+Software autodownloads photos? yes 
+Special Features 
+Built-in microphone? no 
+Warranty 
+Base warranty 1 yr. 
+
+<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

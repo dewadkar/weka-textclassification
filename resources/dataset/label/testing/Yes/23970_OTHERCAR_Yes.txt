@@ -1,0 +1,21 @@
+DOC>
+<DOCID> 23970 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1993_Volkswagen_Corrado </PRODUCT>
+<URL> http://www.epinions.com/content_57032150660 </URL>
+<TEXT>
+            First let's discuss the pros, because in my opinion there isn't a car out there that you can buy for the same money that has the same combination of looks and performance. 
+<b>Styling</b> - Karmann designed the body so it's a work of art.  The sleek lines and the compact size make this a headturner.  If you've never seen one, you won't get a sense of its headturning potential from a picture.  
+<b>Acceleration</b> - The Volkwagen VR6 engine is a proven power plant.  It is powerful and reliable.  In the 2800 lb. Corrado, the VR6 produces 178 bhp and 177 ft-lb.  
+<b>Handling</b> - This is easily the best handling car I have ever owned, and the car magazines say it is one of the best handling front drive cars ever.  Very little understeer, and, like most German cars, provides the driver lots of road feedback to give you a nice sense of what's going on.  
+<b>Braking</b> - Very good disc brakes allow this car to stop nicely.
+Now for the cons.  Unfortunately, this is probably not a car that you're going to want as a "daily driver."  There are moving parts that will go bad, and these parts are difficult to find and require lots of labor to replace or fix.  I'll list a few below.
+Sunroof - Technically this is not a moonroof as it does not have a glass top.  The design has a rocker that has a tendency to break and cause the whole mechanism to go off track.  Once it's off track, it will bind leaving wherever it happens to be.
+Ignition switch - Sometimes this goes bad.  When it does the car will still start, but the automatic seatbelts won't know whether the key is in or out.  Often, this means the seatbelt motor just runs and runs leading to a drained battery and/or a burned out seatbelt motor.
+Hydraulic rear spoiler - This won't cause you problems if it doesn't work, but it has a tendency to get stuck in the up position.  it is a nice touch when it is working since you can see it go up an down in the rear view mirror.
+Battery Drain - This isn't a moving part, but it  can be a persistent problem.  Even when turned off, this car has a constant drain of 45 milli-amps.  If you don't drive it for two or three weeks, the battery may not have enough juice left to start the car (but it's good practice to start a car once a week anyway).
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

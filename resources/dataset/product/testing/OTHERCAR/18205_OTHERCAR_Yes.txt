@@ -1,0 +1,52 @@
+DOC>
+<DOCID> 18205 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Kodak_EasyShare_DX6340 </PRODUCT>
+<URL> http://www.epinions.com/content_115884985988 </URL>
+<TEXT>
+            After doing a lot of research on the Kodak site, and taking a picture and bringing it home for study, I thought this camera had the best overall value of the 3MP cameras because it had manual controls, an orientation sensor, video clips with sound, and 4x optical zoom.
+
+Well, after reading through the manual, setting it for highest quality, and using it on two occasions, I found that I was wrong. There is no option at all to change compression settings for the pictures. And this is not stated on the Kodak specifications for this camera (it took a lot of digging to find this in their FAQs later on).
+
+The average camera, like Nikon (my first camera) and Canon (the brand I wanted to upgrade to) will go with a balanced compression setting, and with a compression rate of around 6 or 10 for the highest quality and least compression. The Kodak camera uses the "favor compression" setting and compresses at rates greater than 13, averaging around 18.
+
+This means that in a lot of my pictures, they were overly compressed to the point where I would be better off just using my old 2MP Nikon775 which compressed at less than 10, averaging 8 times compression (making very nice 8*10 prints).
+
+Also, the first time I used this camera was a community potluck, in a school building, with average lighting. Taking pictures about 15ft or so away, and using the zoom a bit, the auto-flash kept using the flash, and making the pictures horribly dark, like we were outside at night or something.
+
+This was partly corrected by manually turning off the flash, but then some pictures turned out a little blurry. A lot of pictures were missed. The video clips turned out great, so why did the camera try and use the flash?
+
+Speaking of video clips, I have to say they were fairly good, again, a little fuzzy due to the compression, but good quality sound. I really like the fact that there was no imposed limit to the length of time on the video clips, especially since my old camera had a 15 second limit.
+
+The lighting adjustment was a bit too dynamic on the video, causing a frame here and there to bee too bright, which would seem to be something you wouldn't see nowadays. Oh, and apparently like most cameras that do video with sound, you can't zoom while filming. Again I can think of an easy solution to that, so why don't cameras have it yet? Moving on.
+
+Anyway, the second time I used the camera was at a little get together at a friends apartment, the pictures turned out fairly well, and were used for further study of the compression levels to get the above stated averages.
+
+Now, getting to the software, its not very good. For starters, there is the issue of accuracy. In case you haven't noticed, I am very detail oriented, and when using the software to transfer pictures from the camera, the date and time stamp is changed to the time it is transfered to the computer. I like having the original date and time stamp for easy sorting and searching when I am browsing across the files in other programs.
+
+The workaround is to use a card reader, copy the files to the hard drive, and manually tell it to add those files to the database. It is database oriented (showing all photos by search criteria, as opposed to just plain showing the pictures in a particular folder) with no option to change it.
+
+Sure, it has integrated viewing and printing of pictures, and you start up the video clips, but it has some annoyances. Every time you click on a picture you are adding it to a list of files you want to work with somehow (printing or whatever).
+
+I kept having to go back and "un-click" pictures that I was just checking on prior to needing a list. Although, I must say this is probably easier for some people ran than click highlighting along with the "ctrl" or "shift" key, but I'd like it to be an option that can be turned off.
+
+Then there is the editing portion, which has very limited functions, and doesn't show the zoom level (probably because you would notice the compression artifacts at 100% zoom). The first time I used the camera, I accidentally switched off the orientation sensor, so I figured, no problem, just rotate it with the software. I noticed after rotation, the file bloated to about three times the size.
+
+The software with my Nikon camera does lossless rotation (doesn't change picture size or quality) and so I tried that. Apparently the particular size of pictures taken with this camera can't be rotated losslessly, without cropping a few pictures on the right side, I believe it was. Okay, I guess that means make sure you don't accidentally turn off the orientation sensor.
+
+Then there is the camera itself, fairly well designed, ergonomically speaking. The mode switch, though, reminds me of those antennas for TVs, that has really hard click from position to position, so I wonder if that will wear out just as fast to the point that it will soon just slide around freely.
+
+I like the joystick style navigation, and the menus are well designed and organized, and it really does seem great for a first timer's camera, because you can grow into the advanced options if you really want to (which I do).
+
+So, in conclusion, if you're new to the digital camera world all you really need is good 2MP camera, so I would recommend this camera for that level of quality.
+
+For myself, already having had a great 2MP Nikon camera, I returned the $270 Kodak "3MP" to Best Buy (not paying a restock fee because none of the four people that recommended it for my project mentioned the compression issue) and ordered a Canon S45 4MP from Beach Camera for $355 (that includes shipping).
+
+I like the picture quality a lot better, but I miss the Kodak's dynamic video lighting adjustment (aggressive as it may have been) because Canon took the other extreme and chose fixed lighting (stay in a dimly lit area, or stay in a bright area, otherwise stop and restart the video).
+
+I hope this has been an educational and enlightening review.
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

@@ -1,0 +1,43 @@
+DOC>
+<DOCID> 768 </DOCID>
+<PRODUCT> Digital_Cameras/Nikon_Coolpix_5000_Digital_Camera__Camera_25501 </PRODUCT>
+<URL> http://www.epinions.com/content_87367716484 </URL>
+<TEXT>
+            I bought the camera a few months after its release by Nikon.  The very few reviews available at that time were raving and I always have been happy with Nikon film camera and equipment.
+At first, I was very disappointed:
+1.very poor ergonomics;
+-for instance, one needs to turn the dial wheel with the right thumb while pushing buttons with the same finger
+- Many adjustments that should be easily available need to be made trough complicated menus (for instance White balance)
+-your fingers can block the flash sensor, which will result in incorrect flash metering
+
+2. very poorly made viewfinder; small, imprecise (does not include the whole field of view), annoying parrallax
+
+3. Poor flash exposure when using the SB26 or SB28 flashes.  Also, you will have to dial on the flash the ISO sensitivity setting of the camera, the zoom setting, the aperture setting,  because the camera and the flash don't communicate one with the other
+
+4. But worst of all THE AUTOFOCUS STINKS!!!  
+
+-It lacks sensitivity and becomes useless in not-so-low light conditions.
+-I missed lots of pictures because of focus errors
+-It often causes severe increases in shutter lag 
+-It does offer a manual mode but no usable way to measure your distance
+
+To the extent that I soon resolved to sell it and get something else.  Why I did not?
+
+ I found no camera that produced so good images (those that have not failed, at least)
+ Nikon released a firmware update patch that considerably improved the autofocus performance and the shutter lag.
+
+Eventually, I will change my camera; I still look around at new products (among others, the Fuji FinePix S602 offers much better ergonomics, better lag, a fast, precise and responsive autofocus, a sturdy body, an acceptable electronic viewfinder which shows exact framing and (of course ) no parrallax.  However it is a 3.3 Mp and its hexagonal honeycombed packed photosites, while probably superior to the classical square pattern do NOT allow to interpolate to 5 Mp quality, contrary to Fuji's claim.)
+
+The battery charge does not last very long, but its performance seems honest.  Furthermore, it recharges rapidly.
+
+The camera is compact and light, which is very nice.
+
+It is very well built, with an alloy inner skeleton and an impeccable finish.  I always feel a little bit worried about the swiveling LCD screen it looks somewhat fragile?  It is practical for aiming in different positions (at breast height for instance) but obviously will seem very dark in sunlight 
+
+In conclusion, I would have given 2 *  if not for the quality of pictures.  I should have waited longer before buying and not rely on Nikon reputation.  Now, with the firmware patch having improved autofocus, I feel this camera is satisfactory enough until the technology makes 5Mpixel obsolete.
+            
+<label> No
+<rating>  4.0
+
+</DOC>
+<

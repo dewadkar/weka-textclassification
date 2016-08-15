@@ -1,0 +1,40 @@
+DOC>
+<DOCID> 24776 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_Stylus_300_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_120534765188 </URL>
+<TEXT>
+            I was in the market for a small digital camera which had adequate resolution, felt sturdy and my wife and I could feel comfortable taking out on hikes or kayaking without a lot of weight and having to worry about damaging the camera.
+
+I looked at several different cameras, mostly in the 3 megapixel range and narrowed it down to the Canon Powershot S230 and the Olympus Stylus 300, primarily because of their size.
+
+Both cameras offer 3.2 megapixels, and are about the same size. However, the Olympus Stylus came out on top because of the fact it is water resistant and offered a slightly better optical zoom 3x (vs 2x).
+
+<b>Taking pictures with the camera</b>
+The camera is really straightforward to use. It does take a few seconds to get ready to take a picture, so if the camera is not on, you may lose the shot. Once the camera is up and running, it does suffer a little bit of shutter lag, but not too severe.
+
+I turned off the digital zoom (I always thought it was a gimmick) so all I use is the 3x optical, which is quite adequate for most situations. The zoom is a little slow, but adequate for most shooting situations.
+
+It does have 5 special picture modes, which do adjust the picture some and allow things like night shots, but most of the time is spent in the (P) mode.
+
+<b>The flash</b>
+The flash can be set to always on, always off, Auto, and red-eye reduction, which gives a fair amount of versatility. As far as I know, the camera does not detect backlight situations, so I make sure that I set the flash in those situations.
+
+The flash is pretty bright, and tends to wash out the picture if you take it too close (that's where the 3X zoom comes in handy if you want to take a detail shot - allows you to stand back)
+
+<b>Viewing pictures</b>
+The camera will keep the picture you just took on the screen for a couple of seconds, usually long enough to see the picture you just took, but not show the picture to someone else.
+
+When the lens is closed, you simply click on the View button to display the pictures stored in memory When the lens is open it requires a double-push of the button - if you click it once it simply turns off the LCD display. This is an interesting implementation for the user interface, which took a little getting used to, and it is difficult sometimes to know if you double or single pushed the button.
+
+The pictures can be viewed individually, or in groups of 4, 9 or 16. Navigation is pretty easy. You can also zoom in up to 4X on the individual picture if you want to see any detail.
+
+<b>Overall</b>
+The camera offers a great balance of picture quality, durability and ruggedness. The user interface has some quirks, and it drives me nuts that every time you restart the camera it resets your picture choices to defaults.
+
+The software is fairly pathetic, and I simply use the camera as a drive and copy the files over to my HDD and use Win XP, Photoshop or MS Picture it to adjust the pictures.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

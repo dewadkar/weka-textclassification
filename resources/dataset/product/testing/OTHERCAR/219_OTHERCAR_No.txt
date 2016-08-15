@@ -1,0 +1,58 @@
+DOC>
+<DOCID> 219 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_Powershot_G1 </PRODUCT>
+<URL> http://www.epinions.com/content_10654617220 </URL>
+<TEXT>
+                You have probably seen many of your friends or family carrying around a digital camera at various functions.  Digital cameras are great because you don't need to pay to develop film and you can e-mail them to anyone or put them on a web page.  Also, you can carry pictures around on a small disk and edit them at your leisure.  In this review I am going to list the pros and cons that come along with purchasing this product.  Since the cons outweigh the pros, you will understand why I don't recommend the Canon Powershot G1 digital camera.
+
+
+PROS:
+
+Battery:
+Digital cameras use a lot of energy.  In addition, many cameras either have a small battery (to save weight and cost) or are not supplied with rechargeable batteries. The G1 comes with a good-sized LiIon battery, which is also used by some Canon camcorders, so it is fairly inexpensive.  The battery is excellent, and you can take more than 500 pictures without having to recharge it. 
+
+RAW File Format:
+While the low compression JPEG files the camera produces are fine for snapshots, for serious work, where you will edit the image on computer, some kind of raw image format are necessary.  Canon use a proprietary no loss compression scheme to achieve a sub-3Mb raw file size.  Other companies produce TIFF files, which are much larger and waste valuable CF storage space and take longer to download.  In easier terms, the RAW format uses 1/3 of the space an uncompressed TIFF uses.  This feature is very useful, for you can set up white point, contrast, sharpness and saturation without losing any image quality. If you are taking critical pictures, this is the best feature that the camera has to offer.
+
+Finally, the picture quality is very good, but so is the quality of pictures taken by most cameras in this price rage.
+
+
+CONS:
+
+Optical Viewfinder:
+The viewfinder is small and ridiculously hard to use. It is a rip-off that Canon�s optical viewfinders are so poorly designed and constructed, most SONY cameras are equipped with vastly superior optical viewfinders.  My biggest problem is that the viewfinder does not provide parallax compensation.  Believe me when I say that despite all the good features that this camera has, the optical viewfinder problem makes this camera not worth the troubles it will cause you.
+
+Cheap quality:
+From the time I bought this camera, I knew it would not hold up.  I take my camera everywhere I go (mostly outside) and although I have been careful, the G1 has very flimsy parts.  I can also say that I have friends who own this camera and had parts break and even the camera itself has needed extensive repairs.  If this is not enough to convince you not to buy this camera, read my conclusion.
+
+
+Conclusion:
+This camera has good features but so do other cameras that are cheaper in price.  The price of digital cameras is dropping rapidly and I strongly urge you to wait until the price of better quality cameras go down.  I cannot recommend the Canon Powershot G1 because I believe that for its price ($799) it will become obsolete too fast.  PLEASE, wait about half a year and purchase a better digital camera.  Online stores such as www.amazon.com or www.cnet.com have great prices.  However, if you must buy a camera now, check out the SONY digital cameras.  
+
+-----------------------------------------------------
+
+Canon Powershot G1 Features:
+
+- High resolution, 3.34 million pixel CCD image sensor
+- Fast, 3x optical zoom lens (34 -102mm*f/2.0 -2.5) plus2x/4x digital zoom
+- Point-and-shoot simplicity with fully automatic focus, flash, and programmed exposure control 
+- Multiple manual modes including: manual focus, manual exposure and manual white balance plus aperture-priority AE and shutter-priority AE 
+- Mode Dial features12 EOS-based picture-taking modes 
+- Movie recording and playback with sound 
+- Dedicated digital signal processing IC (Integrated Chip)plus memory buffer
+- Vari--angle LCD monitor for easier handling and greater shooting flexibility
+- New system accessories including wide angle, telephoto, and macro lenses 
+- Compatible with EOS-dedicated EX-series Speedlites 
+- High capacity lithium-ion power source
+- Canon USA 1 year warranty
+
+
+
+
+
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

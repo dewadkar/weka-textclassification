@@ -1,0 +1,26 @@
+DOC>
+<DOCID> 7658 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1997_5_Mazda_Pickup_2WD </PRODUCT>
+<URL> http://www.epinions.com/auto-review-78FA-7AF8C2D-395D25F5-prod3 </URL>
+<TEXT>
+            I originally purchased this vehicle, because it -IS- a FORD ranger.  not like, not close, they come from the same FORD plant but have different stickers on them in the final touch stages of production.
+
+The Mazdas tended to have more features for the buck than the FORDs.  Mine came with AM/FM/ cassette/cd changer, anti-theft system, upgraded instrument panel, molded mirrors, sport siding, alloy rims, towing pkg and extended 5yr 60k mile warranty for under kelly low blue book (purchased in phoenix originally)  it was quite the steal.
+
+I later moved to the northwest where my truck became part toy, part workhorse, part morning transportation to/from work.  I admit that i treat it like a truck, certainly not as gently as I might a car, but trucks are meant to haul, take a dirt road or hill or two, or in general be able to withstand a little more abuse than a car would.
+
+the truck is now having some problems which mazda is refusing to fix.  around 22k miles, the check engine light started coming on, my first time to bring it in to the shop they told me i just needed to change the oil at a place that could reset it.  I later came to disagree when working on the trucks' electrical system myself (adding electrical wiring into the cab to add two way radios) I disconnected the battery.  Upon restarting the truck, the lgiht was off.  2 miles down the road however, the light came on again.  this led me to believe that something other than a simple case of &quot;oil changing&quot; was wrong at what was now over 30k miles.  
+
+I took it to the dealership a second time, where they plugged it into a computer to find that it was a problem with the timing position sensor.  Ordering the part and coming backa week later, they showed me a spark plug which apparently had been dropped by the last shop I took it to for basic maintenance.  They told me it was causing a short from the sensor which was the problem.  I drove off only to have the light come on again.  taking it back to the dealership the next day (I got there just in time from work before they closed) They told me they would go ahead and replace the senor anyway.  I came back that afternoon and picked up my truck.  Again, a few miles down the freeway and the light came on.  Taking it backa third time, they said they would re-order the part and try it again.  I took it back a fourth time, where they replaced the TPS again.  Again... the light came on on my way down the freeway.  Taking it in the next day they said it was probably just a glitch and said the sensor is fine, that they would reset the computer and it should be fine.  ok whatever I thought, i took it back after work, they reset the computer.  but of course the light came on again. I took it back again where this time they tell me that it is my radios causing a problem.  I tell them i doubt it but the repair salesman/front end person/whatever tells me he saw a message about it earlier, and that he will send me the info that FORD motors has come up with on RF intereferance to the engine controller.  Unlikely I think to myself, but I will wait for it.  I never get it.  I go back to the dealership a week later to find out what's going on.  The salesman is no longer with the company, a new guy says he'll order the part and call me.  he never calls back and denies me being there when i come in.  Mazda motors has not returned e-mails to them and ford denies responsibility since it is technically a Mazda.
+
+Furthermore, the door ajar light randomly comes on when the door is not open or cracked.  They have claimed it is due to the door being mis-aligned and that I need body work.  I disagree since I have looked the switches in the doors.  The switches have 2 leads on them to complete the circuit and to not short to the floating ground.  This means they are hard wired and there is not a problem with the contact to ground as they claimed.  Further, the switches are inside the doors connected to the latches that lock the door into place.  These switches are making percetly fine contact when being checked with a multimeter, dispelling the notion that it is a problem with the switches.  this indicates an electrical wiring problem that needs to be resolved and mazda is denying.
+
+At this point I now have 41k miles on the truck and mazda is refusing any further work as I am now technically out of warranty insisting I use the extended warranty.  the extended warranty people tell me that this is not covered in the extended warranty, so I have several problems wich cannot be fixed on my curent income.
+
+All in all, the mazda/ford trucks are fine if you plan to use them only to commute.  As for their reputation as a rugged truck... don't believe it for a moment.  They can be reliable and good vehicles, just don't count on customer service should you have a problem.<br><br>
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

@@ -1,0 +1,34 @@
+DOC>
+<DOCID> 33979 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital-JamCam_JamCamProductFamilieses-Jam_Cam_Jr_ </PRODUCT>
+<URL> http://www.epinions.com/content_94008807044 </URL>
+<TEXT>
+            This is my first digital camera. It was an amazing bargain - I bought it during the grand opening sale for a new computer/electronics store for the princely sum of $20.00. It's the nice blue one. 
+
+The package includes the camera, instruction leaflet, a CD, a serial cable and a standard USB cable. I have since discovered how nice the standard cable is. Most USB cameras use a mini USB connector (I'm sure it has an official name but anyone who has seen one will know what I&#146m talking about), and when lost, you're stuck until you cough up the special price. I just borrowed the cable from the printer. 
+
+The camera looks rather like a toy, with its bright plastic and blue rubber appearance. It's pretty chunky looking for its features. It has a small fixed focus lens, which is quite deep set in the camera body but otherwise has no protection from soiling or accidental damage. It has some memory built in (I think it's about 2 MB but have not seen this specified anywhere) and a slot for a multimedia memory card. This was the smallest card format at the time, but also the most expensive. I added a 16 MB card, which doubled the cost of the camera.
+
+It uses a 9v battery, has connectors for USB and serial computer connections, a socket for an external power supply (not included), a control panel with two buttons and a small LCD display, built-in flash and of course an exposure button. Oh I almost forgot the wrist strap and tripod mount. I put in an alkaline 9v battery and shot off a few test pics. 
+
+The camera is controlled with two buttons. One powers on and off, the other cycles through features. Flash on, auto, or off; self-timer on or off; image resolution 640/480 or 320/240; and clear memory. The monochrome LCD includes a battery power indicator, picture space remaining, and is only for control functions. There is no image display.
+
+The software package was easy to install on Windows 98, and is easy to use - basically click a button to download all pictures, and then double click a thumbnail to view the picture full size. Simple color balance buttons and other basic image editing features are provided. 
+
+First disappointment was the time it took to download the images. USB 1 can transfer at over 1 MB per second, but the camera took several seconds to transfer each picture. This makes me suspect it's using USB in the low speed devices mode more suitable to a mouse or keyboard. One long wait later... 
+
+Image quality was disappointing, but perhaps not too bad for the cost. In good light, the images were clear but with poor defnition. In poor light, even with flash, there was a lot of noise in dark areas. It seems the flash only has a range of something like three to four feet. 
+
+This camera is very hard on its battery. When the battery level indicator showed half, after only a few pictures, image quality dropped markedly, so much so that dark areas were filled with colored dots. 
+
+I then tried using a rechargeable battery, a Fuji NIMH battery. This made a remarkable difference. It lasted far longer than the alkaline battery, and didn&#146t fade into noise. Images were still not great but were more reliable in poor light. I strongly recommend using NIMH battery with your jam cam if you have one (NOT Nicad battery - they have life problems if not treated perfectly).
+
+Last point - I had to install the software in windows 2000. It didn&#146t work. The website said nothing about windows 2000 problems but did have an update available. IN THE END it did work, but the installation had to be repeated several times. 
+
+
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

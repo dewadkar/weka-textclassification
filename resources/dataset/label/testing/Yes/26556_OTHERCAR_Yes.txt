@@ -1,0 +1,85 @@
+DOC>
+<DOCID> 26556 </DOCID>
+<PRODUCT> Digital_Cameras/_Minolta_Dimage5__616635 </PRODUCT>
+<URL> http://www.epinions.com/content_49417391748 </URL>
+<TEXT>
+              The Minolta Dimage 5 is indentical to the Dimage 7, but with 3.3 megapixels instead of 5.2 and a slightly larger zoom lens, for around $200-400 less, depending on who sells it.  
+
+
+  Before I move on to the specs and pros/cons, I'd like to say something:  This is my first digicam, but I am far from a novice.  I am a patient person and don't mind flipping through the manual. 
+
+
+That said, the main specs (items in "()" are the film equivelent):
+
+# of megapixels: 3.3 gross, 3.1 affective CCD
+Resolutions: 640x480 (5x7), 1280x960 (8x10), 1600x1200 (11x14), 2048x1536 (13x19).
+Quality settings: RAW (only in 2048x1536), Superfine, Fine, Normal, Economy.
+7X optical zoom (35-250mm).
+Memory card used: compactflash (CF). 
+USB data transfer.
+
+---
+
+Update: Sample pics now available.
+
+To see what the Dimage 5 can do, head over to:
+http://http://community.webshots.com/user/samdavidowicz
+(Copy and paste into browser)
+
+---
+
+  Pros:
+
+  Image quality: The '5 offers stunning image quality the rivals high-level 35mm - as long as you set it correctly.  Be prepared to fool around with some settings to get the "best shot."  Fortunately, the manual is well-written and provides useful tips.  WARNING: Point-and-shooters who leave the camera on "auto-everything" will be disappointed.
+
+ Controls: the commonly used controls (Image size, quality, shutter/aperature, drive, and white balance) and a few others are externally controled, making it much easier then a menu driven system.  There is still a menu for the more complex settings, though.  The Autofocus/manualfocus (AF/MF) has its own button - press it to switch between the two. 
+
+  Feel: This camera feels just like an SLR, meaning that film buffs looking to move to digital will feel more comfortable with this digicam than others in its price range.  It has a nice, well-made body that doesn't feel "plasticy."
+
+  The camera also features a Quicktime movie movie mode ware you can make short video clips, unfortunately without sound, sence the camera has no mic.
+
+A word on the quality settings: the '5 offers five quality setting, described in the specs scetion.  For emailing, the economy is good enough.  For printing and viewing, skip the normal and go into fine mode.  These three modes are jpeg compression settings.  Superfine records the images as an uncompressed TIFF.  This setting takes up a huge amount of CF card space, and most people can't even tell the difference between fine and superfine.  RAW is strait from the CCD, thus you can only use it at the 2048x1536 setting.  It's a useless setting, as it's quality is no better than superfine.  
+
+---
+
+  Cons:
+
+  Shutter button:  Even though you can set the shutter speed to as fast as 1/2000 of a sec, it's marred by the fact that you must hold the button down for a second for the shutter to fire (This is known as shutter lag).  This makes the camera unacceptable for fast-action, but I myself hardly ever take those.  
+UPDATE: I found a way around this.  Use the AF as you normally would, then quicky switch to MF.  The shutter will fire as it should as soon as you press the button.  Be careful that you don't take the subject out of focus as you switch to MF!  
+UPDATE: Another way that I found is to fully press the shutter button the instant the camera tells you the shot is focused (like all cameras, a half-press activates the AF, a full press fires the shutter).
+
+  The Autofocus is effective but slow, and is the main reason for the above mentioned shutter lag.
+
+  The hand grip (where the memory card goes) heats up a little.  
+
+  Very picky with flash cards, see below.  (Doesn't seem to like generics) 
+
+  While the LCD is very good, the electronic viewfinder is grainy and is hard to tell if your picture is focused. 
+
+  Battery life when using off-the-shelf AA's is horrid - invest in a few sets of rechargables.  You'll thank me.
+
+  The other gripe is the camera records images in its own color space, rather than the standard sRGB.  You must use Minolta's supplied software to convert them.  It's an extra step, that, while I don't mind doing it, might annoy some people.
+
+---
+
+  The camera ships with a 16 MB CF card, but I STRONGLY recommend getting a larger card.  (newegg.com sells generic 256 MB CF cards for $95 after shipping)
+
+  UPDATE: While I'm not going to delete the shopping tip above, as me and a few others have found, the Dimage 5/7's seem to be very picky with flash cards.  I bought two of the cards from newegg.com and had to return them both.  They just plain wouldn't work.  I'm going to try a Viking card next.
+
+  UPDATE: The Viking CF card I ordered from Buy.com seems to work just fine, but because I had limited money on hand I had to get a 128 MB card (a 128 MB card can still store 182 pics on fine/1280x960).
+---
+
+  Price: While Minolta's list for the '5 is $700, there are some online shops selling it at a loss for less than $500 (before shipping).  Keep in mind that these shops will often try to hit you up for accessories to make a little more money.  It's your call to hagggle or say no. 
+
+---
+
+Conclusion:
+
+  Point-and-shooters, fast-action photagraphers, and people who don't like manuals should look elsewhere.  Otherwise, even with the cons, at the price you can get it, the '5 is an SLR-like digicam that is well worth your time.     
+ 
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

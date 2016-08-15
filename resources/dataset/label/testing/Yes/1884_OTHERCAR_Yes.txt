@@ -1,0 +1,37 @@
+DOC>
+<DOCID> 1884 </DOCID>
+<PRODUCT> Digital_Cameras/HP_PhotoSmart_850_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_86576434820 </URL>
+<TEXT>
+            We have a baby due soon so it was the ideal excuse to upgrade our digital camera from a JVC DVM70 (see my epinion on that) which could only take 640x480 sized pictures, pretty poor resolution for 2003. (To be fair the JVC is also a camcorder, and we still use it for that).
+
+The 850 was chosen based on these factors: 
+1. Resolution. It defaults to 2272 by 1712 which is basically 4 mega-pixels. This gives great picture quality on 8x11 printouts.
+2. The 8x optical zoom. Optical zoom is very important: digital zoom gives (by design) a much lower picture quality, so optical is preferred. (It also has a 7x digital zoom).
+3. Type of memory card: I wanted a popular type (it uses MMC and SD cards), not a very-new type (XD) or a proprietory type (Sony Memory Stick).
+4. Physical form: It is kind of SLR-sized and looks like one, although the ring around the lens does not move, it is just there for style.
+
+The camera has an LCD screen on the back, plus an viewfinder. The viewfinder is preferable, though it is also a tiny electronic screen not a through-the-lens kind. You can line up shots and view pictures immediately after they are taken (with the offer to delete them right away) via the viewfinder, but everything else (menus, viewing previous photos) needs to be done via the LCD.
+
+Pictures are taken by firstly squeezing the main button, and allowing the auto-focus to do its magic. When the picture is focused (this takes a second or so), the mark changes to green and pressing the button fully down will take the picture. In normal conditions this latter stage is instant, but in low light and in the dark the shutter stays open for up to several seconds. If you don't have a tripod, you will get a blurry picture at night (without a flash). This is the first digital camera I have used that can take great shots at night, by the way.
+
+The camera has a macro-focus option, to take very close up pictures of flowers and things. This works well the few times I have tried it.
+
+If you rotate the camera sideways it knows this, and your pictures will be rotated for you, so they will always be the right way around when you extract them to your PC.
+
+The camera takes four AA batteries, and has a voracious appetite for them. They don't last very long, especially if you use the LCD screen, so we quickly switched to rechargable batteries (which are not included). Make sure you take a second set on important events: our very first set expired in the middle of a wedding!
+
+You can record audio with your pictures (though I haven't tried it) and also moving video, up to 60 seconds (which I have tried). The video is at a much lower resolution (288 by 216) and eats up the precious memory, but can be useful on occasion. Don't shoot video sideways: it won't get rotated for you, and it is hard to do on a PC after the fact.
+
+It comes with a 16M SD memory card, but this isnt enough in my opinion. This only allows 12 pictures at the default Better quality level. When I bought the camera I also picked up a 128M SD memory card for $80, which can hold over a hundred Better quality pictures. There are three quality levels at the 4M level and you can also take 1M pixel photos if space is tight or you dont need the extra resolution.
+
+There are lots of menus to control exposure, aperture, white balance etc, but so far I have left everything in the default automatic mode. I have used the different flash modes (which include anti-red-eye and night settings) and they work well.
+
+The camera comes with a CD-ROM and PC and Mac software that allows pictures to be easily printed and emailed to people, via USB. I have not installed this: I just remove the SD card and place it directly into my PC (via a reader). This is by far the quickest way of getting the pictures to a PC, but the HP software would be preferred for less computer-literate users I guess. You can also get an HP camera dock into which the camera plugs directly, and if you have an HP Photosmart printer you dont even need a PC to print. We don't have either of these so cannot comment further on them.
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

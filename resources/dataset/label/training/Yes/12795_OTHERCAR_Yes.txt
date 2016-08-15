@@ -1,0 +1,33 @@
+DOC>
+<DOCID> 12795 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_CanonPowerShott-Canon_PowerShot_S20 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-805-2191389-39CC464B-prod1 </URL>
+<TEXT>
+            After using a Nikon Coolpix 900 for over a year (see my review of that product), I decided that I needed a new camera.  I was primarily looking for something that took better low light pictures, and secondarily wanted one that was smaller and lighter.  After reading reviews on great web sites like http://www.steves-digicams.com, I settled on the PowerShot S20, which was brand new at the time.  
+
+The S20 definately fulfilled my needs, although I wish it were a bit lighter.  It takes great nighttime pictures, although the red eye reduction is not very effective (notice how close the flash is to the lens).  
+
+Great things about it:
+- Picture quality.  Everyone raves about how great my pictures are.  It consistently turns out in-focus pictures and the quality is excellent.
+- Built in lens cover.  It does let through lint when it's in my pocket (it's not a perfect seal), but it protects against thumbprints, which is a lot better than my Nikon with no lens cap!.  Plus it's automatic, with no cap to lose.
+- CompactFlash.  I sing the praises of Compact Flash.  It's the most ubiquitous memory format, it has the most suppliers, and it is the most flexible.  You can buy a 192 MB regular memory card, or an IBM microdrive up to 340 MB.  I was told that IBM has a prototype 1 GB type II card (someone I know has one).  So this is a memory format with a serious future.  I have a $7 CF-PCMCIA adapter that I carry with my laptop, so I simply slide the CF card into that, slide it into my PCMCIA slot, and it mounts the card like a hard drive under Windows 2000!  Transferring pictures off has never been easier or faster.  It takes about 10 seconds to transfer 30 MB of data off of the card.  A benefit of this mechanism is that I don't have to carry any cables when I travel, just this thing that is the size of a PCMCIA card and weighs almost nothing.
+- Low Light.  This camera has a red low light illuminator that it uses to help focus in low light.  It can take pictures in no light, which is a far cry from my Coolpix 900, which required that I turn on lights :-).  For a great example of this, see these pictures I took in Sydney last month with the S20: http://www.lemson.com/lemson/pictures/sydney2000/operanight.JPG
+http://www.lemson.com/lemson/pictures/sydney2000/circular-night.JPG
+http://www.lemson.com/lemson/pictures/sydney2000/bridge-night-2.JPG
+I simply set the camera down on a post and used the self timer so I wouldn't be jiggling it.  Amazing.  
+- The size.  It can get lost in my bag.  
+- The resolutions.  The S20 has, in my opinion, the best resolution settings.  You can choose 640x800, 1024x768, and 2048x1520.  I usually use the middle setting because I put pictures up on the web.  The S10 and S100 do not have the 1024x768 setting, they have 800x600 and 1600x1200.  The 800x600 is too small for the web and 1600x1200 is too big.  The 1024x768 resolution is economical in size (JPEGs at medium compression are about 400 KB) and I don't have to retouch them to put them on the web!  That is so great.  It really saves time in putting pictures on the web.
+- Stitch mode.  The camera comes with the excellent standard PhotoStitch software, but it has a great mode that helps you create good stitcheable pictures.  Here is a good panorama of the San Diego harbor I made with the stitch: 
+http://www.lemson.com/lemson/pictures/sandiegomtb00/harborpano-small.JPG.html
+
+Things that aren't so great:
+- It doesn't come with a case.  With the lens cover, at least the lens doesn't get dirty, but the camera has gotten scratched up in my bag because it doesn't have a case. If I looked a bit, I'm sure I could find a good bag that fits, but part of its benefit is that I can stick it into my pants pocket because it is so trim.
+- It doesn't have the ability to auto-rotate when saving.  I understand that some other cameras can automatically save the pictures rotated when you rotate the camera.  Rotating the image is the only reason I have to put some pictures through Photoshop before I put them on the web.
+- The battery doesn't come for free with the camera.  Because it uses the exact same battery as most Canon cameras (including SLRs), they suggest that you buy the standard Canon LiIon battery and charger unit, which costs about $80.  Just remember to budget for this (including an extra battery if you will be away from power for more than a day).  I carry an extra non-rechargeable (about $12 at the drugstore, and available at many drugstores - it's a pretty standard format) for emergencies, but the rechargeable lasts a really long time.
+- It isn't as flexible as some other cameras.  I decided that I wanted this as a light, small, brain-dead point and shoot, but I would buy something like a Coolpix 990 later when I wanted something that could a) take different lenses, b) take external flash, and c), allow more manual settings.  About the only manual setting on the S20 is the &quot;Gain&quot;, which allows the CCD to operate at a higher sensitivity, with a tradeoff in graininess.  One downside to even this setting is that I ruined a whole day of pictures in Sydney by having the Gain set to 2.0 because I was taking some indoor pictures the night before. (Gain set to 2.0 for outdoor shots makes the pictures look like crud).  <br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

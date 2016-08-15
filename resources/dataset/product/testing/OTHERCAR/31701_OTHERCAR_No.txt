@@ -1,0 +1,24 @@
+DOC>
+<DOCID> 31701 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_CasioQVV-Casio_QV-5000SX </PRODUCT>
+<URL> http://www.epinions.com/content_19535007364 </URL>
+<TEXT>
+            My main problem with the QV-5000SX is speed. It takes about 15 seconds from power-up until it's ready to take a picture. So, it's no good for those spontaneous shots. When it takes so long to take a shot, you don't want to turn the camera off, since you're afraid of missing something.
+
+It also takes 11 seconds to take and store a shot at the highest resolution. The image quality is, however, excellent.
+
+Another area which shows the slow speed is on transferring image - it can take about 30-40 minutes to transfer all your pictures to the PC, since it only uses a RS-232 serial cable. The serial cable is very unreliable too. Sometimes the PC just cannot connect to the camera, no matter how much you try to fiddle with the cable. I think USB-capable cameras will alleviate much of this problem, but we'll see.
+
+The camera can store a lot of images - but I still wish it would allow you to insert smartmedia cards, and other removable media.
+
+The digital zoom (4x) is pretty worthless - very poor image quality.
+
+The camera has a facility to take mini-movies, about 160x100 resolution and 6 seconds long - these are really cool. You can make animated gifs using a supplied program, and put them on your web page.
+
+I agree with alot this man had to say about this product. The Serial cable on my camera also connects very poorly if at all. I would not advise any to buy this camera, and think Casio should do a recall to fix the connection problems.
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

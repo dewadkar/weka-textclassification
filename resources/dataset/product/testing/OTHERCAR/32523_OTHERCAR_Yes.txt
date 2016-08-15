@@ -1,0 +1,59 @@
+DOC>
+<DOCID> 32523 </DOCID>
+<PRODUCT> Digital_Cameras/111625_KODAK_DC120_Zoom </PRODUCT>
+<URL> http://www.epinions.com/content_98644299396 </URL>
+<TEXT>
+            Hello all, it's been a while since I wrote an Epinion, I have a few new Digicams to write about, this Epinion is about my 'newest' aquisition. 
+   I work for Staples here in N.E. PA ans one day a customer came in with an old digital camera he got on ebay, it was in a bundle pack of cameras he bid on, (he wanted an Olympus cam that was in the pack), he had this other cam that was in there, he wanted to see if it worked, and if it did he was giving it to his pastor, anyway it worked, and had me interested. I went online to look at this cam and see what it's specs were, it seemed interesting, and the more I read the more I wanted one, so off to ebay I went, took a while to win on one (seems they are very popular now, used to be a $1,000.00 camera in it's day (1997) they now go for between $20.00 and $100.00, give or take), I got mine for $36.00 with shipping and insurance (Paypal)
+  It arrived as they said it would, as-is, no books, no software, and no cables, just the camera, I put in 4 Ni-MH AA batteries, and a 16 MB Compact flash card that I had here, and turned the play switch on, it came on, so far so good, I turned it off, and slid the on switch for taking pics to the open side (exposing the front of the viewfinder, and the flash sensor, and powering the cam) it made some noises and the rear lcd came to life, telling me I had around 60 pics (was set to best mode, has 4 levels of quality, good, better, best , and uncompressed (which actually still has some compression actually, Kodak lied about a few things back then, I'll get to more on this later), anyway, I anxiously aimed the cam at one of my cats, and pressed the shutter down 1/2 way, the cam focused, and the ready light blinked, I pressed the rest of the way, the flash went off, and the cam saved the pic.. I went back to the playback, and the pic came up on screen, it worked! *smiles*, so I got a working one, and in good shape too, only a little dust inside the lens, Time to experiment *smiles*
+  Well, first the main specs of the cam (and I'll mention where Kodak lied)
+ Resolution 1280x960 (making this a 1.2MP cam!)
+ Actual Chip resolution 850x984 (or 836,400 pixels) so in fact this isn't a megapixel cam as Kodak claimed, ahh well, for me no big deal, as I allready knew this
+Memory (built in) 2 MB (also takes CF cards, up to at least 128 MB that I tested)
+24 bit color depth
+ISO equivalent of ISO 160, so it's just about a good all around cam.
+3x Optical zoom, no digital zoom.
+Auto Focus 2.3 ft to Infinity (using IR for focusing)
+Close up focus 0.7 feet to 1.6 feet (0.2 to 0.5 m)
+Zoom Length 38mm to 114 mm(35 MM cam equivalent) Actual Focal Length 7mm to 21 mm)
+Flash range on Wide, 2.3 Ft to 16.4 feet, on tele 2.3 ft to 10.8 Feet
+Aperture, Wide f/2.5 to f/16 Tele f/3.8 to f/24
+Shutter Speed (one of the things I liked) 1/500th to 16 seconds (great for night shots)
+Viewfinder zooming optical.
+
+ Now like I said, I only got the cam, nothing else, but I do have card readers for CF cards, so no biggie, I put the card in to the reader, and checked the pics. 
+  Kodak used a different picture file format here, it ends with a .kdc.. it's actually a form of .jpg (I know because the HP Photosmart printers we have at work will let you see the pic, but on thre it looks blurry, minor differences make it unuseable this way right from the cam.
+ Normally i'd have been stuck without the conversion software Kodak uses, but luckily you can DL it from Kodak, or use any other program that reads .kdc format (Paint Shop Pro 7 does, as does Irfanview, for examples) 
+ the cam saves all pics in the 1280x960 resolution, interpolating them up from 850x960, so they look a little soft, not sharp, a little resizing to 850x637 (which is what they are when you try to match the resolution horizontaly, without loosing the aspect ratio)helps to sharpen the pics up, as does using the sharpening controls of your favorite photo editor (once you save the file as a .jpg or whatever you like) I find that irfanview's sharpening filter or Photoshops Unsharp Mask work best, making the pics useable for web and also printing (up to 5x7 depending on the pic)
+  I have been taking this cam everywhere with me, along with my other new cam, my Toshiba PDR-3300 3.2 MP, they both have good and bad sides and work well as a combo, the DC120 will focus in ANY light even darkness, since it uses IR, the toshiba uses edge detection, so the subject has to have some light on it for focus.
+  This cam is not hard to use once you figure the controls out, it can be used 1 handed, once you set the zoom, there is a hand strap on the right side, like a camcorder, keeping the cam on your hand well. you don't use the viewscreen on back to set up the shot (you can, but it works better if you don't, and saves batteries)
+ There are some bad parts to this cam, for one, it's a discontinued cam, so no support really from Kodak, 2 you have to buy them used, so who knows what condition they will be in (but the price is usually good).
+there can be defects on the cam, for example, mine has a slight problem with hot pixels showing up on dark photos (hot pixels look liek white specks in the pic), not a major prob, unless taking pics of a starry sky *smiles*)
+ Mine also has dust inside the lens, so far I don't think it's affected the pics.
+  When taking pics in the highest quality mode, it takes about 10 seconds to save the pic, and be ready for the next one, so it's a bit slow. just plan your shots right *smiles*
+  
+  Some features I liked (and also made me get one of these)
+were, 
+  When shooting close up mode, the display comes on when you hold the shuter down 1/2 way, letting you see the pic better than using the viewfinder, also, when in close up mode,you manually focus the cam, using the zoom buttons (also shows the distance focused for on the little lcd) This is the only time the cam has manual focus, but I still like it.
+  I liek the shape of it, it is the size of a good sized paperback novel, and you use it looking down the longest part of the cam (like binoculars sort of).
+It's not a heavy cam, has a big lens, letting in more light it seems, and I been told it uses a CCD imaging chip as opposed to a CMOS chip like the cheaper cams now use, allowing for better color reproduction (I have gotten some VERy nice pictures from this cam)
+  you can still get add on lenses and filters for this cam used and new (check with Tiffen)
+  I love the IR focus system, hasn't really failed me yet, and seems right on the money when it focuses.
+
+  Now, don't get me wrong, this cam isn't as good as my Toshiba PDR-3300 for serious pictures (the 3.2 MP images are very sharp) But it makes a nice 2nd cam (replacing my other cams I reviewed in previous epinions)for the most part.
+ I for one am VERY happy with this cam, and would suggest that anyone interested in a very inexpensive cam to play around with, check ebay and try to get one, unless you get a defective unit, you won't be disapointed.
+
+ that's all for now, if you have any questions or comments, please submit them here, or e-mail at jbach37@yahoo.com
+ And again, thank you for reading!
+
+ John
+
+  
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

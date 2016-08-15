@@ -1,0 +1,73 @@
+DOC>
+<DOCID> 3520 </DOCID>
+<PRODUCT> Digital_Cameras/509295_Hewlett_Packard_Photosmart_C315xi </PRODUCT>
+<URL> http://www.epinions.com/content_11130015364 </URL>
+<TEXT>
+            <b>Updated March 20, 2001</b> - <i>I've rewritten this review to make it better and (hopefully) more informative.  I also created a web page with sample photos so you can judge the quality of this camera for yourself.  The link is provided towards the end of my review.</i>
+
+This is an excellent digital camera for the budget conscious consumer who wants to replace his or her film-based point-and-shoot camera.  Due to the lack of manual adjustments and advanced features--such as optical zoom and video out--it really isn't for the serious hobbyist or professional photographer.
+
+I purchased the HP Photosmart 315 after growing out of my previous digital camera: a Polaroid FunFlash 640.  The Polaroid is inexpensive ($80 from Walmart as of this review), and unfortunately the images it produces reveals its cheap nature.  The 640x480 pics from the Polaroid are fuzzy and lack detail, which may be fine for the novice photographer but not for more advanced users.  The Polaroid is further limited by its meager, nonexpandable 2MB memory, and only comes with a slow serial cable for downloading pictures.
+
+The $300 HP Photosmart 315 is not only a better camera with its impressive 2.1 megapixels, but also a better deal when you do the math.  On a cost per pixel basis, the HP is 42% cheaper by my calculations:
+
+Polaroid FunFlash 640:
+$80 / (640 * 480 resolution)    = $0.00026042 per pixel
+
+HP 315:
+$300 / (1600 * 1200 resolution) = $0.00015625 per pixel
+
+Now you might think it unfair to compare an $80 camera to a $300 one, but my motive here is to demonstrate that you don't always get the best value by just comparing price.
+
+The Polaroid FunFlash 640 includes 2MB of memory for $80.  The HP 315 comes with 8MB at its $300 price tag.  Cost per MB is therefore $40 for the Polaroid, and $37.50 for the HP--a slight edge to HP.  Taking into consideration that memory capacity is expandable on the HP (with CompactFlash cards) and not on the Polaroid, HP becomes the clear winner here.
+
+Polaroid provides a serial cable with the FunFlash 640 to download pictures to your PC.  HP includes a USB cable for up to 25 times faster transfer speed than the serial cable.  Again, HP has the advantage.
+
+The Polaroid FunFlash 640 has a built-in color LCD display for reviewing photos.  The HP 315 also features a built-in color LCD, plus it has an additional status display that shows the battery strength, storage capacity, and flash & photo settings.  Advantage: HP.
+
+Polaroid includes a flash in the FunFlash 640, as the name implies.  The HP 315 also features a flash.  It's a toss up in this category.
+
+Both companies include 4 AA batteries with their cameras, although HP throws in the more expensive Energizer "e-2 Titanium Technology" brand with theirs.  However, Polaroid gives you an AC adapter, whereas HP only offers it as a $50 option.  Polaroid has the edge in this case.
+
+<i>Note:  While HP sells the AC adapter as a $50 option, there's no need to pay that exorbitant price.  I found a 6V, 1A universal AC adapter from Walmart that works well for about $15--just make sure you set the polarity correctly on the tip.  FYI- HP's official specs for the Photosmart 315 AC adapter are: 6V w/Type 1 positive connector, Input (100-240V, ~0.5A, 50-60Hz), Output (6V, 2A).</i>
+
+HP and Polaroid were smart to design their cameras to take common AA batteries, because it means you don't have to pay for costly proprietary power cells--or wait for them to recharge while missing out on precious photo opportunities.  With the HP for example, I can just pop in four AA batteries that supposedly last 148 shots.  To keep battery costs down, I purchased 4 rechargeable AA NiMH batteries and charger from Walmart for $15, and carry 4 AA alkaline batteries for emergency use.
+
+Another useful accessory I purchased (and highly recommend) is a Lexar Media brand USB-enabled 32MB CompactFlash memory card.  The 8MB card included with the HP 315 only holds 20 pictures in "Fine" resolution, while the 32MB card stores an additional 60 shots (for up to 80 photos).  In addition, Lexar Media currently throws in a free USB card reader that can be used with USB-enabled cards to transfer files without draining camera power.  (The 8MB card included with the camera is not USB-enabled, so it can't be used with this USB reader.)  I found the Lexar 32MB CompactFlash card--with free reader--on sale at CompUSA for $32, which is a pretty good deal when you consider that standalone card readers retail for $30 or more.  For more info on USB-enabled CompactFlash cards, check out www.digitalfilm.com.
+
+Speaking of downloading pictures, the USB connection on the HP 315 makes this task a breeze.  You simply connect the USB cable between the camera and your PC, and Windows (95SR2/98SE/Millenium/2000) immediately recognizes the CompactFlash memory card as a removable drive.  You can then drag and drop, rename, or delete files using Windows Explorer.  This is so convenient that I didn't even bother installing the connectivity software included with the HP 315.  And for photo editing, I prefer to use Microsoft's Photo Editor to work on my pictures so I didn't install HP's photo editing software either.
+
+As for picture quality, I believe a picture is worth a thousand words in this instance.  Therefore, I have created a web page with sample images for your viewing pleasure:
+
+http://www.geocities.com/infoispwr/hp315
+
+Note that the images taken in the Fine and Superfine modes tend to look best taken when resized to 50% (800x600 resolution).  At full 1600x1200 resolution, they start to look grainy and begin to lose detail.  You can see for yourself with the sample pics.  By the way, I really can't tell any difference between the Fine and Superfine pics on the monitor--but the Superfine files are generally 100k-200k larger so they may show more detail in print.
+
+The camera is a cinch to use.  The buttons and menus are so clearly & intuitively marked that I didn't even have to open the manual.  I like the sliding lens cover that protects the lens and also turns the camera on/off.  The LCD display and menu system make it easy to delete unwanted photos, rotate images, and review stored pics.  You can even zoom in on photos to see more detail without having to download them first.
+
+If you're really into HP products, the 315 has a built-in capability to send pictures to select HP printers via IR, but since I don't have a compatible HP device I was unable to test this feature.
+
+The few negative details I've noticed with the HP 315 camera are:
+1. It only stores photos in compressed (JPEG) format.
+
+2. The digital zoom feature (1.5x/2x/2.5x) isn't worth the trouble.  The resulting pictures come out rather crude and jaggedy looking.
+
+3. The built-in flash is fine for close-in shots, but loses effectiveness beyond a few feet from your subject.
+
+4. The camera isn't speedy as normal 35mm cameras; there's a slight delay between the pressing of the shutter and capture of the image.  It sometimes requires steady hands to prevent blurry photos.
+
+For full specs on the HP Photosmart 315, go to:
+
+http://www.pandi.hp.com/pandi-db/prodinfo.main?
+product=photoc315camera
+
+For a professional review, try this link (etown is now defunct, so the link may or may not work):
+
+http://www.etown.com/electronics/product_review.jhtml?
+productID=8372&bodyinclude=product_review&articleType=product_review
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

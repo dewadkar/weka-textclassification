@@ -1,0 +1,32 @@
+DOC>
+<DOCID> 30231 </DOCID>
+<PRODUCT> Digital_Cameras/elec_AgfaePhotoo-Agfa_ePhoto_Smile </PRODUCT>
+<URL> http://www.epinions.com/content_25991351940 </URL>
+<TEXT>
+            Strike One: This camera has less than 1 megapixel resolution and only 2MB of non-removable memory. 
+
+Strike Two: This camera has a cheap, plastic lens that distorts worse than a store-brand disposable camera.
+
+Strike Three: This camera has a prodigious appetite for AA batteries. 
+
+Yer OUT! (and an Olympus D-360L is in--admittedly, it's not in the same class). 
+
+What can I say about the ePhoto Smile that hasn't been said about Yugos, Packard Bell PCs, and 7-Eleven sandwiches?
+
+Well, unlike those things, it's a small blue box. Almost useless, except it will commit 16 highly distorted color images of about 128k each to its internal RAM, and cough them up to either your TV set or PC (the latter through the serial port), depending on which included cable you use. It also will tell you via LCD screen how many shots you have left and how little battery power you have to take them with, it will delay shooting by 10-seconds; it will erase its memory selectively or totally when you make the trash icon appear; it will flash, not flash, or make its own decision according to how you set it, it will blink a green LED on the back while you must wait for a just-taken picture to be processed; and blink a red LED on the front to indicate the timer and supposedly reduce redeye. It turns on and off with a slider that protects the lens. It has a DC power input (but doesn't come with an adapter) for 4.5-5V, 1 A. It has a viewfinder that shows you 80% of your final image. It will mount on a standard tripod. It protects its ports with a small rubber cover. 
+
+It comes with a vinyl case, a wrist strap, and with some surprisingly serviceable software (Win95/98/NT) called PhotoWise, that allows the import, cropping, and enhancing (lighten/darken, sharpen/blur, tint, etc.) of the "photos" you have taken. Its body is light metallic blue, and though I called it toylike, I've seen worse.
+
+The "redeye reduction" is a joke, the LED that's on it wouldn't constrict anyone's pupil. Instead of the simple expedient of locking out the shutter button (well, "picture take" button--there is no shutter, nor is there any tactile or audible feedback that you have taken a photo [unless you use flash]), you have to watch the flashing green LED for about six seconds before you take your next shot (what, you were expecting an LCD screen on the back of this thing? Get real!), or you'll prevent your last one from being fully resolved (at least you won't double-expose). Bright sunlight is best, the flash does little more than drain the battery. You need to be a good 5 feet away from the subject.
+
+Batteries won't last long (maybe only the 16 shots and a download if you're on NiCads!), the biggest drain is when you download your photos to a TV or PC--an astute owner (but would anyone astute own this thing?) will mitigate the latter by using an AC adapter. Once in the latter, you can assign them to a folder within a photo box, clean them up (crop, adjust, etc.), and not much else. 
+
+There's little else to say here. Why did I buy this turkey? Last year I needed to take a few shots for things I was selling on eBay (although it didn't turn out to be very well-suited), and this was the laziest way to get it done! This year, it's going on eBay itself now that I have a better camera. 
+
+This camera would be best suited toward a child or early teen as an alternative to the Polaroid fun cameras--especially if you don't want to invest much because the kid might lose it or break it. It doesn't pretend to be any more than it is, but it isn't much. 
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

@@ -1,0 +1,76 @@
+DOC>
+<DOCID> 623 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_NikonCoolpixx-Nikon_Coolpix_950 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-5BCB-108B0FDA-3973C937-prod2 </URL>
+<TEXT>
+            <b>A little context: This may be an unusually demanding review</b> 
+
+I should probably start this review by noting that it's tough for me to be fair to this camera.  I'm used to demanding (and getting) the very best equipment - cameras like the Canon XL1 MiniDV camcorder and Canon EOS series still cameras.
+
+But for this exercise, I needed to minimize my expenditures and become as inconspicuous as possible.  This meant something other than an XL1, which is immediately identifiable at 100 paces as a professional-style video camera (see my review of same).  And it meant digital, because I hate developing and scanning film images far more than the average person.  As a result, I bought a camera I didn't particularly care for, and so far it's failed to meet even my diminished expectations.
+
+The bottom line is that if you're going digital from a 35mm SLR (single-lens reflex) camera, you're bound to be quite disappointed by this camera.
+
+<b>The ideal camera, before you use it</b> 
+
+On paper, it seems like it should be almost as good as a SLR.  The included zoom lens promises the quality of Nikkor optics; the LCD viewfinder should substitute nicely for through the lens viewing, and technically you have very nearly all the manual controls you might want. Combine that with the advantages of a point and shoot camera - the light weight, the pocketability, and you have a go anywhere, do anything type of device that costs next to nothing to operate.  Perfect!
+
+So why isn't this a rave, like the millions of other reviews of this camera?
+
+Perhaps because I'm spoiled.  I really love the SLR design, the interchangeable lenses, the powerful and logical controls, the convenience of through-the-lens viewing and focusing.  And I found a camera to love while I was at Samy's Camera picking up my 950:  The Nikon D1, the professional digital camera that looks and acts exactly like a 35mm SLR. As the salesperson demonstrated its features, I had a whole bunch of &quot;Wow!&quot; moments about what it could do.
+
+I probably would have bought the D1 that day, if it hadn't been for the minor problem of price.  The D1 would have cost me $ 4,995.  Various accessories - like a lens - needed for operation push the cost of a minimal D1 to $ 6,000.
+
+I'm spoiled in aonther way, too.  I own a Canon XL1 MiniDV camcorder, a $4,000 gadget [see my review] designed to essentially emulate a Canon SLR in operation.  And it works, too - if you've used a Canon SLR you can very easily transition over to the XL1, hardly missing a beat in the process. The same exposure mode dial with the same mode settings; nice round focus and zoom knobs, just like a SLR zoom has; everything building on your experience with the older line.
+
+<b>Camera Operation</b> 
+
+The Nikon Coolpix 950 is the Alien Invasion from Planet Electron.  It's like any compact, fussily overcomplicated piece of consumer electronics you've ever used.  For example, let's say you want to adjust the light sensitivity of your film.  On a 35mm camera, you would turn a knob.  On the D1, you turn a knob.  On the CoolPix 950, you hold down the flash button while rotating the control wheel until the right magical incantation appears in the LCD.  Not only is this easy to forget, it requires a contortionist to get right without hitting some of the other knobs or buttons.
+
+At first, I really liked the LCD.  It was an incredibly sharp, beautiful thing.  But due to the lack of detail in the image (relative to the thousands of pixels in print or on the screen), it was impossible to see how well the automatic gizmos were focusing your shot.  And - worse yet - as others have said, it's so dim that it's nearly impossible to see an image in direct sunlight.  This is a &quot;look at the LCD, hope those objects vaguely floating in the window are actually what you think they are, and push the button, hoping for the best&quot; type of camera.  Verifying focus is especially tricky; it's hard to tell without better detail whether something is in focus or not.
+
+[Update] I now have a bit more experience with the LCD.  The wash out problem is only on very sunny days.  On partially cloudy or cloudy days, you'll have no problem reading the LCD on this camera.  Unfortunately, that's not going to help much since most outdoor pictures are taken on sunny days :-(. 
+
+The flash was most noted for turning itself on mysteriously while I was shooting.  See, the camera shuts itself off after 30 seconds of inactivity to save battery life.  When you nurse it back to life by pressing the shutter release, the flash setting resets and you have flash with your pictures again, like it or not.  Since I can't stand flash, this is a very Bad Thing.
+
+Probably the worst thing about the camera, though, was the light sensitivity.  A Canon XL1 MiniDV camcorder can get you an image in light so low your eyes can barely see anything.  Pump up the gain, and you can get it to see <i>more</i> than your eyes can.  A CoolPix 950 has an ASA (light sensitivity measure) of 80.  Compare that to 200 for the Nikon D1. You can crank up the D1 to 400, 800 or 1600 with some loss in image quality.  If you have really extreme needs, D1 &quot;custom settings&quot; allow ASA 3200 or even 6400!   Crank your Coolpix 950 to its maximum setting of 2x (or roughly ASA 200) and you'll get significant image artifacts in the picture.  And ASA 200 is hardly enormous sensitivity; you need about 400 to get good quality indoor pictures.  Note that this appears to have been improved with the Coolpix 990 (see below).
+
+The upshot is that my indoor shots - even of something as well lit as Los Angeles' Metro Rail subway - came out blurry (because of the 1/15th of a second shutter speed the camera was forced to use).  As far as I can tell, the camera is basically useless indoors unless you like ugly flat flash pictures.
+
+<b>Cost</b>
+
+Although the camera itself was a relative snip at $ 769, you have to watch out for the accessories on these things.  $ 300 for a 128mb compact flash card (about 300 XGA [1024x768] pictures worth], $ 70 for two sets of rechargable batteries and charger; $ 30 for a UV filter.  Before I knew it, I had blown $ 1,320 on the thing.In a day's worth of shooting, I had cause to be grateful for the extra batteries; I used up the original ones that came with the camera, one set of the rechargeables, and was well into the life of the second set when I quit for the day.  This brings two obvious conclusions: First, I'm getting my money's worth on those two sets, and second, if you don't buy rechargables, you'll probably regret it.
+
+Of course if you spent more than five minutes looking at digital cameras in stores, you would have known that already: The ones in the displays always have dead batteries.
+
+The 128mb compact flash card may well have been overkill, but I think I got my money's worth.  I've taken about 150 pictures and still have 150-odd remaining. That gives me phenomenal reach.  Of course if I was doing full-sized pictures, I would probably be a great deal less pleased.  Maybe a 128mb card was overkill; I probably could have settled for 92mb, the next size down.  I definitely think 64mb would have been barely adequate; I probably would have lost valuable shots with it.
+
+In short: I bought those accessories, almost doubling the price of the camera, and yes, I needed them.  But when comparing these costs to a film camera, remember that I shouldn't have to spend another dime on picturetaking for years to come.  This makes it in some respects even better than my XL1, since the XL1 creates such massive files that you tend not to reuse the tapes.
+
+The 128mb card, incidentally, will work on the Nikon D1, if and when I buy one.  And yes, I will admit this was definitely a factor in my purchase decision.
+
+<b>Where to buy</b>
+
+I'd like to put a little plug in for the traditional camera store here, as opposed to electronics super stores, mail order and their ilk.
+
+The traditional camera store (Samy's in Hollywood) was more knowledgeable, had better advice (which was to buy something other than the camera I rather pig-headedly purchased), and had a lower price than any of the superstores I visited (Best Buy, Good Guys).
+
+On the whole, whenever I've tried to buy electronics online, it's been an unsatisfactory experience - I don't save much money, and I don't like not knowing for sure the product is in a box ready to be shipped.  So what's the point?
+
+The traditional store is the way to go here.
+
+<b>Conclusions</b> 
+
+So, what can I actually recommend?  I could suggest you buy a D1, but, sadly, most people probably can't quite afford that solution, wonderful as it may be. 
+
+I might suggest the Coolpix 990, which apparently fixed the LCD problem and a few other miscellaneous glitches.  It also has higher resolution than the 950, although if you're doing web-based work, that's really not necessary.  Default light sensitivity has increased to ASA 100 (from 80), and there is a ASA 200 and 400 mode.  This beats the 950's ASA 80-200 range by a significant margin, although I haven't seen what price, if any, is paid in noise levels. Unfortunately, it still has the soul of the point and shoot, with similar inconvenient controls.  But it's definitely worth the extra money over the 950 if you can find one.
+
+Olympus has a digital SLR, and I was tempted by it, but it's $ 1,200 price was just a shade over my budget.  Although it did include rechargeable batteries and a 32mb compact flash card, I would have been seriously short of memory if I'd stuck to my $ 1,300-odd total budget (see above).  It was also an akward shape, basically like a mini-35mm SLR; because it was so small, it didn't have the quality feel I like in equipment I buy.  Because it was SLR-shaped, though, it wouldn't fit in my pocket like the Coolpix.  Despite this, I would seriously consider the Olympus next time I look into digital cameras in that price range.
+
+What prevents the Coolpix from totally losing my recommendation is that you can fit it in your pocket, it's largely inconspicuous (although, oddly, a lot of people I met seemed curious about it), and while the results weren't fabulous, they were surely interesting.  We'll just have to see if later expeditions with this camera prove more successful.<br><br>
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

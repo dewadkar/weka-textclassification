@@ -1,0 +1,147 @@
+DOC>
+<DOCID> 3510 </DOCID>
+<PRODUCT> Digital_Cameras/509295_Hewlett_Packard_Photosmart_C315xi </PRODUCT>
+<URL> http://www.epinions.com/content_48913157764 </URL>
+<TEXT>
+            <b>Pricing</b>
+
+Last November, when I purchased my HP Photosmart 315, it retailed for about $300.  You can probably find the 315xi for less than $250.   
+
+HP changed the software that your pc uses to talk to the camera and renamed this camera the 315xi.  But, if you have Windows XP, you won�t even be using the HP software.
+
+You can find decent cameras for as low as $100 and for as much as $1,200.  This camera is ideal for a beginner to a mild-enthusiast.  
+
+The 315's price puts it in competition with low-end cameras.  Low-end cameras usually sell for $100-$300.
+
+However, the features, in particular the <i>megapixels</i> (2.1 megapixels) put it squarely in the league of mid-range cameras.  In other words, the 315 can take one of those stunning pictures of a tiger-striped cat in which each and every hair is clearly defined. (e-mail me if you want sample)
+
+<b>Why digital?</b>
+
+With a digital camera, you�ll quickly become a better photographer without spending loads of cash on film.  Go ahead; take 500 pictures of your dog!  You can delete the ones you don't like.  
+
+Another benefit to having a digital camera is that you don�t have to worry about what some 1-hour photo flunky thinks of you.  Heck, go ahead and take nudes of yourself and your honey.
+
+Lets talk about the 315!
+
+<b>Looks & Durability</b>
+
+It looks and feels like a nice 35mm.  
+
+The dimensions are 5� x 2.7� x 1.3�  ...typical of most 35 mm cameras.  It weighs about 8 ounces without batteries.  That is what most 35 mm cameras weigh loaded with batteries.  
+
+As you can see, the front is silver with a built in, sliding, lens cover.  It has a sporty, black, rubber grip, a built in flash, and a blue shutter-button (which is just the right size for your index finger).
+
+The build-quality and materials are excellent.  It's durable and feels expensive.  
+
+Since HP does not include a protective case, they must have imagined that it would be dropped occasionally.  My 315 has suffered some scratch and scuff marks.  <i>Doh!</i>  
+
+I do recommend purchasing an aftermarket camera case.  I found a Targa brand case at Comp USA for about $20.  
+
+It includes a storage area for your extra memory cards (this is like film).  It includes a nice, but bulky, shoulder strap.  And, if you don�t mind looking like a geek, you can clip the bulky camera case onto your belt.
+
+The back of the camera is black and includes a 1.8� Liquid Crystal Display and some extra feature buttons.
+
+<b>The Display</b>
+
+Inexpensive digital cameras do not normally include an LCD.  The 1.8� LCD is adequate, but I do have my complaints.  
+
+First, the 315's, LCD is not recessed.  So, if you drop this camera, the LCD will definitely get scratched. 
+
+The LCD is used to browse the camera menus, to view stored photos, and to preview pictures.  You do have the option of viewing through a traditional site or using the LCD.
+
+Using the LCD to snap pictures is impractical because it uses valuable battery resources.  
+
+Another issue with the LCD is that under bright light, it is almost impossible to see anything on the LCD.
+
+<b>Taking Pictures</b>
+
+With the 315, most people will be able to pick this camera up and start taking pictures.  Open the lens cover, look through the glass and shoot.  The 315 does have auto focus and auto flash.
+
+I do have a complaint with the speed of the auto focus.  If you want to take multiple pictures in rapid succession, this camera won�t work for you.  Even if you are shooting the same subject, the camera takes 1 to 3 seconds to refocus.
+
+Lets get into Megapixels. 
+
+<b>Megawhat?</b>
+
+If you�re using a computer, which I�m sure you are, you probably know a little about pixels.  These are the little dots that combine to make an image.  
+
+Well, this camera can take pictures with up to 2.1 Megapixels, or 2,100,000 little dots.  Now if you want to take a nice picture, and have it developed, you�ll want a camera that has 2.1 (or more) megapixels.
+
+Pixels aren't the only factor that determines picture quality.  The pixels really determine how large of a print you can have while still maintaining picture quality.  
+
+If you�re concerned with picture quality, you should have a good lens as well as a minimum of 2.1 Megapixels.
+
+The 315 has an above average lens for taking standard pictures.  The lens is a 6-element, F2.8 lens.  You don�t need to know what this means, just know that it�s the equivalent of a 35mm lens on a conventional camera.
+
+<i>What this means is that a person with minimal photography skills can take nice looking pictures.</i>
+
+<b>It Goes Zoom</b>
+
+It has the ability to digitally zoom 1.5, 2 and 2.5 times.  
+
+It�s a nice feature, but you may find that it�s more trouble than it�s worth.  2.5 times the original is not significantly larger.  
+
+Also, you�ll need to use the LCD to preview your shots when you�re in zoom mode. This means you will completely drain a set of Duracell Ultra or Energizer E2 batteries after using your zoom mode about 20 times in a row.
+
+<b>Speaking of the Batteries</b>
+
+This camera uses four AAA batteries.  This can be an expensive proposition.  
+
+If you just take normal pictures and never turn on your LCD, you can probably take thousands of pictures without replacing the batteries.  However, uploading pictures, using the zoom feature, and reviewing pictures can all be a drain on the batteries.
+
+The camera does have a place to plug in an AC adapter (not included, of course).  But, this would only be practical while uploading pictures to your PC.  I mean, you don't want to be stuck taking pictures within 8 feet of a power outlet?
+
+<b>Uploading pictures</b>
+
+There are some cool ways to upload and print pictures with this camera.  
+
+You can use the included USB cable to send pictures to your computer.  It is fast and easy and there are two ways to accomplish this.  
+
+First, the camera will show up under <i>My Computer</i> as a disk drive.  Just open the disk drive and drag the pictures to the destination.  The pictures are already JPG files.  
+
+Alternatively, the camera comes with software (for Mac or PC) that will upload the pictures for you.
+
+The second method of transferring photos is via infrared.  If you have an <b>HP Photosmart</b> printer, which I do, you can <b>Jet Send</b> pictures directly to your printer.  
+
+<i>Jet Send</i> uses the infrared on your camera to send a picture directly to the infrared on your printer.  The Jet Send picture will print automatically.  However, you won't be able to edit your picture and this method is much slower than the other methods.  
+
+The third and final way to transfer photos is by removing the <b>Compactflash</b> card and putting it in a flash card reader.  I prefer this method because it does not drain the camera batteries.    
+
+My <b>HP Photosmart 1000</b> printer has a built in <b>Compactflash</b> card reader.  Once I place the card in the side of the printer, the card shows up as another disk drive on my PC.  I can then transfer the JPG files to my PC.  Alternatively, I can just print the picture right from the <i>CompactFlash</i> card.
+
+<b>CompactFlash Card</b>
+
+This is the film, baby!  It's a memory card and is reusable.
+
+The included <i>CompactFlash</i> card has a capacity of 8 Megabytes.  This is good for up to 80 pictures.  However that is 80 <i>basic</i> quality pictures.  There are two other settings: <i>fine</i> & <i>superfine</i>.  
+
+8 MB's equates to 10 <i>superfine</i> pictures or 20 <i>fine</i> pictues.  If you're planning to make prints of your photos, I recommend using the <i>superfine</i> setting.  However, if you want to post your photos on the web, the <i>basic</i> setting is best.
+
+Most people will want to buy an additional card.  I bought a 32 Megabyte <i>CompactFlash</i> card, at Walmart, for about $25.  This gives me the ability to shoot 40 <i>superfine</i> shots, 81 <i>fine</i> shots or 326 <i>basic</i> pictures.  It�s easy to switch the cards, so I keep my old 8 MB card handy as a backup.
+
+<b>The Software and your PC</b>
+
+The HP 315 comes with a CD that will load software on your Mac or PC.  The software includes programs for uploading, viewing, editing and printing your pictures.  
+
+The HP software is easy to use and will handle the needs of the average user.  NOTE: if you have Windows XP, Microsoft has built in software, so you won't need the CD.  I like working with my photos in XP.   
+
+One thing about this camera is that it will only create pictures in JPG format.  Some serious photographers like to use TIFF format.  Typically you�ll find cameras with such capability when you get into the $400+ range.
+
+In addition to the HP software, a bonus CD from <b>Arcsoft</b> is included.  This has two programs on it...  <b>Photo Impressions</b> and <b>Photo Montage</b>.  
+
+These programs offer more advanced picture editing.  However, both programs are awkward to use, yet lack the features of <b>Adobe Photoshop</b>.
+
+<b>Conclusion</b>
+
+This camera will make a great gift or starter camera for someone who has outgrown disposable cameras.  For $250, you�ll find that this camera can hold it�s own with many $300-$400 cameras.
+
+
+
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,25 @@
+DOC>
+<DOCID> 27772 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_PowerShot_S100 </PRODUCT>
+<URL> http://www.epinions.com/content_17708650116 </URL>
+<TEXT>
+            This can be a great camera, depending on your needs. If I just wanted to take "family moment" shots at parties and on outings, this would be the camera for me. It's light, easy to use and takes sharp pictures under well-lit conditions. The flash is adequate, but, not having pre-flash, tends to give the ol' red-eye to some of my nephews, or perhaps they're just evil incarnate...
+
+It can't be used in museums because it uses a "full spectrum" metering/AF light. In other words, it flashes a tiny spot light for a brief interval before taking any picture. On the one hand, this makes for good metering. On the other, it got a curator at the Met angry until I demonstrated that it wasn't a high-intensity flash he saw. (Always tape your flash anyway, it can win you arguments if someone else uses theirs). You can't tape over the AF light: it won't meter correctly.
+
+Macro mode isn't so hot, close focus at wide angle (equivalent to 35mm lens on a 35mm camera) was 4" and at telephoto (equivalent to 70mm lens) was 11". I think maybe I'm just asking too much in this case. Still, the pictures didn't seem as sharp as they could be in macro.
+
+This was my second experience with a zoom lens. The Sony Cybershot has a beautiful optical/digital zoom that's smooth throughout its range with only one discernible transition. The S100's zoom comes to a grinding halt at the maximum optical resolution, then at 2x digital, then at 4x digital while the lens ratchets around. Each time you shut it off and turn it back on, you're back at 1x resolution. You'll never get a quick action shot unless you're in the right zoom range.
+
+Software:
+
+I can't comment on the included Adobe PhotoDeluxe, I use my own tools. The USB Twain driver is a bit buggy, crashed my computer once when plugging in the camera. Then the capture program wouldn't autostart for weeks. It corrected itself when I was using the "acquire" function in another program and pulled the cable out by accident. Odd...
+
+Point of information: Like (almost) all consumer digital cameras, the included data card is inadequate, expect to upgrade immediately or lug around your laptop if you're taking more than 3-6 shots!
+
+            
+<label> No
+<rating>  4.0
+
+</DOC>
+<

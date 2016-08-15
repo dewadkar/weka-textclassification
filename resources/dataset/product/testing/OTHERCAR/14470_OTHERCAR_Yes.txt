@@ -1,0 +1,90 @@
+DOC>
+<DOCID> 14470 </DOCID>
+<PRODUCT> Digital_Cameras/Kodak_EasyShare_CX4230_zoom_digital_camera_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_97769655940 </URL>
+<TEXT>
+            BACKGROUND:
+
+The Kodak EasyShare CX4230 is my first personal digital camera.  Our household already has two digital cameras - a Kodak CX4200 (essentially a CX4230 without optical zoom and with a fixed focus lens) and the HP 612.  I decided to step up from 35mm film to digital.  The three things I wanted in a camera was price of about $300 CDN (roughly $210 USD), 2 mega pixels of resolution or more and optical zoom.  This would be enough detail to match the 4x6 prints I take with my film camera.  The ability to focus to fairly close objects (macro or close up mode) was an important selling point.  The ability to record movies was not.
+
+Two cameras fit the billing - the Kodak CX4230 and the HP 620 (an updated version of the HP 612).  Both offered 2 mega pixels of resolution, 3x optical zoom and were being sold for $299.  I went with the Kodak for a number of reasons:
+
+-&gt; The Kodak has a close-up (macro) mode, which allows it to focus closer than the HP.
+-&gt; The Kodak is smaller, looking and feeling more like an automatic 35mm camera.
+-&gt; The Kodak offers exposure compensation (+/- 2.0 EV in 0.5 increments)
+
+I purchased the camera at a local camera store, which is an official Kodak dealer (for digital and photographic supplies).  They handled my warrantee activation, and included a free trial of their digital picture printing service (which I will try at a later date).  In addition to the camera, I purchased a 256mb Secure Digital card, an Energizer NiMH (Nickel-Metal Hydride) charger with six 1850 mAh AA-sized NiMH batteries and a camera bag.
+
+NOTE ABOUT THE DOCK:
+
+Kodak is trying to sell a camera docking station along with their EasyShare cameras.  Like the Hotsync cradle included with Palm Pilots, this device allows you to plug your camera in, recharge an include battery pack and copy your pictures off of the camera with one button press.  While the convenience is a good idea, at $120 CDN, this is simply not a good purchase.  The camera comes with a USB cable and all the required drivers/software to access this camera.  Windows XP integrates this functionality even further and includes built-in functionality to work with digital cameras.  Your money would be better spent investing in a charger and several sets of rechargeable batteries, instead of being restricted to one battery pack (which you can't charge when the camera is not on the dock).  In conclusion, the Kodak Camera Dock for EasyShare cameras is not only not required, but I advise against buying it.  Save the money, and buy some rechargeable batteries and a memory card instead.
+
+(To be fair, HP is also trying to sell a docking station for their camera.  Furthermore, it is necessary to access some features that Kodak has included on-camera).
+
+DEFECT NOTICE:
+
+I had the pleasure of receiving 2 consecutive slightly defective cameras.  It was a minor defect - when I took bright landscape pictures (with lots of sky) at full zoom, a dark spot could be seen on the picture.  Cleaning the lens didn't help and it wasn't lens flare (it was always in the same location on a particular camera).  However, the dealer happily exchanged and the 3rd camera seems to be fine.  I'm not sure if this is a Kodak QC issue or not - we had no problems with our CX4200, and I have had no other issues with the camera.  My suspicion is that the camera arrived with some sort of contaminant inside of the lens, and that this is an isolated incident.  This is something to keep in mind, however.
+
+USING THE CAMERA:
+
+The camera seems to adapt to a variety of conditions very well.  I'm pleased with skin tone - it tends to err on the side of red, as opposed to the blue in some cameras.
+
+In bright outdoor conditions (other than the above aforementioned problem), the camera performs exceptionally well.  The water is bright blue, the trees are bright green.  The pictures are well defined.  The shutter speed goes as fast as 1/1700 s.
+
+In indoor conditions, the internal white balance does an exceptional job adapting to different colours of light (incandescent, fluorescent, etc.)  The camera can adapt well to low-light conditions.  Without a flash, the shutter speed can slow to 1/8 s (or, if full positive exposure compensation is used, this can be increased to 1/2 s).  The aperture is opened as far as F2.7 in wide angle low light photography.  Some great existing light pictures can be taken, but care has to be taken to prevent blur. The camera includes a standard sized tripod thread for this purpose.  A certain amount of noise can be seen in the picture when light starts to get low, which can be expected (and is seen in cameras costing much more).  This manifests itself mostly as some speckling on white walls.  In extremely low light conditions, blue noise can be seen in the black background.  However, comparing low light situations taken with both a CX4200 (the fixed focus version) and an automatic 35mm, the Kodak comes out ahead.
+
+Pictures taken using the onboard flash are generally well exposed and not washed out, and it seems to get 3m-5m (10 ft-15 ft) of range.  The flash adapted well to the existing light.  It flashes twice - once to get exposure information and a second time at a controlled level to take the picture.  There are four basic modes for the flash - automatic exposure, red eye reduction, fill flash and flash on.  Both the AE and red eye modes automatically use the flash as part of the exposure setting.  This seems to work pretty well.  The red eye mode is the same as AE except it sends a single flash a second before taking the picture.  This doesn't seem to work well, and is a bit anticlimactic after using the discotheque-esque red eye reduction on the HP 612 (it is a bit more aggressive).
+
+The fill flash mode seems to help with some backlit scenes.  It sets the exposure using existing light (instead of the light level with the flash), which can be useful in low light conditions to prevent the background from disappearing into blackness.
+
+The zoom lens performs as advertised.  The close up mode is good to 100mm (3.9 in) and can take sharp close ups (I've tested it on posters and documents).  The lens seems to be clear and sharp.  There isn't any very noticeable distortion by the lens, and certainly nothing more than would be expected on a good quality 35mm automatic.
+
+One issue run into on occasion is insufficient light to set the autofocus.  The effect of this is even more pronounced taking pictures in close up mode &#150 the pictures can turn out quite blurred.  At these times, I wish I could have a fixed/manual focus override, because the fixed focus CX4200 has no issues.  Both the lens and the shutter seem to operate far quieter than the 35mm automatics I've used in the past.  People have trouble knowing when I was finished taking a picture.  The autofocus is a passive type, which takes a lot longer to focus than the active IR systems used on 35mm automatics.  The CX4230 includes exposure compensation, which can be very useful in situations where the automatic exposure can't quite get it right.  It is also very helpful in enhancing low light situations.
+
+The Windows 98 drivers seemed to work very well.  When connected to the USB cable, the camera appears as a drive and pictures can be copied over.  Windows XP automatically detected the camera and functions in a similar manner.  Furthermore, Windows XP can be set up to automatically copy the files or execute a specific program.  Kodak includes EasyShare software to make the picture organization/emailing/ordering prints easier.  I only installed the minimal drivers, so I can't comment on this.  However, the camera supports onboard selection of pictures for printing, emailing, etc. that works in conjunction with the software.  I'm sure it is useful to someone.  :)
+
+Kodak's EasyShare cameras (as with most contemporary digital cameras) support EXIF, which stores all kinds of useful information about the pictures within the picture - times/date, camera model, aperture setting, shutter setting, zoom setting, flash setting, etc.  When viewed with an appropriate viewer, this can help the learning process.  I use a program called Exifer, which also can be used to sort through thumbnails of the pictures (also included as part of EXIF - a lot quicker to load!) - http://www.exifer.friedemann.info/
+
+Another interesting feature of the CX4230 is a video out port on the camera.  This allows a TV to act as both a viewfinder (this is low resolution video, so it won't replace a video camera) and to display a slideshow of pictures on the camera (slideshow being a mode on the camera).  This is a neat feature that can be used to preview pictures before downloading and for display in a situation where a computer is not available.
+
+The 38mm (1.6 in) backlit LCD display is pretty good quality.  It seems to give a reasonable representation of the picture.  It is bright and has good contrast.  As with most backlit LCDs, it has some trouble in direct sunlight.  However, shading the display in bright environments is pretty effective, and the display is useful in bright situations that render the HP 612's display useless.
+
+The user interface is pretty good.  It consists of a 4 way pad, a "select" button, as well as dedicated buttons for Menu, flash settings, Share, Delete and Review.  The menu layout is pretty intuitive.  There are a number of options in the menu (for things like automatic LCD display, exposure compensation, etc.) &#150 considerably more options than on the HP 620.  The 4-way pad is in a good location, as it operates the zoom and is located where the zoom control normally occupies.
+
+The optical viewfinder is pretty good quality.  It has a clear framing display, and does not seem to suffer much parallax, except when close up.  The close up mode automatically turns on the LCD display to deal with this.
+
+Like most cameras, the Kodak has a status LED near the viewfinder.  It is very useful when composing shots.  One thing that would be nice would be to break up the "camera not ready" status display, indicated by blinking amber light.  This could mean "flash not charged", "cannot focus" and "not enough light".  Knowing which is which (particularly the last two) would be invaluable.  The HP suffers a similar shortcoming.
+
+Battery life seems to be pretty decent on this camera.  With conservative use of the LCD display and not having long "on" periods, I managed to get roughly 160 pictures out of 2 AA 1850mAh NiMH batteries.  A note about NiMH batteries - they run at a lower voltage than some other types. Consequently, the "low battery" warning will come on when the batteries have a lot more life remaining.  The camera can NOT use standard alkaline batteries - they cannot handle the current that the camera pulls.  Designer high drain alkaline (such as Duracell Ultra) may work, but I haven't tested this.  The camera comes with a Kodak brand disposable lithium battery, which is rated to last twice as long as NiMH batteries.  This helped me get started immediately while my new NiMH batteries recharged.
+
+Another issue comes up when the batteries "run out".  When this occurs, the camera stops, the viewfinder LED blinks red and the camera turns off five seconds later.  This usually occurs just after taking a picture.  In these cases, it is common for either the picture not to be recorded at all or to be corrupted.  Keep this in mind and take the picture again after reloading with new batteries.
+
+This camera does take some time to save the picture after they are taken.  It includes enough onboard cache to store roughly 4 consecutive pictures.  A nice touch is that the camera can be turned off (and the lens retracted behind the lens cap) while pictures are still being stored to the card.  The status LED allows the user to know when the camera is finished storing.
+
+The camera includes two useful features found in most 35mm automatic cameras - self timer and focus lock.  The self timer takes the picture 10 seconds after the shutter button is pressed.  This allows for the photographer to be in the picture, as well as providing another way to reduce blurring in dark conditions.  The focus lock allows the photographer to set the focus and exposure on a particular subject, and then adjust where they are in the picture.  This is good, since it is often desirable not to have the subject dead centre in the picture.
+
+The camera worked very easily "out of the box".  Kodak does include a user's manual on CD, which is also downloadable off their website.  I recommend (for any camera) that the photographer make their way through this manual.  There are several nuances for any particular camera that are valuable to know.
+
+CHANGES I WOULD MAKE TO THIS CAMERA:
+
+A neat feature on the HP 612 that is absent on the CX4230 and CX4200 (and, indeed, the subsequent HP 620) is a separate simple LCD status display on the top of the camera, not unlike those on 35mm cameras.  This gives a status display of the pictures remaining, flash setting and quality setting at all times without firing up the power-hungry backlit rear display.
+
+Manual settings for exposure/focusing/etc. would extend the functionality of this camera.  However, I'm aware that this is an artificially imposed limitation to encourage me to purchase a more expensive camera.  While it would be nice to have on this unit, the automatic systems are pretty good.  A compromise would be to have a fixed focus override mode to help in low-light conditions where the autofocus gets lost.
+
+It would be nice if this camera included an AC adaptor for "studio" type work.  It seems obscene that this is a $60 CDN accessory.  While I recognize that these cameras use more current than most electronics which include an AC adaptor (2000mA, as opposed to a usual max of 700mA), this is a bit pricy.  (This is the approximate price of third party adaptors as well).
+
+The physical weak point on the camera, as on the CX4200, is the power/shutter slide switch.  The switch has a physically weak feeling to it, and the spring mechanism has been known to break.  The actual lens cover (a spring loaded metal door) is solid.  Ideally, an electronic on/off switch/button would be preferable to one with physical stress on it.
+
+CONCLUSION:
+
+Other than my lens defects, this camera was a solid performer.  It is easy to use, yet is powerful enough to compose great pictures.  For the price, it is a lot of camera.  I'm not confident that my defects were any more then a low probability occurrence, and so I would recommend this camera to anyone looking for a first or low cost digital camera with an optical zoom lens, capable of taking high quality pictures.  This camera is also a good way to get into photography in general.  When coupled with Exifer, it allows the learning photographer to experiment -- without the cost of photo finishing.
+
+-legolas
+http://legolas.ca
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

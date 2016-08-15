@@ -1,0 +1,44 @@
+DOC>
+<DOCID> 22087 </DOCID>
+<PRODUCT> Digital_Cameras/Kodak_DC215_Zoom_Digital_Camera__Camera_185_3175 </PRODUCT>
+<URL> http://www.epinions.com/content_14564626052 </URL>
+<TEXT>
+            I have had the Kodak DC-215 Millennium Edition for over a year now.  The difference between the regular edition and this one is that mine came with 8 MB of memory instead of 4 MB and it also comes with a USB Card reader.  Other than that, they are identical.
+
+I usually like to list out advantages and disadvantages of the product I am reviewing, since it�s easier to get to the point and easier to read that way.  I will do the same here.
+
+<b>Advantages</b>
+- Reasonably High Resolution at Its Price.  For a camera at just over $200, the DC-215 provides pretty good resolution.  A 1-Meg pixel camera is generally comparable to the quality produced by a regular camera on a 5 X 7 print.  I am not saying this is a high resolution camera by today�s standard, but it�s certainly sufficient for most people under hey-let�s-take-a-picture usage.
+
+- Optical Zoom.  This means it�s a real zoom.  Some digital cameras sort of cheat and use digital zoom.  Optical zoom is the real zoom, which provides better details.  This superior design is somewhat rare for a digital camera at this price range.  Very nice.
+
+- Good Quality.  The quality of the pictures is pretty good for its price.  Again, I wouldn�t say it�s super professional quality, but for typical spur-of-the-moment picture taking, it�s more than sufficient.  I noticed that the pictures I take are sometimes too bright when looking at them on screen, but they print out just right.  (Perhaps I should recalibrate my monitor with my printer�.)
+
+- Easy to Use.  The LCD screen on the back of the camera provides a really easy-to-use menu allowing users to change settings and other aspects of the camera.  The LCD screen is large enough that it�s easy to read and the icons used to represent different settings are easily understood.
+
+- Small.  This camera is pretty small.  While this camera is not heavy, you can feel that the components are tightly packed inside to allow this camera to be so small.
+
+- Sturdy.  The camera feels pretty sturdy.  It�s small enough that it looks delicate, but yet when you hold it and use it, it feels very well made and sturdy.  That feel is quite reassuring.
+
+- USB ScanDisk Reader.  My camera comes with a USB reader for the flash card used to store pictures.  With Windows 2000, it�s a no-brainer.  I plugged the USB reader in, and Windows 2000 automatically set up the reader and it is simply used like a removable disk.  I didn�t even need to insert the driver disc.  With Windows 98, the OS will detect the USB reader and you will have to insert the driver disc when asked. (Still easy, just pop in the driver disc.)  The transfer rate is amazing fast, thanks to USB.  For those without USB capable computers, it can be connected using PS/2.
+
+<b>Disadvantages</b>
+- Battery Hog.  As other reviewers have mentioned, this thing eats battery fast.  This camera uses 4 AAA batteries.  If you opt <I>not</I> to use the preview LCD screen on the back, then your batteries will last much longer.  However, I like the preview LCD, and use it a lot.  I ended up getting a set of very-high-capacity rechargeable batteries, and boy, it�s great.  It now feels like I can never run out of batteries even just on one charge.  If you get this camera, it is well worth the money to get some very nice rechargeable AAA batteries (about $20, including the charger.  I got mine at Wal-Mart.). 
+
+- I haven�t been using the software that came with the camera much.  Those programs are typically stripped-down version of other full-fledge programs.  I have not been too impressed with the software came with this DC-215.  That might not be fair, however, since I already have Adobe Photoshop on my computer.  I really have no reason to use those programs.  They might be very useful for some people, however.
+
+<b>Note:</b>
+- For those who might want to take a lot of high-resolution pictures, in additional to a set of rechargeable batteries, I would suggest you get a smart card with 32 MB or more.  You can cram a lot more pictures onto that card before you need to transfer the pictures to the computer that way. 
+
+- If you are curious, there are pictures taken with this camera at Kodak�s website.  Just go to DC-215 in the digital camera section and you will find it there.  Of course, Kodak has these pictures professional taken with colorful images.  It might be worth the time for you to check them out, however.
+
+<b>Conclusion</b>
+I really love this camera.  It�s convenient, easy to use, and provides everything I need and little more at a price that is very reasonable.  I usually like to get something that gives me everything I need, plus a little more just in case, and DC-215 provides just that.
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

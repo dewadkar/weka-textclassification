@@ -1,0 +1,36 @@
+DOC>
+<DOCID> 33974 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital-JamCam_JamCamProductFamilieses-Jam_Cam_Jr_ </PRODUCT>
+<URL> http://www.epinions.com/content_58913361540 </URL>
+<TEXT>
+            I've gone through 3 digital cameras in the last 4 months while working in Yosemite, and this was my starter camera.  I ended up getting it for $20, and I figured that's what people pay for a pair of disposable cameras.  I didn't have much desire to have a digital camera, as I have spent quite a bit of money on my 35mm outfit, but thought it would be good to take quick snapshots on trails or of the park to e-mail to friends.  And for that, this camera did a good job, especially for the price.  I have since moved to a Kodak DC3200 and finally to an HP 315.  I'll give reviews on all of them if you find this review helpful.  
+
+<b>What's included in the box</b>
+
+Of course you receive the camera, but the most impressive thing in the box is that you get both serial and usb connectivity.  The Kodak camera only had a serial cable, while the HP only has a usb cable, and for people with an older pentium laptop or desktop without a usb port, it's nice to be able to connect, especially while on the road.  
+
+In addition, you receive the CD containing the transfer software and Photodeluxe, a very underrated imaging software program.  I actually enjoy using Photodeluxe quite a bit, and have used it for all 3 cameras.  It has easy to use as well as advanced functions, and the instant fix does a good job.  You can bypass the JamCam's own downloading software to pull your photographs directly from the camera into Photodeluxe.
+
+<b>The camera itself</b>
+
+The camera takes photos at its top setting at 640x480, which is hardly acceptable for 4x6" prints.  It also has a lower setting, which I honestly never used once, not even for putting photos on ebay or other online sites.  It can save 8 pictures within the camera's built in memory at the highest setting.  The camera does have a built in flash with 3 different settings:  auto, on, and off.  One of the good things is that it has a built in timer, which quite a few other more expensive cameras don't have, such as the Kodak DC3200.  Another good thing is that there is a tripod mount on the bottom, which is nice if you want to use that timer.  Again, many cameras don't have that function, such as, surprise, the Kodak DC3200.  Finally, this camera is basically plastic, but it can take a beating!  I've hit it against rocks, and it kept on ticking.
+
+On the other hand, there is a terrible feature in the camera, that being when you want to delete photos in the field, you have to delete them all.  There's no option to delete #4 if you're running out of space later.  
+
+Another negative is the power source.  It uses alkaline 9V batteries, and let me stress the word <i>alkaline</i>.  If you use heavy duty, you'll get 10 pictures out of it max.  You'll start running into quite a bit of money buying 9V batteries, especially because it's difficult to find rechargeable 9V batteries and charger for cheap.
+
+The camera accepts MMC, multi-media cards, in a built in slot.  I've heard it accepting 64mb cards, but it seems the larger the card, the more chances of the camera not allowing all photos to transfer to the computer.  16mb will still get you an additional 60+ photos, so you don't need anything too large.  But the camera does not save it's photos in the camera in a standard jpeg or tiff format, so you can't use a stand alone MMC reader.  That means more batteries you're using up to transfer, unless you buy an AC cable.
+
+<b>The Photos</b>
+
+This camera did a nice job taking the standard scenery photos, where you're shooting in light at a standard distance.  The colors turned out decently, and the Photodeluxe instant fix could make them look quite nice very quickly.  But when it came to flash photography, or any type of sub-standard lighting, you had a 50-50 chance of getting a good photo.  I've seen this camera come out with a nice photo, and then the next photo turns out almost pitch black.  And as it has no LCD screen, you won't know this until you get back to the computer.  Expect to do quite a bit of work with Photodeluxe to get many of your photos looking acceptable.  
+
+<b>Conclusion</b>
+
+There is no way I can recommend this camera if it is going to be your main camera.  It makes a good camera if you want to take photos for ebay or take quick snapshots to send an e-mail to a friend.  This is a camera you can use where you want to spend under $30 to take pictures around the yard or in the house and see them on the computer in the time it would take you to drive to the 1-hour photo developing shop.  But once you start using it for a month or two, you're going to want to hand this down to some kids and get a 1 megapixel camera, with an LCD viewscreen.  Based on the $30 price, I'll rank this 3 stars.  If you think you're going to want to use the camera on vacation and for prints, you should save the $30 and go for at least a 1mp camera.  I would recommend this camera if you're using it for the right reasons!
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

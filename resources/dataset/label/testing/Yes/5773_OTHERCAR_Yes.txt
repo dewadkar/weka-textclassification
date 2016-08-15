@@ -1,0 +1,71 @@
+DOC>
+<DOCID> 5773 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Olympus_D-490_Zoom </PRODUCT>
+<URL> http://www.epinions.com/content_23535718020 </URL>
+<TEXT>
+            The <b>Olympus D-490 Zoom Digital Camera</b> is the latest model in the long line of D-400 series cameras from Olympus which included the D-400Z, D-450Z and D-460Z. Accordingly, the new D-490 boasts some impressive enhancements to the older models including a 2.1 megapixel sensor, an uncompressed TIFF storage option, a QuickTime (QT/MOV) <i>silent</i> movie mode and a slightly improved menu option.
+
+Some other features of this camera include:
+
+- 3x Zoom Lens (equivalent to a 35-105mm lens on a 35mm camera)
+- 2.5x Digital Zoom
+- Built-in semi-automatic flash w/Red Eye reduction.
+- 12-second delay Self Timer mode.
+- Adjustable ISO setting mode (Auto, 100, 200, 400)
+- 1.8 inch color monitor with 61,000 pixels.
+- View-finder dioptic adjuster (for eyeglass wearers)
+- Fast-write capabilities allowing up to 1.3 frames per second in continuous shooting mode.
+
+Included with the camera are the following items:
+
+- Strap
+- Olympus long-life Lithium batteries (non rechargeable)
+- Serial cable and MAC connector.
+- Camedia software
+- QuickTime movie software
+- 8mb storage card
+- Video cable for TV playback
+
+Now that you've read the specs on this camera, let's discuss the pros and cons of owning this camera.  Please note that my opinion will not be comparative to a standard film-based camera.  It will be judged on my experience with other digital cameras only.  
+
+<b>Pros</b>
+First off, the D-490 is compact and nicely designed to fit comfortably in one hand.  The lens cover acts as an on-off switch.  You slide it open with a click, and the 3x zoom lenses extends outward.  The thumb-indentation on the back of the camera, along with the finger grip on the lens covers makes using the D-490 with one (right) hand a snap.
+
+As with most digital camera, you have the option of using the standard view finder to establish your shot, or the color display.  Both work equally well, but the color display is recommended when setting up a close-up shot.  Conversely, for panoramic and/or long-range shots, the view finder is the better choice.  Note that use of the color display does reduce battery life significantly.
+
+The optics of this camera are outstanding.  Olympus has typically reproduced the sharpest and most detailed digital pictures.  Part of this is due to the fact that they use limited JPEG compression techniques.  This does result in larger picture files, but Olympus feels the quality gained from the limited compression is worth the added file size.  I would have to agree.  In comparing the picture quality of comparable resolution settings with other popular digital cameras, a difference can be seen.
+
+This camera gives you multiple resolutions options of shooting and storing your images. Images are stored on 3.3V SmartMedia cards with record options of Standard Quality (SQ), Standard Quality - High (SQ-HIGH), High Quality (HQ), Super High Quality (SHQ), and Super High Quality - Non-Compressed TIFF (SHQ-TIFF). An 8MB card, standard with the camera, will hold 82 SQ and 32 SQ-HIGH 640 x 480-pixel images; and 16 HQ, 5 SHQ, and 1 SHQ-TIFF 1,600 x 1,200-pixel images.
+
+The menu system is very intuitive and easy to use.  Most of it is self explanatory or quickly learned with a glance of the detailed users manual or quick reference guide.  
+
+With digital cameras becoming more and more popular, some main issues in using them has been the transition from point and shoot film cameras to the more complicated digital counterparts.  The D-490, and all D-400 series cameras make the transition a painless one.  The camera looks and feels like a standard film camera.  The only thing missing is the 'click' sound when snapping off a picture.
+
+The software that comes with this camera is excellent and very easy to use.  With features like red-eye reduction, photo-layering, panoramic stitching and image pasting, the Camedia photo shop could stand alone as a solid photo editing tool. In addition, version 4.0 of the QuickTime Movie viewer is included with the camera for playback of the QT movies you can record.
+
+<b>Cons</b>
+The most significant con for this camera is the lack of USB connectivity.  While the transference of digital stills from the camera to your PC works perfectly well over the included 9-pin serial cable, it is a somewhat slow task.  On average, it takes about 30 seconds to download an HQ (1,600 x 1,200) image.  That's not horrible, and the speed obviously increased if you shoot in any of the 640 x 480 modes, but forget about downloading a SHQ-TIFF image.  That will take you on the order of 10 minutes via a serial connection.  Transference of QuickTime movies is equally slow.  A USB connector card, which is available for <b>free</b> from Olympus (through 6/30/2001) will increase the transference speed 50 fold.  
+
+While the flash on this camera works very well, it isn't automatic.  You have to manually flip the flash open for it to work. True, you are treated to a blinking orange light when the flash is required which acts as a reminder, but until you become comfortable using the camera, you're bound to forget to open the flash.  Minor inconvenience only really, but one worth mentioning.
+
+The Quicktime movie mode, which in and of itself is a nice added touch, is silent. The camera has no built-in microphone, so any movies you take (which are somewhat choppy) will be sans sound. Again, not a big deal here as you bought this camera for digital STILLS not movies.  But it is worth mentioning.
+
+The only other con I could come up with is the 'feel' of the camera.  It works well, it fits well, and it looks nice.  But the casing on the camera is plastic - and has the feel of cheap plastic.  I get the sense when holding the camera that it isn't durable.  Not that I plan on dropping this camera on the floor, but I do take care to use the camera gingerly.
+
+<b>Summing Up</b>
+
+The Olympus D-490 Digital Zoom is an exceptional entry and mid-level camera for the digital enthusiast.  It offers quality that is unmatched by cameras costing hundreds more. It's very easy to use, both when taking pictures, viewing pictures or downloading pictures to your PC.
+
+All and all, a quality product from a quality company that knows how to make exceptional digital cameras.
+
+Smile!
+
+
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

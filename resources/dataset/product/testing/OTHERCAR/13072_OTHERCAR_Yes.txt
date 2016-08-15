@@ -1,0 +1,230 @@
+DOC>
+<DOCID> 13072 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Sony_DSC-V1_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_107584589444 </URL>
+<TEXT>
+            The Sony Corporation was the acknowledged industry leader in the early days of the digital imaging revolution.  The major reason for that dominance was the Mavica line, a  family of easy to use, durable, and dependable digital cameras that made it possible to use  images immediately because they were stored to standard 1.44 MB floppy discs.  Technology never stands still and higher resolution cameras made the Mavicas (and 1.44 MB floppies) the digital equivalent of an airplane with two pairs of wings and an open cockpit. 
+
+Sony&#146s digital cameras have always been &#147different&#148 due in large part to the fact that Sony is an electronics conglomerate, rather than traditionally a maker of cameras, but their digital cameras have always sold well (because of brand loyalty/crossover from their TV, audio, and camcorder customers) with rank and file consumers.  The one fly in the corporate ointment was that Sony has never managed to gain wide acceptance with pro photographers and serious amateurs. Part of the reason for this was that Sony&#146s digital cameras have been all over the board in terms of design, engineering, and ergonomics.  Nikon, Olympus, and Canon digicams have a &#147family&#148 look and clear design/engineering/operational similarities, but offerings from Sony don&#146t look much like each other and often perform the same functions in radically different ways. 
+
+To complicate matters further, Sony insisted on obstinately sticking with their proprietary memory stick storage media despite its measly 128MB maximum capacity. The memory stick was a poor choice for professional and serious amateur photographers who needed massive levels of image storage. Think about it this way, five megapixel digicams like the DSCF707 and DSC F717 can easily generate huge image files.  With a maximum capacity of 128 MB, the Memory Stick format limited shooters to fewer images  than a twelve exposure roll of 35mm film.  Factor in Sony&#146s higher price per MB and users might end up having to buy eight  or ten 128 MB memory sticks for a long photographic outing or short vacation.  Photographers don&#146t always shoot TIFF images, but what is the point of a digital camera that can produce stunning hi res pictures if you&#146re not going to use that capability? 
+
+Consumers have been demanding larger Memory Sticks for more than two years and Sony has consistently promised that they were &#147coming soon.&#148   Evidently, corporate management has finally seen what consumers have been writing on the wall (and at numerous product boards) and introduced the new Memory Stick Pro format.  The new memory sticks increase image storage capability exponentially (up to 1 Gigabyte) finally making Sony cameras a serious option for more advanced/demanding photographers. 
+
+Obviously, somebody at Sony dropped the ball and allowed Canon to slip into the top dog spot.  The new Sony Cybershot DSC V1 makes it clear that those errors are in the past.  With the DSC V1 it looks like Sony mated the nifty and very capable compact DSC S85 to the futuristic looking DSC F717.  The progeny born of that electronic love match is a completely new digital camera with a stylish retro look that should make The folks at Canon, Olympus, and Nikon very nervous. Sony&#146s camera design team combined the traditional form factor of the classic rangefinder compact  with a five megapixel CCD imager and many of the advanced features of the popular prosumer DSC F717.  To make the mix even more exciting Sony threw in a newly designed Carl Zeiss 4X zoom lens and the new  up to1 gigabyte maximum capacity Memory Stick Pro image storage format. The V1 provides users with full manual creative control and full auto simplicity, making this digicam an excellent choice for everyone from neophytes to advanced shooters. 
+
+If Sony had incorporated Canon&#146s tilt/swivel LCD (like Nikon&#146s CP5400 did) and slightly better battery life, the DSC V1 could have been the unchallenged class leader.  The V1 is a bit too chunky to drop in a shirt pocket, but it will slip nicely in a cargo pocket, jacket pocket, purse, brief case, or fanny pack.  The (titanium alloy) metal body and built in lens cover make it tough enough to take along anywhere. Sony expects the V1 to compete effectively the with the new Canon G5, the Olympus C50, and the new Nikon CP5400.  Can the upstart DSC V1 really threaten the big boys?  Read on.   
+
+<i>NUTS & BOLTS</i> 
+
+<b>Viewfinder/LCD</b>
+
+The Sony DSC V1 features a standard tunnel type zooming real image optical viewfinder that shows about 80-85 per cent of the frame. There&#146s no diopter correction, which is a bit surprising (given the V1&#146s cost) and prosumer market niche.
+
+
+The V1&#146s 1.5&#148 TFT color LCD screen is bright (brightness can be adjusted---dark, normal, bright, or backlit) and fluid.  The LCD provides a full info readout including; battery status, Memory Stick capacity, ISO setting, white balance, flash status, exposure counter, metering mode, exposure settings (aperture, shutter speed, exposure compensation, and image size/quality) and flash mode. The V1&#146s Display button allows users to select the full information display, a partial information display, or turn off the display.  There&#146s also an optional live histogram option that displays images as a graph showing tonal distribution and areas of under or overexposure.  Photographic perfectionists can use the LCD to crop images &#147in camera&#148 a particularly useful and creative feature.
+
+<b>Lens</b>
+
+The V1 sports an f2.8-4.0/ 34-136mm (35mm equivalent) Carl Zeiss Vario-Sonnar 4X zoom designed especially for this camera.  The lens is retracted fully into the V1&#146s body (behind a built in lens cover) when the camera is off.  Turn the V1 on and the lens extends fully in about 3 seconds.  The lens features a six-blade diaphragm for film camera like bokkeh and depth of field.  The V1&#146s Carl Zeiss zoom produces consistently sharp images throughout its range. Images were very sharp from corner to corner with barely noticeable softness in the extreme corners at the maximum aperture (and at the longest telephoto extension), corner to corner sharpness was significantly better than average.  Color transmission is true and crisp but there is some minor barrel distortion at the wide angle end of the zoom range.  Pincushion distortion is very well controlled at the telephoto end of the range.  Chromatic aberration is especially well controlled and shouldn&#146t be visible except in extremely high contrast situations, but there is some very minor haloing visible.  Overall, the V1&#146s optical performance is equal or superior to that of its competitors.  It&#146s important to note that Sony in Japan manufactures the DSC V1&#146s lens under a design/patent license from Zeiss
+
+<b>Auto Focus</b>
+
+The DSC V1&#146s Hologram Laser assisted auto focus is very fast (the fastest of any five megapixel digital camera I&#146ve tested) and it&#146s comparable in operation and feel to mid level 35mm AF SLR&#146s.  The V1 features 5 point Auto Focus (the camera evaluates the frame and intelligently selects one of the five AF focus points based on subject proximity or the user can select one of the five AF focus points) Spot AF (the camera focuses on the wider central AF point) Monitor AF (called continuous by other manufacturers) allows the camera to focus constantly, even without the shutter button pressed, which helps to cut AF reaction time, or Continuous AF (other manufacturers call this focus tracking) constantly adjusts focus to follow unfolding action, especially useful for sports or super active kiddies.  
+
+<b>Manual Focus</b>
+
+The V1 provides two manual focus modes, users can choose to either set focus based on the distance to the subject (from 0.1 - 15 meters) or select infinite focus (users selects the specific area of the frame for focus), but for some reason Sony&#146s engineers handicapped manual focusers by not providing for a an enlarged central LCD area or focus confirmation (electronic rangefinder) to help ensure accurate focusing.  The V1&#146s manual focus system doesn&#146t work as well as Canon&#146s FlexiZone system and it is unnecessarily cumbersome, but it does provide a manual focus option
+
+<b>Macro Focus</b> 
+
+The V1&#146s macro mode is pretty good, users can focus as close as 3.9 inches.  There is no parallax correction mark in the viewfinder but flash coverage is pretty good and the adjustable flash output is a really nice option for close up photography.
+
+<b>Flash</b>
+
+The V1&#146s built in multi mode pop up flash provides auto (the camera pops up the flash when it is needed automatically), forced (the flash always fires), suppressed (off), and slow sync modes (red-eye reduction mode is enabled through the setup menu).  Sony claims the built in flash has a maximum range of 11.5 feet which seems a bit enthusiastic, 8-10 feet is more accurate. Flash output can be adjusted. 
+
+The V1 also provides a hot-shoe (for external flash) permitting the use of Sony&#146s HVL-F1000 (requires an additional connection) or new HVL-F32X flash units.  Flash exposures (with the built in flash and the HLV-F32X) are metered through the V1's lens, providing true TTL flash metering. Third party flash units can only be used in aperture priority on manual modes.
+
+<b>Power</b>
+
+The V1 uses Sony&#146s proprietary NP-FC11 InfoLITHIUM battery pack (Sony includes  an AC adapter that doubles as the battery&#146s charger).  The NP-FC11 is close to being the V1&#146s Achilles heel.  The battery is good for between 160-180 exposures (using the LCD 90 per cent of the time and the flash occasionally) which is significantly less that the V1&#146s competition.  Clearly Sony made a compromise here---a larger battery would have provided longer battery life, but it would have increased the size of the camera. 
+The V1&#146s targeted audience (advanced amateurs) and more profligate shooters will probably need to buy an additional battery (about $60.00) but more restrained  photographers may be able to get by with the included battery.
+
+<i>FEATURES & EXPOSURE</i> 
+
+The DSC V1 offers consumers some truly unique features like Sony&#146s proprietary Hologram AF system (for lowlight/night focusing). The HAF projects a laser pattern (sort of like a super AF assist beam) allowing the DSC V1 to focus quickly and accurately on everything from low contrast subjects to total darkness.  The HAF function makes getting sharply focused images in low-light and low-contrast situations virtually foolproof. 
+
+Other useful features include; a voice mode (for adding audio notes up to 40 seconds long) to still images, an E-Mail mode (saves a 320X 240 dupe of full sized images so users can email killer shots to friends and family), Exposure Bracketing ( captures three images with one press of the shutter button, each with slightly different exposure settings, to ensure at least one correctly exposed image), and the NightFraming mode (first seen on Sony&#146s video cameras) that allows shooters to capture pictures (images have that fuzzy infrared look seen with military night vision goggles) in total darkness. 
+
+<b>Exposure</b> 
+
+The V1 offers basically the same proven and highly flexible exposure system developed for Sony&#146s prosumer big gun the DSC F717.  The DSC V1&#146s exposure options including Program, Auto, Aperture Priority, Shutter Priority, Scene (Twilight, Twilight Portrait, Landscape, Portrait, Beach, and Snow), and a full manual mode.  The V1 also provides a burst mode (3 full size images in two seconds). 
+
+<b>Movie Mode</b>
+ 
+The DSC V1 allows users to shoot short video clips @ 640X 480 at 16 fps (with audio). Clip length is limited to the capacity of the memory stick (Sony says a 1 gig Memory Stick Pro will hold 44 minutes of 640X 480 video)
+
+<b>Metering</b>
+
+The V1&#146s default Multi-Pattern evaluative metering mode divides the frame into multiple areas and measures each area and then evaluates the overall scene.  The V1 also provides Center Weighted and Spot metering options for more advanced shooters.  The V1&#146s metering is consistently accurate in the default mode and most users will never need to utilize either of the other modes.  
+
+<b>White Balance</b>
+
+The V1's White Balance options (Auto, Daylight, Cloudy, Fluorescent, Incandescent, Flash) and One-Push (manual white balance) is capable of consistently providing accurate color balance in a wide variety of lighting situations.  For very tricky lighting the One Push (manual mode can be used (hold a white card in front of the lens) to guarantee accurate color balance. 
+ 
+<b>Sensitivity</b>
+
+The V1&#146s ISO sensitivity can be set to auto, or ISO 100, 200, 400, or 800 (35mm equivalents) 
+
+<i>CONTROLS, DESIGN, & ERGONOMICS</i>
+
+The V1 is a well-designed stylish compact camera and the body that is constructed of a tough titanium alloy.  All controls are logical and well placed with the Four Way compass switch, OK button, and Mode Dial managing most camera operations. Menus are simple and basic operation is intuitive.  My only design/ergonomics complaint is the lack of a real grip, the finger grip is barely useful.
+
+<b>Technical Specifications</b> 
+
+Resolution: 2592X1944 
+Viewfinders Real Image Optical and 1.5&#148 TFT LCD
+Lens: f2.8-4.0/ 34-136mm (35mm equivalent) Carl Zeiss Vario-Sonnar with 8 elements in 7 groups (including 2 aspheric elements)
+Exposure: Auto, Program AE, Scene Modes (8), Shutter priority, Aperture priority, and Full Manual 
+Auto Focus: 5 Area Multi-point AF, spot AF, or manual focus
+Flash: Built in Multi Mode and Hot Shoe for external flash units
+Metering: Evaluative (default), Center Weighted, and Spot
+White Balance: Auto, Daylight, Cloudy, Fluorescent, Incandescent, Flash, and manual
+Sensitivity: Auto, 100, 200, 400, 800 
+Exposure Compensation: Yes (-2 /  2 EV in one-third-step increments)
+Color/B&W: Yes Picture Elements mode allows users to switch between color, B&W, sepia toned, negative art, or solarized 
+Sharpness: Yes---user adjustable 
+Contrast: Yes---user adjustable
+Saturation: Yes---user adjustable
+Noise Reduction: Yes&#151dark frame subtractive---automatically enabled on long exposures 
+Shutter Speeds: 1/1000th of a second to 30 seconds
+Memory Storage Media: Memory Stick and Memory Stick Pro
+Image File Formats: TIFF and JPEG
+Connectivity: USB 2.0 and A/V out 
+Power: NP-FC11 InfoLITHIUM rechargeable battery 
+
+MSRP $699.00  Street Price Range $575.00-$625.00 
+
+<b>Included</b>
+
+32MB Memory Stick, Battery Pack NP-FC11, AC adapter/charger AC-LS5,  Neck strap, USB & A/V Cables, Software CD-ROM, printed user&#146s manual  
+
+<b>Optional</b> 
+
+HVL-F32X flash, HVL 1000 flash, lens adapter ring, wide angle and telephoto auxiliary lenses, soft case, and wired remote control 
+
+<b>In the Field/Handling & Operation</b>
+
+I have a very old friend who sells new and used photographic gear and we often get together to play with new cameras. He stopped by recently (on an absolutely beautiful Saturday afternoon) with Sony&#146s new DSC V1 and asked if I wanted to ride out to Iroquois Park and help him evaluate the camera. We go to Iroquois Park in Louisville&#146s south end every so often to test cameras, but this time we were planning to spend the time not at the park&#146s quiet and serene hilltop refuge, but shooting the musicians and fans at the Kentucky Music Weekend.  The KMW is an annual country/mountain/traditional/folk/gospel music festival that pays loving homage to old time Kentucky music. This summer is the 28th year for the KMW (which started as a bicentennial event in 1976) and amazingly the organizers somehow manage to come up with the funding/sponsorship to put the festival on every year.  
+
+I attended my first KMW in 1978 or 79 and saw an absolutely astounding group called Trapezoid and I&#146ve been hooked ever since.  The KMW is one of the oldest traditional music festivals in the country and it is and always has been absolutely free.  The KMW has always been held at the Iroquois Amphitheater (constructed in 1938 by the WPA) but for the past two years an ongoing renovation project at the old amphitheater has moved the festival to a near-by hillside.
+
+This year the festival returned to the completely renovated amphitheater with a large crowd, perfect weather, enthusiastic music, high spirits, and lots of good clean down home fun. Music fans, musicians, vendors (the Iroquois Summer Arts & Crafts Fair is held in conjunction with the KMW), kids, dogs, tourists, and visitors come to hear Celtic, bluegrass, gospel, mountain, traditional country, and folk music. The music is a shared experience between performers and fans.  Aspiring musicians get jam with their musical heroes under the ancient trees between sets. In other words the place is a photographer's paradise with hundreds of nifty environmental portraits just sitting around waiting to have their pictures taken.  Subjects range from weathered old Eastern Kentucky mountain folk in bib overalls to long haired college kids looking to learn claw hammer Banjo picking, fiddle tuning, or Hammer Dulcimer playing. 
+ 
+My friend and I (and another photographer friend) wandered around until dark watching little kids and frisky dogs run an obstacle course around the dozens of stacked, leaned, and piled instrument cases as their parents play and sing and tell stories. Everyone is kicked back playing or just  listening to Appalachian mountain music so it's easy to just walk around and shoot the proceedings.  The KMW is like an old fashioned southern family reunion, except there aint no fried chicken and the music is a LOT better.  Everyone is friendly and nobody minds getting their picture taken. If you should ever find yourself in Louisville on the last weekend in July, take my advice and head for Iroquois Park, you won&#146t be sorry. 
+ 
+<i>PERFORMANCE</i>
+
+<b>Timing/Shutter lag</b> 
+
+Overall, the DSC-V1 is a very speedy camera and AF lag with the new Carl Zeiss zoom is much better than average.  The boot up cycle is also quicker, about three seconds, than the competition. Write to card times are very good, considerably better than average (the V1 obviously has a large buffer).  I was a bit disappointed in the "Burst 3" mode, why limit users to only 3 frames when the camera clearly has a  large buffer?  The DSC V1&#146s shutter lag and timing performance is equal or superior to its primary competition (Canon G5 and Olympus C50---I haven&#146t had a chance to check out the CP5400 yet, but my friend says the V1 is noticeably faster than Nikon&#146s newest digicam). The V1 appears to be the fastest in its class (compact five megapixel prosumer digicams).
+
+<b>A Few Concerns</b> 
+
+The DSC V1&#146s default color may seem a bit flat to Velvia influenced younger users, however veteran photographers will cherish the neutral and natural color.  If you want/need more saturation the V1 makes it simple to boost color intensity, but doing so will slightly increase noise levels. 
+
+I don&#146t understand why Sony couldn&#146t include a proper handgrip, the strange little finger grip is really distracting and doesn&#146t provide much added stability or security----are you listening Sony?  Add a real grip to the DSC V2.  The problem is exacerbated by the position of the pop-up flash. Like most compact digital cameras the V1 has some redeye problems (something that won&#146t be a concern if you use external flash) even with redeye reduction enabled.
+
+<b>What should Sony have done to make the DSC V1 better?</b>
+
+A real handgrip
+A larger battery
+An ISO 50 sensitivity setting
+The f2.8-4.0/ 34-136mmCarl Zeiss Vario-Sonnar would have been much better with manual Zoom/Focus Ring from the DSC F717
+Manual focus mode with an enlarged central LCD area (2X) and focus confirmation (electronic rangefinder) to help ensure accurate manual focusing.
+
+<b>Image Quality</b>
+
+In the final analysis all that really matters in digital camera tests is image quality----if image quality is excellent most minor faults can be (and usually are) forgiven. The DSC V1 produces consistently excellent images that are superior to those produced by its competition. 
+
+To paraphrase the old FoMoCo commercials, &#147Image Quality is job one&#148 and in this area the DSC V1 doesn&#146t take a backseat to anyone, simply put the V1 produces consistently exceptional images.  We printed a couple of 8X10&#146s with an HP 1215 (on Kodak photo paper) and the images were really sharp with solid background/shadow detail and natural color. We compared those images with images we&#146d shot with the Canon G5 and the Olympus C50 and the V1 pictures were clearly sharper with slightly better background/shadow detail.  The DSC V1&#146s image quality is equal (or superior) to any compact five-megapixel camera currently available. 
+
+<b>Conclusion</b> 
+
+If you posses a reasonable level of technical competence and are photographically motivated, the DSC V1 will provide an excellent vehicle for your journey to realize your creative/artistic potential.  If you want a feature rich, easy to use, compact, stylish point & shoot digital camera that will allow your skills to grow and expand---the DSC V1 will do the job.
+
+<b>Who is the DSC V1 Best Suited For?</b>
+
+The DSC V1 is best suited for photography enthusiasts who want a full featured,  stylish, compact, high resolution digital camera.  For years Sony&#146s marketing mavens  have tried to figure out how to connect with the prosumer/advanced amateur marketing niche.  They are finally on the right track, the DSC V1 is going to appeal specificaly to the photo enthusiast crowd.  Many of the folks who might have bought a G5, a CP 5400, or an Olympus C50 are going to give the DSC V1 a hard serious look, and many of them are going to be seduced by Sony&#146s shiny little pocket picture rocket.  I wish Sony and the DSC V1 the very best because a new kid on the compact prosumer digicam block is going to make everyone try a little harder----and the ultimate beneficiary of increased competition is the consumer. 
+
+<b>A Final Word</b>
+
+I have never been a big fan of Sony digital cameras, but if the DSC V1 is any indication of where Sony is headed, I may have to change my mind.  The DSC V1&#146s capability, performance, flexibility, creative potential, usability, and ergonomics show an incredible level of promise for the future of digital camera evolution.  Is this a perfect digital camera? No, but Sony is definitely on the right track.  Now, lets address what remains the single most egregious and on-going fault with Sony digicams.  Are these guys crazy, a three month warranty ----get real here--- consumers are kicking up huge wads of hard earned cash to buy your digital cameras---the least you guys can do is pony up the same one year warranty that Nikon, Olympus, Canon, et al provide their customers. 
+
+You may notice that I haven&#146t mentioned that DSC V1 is about $100.00 cheaper than other five megapixel compact digicams---that is because purchasers will have to buy one of Sony&#146s new Memory Stick Pro cards (or use several 128MB Memory Sticks) and Sony&#146s new Memory Stick Pro format is MUCH MORE EXPENSIVE than comparable capacity Compact Flash or xD Picture Cards---in other words you&#146ll need to use that C note you thought you were going to save (and a bit more) to buy a 256MB Memory Stick Pro
+
+<b>Note</b> Info on the HLV 1000 and HLV-F32X and Sony&#146s new Memory Stick-Pro format were obtained from the user&#146s manual, the Sony website, and other research.--we didn&#146t use an external flash unit for our tests and we relied on a pair of 128MB memory sticks for image storage for our tests with the V1.
+
+<b>Links</b>
+ 
+Check out my review of a bargain priced and very capable photo quality ink-jet printer. 
+
+Epson Stylus Photo 785 EPX ink-jet printer 
+<a href="/content_60776812164">http://www.epinions.com/content_60776812164</a> 
+
+For definitive advice on How to Choose a Digital Camera please see my review: 
+
+<a href="/elec-review-2E46-17B174E2-39A418E3-prod1">http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+For more information about comparable/competitive four and five megapixel compact digital cameras, you may find the review links below informative: 
+
+<b>Nikon Compact Digital Cameras</b> 
+
+Nikon Coolpix 4500
+<a href="/content_69311368836">http://www.epinions.com/content_69311368836</a>
+
+<b>Canon Compact Digital Cameras</b> 
+
+Canon Powershot G5
+<a href="/content_104580419204">http://www.epinions.com/content_104580419204</a>
+
+Canon Powershot S50
+<a href="/content_93226503812">http://www.epinions.com/content_93226503812</a>
+
+Canon Powershot S45
+<a href="/content_84242173572">http://www.epinions.com/content_84242173572</a>
+
+Canon Powershot S40 
+<a href="/content_59617087108">http://www.epinions.com/content_59617087108</a> 
+
+<b>Sony Compact Digital Cameras</b> 
+
+Sony DSC S85 
+<a href="/content_51957567108">http://www.epinions.com/content_51957567108</a> 
+
+<b>Olympus Compact Digital Cameras</b> 
+
+Olympus Camedia C50
+<a href="/content_81891724932">http://www.epinions.com/content_81891724932</a>
+
+<b>Minolta Compact Digital Cameras</b> 
+
+Minolta Dimage F100
+<a href="/content_76963548804">http://www.epinions.com/content_76963548804</a>
+
+Minolta Dimage F300
+<a href="/content_92347993732">http://www.epinions.com/content_92347993732</a>
+
+ 
+
+
+
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

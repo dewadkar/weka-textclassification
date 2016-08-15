@@ -1,0 +1,33 @@
+DOC>
+<DOCID> 24142 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_RicohRDCC-Ricoh_RDC-5300 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-11BD-88259CE-397D380E-prod1 </URL>
+<TEXT>
+            This is my first digital camera (up until now I have been using a Minolta SLR) and I have been quite pleased with it. I was looking for a camera with USB and 2 megapixels, and was able to pick this up for $500 on shopper.com.
+
+I was expecting a steep learning curve, but I was able to get started very quickly. This camera is very easy to use, even if you have previously owned a &quot;point and shoot&quot; camera. I would also recommend it to accomplished photographers wanting to get started in the digital world.
+
+Many people complain about the focus on this camera, and indeed it sometimes chooses to focus on something other than what I intended, and it has difficulty in low light situations. But when it does get it right, which is most of the time, the pictures are sharp and crystal clear.
+
+I am particularly impressed with the macro capabilities. As long as you use a tripod to steady the camera, the &quot;Super Macro&quot; will give you beautiful shots of things as close as 2 inches.
+
+The LCD display is a decent size and, contrary to what I read in some reviews, can be turned off to save batteries. Talking of which, like most digital cameras, this eats batteries at a tremendous rate. Get yourself some NiMH cells (costco.com has some good prices on them).
+
+Another great feature is the 8MB internal memory. I got a 32MB smart media card to augment it, but the idea of having some fixed memory internally means you don't have to worry about getting extra storage immediately.
+
+One feature you won't find on other cameras is a video input. I have no idea why Ricoh included this. All it lets you do is use the LCD display to view the output from a suitable NTSC device. I hoped I might be able to snap pictures off there and thus have a bonus video capture device, but sadly this was not the case. Maybe one day I will be thankful for this feature, but I think not.
+
+I have seen other reviewers complain about the onscreen text obscuring the image. Well, they obviously didn't bother to check the manual because you can turn the text off by pressing the ENTER key twice.
+
+The best feature of all is the built in automatic lens and LCD cover. When the camera is off you don't need to remember to cap the lens or worry about scratching the display, because they get automatically covered.
+
+My only remaining gripe is the USB drivers for Windows 98. I have not lost any data yet, but I have seen files mysteriously renamed and the camera stop letting me look at pictures (though they can still be downloaded and viewed). The download speed is great, though - I don't know how I would survive with a serial camera or with having to swap smartmedia in and out of USB readers.
+
+Oh, and I nearly forgot... This comes as standard with a mains adapter, so you don't have to worry about getting one (unlike some other cameras).
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

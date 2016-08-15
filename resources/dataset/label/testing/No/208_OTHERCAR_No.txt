@@ -1,0 +1,161 @@
+DOC>
+<DOCID> 208 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_Powershot_G1 </PRODUCT>
+<URL> http://www.epinions.com/content_8768294532 </URL>
+<TEXT>
+            Photography (film or digital) has always been a science of compromises. The tool that makes photography possible, the camera, at its most basic is nothing more than a light tight box with some sort of shutter (designed to allow light into the box for short periods of time) and a lens, an arrangement of glass elements designed to focus light rays on film or on the CCD of a digital camera.  The ways in which engineers design the camera and lens to accomplish these simple tasks expands exponentially as photographers demand more features, improved ease of use, and higher quality images.
+
+<b>Background</b>
+
+Cameras (digital or film) are designed and marketed to appeal to specific target audiences of consumers. Simple Point�n�Shoot cameras with lots of automatic features are marketed to appeal to snapshooters.  High End Point'n'Shoot cameras (targeted to more serious photographers) typically offer some user input, have more features, provide sophisticated metering options, and better optics.   Professional cameras provide superior ergonomics, quality construction, well designed controls, dozens of features, lots of user input, and superb optics. Cameras of this sort are usually modular, with interchangeable lenses and accessories that allow the photographer to customize the rig for the specific job at hand. 
+
+<b>The Canon Powershot G1</b>
+
+Which brings us to the Canon Powershot G1 a compact digital camera with a serious identity crisis.  The G1, although recently introduced, offers only 3.34 megapixel resolution.  The currently available Olympus E10 offers a twenty per cent increase in resolution at 4.0 megapixels (see my review <i>The New Olympus E10 Digital Camera is a Giantkiller</i>) and the Contax N Digital camera (to be introduced in April 2001) is the first true six megapixel (an 80 per cent resolution increase) camera. Other 6 MP plus digital cameras will soon follow, and 10 MP digital cameras should be introduced within the next couple of years.
+
+The image quality standard is constantly changing, and  resolution has improved radically with the introduction of each new generation of digital cameras. There is still lots of room for improvement in digital imaging and rumors regarding the demise of traditional 35mm film cameras have been greatly exaggerated, to paraphrase Mark Twain.  A side by side comparison of digital and 35mm images in the current issue of  <i>Digital Photographer</i>  illustrates this point more eloquently than anything I could say.
+
+ The G1 offers all the features usually found on High End Point�n�Shoots, movie mode (30 seconds @ 15FPS of 320x240 QVGA video), a fast  (f2.0-F2.5) 3X optical zoom (34mm-102mm--35mm equivalent) with three optional conversion lenses to extend the focal length range.  Program AE, Shutter Priority, Aperture Priority, and Manual exposure modes. A self timer, auto white balance (and five additional white balance options), auto flash (with four additional flash mode settings), and a wireless remote control.
+
+<b>Pro Features</b>
+
+The G1 also offers a number of �pro� features like an iris type aperture that provides traditional film camera ability to blur the background at larger f-stops (great for portraits), auto exposure bracketing, user selected sensitivity settings (50-100-200-400 ISO equivalents) centerweighted or spot metering, the ability to store RAW image files, and the option to use external Canon Speedlights for more versatile and creative lighting.
+
+The flip out and twist to position LCD (first seen on the Canon Powershot Pro 70) is great  fun, and almost as neat  as the swivel lens on Nikon�s Coolpix 990.  The proprietary Canon battery (unlike those in most digi-cams) is good for 250-300 exposures and up to 3 hours (using the LCD most of the time) of sustained use.  Shutter lag time for the G1 is the shortest I have seen in any dig-cam, typically less than half a second.
+
+<b>How Does the Canon Powershot G1 Measure Up?</b>
+
+Where does the G1 fail to measure up?  Disappointingly, in a large number of important ways.  The optical viewfinder is small, chintzy, and barely usable.  It is a crime that digi-cam optical viewfinders are so poorly designed and constructed, most APS Point�n�Shoot cameras are equipped with vastly superior optical viewfinders.  The cheap rubber hinge on the I/O connector cover doesn�t look like it would stand up to extended use. 
+
+The tripod mount, while sturdy, is offset and not positioned in line with the lens, as it should be.  The front cover and lens bezel are  metal, but the top, sides and rear of the camera are plastic.  The camera is quite small and the tiny (decorative?) grip is pretty much useless.  Start-up time lag (from the time you turn the camera on until it cycles the lens, auto focuses on the subject, and the image is captured) is one of the longest I have seen in any digital camera, typically 8-10 seconds, this effectively nullifies the short shutter lag time unless you leave the camera on all the time.  
+
+<b>What Could Canon Have Done Better?</b>
+
+What could Canon have done better?  Since the G1 was the last major 3.34 MP digital camera to reach the market, Canon had the advantage of an extended window for Research & Development. The G1 should have been engineered with a larger CCD, which would have made it easy for Canon to offer 4 (or 5) megapixel resolution.  The 3X optical zoom should have been 4X with the addition of Canon�s wonderful image stabilization technology (like on the just introduced Canon Powershot Pro 90 IS) which would have made the proprietary ISO 50 sensitivity setting and Shutter Priority  Mode much more useful for longer exposures at slower shutter speeds and with less light.
+
+ The optical viewfinder (which doesn�t provide parallax compensation) should have been much better, what is the point in offering pro features like RAW mode, a TTL flash hot shoe, and ISO 50 settings when they are coupled with a viewfinder that would have been more at home on a $50.00 K-Mart Blue Light special.  The G1�s images are on par with other 3.34 megapixel cameras, and its features are pretty similar to those of its competition. A combination of automatic "snapshooter" features, some advanced "pro" options, and a few money saving engineering moves that tend to make the G1 a confusing mix of low, high, and pro. Canon didn�t break any new ground with this camera, and that is too bad, because the potential for pushing the envelope was certainly there.
+
+<b>Technical Specifications</b>
+
+Canon Powershot G1: Digital Still Camera
+Resolution: 3.34 Megapixels (2048x1536)
+CCD size: (0.556�) 1/1.8
+Optical Lens: 3X optical zoom (f2.0-f2.5/34-102mm 35mm equivalent) 8 elements in 7 groups.
+Digital Zoom: 4X
+Auto Focus: single or continuous
+Manual Focus: yes
+White Balance: TTL auto, five pre-sets, and custom
+Flash: Built in (five mode) and TTL hot shoe for use with external Canon Speedlights 
+Exposure Modes: Auto Creative, Program, Shutter Priority, Aperture Priority, and Manual
+Shutter Speed Range: 8 seconds to 1/1000th of a second
+Image Storage: Compact Flash (type I or II) supports IBM MicroDrive
+
+Included with Camera:  16mg CF card, BP-511 battery, CA-560 adapter/battery charger, WL-D100 remote control, lens cap & keeper, 2 straps, USB cable, Canon CD and Adobe Software, users manual.
+
+<b>Conclusion</b>
+
+Overall, the Canon Powershot G1 fails to live up to its potential. It�s not that the G1 is a bad camera, it is actually very competitive with other 3.34 MP digital cameras.  A year ago the G1 would have been a front runner, but in the rapidly evolving world of digital technology the G1 is too little and a year too late. I suggest waiting a while until prices for 3.34 MP cameras drop.  Higher resolution digital cameras will appear in the market place in the next few months. Why pay $800-$900 for the G1, when you can shell out a little extra and get one of the �new generation� 4 or 5 MP digital cameras, or wait and get a much better deal on a 3.34 MP camera when the prices  drop.  In the final analysis I can�t recommend the Canon Powershot G1.
+
+For information on How to Choose a Digital Camera please see my review: 
+
+<a href='/elec-review-2E46-17B174E2-39A418E3-prod1'>http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+For information about specific Digital Camera models, please see my Digital Camera Reviews: 
+
+
+Nikon Digital Cameras 
+
+Nikon Coolpix 5000
+<a href='/content_52720406148'>http://www.epinions.com/content_52720406148</a>
+
+Nikon Coolpix 885 
+<a href='/content_46290931332'>http://www.epinions.com/content_46290931332</a> 
+
+Nikon Coolpix 995 
+<a href='/content_40256769668'>http://www.epinions.com/content_40256769668</a> 
+
+Nikon D1X 
+<a href='/content_36023996036'>http://www.epinions.com/content_36023996036</a> 
+
+Nikon D1 
+<a href='/elec-review-4868-E2433E5-38737CF8-prod2/tk_~CB003.1.78'>http://www.epinions.com/elec-review-4868-E2433E5-38737CF8-prod2/tk_~CB003.1.78</a> 
+
+Nikon Coolpix 880 
+<a href='/elec-review-2DA8-DF21E52-39E118CA-prod5'>http://www.epinions.com/elec-review-2DA8-DF21E52-39E118CA-prod5</a> 
+
+Nikon Coolpix 990 
+<a href='/elec-review-3B78-3C431D90-3A345313-prod3'>http://www.epinions.com/elec-review-3B78-3C431D90-3A345313-prod3</a> 
+
+Canon Digital Cameras 
+
+Canon Powershot G2 
+<a href='/content_47646084740'>http://www.epinions.com/content_47646084740</a> 
+
+Canon Powershot S10 
+<a href='/content_7563808388/tk_~CB003.1.74'>http://www.epinions.com/content_7563808388/tk_~CB003.1.74</a> 
+
+Canon EOS D30 
+<a href='/content_11625991812/tk_~CB003.1.58'>http://www.epinions.com/content_11625991812/tk_~CB003.1.58</a> 
+
+Canon Powershot PRO 90IS 
+<a href='/content_30440001156/tk_~CB005.1.9'>http://www.epinions.com/content_30440001156/tk_~CB005.1.9</a> 
+
+Canon Powershot G1 
+<a href='/content_8768294532/tk_~CB003.1.70'>http://www.epinions.com/content_8768294532/tk_~CB003.1.70</a> 
+
+Canon Powershot PRO 70 
+<a href='/elec-review-6496-25768DA-38C3E01A-prod9/tk_~CB003.1.70'>http://www.epinions.com/elec-review-6496-25768DA-38C3E01A-prod9/tk_~CB003.1.70</a> 
+
+
+Sony Digital Cameras 
+
+Sony DSC S85
+<a href='/content_51957567108'>http://www.epinions.com/content_51957567108</a>
+
+Sony MVC-CD 300 
+<a href='/content_45591793284'>http://www.epinions.com/content_45591793284</a> 
+
+Sony DSC-S50 
+http:<a href='/content_15885897348'>http://www.epinions.com/content_15885897348</a> 
+
+Sony Mavica MVC-CD1000 
+<a href='/elec-review-5F01-365BA12-3980602C-prod3/tk_~CB003.1.14'>http://www.epinions.com/elec-review-5F01-365BA12-3980602C-prod3/tk_~CB003.1.14</a> 
+
+Olympus Digital Cameras 
+
+Olympus Camedia C3040 
+<a href='/content_42675179140'>http://www.epinions.com/content_42675179140</a> 
+
+Olympus Camedia C3000 
+<a href='/content_26106105476/tk_~CB003.1.30'>http://www.epinions.com/content_26106105476/tk_~CB003.1.30</a> 
+
+Olympus Camedia E10 
+<a href='/elec-review-59FB-183DFC73-3A17388F-prod2/tk_~CB003.1.42'>http://www.epinions.com/elec-review-59FB-183DFC73-3A17388F-prod2/tk_~CB003.1.42</a> 
+
+Fuji Digital Cameras 
+
+Fuji Finepix S1 �PRO� 
+<a href='/elec-review-5591-16816C34-39047A87-prod5/tk_~CB003.1.18'>http://www.epinions.com/elec-review-5591-16816C34-39047A87-prod5/tk_~CB003.1.18</a> 
+
+Minolta Digital Cameras 
+
+Minolta Dimage 5 
+<a href='/content_49104522884'>http://www.epinions.com/content_49104522884</a> 
+
+
+Just �cut�n�paste� the URL into your browser�s address window. 
+
+
+
+
+
+
+
+
+
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

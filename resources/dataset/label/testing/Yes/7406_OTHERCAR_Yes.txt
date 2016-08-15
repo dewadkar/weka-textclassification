@@ -1,0 +1,48 @@
+DOC>
+<DOCID> 7406 </DOCID>
+<PRODUCT> Digital_Cameras/Kodak_Easy_Share_DX4200_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_84484329092 </URL>
+<TEXT>
+            This review has three components.  One, some background on why I chose this camera over others, two, a review of the camera as a device and, three, a commentary on the transition from traditional film to digital photography for a person accustomed to the former.
+
+1) Why this camera?
+
+I&#146m not a serious photographer.  For years I&#146ve used those small silver compact cameras from Kodak, Minolta or Canon.  Easy to carry, easy to pull out and pull a quick snapshot without having to worry about focus, exposure, etc.  Photography is not my means of self-expression.  It&#146s a way of capturing images of the people and events that matter to me.
+
+When I went looking for a digital camera, I wanted something that would have similar functionality and would provide a similar user experience.  In other words, I wasn&#146t looking for a top-end digital camera that would allow me to take professional quality images.  This review compares the Kodak CX420 digital camera experience with the experience of using a similar non-digital compact camera.
+
+The CX4200 is the second digital camera I&#146ve owned.  The first was a JamCam.  The JamCam is the equivalent of an old-fashioned Brownie camera.   It was very easy to use, but its limitation and the low quality of its images (maximum 640x480), made it a poor choice other than for quick snapshots for email.  My wife still uses the JamCam when she&#146s selling something on eBay.  Other than that, it hasn&#146t proved useful, even to a family who takes nothing but snapshots.  We needed something a little better if we really wanted to replace traditional film.  The CX4200 was our choice. 
+
+2) The CX4200 as a device
+
+The CX4200 is a big step up from the JamCam.  At $129, it&#146s still an entry-level digital camera, but at 2.0-megapixel resolution, it&#146s perfectly adequate for snapshots.  Its ease of use and low price also make it an ideal camera for the whole family to use.  On its first day in the house, all the kids took pictures, as did my wife and myself.  There&#146s a very shallow learning curve to take basic photos.
+
+The photos we have been taking are of similar quality to photos I have taken with traditional compact cameras.  In other words, you won&#146t be publishing these in a magazine or using them professionally, but they fit in perfectly with any album of family snapshots.
+
+At its highest resolution, 1632x1232, the resulting photographs are suitable for reprinting at any photo shop, and Kodak suggests these will produce good quality 8X10 images.  At its medium resolution, approx 800x600, Kodak suggests standard prints at 4x6 will be good quality.  At its lower resolution, 640x480, quality is suitable for the web or email.  In actual practice, I&#146ve found all settings produce images of far higher quality than the JamCam, and I wouldn&#146t hesitate to get prints made from them.  (I&#146ve had prints made from the JamCam images that weren&#146t too bad.)
+
+Using only the built in 16 MB of memory, the camera stores approximately 24 highest resolution images, 48 medium resolution images, or 100 of the lower resolution images.  The memory is expandable with Secure Digital cards.  At this point, I haven&#146t purchased any additional memory, and have not yet experienced a need to.
+
+The CX4200 is part of the Kodak EasyShare line, which means it&#146s compatible with the Kodak EasyShare docking system.  The docking system allows you to use rechargeable batteries in the camera and have them recharged while the camera is in the dock.  The dock also provides a one-button easy transfer system.  I purchased the dock, but in retrospect realize it is not in the least necessary.  You can use Ni-MH batteries or a battery pack in the camera and recharge them in a standard battery charger at about a third the price of the dock.  The camera comes with a USB port and cable, and connects to any standard USB port.  Pictures transfer just as easily with or without the dock.  As a plus for the dock, it serves as a handy holder for the camera when you&#146re not using it and keeps the batteries fully charged and ready to go.  If you don&#146t want to get one, however, you don&#146t need one.
+
+Kodak suggests you&#146ll get 160 pictures out of the Kodak digital camera batteries included with the camera, or 200 pictures from each charging of the battery pack that comes with the dock.  All I can say is that I&#146ve never run out of juice, unlike the JamCam which would flash a low battery warning after only a handful of pictures.
+
+Other features worth mentioning:  A close-up mode to allow you to get within 7 inches of your subject; a video-out so that you can present a slide-show on TV directly from the camera; auto photo orientation so that the image is always processed the right-way-up regardless of the orientation of the camera (saves times rotating images once you transfer them); on-board &#147share&#148 button that allows you to select images for emailing (your email list can be stored on the camera, too), printing, added to your favorites, etc.; DC connection for powered use.
+
+All in all, the CX4200 is a basic digital camera that provides reasonable quality images.  I&#146m quite happy with it, and find it an adequate replacement for the traditional compact cameras I was using previously.
+
+3) The digital life
+
+The best part of getting the CX4200 is that it has made the transition all the way to digital photography possible for us.  This is far more than simply not having to buy film.  The digital camera integrates perfectly with my Mac iBook, and the built in Mac iPhoto suite has made the whole process a pleasure.  For example, after transferring images to the iBook, using iPhoto to crop some images and remove red-eye, I can then use iPhoto&#146s &#147Share&#148 function to send any selection of photos by email, to order prints, to publish a web page, or even create a book.  
+
+Ordering prints is the best part of the transition to the digital life in my opinion.  While traditional photography requires you to develop the entire roll to see what you&#146ve got, in digital photography you print only the pictures you like.  Out of 100 digital snaps, I may order prints from only 10 or 20 of them.  In the end, this makes digital photography far more efficient, and far more cost effective than traditional photography, at least in our house where the kids are forever taking snapshots of their own, digital or otherwise!  To give you an idea how fast and efficient this is, I decided to get reprints of a number of images the other day.  I selected them through iPhoto, selected share, selected order prints, selected the size and quantity of each print I wanted, then clicked proceed.  The images uploaded directly to Kodak, and within three minutes I had a confirmation email in my in box.  When I clicked the link to track the order a half hour later, I was told that the images were being printed.  When I checked a couple of hours after that, I was told the order was completed, and was now being shipped.  It&#146s that simple.
+
+The CX4200 comes with its own EasyShare software for organizing, cataloging, sharing, emailing, web publishing, and ordering prints from Kodak.  Because of iPhoto, I haven&#146t used it, but it is compatible with both Windows and Mac.  Kodak recommends OS X in the Mac to get the full functionality of the software.
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

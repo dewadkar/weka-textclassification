@@ -1,0 +1,286 @@
+DOC>
+<DOCID> 1544 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Accessories-All-AW_DC300_WATERPROOF_CCASE_POWERSHOT_S30_S40 </PRODUCT>
+<URL> http://www.epinions.com/content_84242173572 </URL>
+<TEXT>
+            The newly introduced Powershot S45 is a stylish little four megapixel digital camera aimed at advanced amateur photographers who want a full slate of advanced features, lots of creative input, and compact size.  Canon retained the stylish brushed aluminum case, the superb 3X zoom, and the four megapixel CCD imager from the S40.  Canon&#146s engineers added the G3&#146s new DIGIC processor and 9 focus point AiAF autofocus system for faster processing and easier focusing.  To ice the cake, the S45 also features a greatly enhanced White Balance mode, three user selectable metering options (for precise creative control in virtually any lighting situation), an improved Movie Mode, and Direct Print capabilities (with select Canon printers).  
+
+<b>S45 FEATURES</b> 
+
+<b>DIGIC Image Processor</b> 
+
+Canon&#146s DIGIC Processor (Digital Imaging Integrated Circuit) was developed for the groundbreaking Canon G3 (the new S230 also features DIGIC technology). DIGIC technology enhances auto focusing accuracy and improves processing speed while utilizing complex proprietary imaging algorithms to produce images that are optimized for sharp resolution, excellent contrast, low noise, and accurate color balance. 
+
+<b>9 AF Point Auto focus & FlexiZone AF/AE</b> 
+
+In all automatic exposure modes the S45 defaults to a 9 focus point AiAF (Advanced intelligent Auto Focus) system that covers a much larger part of the image area than the 3 point system in the S40. Nine focus points (rather than three) makes it quicker for the S45&#146s auto focus to determine and lock focus on the primary subject, even when it is not centered in the viewfinder.  In aperture priority, shutter priority, and manual modes, the S45 provides Flexizone AF/AE, which permits users to select a single focusing point for maximum creative control. 
+
+<b>Metering</b> 
+
+The S45 features three user selected metering modes (Evaluative, Center-Weighted Average, and Spot). When Spot metering is enabled, the metering spot can be set for the center of the frame or linked to the active Flexizone AF point. Allowing the photographer to bias exposure decisions on the metering &#147spot&#148 location that coincides with the most important element in the composition and also link the camera&#146s AF system to that same spot offers a high level of individual creative input.  
+
+<b>Improved White Balance</b>
+ 
+In the auto white balance mode the S45 splits the image area into thousands of segments and then evaluates the overall color balance for maximum accuracy even in tricky lighting situations.  Users can select the Custom White Balance mode and then point the camera at a white wall or ceiling or a 3x5 white index card and store the reading.  The custom white balance mode can store two different (custom 1 & custom 2) lighting situations, making switching between indoor and outdoor shooting environments simple and highly accurate. The S45 also provides six pre-set (Daylight, Cloudy, Tungsten, Fluorescent, Fluorescent High, and Flash) white balance modes
+
+<b>RAW Settings After Exposure</b>
+ 
+Ever shoot an image (with the camera set for JPEG) and suddenly wish you had chosen to record the image as a RAW file?  The S45 allows a captured image to be saved as a RAW file after it is recorded. This is a really great option for serious photographers, especially those who spend a lot of time manipulating images in PhotoShop.  Users can record an image as a JPEG file, review the image, and decide AFTER Exposure that the image provides a lot of room for post exposure manipulation (white balance, resolution, contrast, saturation, and sharpening).   RAW image files allow users to work with the original image data without any &#147in camera&#148 processing.  RAW images files are a loss-less compression option that requires just sixty per cent of the space of an uncompressed TIFF image with no loss in quality.  
+
+<b>Other features</b>
+ 
+<i>Audio notations</i> (up to 60 seconds) can be added to still image files
+ 
+<i>Histogram</i> (a graphic LCD display of the image showing areas of over exposure) used to fine-tune settings for precise exposure. 
+
+<b>NUTS & BOLTS</b>
+
+<b>Viewfinder/LCD</b> 
+
+The S45 features a standard optical viewfinder that covers about  85 per cent of the image area.  The viewfinder zooms with the lens, but provides no parallax correction lines (making close-up and macro shooting a bit more difficult).  
+
+The S45's 1.8" LCD has a protective plastic cover (which is very nice) but no anti reflective coating (which isn&#146t nice at all).   The LCD is bright and sharp and the LCD display provides all the data you need about camera settings, operation, and status.  LCD brightness levels can be adjusted in the setup menu.
+ 
+<b>Exposure</b> 
+
+The S45&#146s 13 exposure modes mimic those found on most Canon EOS film cameras.  Program, Auto, Aperture Priority, Shutter Priority, Manual, Portrait, Landscape, Night Scene, Fast shutter, Slow Shutter, Stitch Assist, Movie mode, and a new Custom mode.
+
+<b>Movie Mode</b>
+
+The S45 can record short video clips (with audio) at 320x240 @ 15fps (up to 3 minutes) 
+
+<b>Lens</b> 
+
+The S45 features the same lens as the S40, a relatively fast f2.8-f4.9/35-105mm (35mm equivalent) fully retractable 3X zoom with two aspherical elements for improved color accuracy and better resolution. The front element is protected by a sliding lens cover (the lens retracts fully into the camera body) making the S45 completely pocketable. There is no provision for using filers or add on wide/tele/macro lenses.
+
+<b>Flash</b>
+
+The S45&#146s built-in flash actually does a pretty good job, considering its tiny size.  Users can select first or second curtain sync effect (the S45 like most digital cameras has a combined iris/shutter rather than a focal place shutter).  The camera mimics SLR flash timing by firing the flash immediately after the shutter opens (first curtain synch) or immediately before the shutter closes (second curtain sync).  Second curtain synch is great for showing a sense of motion (blurred areas of runners or sports players---for instance--- are behind the subject).  The S45&#146s Flexible Flash Options allow users to manually select flash output levels of 1/3 power, 2/3 power, or full power which is an especially nice feature for balancing ambient light with flash lighting.
+
+Right beside the S45&#146s flash is the Focus Assist beam which projects a beam of patterned white light that helps the auto focus system to get a lock on the subject in low light.  When red-eye reduction is enabled the Focus Assist beam remains lit (as long as you half-press the shutter button) which will reduce the size of the subject&#146s pupils (just ask them to stare at the beam) and reduce or eliminate redeye in low light portraits.
+
+<b>Controls, Design,  & Ergonomics</b>
+
+The S45 is surprisingly comfortable to hold and use.  There is no grip (I would have liked to see a small textured rubber grip on the right hand edge of the camera&#146s front) but the S45 is thick enough to provide a solid hand-hold and it isn&#146t slippery or difficult to grasp like some compact digicams.  The molded thumb rest at the rear of the camera aids in holding the camera.  Controls are logically placed and quickly become intuitive in operation. 
+
+Canon&#146s engineers designed the S50&#146s user interface so that the most important shooting functions are accessed through external controls (for improved usability). When you  need to use the menu system the FUNC button takes you directly to the exact function you wish to modify or change.   This enhances the S45&#146s creative control by allowing photographers to quickly, logically, and easily access many of the most commonly changed camera settings like exposure compensation, white balance, drive mode, ISO setting,  bracketing, flash options, photo effects options, and image size/quality selection.  The new FUNC button allows direct access to the <i>Photo Effects Mode</i> for in camera image adjustments. The sliding lens cover acts as the S45&#146s power switch.
+
+<b>Connectivity</b>  
+
+A/V out (for connection to a TV) and USB.
+ 
+<b>Power</b>
+
+The S45 uses Canon&#146s proprietary Li-ion rechargeable battery NB-2L.  Like all compact cameras (compact cameras, because of their size, must utilize smaller batteries) battery life is shorter than with a full sized digital camera.  Both my friend and I noticed that the S45&#146s battery life is about 20 percent better than that of the S40 (this translates to approximately 10-15 minutes of extra shooting time with moderate LCD use and occasional flash use).
+
+Overall, we were both impressed with the S45&#146s power management; the camera has very good battery duration for a compact camera. Canon claims over 200 images with full time LCD (and moderate flash use) and almost 500 images using the optical viewfinder (with light flash use).  These numbers are impressive, but not exactly realistic---subtract about 20 per cent and you&#146ll be in the power duration ballpark, in real-life numbers.
+ 
+<b>Technical Specifications</b> 
+
+Resolution: 4.0 Megapixel (2272X1704) 
+LCD: 1.8-inch TFT Color LCD
+Viewfinder: Real-image Optical (zooms with lens) 
+Lens: 3x optical zoom f/2.8-4.9/35-105 (35mm equivalent) all glass 7 elements in 5 groups including 2 aspherical elements for improved image resolution and more accurate color (no diopter correction for eyeglasses wearers)
+Exposure Modes: Auto, program, shutter priority, aperture priority, manual, and Custom, Programmed Image Control Zone (Portrait, Landscape, Night Scene, Fast Shutter, Slow Shutter, Stitch assist and Movie).
+Metering: Evaluative, Center Weighted Averaging, or Spot
+White Balance: Auto and 6 presets (Daylight, Cloudy, Tungsten, Fluorescent, Fluorescent Hi, Flash, and Custom 1 & 2)  
+Auto Focus: TTL FlexiZone AF or 9 point AiAF  
+Exposure Compensation: Yes ( /- 2EV in 1/3 stop increments) 
+Auto Exposure Bracketing (AEB): Yes 
+Shutter Speeds: 1/1,500th of a second to 15 seconds 
+Continuous Mode: 9 frames at 1.5 frames/sec 
+Sensitivity: Auto, 50, 100, 200, and 400 ISO equivalent 
+Flash: Built-in multi mode-- Flash Exposure Compensation  /- 2.0EV (in 1/3 stop increments) and manual flash output (1/3, 2/3, or full power) adjustment
+File Formats: JPEG and RAW
+Image Storage Media: CompactFlash Type I or II (32MB CF card included) 
+Connectivity: USB and A/V out 
+Noise Reduction: Yes 
+Power: Canon NB-2L  
+
+Price (MSRP) $649.00-----Street Price Range  $499.00--$549.00
+ 
+<b>Included</b> 
+
+NB-2L Lithium-Ion battery, CB-2LT battery charger, 32 MB CF card, Wrist strap, USB & AV cables, CD-ROM, ARCsoft software, User&#146s Manual
+
+<b>Optional</b> 
+
+WP-DC300 Underwater Housing, AC Adapter Kit ACK700, Car Battery Charger CBC-NB2, Soft leather Case PSC30, and SP-PS900 soft case
+ 
+<b>In the Field/Handling and Operation</b> 
+
+My Friend (who sells new and used photographic equipment) showed up with a brand new Canon Powershot S45 on a recent Saturday morning. Both of us have been waiting for an opportunity to try the S45, the update of Canon&#146s popular S40 digicam. We first set up a macro stage and after manually white balancing the camera we used the S45 to shoot brightly colored red, green, blue, and yellow plastic beach toys against a white background. The S45&#146s colors are well saturated and very accurate. When we tested the S40 (not quite a year ago) we both noticed a very slight warm cast with the Auto white balance setting. The S45&#146s re-designed white balance system handled this test much better than its predecessor, proof that Canon listens to consumer complaints.  The Manual white balance setting produced almost perfect results. The S45 (like the S40) had some difficulty with incandescent (yellow) lighting but when used with the flash, the incandescent setting achieved nearly neutral results. The S45&#146s white balance performance in this test was virtually identical to the tests we had done with the Canon G3. 
+
+The weather here in Kentucky has been ugly lately.  We had our first real snow (about 3 inches) right after my friend got the S45 so both of us were anxious to test the new camera's white balance and metering in an outdoor setting.  Snow is one of the very best tests of white balance and metering systems, since masses of pure white snow will often confuse exposure meters and white balancing.  The camera sees all that white and tends to try and compensate---resulting in under-exposure and muddy colors.  We took the camera to Cherokee Park and shot some areas with deep snow. The S45 did an exceptional job of correctly exposing the snow scenes.  Later that evening, after the sun went down, we drove around shooting Christmas light displays.  The multi colored lights cast beautiful colors on fresh snow.  Once again the S45 did an incredible job of getting the white snow, colorful point lights, and wash of color on the snow very close to perfect in almost every instance.  Noise was very well controlled, which shows some superb digital engineering since scenes with lots of dark/black areas mixed with bright point light sources tend to highlight noise. 
+
+The temperatures were in the low twenties so even though all that snow made for some wonderful photo opportunities the two of us were way too wimpy to spend much time freezing our butts off.  After a stop at the Wendy's at Bardstown and Grinstead for a cup of (horrible instant acid reflux flavor) coffee to warm up, we called it a day. 
+
+For our second outing with the S45 we got together on a pretty Sunday morning, the nicest day we&#146ve had since our recent snow.  The sky was pastel blue with masses of puffy white clouds.  The temperature was in the high forties, which after three weeks of absolutely frigid arctic temperatures was downright balmy.  After driving around the Cherokee Triangle neighborhood we found a magnificent old decorative Holly Tree.  The tree is about twenty-five feet high and covered with shiny dark green leaves and bunches of bright red Holly Berries.  We were able to shoot the tree back-dropped by the lovely blue sky and puffy white clouds.  We spent about fifteen minutes shooting the colorful tree and blue skies.
+
+After we finished with the tree we drove around the scenic loop in Cherokee Park looking for anything photogenic, but we didn&#146t find much.  After Cherokee Park we drove to Cave Hill Cemetery to shoot a pink Sandstone Moorish mausoleum that both my friend and I really like.  At one point I was able to shoot for about thirty minutes with absolutely gorgeous low angle winter afternoon light.  The Moorish style pink sandstone mausoleum was just the beautiful against cloud filled blue sky and made a striking composition. We also spent some time shooting a huge old River Cypress that still had some of its rusty red needles (Cypress and Larch trees are the only coniferous trees that change color and lose their needles in the winter) the ancient old Cypress looked great silhouetted against the blue sky and the S45&#146s tiny on-board flash added just enough front light to highlight the color of the remaining needles.
+
+My friend has been carrying the S45 around for more than a week now.  He is also carrying his newly purchased Olympus 5 megapixel C50 compact digital camera.  After our tests we discussed his feelings on how the two cameras compared (both sell for about the same price).  He felt the C50&#146s five megapixel images were noticeably better in terms of overall resolution, but that the S45 was more sophisticated in operation and offered a slightly better feature set and more comprehensive creative photography options.  
+
+<b>Timing/Shutter Lag</b>
+
+The S45 is a very quick camera, noticeably faster than the S40.  Start-up time (boot-up cycle) is about 4.5 seconds (same as the S40) but everything else is quicker.  The auto focus is more responsive, shutter lag is quite short (the best I&#146ve seen in a compact digi-cam) and the shot to shot times are also very fast. 
+
+<b>Image Quality</b>
+
+After we finished with our tests we printed two 5X7&#146s of snow scenes we had photographed a week earlier. We then carefully inspected the printed images using a Mamiya 4X loupe designed for checking medium format prints.  The enlargements were as good as the images we&#146d printed from the G3. Color, contrast, resolution, and subjective &#147look&#148 were comparable to any four megapixel digital camera currently available. The S45 is an excellent general-use digital camera that offers users just about all the manual exposure controls they might want, but works beautifully for neophyte photographers who want to shoot creative high quality digital images without the need to learn basic photography skills.
+
+We also printed one of the Moorish Mausoleum images at 8X10 (all enlargements were printed with an Epson Stylus Photo 785 EPX inkjet printer on Kodak photo paper) and we were both impressed with the S45&#146s resolution and accurate color balance. The enlargement was as sharp as a tack and even when viewed with a Mamiya 4X loupe there was no discernible distortion, and no color fringing. The pink sandstone and Moorish arches of the old mausoleum, set against the blue skies and puffy white clouds, was picture postcard perfect.
+
+Throughout our short test the S45 produced consistently excellent color images. Optical distortion with the excellent 3X zoom was lower than average (for compact digicam 3X zooms) at the wide-angle end (but there was some noticeable barrel distortion).  The telephoto end of the range produced virtually distortion free images. Chromatic aberration (purple fringing) was virtually absent and low light performance is well above average. The lens displayed some very minor softness in the corners of the frame, especially at f2.8.   Noise in longer exposures is well controlled, even at the ISO 400 setting. Macro performance is good, but the S45&#146s flash position and the lack of any parallax compensation marks makes macro shooting more difficult than it needs to be.
+
+<b>A Few Concerns</b> 
+
+The 3X zoom lens is not threaded for use with add on lens adapters or filters, a standard shortcoming in compact digicams, and the built-in flash is fairly weak (another standard complaint with compact digicams).  Battery life is decent, but not exceptional.  We got about two hours of heavy use from a fully charged battery (light to moderate LCD use).  Canon&#146s engineers included a protective plastic cover for the LCD but didn&#146t add an anti- reflective coating to make focusing easier in bright outdoor lighting. 
+
+Macro performance could have been much better with the simple addition of parallax correction marks in the optical viewfinder (you can obviously use the LCD viewfinder for your macro work, but critical focus is more difficult). Overall, Canon&#146s engineers did a magnificent job (I would have liked to able to adjust contrast, saturation and sharpening plus or minus 3[or even better 5]steps---rather than one step in either direction) and potential buyers should be aware that the S45's default sharpening is slightly lower than most other digicams, which is great if you plan to shoot a lot of RAW images and do your sharpening in PhotoShop.
+ 
+<b>Conclusion</b> 
+
+The popularity of the Canon Powershot S40 was pretty much a foregone conclusion.  Canon&#146s marketing folks guessed rightly that digital camera buyers would line up, money in hand, to buy a camera that merged the best features of the nifty Prosumer G2 and the compact size of the digital elf series. 
+
+When Canon introduced the G3 (the G2&#146s replacement) earlier this year, tongues started wagging about what was coming with the S40&#146s update.  Well, the S45 is here and it was worth the wait.  Like the S40, the S45 combines the best features of Canon&#146s two most popular digital camera lines.  Canon&#146s engineers have taken a relatively conservative approach to model evolution but clearly the S230 is the best digital elf to date and the G3 is certainly the best &#147G&#148 series digital camera so far. The S45 combines the compact size, fun, and stylishness of the elf series with the serious photographic capabilities of the G3.  The S45 has all the simplicity and ease of use of the S230 (and it is only marginally larger) but it also includes a complete range of creative photography options, a 3X zoom lens, and the four megapixel resolution of the G3.  All three cameras feature Canon&#146s fast new DIGIC processor for superb images, improved autofocus accuracy and much faster processing times. 
+
+The S45 is a solid performer that offers advanced amateurs a compact digital imaging tool that provides more features and creative options than most photographers will ever need.  The S45 is a pocketable fully automatic point-and-shoot digicam just like its smaller sibling, the S230.  But the S45 also has the flexibility to completely switch personalities and get just as creative as the G3, its larger sibling.  Buy the S45 for its compact size and cool looks, but don&#146t forget that beneath that stylish brushed metal exterior beats a warrior&#146s heart. Recommended without reservation.
+
+<b>Links</b>
+ 
+Are you considering setting up a home digital darkroom? Check out my review of a bargain priced and very capable photo quality ink-jet printer. 
+
+<b>Epson Stylus Photo 785 EPX</b> ink-jet printer 
+<a href="/content_60776812164">http://www.epinions.com/content_60776812164</a> 
+
+For definitive advice on <b>How to Choose a Digital Camera</b> please see my review: 
+
+<a href="/elec-review-2E46-17B174E2-39A418E3-prod1">http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a>  
+
+For more information about specific Digital Camera models, you may find my Digital Camera reviews informative: 
+
+<b>Nikon Digital Cameras</b> 
+
+Nikon D100 
+<a href="/content_72201965188">http://www.epinions.com/content_72201965188</a> 
+
+Nikon Coolpix 4300 
+<a href="/content_80569470596">http://www.epinions.com/content_80569470596</a>
+
+Nikon Coolpix 5700 
+<a href="/content_70131814020">http://www.epinions.com/content_70131814020</a> 
+
+Nikon Coolpix 4500 
+<a href="/content_69311368836">http://www.epinions.com/content_69311368836</a> 
+
+Nikon Coolpix 2500 
+<a href="/content_65176440452">http://www.epinions.com/content_65176440452</a> 
+
+<b>Canon Digital Cameras</b> 
+
+Canon Powershot S45 
+<a href="/content_84242173572">http://www.epinions.com/content_84242173572</a> 
+
+Canon Powershot G3 
+<a href="/content_78672989828">http://www.epinions.com/content_78672989828</a> 
+
+Canon Powershot S230 
+<a href="/content_78900203140">http://www.epinions.com/content_78900203140</a> 
+
+Canon EOS D60 
+<a href="/content_73529200260">http://www.epinions.com/content_73529200260</a> 
+
+Canon Powershot S40 
+<a href="/content_59617087108">http://www.epinions.com/content_59617087108</a> 
+
+Canon Powershot S30 
+<a href="/content_59041746564">http://www.epinions.com/content_59041746564</a> 
+
+<b>Olympus Digital Cameras</b> 
+
+Olympus C 730
+<a href="/content_86851030660">http://www.epinions.com/content_86851030660</a>
+
+Olympus D 550 
+<a href="/content_85994606212">http://www.epinions.com/content_85994606212</a> 
+
+Olympus C 5050 
+<a href="/content_82693164676">http://www.epinions.com/content_82693164676</a> 
+
+Olympus C 50 
+<a href="/content_81891724932">http://www.epinions.com/content_81891724932</a> 
+
+Olympus C 4000 
+<a href="/content_79317208708">http://www.epinions.com/content_79317208708</a> 
+
+<b>Sony Digital Cameras</b> 
+
+Sony DSC F717 
+<a href="/content_79857684100">http://www.epinions.com/content_79857684100</a> 
+
+<b>Fuji Digital Cameras</b> 
+
+Fuji Finepix S2 &#147PRO&#148 
+<a href="/content_76963548804">http://www.epinions.com/content_76963548804</a> 
+
+Fuji Finepix S602 
+<a href="/content_75291266692">http://www.epinions.com/content_75291266692</a> 
+
+Fuji Finepix 3800Z
+<a href="/content_81234595460">http://www.epinions.com/content_81234595460</a>
+
+<b>Minolta Digital Cameras</b> 
+
+Minolta Dimage F100 
+<a href="/content_76963548804">http://www.epinions.com/content_76963548804</a> 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+  
+ 
+ 
+ 
+
+
+ 
+ 
+
+ 
+
+
+
+
+
+ 
+
+ 
+ 		 
+ 
+ 	 
+ 
+
+ 
+
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

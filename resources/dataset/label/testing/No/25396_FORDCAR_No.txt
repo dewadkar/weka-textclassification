@@ -1,0 +1,15 @@
+DOC>
+<DOCID> 25396 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1994_Ford_Taurus </PRODUCT>
+<URL> http://www.epinions.com/auto-review-5D91-19069F6-38536728-prod2 </URL>
+<TEXT>
+            Just a warning--this is a review of the Taurus station wagon, not the sedan.
+The car is nice. Not amazing, but nice. Its a good family car: good steering, but both the braking and acceleration feel unresponsive. The brakes have to be pushed pretty far down before they start working, and it always feels as if the engine is trying to catch up with my accereleration.
+Furthermore, my transmission has started to die. The transmission is always banging into place.
+The car, however, has been very reliable. It has 120,000 miles on it, and has only been in the shop for a new head gasket. It has not even needed a new timing belt (which, to the best of my understanding, is expected to break after 60,000 miles)<br><br>
+            
+<label> No
+<rating>  4.0
+
+</DOC>
+<

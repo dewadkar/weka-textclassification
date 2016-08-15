@@ -1,0 +1,35 @@
+DOC>
+<DOCID> 19502 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Casio_QV_3000EX </PRODUCT>
+<URL> http://www.epinions.com/elec-review-4EED-14D0466C-3A31CCCB-prod4 </URL>
+<TEXT>
+            Last month I tested a few digital cameras. One of them was Casio QV-3000EX. This are my remarks about this camera.
+
+The camera uses 1/1.8&quot; CCD (Sony) matrix with resolution 3.34 megapixels
+(3.24 effective megapixels). Maximum picture size is 2048 x 1536 pixels.
+
+The camera has enough little sizes (134,5 � 80,5 � 57,5 mm) and weights
+about 320 g (without battery). Design is simple and at that time strict.
+
+Standart kit includes:
+- the camera,
+- cables: TV-out, serial, USB,
+- software: PhotoLoader, Panorama Editor, Internet Explorer, Adobe Acrobat reader, Apple QuickTime 3
+- CompactFlash card 8/16 Mb, support 340 Mb IBM microdrive
+- case and strap,
+- manuals.
+
+The camera has a lot of features. The shutter is from 2 second to
+1/1000 second (and Bulb), 3:1 optical zoom (for this price! - it's good) and 2:1 digital zoom. LCD (1,8�, 122100 pixels, resolution � 555 � 222) are placed on the back. The zoom, menus and navigation are enough intuitive.
+
+Output format - JPEG, TIFF and AVI. Included software is excellent and to allow you to do with yours photos all what you want.
+
+Indoors photos are nice, but outdoors shots required improvement. Some things look unnatural. For printing shots from this camera you need a printer about 200 dpi, because 2048 X 1536 is 8.5&quot; X 11&quot;. It's roughly 200 dpi.
+
+Version Casio QV-3000 EX Plus with 340 Mb IBM microdrive has price about $1000.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

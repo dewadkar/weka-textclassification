@@ -1,0 +1,43 @@
+DOC>
+<DOCID> 30740 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Olympus_D_340R </PRODUCT>
+<URL> http://www.epinions.com/elec-review-DD0-63DC608-3A2B0E89-prod1 </URL>
+<TEXT>
+            There are so many positive reviews of the D-340R that I can only nod in agreement...but would you like some tips for using it, too?  I'm no pro photographer, but I can share experience and give advice to the end user who is the usual consumer.  If that's your profile, read on...
+
+My Olympus D-340R was a gift and though I felt like it was something of a neat gadget the first time I played with it, like so many other people on Epinions, this camera soon came to virtually replace our 35mm automatic.  Sure, we don't have many prints, but since the majority of our family is online nowadays, we just e-mail snapshots to our loved ones and use the camera creatiely for various web or art projects.  We hope to begin creating digital photo albums on CD-Rs soon, too.  After all, our hard drive is getting full.  
+
+At first we thought the standard 8mb SmartMedia card would be plenty for us.  After all, we never use the &quot;SHQ&quot; (super high quality) function on the camera.  But we brought both our 35mm and the Olympus on a trip to Europe last summer, and guess what? We soon found ourselves in a photo store, buying more SmartMemory cards so we could keep taking instant photos, since we were far away from a computer.  Even though we were in a foreign country we easily found a store that carried the camera and plenty of memory cards to spare, which tells me that this form of memory is just as ubiquitous and easy to find as Sony's &quot;memory stick&quot;.  So we loaded up on 16MB cards (which run around $30-40 each) and took our pictures with even more confidence.
+
+<b>Tip One: Stock Up On SmartMedia</b>
+First lesson learned from our trip:  there's no such thing as too much memory for these cameras.  It's easier to hotswap SmartMedia cards than to unload them on to a computer when they're full.  But make sure you buy the 16MB SmartMedia cards unless you've had your camera reconditioned for using the higher mem cards.  And if you use the panorama function on the camera, make sure you use Olympus brand memory to do so.  If you don't use the panorama function, then go for the cheaper models of SmartMemory (like Sandisk) if you can find them.
+
+<b>Tip Two: Be Smart About SmartMedia</b>
+Well, on our trip to Germany, we could have saved ourselves the trip to the camera store for memory in the first place if we had a little foresight.  First off, we were snapping shots like crazy, and neglected to use the WONDERFUL LCD viewscreen on the camera to cycle through our photos and delete the ones that were duds.  Although the process can be arduous, it's worth it to delete junk regularly to save space, just like you would do on a hard drive.  Secondly, we learned to get in the habit of using the medium, or &quot;HQ&quot; (high quality) setting before taking pictures, and then changing over to the &quot;SHQ&quot; (super high quality) setting if there was a very special portrait we wanted.  There just isn't enough memory on a card to shoot at SHQ all the time.
+
+<b>Tip Three: Save the Juice</b>
+Taking pictures takes juice.  But it isn't the flash or the digitizing that sucks the batteries in these things dry.  There are two other processes that will drain your D-340R of power:  1) transferring many pictures from your camera to your computer at once; and, 2) over-relying on the LCD screen to preview your photos.  The camera isn't a camcorder and doesn't have the juice to act like one, so don't play around too much with that electronic viewfinder.  It is important to preview your shots, to see which ones to delete (see tips above), but watch your battery indicator!  Many people recommend getting the power supply or the rechargeable battery pack for the camera.  That's probably good advice but I found something that saves me uploading time AND gives me an extra special device:  the SanDisk USB SmartMemory Card Reader.  Functions like a hot-swappable, removable drive, it turns SmartMemory cards into something akin to little Zip disks and assigns them their own drive letter in Win98.  I thought this would be a waste of the $35 we paid for it, but it actually has saved us not only battery power, but lots of TIME.  Because the reason that transferring photos to your hard disk normally drains the power is because the port cable is so darned slow and it takes so much energy.  The SanDisk card reader is a snap to use and you don't even have to turn the Olympus Camera on to get your images.  <b>Added sub-bonus:</b> SmartMedia is removable storage for ANY kind of file:  mp3, doc, zip, whatever.  The cards work in my MP3 player, so it's worthwhile to buy more.  I used the USB to move a song from one computer to another when a network went down...worked like a charm!  But I wouldn't get the SmartMemory card reader unless you use your camera often and have more than, say, four memory cards.  Anything less, and then batteries are probably cheaper.
+
+<b>Tip Four: Burrow Around in the Bundled Software</b>
+The Camedia software that's bundled with the Olympus camera is wonderful and while I only use the slick-but-bloated Adobe PhotoDeluxe program to make screensaver slide shows on the fly, I've been really satisfied with the Olympus Camedia Master and the scaled down version of QuickStitch that comes with the camera.  The Adobe PhotoDeluxe program installs a &quot;My Camera&quot; function that works like &quot;My Computer&quot; whenever your camera is plugged in...we didn't realize that until three months later because we were so enthralled with Camedia Master...look for it by double-clickin on Windows &quot;My Computer&quot; icon).
+
+<b>Tip Five: DOWNLOAD &quot;CAME&quot; RIGHT NOW</b>
+But my main tip is to get on the web and download some really neat support programs for the camera.  A really handy program I found (made in Japan by some dedicated photographers) is called CAME.  Go to this URL and download it:  http://www.butaman.ne.jp/~tsuruzoh/index-e.html  Make sure you get version .9 and nothing else, because it works best with Olympus camera technology.  CAME is really cool: you can program hidden settings inside your Olympus camera (from f-stop to black-and-white), download selected photos from your SmartMemory card, set up HTML index files of thumbnails, and set up time lapse photography and even a WEB CAM(!) with this software. Came has come to stay on my computer...it's cool!
+
+<b>Tip Six:  Try Other Software</b>
+If you don't use Paint Shop Pro, go to the graphic software section of Epinions (or click on my Member Profile on the left) and read my review of it.  Read other reviews of it.  Then buy it already...it's a great graphic editor for a low price that no Windows user should be without.  Then check out a few other programs on the web.  One you might try is called &quot;Animator-9&quot; which takes advantage of your Olympus camera's &quot;9 speed shot&quot; function to run a tommygun magazine of snapshots one right after another (you know, the sound they make when they photograph models: tchk-eesh, tchk-eesh, tchk-eesh, tchk-eesh). This Animator-9 program allows you to generate animations from these photos.  You can make animated gifs or .avi files or even a cool animated Java applet for your web pages!  Download it at:  http://home.netvigator.com/~plaw/
+
+Another (popular) program to use with your camera is Ulead Photo Explorer, which is a shareware photo cataloguing program that also allows you to share photos on the web at imira.com.  Take it for a trial run at:  http://www. ulead.com and see if it's right for you.  It makes browsing long subdirectories of photos relatively easy.
+
+Helpful tips?  Hope so.  I realize that I haven't exactly reviewed the camera itself, but I wish someone would have told me all these things when I first got it:  I would have saved a lot of time and money...and had even more fun than I did when I first pressed the on switch beside the LCD viewscreen.  
+
+Oh, did I need to give you the most important tip of all?  Quit playing with that LCD thing if you're not posing for pictures...if you want to really be on TV then connect your Olympus to a VCR!
+
+Have fun!
+-- unheimlich<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

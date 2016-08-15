@@ -1,0 +1,50 @@
+DOC>
+<DOCID> 6045 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-RCA_CDS1000 </PRODUCT>
+<URL> http://www.epinions.com/content_46315048580 </URL>
+<TEXT>
+            <b>What I Got</b>
+
+In my never ending search to cure boredom, I have purchased yet another digital camera.  This time I went the cheap route, and bought the RCA model CDS1005 unit from Office Max, who was selling them for $49.95 recently.  
+
+In the box you find a very small, square, RCA digital camera.  You have a wrist strap, 2 AA batteries (Duracell ULTA - a nice touch instead of generic cheapos), and of course, basic software.  Surprisingly, you get two types of cables to transfer the photos to your computer - a slower serial cable for older computers, AND a much faster USB cable for newer models, another very nice bonus.
+
+The camera does not have a color LCD screen on the back, nor should it at this price range - those are found on more expensive cameras.  There is a small black and white LCD to give you basic setting info, however.   The camera does have a built-in flash, unlike some in this price range that do not.  It also has a tripod mount on the bottom, and even a cable for TV hookup so you can view your photos on a TV - something never found in cheaper cameras.
+
+<b>The Good, and "A Lesson"</b>
+
+First, the lesson.  Today, many of the better and even cheaper digital cameras use what's called a "CCD" chip to capture images.  This is usually a higher quality chip that along with a good lens, captures good images.  Cheap cameras use what's called a "CMOS" chip - a much cheaper made imaging chip that still captures images, but not great ones.  CMOS chips are commonly found in cheaper "web cams", those little cameras you use to make video phone calls, etc.
+
+The CDS1005 uses a CMOS chip, as well as a cheaper fixed-focus lens, so from this, you should not expect a photo that you can print, frame, and hang in a gallery.  What you'll get are "fairly decent" images that can be viewed on a monitor, sent by email to others, or stored on a C.D. or disk for later viewing.  Prints above a 2 x 3 inch size are just going to be "icky".
+
+The camera is small and easy to hold.  The small instruction book is easy to read, and handy, teaching you most everything about the camera in a matter of minutes. All photos are at a resolution size of 640 x 480 pixels, but you do have "normal" and "fine" settings - normal being more compression (and poorer quality photos) and fine being less compression (and higher quality photos) on the photos.  At normal, you can take 32 photos, and at fine, 16.  I suggest always leaving it on "fine".
+
+I quickly filled the camera and transferred some images to my computer.  Not really great quality, but actually for a CMOS camera, pretty good - especially if you stick to outdoor shots with the subject in the 6-15 foot range.  Transfer via the USB cable was quick and easy.  The manual says that if you use the USB method, the camera does not use it's battery power to download the pics, but I'm not sure this works as my unit seemed to drain a bit of power from it's batteries during this process.  More testing to figure this part out.  At one point I took some photos, hooked up the video cable to my TV, and viewed them on-screen - a feature that worked very well.  Hit the "record" button on your VCR, save the pics and mail them to grandma this way!
+
+<b>The Bad</b>
+
+Depending on your expectations, the image quality could be considered "Bad" by some.  Again, I know a little bit about digital cameras, and what to expect from what - so for me, I think the images from this unit are "good" for a CMOS camera.  Someone who's not familiar to digital photography however, might be disappointed.  Images do appear a little "soft" (meaning, a little blurry) because it's a fixed-focus lens, and straight lines will appear slightly curved near the edges of the photos (called "Barrel distortion") since it is a cheap lens.  
+
+The software is a bit harder to figure out for newbies, I would think.  The camera adds itself to your list of "drives", and you have to open the image files from that way via "My Computer", and from there you can import them to the image software.  If you try to tell the software to get the photos directly from the camera, it says it cannot find the camera, so in this respect, I'll give it a thumbs down.  Poorly designed software - boo.  Once you DO figure it out however, it's a quick task.
+
+Since the camera only uses 2AA batteries, it will of course, go through them fairly quickly.  Keep spares handy.
+
+The flash - well, like I said, most cameras of this lower price range don't even have flashes, so in that respect, it's a plus the CDS1005 even has one.  It is however, a cheap one and will flush out anything closer than 6 1/2 feet from it.  It's strong in the center, and drops off quickly to the sides, so don't expect miracles on indoor shots or in dark rooms.
+
+The memory for this camera is internal, so once you fill it up, you MUST connect the camera to your computer to download and save your photos.  You can then empty the camera's memory and start over. Today's cameras (even cheaper ones) are using removable memory cards that you can fill up, take out, and replace with an empty one till you're ready to view them - but you must remember too, that this camera has been sold in stores for a long time by digital camera standards, before this was common practice.  Still, an F.Y.I. you need to know. 
+
+<b>So What Do I Think??</b>
+
+I think that for the $49.00 price I paid for this unit, it isn't a bad deal.  It is another "car cam" for me to keep handy in the car for those unexpected photo opportunities.  For kids, it would be great, and provide tons of fun.  I would not however, pay the $99.00 "regular" price some stores are still commanding for it.  So get it on sale, and get a deal, or don't get it until it is on sale.
+
+If you want a fun toy to play with to get your feet wet in digital photography, go on and get it.  If you know your way around image editing software as well, you can improve the quality of the photos a good bit, too.  If you expect perfection and gallery prints out-of-camera from this unit, you need to look elsewhere and spend more.  
+
+For some sample images, go to: http://photos.yahoo.com/greg30127 and click on the album that's called "RCA CDS1005 Sample Photos", to get an idea of what comes out of this camera.
+
+Happy snapping.
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

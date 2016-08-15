@@ -1,0 +1,109 @@
+DOC>
+<DOCID> 9722 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Sony_DSC-D770 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-6E4E-163EF053-3A35776C-prod4 </URL>
+<TEXT>
+            <b>If you would like to have near total control of digital imaging, then this Sony camera will lead you down that road. But if you're looking for a &quot;take out of the box&quot; and shoot camera, then you may have to look elsewhere.</b>
+
+
+
+<b>Features I Like</b>
+
+One of the main reasons for my purchase was the ability to utilize my CompactFlash cards in my Sony, through the use of an ATA Type II PC Adapter card. It seems Sony decided not to make their memory requirement proprietary. Instead they concluded that new purchasers wouldn't warm up to the fact that it would be necessary to change their media type to Sony's Memory Stick format. Smart move.
+
+Sony must be commended for their infoLithium battery. The battery sends feedback to the camera, telling it how much time is remaining before <b><i>zero hour</b></i>. 
+
+Although costly, it is a much better alternative to Alkaline based systems. Each battery can be had for less than $40, if you look hard enough.
+
+
+
+<b><i>Why I Bought This Camera</b></i>
+
+The Kodak DC210 Plus, being my first digital camera, was purchased to help alleviate the mounds of prints that were stacking up in boxes, bins, and albums. 
+
+My reasoning behind upgrading to this model includes the following.
+
+1.	More control over shutter speed, focus, ISO, flash, and other features normally found on 35mm SLR cameras.
+
+2.	A camera that would be compatible with CompactFlash media. My heart was set on several other models from various makers, but all utilized SmartMedia.
+
+3.	The 5X zoom optical, and the 1344 X 1024-pixel size. This was an improvement over the Kodak in both respects, 2X zoom, and 1152 X 864. The lens itself is a 35mm equivalent to a 28-140mm. 
+
+4.	The ability to use either manual or auto focus, therefore enabling me to be more &quot;artistic&quot; in my photographs. Yeah, right.
+
+5.	Buttons, and plenty of them! If you've read some of my reviews, you'll know about my fetish for buttons, knobs and switches. It's a guy thing! (so says my wife)
+
+6.	The option to provide my own flash to the provided shoe, replacing the not so great internal flash.
+
+7.	A SLR type viewfinder. This is the old <b><i>WYSIWYG</b></i> of cameras. Although not a true SLR, it's pretty close.
+
+8.	In outdoor shots, this camera has the capability to take consecutive shots by pressing and holding the shutter release. Have a BIG memory card available! It can shoot these off quite rapidly. In my estimation, less than 1 second per shot. Forget about flash recovery using this feature. It isn't going to happen!
+
+
+
+<b>Nothing's Perfect</b>
+
+�	If you ever plan on purchasing this camera, do yourself a favor and add in the cost for an USB card reader. The supplied parallel port version is a montage of wires, drivers, and mini heart attacks.
+
+ You must not only connect your printer to this interface, but your keyboard as well. Chances are, you may have problem with cheaper printers on this type of application, as I have found with my LexMark.
+
+The only software provided is the driver install program with no user interface. No help is provided in configuring these drivers. My first thought was an incompatibility issue with Windows Millennium. I was wrong.
+
+After no less than 3 hours of trying to get the card reader to work, I decided to test whether or not the device worked at all. I installed the drivers in my Windows 98 machine with instant success. After re-installing the drivers and making a few tweaks to the system BIOS on the ME machine, I was able to get it working sufficiently. Needless to say, I ordered a USB reader shortly thereafter. I changed so many settings that I'm not quite sure what made it work. 
+
+Your system is supposed to see this reader as a mini-drive, and shows up as such in <i>My Computer</i>. Great idea, bad interface. USB has been around for years, and has been supported by Windows 98 since, well, 1998. ;) Sony could have at least supplied a direct connect from the camera to a USB port. Maybe they got a good deal on those obsolete card readers?
+
+The pop-up flash leaves a little to be desired. This is typical of built-in flashes. There is a <b><i>sweet spot</b></i> of, in my estimation, 4 and 12 feet. Any thing closer gives you a washed out image, any thing further, way too dark.
+
+
+
+�	The 8 MB Memory Stick provided is enough to get you started. But provides token storage for any large sized, high quality images, sometimes ranging in megabytes. So figure on the purchase of at least 32 MB in media of choice. This coupled with your 8 MB is sufficient. You will need to purchase an Adaptor card for your media type. The package includes a Memory Stick card only.
+
+
+�	Some menu modes require you to use both hands to manipulate knobs and buttons. This coupled with the two displays, the large color LCD, and the small display located on top.  At times I found my fingers tangled together pressing and turning knobs. I love it!
+
+
+�	The auto-focus feature can sometimes give a false sense of security. Although the camera signaled to snap the shot, the final product was not in focus. After a little practice, I became friends with this feature.
+
+
+�	Its weight and bulkiness can be cumbersome. This is where my Kodak would shine. Throw it in your pocket and you're off. With the Sony, a large case or bag is required. It resembles a small sized video camera.
+
+
+
+<b>Picture Quality</b>
+
+Through my inexperienced eyes, I see no noticeable difference between my DC210 and this camera in overall quality, using comparable JPEG image compression. Without compression, there is a discernable difference. The majority of my pictures are taken indoors, where lighting can affect the final product immensely. 
+
+Most of the digital cameras I've used or tested excelled at outdoor photography. There are adjustments that can be made to compensate for poor lighting, which does improve the final output.
+
+
+
+<b>Some Links To Ponder</b>
+
+Before setting out on your digital camera-buying spree, I've included two sites that can prove to be quite useful in your decision.
+
+A great beginners source for digital imaging, can be found at http://www.shortcourses.com/
+
+A little difficult to navigate, but this site will allow you to compare images from different cameras in a side-by-side comparison. Just click on &quot;Digital Cameras: Image Comparisons&quot;
+http://www.imaging-resource.com/IMCOMP/COMPS01.HTM
+
+
+
+<b>Overall</b>
+
+This camera has enough buttons and switches to keep me busy for the next year or so. The image quality is more than sufficient for my needs because I don't demand photographic quality prints larger than 5 X 7, although 8 X 10 prints look fine to me. 
+
+Speaking of prints, there isn't any noticeable difference between a print taken with this camera, or a regular 35mm, at a 5 X 7 size. But then again, I'm not a professional photographer. (but I play one on TV! ;)
+
+With a digital camera, you find yourself taking more pictures than you normally would with a conventional camera. And with this comes the need for image storage. A CD burner would be a wise purchase along with any digital imaging device.
+
+I have rated most items as average or good, and for good reason. It wasn't easy to learn or operate, and with <i>down and dirty</i> tweaking, it can take good images in all lighting conditions. All of this comes with patience and time. This therefore is not a point and shoot camera geared towards the beginner.
+
+At its retail of $1699 (listed on Epinions), I would say no, it wouldn't be a wise buy. But at $699, I would consider it a great buy!
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

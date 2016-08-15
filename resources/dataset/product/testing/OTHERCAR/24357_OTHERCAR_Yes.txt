@@ -1,0 +1,85 @@
+DOC>
+<DOCID> 24357 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_SonyDSCC-Sony_DSC-F55 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-7C49-9F5E982-3944465B-prod6 </URL>
+<TEXT>
+            I've owned the Sony Cybershot F55 for about 10 months and I still love it. It has some drawbacks but it works very well. It has been extremely reliable, durable and produces high quality images. The MPEG movie feature is an added bonus but it is missing an optical zoom and USB support. This model is like the first in the Cybershot series and the new DSC-Sxx cameras seem to address some of the problems with the F55.
+
+I originally got the F55 because it met all of my the requirements of producing high resolution, quality images as well as short "movie" clips so I didn't have to get a camcorder (although I ended up getting one later anyways). I intended the movie feature to be used to film the inside of homes for my mom's real estate business but I didn't find any software to edit the MPEGs so it's been mostly a novelty and I've used it on trips before we got the camcorder.
+
+<b>It's great because..</b>
+
+<b>* High resolution quality photos</b>
+The camera can record images in 1600x1200 pixels resolution with its Carl Zeiss lens. The coloration has been okay but not always perfect - sometimes it's has more green and often there is not enough contrast so the image looks dim and faded. The images sometimes come out a little blurry but when scaled down it is not noticeable. I've ordered 4x6 inch prints of the photos I've taken and they have come out fine from Ofoto after making corrections through Photoshop. (1600x1200 has to be cropped to fit a 4x6 print.) Shutterfly and PhotoAccess prints had more contrast and green tinting which made the JPEG compression artifacts more noticeable in solid areas. Ofoto says 1600x1200 pixel images are okay for 8x10 inch prints.
+Here is a gallery of photos I've taken with the F55: http://www.zing.com/album/?id=4294236267
+
+<b>* Rechargeable battery</b>
+The camera uses Sony's InfoLithium battery which is rechargeable and the camera comes with a recharger and an AC adaptor. I find recharging the battery gives it about an hour of use, at least according to the camera display. It uses less power when I put it on playback mode instead of record as well as turning the LCD backlight off. An hour of usage may not seem like a lot but a couple pictures here and a couple there ends up lasting the whole day for me and only when I'm also taking pictures at night do I start running low on power.
+
+<b>* LCD display</b>
+The "hybrid" LCD display supposedly uses sunlight to illuminate the screen and this means it makes no difference whether the back light is on or off. I can still see the display (but it's kind of washed out) and I can save battery power with the back light off.
+
+<b>* Good size</b>
+It's not too bulky like the Mavica and it doesn't have a protruding lens like the F505. It fits really snug in this leather bag I got with the camera which I recommend to anyone who gets the camera. I'm not sure where you can get it but it has a little pouch in the back perfect for holding extra memory sticks.
+
+<b>* Records MPEG movies</b>
+It can record MPEG movies in 320x240 (up to 15 seconds) or 120x116 (up to 60 seconds). I use Microsoft Media Player to view the movie files but haven't found a software to edit the frames or strip out audio.
+
+<b>* Macro mode</b>
+I like taking close-up photographs of objects and the macro option on the camera lets me do that without having to switch to a macro lens. The only draw back is that it is easy to blur the image because of movement and hard to tell it is blurred from the LCD display. It also has a short field of focus so sometimes other things closer or further away from the camera will be out of focus.
+
+<b>* Swivel lens</b>
+The lens rotates back 180 degrees and it's advertised as a way to take a picture or video of yourself while looking at the LCD. But seriously this flexibility is one of the best features of the camera. I use it to take pictures behind me of the sky or sunset when I am in a car (and I am not driving of course). If we are going the opposite direction or I am on the other side of the car, I can stick it out the window and rotate the lens so I see the view in the LCD. The lens on the newer F505 model swivels too but it seems not on the DSC-Sxx series.
+
+<b>What could be improved..</b>
+
+<b>* Lack of optical zoom</b>
+There isn't an optical zoom, only a digital zoom on this camera. This has been acceptable for the most part because I don't find the need to zoom in very often. It's only when like I'm trying to photograph animals that I wish there was a zoom. I would look into the other Cybershot models if you need zoom options.
+
+<b>* PictureGear Lite software</b>
+The PictureGear software that comes with the camera is the "lite" version. It's pretty weak and the software basically only lets the user download the images from the camera using the serial connection. Use a photo editing software like Photo Deluxe or Photoshop if you want to manipulate the images. If you own a Sony VAIO you may have the complete PictureGear version which has more options and supposedly lets you stitch together images to create a panoramic.
+
+<b>* Serial connection slow; lack of USB support</b>
+Using the serial connection to download photos from the camera to the computer takes a very long time. What's worse is that I can't really do anything else on the computer when it is downloading. On top of that the PictureGear software sometimes crashes. I've given up using the serial method since I got a PCMCIA card. The card lets me access the memory stick on a laptop as if it was a regular drive. Then I hook up the laptop and my desktop computer on a network to get the files. There is a memory stick floppy adapter but I haven't tried it. Neither the PCMCIA card nor the floppy adaptor come with the camera. The F55 does not have USB support but the newer models do.
+
+Some of the new Sony VAIOs have a memory stick slot on the side and that's one of the reasons I got a VAIO for my mom. When we've gone on trips, I only need to take the camera and laptop. After shooting a day's worth of pictures, I move the files off of the camera to laptop.
+
+<b>* Lack of non-compressed file format</b>
+The camera only stores still images as JPEGs and does not have the option to save in a non-compressed format such as TIFF. There are two options for the quality of the image - standard and fine. I always use the fine setting because I usually end up further processing the image through photo-editing software like Photoshop and the final picture has to go through JPEG compression on top of the JPEG compression from the camera so I have to get the image from the camera in the best quality format possible.
+
+<b>* Flash too strong</b>
+The camera doesn't offer the usual flash options like fill, red eye, etc. It basically has a high, normal and low setting which I think are all too strong and tends to wash out the image. In low light situations, I normally turn off the use of the flash because I find the exposure comes out better but I have to be cafeful and hold the camera still or the picture blurs. I have read about putting a piece of paper over the flash but I haven't tried that yet. Also, some have reported red eye problems with the flash.
+
+<b>* Supplied 4MB memory stick too small</b>
+I can store about 8-10 stills at the highest quality and resolution and only about 3-4 videos at 320x240. When I'm traveling, I am able to get by with a 16MB memory stick for the whole day and evening, storing about 20-30 pictures and some videos. Occasionally I run out of room and start using the 8MB memory stick.
+
+<b>* Start up and recording time</b>
+I don't know how well the F55 compares to other digital cameras in terms of speed but there is a couple seconds delay when it starts up after I turn it on and when it records images and movies. Basically all digital cameras I've used have been like this and it gets annoying when timing is critical. When you try the cameras out in the store, keep this in mind.
+
+<b>* Lack of focus, aperature, film speed settings</b>
+The only options available are white balance (indoor/outdoor) and exposure (+/-).
+
+<b>Purchasing</b>
+
+When I purchased this camera, it was about $899 retail and I got it at Fry's for $799 plus a 8MB memory stick for about $39. I returned the camera a week later because I found a Sony employee in the area selling his camera for $650 on eBay. I not only got the camera plus the accessories it normally comes with (battery, recharger, AC adapter, serial cable, 4MB memory stick, and software) but a soft leather case, a PCMCIA card (for laptop), a 16MB memory stick and another 4MB memory stick (which came with the PCMCIA card).
+
+The retail price for the camera has dropped since my purchase but my advice is to go to the electronics store to use and look at the camera. Then find the best deal by shopping online and looking at auctions and stores that don't require you to pay tax. Buying from a local store is still the best option for people that want to get it immediately and like having the option to return or exchange it easily.
+
+<b>Conclusion</b>
+
+Some newer models have come on the market in the U.S. since I got the F55. Just from visiting the Sony Web site, I see that they now have the DSC-S30, DSC-S50, DSC-S70, and DSC-F505 which address the USB support, TIFF file format, and zoom options. The F55 is a great digital camera and I recommend it only because I've been happy with the results but I will probably upgrade to a newer model in the future because they are available.
+
+Here is a gallery of photos I've taken with the F55:
+http://www.zing.com/album/?id=4294236267
+
+User reviews of F55 at dcresource.com:
+http://www.dcresource.com/reviews/cameraDetail.php3?cam=149
+
+Cybershot model pages at Sony (URLs are kind of long so select "cybershot digital still cameras" from the page below):
+http://www.sel.sony.com/SEL/consumer/ss5/portable/digitalimaging/
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,47 @@
+DOC>
+<DOCID> 8347 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Largan_Lmini_350 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-3496-4C8F8AA8-3A4A3E04-prod6 </URL>
+<TEXT>
+            This is my first digital camera so unfortunately I can't speak/compare from experience.  However, for the $59.99 price I paid from Tiger Direct I must say that I'm relatively happy with the outcome.  
+
+First off, let me say that if you're out to find a camera from which you'll be able to print near-photo quality pictures this is NOT the camera for you.  However, if you'd like an affordable digital camera with which you can snap off some pictures, store them on your computer, and perhaps e-mail them to your friends then this camera is okay. 
+
+SOFTWARE INSTALLATION
+My experience started off very bad.  I took the camera out of the package and inserted the CD into my CD-Rom drive.  After about 15 seconds my computer froze/crashed, and I had to reboot.  I restarted, put in a different CD, and it worked - verifying that it wasn't the fault of my CD-Rom.  I tried again and again, to no avail.  I disabled the autorun component and tried browsing the CD - same crash happened.  
+
+By now I was very upset - we all know how disconcerting it is to repeatedly have your computer crash.  I went to the Largan website, got on their user forums, and posted my story.  I then went to the &quot;support&quot; section of their website and found the driver for the camera.  I downloaded it, and low and behold it installed perfectly.  I already had a scanning/photo program on my computer, so I selected the Largan driver as the input device, and it worked fine.
+
+I must say that there is always the chance that somehow my computer was bad and that for whatever reason the CD didn't take.  Since I won't be able to review the software that's included, please visit another epinions members review (or somewhere on the net searching with Google.com, my favorite search engine) for NewSoft Presto! Mr. Photo V1.5 or  Presto! Photo Designer V1.0 if they exist.  
+
+PHOTO QUALITY
+The quality of the photos I took is adequate.  The CCD Resolution is 640x480, powered by a Sony CCD with 350,000 pixels. While it certainly is pixelated (the little squares), the software program I used was able to &quot;smooth&quot; it out.  While this keeps the photo from being extremely sharp, it does seem to make it softer and more appealing.  
+
+There are two options, Hi and Lo resolution.  Since &quot;Hi&quot; really isn't that high, I don't see why anybody would ever use &quot;Lo&quot; unless they really wanted to pack the photos on the 2MB of onboard flash memory.  On &quot;Hi&quot; resolution you can hold about 25 pictures.
+
+To see some true pictures taken with the camera go to:
+http://www.largan.com/main.html
+
+From there go to Products, LMini 350 in the left-side bar, scroll down and click on &quot;View Actual Photos&quot;.
+ 
+In terms of flash photography, there are three options: Always on, always off, or automatic.  I chose the &quot;automatic&quot; and so far it seems to be working quite well.
+
+Clearing the pictures out of the memory is quite easy.  You have the option of clearing one at a time, for the last one taken back, or clearing all at once.  The process takes about 30 seconds to actually clear.  
+
+Another nice feature the LMini 350 has is a timer.  I tested it, and it worked just fine.  No complaints.  Also, the unit goes into sleep mode after 2 minutes of inactivity.
+
+ACCESSORIES
+The Camera came with a leather carrying case, a strap for the camera, the battery, the RS232 transfer cable and a power cord.  A FANTASTIC feature about the power cord is that you can plug it in when uploading pictures from the Camera to the Computer - saving the somewhat expensive CR123A battery for photo taking (though you can also take pictures when it's plugged in - you just won't be too mobile).  
+
+OVERALL
+Overall I must say that I'm satisfied with the Camera - if for no other reason the price.  I've seen it at Fry's for $129.00, and let me tell you that I wouldn't pay that for it.  But if you find it somewhere for around $50-$75, and you'd like a starter digital camera, this one can work for you.
+
+Happy Picture Taking
+
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

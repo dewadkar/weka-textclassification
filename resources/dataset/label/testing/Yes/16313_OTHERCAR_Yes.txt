@@ -1,0 +1,25 @@
+DOC>
+<DOCID> 16313 </DOCID>
+<PRODUCT> Digital_Cameras/188278_Hewlett_Packard_PhotoSmart_C200xi </PRODUCT>
+<URL> http://www.epinions.com/elec-review-6E9E-10507F4E-393CF766-prod1 </URL>
+<TEXT>
+            The C200 digital camera is a good buy at around $300 for a first digital camera.  It provides three levels of  picture quality (although I have been unable as yet to distinguish any differences between the two best picture qualities).  It has a flash which seems to do well in any indoor environments, giving reasonably good quality flash pictures.   
+
+One thing that I did very quickly get fed up with was the amount of time that it took to download the pictures from the camera to the PC via the supplied cable, with the medium quality pictures taking just under a minute each to download.  I went out and bought a PC card adaptor which allows the Compact Flash (CF) card to be inserted straight into the laptop's PCMCIA slot.  You can also purchase a CF card reader that plugs into the USB port of the computer (or a parallel port reader), but since I have no USB port and the PC card adaptor retails at around $13 and the card reader retails at around $80 or $90 (according to the accessory catalog) so I went for the PC card adaptor :-)  The CF card appears on your computer (using the PC card adaptor) as a separate drive and then you can easily drag and drop the files from the CF card to your PC in no time.  I would definitely recommend buying one or the other of the card readers in order to transfer pictures since not only will it save you time but also battery life.
+
+On the subject of battery life, I have seen several conflicting reports of battery life ranging from about 20 pictures per battery change to over 500.  I got 520 pictures on the original batteries that came with the camera.  A large percentage of these were taken with the flash and the first few CF cards full of pictures were transferred via the cable to the PC.  I used the LCD display a little as well although I am wary of using this too much since it eats the batteries at an incredible pace.  I think if you use the LCD display only when necessary (I find that I really rarely actually NEED to use it) your battery life will be much improved.  While I am talking about the LCD display, I should mention that I find it to be a bit slow and jerky and not really particularly good.  Since the zoom (a 2 times zoom) is a digital zoom then the only way you can use it is to activate it and view the picture through the LCD display.  The jerkiness of the LCD makes it slightly difficult to use efficiently.  
+
+Picture quality is very good for a camera of this price.  As mentioned above, there are three picture qualities - low, medium and high.  The photo quality setting is changed by a button on the top of the quality.  The standard 8 MB CF card will hold 17, 40 or 80 pictures for the low, medium and high quality settings, respectively.  The quality is plenty good enough for web posting and viewing on the TV (which is possible via the supplied TV cable) although I have to admit I have yet to try this.  One nice touch is the ability to select PAL or NTSC as the protocol for connection to the TV.
+
+The flash options are Auto, Auto with red-eye reduction, On, On with red-eye reduction and Off, again being selected via a button on the top of the camera.  The self timer is easy to operate, requiring framing the picture, pressing the self timer button (on top of the camera again) and then the shutter release button.  
+In terms of additional accessories, there are a number of them on the market that I have seen - lenses, filters, polarizers and so on.  The CF cards are readily available and the prices vary quite considerably.  An AC adaptor is available from HP although the $50 price tag is a bit expensive (unreasonably high in my opinion) although there are cheaper alternatives available.  Likewise, rechargeable batteries provide a cost effective alternative to alkaline batteries, with NiMH batteries and chargers being available at many stores (e.g. Target).  
+
+The software supplied with the camera is good and does the job.  The Ulead Photo Explorer software allows viewing of the pictures as thumbnails or full size and enables conversion from the default jpeg's to other formats and sizes.  Also included is the HP Photosmart Photo Printing Software which allows you to alter such things as exposure, color, sharpness, rotation and scaling before printing the pictures.
+ 
+In summary, this is a good quality camera that represents good value for money and I would recommend it to someone looking for a reasonably priced first digital camera.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

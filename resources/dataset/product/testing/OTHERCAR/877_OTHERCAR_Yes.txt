@@ -1,0 +1,51 @@
+DOC>
+<DOCID> 877 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_OlympusCC-Olympus__C-3000_Zoom </PRODUCT>
+<URL> http://www.epinions.com/content_51131485828 </URL>
+<TEXT>
+            I have very much enjoyed my Camedia C-3000 Zoom Camera.  It consistently takes great pictures and its a pleasure to use. My respect for this camera has recently increased, as I've had the opportunity to use several other digital cameras. This one beats them all in consistent picture quality.
+
+But this review will focus on some factors that people considering purchasing a digital camera should be aware of.
+
+** Software Compatibility **
+This camera connects directly to your computer using USB. BUT, unlike newer Olympus Cameras it does not have "USB Autoconnect."
+
+This means that when you plug in your camera, you cannot acquire the pictures from any software other than Olympus' proprietary "Camedia Master 2.0" program which comes bundled.  "Camedia Master 2.0" seems to have been designed for Windows 95. It runs under Windows XP, but crashes often.  It can't find my "My Documents" or "My Pictures" folders and can't browse the network in order to save pictures on a server.
+
+Recommendation: I would now only buy a camera with "USB Autoconnect."  Most other USB digital cameras (both low end and high end) have this feature that makes the camera appear just like it a disk drive full of picture files. Such cameras can be plugged in to any new computer (with Windows Me or better) and the pictures can be downloaded without the installation of any device driver.  But NOT the C-3000 Zoom.
+
+If you do buy the C-3000 Zoom, consider also buying a USB SmartMedia card reader so that you can download your pictures directly into any software package without using the Camedia Master 2.0 software.
+
+** Comes with 8MB SmartMedia Card **
+There are two problems with an 8MB SmartMedia Card.  First, it only holds about 10 pictures taken with this camera! To make the camera usable, you should plan on spending about $50 on a 64MB card.
+
+** What about rechargeable batteries? **
+This camera comes with proprietary Olympus CR-3V batteries which are NOT rechargeable.  When you go to replace these, they are very expensive and hard to find.
+
+Instead, buy a Nickel Metal-Hydride charger and 8 AA batteries. Put four in your camera, and keep four on charge.  This camera runs extremely well on NiMH batteries, but it is yet another thing to figure out and to buy.
+
+The camera does NOT work well with Alkaline or Alkaline rechargeable batteries, since you will only be able to take a few pictures before they run out of juice.
+
+** No lens cap strap, no camera case, etc **
+Since this camera does not come with a camera case of any kind, expect to buy one.  The lens cap doesn't have a strap, which to me means I don't use it.
+
+** Flimsy **
+I'm sure I'm in the extreme minority, but my lens fell off during normal use.  I have no idea why.  The camera did not get dropped or misused, but Olympus refused to believe me and did not honor the warranty.  I sent it in and several weeks later they sent it back fixed.
+
+When shopping for a digital camera, look for:
+* USB AutoConnect - Camera should be accessible to all software, and you should be able to plug it into friend's computer and download without installing a special driver.
+
+* Durable design - Lenses should be protected. If a lens cap is involved, it should have a strap so you can keep track of it.
+
+* Rechargeable batteries - Digital cameras use lots of juice, so insist on rechargeable batteries.
+
+* Sufficient memory card size. 16MB is the bare minimum useful memory card size.
+
+Extended Bottom Line:
+Produces consistently good pictures.  This camera is no longer on the market, but if you can get a good price (less than $400) and you are willing to buy a larger memory memory card, a SmartMedia card reader for your computer, AA NiMH rechargeable batteries and a NiMH battery charger - you will be very pleased with this camera's features picture quality and ease of use.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

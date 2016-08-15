@@ -1,0 +1,57 @@
+DOC>
+<DOCID> 8661 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_225285_I_630705 </PRODUCT>
+<URL> http://www.epinions.com/content_120411164292 </URL>
+<TEXT>
+            I've had my C-700 UZ for approximately two years.  Now, while it is true that this camera has been eclipsed, in terms of technology, by several newer cousins such as the 720, 740 and 750, I figured I'd write a review about this "legacy" piece of equipment, because, simply put, it is still a great camera, and a nice find for the amateur photographer.  Thus, a review of this fantastic camera in "laymans' terms".
+
+<b>Specifications</b>:
+There are numerous reviews for this camera that list the specs and details in an in-depth manner, so I don't think it's too necessary to re-invent the wheel.  However, as a quick snapshot (no pun intended), for those looking to safisfy basic requirements:
+
+* 2.1 Megapixel camera, which defaults to a maximum 1600x1200 phyiscal image size, although sizes of  1280x960, 1024x768, and 640x480.are also available.
+* Images can be in either JPEG mode, at varying Standard Quality, High Quality and Super High Quality (SQ, HQ, and SHQ, respectively) levels, or in uncompressed TIFF mode.
+* 10x optical zoom
+* Wide range of shutter speeds and apertures that can be changed via presets or manually.
+* Built-in flash, good for a range of approximately 14 feet.
+* Available B/W and Sepia effects for images
+* 15-second Quicktime movie A/V recording capability.
+* Uses SmartMedia cards at sizes up to 128 Mb of storage.
+* USB connectivity for easy communication with a PC or Mac.
+* Available port to connect external flash.
+* Available mount to connect tripod
+
+<b>The Nitty-Gritty</b>
+As I've repeatedly told everyone who sees the results I've gotten from this camera, I am far from a professional photographer...  I say this, because I have gotten some truly amazing shots, and my experiences with this camera have been extremely satisfactory for the most part.
+
+Perhaps the most enticing feature of the the C-700 is its 10x optical zoom.  Admittedly, I, for one, wasn't even aware of the advantages of this until people started asking me how my close-up pictures turned out so clear on a digital camera... I thought it was par for the course.  Regardless, this feature nonetheless turns out to be the strongest one for the C-700.  Close-up shots are amazingly crisp... although it is sometimes hard to keep a steady focus when fully zoomed. 
+
+The colour quality on the C-700 has been fairly true, although contrast in brightly-lit situations can be, on occasion disappointingly lacking.  I have heard this is a problem with older generation digital cameras, so this doesn't disappoint me a great deal... except when I am trying to get what looks to be a fantastic sunset shot and the camera doesn't cooperate.  In most standard situations, the colour clarity is fantastic, almost unreal, especially red and blue hues, it seems.  I have used neither the black and white nor sepia modes on this camera, as I prefer to do any sort of effects with an external program, so I cannot comment on these features.
+
+The USB connectivity is fantastic, although the data transfer can be a real drain on the batteries which are probably already heavily-taxed due to regular usage.  Plugging it into your standard Mac or Windows machine will cause it automatically show up as a device on your system.  It works so well that, although the C-700 does come with software that can be installed to view the pictures, it really seems unnecessary.  
+
+<i>As a tangential aside, in addition to Windows and Macintosh, it takes minimal configuration on a Linux system to detect the camera there, as well, whereupon it is detected as a SCSI block device.  This may not mean a great deal to most users, but in my Windows-Free environment, it's a true godsend.</i>
+
+Another legacy issue from which the C-700 suffers from is the "purple haze" of chromatic abberation which, to varying degrees, has generally been improved on newer generations of cameras.  It does not occur often enough to be a serious annoyance, but if you're dealing with bright lights or sharp contrast, there's the chance you may run into it, thus giving some portions of your photo an unpleasant lavender "halo".
+
+Although there are a range of different shutter speeds, the time between pressing the button and when the photo is actually taken can be disappointing; it is exceedingly difficult to take any sort of candid shot with this camera, perhaps one of its biggest disadvantages. 
+
+Another disadvantage to this camera is the inability to use it, for the most part, in standalone, during night-time and reduced-lighting environments.  Now, if you can line everything up correctly, and use a flash, chances are good that you'll get a decent picture.  However, one can simply not discern any particular target in these environments, using the digital viewer -- it will be jet-black.  Trial-and-error will be required to get good shots in these situations.
+
+The tripod mount is made of plastic, as opposed to metal, which can be a problem;  as with any camera containing the same feature, should you overtighten the tripod, the plastic might be unforgiving and tear up.  Considering the need for a steady set of hands when using the zoom, this may be a serious issue for some.  I, however, have never used it, so cannot comment.
+
+Finally, speaking of unforgiving plastic, a very minor yet valid complaint concerns the lens cap.  It is poorly constructed, and with its weak spring, it doesn't take much of a fall or impact to dislodge the bits, thus rendering the cap basically unusable... chalk this one up to experience.  A digital camera -- or any camera for that matter -- is an expensive investment, and one surely doesn't want to risk damage to it simply because a fifty-cent piece of plastic (which sells for $10 on the Olympus site) can no longer protect the lens.  I ended up wrapping a lens cloth around the front of the camera, while waiting for a replacement.
+
+In the end, however, the positives far, far outweigh the negatives in this camera, and for most casual users, it is a terrific camera.  What this camera lacks for in overall resolution as compared to more modern cameras, it makes up for in its fantastic zoom.   I'd wager that it could make most people churn out quality picture after quality picture... and if such a simple statement doesn't convince you, consider this slightly subjective anecdote:  Despite being an admittedly novice photographer, <i>I received an unsolicited request to use one of my photos in an upcoming scholarly publication!</i>  In my mind, that's a tremendous testament to this trusty camera.
+
+If you are a full-on professional photographer, you may want to look elsewhere for something where the construction has all the i's dotted and the t's crossed... but for your average to moderately avid photographer, this camera is a fantastic one -- and now that it's no longer top-of-the-line, it can easily be obtained for a great price.
+
+
+For a sample gallery of photos taken with this camera, look no further than "http://wiw.org/~corey/visions/" - or simply click the link in my profile.
+
+Note that these have been resized from the original 1600x1200 image size, but are not otherwise altered unless indicated.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

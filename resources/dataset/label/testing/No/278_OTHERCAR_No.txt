@@ -1,0 +1,40 @@
+DOC>
+<DOCID> 278 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_Camedia_D_510_Zoom_Digital_Camera_D510ZOOM__Camera_D510ZOOM </PRODUCT>
+<URL> http://www.epinions.com/content_62628990596 </URL>
+<TEXT>
+            The D-510 is called C-200 in Europe, and was my introduction into digital photography for some time ago. It is a very small and handy little camera in silver colored resin plastic with a 3 x optical zoom. The camera is surprisingly light but a bit wobbly. 
+
+The D-510 is switched on by sliding the lens protecting lid to the side, which in turn activates the lens extension mechanism, pops up the flash and turns on the camera. The whole process takes a couple of seconds, but still feels quite acceptable. However, if you forget to push the lid all the way to the side, the lens will not extend and give you the impression that the camera is broken.
+
+There is no way to keep the flash unit from popping up automatically (it is activated by a simple spring mechanism) and it quickly gets a bit annoying, especially if you like me don't use it very often.
+
+Switching the camera off is done by the performing the same process in reverse: close the lid one notch, wait until the lens retracts and push the lid all the way to close.
+
+The photos are fairly decent for a 2 megapixel point-and-shoot camera and if you only look at the photo quality, you will not be disappointed. Color saturation and contrast is nearly perfect, and the camera does a good job capturing bright and vibrant images even in more demanding lighting situations.
+
+There is only a very slight chromatic aberration present (purple fringes) around high contrast edges, but the optics are actually very clear. The zoom performs very well, although the motor is slightly noisy. The provided 8 MB SmartMedia card is a joke, so do yourself a favor and get at least one 64 MB card right away.
+
+The D-510 is basically a point-and-shoot camera and if you don't want to fiddle with aperture and shutter speed settings, you have a great and simple still image capturing tool. You can also record short QuickTime movie sequences to memory, but since these are without sound and still waaaay too large to be sent as mail attachments to Mom and Dad, I really don't see the point.
+
+The camera eats batteries like there's no tomorrow, so I strongly suggest that you invest in a couple of sets of NiMH batteries and always carry a set of freshly charged batteries in your pocket whenever you go out with the camera - as Elvis descends in a flying saucer onto your lawn, the last thing you want to see is the battery icon start flashing.
+
+Image transfer to computer works like a charm, and especially if you are a Windows XP user, you will probably not experience any difficulties at all. The camera appears as an external hard disk in Windows Explorer and you can just use normal drag-and-drop to move the photos to your regular hard disk.
+
+You can also look at the images on your TV, but since a normal TV set cannot reproduce the required image resolution for digital photography, the photos will look absolutely horrible - don't say I didn't warn you!
+
+The D-510 looks like a great purchase at first glance, but after a while you will inevitably discover some low-quality design flaws. I can't exactly put my finger on it, but the camera really feels "cheap". It's too light, too wobbly, too hollow and the zoom motor sounds like it's going to give in any moment. The silver-colored plastic housing is very easily scratched (not the least by the sliding lid) and will after a year of constant use look like something the cat dragged in. The USB-connector and TV-out jack is protected by a flimsy rubber flap, which further contributes to the cheapish look and feel of the camera.
+
+But the biggest problem I experienced with this camera was a fault in the very heart of the actual digital image circuitry - the CCD. After a few weeks, a bright yellowish dot appeared, and it was very visible on all photos except the ones taken in the most bright outdoors scenarios. There was also a darker smudge in the very middle of the picture, and it was not caused by dirt on the lens. I sent the camera back to Olympus for warranty repair, and after a month I got it back - with the same problems remaining.
+
+A quick look at another demo camera in the shop revealed the exact same problems, except on a different place in the picture. I ended up immediately exchanging my camera for the Olympus C-3020 (see my review), something I haven't regretted since.
+
+I have a feeling that the simplest Olympus digital cameras (such as this one) are equipped with less-than-average quality CCD's or that they simply don't pass through the required quality control before leaving the plant. Sorry Olympus, but you can do much better!
+
+
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

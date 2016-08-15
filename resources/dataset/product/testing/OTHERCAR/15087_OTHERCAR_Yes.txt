@@ -1,0 +1,73 @@
+DOC>
+<DOCID> 15087 </DOCID>
+<PRODUCT> Digital_Cameras/Toshiba_Pdr_m71_digtlcam_3_3Mpix_3X_OPT_zoom_2X_digtl_zoom__Camera_PDR_M71 </PRODUCT>
+<URL> http://www.epinions.com/content_59020643972 </URL>
+<TEXT>
+            <b>Brief Overview</b>
+I am very happy with the Toshiba PDR-M71. The quality of the photographs are good, and the camera is simple to operate. It is not quite small enough to be considered a pocket size camera but it is light enough to carry comfortably, and the buttons are placed ergonomically. I would definitely recommend purchasing another SmartMedia card and rechargeable batteries along with the camera (see the rebate below to get an extra memory card free).
+----------------------------------------------------------------------
+
+<b>What you get</b>
+This camera comes with an 8MB SmartMedia card, 4 AA alkaline batteries, AV and USB cables, Image Expert software, a camera case, shoulder strap, and a lens cap.
+
+<b>Resolution</b>
+The Toshiba PDR-M71 is a 3.2-megapixel camera.  It can take still images with resolutions of 640x480 (Small), 1024x768 (Half), or 2048x1536 (Full).  It offers three picture quality settings: fine, regular and basic.  The images are stored as jpg files.
+
+<b>Memory</b>
+The camera uses SmartMedia cards which come in 2-128 MB sizes. It ships with 8MB of memory. This can hold 6-19 full sized pictures (or 41-124 of the smallest size) depending on the image quality.  I imagine most people would want to purchase additional memory because the included card does not hold many pictures.
+
+<b>Zoom</b>
+The optical zoom is 2.8X, and the digital zoom is 2.2X, for a combined 6X zoom.  As typical with digital cameras, the optical zoom is superior to the digital zoom.  Optical zooming results in clear enlargements, while the digital zoom can give slightly fuzzy results.
+
+<b>Batteries</b>
+The batteries last quite a long time for the Toshiba M71.  You have the choice of using standard AA, NiMH (rechargeable), or Lithium batteries (long life but not rechargeable). An AC adapter is also available. I opted for rechargable batteries in order to save money, but in a pinch you can find suitable batteries at any corner store. You can also use the optical viewer and sleep mode to extend battery life.
+
+<b>Screens</b>
+The 1.5" LCD screen is easy to see most of the time, but can be hard to see in bright sunlight.  This makes it difficult to use manual settings in those conditions; fortunately the automatic settings work well in sunlight.
+
+The status display is not lighted, so it is difficult to read in the dark.
+
+<b>Automatic settings</b>
+When using the automatic settings, you can choose based on the type of picture you are shooting: Auto, Portrait, Landscape, Sports, Night Scene or 16-shot mode.
+
+When using the automatic settings, night pictures and outdoor pictures in natural light were of excellent quality. Pictures that I took indoors were of varying quality: many were excellent, others did not have the color saturation I wanted, and a couple had overly pink skintones. I have found that I get better results when using the manual settings indoors. 
+
+<b>Manual settings</b>
+You can manually control the exposure, white balance, AE and shutter speed. 
+
+There are also a couple "hidden" functions discussed on the manufacturers website.
+<i>Focus</i>
+The options are Auto, Macro, 1 meter, 3 meters, and infinity.  There is also a completely manual focus that is difficult to find if you are just playing around with controls (see http://www.toshiba.com/taisisd/isd_svc/svcdsc/m71faq.htm#MANUAL for instructions on how to use the manual focus).
+<i>White Balance</i>
+There are Auto, Outdoor, Cloudy, Incandescent, and Fluorescent 1 and 2 settings.  You can also set the true white although this is not readily apparent in the menus (see http://www.toshiba.com/taisisd/isd_svc/svcdsc/m71faq.htm#PRE for directions).
+
+<b>Video</b>
+Short movies (including audio) can be recorded in avi format. They are low resolution, up to 320x240.  15 frames are captured per second. 
+
+I would recommend using the digital zoom for video. If you try to use the optical zoom, it will make a noise that is captured in the audio.
+
+<b>Timer</b>
+The self timer has a delay of 2 to 10 seconds.
+
+<b>Compatibility</b>
+I used the Toshiba PDR-M71 with Windows XP.  I simply plugged in the USB cord, and it was automatically detected and installed.  It is also compatible with Windows 98/2000/ME, and Macs.
+
+<b>Extra Lenses</b>
+Additional lenses are available for this camera. You must purchase a lens adapter in order to use them, which costs about $25.
+
+<b>Rebates</b>
+<i><b>Free Photo Kit with mail in rebate (Estimated $100 value): Expires 3/31/02.</b></i>
+http://www.toshiba.com/taisisd/isd_svc/svcdsc/_pdf/m71/rebate_m21m71.pdf
+(Photo kit includes a free 32mb Smartmedia card, Caselogic Smart Media card case, 4 pack Energizer lithium batteries, camera bag, and Lost & Found protection plan.)
+
+<i><b>$100 off EPSON Stylus Photo 785EPX Printer: Expires 3/31/02</b></i>
+http://www.toshiba.com/taisisd/isd_svc/svcdsc/_pdf/hp/Epson_3_31_02.pdf
+
+<i><b>$50 off an HP 1215 or 1315 series printer: Expires 3/31/02</b></i>
+http://www.toshiba.com/taisisd/isd_svc/svcdsc/_pdf/hp/hp_75r_2002_01.pdf
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

@@ -1,0 +1,113 @@
+DOC>
+<DOCID> 15832 </DOCID>
+<PRODUCT> Digital_Cameras/Sony_Cybershot_DSC_P31_Digital_Camera__Camera_DSC_P31 </PRODUCT>
+<URL> http://www.epinions.com/content_86886682244 </URL>
+<TEXT>
+            I bought this camera before I went to Prague last summer to replace the <i>Kodak EZ-200</i> budget digital camera that I had because I didn't want to compromise my photo's of the beautiful city with poor photos.  Also whereas I only used the Kodak photos for the web and email, I thought that I might want to print some of these photos, so I decided to go prepared.
+
+I bought the Sony DSC-P31 from http://www.dabs.co.uk, a retailer who specialize in computer components, but I've used them many times and they are always pretty cheap, and keep lots of items in stock.
+
+
+<b>Inside the box</b>
+
+The camera is actually smaller than I expected it to be.  This is a good thing, it fits well in a pocket and it isn't too heavy.
+
+It is a bit light on accessories though.  The included 8MB MemoryStick is pretty mean.  You can't even fit 10 full quality pictures on the 8MB card so you will definitely want to buy a bigger card whilst you have your credit card out.  I bought a 64MB card which is a reasonable comprimise.  A 64MB card holds over 60 full size photos, and cost me �41.  I could have had a 128MB card for about �75, but I decided that it is probably better to have 2x 64Mb cards if I decided I did need the extra capacity, and so far I've decided that the one card is enough.  If you do decide to buy a memory stick, don't buy one of the more expensive MagicGate sticks, as these are unnecessary in a camera and just add to the price.
+
+There is no included mains adapter, this is an optional extra.  It uses a weird shaped plug, so you aren't going to be able to use an adapter that you have lying around.
+
+The camera does come with a battery charger and some high-capacity NiMH batteries.  The charger is ok, but it is an overnight type of charger which is a bit tedious to wait for.
+
+There is no case with the camera.  I think this is inexcusable.  Even a cheap bag or something would help to protect the LCD screen on the back.  I ended up carrying the camera around in the plastic bag that it came in inside the box when I was on holiday.  groovy.
+
+The manual is pretty comprehensive I thought.  The camera does have quite a few features so you probably do need to it.
+
+
+<b>Intended users</b>
+
+You only need to see the price to realise that this camera is not intended for professionals.  It allows quite a lot of control over the picture, but not in the way that photographer's would want.  For instance you can influence the shutter and apperture settings by using spot-light metering, adjusting the exposure level and using twilight mode, but you can't set these settings manually.
+
+
+<b>On the outside</b>
+
+The camera is compact, easy to hold, and looks good.  Sony are unstoppable at making things look good.  There is an automatic lens cover which opens when you put the camera in photo mode.
+
+The screen is very clear.  It's brightness is adjustable, using the settings menu or the power saving mode.  You can use the zoom controls to zoom in upto 5x on a photo to see if it is clear.
+
+There are some LEDs near to the view finder which indicate when the shot is in focus and when the flash is ready etc.  These are useful if you want to turn off the LCD display to save batteries, or if you ask a friend to take a photo want to easily explain to them how to tell that the photo is taken.
+
+The joypad style control is a bit awkward to use at first.  The select button is reached by pressing the centre of the pad in.  It isn't bad once you get used to it though.
+
+
+<b>Special features</b>
+
+The camera has some special features which don't seem to be very well promoted:
+
+Twilight mode, and twilight portrait mode take slow-shutter photo's of up to 2 seconds exposure.  They are designed to create atmospheric photo's that would otherwise be made artificial looking if the standard mode was used with the flash.  It works really well, it is great for taking candlelit photos, or where it would be awkward to use a flash.  The drawback is that you have to remain very still during the exposure, but if you pull it off the effect is worth it.
+
+Low-shutter speed noise reduction means that when you are taking slow-speed photo's using "twilight mode" or "twilight portrait mode", the camera will take a photo, and then close the lens cap and take a control photo.  It then uses the noise in the control photo to denoise the first photo.  It works quite well.  Apparently noise in low-light is a weakness of most digital cameras and this technique helps to avoid it.
+
+The autofocus illuminator shines a bright orange light at the target during autofocus in dim light.  The purpose of this is to help the autofocus do a better job.
+
+Red-eye reduction is availible but I prefer to do without it.  It works by emitting a pre-flash about a second before the photo is taken.  Whilst this might help reduce red-eye, it tends to create the effect of fooling everyone in the photo to think "is that it?" and move by the time the photo gets taken.
+
+To go with the good features, there are also some more pointless ones:
+
+Special Effects - The camera can apply special effects to the photo: Sepia, Black and White, Solarize, and Negative.  But why?  You might as well do these on the computer where you will have much more control over them.
+
+Email mode - This sounds like a great idea.  It takes a 320x240 jpeg suitable for sending by email.  But it takes this in addition to the normal sized photo!  There is no way of deleting one without the other so it just uses unnecesary space up.
+
+The camera has a 5x digital zoom which is no substitute for a real zoom.  It isn't much better than taking the photo and enlarging and cropping it on your PC.  I did consider buying a camera with zoom, but noticed that zoom models were quite a bit heavier, and as I've never used it in the past, I decided not to bother.
+
+<b>Photo quality</b>
+
+I am impressed with the photo quality.  The camera takes photos as JPEGs, but on the high setting it uses minimal compression, making each file about 700K.  The highest resolution is 1600x1200, but there are other choices including a resolution which uses a 3:2 aspect ratio like normal printed photos, instead of the normal 4:3 which is the shape of a monitor.
+
+<b>Video mode</b>
+
+Video mode records MPEG1, which I think is great news.  MPEG is widely supported and offers great compression.  The resolutions availible are 160x120, 320x240, and 320x240 HQX.  The HQX version takes very good quality video for a digital camera.  A 64MB card will hold under 3 minutes of video at this resolution but it is suitable for full screen playback on a TV (which can be done directly from the camera using the supplied AV lead).
+
+The lower resoultions are probably ok for email use, as they use far less space (160x120 can fit about 45 minutes on a 64MB card), but the quality is nowhere near the quality of HQX mode.
+
+You can cut video after it has been taken.  This is quite useful, because you can then make more room for extra photo's if you start to regret taking a long video of something on the first day of the holiday.
+
+Video mode doesn't come with any audio support because there is no audio input.  This is a bit of a let down.  Unlike some cameras, the video is streamed to the card, so video can be recorded up to the maximum capacity of the card.
+
+There are some other "motion picture modes" which are slightly unusual.  One creates a 4x4 grid of pictures on a single image with a small adjustable interval between each shot.  This might be useful to analyse your golf swing, or frisbee throwing technique in my case.
+
+The other motion option allows you to create small animated GIFs by manually joining several frames together.  It only allows a maximum of 10 frames though, so you aren't going to be making the next Wallace and Grommit with it, but it might be fun trying.
+
+
+<b>Connectivity</b>
+
+The camera connects to a standard USB port.  It requires batteries whilst it is connected.  If you have Windows XP then you will already have the driver installed with the O/S, otherwise you need to install it from the CD.  When you have installed the camera it will appear as a drive letter and can be accessed like a disk.  XPs photo wizard makes it easy to access the photos on the camera.
+
+Unfortunately there is no video conferencing capability, and no TWAIN interface to allow it to be used as a still webcam.  The PC interface only provides access to the existing images on the camera and can't control the camera to take new ones.
+
+The camera stores EXIF information in the JPEGs.  This is metadata which lets you see what exposure settings were used for the picture and when it was taken even when the file is on your PC.  Windows XP can display this sort of information in the files' property view.
+
+The other conectivity option is the video out lead.  The RCA plug will connect the camera to a TV or video, and the TV will display whatever is on the LCD screen, only at a higher resolution.
+
+
+<b>Battery life</b>
+
+The camera takes standard AA batteries.  Although it will run on alkalines, it is designed to run on NiMH rechargables, and you will find that alkalines won't last very long.  It is useful though to be able to use alkalines though if you run out of batteries and need to take some photos in a hurry.
+
+Battery life is hard to guess.  I haven't sat around pressing the shutter button until the batteries run out, and much depends on whether you use the power saving feature, whether you use the flash, and how much time you spend browsing the pictures.  I think that the battery life is quite good though.
+
+
+<b>Example photo</b>
+
+http://www.geocities.com/djpowell.geo/webpics/dscp31.html
+
+(taken in Prague - even the more expensive cameras can't stop you putting your finger over the lens!)
+
+
+Dave.
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

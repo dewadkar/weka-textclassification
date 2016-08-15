@@ -1,0 +1,69 @@
+DOC>
+<DOCID> 12596 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_CanonPowerShott-Canon_PowerShot_S10 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-3DEB-13C4328B-38FB3B6E-prod3 </URL>
+<TEXT>
+            I'd been debating the merits of digital photography for years.  However much I loved my Nikon and Canon SLR's, I got too annoyed at the tedious and ultimately inaccurate process of scanning photos.  Slide imagers were (and still are) totally out of reach.  Instead of hoping that the endless revisions of the TWAIN standard and Pantone or Kodak software would allow good color accuracy, praying that the scanner optics wouldn't distort the image, I wanted to see the actual digital image right away.
+
+But the early digital cameras were bulky, awkward (for my standard-size female hands), provided obscure controls that didn't seem related to photography _or_ computing, and had horrible resolution, optics, and color distortion.  If you wanted to pay $2,500 for a camera that produced an image worthy of a $10 throwaway cardboard film camera, well, you were welcome to do it, as of 1998.
+
+In 1999, the Nikon Coolpix 950, Kodak DC280, and Canon Powershot A10 came along, and suddenly, I was swamped with choices that seemed both affordable and competent.  A 2 megapixel resolution provides the equivalent of a maximum 1600x1200 image size with 10-bit signal processing, or the equivalent of an acceptable 8&quot; x 10&quot; optical photo.
+
+Essential considerations:
+
+I wanted a camera I could use for still nature photography while bike-packing or canoeing, for web and digital art raw material, or for professional forensic evidence photography where accurate images were needed immediately.  I wanted to be able to print enlargements to at least 8x10 without substantial loss of quality.  Also, my spouse and I wanted a quick carry-along camera for house-hunting comparisons and social events.  Thus, the camera I was looking for had to have a decent macro capability, i.e. the ability to photograph objects within eight inches of the lens; very sharp, distortion-free optics; accurate color; the ability to hold at least one standard film roll's worth of images (24-36) in Compact Flash or SmartMedia format; quick manual settings; and compact size and weight, with a rugged all-metal casing. 
+  
+The Canon PowerShot S10 was the only camera in its class that met all of the above needs.  A footnote: http://www.imaging-resource.com/ is one of the best on-line sources of digital camera information.  It features the Comparometer(tm), which has pictures taken with a variety of different digital cameras in a wide range of common settings and camera test setups, that can be compared side-by-side to each other or to scanned high-resolution optical photos.  This was my basis for decision on which camera had the best sharpness and color accuracy.  Please note that &quot;best&quot;, in my evaluation, means _truest_, not _prettiest_.  I found that the Kodak DC280 in many instances had better-looking shots, but this was because the camera biased images in favor of high color saturation rather than accuracy when compared to an optical image.  The test-bed images were valuable in my determination that, although the Nikon Coolpix 950 is highly rated by many sources, its optics are not the sharpest. The Coolpix 950 can introduce more distortion than I was comfortable with for forensic shots, where the relative dimensions and positions of objects must be very precisely documented to allow later confirmation of measurements.
+
+Advantages:
+
+The PowerShot S10 has an amazing package.  It's about the size of a large bar of soap, and doesn't weigh much more --- less than 10 ounces fully loaded.  While there are comparably small optical cameras out there (e.g. the Olympus Stylus), this is the smallest 2 mpixel digital [Canon recently released the PowerShot S20, a _3.4_ mpixel camera, with essentially the same specifications otherwise].  While men with large hands may find it small, I was immensely pleased with how secure and comfortable it felt in my hand, given only two slight ridges in the casing, front and back, as handholds.  
+
+Unlike both the Kodak DC280 and the Nikon Coolpix 950, the placement of the optical viewfinder on the PowerShot keeps nose prints off the digital viewfinder!  It's substantially smaller than the other two premier 2 mpixel cameras, and is the only one of the three with an all-metal case and built-in lens cover. While I wouldn't recommend setting it on the roof of your car and driving away to test its sturdiness, it won't give you a heart attack and a cheaper-to-replace-than-repair damage bill if you drop it from eye level to the floor.
+
+The controls are easy to reach, and, once you understand the control metaphor of digital cameras as opposed to optical ones, very easy to use. The manual provided very straightforward instructions, though perhaps not detailed enough for those expecting a total &quot;point-and-shoot&quot; experience. A single dial at the top right rear of the camera provides the following settings:
+                     Auto, Manual, Flash, Self-Timer,
+                     Macro, Continuous (1.7 fps),
+                     Stitch Assist, Image (5 modes: Landscape, Fast                            Shutter, Slow Shutter, Night and Black and White)
+
+Settings are in plain English on the LCD screen for adjustable modes.  The 2&quot; LCD screen provides a crisp, clear image even in bright daylight.  I had no trouble making quick changes to manual settings for photographing dancers or adapting to changing indoor light conditions for portrait snapshots at a party.  
+
+There's manual White Balance control as well, with Auto, Daylight, Cloudy, Tungsten and Fluorescent settings, but this is only available in Manual, Image and Stitch Assist capture modes.  
+
+I won't go into too much more detail on comparisions of exact specifications and settings, but I will say that this camera is as good as any digital when it comes to shutter speed (2 s to 1/1000 s), exposure (+/- 2 EV in increments of 1/3 EV), gain (equiv. ISO 100, 200, 400), and light sensitivity (to 1.4 lux or 0.13 foot-candles).  The camera does an amazing job with macro shots down to about 5 inches; it was certainly good enough to document minuscule stress fractures in an auto wheel bolt or to identify bird tracks and seeds on soft soil.
+
+The PowerShot S10 uses all sizes of type 1 or 2 Compact Flash media, including IBM's 340 MB Microdrive (though this requires a firmware update, according to some sources --- I haven't tried it).  There's no means of saving a completely uncompressed image, but the &quot;super-fine&quot; resolution setting with &quot;Large&quot; image size (1600x1200) gives a maximum file size of approximately 1.5 megabytes (mb).  This means that a 64 MB Compact Flash card will hold about 40 highest-quality images.
+
+This is also one of the fastest digital cameras on the market, at nearly 1.7 frames per second in Continuous mode.  The &quot;shutter lag&quot; (actually, the time required to save the image to flash) between shots is almost unnoticeable, unlike the Kodak DC280, which may require up to 20 seconds between shots.  In Continuous mode, the PowerShot S10 won't do what a motor drive on an optical camera can, but digital cameras aren't really suited for shooting moving race cars anyway.
+
+The camera package includes a USB cable for PC and Mac, a serial cable for PC (you really don't want to bother with this if you don't have to; a single 1.5 MB image takes 10 minutes to load at serial speed), and a video cable for NTSC output to a VCR or TV.  The software for PC and Mac is essentially identical, which I found very helpful.
+
+Though the camera lists for $699, we didn't have any trouble finding it for $500 through a reputable on-line retailer.  This somewhat offsets other necessary costs --- the rechargeable battery, charger, and larger Compact Flash card [see below].
+
+Disadvantages:
+
+The Compact Flash card which ships with the camera is only 8 MB, where other manufacturers tend to ship at least 20 MB CF cards.  You aren't going to get much hi-res imaging done with this; only five shots at a time.
+
+The correspondence between the optical viewfinder's framing and the LCD image is okay, as digital cameras go, but not what you would expect if you're accustomed to optical cameras.  The optical viewfinder cuts off about 20% of the actual image area, while the LCD viewfinder provides a slightly larger view than the final image.  However, the lost or gained area doesn't vary with the focal length, so once you know how the camera frames the actual image, you can easily compensate regardless of zoom or macro setting.
+
+The use of the White Balance setting is essential for indoor portrait photography. This is the only situation in which the picture quality of the Canon PowerShot S10's auto setting provides a really substandard image when compared with other cameras.  Unless you make the right choice of tungsten vs. fluorescent lighting and choose the appropriate exposure, gain, and shutter, these shots tend to come out with noticeable motion blur, underexposure and yellow or violet color bias to flesh tones.  [I've verified that this problem isn't solely a result of my fumbling with the camera; other reviews indicate that this is a known problem, for which Canon will hopefully offer a fix soon.] Plan to play with the manual modes a lot for these shots.  Since this wasn't a primary reason for purchasing the camera for me, I'm not unhappy about it, but if you want a camera for great shots of family gatherings, you'd probably prefer a Kodak DC280.
+
+A higher optical zoom would be nice, but I can understand that it might be difficult to incorporate in such a small camera body.  The digital &quot;zoom&quot; setting is more of a &quot;center and crop&quot; interpolation than an actual zoom, though the controls are quite smooth and the transition from optical to digital zoom is seamless.  You can also turn the digital zoom off if you don't want to risk adding any software distortions to your image.
+
+The flash is a little weaker than I would like for general-purpose photography, since there's no connector for an external flash.  In total darkness, the flash is good only to eight feet, 10 feet as a fill flash in brighter conditions.
+
+Finally, the biggest issue is battery life and the fact that the Canon PowerShot S10 uses an expensive disposable lithium battery, but doesn't ship with a rechargeable [I've heard that the camera _does_ come with the recharger kit in Canada and Japan?].  The disposable battery is good for only 40 minutes of imaging with the LCD on (much less time in cold conditions), and costs $30.  I would consider a pair of rechargeables a must for any field work with this camera, but a single NiMH battery and the recharger cost an additional $100.  Many locations had the recharger and battery kit on back-order.   
+
+Summary:
+
+The Canon PowerShot S10 is a superior digital camera in its class and given the state of the technology.  In six months, we may see another crop of electronic wonders even better and cheaper, but the optics on this camera haven't been beaten, and for the most part, Canon has made no extreme compromises between camera size and image quality.  Though &quot;point-and-shoot&quot; users and those looking for a family camera might be better served with the Kodak DC280, the Canon provides all the necessary features for semi-pro web photography and quick digital imaging, with a wide range of options and overall great image quality, in a sturdy, compact and lightweight use-anywhere package.
+
+Update:
+
+After installing the version 1.0.2 firmware upgrade, the quality of indoor portrait shots improved immensely.  The upgrade doesn't just allow use of 340 MB IBM Microdrives, it also fixes the motion blur and color balance problems noted previously.  If you have this camera, get the upgrade at http://www.powershot.com/powershot2/update.html<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

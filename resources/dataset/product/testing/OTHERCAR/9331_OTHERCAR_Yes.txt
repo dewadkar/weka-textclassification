@@ -1,0 +1,21 @@
+DOC>
+<DOCID> 9331 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_RicohRDCC-Ricoh_RDC-5000 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-40EB-D8A6247-3883CA92-bd1 </URL>
+<TEXT>
+            I bought the Ricoh RDC-5000, last Christmas, because it was advertised as being Mac/Windows compatible with the Universal Serial Bus. Little did I know that it would not connect to my Imac right out of the box.
+
+After following all of the instructions on Mac connectivity, my Imac would not recognize the camera. So, I took the camera to my Windows 95 machine and, after gleaning through pages of information, determined that the USB connection was for Windows 98 OS and proceeded to connect through the included serial cable. After installing the appropriate software, it worked like a charm.
+
+After much thought, I connected to the Ricoh corporate web site to see if there were any updated Mac drivers. I found a USB driver update and a Twain driver update. After installation I still could not connect. Frustrated, I went back to the Ricoh web site and saw in small print a message to Mac users. I then learned that my USB version 1.36 was incompatible with the firmware in the camera. I also found a telephone number to call tech support and request a free firmware update.
+
+The Ricoh tech person was very helpful and informative, promising a smartmedia card with expedited delivery. After only two weeks, I received the card complete with installation instructions. It took about 5 minutes to install the update and connect the camera to my Imac. Downloading pictures was as easy as opening a folder and dragging them to my desktop - (not near as complicated as the Windows machine).
+
+The camera has worked perfectly since then and I am now very happy with it.
+I would recommend this to any Mac user - just remember to call and get the firmware update. <br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

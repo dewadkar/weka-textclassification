@@ -1,0 +1,24 @@
+DOC>
+<DOCID> 35548 </DOCID>
+<PRODUCT> Digital_Cameras/613417_Aiptek_PenCam_Trio_VGA </PRODUCT>
+<URL> http://www.epinions.com/content_55031860868 </URL>
+<TEXT>
+            I bought this cam on sale at the local Wal-Mart for just under $50, and given the price paid this is a pretty good basic digital cam.  If you are looking for "professional" quality snapshots for printing or publication, you are better off with a higher-end model.  For general or web page use, this is a good bet.
+
+What sold me on this cam was the 'continuous shoot' mode, a feature that you'd normally find on cameras priced well over $300 or $400.  You can shoot continuously up to the frame limit and use the included software to create a movie file from the frames.  In MVGA (320x240) mode it makes a pretty decent basic 10-second AVI file once compiled, but in VGA (640x480) you are limited only to 27 frames.
+
+As a basic cam the quality is in the middle-to-low end when compared to other 640x480 cams (I also own a Kodak DC25 which has less quality and a Mustek VDC-300 which is better).  While adequate in bright light, in less-than-bright light the photos are grainy, and when there isn't enough light the camera will not shoot at all unless you're in 'continuous shoot' mode.  The camera registers your shot instantly (thanks to hard-wired memory), but the capacity is small--26 at 640x480 or 107 at 360x240--which means that if you're doing a lot of shots like I'm prone to do you'll need to carry a laptop with you to transfer pictures off the cam frequently.  For longer trips I'd end up bringing my Mustek (with removable CF cards).
+
+As a web cam, this item is comparable to the other basic web cams out there.  Compared to the video cam function on my Mustek and an IBM WebCam I also have, the PenCam actually performs better (faster frame rates especially), but with the other webcams you have more control over exposure, balance, etc, while you're not given that with this cam.  The cam comes with a slide-in holder for use as a web cam.  The big plus with this cam was that while my IBM and Mustek cams refused to work with Windows Media Encoder, Real Producer, and MS NetMeeting, this cam worked with all of them flawlessly.
+
+The battery life according to the box is 2 hours in continous use, which is extremely poor compared to other digital cams (but then you are also only running on two AAA batteries, so it's a tradeoff between size and power capacity).  It holds for two weeks in standby.  The good news is that when connected to the computer the cam draws its power from the USB port rather than your batteries.
+
+The cam comes bundled with most of the Ulead graphics software suite, which would cost you in the 3-digit range separately at retail. Included are Video Studio, Cool 360, Video email, Photo Album, and the control program for the cam itself.  One note on the control program, though: when I tried using it as a web cam through that program, the software protested that the cam wasn't connected when it was--I ended up using another piece of software for video capture.  I have yet to hear from Aiptek about a fix.  I installed the video studio and 360 software and both ran well even on my slower (200MHz Pentium MMX) processor.
+
+Support is slow--I have yet to hear from them over a day after submitting my email address to check for updated software.  Rather than make the drivers available from their web site, you have to give them your email address, serial number, and other marketing information and they email you the link to the software.  This is both slow and irritating when you need a fix quickly.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,30 @@
+DOC>
+<DOCID> 21052 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1989_Toyota_Tercel_Coupe </PRODUCT>
+<URL> http://www.epinions.com/content_79263862404 </URL>
+<TEXT>
+            I bought my Tercel from a friend. She moved to Europe for good and sold it to me for only $350. It had 157,000 miles, new tires, CD player and power steering. A/C wasn&#146t working. And the body condition was very poor. Scratched everywhere. There was no rust though. I thought it should be a nice and reliable car. So I replaced spark plugs, wires, filters and oil.  I&#146ve also replaced the leaking fuel pump ($29.90   Tax). But after a short time I found out that Tercel might be annoying. My misery started. First the car failed the smog check. This is California requirement and the car is carbureted Californian model. It was running extremely rich and had too high RPM. First I went to DMV for the extension. I thought I could fix it, as I was proud to fix my cars myself. Instead of spending a fortune, I bought a Chilton manual and started digging. Soon I&#146ve found that I must replace an EBCV swath (electrical vacuum switch attached to air filter cover) and there is a problem with BVSV valve. It is a yellow sensor-like bolt plugged into fuel pump. (Dealers price is $62   Tax.) The faulty switch was setting the check light on. I thought it is too expensive and hoped to buy it at AutoZone or Pepboys. No way. I went to pickapart. And bought 6 of them. ($2 each) None was working. Finally I hooked all three hoses together thinking this will solve a problem. I thought it is the reason for the running rich condition, I was so wrong! I had to go to a service shop. Spend $65 for diagnosis to find out that the ECM is faulty. (It wasn&#146t sending the signal to control emissions). Also oxygen sensor had to be replaced ($34   Tax). I bought ECM at pickapart for $40. Replaced it myself, then I went to shop again. This time hopefully it was passing the 15/25 tests on pre-check but it was running rich on idle. The RPM was too high so I&#146ve adjusted RPM and&#133 engine stalled. I thought it is choke problem. No. It was the float level. I had to detach the carburetor and open it.  But adjusting it didn&#146t solve the problem very well. The car was still consuming a lot of gas. I found that it must be the suction piston. So again I went to a junkyard. This time I took a carburetor. ($16) I mounted it. Perfect! Car runs so good! 26 mile on a gallon.&#133 I checked the emissions&#133 failed with 4% CO. I&#146ve realized that this time it is an automatic choke problem or - as you wish to call it - faulty compensator. I&#146ve decided to replace it with the old one but it broke on me into pieces while detaching it from the old carburetor. So again I went to the junkyard. Compensator. $5. Put it all together. Working but&#133 hmmm. I checked again everything. HIC valve! This must be it! It was clogged. It is a plastic thing mounted on a side of air filter cover, has two little vacuum pipes and a copper boltlike thing from the inside. But this time I was prepared! I already took it with me from the yard ($3). Now I can&#146t believe it is working! I adjusted the idle, fast idle and off for the smog. It FAILED!!! Why?! You know, the cap was bad. The old little 3dollar thing almost gave me a heart attack. (I thought it is emissions again - before that guy told me about it)  
+You may think it is the end of the story?
+Nooo.
+Read-on:
+After the smog and registration procedure I became one of the happy Toyota users.
+Well I thought I was happy. The car gave me an impressive 33 miles from a gallon.
+But&#133 soon I realized that something was going on with the oil pressure. It was leaking oil!!!
+And as it leaked really bad I went to shop to find out the oil pump seal broke. I bought set of seals and the timing belt and got it fixed for $120. But it did not solve the oil leak problem at all.
+The oil pan gasket leaked. ($6 for the gasket, $40 replacement) I also had to buy a new PCV valve ($2.50). The old one was clogged. That&#146s why the oil leaked-out so fast. Or, I should say spilled-out.
+Then the car suddenly started to get hot. So I replaced the thermostat. It solved this problem but then comes another one:
+After making 4,500 miles, the CV joints are clicking.
+You know what?
+Never, ever consider buying a Toyota Tercel, especially carbureted 1500, especially over 150,000 miles. Even if you get it for free.
+Never.
+Do not believe them out there saying it&#146s reliable and economic.
+Fixing these mentioned above problems would cost you a fortune in workmanship. And this car consumes so little only when everything works properly. What if a switch gets broke? Or vacuum hose? Or whatever? Consider buying parts - most of them were available at the dealers ONLY. Used parts from junkyard can brake down on you anytime. And it has so many expensive thermostatic, emissions-related parts, switches, valves, etc. - these brake first. What&#146s more - it isn&#146t that important what mileage your car has but how old these things are.
+I don&#146t know why I bought it after all. I regret it so much. What a junk!
+
+
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

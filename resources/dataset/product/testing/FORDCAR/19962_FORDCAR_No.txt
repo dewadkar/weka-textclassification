@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 19962 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1990_Ford_Taurus_Sedan </PRODUCT>
+<URL> http://www.epinions.com/content_73641987716 </URL>
+<TEXT>
+            The 1990 Ford Taurus offered a comfortable ride for the two years I had it. But its list of problems are long and serious. Starting with the outside, the pain has a terrible habit of rusting at the edges of the doors. While you can sand it off easily and coat it again in paint, the rust simply keeps on coming back. The engine is louder and a poor performer for being a V6. Gas mileage is average at roughly 30. The interior has problems involving squeaky door panels and power locks which break. Idle can turn rough on a cold start (its very apparent when sitting at a stop light, the engine will rev up and down once per second causing the car to rock - a new O2 sensor did not solve this problem). By far the biggest problem with this car is the transmission. When it works, its sloppy, has a late (or no) downshift, and slips. When it doesn't work, you look at a $2100 transmission rebuilding estimate. The transmission shop confirmed that this car has major transmission troubles. My Taurus started losing fluid to the point where pouring fluid back was not sufficient (it leaked out the front seal the second the transmission was set in motion). While the car did its job (moving to and from school once per day), its not dependable.
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

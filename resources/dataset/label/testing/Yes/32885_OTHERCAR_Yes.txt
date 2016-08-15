@@ -1,0 +1,49 @@
+DOC>
+<DOCID> 32885 </DOCID>
+<PRODUCT> Digital_Cameras/514223_Canon_PowerShot_S300 </PRODUCT>
+<URL> http://www.epinions.com/content_54053801604 </URL>
+<TEXT>
+            I enjoy outdoor photography as a serious hobby and use a Pentax 35 mm SLR, transparency film, and a tripod as my primary rig. Over the years, however, I�ve become frustrated by not having a smaller, more portable camera for spontaneous photo opportunities and photos of friends and family. Rather than buy a simple point-and-shoot 35 mm, I became intrigued by digital photography several years ago but was waiting for cost and size to come down and resolution to go up.
+
+I began researching the S300 last spring based on various reviews and articles I had seen on its predecessor, the S100. There are a number of excellent technical reviews on the S300, and digital cameras in general, on the Internet, and I recommend that you have a look at them. I decided to buy the S300 over the S110 because of the extra focal length in the zoom lens. I purchased the camera in early summer 2001 (from B&H Photo) and put it to work at a family reunion a few weeks later.
+
+First, I have been amazed at my ability to create 4 x 6 prints that are practically indistinguishable from chemistry-based prints. I use Adobe Photoshop for brightness, contrast, and color corrections and then print the images on Epson Photo Paper using an Epson 1270 printer.
+
+The S300 has a number of image resolution and compression settings. I typically shoot photos in the 1600 x1200 resolution (highest) and fine compression modes. The images with this combination are typically about 0.5 Mb. While I haven�t tried it yet, I think I could probably push my images up to an 8 x 10/12, though I might need to use superfine compression.
+
+Note that the image aspect ratio is 3:4 and not 2:3 as with 35 mm film. You'll need to crop your image if you want to produce a true 4 x 6 print to fit in an album pocket.
+
+As many other reviewers have pointed out, the 8 Mb Compact Flash card that comes with the camera is woefully inadequate. I purchased a 64 Mb card, so I can typically keep up to 100 images in the camera.
+
+I have found that many of my photos do require some amount of correction to produce an optimal print. The S300 has excellent controls for white balance (including settings for incandescent and fluorescent lighting) and exposure compensation, but sometimes I choose poorly or the ambient lighting just doesn�t cooperate. Even so, I can usually correct small mistakes in Photoshop with little effort.
+
+I have found that shooting sunsets and capturing them as orange takes some practice in adjusting the exposure compensation to underexpose. The camera�s programming wants to overexpose and push the dark sky toward white.
+
+The S300 has numerous controls, but they do take some practice to learn to manipulate them quickly. The ones I use often, like white balance, exposure compensation, and flash setting, I can set quickly. Settings that I use less frequently sometimes take a few moments to find and activate. While the numerous controls are great, I do have to be careful to remember to double-check them and reset them if necessary when my subject or lighting changes.
+
+For those who don�t suffer my level of obsession about their images, the camera does have several autoexposure programs that work well, particularly in bright sunlight.
+
+To date, I have four complaints about the S300:
+
+* The viewfinder is not a through-the-lens (TTL) viewfinder. The amount of the image seen through the viewfinder varies with the zoom setting and rarely is 100 %. To compensate, I typically compose the image using the LCD screen on the back, which is true to the composition. By the way, very few (if any) consumer digital cameras have a TTL viewfinder, so this hazard exists with other digital cameras.
+
+* At the 3.0 X zoom setting, the camera is difficult to hold steady because of its small size. As noted above, I prefer to use the LCD for composing the image. Unfortunately, I have found it practically impossible to hold the camera steady enough for a 3.0 X zoom setting while holding the camera away from my body. I have to check the LCD image against the viewfinder, mentally adjust the framing, brace the camera against my face (looking through the viewfinder), and press the shutter button.
+
+* The red-eye reduction doesn�t work very well. I often must correct red-eye in Photoshop. I�ve seen this criticism of other digital cameras, so perhaps it is a characteristic of this generation of digital cameras.
+
+* The time between the pre-flash for red-eye reduction and the full flash is somewhat long and tends to confuse human subjects. Thinking the flash has gone off and the image is captured, my subjects have a tendency to look away as the shutter snaps. I have to remember to tell my subjects to keep looking at the lens until the real flash fires.
+
+Battery life of the Li-ion battery is adequate, though I bought a cheaper AC Delco equivalent to supplement the Canon NB-1L battery that comes with the camera and found that it failed within a few recharge cycles.
+
+In spite of the above complaints, I�ve been very happy with the camera. The small size and rugged construction are great. I�ve carried it into ballgames in my pants pocket to capture shots of my friends and I enjoying the game. I typically keep it in my briefcase just in case I spot an interesting subject at work. Being able to capture 100 images (200, if one buys a now-inexpensive 128 Mb Compact Flash card) without worrying about film is great.
+
+The software installs on both the Windows and Macintosh platforms. I have both and have seen no issues on either system. Images are downloaded through the USB port. The software can activate automatically when the camera is turned on and is connected to the USB cable.
+
+My bottom line is that if you understand the constraints of owning a compact digital camera, you�ll be very happy with the Canon S300.
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

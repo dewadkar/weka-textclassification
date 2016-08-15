@@ -1,0 +1,28 @@
+DOC>
+<DOCID> 24424 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Sony_DSC-S50 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-6C02-179A9437-3A159638-prod2 </URL>
+<TEXT>
+            Great little camera.
+I used to use a Nikon SLR system, so like to do 'interesting' things, in addition to the routine point and shoot pictures of the family.
+It's compact, makes great pictures, is easy to use, and has a few 'must have features' (in my opinion).
+-it downloads using a USB port.  That's fast.  I considered the Olympus 490, but it's not USB. You'll hate yourself if you don't buy a camera with  USB capability.
+-the LCD screen is wonderful.  You won't appreciate how great the 'tilt and rotate' feature is, until you carry this camera around with you and do  some shooting.
+-the menus are so intuitive, you can use the camera withOUT reading the manual
+-yet it has advanced photography features to make even a former SLR user happy: aperture priority, shutter priority, several focus distances in addition to auto (of course), and 3 flash power settings (handy for close up work)
+-a great macro feature (I also do product photography for my job, and thus appreciate the fact that I can get within 1.5 inches of the subject (eg. a quarter will fill the frame, and the picture is so detailed, that you'll see marks and scratches on the quarter that you didn't know were there!!)
+The only drawback, is if you do a lot of shooting in bright sunlight, then NO LCD display will be bright enough.  This one's brighter and larger than  most.  So if you will be outdoors most of the time, you might consider a camera with an optical viewfinder also.
+For indoor shots, this camera performs better than my 'film' cameras. The CCD (light sensors) seem to tolerate a broader range of dark to light, than does film, thus providing better pictures under irregular or uneven lighting conditions.
+I use a 32 meg. memory stick. That gives about 35 full res. shots. 
+It's totally silly for Sony to sell this with a 4 meg stick.  Just buy the 32 Meg with the camera, consider that part of the cost, and you'll not only be very happy, but will spend less than some of the other choices in a 2.1 megapixel camera.
+OH, is 2.1 megapixel enough? I think so. If you go to 3 meg, you'll just create larger files that take space, take longer to print, take longer to manipulate on your 'photo' software, ..... you get the idea.
+While I print (on an HP952) mostly 4x6, I've done 5x7 and some 8x10, and they are all comparable to film/negative printed pictures to the naked eye.
+Software loads flawlessly.
+If you're new to USB, when you load the 'drivers' to your computer, the computer sees the camera memory stick as a 'drive'.  So if you have drives A,C,and D now, you'll see a drive E when the camera is hooked up.  Just use explorer, or filemanager, or whatever to copy the files from the camera to your hard drive, zip disk, whatever,  and have fun.
+The battery life: don't know. It comes with a charger, so you don't need to buy batteries repeatedly. I used it extensively over a weekend, and did not use more than a third of the indicated battery life (yes, it tells you in minutes, how much time you have left!). <br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

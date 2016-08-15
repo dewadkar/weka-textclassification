@@ -1,0 +1,218 @@
+DOC>
+<DOCID> 6419 </DOCID>
+<PRODUCT> Digital_Cameras/Fuji_FinePix_3800_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_81234595460 </URL>
+<TEXT>
+            The Fujifilm Corporation has been a leading manufacturer of film, cameras, and lenses for more than half a century.  The company is well known for their superb film products  (especially popular E6 slide films like Velvia, Provia,  and Sensia and their B&W Neopan films) and  their innovative medium format film cameras.  Fuji&#146s lenses are world famous for their accurate color transmission (due in large part to the company&#146s proprietary Electron Beam Coating technology) and the company has been a consistent leader in the development of digital photography.  Fuji&#146s excellent S2 Pro and S602 models continue to set industry standards for accurate digital color, super sharp resolution, and solid value.
+
+While Fuji digital cameras are seldom mentioned in the same breath as Nikon and Canon models, the Fujifilm corporation has been a consistent competitor in the digital camera wars. Fuji&#146s newest offering, the FinePix 3800 is an update of the company&#146s very popular FinePix 2800 Zoom.  During last year&#146s Christmas season the Fuji Finepix 2800Z was a surprise hit and this Christmas Fuji is trying to pull off another hat trick with the 2800Z&#146s update.  The new 3800Z sports a monster 6X zoom and a host of &#147one of a kind features&#148. The camera provides three-megapixel resolution, point-and-shoot simplicity, and a manual mode with aperture control and exposure compensation. The 3800 also records video clips at 10fps (with audio), voice memos (up to 30 seconds) and the camera can even be used for video conferencing (the necessary software is included).  Not bad for a digital camera that sells for about three hundred dollars, uses cheap readily available AA size batteries and only weighs ten ounces. How does the 3800Z measure up? 
+
+<b>What&#146s New?</b>
+
+Fuji&#146s new 3800Z retains the 6X zoom that made the 2800Z so popular, boosts the resolution to 3.2 Megapixels, adds support for conversion lenses (with a nifty included adapter that doubles as a lens shade), and switches from SmartMedia to the new xD Picture Card format.  
+
+
+<b>Features</b> 
+
+The Fuji 3800 Z&#146s most obvious feature is the precision retractable Fujinon 6X optical zoom lens----one of the widest zoom ranges available in any 3 megapixel digital camera.  
+
+Video clips with audio &#150 AVI digital video with sound.
+ 
+Voice notation &#150 Users can add 30-second voice notes to each photo, a really useful feature. 
+
+PC-Cam/Video conferencing &#150 The 3800Z&#146s PC camera and video conferencing features make the camera useful for users who want to stretch their investment and use the camera as a multi-functional device. 
+
+<b>Viewfinder/LCD</b>
+ 
+The 3800 provides a 1.8" LCD display. I seldom complain about LCD monitors but the low resolution (62,000 pixels) LCD images make the LCD especially grainy in low light situations.  The colors are good and the LCD screen will work fine for composition, but critical focus may suffer a bit. 
+
+The 3800Z&#146s TTL electronic viewfinder (with 110,000 pixels) is much sharper than the LCD and the large rubber eye-cup (which makes critical focusing much easier by eliminating glare and stray light) improves performance significantly.  The EVF has no diopter correction and it dims miserably in low light. Increasing the brightness level doesn&#146t help. 
+
+<i>Exposure</i> 
+
+<I>Auto Mode</I>
+
+In auto the 3800Z functions as a point & shoot auto everything digital camera with. Auto, Scene (Portrait / Sports / Night scene), and Movie modes.
+
+<i>Manual Mode</i> 
+
+The 3800Z&#146s manual mode provides five settings &#150 exposure compensation, white-balance, flash brightness, sharpness, and limited lens aperture settings 
+
+<b>Lens</b> 
+
+The FinePix 3800Z features an excellent Fujinon f2.8-4.8/38-228mm (35mm equivalent) optical zoom lens.  Mount up the included AR-FX3 lens adapter and you can add (optional) wide angle and telephoto conversion lenses and use inexpensive 55 mm filters. 
+
+<I>Macro</I> 
+
+The Macro mode allows focus as close as 3.9 inches. The images are sharp and the colors true, but in macro mode (accessible only via the mode dial) the lens is locked at the wide-angle setting -- you can only use the digital zoom to change perspective (degrading macro image resolution) Fuji&#146s engineers must have been sleeping at the switch.  
+
+<b>Flash</b>
+
+The 3800Z&#146s flash is a built-in multi mode pop up unit with Auto, Red-eye reduction, forced flash, suppressed flash or Slow syncro. It is a manual type popup flash that is activated by the user.
+
+<b>Controls, Design,  & Ergonomics</b> 
+
+The 3800Z is a well-built light-weight polycarbonate bodied digital camera.  If you liked the way Fuji&#146s 2800Z looked and handled, then you&#146ll like the style of the 3800Z.   The controls are well laid out, operation is easy, and the large grip makes the 3800Z stable and secure in operation.   
+
+<b>Memory</b> 
+
+The 2800Z used Smart Media cards for digital image storage&#151the 3800Z switches to the new xD Picture Card format.  I&#146ve heard and read a lot that says the xD cards are faster in operation than SM, CF, or Sony Memory Stick formats, and from what I&#146ve seen myself the claims are true---but the difference is negligible.  Four memory card formats was already two too many and with the addition of xD that makes five different memory storage formats, which is ludicrous.
+
+<b>Power</b>
+
+The 3800Z is powered by four AA size batteries (alkaline, NiMH or lithium may be used). NiMH rechargeables are your best bet.  Fuji claims the 3800Z (with four fully charged NiMH&#146s loaded) is good for more than 300 exposures with constant LCD and heavy flash use.  That seems pretty accurate, based on my experience.
+ 
+<b>Technical Specifications</b> 
+
+Resolution: 3.2 megapixels (2048 x 1536)
+Viewfinder: EVF and 1.8&#148 color TFT LCD 
+Lens: Fujinon f 2.8/4.8/38-228mm optical zoom lens
+Auto Focus: TTL contrast detection 
+Image format: JPEG and AVI (Motion JPEG) 
+Storage Media: xd-Picture Card (16MB to 128MB) 
+Sensitivity: ISO 100 (35mm equivalent)
+Shutter Speed: 3 seconds to 1/1500th of a second
+Exposure: Auto, Scene (Portrait / Sports / Night scene), Movie, and Manual (Aperture priority, Exposure compensation)
+Metering:  TTL 64 Zone (evaluative) 
+White Balance: Auto and 6 presets (Fine, Shade, Daylight Fluorescent, Warm White Fluorescent, Cool White Fluorescent, and Incandescent) 
+Flash: Built-in multi mode (auto, red-eye reduction, forced flash, suppressed flash, slow synch) 
+Movie Mode: up to 60 seconds at 320 x 240 @ 10fps with audio
+Voice memo: Yes---30 secs.
+Video Out: No
+Connectivity:	USB  
+Power: 4-AA size batteries 
+
+MSRP: $449.00----Street Price $289.00--$349.00
+ 
+<b>Included</b> 
+
+16MB xD Picture Card 
+4 AA alkaline batteries 
+AR-FX3 lens adapter  
+Lens cap w/strap 
+Neck strap 
+USB cable 
+CD-ROM w/Fuji software 
+134 page (printed) manual 
+
+<b>Optional</b>
+
+Wide Conversion Lens WL-FX9, Tele Conversion Lens TL-FX9, AC Power Adapter AC-5VH/AC-5VHS, PC Card Adapter DPC-AD, Image Memory Card Reader DPC-R1, and Soft case SC-FX304
+
+<b>In the Field/Handling & Operation</b> 
+
+My friend (who sells digital and traditional cameras and photographic equipment) has been checking out a lot of digital cameras because of the fast approaching holidays.  The Christmas buying season is very important to high tech retailers who make almost half their annual income during the Christmas season.  Deciding which cameras are likely to be &#147hot&#148 sellers is part science and part crap-shoot, so I wasn&#146t too surprised when my friend turned up recently with the new Fuji Finepix 3800Z and asked me if I would go along and help him give it a shakedown run.
+
+It was a cold rainy Saturday and we didn&#146t want to wander too far off the beaten path.  We decided that the Springs Station Center on Breckenridge Lane presented a couple of good photo opportunities without having to get too cold (and if it started to rain we could get inside pretty quickly) The weather here in north central Kentucky has really turned cold the last few days (we are getting snow predictions---which usually doesn&#146t happen around here until late December or early January) the temperature was hovering at just above freezing and the sky was dark and overcast.  
+
+The city of Louisville has grown rapidly over the last twenty years and old cemeteries turn up in some of the strangest places, like the pioneer cemetery in the parking lot of the Springs Station &#147Books-A-Million&#148 store.  Springs Station was an early pioneer community that was a full days journey from Louisville (downtown Louisville is a 15 minute trip---if traffic is light). The old family burial plot is surrounded by a chest high wall of huge blocks of hand cut native Kentucky limestone, set into the wall without mortar. A small arched limestone gateway with a very old wrought iron gate (hanging precariously from one hinge) adds a picturesque frame for the half dozen &#147country&#148 style monuments. Two larger and more elaborate marble tombstones (a long forgotten Patriarch and Matriarch) complete the picture of the tiny cemetery. 
+
+The limestone walls and most of the markers are a pale gray color, the marble tombstones a creamy yellowish white, and ground between the markers filled with mostly brown windblown leaves.  The sky was a dark grayish &#147snow sky&#148 without much color. We both figured it would be a very good test of the Fuji Finepix 3800Z&#146s auto mode to see if it could do much with the dull scene and flat lighting.  The old cemetery had an almost gothic look in the images we shot and the 3800Z did a great job of balancing the flat sky without losing the subtle color differences between the limestone walls, and marble markers. 
+
+Just across the parking lot is a branch of Beargrass Creek that runs along the northern edge of property (to the right of Home Depot).  It makes a great place to test cameras because you can park your car, walk down the steep banks of the creek and discover a hidden world in the middle of the city. We&#146ve had a lot of rain recently so the creek was running pretty high. Large trees line both banks of the creek, effectively blocking out everything except traffic noise. Willows close to the water&#146s edge are especially pretty in the spring and summer. Beargrass Creek narrows just after the bridge over Breckenridge Lane, creating a small rapids and a tiny waterfall. 
+
+The pool below this small waterfall is always smooth as glass. The creek is home to ducks and Canada Geese and by carefully framing your shots (a zoom lens is really required here) it is possible to shoot images that appear totally natural looking. The ducks and geese are relatively tame and will allow a fairly close approach (10-12 feet) so it is easy to get some good shots. The year round resident birds don&#146t seem to mind the freezing water.  We were able to use the 3800Z&#146s 6X zoom to effectively frame our compositions of the ducks paddling about in the frigid waters of the creek.  
+
+Behind Home Depot the creek makes a classic &#147S&#148 shaped curve (which runs almost due west) and as the afternoon progressed it gradually cleared up and the sky turned blue.  We were both frozen stiff by this time so we adjourned to the McDonald&#146s on the Dutchman&#146s Lane side of the shopping center to get a cup of coffee and warm up.  The weather didn&#146t get any warmer but the light got better and within thirty minutes the sky was blue and filled with huge puffy white clouds.  We had been about ready to call it a day and head for home but with sunset just thirty minutes away (and the western horizon lined with clouds) we decided to brave the freezing weather one more time and set up the 3800Z (mounted on a sturdy SLIK 444 Sport compact tripod) on the creek bank.  When the sun goes down the winter trees along the creek are backlit and the still water reflects the colors of the sunset. If there are nice clouds the sunset will photograph like a Chinese Landscape, with backlit trees, silhouetted ducks, and beautiful colors in the clouds, sky, and water. 
+
+Springs Station is a favorite sunset spot for my friend and I because the setting is almost perfect, images (film or digital) look like they were shot in a state park, and because It is easy to shoot your sunset---walk fifty feet to your car and drive home in fifteen minutes.  
+
+<b>Image Quality</b>
+
+The 3800Z&#146s images are sharp with Fuji's trademark color accuracy.  We didn&#146t print any 8x10 enlargements but we did print a series of 4x6 inch images and all were outstanding.  Be warned that dark low contrast images will appear grainy and show some noise.  
+ 
+<b>A Few Concerns</b> 
+
+The 3800Z&#146s 6x Fujinon zoom is very good.  There is some (typical) distortion at the wide-angle end of the zoom and some noticeable distortion at the telephoto end of the zoom's range.  Digital noise levels are a bit higher than average but chromatic aberration (purple fringing) is completely absent.  The 3800Z is a solid performer, but I would have liked to see a more comprehensive manual mode and more user input. The 1.8" LCD monitor is a low resolution (62,000 pixels) unit and that makes everything a bit grainy, especially in low light situations.  In bright outdoor light the LCD is very difficult to use.  The colors are good and the LCD screen will work fine for composition, but critical focus will be a bit tougher due to the poor resolution of the LCD monitor. 
+ 
+<b>Shutter Lag/Timing</b>
+
+Start-up is very quick and the 3800Z&#146s 6X zoom is surprisingly fast, traveling through the entire zoom range in about two seconds.  Shot to shot times are also quick. Shutter lag and write to card times are faster than average.
+ 
+<b>Conclusion</b> 
+
+Overall, I was disappointed in the Fuji Finepix 3800 Zoom.  The camera features a 6X zoom, but how useful will the wide range zoom be in a camera that is optimized for full auto operation.  The 3800Z has very limited slate of manual options.  The macro mode is acceptable but it could have been exceptional. Factor in the new xD card format and the mediocre movie mode and I am reluctant to recommend the Fuji Finepix 3800Z.  The images are very good, but unless you really need a 6X zoom and video teleconferencing capability, I would suggest buying the similarly priced four megapixel Olympus C4000. 
+
+Check out my reviews of a pair of bargain priced and very capable photo quality ink-jet printers. 
+
+Epson Stylus Photo 785 EPX ink-jet printer 
+<a href='/content_60776812164'>http://www.epinions.com/content_60776812164</a> 
+
+Epson Stylus Photo 780 ink-jet Printer 
+<a href='/content_54223670916'>http://www.epinions.com/content_54223670916</a> 
+
+For definitive advice on <b>How to Choose a Digital Camera</b> please see my review: 
+<a href='/elec-review-2E46-17B174E2-39A418E3-prod1'>http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+For more information about specific Digital Camera models you may find my Digital Camera reviews informative: 
+
+For more information about specific Digital Camera models you may find my Digital Camera reviews informative: 
+
+<b>Nikon Digital Cameras</b> 
+
+Nikon D100 
+<a href='/content_72201965188'>http://www.epinions.com/content_72201965188</a> 
+
+Nikon Coolpix 4300
+
+Nikon Coolpix 5700 
+<a href='/content_70131814020'>http://www.epinions.com/content_70131814020</a> 
+
+Nikon Coolpix 4500 
+<a href='/content_69311368836'>http://www.epinions.com/content_69311368836</a> 
+
+Nikon Coolpix 2500 
+<a href='/content_65176440452'>http://www.epinions.com/content_65176440452</a> 
+
+<b>Canon Digital Cameras</b> 
+
+Canon Powershot G3 
+<a href='/content_78672989828'>http://www.epinions.com/content_78672989828</a> 
+
+Canon Powershot S230 
+<a href='/content_78900203140'>http://www.epinions.com/content_78900203140</a> 
+
+Canon EOS D60 
+<a href='/content_73529200260'>http://www.epinions.com/content_73529200260</a> 
+
+Canon Powershot S40 
+<a href='/content_59617087108'>http://www.epinions.com/content_59617087108</a> 
+
+Canon Powershot S30 
+<a href='/content_59041746564'>http://www.epinions.com/content_59041746564</a> 
+
+<b>Olympus Digital Cameras</b> 
+
+Olympus C 4000 
+<a href='/content_79317208708'>http://www.epinions.com/content_79317208708</a> 
+
+<b>Sony Digital Cameras</b> 
+
+Sony DSC F717 
+<a href='/content_79857684100'>http://www.epinions.com/content_79857684100</a> 
+
+<b>Fuji Digital Cameras</b> 
+
+Fuji Finepix S2 &#147PRO&#148 
+<a href='/content_76963548804'>http://www.epinions.com/content_76963548804</a> 
+
+Fuji Finepix S602 
+<a href='/content_75291266692'>http://www.epinions.com/content_75291266692</a> 
+
+<b>Minolta Digital Cameras</b>
+
+Minolta Dimage F100 
+<a href='/content_76963548804'>http://www.epinions.com/content_76963548804</a>
+
+Just &#147cut&#146n&#146paste&#148 the URL into your browser&#146s address window. 
+
+
+
+
+
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

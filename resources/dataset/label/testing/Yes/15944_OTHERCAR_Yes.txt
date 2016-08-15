@@ -1,0 +1,52 @@
+DOC>
+<DOCID> 15944 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_EpsonPhotoPCC-Epson_PhotoPC_650 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-37A4-8B2EBB-388E8C1F-bd3 </URL>
+<TEXT>
+            I just recently purchased the Epson PhotoPC 650 Digital Camera.  From what I have experienced so far, this camera has its good points and its bad points.  
+
+<b>The Good:</b>
+
+-no more buying and developing rolls of film!  If you couple this camera with a good printer, and some high quality glossy paper you will never have to go to the camera store to have pictures developed any longer.
+
+-this camera uses an 8MB photo card which can hold anywhere from 30-88 pictures, depending on the size that you choose for your pictures.  
+
+-For the grade of digital camera that this is, it was very inexpensive: it came to only $304 with overnight shipping ($284 before shipping) from <i>buy.com</i>.
+
+-It uses the USB port (I think you can use serial as well) to get the pictures from the little card to the hard drive.
+
+-The photos use 1.09 megapixels which is a high quality resolution picture.
+
+-You can take pictures with this camera either through the viewfinder or by looking at your shot lined up in the LCD screen on the back of the camera.
+
+-deleting unwanted pictures is as easy as pressing a few buttons.
+
+-There is a timer so you can set the camera up to take a pic.
+
+-There is a macro mode to take close-up pictures with.
+
+-There are four different picture quality settings:
+  1.  <b>Fine:</b>  these pictures are sized at 1152x864 pixels, and are moderately compressed,          contain good detail.  The card will hold 47 pictures in this mode.
+
+  2.  <b>Superfine:</b>  these pictures are also sized at 1152x864 pixels, at low compression.           These pictures contain greater detail. The card will hold 30 pictures in this mode, this          is the best mode if you plan to enlarge the picture at all.
+
+  3.  <b>Standard:</b>  these pictures are sized at 640x480 pixels.  The card will hold about 88         pictures in this mode, but if you plan to enlarge them from this mode you will lose some         detail.  This mode is best for lower resolution pictures for using on the Web *(I use         this mode and the pictures come out crystal clear).
+
+  4.  <b>Uncompressed:</b>  these pictures are sized at 1152x864 and do not lose any compression          at all.  The card will only hold up to 4 pictures in this mode, however.  This mode is          best for only those special applications that require uncompressed pictures.
+
+-If you wish, you can mix the quality of the pictures as you take them, so you do not have to have <i>all</i> superfine, or <i>all</i>standard, etc.  The camera will adjust picture capacity for the card accordingly.
+
+-The camera does not have it's own built in &quot;zoom&quot; feature...to <i>me</i> this is not bad at all, but to your average person just looking to take some photos this may be a drawback(see <b>&quot;the bad&quot;</b> if you are one of these people).  I like it because it gives you the option of getting 37mm camcorder lenses to screw into the threads.  You have the option of getting telephoto, widescreen, or any other kind of 37mm camcorder lens that you want.  This, to me, is better than being stuck with the one type of zoom lens that may come with other similar cameras.   
+
+<b>The Bad:</b>
+-As I just stated, to some people, the fact that this camera does not have its own built in zoom lens may be considered a drawback.
+
+-The camera takes 4 &quot;AA&quot; batteries.  That sounds <i>Ok</i> enough until you find out that if you use the camera a lot in one day, the batteries will not last the entire day.  That is with your standard &quot;AA&quot; battery (so far I have used up 4 Panasonic and 4 Duracell batteries in 2 days).  To avoid spending a fortune on batteries for the camera, you may want to try getting the special &quot;AA&quot; batteries that are meant for use in cameras, which will most likely last a bit longer, or if you can find a good few sets of rechargeable batteries that actually work (I have heard that rechargeable batteries often do not fully power-up even when used correctly) you may avoid buying a million batteries for the camera.
+
+So far I cannot find any other drawbacks to this camera.  I have had good experiences with it so far, it was easy to figure out how to operate, the installation of the photo software was a breeze, and using the removable drive to retrieve the pictures from the photo card is also a simple task.  For anything that you may not understand, the instruction book is written in a very simplistic way so that anyone can understand it. <br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

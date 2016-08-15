@@ -1,0 +1,63 @@
+DOC>
+<DOCID> 32993 </DOCID>
+<PRODUCT> Digital_Cameras/Minolta_Dimage_7i_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_71002852996 </URL>
+<TEXT>
+            I recently purchased one of these cameras, replacing my trusty Dimage 7 that I'd owned for about 7 months.  I really liked the D7 (if I didn't like it, I wouldn't have chosen the D7i as my next camera), but it did have some issues.  AF was not as fast as it should have been (though I had learned to work around that), battery consumption was a little on the high side (but not terrible... 100 - 150 shots on 1600mah batteries), and some people complained about the grip getting warm (never bothered me though).
+
+The new Dimage 7i addresses pretty much all the complaints users had with the D7, and adds some pretty nifty features too.
+
+I was delighted to hear recently that Minolta was going to offer a modestly priced firmware upgrade for the D7, giving it most of the new features and performance enhancements of the D7i, and was undoubtedly going to purchase it as soon as it was made available.  However, someone wanted to buy my D7, so I decided to take the opportunity to move up to the D7i (which is still going to be a little bit faster than the upgraded D7).
+
+It should be noted that upgrades as mentioned above are virtually unheard of... kudos to Minolta for doing this!
+
+Anyway, on to the D7i.  The camera looks virtually identical to the D7 (which is great if you already have a D7 and are trying to smuggle the new toy into the house past your observant spouse).  :-)    There are a few minor physical differences, and a few control functions are different, but for the most part, it's the same camera.
+
+The glorious 28mm - 200mm (in 35mm film camera equivalent) lens, widely considered to be the best non-removable lens available on a digital camera, is probably what really attracts many people to this camera.   I must confess, when I originally bought the D7, all I was paying attention to was the high end of the zoom lens.  It wasn't until after I bought the camera that I realized how wonderful it is to have that 28mm wide angle without having to screw on conversion lenses.
+
+Probably the most significant improvement over the D7 is with the autofocus.  My informal, non-scientific testing confirmed Minolta's claim of the D7i being twice as fast as its predecessor.  It takes about 1/2 second to focus in most cases.  Especially shocking was how well it performs when zoomed in.  The D7 had trouble in this area... it would really struggle to get a focus lock in this situation, especially if you weren't holding the camera perfectly still.  The focus would cycle in and out, which was painstakingly slow at times, and sometimes not get a lock at all.
+
+Withe the D7i fully zoomed in, in normal room lighting, I was pretty much unable to get the camera NOT to quickly get a focus lock!  Even as I intentially shook the camera, it still managed to focus quickly and accurately.
+
+In general, the AF seems faster, and, perhaps more importantly, SMARTER.  The focus mechanism does appear to move faster, but the fact that the camera doesn't waste as much time moving it around unecessarily seems to make a huge difference in focus times.
+
+Among the new features added, Minolta has implemented some very handy information overlays for the LCD and viewfinder.  These include a real time histogram (which graphically displays distribution of light to dark tones in an image), and a grid or scale overlay which makes it easier to compose your scene (especially if you are like me and can't seem to hold the camera level).
+
+I have no problem using the EVF (electronic viewfinder), and find it quite effective since it shows in real-time a fairly close representation of what the final image will look like.  But there are some people who do not like this type of viewfinder, preferring instead a purely optical one.
+
+A few nitpicks:
+
+1) Minolta has added some sort of infrared filtering to the D7i, presumably to improve image quality.  This is bad news for someone wishing to use this camera for IR photography.  Doesn't affect most users, but there are some folks upset about this.
+
+2) Cheesy sound effects have been added, including an ultra-cheesy (IMHO) shutter release sound.  Some people may like these sounds, but I prefer the actually "click" of the mechanical shutter being actuated.  No big deal though, since this feature can be easily turned off.  The only problem is that when the shutter sound effect is disabled, so is the "beep" that occurs when a focus lock is obtained.  I would have preferred to have the focus lock sound be a seperately controlled option.
+
+3) No lens cap string.  Minor, I suppose... I bought a $2.99 "cap keeper", but I would have preferred a Minolta-supplied string firmly attached to the cap, not mine that is stuck on with foam tape.
+
+4) No automatic bad pixel mapout.  Some cameras have "stuck" or "hot" pixels, which can be visible as white spots in every image.  Cameras in this price range from Olympus and Sony have a feature that automatically maps out these bad pixels.  Minolta needs to add this too!
+
+
+Summary:
+
+1) Fantastic lens!
+
+2) Fast and effective autofocus
+
+3) Good image quality, lots of detail (though images are a bit noiser than some other 5mp cameras)
+
+4) Lots of manual control
+
+5) Effective "dummy mode" for people like me who want to use it as a point-and-shoot at times
+
+6) Handy features (grid overlay, real time histogram, 3 memory slots for camera settings, Microdrive support, wireless remote flash support, manual focus ring, etc.)
+
+7) Includes a good set of rechargeable batteries and a charger
+
+8) Very FUN and versatile camera to use!
+
+Note that I am by no means a photography expert... for a much better and more detailed review, check out www.dpreview.com and other digital camera review sites.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

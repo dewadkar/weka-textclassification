@@ -1,0 +1,90 @@
+DOC>
+<DOCID> 22041 </DOCID>
+<PRODUCT> Digital_Cameras/Kodak_DC215_Zoom_Digital_Camera__Camera_185_3175 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-5681-4B67FA0-38DB12F6-prod6 </URL>
+<TEXT>
+            I�m a sucker for cool small toys, and the Kodak DC215 Millennium definitely fits the bill!  It addresses all of the annoyances I found with the DC210 (see separate review), plus gives me a USB card reader to boot. (By the way, the DC210 is no longer being sold at Kodak.com.)
+
+<b>The basic specs for the DC215 Millennium</b>
+� 1 megapixel (1152 x 864) resolution.
+� Picture quality settings: Best (for 5x7 prints), Better (for 4x6 prints), Good (for Web images).
+� Picture resolution settings: High (1152x864), Standard (640x480).
+� 2x optical zoom, 29 to 58mm.
+� Macro (close-up) mode, down to 8 inches.
+� 1.8� color LCD viewfinder and optical viewfinder.
+� Built-in flash, with auto, fill, red-eye, and off modes.
+� Imprint datestamp or decorative borders.
+� 10-second self-timer.
+� Tripod mount.
+� Weight: 10.6 oz, without batteries.
+� 1-year warranty.
+� Included in the package: camera with wriststrap and lens cap, USB CompactFlash card reader, 8MB CompactFlash card, serial cable, video cable, 4 AA alkaline batteries, Adobe PhotoDeluxe home edition, and Adobe PageMill.  (Note that an AC adapter is <i>not</i> included.)
+
+<b>The difference between the Kodak DC215 and DC215 Millennium</b>
+This review is for the Kodak DC215 Millennium edition, and not the plain vanilla DC215.  Here are differences between the two:
+� The Millennium edition includes a USB CompactFlash card reader; the plain DC215 does not.
+� The Millennium edition includes an 8MB CompactFlash card; the plain version includes a 4MB card. (Caution: at the Kodak site, the specs say that the Millennium version comes with a 4MB card, but I received an 8MB card in my Millennium package from www.mwave.com.)
+� The Millennium edition has a gold-tone body; the plain version has a silver-tone body.
+� At www.mwave.com, the DC215 Millennium retails for $319; the DC215 retails for $271.54.
+� If you�re trying to choose between the two, I think that the Millennium model is definitely the better value. 
+
+<b>Setting up the camera</b>
+The box came with a Quick Set Up poster that walked me through installing the batteries and memory card in the camera.  I took my first picture just minutes after opening the box.
+
+<b>Taking pictures</b>
+� The DC215 is ergonomically <i>wonderful</i> -- rubber grips on either side of the camera make it really easy to hold.  I love the way this camera feels in my hands!
+� This camera looks and works exactly like a real automatic camera � nothing to set, just point and shoot.
+� The LCD screen is comfortably located just right of center; on the left side, there is a small depression on the camera body, the perfect place to put my left thumb!
+
+<b>Installing the computer software</b>
+� <i>Serial port software:</i> This software is provided by Kodak, and lets you transfer pictures from the camera to your computer via the serial port.  I installed it without any problems.
+� <i>USB port software:</i> This software is provided by the maker of the CompactFlash card reader, SanDisk.  I had a <i>lot</i> of problems installing this software, mostly because the SanDisk manual had incorrect instructions, so I was left to my own ingenuity to figure out how to get my computer to �recognize� the card reader. I finally figured out how to do it by trial and error.
+
+<b>Transferring pictures to my PC</b>
+The DC215 comes with both a serial cable and a USB card reader.  I did a time test to see how much faster the USB card reader transfers image files:
+� <i>Via the serial port:</i> 1) Attach one end of the serial cable to the computer�s serial port, and connect the other end to the camera. 2) In Windows Explorer, double-click the Kodak DC215 icon.  3) When the list of files appears, drag them to your C drive.  
+<i>How long it took to transfer 10 pictures:</i> 5 minutes and 15 seconds.
+� <i>Via the USB port:</i> 1) Attach the SanDisk drive to the computer via the USB port. 2) Remove the CompactFlash card from the camera, and insert it into the drive. 3) In Windows Explorer, drag the image files from the drive to your C drive.  
+<i>How long it took to transfer 10 pictures:</i> Less than 10 seconds!
+
+<b>Retouching photos</b>
+� The DC215 comes with Adobe PhotoDeluxe 3.1, Home Edition. This program lets you enhance pictures, organize them into albums, drop them into calendars, and add simple special effects.
+� Until I find the time to learn a new program, I�ll continue to edit my pictures with Paint Shop Pro (see separate review), which lets me crop, rotate, resize, and adjust the sharpness, brightness, and color of image files. 
+
+<b>Quality of the photos</b>
+I�m a weekend photographer, and my main subjects will primarily be friends and family.  For my purposes, the quality of the pictures is great.  And since I�ll mainly be showing off my pictures online, I have no need for resolutions higher than what the DC215 provides.  I will, however, in the next few months, try out some of the online photography services to determine which one provides the best quality prints from my pictures.  And of course, I�ll have to write Epinions on what I find. :)
+
+<b>Batteries</b>
+The DC215 uses four AA batteries, included in the package.  You can prolong battery life by 1) turning off the LCD screen whenever possible, and 2) using the USB instead of the serial connection for file transfer.  My friends insist that rechargeable batteries and a charger are a must-have, so that will be the next accessory I purchase.  (Boy, all these accessories can sure add up!)
+
+<b>CompactFlash cards</b>
+The CompactFlash card is what stores your photos in the camera.  The DC215 comes with an 8MB card, which can roughly hold around 26 pictures at best quality and highest resolution.  I purchased a 32MB card (about $100), which holds 112 pictures at best quality and highest resolution.  
+
+<b>What I don�t like about the DC215 Millennium</b>
+� Setting the camera at �Best� quality and �High� resolution, it takes the DC215 at least seven seconds to recover between shots.
+� The plastic hinged door that protects the memory card feels extremely <i>fragile</i>.  I guarantee that it will be the first part of the camera that breaks.
+
+<b>Shopping tips</b>
+� Word has it (from a manager at San Jose Camera, a camera store in San Jose, CA), that Kodak will be discontinuing the Millennium gold-tone camera body.  Instead, it will be available in five different �fashion� colors.  See www.kodak.com for more information.
+� I purchased both the camera and 32MB card at www.mwave.com.
+
+<b>All in all</b>
+I love this little DC215 �- it looks good, it feels good, it takes great pictures, and it�s small enough to take everywhere.  I�d say this is a great value for $319!
+
+------------------------------------------
+<b>For more information</b>
+� Kodak (www.kodak.com): Complete spec sheets, sample images, and online demos. 
+� Imaging Resource (www.imaging-resource.com): Compare images from two different cameras of your choice, side-by-side. 
+� Megapixel.net (www.megapixel.net): Excellent digital camera reviews. 
+
+<b>My sample pictures</b>
+� See www.geocities.com/tanster21/dc215.	
+� These pictures were taken with the highest resolution setting (1152 x 864 pixels), at �Best� quality.
+� I edited each picture in Paint Shop Pro by 1) reducing the size to 50%, 2) lightening up the contrast, and 3) sharpening the edges. No other retouching was done.
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

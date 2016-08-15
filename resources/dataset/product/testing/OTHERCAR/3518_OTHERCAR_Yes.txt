@@ -1,0 +1,38 @@
+DOC>
+<DOCID> 3518 </DOCID>
+<PRODUCT> Digital_Cameras/509295_Hewlett_Packard_Photosmart_C315xi </PRODUCT>
+<URL> http://www.epinions.com/elec-review-1090-1A67ED49-3A401DB5-prod4 </URL>
+<TEXT>
+            I've been shopping for a digital camera for several months.  I wanted one because a) I'm a techie who likes gadgets and b) I am really, really terrible at processing film.  I've probably got 20-25 rolls of film lying around the house that I never got around to developing.
+
+In my quest for a camera, I had only a couple of requirements.  First, it needed to be easy to use, so that my nine year old daughter could use it.  Second, it needed to have more than 1 megapixel resolution.  And finally, and most importantly, it <b>had</b> to have USB connectivity so that I can hook it up to either my Macs or PCs, depending on which is more convenient at the time.
+
+Unfortunately, the only cameras that I could find that met these needs were in the $700 range, which I had a hard time justifying.  So I gave up for a time and took another look a few weeks ago, and came across the HP 215 at Best Buy online for $200.
+
+I drove to the nearest Best Buy to check out the camera and didn't like it at all.  It didn't feel good, it only had 1 megapixel resolution, and I just felt like I'd be chucking away $200 on it.  However, the salesman suggested that I take a look at the 315, and I'm happy I did.
+
+The base camera comes with an 8meg storage card.  There are three resolutions to take pictures at -- <b>Basic</b>, which is 640x480, is suitable for posting on the web and emailing, and which you can get about 80 pictures on the card; <b>Fine</b>, which is 1200x1600, is suitable for printing at 8x10, and you can fit 20 on the card; and <b>Super Fine</b>, which is also 1200x1600, is suitable for digital enlargement, and which gets you 10 pictures per card.  You can mix and match qualities on the same card.  The guy here who claimed that you could only get three Super Fine pictures on the 8meg card apparently doesn't know what he's talking about -- I did indeed fit ten of them on there as a test.
+
+For my purposes, basic resolution is fine.  I can bring the pictures into Photoshop, touch them up as necessary, and email them out.  I printed a few basic and fine pictures on my Epson Color 740i, and, while the Fine mode was clearly better, Basic was acceptable.
+
+I've taken photos around the house and they all turn out fine (except for my animals, who all look possessed; but that's pretty standard for them :-)  There's a &quot;red eye reduction&quot; setting that works well, although it's irritating that it turns itself off when you turn the camera off.
+
+The camera sports a 2.5x digital zoom, but I've seen that you end up with some noticable pixelation when you use that -- whenever possible, just get closer to what you want to take a picture of and leave the zoom off.
+
+I took some photos last night at my daughter's school play and was somewhat disappointed with the results.  I was way in the back of the room, and with the odd lighting in use, all of the shots of the kids on stage ended up very yellow.  However, I brought them into Photoshop and played around until the colour looked ok.  Closeup shots looked just fine.
+
+The camera itself is very light (8 ounces) and looks and feels like a normal camera.  I have a habit of getting my finger over the flash, but that's not really the camera's fault, as the flash is where it normally is on a camera.  One good feature is that closing the lens cover automatically shuts off the camera, and you can review your shots and change your settings with the lens cover closed and the camera off.  The unit feels very solid, but I would be wary about dropping it -- there's no telling how strong it is.
+
+I've used the camera to take about 100 photos and the battery meter still reads full, so I don't know what the other guy on here was talking about by saying &quot;you can't do much other than play for a few minutes before the batteries wear out&quot;.  Same guy that said it could hold three pictures, so maybe he just has a bad one.
+
+As for hooking it up to the computers, I had Best Buy toss in a San Disk &quot;starter kit&quot; for and extra $100, which included a carrying case, 16meg storage card, and a USB port that you can plug into the computer, toss in a card, and download the pictures without using the camera (to save battery life).
+
+But I hooked up the camera to my iBook any way as a test for this review, and transferring photos couldn't be easier -- turn on the camera, and a new drive appears on the computer desktop; copy the files to your hard drive and you're done.  You don't need to install any software for this to work on a Mac.  For Windows, you do, but then the process is pretty much as simple.
+
+In short, this is a great camera for users who are looking for a very basic setup that allows point and click photos and data transfers.  For the money, it certainly should be on most non-professionals' short lists.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

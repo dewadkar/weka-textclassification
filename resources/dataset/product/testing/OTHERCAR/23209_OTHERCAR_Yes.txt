@@ -1,0 +1,77 @@
+DOC>
+<DOCID> 23209 </DOCID>
+<PRODUCT> Digital_Cameras/Kodak_DX3500_Digital_Camera__Camera_8356420 </PRODUCT>
+<URL> http://www.epinions.com/content_48296070788 </URL>
+<TEXT>
+            <b>Review of Kodak DX3500</b>
+
+Here I will give you a quick and dirty review of the DX3500 camera.  I start with an up-front summary with positives (+) and negatives (-).  I then expand on these items to give you a bit more detail.
+
+<b>Up-Front Review Summary</b>
+
++ "normal" point & shoot camera feel
++ resolution is good for most uses
++ resolution is good enough to not need digital zoom
++ video out option allows photos to be shown on a TV
++ configurable transfer software makes it quick and easy to dump pic files to the computer
++ built-in memory AND a CompactFlash slot
+- the lens is at the far left, so I've taken pics of my finger
+- digital zoom is pretty useless because of quality
+- short warning on low battery level
+
+<b>About the Camera Dock</b>
+
+Despite the epinion review category, I've not yet purchased the camera dock.  For the price difference, I don't see the value in it -- it's not that hard to plug the camera cable in.
+
+<b>Point-and-Click Camera (+)</b>
+
+Once you figure out the basic features and navigation of the menus on the camera, using the DX3500 is not much different than a basic 35mm point-and-shoot camera.  There is a simple off/on/closeup switch that turns the camera on/off and opens/closes the lens cover.  On top, there's a 3 position rotary switch that changes from photo taking mode to view mode to the settings screen.  On the back, there's the LCD screen, a 4-way cursor, a menu button, a select button, and a flash-select button.
+
+In picture taking mode, the display is defaulted to OFF to save battery power, so you use the viewfinder much of the time to take pictures.  Once the picture is taken, it shows on the display for about 5 seconds so you can decide to keep it or trash it.  You can switch the flash mode from auto to off to red-eye reduction.  I use it with the flash off most often to get good even lighting.  If the picture is a little dark, PhotoShop or the included photo editing software can be used to lighten the pic.
+
+<b>Resolution is Good for Most Uses (+)</b>
+and
+<b>Resolution is Good Enough to Not Need Digital Zoom (+)</b>
+and
+<b>Digital Zoom is Pretty Useless (-)</b>
+
+There are two resolution settings, but I always use HIGH so I can choose to scale down the resolution later depending on the picture's use.  The HIGH setting is 1800x1200.  At 72dpi (typical screen resolution), that's 25" x 16.7"!!  At a good-quality print resolution of 150dpi, that's 12" x 8".  You can't complain about this type of resolution for most uses.  In fact, I usually end up scaling down my images and cropping the junk out, so even if I take a BAD picture it usually doesn't look it after I get done.
+
+<b><i>Check out some pics taken with my camera at http://pragueok.com/sand/.</i></b>
+
+This brings up the topic of the digital zoom feature.  The difference between a real zoom and digital zoom is huge.  A real zoom uses lenses to magnify the object before it is capture to memory.  Without getting into heavy detail, a digital zoom just fakes zooming by calculating the pixels to make a small part of the normal picture cover the full resolution of the captured image.  The result?  A blurry image that is usually worse than if you took a normal picture and zoomed it yourself in photo-editing software.  For this reason, I highly recommend against using the digital zoom -- the quality is just plain poor.  The resolution on this camera is good enough that you can capture the photo you want and zoom in yourself using software.  Unless the object you want is really far away, you'll probably be satisfied.  If you do need zoom, find another camera that has a real zoom.
+
+<b>Video Out Option Allows Display on TV (+)</b>
+
+Although I've not used it yet, the camera has a video out jack and comes with a cable to connect to a TV's RCA jack video input.  You can use this connection to show your pictures on-screen in either NTSC or PAL format.
+
+<b>Configurable Transfer Software Makes Dumping Pics to your Computer Easy (+)</b>
+
+The Kodak picture transfer software is quick and easy to use.  You can also customize your transfer preferences (like transfer pics and delete them from camera automatically).
+
+With the software loaded, when you plug in your camera it just shows up as another "hard drive" on your system.  You can browse around inside the camera using Windows Explorer and even add or delete files.  I've even used the camera to transport non-pic files from home to work!
+
+The good part of the software is that you don't need to browse around your camera to manage your pictures and transfer them to your computer.  When you attach the camera, you can just use the Transfer Now feature in the software and within seconds, all your pictures are blasted over the USB interface to your computer system.  I've even customized the settings so the picture files are transferred to a folder named with the date the pictures were taken (yes, it will sort them in multiple folders if you take pictures over several days) and deleted after they are transferred.  With these settings, I just connect my camera, choose Transfer Now, and my camera is emptied and ready to go.
+
+<b>Built-in Memory AND CompactFlash Slot (+)</b>
+
+Some cameras come with only one slot and a small memory card already in it.  When you want a bigger card, you remove the factory memory card and put in a bigger one.  This is NOT the case with the DX3500.  There is a built-in 8Mb of memory and a CompactFlash slot that will accommodate MUCH larger cards.  I currently use a 24Mb card as my primary memory and use the built-in 8Mb as a "backup" for when I fill the 24Mb card.  With 24Mb of memory, I can take about 38 high-resolution (1800x1200) photos.  The built-in 8Mb allows me to take another 13 or 14.
+
+<b>The Lens on the Left Gets Pics of My Finger (-)</b>
+
+When I'm not paying a lot of attention, I come home with pics of one or more of my fingers.  The lens on the camera is at the far left and the view finder is more toward the center of the camera.  If you don't use your left hand carefully, you may take pictures of your finger(s) and not see it in the viewfinder.
+
+<b>Short Warning on Low Battery Level (-)</b>
+
+This has got to be my largest (and my only real) complaint about the camera.  I've put 2 sets of batteries through the camera now and both times, I had little warning (a picture or two) before the camera started shutting itself off because of low power.  Luckily, if you let the camera set for a few minutes, you can turn it back on and snap another pic or two.
+
+From now on, I will be carrying a set of extra batteries any time I want to make sure I can keep taking pics.  By the way, the camera takes 2 Li-Ion or NiMH AA batteries (alkaline not recommended).
+
+<b>CONCLUSION</b>
+When I think about purchases, I ask myself "Would I buy it again?"  For me, this is the acid test on whether it's a good buy or not.  The answer in this case is a BIG YES.  In fact, my sister and brother-in-law have bought one just like it -- they are as pleased as me.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

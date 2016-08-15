@@ -1,0 +1,43 @@
+DOC>
+<DOCID> 22375 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_C_3020_Zoom_Digital_Camera__Camera_225300 </PRODUCT>
+<URL> http://www.epinions.com/content_76533108356 </URL>
+<TEXT>
+            I purchased the Olympus C-3020 Zoom as a replacement for my Olympus C-200 Zoom (that's D-510 for all you non-European guys) because of the severe quality problems I experienced with it (see my review).
+
+It is quite obvious that the C-3020 plays in a completely different league and is a very good camera for both the point-n-shoot novice and for those with at least some basic knowledge about things like "aperture setting" and "shutter speed".
+
+The quality of the photos is nearly perfect with only a very slight chromatic aberration present around high contrast edges (looks like a slight purple tinging around dark objects against a bright background). No evident barrel distortion is visible in the wide-angle area, and the 3x optical zoom is in fact surprisingly clean from any kind of distortion.
+
+As usual, the digital zoom is just a marketing hype and I recommend that you do yourself a favor by switching it off right away. You can in fact get a much better magnifying effect in Photoshop or Paintshop Pro.
+
+The pictures are bright and sharp, with very vivid and lifelike colors. I feel that the white balance in automatic mode is ever so slightly shifted towards the reddish end of the spectrum, but the manual white balance setting is nearly spot on. There is also a particularly nice feature that allows you to manually offset the white balance in incremental steps towards blue or red. This feature can be very useful in tricky light situations where you for instance have incandescent or neon light falling onto the subject in the foreground while there is a backwash of natural daylight in the background.
+
+The autofocus is most of the time very accurate, although tends to make some silly mistakes from time to time, for some reason particularly when there are many vertical elements in the picture. You can set manual focus in incremental intervals too, for instance when shooting through a window.
+
+The menu system is nice and very well thought out and you can probably learn to use it within a few hours. You can even assign your most used function to a "quick button" for easy access. Unfortunately the printed handbook doesn't mention all the important functions, and not everybody has the energy to browse through the hefty PDF-manual residing on the provided Camedia CD. For instance, many users seem to have missed that they can indeed make the camera remember each setting instead of having them reset to their default values every time the camera is switched on...
+
+The C-3020 can also capture short QuickTime movie sequences. It seems like a cool feature at first glance, but it's really hard to find any real use for it. The quality of these mini-movies is pretty decent but unfortunately without sound, which limits their usability. And even a very short movie ends up being far to large to be used as a mail attachment unless both you and the recepient use broadband connections.
+
+Transferring images from the camera into the computer is incredibly easy - you just connect the camera to the computer with the provided USB cable. Switch it on and presto - the camera appears as an extra hard disk in Windows Explorer. No manual installation is required and you can immediately access the images by using simple drag-n-drop techniques. I don't know how well this works for the Macintosh, but for Windows users (especially if you use Windows XP) it's as simple as it gets.
+
+The provided 16 MB SmartMedia card is way too small, and you will probably need to get at least a 64 MB card. I went out and bought a 128 MB card straight away and I have more than once ended up filling even that one completely during a weekend.
+
+There are a couple of slight design problems with the C-3020 - my biggest problem is how to keep remembering to remove the lens cap before I switch on the camera. The horrible grinding noise that occurs when the camera is switched on with the lens cap still on, followed by the ominous beep-beep-beep-beep warning tone will definitely make you believe that you just managed to fry the zoom motor. You haven't but it is still very annoying!
+
+Another potential problem is the LCD display on the backside, which is completely unprotected and even slightly protruding. The size of the camera makes it a little bit too clumsy to put in your pocket, and if you carry the camera slung around your neck by its strap - as most tourists tend to do - you will inevitably chafe the display against your shirt buttons or jacket zipper, and eventually risk causing some really nasty scratches and cracks. 
+
+With the LCD display turned off, four freshly charged NiMH-batteries seem to last for ever and since the seeker display is so bright and clear, this should be the normal way to operate the camera. But unfortunately the seeker doesn't nearly display the same image that is captured in memory, which reduces its usability. You should remember to offset the picture in the seeker a great deal to the bottom left, or you will end up with pretty badly framed images. For close-ups the framing may be hopelessly wrong and you have no other choice but to use the LCD-screen.
+
+Speaking of closeups, macro performance is an altogether rather weak area - the camera simply cannot focus close enough to the subject to be able to take mugshot portraits of Tony, your pet ant.
+
+The maximum exposure time of 16 seconds is wonderful for trick photography (like capturing thunderstorm flashes in the middle of the night), but even four seconds of exposure is more than enough for some stunning night photography. The camera has a very effective noise reduction system that removes so called hot pixels from images taken with long exposure times, and thereby giving night photos a superb clarity. Very nice!
+
+The C-3020 is a great little camera. It seems to me that Olympus really did their best to produce a very good 3 megapixel digital camera at a very affordable price. Of course there are compromises to be made in order to keep the price down (such as the plastic camera housing and the lack of external flash attachment shoe), but I think that Olympus managed to cut the right corners without compromising image quality and functionality. Well done!
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

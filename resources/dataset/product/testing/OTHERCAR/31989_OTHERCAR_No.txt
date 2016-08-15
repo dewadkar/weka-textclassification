@@ -1,0 +1,49 @@
+DOC>
+<DOCID> 31989 </DOCID>
+<PRODUCT> Digital_Cameras/511597_Hewlett_Packard_PhotoSmart_215 </PRODUCT>
+<URL> http://www.epinions.com/content_51128733316 </URL>
+<TEXT>
+            I�m a guy with many different hobbies and such, and I finally decided to get a digital camera so that I could post some pictures to the Internet and easily add them to documents.  My criteria were not to necessarily get the best picture quality available.  I wanted something inexpensive and reliable.  I have to admit that the HP 215 digital camera did indeed satisfy those criteria, but it also has some drawbacks that may make you think twice about it.
+
+First, the good stuff.  The camera cost me the equivalent of 175$US last summer.  I�ve seen it for what amounts to 125$US recently.  No other camera offers a LCD display with flash and USB connectivity for that price.  That�s what drew me to buy this camera.  Some will say that 1.3 megapixels is too little, but for web photos and illustrations in reports, it�s fine with me.  Its maximum resolution of 1280*960 is not so great for printing 8 x 10 pictures though.  And having the USB connectivity makes downloading pictures a quick process.
+
+It comes with some software such as PhotoImpact 2000, but I typically only install the USB connectivity driver and use my trusted Paint Shop Pro to edit and save my photos.  The driver installs a TWAIN device (just like that of a scanner), and you can download your pictures into any application that supports TWAIN devices.
+
+Other nice features include red-eye reduction flash, time/date stamp on pictures if desired and a macro mode for close-ups.  The automatic flash option is not well implemented however.  Often, the camera will take forever to decide if a flash is needed or not, and you have to wait for it to make its mind (sometimes over 10 seconds) before being able to take your picture.  Also the 2X zoom is purely digital (not optical), and thus some clarity is lost in the pictures.  To compensate for this, HP decided that all pictures taken with the 2X digital zoom will have a maximum resolution of 640*480, which makes them virtually useless.
+
+A problem I have noticed is that what you see in the viewfinder is not quite what you get in the picture.  For some reason, a subject that I center in the viewfinder is always off to the right in the picture.  This is not an issue when using the LCD, but sometimes I don�t want to use the LCD, either because of direct sunlight that makes it unusable, or to preserve battery life.
+
+That�s because the single biggest concern I have with this camera however is related to battery life.  The most I�ve gotten out of a set of 4 AA alkaline batteries is about 30 pictures in an hour.  The results are slightly better if you�re outside without the flash, but still horribly short.  NiCD batteries and non-alkaline batteries will not even work in the camera.  The best alternative is to use rechargeable alkaline batteries, or possibly a set of NiMH batteries.  Had I known that the battery life would have been this short, I would probably not have bought this particular camera.
+
+To summarize, here are my thoughts on the HP Photosmart 215:
+
+THE REALLY GOOD:
+-The price.  There is no other digital camera on the market for such a low price.
+
+
+THE GOOD:
+
+-1.3 Megapixels is sufficient for web and documentation purposes and the picture quality is mostly good.
+
+-The red-eye reduction mode and macro mode are useful features that I wouldn�t expect from a camera this price.
+
+
+THE NOT-SO-GOOD:
+
+-The automatic flash mode.  It sometimes takes forever to decide whether to use the flash or not and this really becomes annoying, especially if you�re trying to take a picture of a moving object.
+
+-The 2X digital zoom.  It�s pretty useless since it�s limited to taking pictures at 640*480.
+
+-It only comes with a 4 MB Compact Flash card.  This in not a big drawback though, as you can buy cards with over 128 MB of space.
+
+
+The REALLY BAD:
+
+-The battery life.  It�s just plain horrendously short.  If you take all the money you�ll spend on batteries, you can most likely buy a better camera which won�t be as battery-hungry.
+
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

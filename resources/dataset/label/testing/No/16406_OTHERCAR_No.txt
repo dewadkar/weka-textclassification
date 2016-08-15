@@ -1,0 +1,19 @@
+DOC>
+<DOCID> 16406 </DOCID>
+<PRODUCT> Digital_Cameras/514341_Nikon_Coolpix_775 </PRODUCT>
+<URL> http://www.epinions.com/content_51678252676 </URL>
+<TEXT>
+            When it comes to photography, I admit that I�m not much more than a novice, but I do know electronic equipment and what to expect from it.  Because of my inexperience with still cameras, I hesitated even writing a review of the Nikon Coolpix 775, but the more I use it, the more I felt compelled to expose it�s good points and even more importantly, the flaws in its design.
+
+I received my Coolpix 775, 2.1 mega pixel digital camera as an unexpected Christmas gift, so I knew nothing about this camera before obtaining it. 
+
+At first, I was impressed by the size of the camera, nearly half the size of a pack of cigarettes and almost as light. The camera has many features and the option menu is easy to figure out and use. I liked that fact that it came with a lithium-ion rechargeable battery and charger.  I am so tired of buying batteries for my other electronic items that this was a very welcomed feature.  The battery charge seemed to last about 2 hours or about 125 photos. It also came with an 8 MB compact flashcard, which holds eight photos at the highest resolution of 1600 X 1200 and saves them as JPEG�s.  A larger compact flashcard might be the first accessory you should consider for this camera. It also takes video capture in the JPEG format.  There is no sound capability with video on the 775.  Also included was a USB cable to transfer the photos into the PC and a CD-ROM with Nikon View 4, and some other basic software applications to import and manage your photos.  It has a 3X optical zoom and a 2.5X digital zoom.  I feel that the digital zoom is useless because it degrades the quality of the picture so much that it is almost un-viewable.  I like the 1.5� LCD preview and review window on the back of the camera.  I am somewhat annoyed by the delay time between depressing the shutter button and the time the shutter actually operates.  If you are shooting a moving object, you have to compensate for this lag.  The biggest disappointment that I have found using this camera was when I took a picture of a newly installed window in my home and the photo was distorted.  I discovered that there was an extreme amount of barrel distortion created when a picture is taken at wide angle.  So much distortion that a photo taken of a square or rectangular shaped object will bulge out from the middle, like it was taken through a fish-eyed lens.  In my estimation, the extent of the distortion is about 2% and is not acceptable.  I have since researched this problem on the Internet and found that it is inherent in all Coolpix 775 cameras.  I discovered that the only workaround for this problem is to set the lens to the maximum telephoto setting, or zoomed in all the way, and the distortion disappears.  The problem of barrel distortion diminishes, as the camera is zoomed-in.  Keeping it zoomed-in may not be a very practical fix though, the picture gets very shaky and in some tight situations, this fix won�t work at all. 
+
+I realize that as far as digital cameras go, the Coolpix 775 is nearly at the bottom of the price range, about $400, so I guess I might be expecting too much from it.  Nevertheless, I�m also sure that there are cheaper cameras out there that do not have this problem, and I feel that Nikon shouldn�t have let this design flaw get past them.  Still, the photos that this camera takes are good quality, the colors appear to be very good, the price is excellent, it�s not heavy, and it�s easy to use, but I cannot recommend this camera because of it�s barrel distortion.
+
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

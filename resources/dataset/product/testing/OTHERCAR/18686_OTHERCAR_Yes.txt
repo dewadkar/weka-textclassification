@@ -1,0 +1,36 @@
+DOC>
+<DOCID> 18686 </DOCID>
+<PRODUCT> Digital_Cameras/484361_Olympus_Camedia_C_2000_Zoom </PRODUCT>
+<URL> http://www.epinions.com/elec-review-154-467DB53E-3A4E8291-prod3 </URL>
+<TEXT>
+            At work, we had an excess budget to purchase &quot;toys&quot; with towards the end of 1999. A digital camera was at the top of the list, and after a great deal of research, the Olympus C-2000 Zoom came to the top of the list. It was among the very first digital cameras to compete with the features and the image quality of a real 35mm camera. A year later, I can still validate this as money well spent.
+
+Since then, Olympus has released other products. The C-2020 adds some minor features, and replaces the notorious selection button (more on this later). Then there's the C-2050. But if you're looking to save some money and to pick up an older camera, this is definately one to look at.
+
+The specifications of this camera should be easy enough to find.  I'm going to focus on the real-world aspects of this camera.
+
+An accessory you may find unusual, but certainly is a must-have, is a tripod. If you're wanting to take high resolution pictures of a stationary object (or near-stationary), by placing the camera on a tripod, you'll be able to maximize the resolution of the camera by eliminating camera shake. Use of the IR remote (which comes with the camera) or the 3-second delay feature, is crutial for taking supreme quality pictures.
+
+You want special effects? You've got them. For example, a four second shutter exposure. I've taken some really spectacular images with this camera. But there's one quirk. By putting it in the special modes, you can only adjust one major feature at a time. For example, you can set the shutter speed. Or you can set the aperature. But you can't do them both at the same time. If you're in shutter mode, the rest of the settings will automatically be performed by the camera.
+
+But it is far more idiot proof than a 35mm camera. If you've made the shutter speedd very quick in low light, it'll warn you (with red lettering) that it won't be able to compensate for this with a wide aperature. No guesswork. And of course, you can look at the picture after it is taken to examine the quality -- a standard hallmark of digital cameras.
+
+For the most part, the remaining options are as you expect on a high end digital camera. But this product does not do sound or movie recording. It is a camera, and only a camera.
+
+The three problems with this camera are very obvious. The lens cap does not attach to the camera and is easy to lose. The power button is too close to the shutter button, and it is VERY EASY to turn the camera off instead of taking a picture. Finally, the selection button (a four-way menu selection button -- similar to a nintendo controller) is very delicate. It is too easy to accidently hit left when you wanted to press up. This is perhaps the most annoying problem of all.
+
+A few days ago, I sent mine in for repair. Specifically, I took it to Circuit City (which I did not purchase it from), gave them $30 which was applicable to the repair price, and they sent it off for me. What problems did it have?
+
+The door to the battery compartment. It has a sliding lever which closes the compartment and causes the batteries to make contact. That's metal connected to plastic. Unfortunately, I left the camera in my car, and the heat was conducted by the metal and fused some of the plastic together. Once the plastic was unfused, the metal seperated from the plastic. I attempted a superglue repair. No use. The superglue actually ATE at the plastic material.
+
+So, I operated the camera off of an external power supply. But not for very long. The cable which connected the camera to the wall outlet was heavy enough to pull the camera off of my desk and onto the floor. The lens assembly seperated into two parts. My attempts to reattach them failed, and the camera failed to operate (even extract the images I have already taken via the serial interface) without the lens working. At that point, it was a paperweight.
+
+Do I blame these on Olympus? Not really. A digital camera like this *should* be treated as a delicate piece of electronics. Heat should be avoided. Shock should be avoided. This camera really deserves to be treated like fine jewelry, and I can only blame myself for these problems. This is *not* a camera I would give to a teenager.
+
+In summary, if you're looking for a less-than-new camera with high end features, this is for you. The zoom and other features really help a non-professional photographer create incredible images. But be aware of the few annoyances that come with this camera.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

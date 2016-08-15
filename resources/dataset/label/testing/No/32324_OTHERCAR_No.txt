@@ -1,0 +1,38 @@
+DOC>
+<DOCID> 32324 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Kodak_EZ200 </PRODUCT>
+<URL> http://www.epinions.com/content_39756926596 </URL>
+<TEXT>
+            For a long time, I associated the name Eastman Kodak with quality in photography.  I�ve always been satisfied with their cameras and film, so when I noticed that they had a webcam on the market, I naturally decided to give it a try. After trying the <B>Kodak EZ200</B> webcam, it looks like I may have to try to change that association.
+
+The EZ200 reminds me of one of those disposable cameras that you buy at the grocery store.  It�s light (about 3oz. without batteries, 5oz with), has that familiar �boxy� design, and has a black semi-smooth plastic covering.  There�s no flash on the unit, so you absolutely need to make sure that you have sufficient light whenever using indoors or out.  Focusing is done manually when the camera is connected to the PC.  When disconnected, the user is limited to fixed focus mode.  The construction of the webcam is sturdy enough that I wouldn�t be terribly worried if I dropped it from a few feet off the ground, but any higher than that and I�m pretty sure I could kiss it goodbye.
+
+Also, there is no LCD or picture viewing display to allow the user to immediately view pictures.  Folks using the Kodak EZ200 will have to wait until the photos are uploaded to a PC before they can check out their work. This aspect can be a big inconvenience, especially if you�re trying to get a picture of an event and don�t find out that you had your thumb over the lens until you get home (Hey, my hands are big.  It happens.)
+
+Four AAA batteries generate the unit�s power when disconnected from the PC.  When connected, it draws power directly from the PC itself.  The camera boasts a paltry 4MB of nonupgradeable memory, which is adequate for most photo sessions (around 64 VGA pictures), but a lot of users will probably want more memory.  I�ve seen a few different cameras with 8MB of memory at around the same price range, so I�m baffled as to why Kodak cut that in half for the EZ200.
+
+Packed in with the Kodak EZ200 is a CD containing <B>ArcSoft�s</B> very easy to use <B>PhotoImpression 2000</B> and <B>VideoImpression</B> software.  The PhotoImpression application performs a wide variety of photo-editing functions such as cropping, enhancing, and generally cleaning up the pictures you�ll be taking.  The still pictures taken with the camera have an annoying reddish/purplish tinge to them.  Also, as consistent with a lot of lower end webcams, the colors are oversaturated and create funky looking shadows. 
+
+The included VideoImpression software was designed to combine the AVI animations into moving videos, supposedly running around 25fps.  I�m getting tired of these cameras and devices that say they run at �such and such� fps, but when you get it home and try to run something, it resembles those hand-drawn flip books you used to make in elementary school.  I�m starting to believe that FPS really doesn�t even stand for Frames Per Second. Maybe it stands for <B>Frames Per Something-close-to-a-second-but-in-actuality-much-longer</B>.  That would be more consistent with what I�ve been seeing with the Kodak unit.  Anyway, Kodak <I>says</I> the EZ200 runs at 25fps. Believe them if you want to.
+
+To its credit, the Kodak EZ200 does have a few extra bells and whistles.  It has a 10-second Self-Timer mode, a Movie Clip mode that records a 10-second movie with no sound, and a Burst mode which takes 5 pictures in rapid succession for action shots.  I didn�t get to use these functions a great deal, but it�s not difficult to think of great uses for them with a little imagination.
+
+So overall, I <B>do not recommend</B> purchasing the <B>Kodak EZ200</B>.  Yes, it�s inexpensive, easy to use, and very portable, but if you like to take many clean, clear, and true color pictures, you�re going to be disappointed. It�s good for amateur/casual use, but professionals (or just those wanting good pictures) will definitely need to look at some of the higher end webcams. Pass up the EZ200 for one of the better alternatives on the market.
+
+System Requirements:
+- Windows 98, 98SE, or Windows 2000, ME 
+- Personal computer with Pentium 266 MHz with MMX 32MB RAM or greater 
+- 100MB hard drive disk space or greater 
+- CD-ROM drive 
+- Microphone (optional) 
+- Internet connection required for videoconferencing 
+- Color monitor with 256 colors (16 or 24-bit color recommended) 
+
+
+
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

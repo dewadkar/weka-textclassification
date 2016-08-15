@@ -1,0 +1,52 @@
+DOC>
+<DOCID> 16310 </DOCID>
+<PRODUCT> Digital_Cameras/188278_Hewlett_Packard_PhotoSmart_C200xi </PRODUCT>
+<URL> http://www.epinions.com/elec-review-29BA-1978CC2B-3A3DB98E-prod4 </URL>
+<TEXT>
+            I sell computers, components, and accessories.  I have had alot of time to compare the numerous cameras that come and go.  After getting my facts gathered I decided to purchase this cam. I have used this camera for a full year and i would like to offer my opinion. For the most part, I am satisified with my investment and would recommend this product.  I have offered the advantages and disadvantages as well as what you get, and system requirements. I have included some useful insight as well.  E-mail me at jakeshadee@aol.com for further info.
+
+<b>Advantages</b>
+Where to start?  First of all and most important, this camera has excellent picture quality.  These days the talk of the greater megapixel the better.  I have compared my pictures from this camera and my buddy's Kodak DC260 (2.0 megapixel) and there was no noticable difference to me.  I am impressed.
+
+Also, the capacity of the CompactFlash Memory card.  It contains an 8 mg card which holds, 17 high quality, 40 medium quality, and 80 lowest quality captures.  This is plenty for a day at the races, the game of a family event.  
+
+The software is great.  You can view the pictures as the download, and the program sets up a directory named by the date and time you are downloading.  HP includes software to manipulate and print the photos also, as well as view thumbnails from the camera via the serial connector.  
+
+I was super-duper impressed by the video cable that is included.  I can delete and view photos on my TV instead of the LCD screen.  Cool as can be.  I can show my friends and family my captures in a slideshow from the camera, very fun while your still at the party.
+
+This model does include a 2 stage shudder button.  This means that you hold the button down half way, get the shot ready then, depress it all the way.  This feature is compared to an autofocus feature of a 35 mm camera.  
+
+<b>Disadvantages</b>
+Only real gripe i have regarding this camera is the real-time view on the LCD screen on the back of the camera.  First of all it is slow, and the display quality looks to be at 50% resolution and dark, hardly visible.  But, as you capture a picture, the image comes through vey clear.  
+
+Also, this little camera eats AA batteries for breakfast, lunch and dinner.  I took my HP to the CART Indy race and snapped about 40 pictures at the lowest quality (low, not nessecarily bad).  The batteries lasted from the beginning of the day, until I took the camera home and downloaded the pictures to my computer.  It seemed like I should have gotten more than a day on 4 AA alkaline batteries.  I recommend with this, and any camera, the use of rechargables. Preferably, two sets, one in the camera, freshly charged, and another for standy.
+
+Regarding the download of the pictures to the computer, I am not impressed.  This model does not offer a USB interface, so I download via the serial port.  And, this is sloooow.  It took me 30 minutes to download the pics from the race to my hard drive. 
+
+This model only offers a 2x digital zoom.  Not much in the way of clsoe ups, but for the money and other features you can't beat it.
+
+<b>Package Contents</b>
+HP PhotoSmart C200 Digital Cam
+8 mb Compact Flash memory card
+4 AA batteries
+strap
+9 pin serial cable (RS-232)
+16.4 ft TV video cable
+HP PhotoSmart C200 Digital Cam User's Guide
+HP PhotoSmart C200 Digital Cam Quick Success Poster
+HP PhotoSmart C200 Digital Cam Imaging Software
+
+<b>System Requirements:</b>
+Pentium 133 minimum, Pentium II 300 (recommended)
+32 mb RAM, 64 mb RAM (reccomended)
+150 mb free hard drive space
+640x480, 256 color display, 800x600, 16 bit or higher recommended
+4x CD ROM speed
+9-pin serial port
+win 95/98 or NT 4.0<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

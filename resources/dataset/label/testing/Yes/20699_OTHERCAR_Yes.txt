@@ -1,0 +1,155 @@
+DOC>
+<DOCID> 20699 </DOCID>
+<PRODUCT> Digital_Cameras/Sony_MVC_FD97_Digital_Camera__Camera_MVC_FD97 </PRODUCT>
+<URL> http://www.epinions.com/content_63018602116 </URL>
+<TEXT>
+            The Sony Mavica FD97 is an upgrade to the Sony Mavica FD95. The two cameras are extremely similar in both appearance and use.
+
+My review, Zoom-Zoom-Zoom ( <a href='/elec-review-2600-39C22D4-396E1AA8-prod4'>http://www.epinions.com/elec-review-2600-39C22D4-396E1AA8-prod4</a> ), contains a detailed description of all the major features of the FD95. Except for a few comments about the memory stick, those remarks are equally valid for the FD97. Rather than repeat myself here, I would like to concentrate on the differences between the two cameras. This should save readers scrolling through a lot of repetitive material and should make it easier to compare them.
+
+If you are trying to decide whether to buy a Mavica FD95/FD97 or some other camera, read Zoom-Zoom-Zoom. If you are trying to decide which of the two cameras to buy, read this review. I have also written a section of Advanced Mavica User Tips in this review that are equally applicable to both cameras.
+
+<I>Epinions purists please note that my FD95 review is 3000 words long, and the addition of this advanced information makes it too large for me to post. </I>
+
+
+<b>Built in Memory Slot.</b>
+
+The FD97 has a build in memory stick slot in addition to the floppy drive. You can chose to save pictures to memory or floppy via a new switch on the back. A 64MB memory stick (bought separately) has the capacity of about 40 floppy disks -- that's about 150 high-resolution photographs, or about 1200 at low-resolution. You can also easily move pictures between floppies and the memory stick for maximum convenience.
+ 
+While the FD95 can use a memory stick via a special floppy disk adapter, this was subject to many of the same limitations as the floppy disks. The compression ratio of the JPegs was the same as floppies and the interface made writing to memory stick slower than writing to disk.
+
+The FD97 overcomes these problems. The save time is much faster than for a floppy, and it saves the JPeg in a less-compressed/more-detail format. You can also save files to the memory stick in a non-compressed TIFF format. This format is not available on a floppy. 
+
+
+<b>USB Interface</b>
+
+The FD97 has a built in USB interface so you can download picture directly to your computer. This is essential when working with TIFF formats that can be too large to fit on a single floppy. A fast USB cable is included with the camera.
+
+
+<b>Clip Motion.</b>
+
+This is a feature brought over from the CyberShot line, that lets you record a sequence of 10 sequential still images and the camera makes them into an animated GIF file. This is a fun feature that comes in handy for the Internet.
+
+
+<b>Summary.</b>
+
+Although the FD95 and the FD97 both take high quality 1600 x 1200 images with superb color resolution, the FD97 is capable of storing the image with less loss of detail due to compression. It is capable of taking a large number of pictures without the need to carry a case full of floppies, and it is extremely flexible and convenient.
+
+However, the FD97 is more expensive than the FD95, and the 64MB memory sticks (not included) will set you back another $50 each. If money is tight and you intend to take mainly low-resolution pictures for Internet use, then the FD95 is a good choice. If you have the money, grab the FD97. You will be glad you did.
+
+
+<b>* * *</b>
+
+
+<b>FD95 and FD97 Advanced Mavica User Tips.</b>
+
+<b>Manual Focussing.</b>
+
+The manual focussing ring needs too much turning to adjust. Part of the time you turn a lot for little change and at another part of the range, it seems over sensitive.
+
+The camera automatically does a 2x zoom on the viewfinder the moment you move the focussing ring. This is a truly horrendous idea. While it does allow fine adjustment of focus for super clarity on non-moving subjects, it is hardly necessary because the automatic focus already does a great job. When trying to focus on moving targets, you quickly lose the subject. The zoom jumps back to normal immediately you stop turning. The whole effect disorients you; it makes you quite nauseous.
+
+The only way I have found to disable this "feature" is to hold the shutter button half-down while you focus. If Sony can't add an off-switch, then my vote would be to lose the feature entirely. It is an annoyance far more often than it is useful.
+
+A quick way to use the manual-focus: turn on auto-focus, point the camera at or near the subject, wait while the camera adjusts, and then turn auto-focus off again. Now you can fine-tune the focus with the manual ring.
+
+
+<b>Mode Switch. </b>
+
+The mode switch between still, movie and playback is a little too easy to hit by accident. I may be a fumblefingers, but I have taken a movie or two that I did not want. This is not a big deal except when working with a very low battery.
+
+
+<b>Text Format</b>
+
+The camera can take .GIF or non-loss images but only in monochrome. I was disappointed when I realized that I could not take a full color image in that format. The documentation is very misleading.
+
+
+<b>Action Photography</b>
+
+Because of the freeze-frame and 2x magnification when manually focussing, it is very difficult to follow the action in sports like football and soccer. Here the automatic features that normally help you use the camera, work against you. If this kind of action photography is your primary use, I would suggest buying a different camera.
+
+However, with practice and experience, it is possible to take excellent action photographs.
+
+The spot meter is a big help if you can determine the approximate spot you want to photograph, such as a bend in an auto race or the finish line in a sprint.
+
+There are two quick focus modes: Landscape and Panfocus. These allow you to preset specific focusing distances for fast shooting. Landscape sets focus at infinity for distant subjects, while Panfocus apparently sets everything beyond a given distance in focus. Panfocus also appears to give a greater depth of field. Both these modes avoid the focusing delay. To use them, just drop back to the right distance, and use the zoom button to follow the action. (Sony does not explain Panfocus very well, so you will have to practice a bit to get the hang of it.)
+
+Another way to avoid the focusing delay is use manual focus and half press the shutter button and hold it. Then you follow the action and continue to turn the manual focus. The picture will take immediately when you press the button the rest of the way. This is a bit annoying but it works. You will end up with a few duds but you get some beauties too.
+
+While I rarely photograph sports, I take a lot of photographs of wildlife. Bunnies, birds, and squirrels rarely hold still. I have takes some startling photographs of hummingbird moths with their wings frozen and their proboscis extended drinking nectar. Despite claims to the contrary, it is clearly possible to take amazing action shots, but it does take practice.
+
+
+<b>Movies</b>
+
+You can't use the flash with a movie. That makes it difficult to take movies indoors or at night without a strong external light source. Be aware of this if you are planning to capture baby's first steps.
+
+Outdoors, the movie feature is fun. I took an amazing sequence of a swan cleaning his feathers on the Hudson River. Definitely more of a toy than a tool, though. If movies are your main requirement, get a movie camera that can take stills instead.
+
+The Clip Motion option of the FD97 also falls into the toy category, although the use of animated GIFs on the Internet makes it an intriguing feature.
+
+
+<b>Size and Appearance</b>
+
+The weight of the Mavica has not been a problem. After all, I am used to carrying a heavy SLR and several lenses. However, its size has proved an issue on occasions. It does not conveniently fit into a pocket or purse. It is bulky to carry during some more strenuous activities. This also makes it hard to hide. 
+
+This camera looks expensive. This is a problem when it starts attracting the wrong sort of attention. In the last year, I have come across some places where I felt uncomfortable carrying this camera. Once, while photographing an inner-city cathedral, I had to leave and return to finish my shooting later.
+
+Someday, I will buy one of those credit-card sized digital 1-3x zooms for use in "special" circumstances when my activities make a smaller, easily carried-and-hidden camera preferable.
+
+
+<b>Freeze-Frame</b>
+
+Sometimes the freeze-frame can be annoying, but you can make it work for you.
+
+The camera takes a shot with the settings that it calculates at the time you half-push the button. So you can easily "trick" the camera into using the settings you want.
+
+For example, suppose your subject is a person standing in partial shadow under a tree, back lit by an area of bright blue sky. This will normally produce a shot with your subject too dark. To get the correct lighting, set up the shot and then point the camera at the person's feet. The blue sky won't be in the frame now, and the camera will set the brightness correct for the shadow area. Half-press the button until you see the green light, then reframe your photograph without releasing the button. When you take the shot, it will use the time and aperture you set when you froze the frame.
+
+You can use a similar trick to set the focus too. Sometimes if you are photographing something small, like a butterfly the camera will set the focus for the background instead of the small subject. Once again, set up the shot and framing you want, and then point the camera at something bigger the right distance away, like maybe a large flower. Half-press the button, wait for the green light, and then point the camera back at the butterfly and take the shot.
+
+Butterflies can be particularly annoying to photograph. You can't use the macro lens because they fly away long before you get that close. The zoom works great, but every time they shut their wings, they effectively disappear. As the wings open and shut, the camera focuses first on the butterfly, then on the flower, the butterfly, the flower... Argh!! Easy solution: when the butterfly is in focus, shut off the auto-focus and stand still. You can fine-tune the focus with the manual ring if desired.
+
+
+<b>Floppy Disk.</b>
+
+The floppy disk storage system is even easier to use and more convenient than I had imagined. I use 640x480 resolution mostly, which gives my 32 images per disk. Each time I fill a disk, I copy it to my computer in its own directory. I name each directory with the date of the first image. This keeps things organized and makes things easy to find. Then I go through and rotate the images where I turned the camera -- yes, you have to do this by hand. (If your listening, Mr. Sony, - having the camera sense the vertical alignment and automatically turn the image for you would be a nice feature.) I put the floppy in a box, and keep it around until I have backed the image up to a CDRW.
+
+I use a Yamaha CD-RW Recorder (<a href='/cmd-review-2965-121C8735-3995CE7C-prod1'>http://www.epinions.com/cmd-review-2965-121C8735-3995CE7C-prod1</a>). See my review, CD-RW Recorders for Bunnies (<a href='/content_2645663876'>http://www.epinions.com/content_2645663876</a>) for tips on choosing and using the right recorder for you.
+
+Since floppies are virtually free, I have occasionally taken photos for casual acquaintances and given them the disk. I have also used the camera to make a quick copy of some of my images to give to folks I met.
+
+
+<b>The Viewfinder</b> 
+
+Using the viewfinder rather than the LCD, just about doubles battery life. Since I am used to using an eyepiece anyway, I use it exclusively. The only time I turn on the display is to show photographs to friends.
+
+You can adjust the viewfinder focus to suit your eye. Once, I turned this by accident, and spent an hour trying to figure out why the auto-focus was not working. Duh!
+
+
+<B>Battery Life</b>
+
+The battery has been super. I usually recharge it up to about 90 minutes after each session. The camera accurately displays the amount of time remaining. The only time I ran out of power, was a day in which I forgot to recharge it, and then took about 60 flash photographs back-to-back.
+
+
+<b>Summary.</b>
+
+If you routinely photograph action team sports, want to make movies of your children, or habitually wander in bad neighborhoods, the FD95 and/or FD97 are probably not for you. However, for a wide range of portrait, landscape, buildings, parties, wildlife, limited-action, and short movies, they are superb. Considering I came from an old-style, adjust-everything-yourself SLR, the quality of the point-and-shoot photography is amazing.
+
+
+<b>See Also:</b>
+
+Sony Mavica MVC FD95: <a href='/elec-review-2600-39C22D4-396E1AA8-prod4'>http://www.epinions.com/elec-review-2600-39C22D4-396E1AA8-prod4</a>
+Sony Mavica MVC FD97: <a href='/content_63018602116'>http://www.epinions.com/content_63018602116</a>
+Fuji Finepix S602 Zoom: <a href='/content_64254873220'>http://www.epinions.com/content_64254873220</a>
+
+Digital Cameras for Bunnies: <a href='/content_2654445700'>http://www.epinions.com/content_2654445700</a>
+CD Burners for Bunnies: <a href='/content_2645663876'>http://www.epinions.com/content_2645663876</a>
+
+Just cut&paste the URL into your browser's address window.
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

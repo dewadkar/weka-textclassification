@@ -1,0 +1,181 @@
+DOC>
+<DOCID> 27737 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_PowerShot_S100 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-2E85-41BD11F-3953FDA8-prod4 </URL>
+<TEXT>
+            I think that for the non-professional digicam buyer there are only two real choices: the Canon S100 and the Fuji MX-4700 due to their size and weight and usability. The following review highlights the pros and cons of each from the viewpoint of the Canon camera
+
+[LCD]  Both cameras have bright LCDs that are easy to see however
+      + Canon has anti-reflective coating on the LCD makes it viewable in 
+         direct sunlight, Fuji has glare in sunlight
+      - Canon's anti-reflective coating makes the LCD soft and easily 
+         damaged, while the Fuji is protected by a hard (but reflective) 
+         coating
+      - Canon 1.5&quot; vs Fuji 2.0&quot; (diagonal)  
+
+[Zoom when shooting]  
+- Canon has 2X optical vs Fuji 3X optical. Both have 
+                        4x digital zoom
+                     - Fuji's optical/digital zoom is stepless and smooth.
+                        Canon is not as smooth, noisier, and requires you 
+                        to zoom full optical, then it makes some  
+                        noise/pauses for 2 seconds and then switches to 
+                        2X digital zoom. Repeat for 4X zoom.
+
+[Zoom on playback]   
+-  Canon's zoom is fixed at 2.5X and you can only 
+                        scroll left/right between the top/middle/bottom 
+                        sections of the image.
+                    -  Fuji lets you zoom from steplessly up to 4x to 15x 
+                        (depending on the shot's resolution) and you can 
+                        scroll anywhere you like easily using its 4-way 
+                        buttons
+
+[Low-Light shooting]  
++ Canon's images are more accuate without flash 
+                        while the Fuji has a yellow cast
+                     + Canon can focus in complete darkness, Fuji has 
+                        problems focusing in low light, but it has 
+                        an ISO of 200-800 versus Canon's ISO 100 (higher 
+                        sensitivity)
+
+[Interface]     
+      -  Fuji is very easy to use, has 4-way direction 
+                         switch with a changing LCD behind it. Switching 
+                         through menus are very fast while the Canon are 
+                         delayed 1/2 to 1 second for each button press 
+                         and the menus are not as intuitive
+
+[Macro]  
+    Both cameras have motion/blur warning
+               - Canon has no autofocus warning, Fuji does
+               + Canon gets as close as 4&quot; while Fuji is 8&quot;               
+    
+[Erasing a picture]
+   Fuji:  Press Menu x 3
+                    Canon:  Press Menu, SET, SET, RIGHT, SET
+                           
+[Shooting/Playback]
+    Both cameras have a convenient toggle switch for 
+                      choosing between shooting and playback modes. 
+                    +  The Canon lets you hold down the shutter after 
+                        taking a shot to see the shot for as long as you 
+                        hold it down. Release button to take another 
+                        shot. 
+                    -  When switching from shooting mode to playback 
+                        mode, the Canon's lens retracts/pauses for 2 
+                        seconds when you try to scroll through pictures. 
+                        The Fuji lens stays extended until you turn it off
+                    +  Canon's LCD turns on automatically on shoot mode 
+                        while the Fuji requires a push of the &quot;disp&quot; 
+                        button 
+
+[Battery]
+  + Canon comes with a quick 2-hour &quot;smart&quot; charger that knows 
+             when the battery is fully charged, but it is still recommend 
+             you remove the battery after 24 hours to prevent battery 
+             damage, the Fuji is a &quot;dumb&quot; charger that charges full blast 
+             and you must remove it after 13hours
+          + Canon uses Lithium battery, which is lightweight(1oz)and has 
+             little discharge over periods of time when the battery is  
+             unused while Fuji's NiMH discharges ~3-5% per day.
+          - Extra Lithium batteries are $45, so carrying spare batteries 
+             is costly, while the Fuji comes with 4 AA but only uses 2  
+             AA NiMH at a time which are $7 a pair.            
+
+[Software]
+   +  Canon includes Photostitching software to blend
+               together several photos into one, useful for landscape   
+               shots
+            +  Canon lets you upload pictures to camera, Fuji you can 
+                only download
+            -  Canon's software is slow and not intuitive and takes 10 
+                seconds to load 
+
+[USB Transfer]  
+- Fuji, plug in the USB cable, and 2 seconds later it
+                 appears as a removable drive, the Canon is still loading
+              - Canon pauses 1-2 seconds with a hard disk write after  
+                 each picture is copied, the Fuji copies as fast as USB 
+                 can handle with no pauses
+              - When connected to the computer the Fuji displays the 
+                 camera status with its LED and secondary LCD while the 
+                 Canon has no status, with only LED blinks 
+                 when copies are taking place.
+
+[Movies]
+  - Fuji can store up to 80 seconds of continuous video at 10fps 
+            with sound as .AVI files and can also playback the movies 
+            with sound on the camera itself. Canon has no movie feature.
+
+[Underwater accessory] 
+ + Canon has a $199 optional underwater case that 
+                          lets you take it up to 10 feet underwater
+
+[Resolution]
+  Canon 2.1 megapixel CCD 
+               640x480  (normal only)
+              1600x1200 (normal,superfine)
+             Fuji 2.4 megapixel &quot;Super&quot; CCD
+               640x480  (basic,normal,fine)
+              1280x960  (basic,normal,fine)
+              2400x1800 (basic,normal,fine)
+
+[Scrolling through images]
+At 640x480,    
+Fuji is almost instantaneous
+                                      Canon is ~1/3 second
+At 1280x1200,  
+Fuji is ~1/3 second
+                                      Canon is ~1 second
+
+[Lag times]
+  From OFF to ON:  Both cameras ~2.5 seconds
+            From ON to OFF:  Canon is 2 seconds, Fuji is 1/2 sec slower
+
+            [Shutter LAG] (when taking picture with autofocus)
+                Canon:  ~1.5 seconds
+                Fuji:   ~0.9 seconds
+
+[Battery Life]
+  Canon  Replay time: 50 min
+                       Shooting LCD ON: 85 shots
+                       Shooting LCD OFF: 270 shots
+               Fuji   Replay time: 78 min
+                       Shooting LCD ON: 80 shots
+                       Shooting LCD OFF: 230 shots
+
+[Flash distance]
+  Canon   7-10ft
+                  Fuji  10-13ft
+
+[Included Media]
+  Canon   8MB Compact Flash
+                  Fuji  16MB Smartmedia
+
+[Dimensions]
+    Canon 3.4 x 2.2 x 1.1  (inches)
+               Fuji  3.1 x 3.8 x 1.3  (inches)
+
+[Weight]
+    Canon  210g (7.4oz) including batteries
+           Fuji   310g (10.9oz) including batteries
+
+[Case material] 
+ Canon  silver/gold stainless steel (smudges somewhat easily)
+                 Fuji  silver magnesium alloy
+
+[Heat] 
+ Canon gets significantly hot when in use while the Fuji gets warm
+
+[Price]
+  Canon ~$599
+         Fuji ~$699
+
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

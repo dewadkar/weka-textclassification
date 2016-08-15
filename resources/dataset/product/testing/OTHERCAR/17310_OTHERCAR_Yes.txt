@@ -1,0 +1,13 @@
+DOC>
+<DOCID> 17310 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2001_Chevrolet_Malibu </PRODUCT>
+<URL> http://www.epinions.com/content_26099289732 </URL>
+<TEXT>
+            The 2001 Malibu from Chevy is a great choice for a family car.  It's a delight to look at, with smooth lines and a long body.  There is more than ample room in both the front and back seats, accommodating even very tall and wide passengers.  The trunk room is probably the best in its class, with room for an entire family's worth of luggage.  Its handling is tight, pickup is peppy, and the suspension allows for a wonderfully smooth ride.
+However, fans of muscle cars will be disappointed.  With a standard V6 and less than 180 HP, the Malibu lacks the "oomph" of many newer cars.  Its power is adequate for any family needs, but only adequate.  Thus, if you want a fine family car, this is the choice for you; but if you seek excitement, look elsewhere.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,40 @@
+DOC>
+<DOCID> 8491 </DOCID>
+<PRODUCT> Digital_Cameras/_Fuji_Film_FinePix2600__619786 </PRODUCT>
+<URL> http://www.epinions.com/content_57136680580 </URL>
+<TEXT>
+            I'm not a digital photography afficionado.  As of this writing, I am a digital photography novice.  But I know what I like, and this camera is it.
+
+This review isn't go to be very technical, because I'd be out of my depth, but here's how my experience with this camera went:
+
+I got the camera in the mail (bought it from QVC), took it out of the box, put the batteries in it, started taking pictures.  Point it, shoot it, that's it.
+
+The instruction manual is well-written and I sat on the couch and read through it in about 15 minutes with the camera on my lap.  All the controls are well-laid out and easy to find, and the icons do a good job of telling you what control does what.
+
+After taking some pictures, I went down to my Windows XP Home-equipped PC, plugged the USB cable in the computer and the camera and -- viola! -- I heard a little bee-bop sound and the the camera appeared in My Computer as my G: drive.  I opened it, and copied the pictures off.  I disconnected the camera and I heard a little boo-beep sound and the G: drive disappeared (it does the same thing if you turn the camera off while it's connected).  
+
+I've had the camera for about four months now, and I have never had a problem with it.  It takes beautiful pictures at five different quality levels.  I set it on the middle level, which gives me pictures at 640 x 480 resolution.  I have never taken it off this setting -- never had a reason to (I know, I know -- there's probably some reason to use some other setting, but I don't know what it is...).
+
+You can review pictures on the little viewer screen and delete the ones you don't want right on the camera.
+
+It can also take 20-second video clips, but I can't seem to get the lighting right.  It seems very dim whenever I do it.  Fun to play with, however I have no real use for it.
+
+I have never taken the memory card out of the camera (I actually had to remove it for this review to find out how big it was -- I couldn't find it because I've never had to touch it). All transfers to my PC are done using the included USB cable.
+
+Speaking of things I've never done -- I never loaded any driver software.  The CD that came with it is still sealed.  With Windows XP Home, I just connected the computer and camera with a USB cable, and they started talking to each other.
+
+My only problem is that I get a lot of red-eye.  I have no idea if this is the fault of the camera or if I'm just clueless.  I have it set to the "Reduce Red Eye" setting, but I still get some.  For pictures I want to keep, I do a little image editing and that solves the problem (Microsoft Picture It! is good for this).
+
+I wish I could tell you how many pictures I get on the card (16MB Smart Media), but I really don't know.  At the quality level I'm shooting at, I've had 20 or so pictures on it.  I've never run out of space though, because I can "prune" the pictures I don't want right on the camera.
+
+In the end, here's the bottom line:
+
+If you don't know the first thing about digital cameras and don't want to learn, this is the camera for you.  I can't go into technical details about why this is better than that, but my experience with this product has been utterly painless and satisfying in every respect.
+
+It's like my Honda Accord -- it simply does what you ask it to with no complaints.  It's very low maintenance, very high fun factor.  No worries, just great pictures.  That's all I ask for in a digital camera.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

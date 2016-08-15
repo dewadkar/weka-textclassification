@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 10011 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Kia_Sephia </PRODUCT>
+<URL> http://www.epinions.com/auto-review-5343-176CC8D0-3846D394-bd1 </URL>
+<TEXT>
+            Here is a handy dandy little car.  It's cute, affordable, and fun (for the most part).  Lots of reviews of this car will tell you that it doesn't corner too smoothly or that road noise is a big problem.  I've driven them before, and I can honestly say that neither of those was a major problem.  They will also point out that the reliability is questionable since this is a fairly new car; that, however, has a lot to do with what kind of driver you are.  In fact, I think this is a pretty good car for it's price class.  It's affordable enough so that people who can't afford a new Corvette this year can still have transportation, and i think that reviewers need to keep that in mind.  This car is not made to be luxurious.  The people buying these cars aren't looking for that.  If they could afford wonderful cars with a lot of power and reliability and a great ride, they wouldn't be looking at the Sephia in the first place.<br><br>
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

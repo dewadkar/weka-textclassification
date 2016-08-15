@@ -1,0 +1,58 @@
+DOC>
+<DOCID> 12196 </DOCID>
+<PRODUCT> Digital_Cameras/Aiptek_Mini_PenCam_1_3_Digital_Camera__Camera_PCM13 </PRODUCT>
+<URL> http://www.epinions.com/content_97416810116 </URL>
+<TEXT>
+            <b>What is it and why did I buy it?</b>
+My two sisters and my parents live in India. In order to cut down on some of the LD costs, we started to use <a href="/content_35006942852">Yahoo Messenger</a> to keep in touch. As soon as Yahoo started offering video chat, I felt the need to own a web cam, so my mom could video-admonish me to eat right and lose some weight (from halfway across the world). I did some basic comparison shopping and stumbled upon this curiously diminutive camera that promised to &#145do-it-all&#146. This was a purely impulsive purchase. It seemed a good idea at the time. My primary use for this camera was as a web cam on Yahoo messenger. Secondary was to take pictures. I paid $89 from www.erwincomp.com.
+
+<b>What is included?</b>
+Mini Pencam,
+Adjustable swivel desk stand,
+USB cable,
+Applications and Drivers CD with the following software on it:
+Camera Manager (camera interface), MS Netmeeting, Cyberlink Video Live Mail, Ulead Photo Express, Ulead Video Studio, Ulead Cool 360 and Ulead Photo Explorer.
+
+I did not use or install most of the programs because I prefer to use Adobe Photoshop to edit / manage my digital images. The drivers included are not Windows XP tested or approved. Aiptek advises you to continue installation by ignoring WinXP warning messages. Although this did get the camera working with my PC, it did cause far too many system irregularities. Uninstalling and reinstalling the Aiptek drivers / software did not seem to help either.
+
+<b>What&#146s HOT:</b>
+
+<b>Extremely small size.</b>
+This is the first thing you will notice out of the box. It&#146s dimensions are 1.3"W x 1.22"D x 3.54"L, and it weighs just 47.5g without the batteries. The lanyard ring can be used to attach a neck strap, or you can literally use it as a key chain. The plastic construction is quite sturdy and can withstand reasonable abuse. The location of the shutter release button and the optical viewfinder, allow for quick single-handed use. Very small means you won&#146t think twice about throwing it in a bag or sticking it in your pocket, and taking it with you everywhere you go. When used as a web cam, it sits in the supplied adjustable swivel stand, and connects to your PC with the supplied USB cable.
+
+<b>Simple Layout and easy to use.</b> 
+You won't need to read the instruction manual to start using this camera. The layout is fairly simple. It only has two buttons. On top is the shutter release/select(for display options) next to a lanyard ring, and toward yourself is a the camera settings button, an LCD window (LCD only displays camera settings, it cannot be used as a viewfinder.) and the optical viewfinder eyepiece. The camera settings button cycles thru the following functions: Power on, Camera Mode, Video Mode, Self Timer mode, Single erase, All Erase, LO/HI Resolution. On the side is a proprietary jack for the USB cable. The optical viewfinder is a simple straight see thru job. On the front is the main lens, which has a focus ring that can be set as follows:
+For extreme close ups &#150 Turn the ring to line up to the flower icon. 
+For people/mid size shots &#150 Turn the ring to line up to the middle.
+For landscape/people shots &#150 Turn the ring to line up to mountain icon.
+At the bottom is the battery compartment (2xAAA) with attached flip away cover.
+
+<b>Digital camera with web cam and video capture modes.</b>
+Aiptek (Advanced Internet Peripheral Technologies) has included a CMOS sensor to capture all images. Although these sensors inherently reduce digital noise, they are notoriously light hungry and demand plentiful ambient light to take good pictures. The digital camera has two resolution modes. The resolution is 1248x960 in the &#145Hi&#146 setting, and 640x480 in the &#145Low&#146 setting. 
+Decent picture quality at the High resolution setting. In the movie mode, the camera captures AVI format 30 second video clips at 624 x 480 (Hr) and 10 fps, and 120 second clips at 304 x 240 (Lr) and 10 fps. These files are the perfect size for e-mail attachments and PowerPoint presentations. When used as a PC cam or web cam, the camera captures live video at 20 frames per second. This feature is heavily dependent on your internet connection speeds and the maximum fps (frames per second) allowed by your video conferencing service provider. On the rare occasions that I got it to work on my weekend family chats, it looked like time lapse photography. But I feel the blame for this lies squarely on Yahoo Messenger and Yahoo chat servers.
+
+<b>Limited but sufficient internal memory.</b>
+Aiptek has included two types of memory dedicated for two separate uses. First there is 16 MB of built-in SDRAM. This is used to store 30 seconds of &#145Hi&#146 and 120 seconds of &#145Low&#146 resolution AVI movie clips. There is additional 16 MB built-in Flash memory. This is dedicated for storing digital still images. It can store up to 50 &#145Hi&#146 and 160 &#145Lo&#146 resolution images.
+
+<b>What&#146s NOT:</b>
+
+<b>It needs mucho light to take good pictures.</b> 
+In low light conditions the auto white balance and auto exposure features kept alternating the image between dark and light shades. This is when I wished this camera had a flash. The only time this camera took good pictures was outdoors in bright sunlight. In almost every other situation the pictures came out grainy. In a brightly lit room, the web cam was only transmitting a very dark and grainy picture.
+
+<b>Web cam feature did not work with Yahoo Messenger.</b> 
+My Yahoo Messenger failed to recognize this camera. This was the primary requirement for my purchase of this camera. All my family members use Yahoo Messenger to keep in touch. It was however compatible with other video conferencing software like Netmeeting and MSN Messenger. No comment about AOL IM because I don't use AOL. Well, I ended up buying another Logitech web cam which worked just fine.
+
+<b>Drains batteries in standby.</b>
+The camera operates on 2 x AAA alkaline batteries. The PC / web cam is powered thru the USB port. When not in use, the camera automatically shuts off after 60 seconds and goes into Power Saving mode. Aiptek claims a battery life of 1 week. This is accurate if you keep the internal memory clean. If you have any pictures still stored on the internal memory, the battery life will be severely reduced. I took 3 pictures. When I turned the camera back on after 4 days, the batteries were drained and my pictures were lost. The only way to save batteries is to download any pictures and remove the batteries between use.
+
+<b>The Bottom Line:
+Take a 1.3MP digital camera, add PC/web cam and video clip capture functions, shrink it down to the size of a key-chain and you have the Aiptek Mini Pencam. It&#146s a camera you can have lots of fun with. But for serious photography, leave it at home and take your <a href="/content_93226503812">Canon S50</a>. It however makes a great birthday gift or a stocking stuffer.</b>
+
+==================================
+
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

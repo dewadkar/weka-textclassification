@@ -1,0 +1,61 @@
+DOC>
+<DOCID> 12581 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_CanonPowerShott-Canon_PowerShot_S10 </PRODUCT>
+<URL> http://www.epinions.com/content_13656231556 </URL>
+<TEXT>
+            Finally decided to jump on the bandwagon and get a digital camera. I didn't want to just run out and grab the first one I saw because I've seen my share of horrible pictures taken with digital cameras. I checked various sites that have reviews and comparisons (including epinions) and thought that the Powershot S10 seemed to be the best suited for my needs.
+Ordered it online for $339 and additionally a larger CompactFlash memory card, 2 rechargable batteries and the charger (which 1 of those batteries comes with). 1/2 hour after it arrived, I was taking and e-mailing my first pictures after just a quick browse of the manual.
+It is quite easy to use, nice quality pictures and is nice and small so it can be taken anywhere.
+For someone who will use this camera for recreation only, this camera definitely does the trick.
+
+The camera only comes with a 8 megabyte compactflash memory card which means you have a pretty limited space to store your pictures until you either delete them or export them to your computer. [This is why I got the additional card] Of course, the larger picture size (format) you use, the less pictures will fit within that space.
+
+There are 3 picture size settings to choose from and 3 picture compression settings to determine the filesize (and quality) of your pictures:
+
+<b>Picture size settings available:</b>
+<i>(Unit of measure is pixels)</i>
+Large: 1600 X 1200
+Middle: 1280 X 960
+Small: 800 x 600
+[This setting effects picture size]
+
+<b>Picture compression settings available:</b>
+Normal, Fine, Super Fine
+[This setting effects picture quality]SuperFine being best, but also taking up more space in memory.
+
+So with the 8 meg memory card that is included you can expect to fit (ROUGHLY) this many pictures on the card:
+
+<b>Settings: (# of pictures)</b>
+Small / Superfine: 15
+Small / Fine: 33
+Small / Normal: 61
+
+Middle: Same as above.
+NOTE: I don't see how this is possible, but this is according to Canon themselves. I have not tested this myself as I've only been using "Small/Superfine" as this setting best suits my needs.
+
+Large / Superfine: 4
+Large / Fine: 12
+Large / Normal: 24
+
+Keep in mind, the smaller file size not only takes up less memory but will reduce the download speed and size if you're say e-mailing photos to friends and family.
+
+The camera takes 2CR5 Lithium batteries (1 provided with camera) [$12.99 in a drug store for name-brand, can be found for roughly half that price at discount clubs or for off brands elsewhere] *OR* the rechargable NB-5H battery (sold separately - but 1 comes with the charger, part# DK110)
+
+<b>Camera size</b>
+It's a tiny one alright! :)
+It's 4.1 inches long, 2.7 inches high and 1.3 inches deep (that's with the camera off and the lens not sticking out)
+
+According to Canon it weighs 9.5 ounces which does not include battery or memory card.
+
+<b>More</b>
+The camera comes with software which allows you to take the pictures from your camera and put them on your computer (and edit them to an extent).
+
+The PowerShot S10 connects to your computer using either the USB port or normal serial (rs-232) port, depending on which you have available.
+
+With mine connected to the USB port, getting the pictures from camera to the computer is reasonable in speed. It's not as fast as copying files to and from a hard drive, but it's faster than writing to a floppy.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

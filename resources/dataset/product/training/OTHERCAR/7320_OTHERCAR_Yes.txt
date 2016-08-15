@@ -1,0 +1,66 @@
+DOC>
+<DOCID> 7320 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_OlympusDigitall-Olympus_D-460_Zoom </PRODUCT>
+<URL> http://www.epinions.com/content_41988099716 </URL>
+<TEXT>
+            If you want a digital camera with a zoom and great picture quality the Olympus D-460 Zoom is a great choice.  It has several flash modes, and lots of settings for taking your pictures, as well as a clock.  It is very easy to use and upload the pictures to your computer.
+
+I will list some of the settings on the camera.
+
+FLASH MODES
+
+Auto-Flash
+Red-Eye Reducing Flash
+Fill-in-Flash
+Slow Shutter Synchronization Flash
+Red-Eye Reducing Flash+Slow Shutter Synchronization Flash
+
+RECORDING MODE
+
+You can choose how you want your pictures to be saved.  The number following each setting is the number of storeable frames on the 8MB card that comes with the camera.
+
+Uncompressed TIFF-2
+Min. JPEG Compression-18
+Standard. JPEG Compression-36
+Normal Quality-122
+High Quality-32
+
+SOME OTHER SETTINGS
+
+White Balance-Auto,Daylight,Overcast,Tungsten,Fluorescent 
+ISO Settings- Auto,125,250,500
+Sequence Mode-Successive images at 0.5 second intervals.
+Sharpness-Normal or Soft.
+Beep Sound-Turns the confirmation beep on or off.
+Lock In Pictures-Lock pictures from being accidently erased.
+
+BATTERY LIFE
+
+Regular alkaline batteries will not last long at all but using the rechargable batteries you can take a lot of pictures on one charge. How much you use the LCD screen also affects how long they last. 
+
+-The Camera can take 1280x960 or 640x480 pictures.
+-When you are viewing your pictures on the LCD screen you can zoom in and see closer 3x.
+-I would recommend getting a Parallel or Usb reader to upload pictures to your computer because the serial port takes too long.
+
+COMES WITH....
+
+Wrist strap
+Video Cable
+RS-232C Serial Cable
+Conversion connector for Apple Macintosh computer.
+CR-V3 lithium batter pack
+Software CD
+Instructions/Warranty card
+8MB Smart Media Card
+
+Doesn't come with a AC adapter. 
+
+
+
+ 
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

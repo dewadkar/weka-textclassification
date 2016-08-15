@@ -1,0 +1,19 @@
+DOC>
+<DOCID> 16497 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital-Relisys_RelisysDimeraProductFamilyily-Relisys_Dimera_2000 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-7E1F-18207376-3968B46D-prod5 </URL>
+<TEXT>
+            I ,like the Camera but I am still having difficulty with the IXLA Digital Camera Suite. When I put in for a New Album, It Crashes. I checked my CD for nicks or anything... Nothing... So I know the CD is alright but yet I get a Kernel32 error. This only happened just recently. The pictures it takes are great, But The Software needs updated. Great for a Starter. This Camera is inexpensive and worth it's time but Software could use a good kick.. :)
+You can view your presentation at home on your computer, print pages as a hard copy, transfer your presentation to a floppy disk for sending to friends and relatives, or build a Web page on the Internet.
+
+
+To get your photos looking their best, make sure that you have your graphics card set to 16-bit color or higher.  To check if you have your graphics card set to this setting, choose Display from the Windows 95 Control Panel.  Click the Settings tab.  The Color Palette group should be showing High Color (16-bit) or True Color (24 bit).  If it is lower than this setting (e.g. 256 color), then choose High Color or True Color from the list box.  You may need to restart your computer after making this change.
+
+
+<br><br>
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

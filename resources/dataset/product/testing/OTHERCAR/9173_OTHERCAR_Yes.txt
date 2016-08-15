@@ -1,0 +1,21 @@
+DOC>
+<DOCID> 9173 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Toyota_RAV4 </PRODUCT>
+<URL> http://www.epinions.com/auto-review-2693-2181273F-3A2EEEFB-prod2 </URL>
+<TEXT>
+            2001 Toyota RAV4 The 2001 RAV4 is a 4-door, 5-passenger compact sport utility vehicle available in two
+trims, the 4x2 and 4x4. 
+Upon introduction, the 4x2 is equipped with a standard 2.0-liter, I4, 148-horsepower engine that consumes
+24-mpg in the city and 28-mpg on the highway. The 4x4 is equipped with a standard 2.0-liter, I4,
+148-horsepower engine that consumes 22-mpg in the city and 26-mpg on the highway. A 5-speed manual
+transmission with overdrive is standard, while a 4-speed electronically controlled automatic transmission is
+optional. 
+The RAV4 has been redesigned for 2001. This vehicle is intiguing because it fight well in the SUV battle
+for supremacy, but it is not as monstrous as other SUVs while coming at only 60 percent of the price tag. 
+This is a great looking automobile, and reminds me more of the old GEO Trackers rather than SUVs.<br><br>
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

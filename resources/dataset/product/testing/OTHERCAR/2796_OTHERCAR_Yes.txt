@@ -1,0 +1,33 @@
+DOC>
+<DOCID> 2796 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_OlympusDigitall-Olympus__D-400_Zoom </PRODUCT>
+<URL> http://www.epinions.com/elec-review-15E2-D71962E-394D5B52-prod5 </URL>
+<TEXT>
+            I bought this camera based on magazine reviews and the ability to preview (and delete) pictures immediately after taking them.  I bought a factory refurbished model for substantially less than retail.  The camera has four modes that it will save pictures in, one 640x480 mode, two high-res, compressed JPEG modes (low, and high quality), and one high quality, no compression, mode.  I take all of my pictures in the high quality (low compression) JPEG mode.
+
+The camera has a built in lens-protector in the form of a door that slides over the lens.  This same mechanism is used to turn the camera on and off.  There is also a built-in flash that one must flip up to use.  I like this, as it saves power by keeping the flash from going off in inappropriate settings.  It also puts the flash just a little bit further away from the lens.
+
+The camera came with an 8M SmartMedia card and I bought an additional 32M SmartMedia card for it.  (I bought and used the 32M SmartMedia card before discovering that I shouldn't be able to use it with it.  Perhaps it received an upgrade of some sort while being refurbished...)
+
+I've had this camera for about eight months now, and have had the chance to use it over the holidays as well as the vacation that I just got back from.
+
+The camera is small, lightweight, and easy to use.  It takes very good pictures, better than I was expecting from a technology that is still fairly young, and is very convenient.  Being able to preview and delete the pictures that obviously didn't work right away is a very nice thing.  No need to develop those pictures that came out blurry, or just weren't set up right.  For that matter, no need to develop.  Just pit the SmartMedia into the Camedia adapter and copy the pictures off.  It's far more convenient than traditional photo cameras ever were.
+
+The camera works well in a variety of lighting, and has controls for manually adjusting the light settings.  It also has a timer.  The zoom is a very nice feature that I used quite a bit on vacation.  There were only a couple times that I wished for a more powerful zoom.
+
+Annoying things:
+
+The controls on the back of the camera, and their little symbols, are not immediately obvious.  One has to dig around through the menus, and all of the little symbols used there, for a while before figuring out how to control some of the settings.  It would be nice if the menu system was more user-friendly.
+
+The time that it takes for the camera to extend and retract its lens (~2 seconds) gets annoying.  One can't just whip it out, open it up, and snap a picture.
+
+If taking pictures with the display turned off, you can't preview the picture just taken without turning the camera off by shutting the sliding cover.  That means waiting for the camera to retract it's lens, closing the door, previewing the picture, then opening the door again, and waiting for the camera to extend it's lens again, before being able to take another picture.
+
+Battery consumption...  No great surprise there.  NiMH rechargables are highly recommended.  A single, fully-charged set, should last for a two-week vacation if you don't take pictures with the display turned on.
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,22 @@
+DOC>
+<DOCID> 15950 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_EpsonPhotoPCC-Epson_PhotoPC_650 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-451C-4B7EAE69-3A5B51CE-prod3 </URL>
+<TEXT>
+            This is the first digital still camera I've ever owned, although I have had the (mis)fortune of using an early-model (640x480) Sony Mavica. I got the PhotoPC 650 because it has the best price in its class (US $270 equivalent). Digital camera availability in the Philippines is quite poor, limited mostly to Kodak and some Casio and Olympus models, plus a horde of cheap, low-resolution webcam type devices.
+
+I'm not much of a photographer, I've never really had the bug, and my experience with digital cameras is minimal. The PhotoPC 650 has its strong points -- fairly good resolution (1152x864) for its price, a generous memory capacity (8MB CompactFlash; the Kodak DC215 only comes with 4MB), fairly good cycling time per shot, and good software support -- I use Linux with the GPhoto application which handles the PhotoPC 650 quite well. The camera also has 37mm threads for optional camcorder-style wide-angle, macro- or telephoto lenses, and a tripod mount. The latter two functions are of somewhat dubious utility: it doesn't make very much sense to buy an expensive tripod or telephoto lens and attach it to a low-end camera like the PhotoPC 650.
+
+The bad parts: no optical zoom. This is a low-end camera; the only similar models with an optical zoom are the Casio QV5000SX/QV5500SX and Kodak DC215, which both cost about US $70 more. The Kodak could be considered a better buy, but unlike the PhotoPC 650, it has a fixed-focus lens, so long-range shots tend to be a bit fuzzy.
+
+More bad stuff: the autofocus is completely stumped by long-range night shots. There's no manual exposure timing so long-range night shots are impossible. I tried one, but it was ugly; even after fixing up in a photo enhancement program, there was too much noise. Of course, short range shots can be handled well enough, using the built-in flash.
+
+It's a bit on the bulky side, and the viewfinder is not a &quot;through the lens&quot; type. Of course these features shouldn't be expected in a camera in this price range. The PhotoPC 650 I got is the Asian version; no JumpShot USB reader. So downloading pictures can be an excruciatingly slow experience (about 20 seconds per shot).
+
+All in all, however, the PhotoPC 650 satisfies its intended audience, who are looking for a first camera for simple point-and-shoot applications. People with slightly higher aspirations might be better served by the Kodak DC215 Millennium Edition, which has a 2X optical zoom and a manual exposure adjustment, which might make it handle those night shots better. <br><br>
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

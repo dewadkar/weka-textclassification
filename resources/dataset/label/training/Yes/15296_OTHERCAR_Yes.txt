@@ -1,0 +1,76 @@
+DOC>
+<DOCID> 15296 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_SonyMCVV-Sony_MVC-FD83 </PRODUCT>
+<URL> http://www.epinions.com/content_45366283908 </URL>
+<TEXT>
+            I've recently had the pleasure of borrowing the <b>Sony MVC-FD83 Digital Camera</b> for an extended period of time.  After using my own Olympus Camedia D-490 digital camera, and loving it completely, I was surprised at what the Sony near-equivalent had to offer. Also known as the Mavica line of cameras, Sony has made it nearly foolproof to take and view digital pictures.  While this particular model only offers 1.3 megapixels, which translates into picture-perfect 4x6 photos, what you lack in high resolution, you gain in simplicity and ease of use.
+
+One of the most compelling reasons to go with the Mavica is its use of high-speed floppy diskettes for storage rather than micro-memory boards or memory sticks.  While the floppies are high-speed within the camera, they work like any other 3 1/2" floppy when inserted in your PC.  Transferring pictures was never any easier, however it is hindered by a slow transfer rate inherent in floppy drives. Additionally, depending on the resolution setting, you can store many pictures at one time on the floppy.  But the trade off in simplicity of moving the pictures from camera to <i>any</i> computer is well worth it - usually.
+
+But Sony took it one step further by giving the user the option of using a Memory Stick for flash memory writing abilities. This was, you don't have to wait as long to write to the floppy when taking multiple pictures.  Another well-thought out option from Sony.
+
+The camera itself is rather light-weight and, despite its odd shape, is very comfortable to use.  The LCD view screen, at 2.5 inches is crisp and bright, with the optional optical view finder also a handy addition.  The optical zoom gives you a somewhat standard 3x range with the digital zoom adding on 6x more.  Digital zooms, as in all digital camera, can sometimes be useless as the magnification gained is riddled with pixelation.  Better to stick to the optical zoom limits to insure the clearest image available.
+
+The on-board menu system is a joy to use.  Simple and concise, unlike my Camedia, you have a wealth of options here (like flash settings, storage and image settings, disk-formatting capabilities, etc.). Battery life is where I have a complaint.  First, it doesn't use standard AA batteries, unlike my Camedia.  It uses Sony-specific batteries that are rechargeable but expensive.  The battery that comes with the camera lasts 1 to 1 1/2 hours - if you're lucky.  A larger capacity battery is available, but it makes the camera heavier and a little less comfortable to use.  As a comparison, I've been using my Camedia with its first set of batteries for over 6 months, and they haven't died out yet - not even close actually.
+
+So the Sony's a power-hog.  That's usually not a problem, just make sure you have a spare battery pack with you and you'll be fine.
+
+This camera also takes low-res MPEG movies (no more than 60 seconds typically) which is a nice feature, but seldom used.  
+
+The included image software is okay at best, but I prefer to use other 3rd party packages like Photo-It and Photo-Editor.  Still, you'll find it satisfactory for some basic functions.
+
+All in all, this is a solid, easy to use camera that delivers beautiful pictures.  The resolution is on the low-end of the scale, but for what it can handle, you won't be disappointed.  The camera is a little pricey, especially compared to some of its competitors, but you do get what you pay for in this case.  
+
+If you're looking for a digital camera that's easy to use, easy to set up, and produces high-quality images, then look no further than the <b>Sony MVC-FD83 Mavica Digital Camera</b>.
+
+Camera specifications are listed below.  Thanks, as always for reading...
+
+<b>Camera Specs</b>
+
+* Maximum image resolution: 1280 x 960 
+* Image resolution options: High: 1280 x 960
+* Maximum CCD resolution: 1.3 megapixels 
+* CCD size: 0.37 inches 
+* Optical viewfinder: Yes 
+* LCD screen size: 2.5 inches 
+* LCD swivel: No 
+* Aperture: F/2.8-2.9 
+* Optical zoom: 3x 
+* Digital zoom: 6x 
+* Compatible memory types: 3.5 inch 2HD floppy disks, Memory Stick (with optional floppy adapter) 
+* Onboard memory: N/A 
+* Image type(s): JPEG, GIF 
+* Uncompressed mode: No 
+* Programmed exposure modes: 5 modes 
+* Built-in flash: Yes 
+* Red-eye reduction: Yes 
+* Fill-flash (forced flash): Yes 
+* Flash-off mode: Yes 
+* Black and white: Yes 
+* Solarized: Yes 
+* Movie mode: Yes
+* Max. movie length: about 60 secs
+* Audio recording: No
+* Remote included: No 
+* Special effects: Black and white, sepia, negative art, and solarize 
+* Splashproof: No 
+* Compatible systems: Mac, PC 
+* Mac system requirements: Floppy drive 
+* PC system requirements: None 
+* Software included: MGI PhotoSuite 8.1 (Win), MGI Vide* Wave SE (Mac) 
+* Battery requirements: InfoLithium NP-F330 
+* Batteries included: Yes 
+* Rechargable batteries included: Yes 
+* AC adapter included: Yes  
+* Included in box: AC-L10 power cord, NP-F330 InfoLithium battery, A/V cable, shoulder strap, lens cap, software CD-ROM 
+* Width: 5.62 inches 
+* Height: 4.06 inches 
+* Depth: 2.94 inches 
+* Weight: 1.34 lbs 
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

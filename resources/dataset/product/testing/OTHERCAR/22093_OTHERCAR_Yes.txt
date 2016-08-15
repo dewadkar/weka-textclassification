@@ -1,0 +1,25 @@
+DOC>
+<DOCID> 22093 </DOCID>
+<PRODUCT> Digital_Cameras/Kodak_DC215_Zoom_Digital_Camera__Camera_185_3175 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-7015-3335BBA-385066DD-bd1 </URL>
+<TEXT>
+            I've been in the market for a digital camera for some time and my patience paid off.  A friend got the camera as a &quot;spiff&quot; and would you believe she doesn't own a computer!  Needless to say, I was happy to take it off her hands.  
+
+I received the Millennium version, which includes an 8MB memory card (instead of 4) and a USB memory card reader.  The first night I got my hands on it I took it on a &quot;date&quot; without reading the manual.  Fortunately, the simple menus and icons on the back display were straightforward enough for me to be on my merry way without wasting time reading manuals (that time would come later).  So off I went snapping pictures away.  For those of you that are uninitiated, the digital camera is still a bit of a novelty, so people just go nuts seeing the picture you just snapped.  Don't ask me why it's so exciting but people love it (remember waiting for that Polaroid to develop?).
+
+That night I took a good number of pictures, most of which had very poor lighting conditions.  For the most part the auto flash does a decent job unless the subject is too close, in which case your subject will appear too white.  The anti red-eye control does leave something to be desired.   It flashes briefly once, before flashing again and taking the picture (unlike other red-eye controls that flash very rapidly in quick succession) .  It's difficult to train yourself, much less your subjects, to sit still after that initial flash goes off.  Watch out or you'll get lots of heads cropped and people looking the other way.  
+
+Since then the camera has been with me on an assortment of excursions.  My brother had one of the original professional quality digital cameras by Sony.  Unfortunately, the thing was so big and unwieldy that he rarely took it with him.  Not a problem with this one.  You can pack it away and carry it with you everywhere just like most compact cameras (although it is a bet heavier).  I've taken macro pictures, which turned out surprisingly nice, as well as scenery shots with dramatic colors.  I'm consistently amazed at the quality of the photos.  
+
+On the downside, it goes through batteries very quickly.  Although viewing your subjects through the                     1.8&quot; color LCD screen is fun, I don't recommend it if you want to take pictures.   Just doing this for a few minutes seems to suck the life right out the batteries.  If you don't already own rechargeable Nickel Metal Hydride (NiMH) batteries, its time to buy some.  Otherwise any savings in film and development costs are going to quickly be offset by battery purchases.  The zoom lens also leaves something to be desired.  Even a 4x would be a dramatic improvement.  Finally, be careful installing one of these to your serial port if you have other devices connected (Palm users beware!).  Unless you're a hardware geek and know all about IRQ setting and the like, avoid this like the plague.  I spent hours getting my Windows NT system back in order after trying to get this setup.  I finally abandoned it altogether and rely solely on the USB connection to my laptop computer.  The USB card reader works like a charm and is pretty fast.  This should suffice for most people that aren't shackled by WinNT or older hardware  (anybody know anything about WinNT and USB compatibility?).
+
+On a final note, I highly recommend dropping the extra $$ and ponying up for a larger memory card.  I went all out and got a 64 MB card for about $140.  Instead of 28 high-res pics, I now get over 220.  That ought to carry me through most vacations!  Those that want to get very creative will probably have to spend more $$ to get something with better lens options, but for those of us who use a camera primarily for snapshots of friends, family and vacation shots, this is a perfect pick. 
+
+
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

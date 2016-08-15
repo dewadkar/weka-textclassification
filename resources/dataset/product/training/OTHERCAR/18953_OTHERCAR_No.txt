@@ -1,0 +1,18 @@
+DOC>
+<DOCID> 18953 </DOCID>
+<PRODUCT> Digital_Cameras/Nikon_D100_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_80894332548 </URL>
+<TEXT>
+            I took a number of pictures using all formats and decided with this camera RAW is the only way to go because of the widely reviewed "softness" of its jpeg output. However, you have to install Capture 3 software to work with the RAW files - which are in a Nikon proprietary format. A "trial" version of C3 comes with the camera - the real thing costs approx $160. When I installed the C3 software, I noticed an immediate change in my computer (Dell Dimension 8100, all standard components, 512MB RAM). First, a marked slowdown in applications - all apps. Then little things - I clicked to change folder view from list to details and there was a significant lag between click and result; when typing in certain apps, the display lagged well behind the keyboard; scrolling lists would stall and surge, jumbling line items on the display. Things like that all over the place. I un-installed the software and my computer is fine. Now, of course, because it's trial software, there's a little key hidden somewhere and I couldn't reinstall it if I wanted to.
+
+This is only one gripe. Others are: With a camera this expensive, the C3 software should have been free. At least then I could install it when I needed it and dump it the rest of the time. Nikon chose the USB 1.1 transfer protocol(the ONLY way to get RAW files to the PC) that takes a ridiculously long time and requires you to connect the camera to the PC. Why you simply can't read them off a card reader like every other file format is beyond me. There is no ISO 100 setting. Maybe I should've picked up on this in the reviews, but it was a shocker when I realized it. I consider this setting essential. Nikon will likely address these issues (and others) in the mode of a firmware update if enough people complain. But you'll have to send your camera to them for the update (Canon lets you download the updates and load them yourself). How long will it be gone? Finally, I had one problem I couldn't figure out right away and called the Nikon support number on the D100 quick start guide. The guy I talked to was wholly unfamiliar with the camera (the kid at Kits figured it out for me). That scares me.
+
+I use my computer for too many other things to put up with the C3 software, and I'm not willing to "settle" for tif or jpeg quality to avoid the C3 software when I paid $2000 for the camera. And, if I have a problem I want to talk to someone who knows the product inside out. This one goes back.
+
+
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

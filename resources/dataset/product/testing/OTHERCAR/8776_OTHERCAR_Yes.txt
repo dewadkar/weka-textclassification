@@ -1,0 +1,46 @@
+DOC>
+<DOCID> 8776 </DOCID>
+<PRODUCT> Digital_Cameras/Kodak_mc3_Portable_Multimedia_Device_Portable_Audio </PRODUCT>
+<URL> http://www.epinions.com/content_71232294532 </URL>
+<TEXT>
+            I bought this cheaply second hand to use on a trip as a "happy snappy" camera to take on the more adventurous parts of a recent overseas trip and to be able to listen to my favourite musi on the go.
+
+The Mp3 player.
+This part is excellent. the quality is very good, the volume is nice and loud and the presets do it justice. The song ID3 tag is also displayed on the main screen which shows Title, artist, and note.
+the only thing is that the 16MB card supplied can only take around 3 songs :-( This was the first upgrade.
+
+The Still Digital Camera
+I was expecting more. I would have thought with kodak's name on it, They should have been a higher quality. They were on the poor side even for 640x480 shots. alot of speckly colours on the shots due to the compression into JPG format. the other small gripe was the time it took to adjust to a bright or dark light source. it takes the best part of 15 seconds just to adjust to bright sunlight. Darker images never work so this is an OUTDOOR camera.
+The JPG's are a large file size for the quality. The coverter must be very poor. overall it's Okay for the Snaps
+the one very good thing which is what sold it to me is the amount of pictures you can get on that little 16MB flash card.
+
+Video
+This was a bonus. It was actually quite good (in high light of course). the images and smoothness is high quality were good, Email mode, horrible. the only gripe was the format it used, Quicktime, Yuck!
+
+Batteries
+AAA size alkalines cannot cope with video or still mode for more than a minute, NIMH rechargeables will run the MP3 function for hours, the video for 10 min total and the still camera for about 20 Min total which is quite good.
+
+Build
+Good, Very tough ,just two things let it down, the silly battery door which pops open alot, and the really heavy bezel round the lens, screw it off and the camera is a feather!
+
+Software
+Fat, Bloated buy a snap to use, You just drop tha camera into the cradle and use it like a normal hard drive!
+or you can install the MC3 management software.
+there are two parts,
+Kodak Camera connection
+MC3 overlay which is like an album manager.
+
+the camera "files" system is made up like this
++DCIM
+ \mc3_inbox (Photos)
++MUSIC (drag Mp3 files here)
++VIDEO (video files)
+
+Overall
+for the price they are running on eBay at present, they are a good buy, just consider a pack of rechargeables and a new CF card.
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

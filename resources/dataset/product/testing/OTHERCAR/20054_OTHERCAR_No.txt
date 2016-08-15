@@ -1,0 +1,32 @@
+DOC>
+<DOCID> 20054 </DOCID>
+<PRODUCT> Digital_Cameras/428154_Sharp_VN_EZ1U_Internet_ViewCam </PRODUCT>
+<URL> http://www.epinions.com/content_58162318980 </URL>
+<TEXT>
+            While the concept of a palm-size digital video recorder may be intriguing, this product was introduced to a market that wasn't quite ready for it.  Only now is the functionality developing.  There are three basic problems with the device.  It's MPEG-4 format, Sharp USA, and the image quality.  The biggest problem of all at the time the product was released was the cost of smartmedia memory.  Now that it's dropped below $1/meg, it's hardly an issue, but at the time this device was created, it was shipped with 4MB cards that could record literally seconds of video!
+
+IMAGE QUALITY
+
+Image quality is poor.  If you're familiar with highly artifacted web images, or webcams, you know what to expect, only worse.  While you have the choice of several recording modes, the highest resolution is just 1/4 VGA, which is one fourth of a 640x480 screen, or 320x240.  Other modes are about 1/2 that size.  The problem is in 1/4 VGA you get updates only a couple times a second.  Other modes are better in frame rate, but grainy.  All of them are heavily artifacted by compression
+SHARP USA
+
+I bought one of palmsize recorders in Japan about 4 years ago. Sharp Japan did a great job supporting the product, with a website and user groups.  Stateside the options were pretty bleak.  The US website promised an editor that would allow you to "split and combine segments" to create your own movies.  That combine feature never materialized until the recent release of Windows XP, which allows you to directly import and create composite movies.
+
+There have been a few successors to VNEZ-1, but they haven't made it to the US, and probably won't for some time, because market acceptance of this product has been poor.
+
+
+MPEG4
+
+The problem with the MPEG-4 format is another story.  The file size is relatively small, but it's unsupported by any other video editor I can find.  The one program that I've found that lets you input MPEG4 was Magix Audio Video Office, but it doesn't let you save the files to any other format because of "proprietary restrictions"
+
+There's no one to blame for this problem but Microsoft.  They're still battling it out over MPEG-4 in the courts.
+
+SUMMARY
+
+In conclusion,  if you have the need for a digital video recorder to create ratty quality video for your webpage, this camera will do in a pinch.  You're much better off spending the bucks on a decent digital video recorder, and you would get better video from the cheapest analog recorder and video capture system you could find.  But that wouldn't be as cool as having a digital recorder in your pocket, now would it?
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

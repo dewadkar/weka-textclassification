@@ -1,0 +1,41 @@
+DOC>
+<DOCID> 269 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_Camedia_D_510_Zoom_Digital_Camera_D510ZOOM__Camera_D510ZOOM </PRODUCT>
+<URL> http://www.epinions.com/content_46556810884 </URL>
+<TEXT>
+            Having spent the better part of the past 6 months researching cameras, I had narrowed my criteria down to the following:
+
+1) 2.0 Megapixel or higher
+2) USB connection
+3) Fast shutter button to picture time
+4) Non-proprietary battery
+5) Compact Size
+6) $400 or less
+
+The Olympus 510 fit the above bill and then some. The D-510 Zoom is the update to the D-490 version, essentially adding the USB connection.
+It is a 2.11 Megapixel camera, which is important because I wanted to print 8x10 prints without out distortion. 2.11 Megapixel translates to a full size 8x10 print without "blowing up" the image.
+The USB connection is easy to use, only requiring a driver for Windows 98. Windows 2000 and later versions have the driver built-in. It mounts the camera as a disk drive that you can copy the images from. You can also delete the images and copy files back to the card, but I have heard that causes problems. One of the camera sites suggested only copying via USB and using the camera to delete the images.
+The fast shutter button to picture time was important because I had read that some cameras (especially the DC2XX series from another manufacturer) had excessive wait times. That means that when you frame your shot and press the button, as much as 3-4 seconds will elapse before the flash fires and the image is stored. That can mess you up if you have fast moving objects (i.e. my 6 yr. old, 4 yr. old, and 6 month old!) that you're trying to photograph. The D-510 was 1 second or less in my tests.
+Non-proprietary battery meant that I didn't want to be stuck buying an odd shaped special purpose battery to run the camera. Not only are they more expensive, it also meant if you were stuck in the middle of Disneyland and the batteries went, you couldn't just buy some off the shelf to tide you over. The D-510 uses AA batteries, certainly common enough for my needs.
+The D-510 is the same size as our $60 Canon SLR camera, which is slightly larger than a deck of playing cards. It is small enough to fit in a shirt pocket, and not "boxy" shaped like some of the other cameras.
+The price is also definitely right. You can find these cameras all day long for under $400. You will want to accessorize, as the camera comes with an 8 MB card and a set of Alkaline AA batteries. The 8 MB will 16 high quality pictures. The normal alkaline AA batteries will last a LONG time if you don't use the display while shooting. I have been using just the viewfinder, have shot at least 15 pictures, uploaded to the computer, and viewed them on the camera. The battery gauge hasn't moved yet, and I'm just using the generic alkalines that came with the camera.
+As far as accessories, I bought mine at http://www.buy.com and http://www.sterlingtek.com. They are very inexpensive, and for around $150.00 I bought:
+
+1) Maha battery charger and set of batteries. Has AC and DC adaptor to charge at home or in the car
+2) Extra set of rechargeable batteries.
+3) 2 - 64 MB memory cards which will give me 272 total pictures storage (counting the included 8 MB).
+4) Camera case
+5) AC Adaptor so I can upload and view without using batteries.
+6) Travel case for the memory cards. The cards are very small, thin, and fairly fragile. The hard case protects them.
+
+Now for the two cons:
+1) Misaligned viewfinder - The viewfinder has a four black lines that you should center the subject in. The problem is that when you do that you end cutting the top part of the picture off as well as part of the left side. For instance, I did a close up of my 6 month old with her face right in the center. When the picture was viewed, the picture was cropped right above her eyebrows and a small strip on the left. You have to learn to aim a little off when using the viewfinder. The display does a little better, but it reduces battery time from about 250 pictures to about 60.
+2) Software doesn't "talk" to the camera - The included image software has a camera menu with options to copy all images from the camera and to change the camera settings. That function, per the manual and my testing, does not work with the USB cameras. I don't know if it works with the old serial camera or not as it doesn't specifically say. So, what you have to do is connect the camera, drill down to the directory with your pics, copy them to another directory, and then view / manipulate in the software.
+
+All in all, a very nice camera with minimal issues. I would highly recommend the camera to anyone looking for a midrange sub $500 camera.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

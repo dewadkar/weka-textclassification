@@ -1,0 +1,45 @@
+DOC>
+<DOCID> 12354 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Fuji_FinePix_F700_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_120566681220 </URL>
+<TEXT>
+            First of the F700 has a revolutionary CCD it has two sensors next to each other, the S (sensitive) and R (range) sensor.  The S is like a normal sensor and the R is less sensitive and extends the ability to capture dark and light of photos by 400%.
+
+This is all well and true BUT......
+
+The F700 when producing a image inside the camera does not use the R sensor.  I do not say this lightly but have spent a lot of time comparing the raw images from the S and R sensors (the camera does have a RAW output mode) with JPEG images created by the camera and my conclusion is, all of the JPEG images created by the camera use ONLY the S sensor.
+
+I refer the interested reader to this link for further explanation of the process and conclusions and images.
+
+http://forums.dpreview.com/forums/read.asp?forum=1012&message=6778679 
+
+The R sensor can do everything that Fuji claims but again, the camera does not use it when creating an image, you must process the raw file and the included fuji raw converter (does show some use of the R sensor) is definitely NOT up to the task of showing what the R sensor can do. It took custom software to really show that the SR super CCD really works.
+
+A pity too as the camera is very nice.  Even without the R sensor it produces very good images.  It is very fast, can shoot 5 frames in a second and a good mix of manual controls.  It is a very nice size and the controls are very well laid out.
+
+It is such a good camera that the problems stand out like sore thumbs.
+
+When you are in preview, you do not get any information about what settings the picture was taken with.  A major omission in any camera but especially a problem with a camera with manual modes.
+
+There is no manual focus assist.  That is, you only look at the LCD to figure if the focus is correct in manual focus mode.  Even the lowly Canon A70 gives you a bar graph indicating in some way the distance you are focusing at.
+
+The tripod mount is way to the left, it should be centered.
+
+There is no fine jpeg compression, only normal.  This creates some blurring in images which leads to the next problem.
+
+In general, the sharpening is very harsh, even in 'soft' mode there is some sharpening and the contrast/saturation are pretty high to get the fuji color.
+
+These would not be a problem but you have only two settings, normal and chrome for contrast/saturation.
+
+So summary, a very fine camera with a revolutionary sensor but the camera was crippled.
+
+
+
+
+
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

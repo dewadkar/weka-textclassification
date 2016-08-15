@@ -1,0 +1,44 @@
+DOC>
+<DOCID> 3523 </DOCID>
+<PRODUCT> Digital_Cameras/509295_Hewlett_Packard_Photosmart_C315xi </PRODUCT>
+<URL> http://www.epinions.com/content_49752936068 </URL>
+<TEXT>
+            This is my second digital camera.  The previous one was much worse in almost every respect.  You can read my review at <a href='/content_6461427332'>http://www.epinions.com/content_6461427332</a>
+
+It's a 2.1 Megapixel model, taking pictures at 3 different quality levels.  The highest resolution is 1600x1200.  It comes with a 8MB CompactFlash card.  Estimated capacity at the lowest picture quality is 80 images.
+
+I chose this camera after having seen two previous HP models in use by my brother and at work.  They were a C20 and a C200.  They seemed okay, but since they were older models, they were both around 1.0 Megapixel.  
+
+I found this camera very easy to use.  It focused well, and adjusted light levels very well.
+
+Negative points:
+-HP does not say what the maximum size of CompactFlash card can be used.  I called HP tech support, and they told me that any standards-complaint CF card can be used.  However, the onboard controller in the camera cannot be used with cards over 128MB.  The camera will work fine with larger cards, and will take and display pictures just fine, but when accessing it with your computer via the USB cable, you cannot browse the files. It will give you an error that says the card "is not formatted, would you like to format it now?" If you use a separate CF card reader, a larger card works fine.  I have been using a 256MB Kingston card and a generic USB CF reader just fine since about a week after I bought it.
+
+-Takes a few seconds to "bootup" when turned on.  Also takes several seconds to compress and copy images to CF card after picture is snapped.  Higher quality level images take longer.
+
+-By default, Automatic flash setting is enabled every time you turn the camera on.
+
+-Using the Digital zoom is not very easy.  You have to turn on the LCD screen and navigate menu choices on a per-picture basis.  And using the screen consumes the batteries much more quickly.
+
+-The top LCD display estimates how many pictures you can take, based on the remaining capacity.  But it's only a 3 digit display.  So when you put in a 8MB card, it estimates that you can take 80 lower-quality pictures.  That's fine.  But when I put in the 256MB card, it reads 999.  It should read something more like 2500.  And when you turn it on again, and it estimates, it seems to subtract the number of images from 999.  So it appears that it will not estimate correctly with larger CF cards.
+
+-Earlier models (C200 at least) had an NTSC output, so you could hook up a cable to your TV/VCR and show a slideshow using the camera to control it.  This one does not have that feature.
+
+Positives:
+-Although similarly priced to the 318 model (same price when I bought it), the 318 does not have a cover that goes over the lens.  The 318 does take higher resolution pictures, but I decided to make the trade-off for one that would probably last me longer without being broken.
+
+-Very easy to use controls, both for taking pictures and reviewing them on the screen.
+
+-By not using the screen or flash very often, a set of batteries lasted me about 700 pictures during a weeklong trip to Las Vegas.  This is longer than most digital cameras I have experienced.
+
+I would say that this is a good first digital camera to buy.  Unless you have a brand-preference, or want higher resolution, I would recommend this model over anything in the $100-300 range that was available in my area.
+
+However, I would also buy a higher capacity memory card and a carrying case to go with it.  Although 8MB is enough to take more pictures than with a roll of traditional film, part of the fun of a digital camera is being able to take many more pictures, and just delete ones you don't want to keep.  However, if you go above 128MB (currently about $50), you will also need a separate CF reader, which sells for about $25.  A $30 Samsonite camera case my brother gave me fits it great.  It holds the camera easily, along with a set of extra batteries, and plenty of extra room. 
+
+All told, I think this is one of the better cameras in its price range.  You can currently buy it directly from HP for $199, although it was that same price everyplace I looked, both local retail and online.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

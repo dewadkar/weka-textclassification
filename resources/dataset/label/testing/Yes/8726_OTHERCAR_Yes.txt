@@ -1,0 +1,33 @@
+DOC>
+<DOCID> 8726 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_EpsonPhotoPCC-Epson_PhotoPC_850Z </PRODUCT>
+<URL> http://www.epinions.com/elec-review-1C6-303E526E-39A67138-prod5 </URL>
+<TEXT>
+            I've owned an Epson PhotoPC 850z for six months and would describe myself as an experienced amateur photographer. I'm familiar with all of the manual settings and have used them extensively, and have also used the program and full auto modes a lot. I absolutely love the flexibility that this camera gives you, and I also love the fact that I'll never have to buy film or pay for development again. This camera has really gotten me into photography. 
+
+I am convinced that at the time that I was researching 2 megapixel cameras (February 2000), this camera definitely had the best combination of features and value. Since then, 3 and 4 megapixel cameras have become more and more commonplace; fact is, since a resolution of two megapixels remains very respectable, the value that this camera provides as its price continues to plummet is pretty much unmatched. 
+
+Ever since I bought a used Minolta flash for $10 on an eBay auction, I've been putting this camera's hot shoe to good use, and have found that it works great. Not many other digicams have one, though they are not as rare as they used to be. I also bought a 2x telephoto lens, a 0.5 wide angle lens, a couple of close-up lenses for macros, and a few filter lenses. These are all easy to put on and dramatically increase the capabilities of the camera. How many other digital cameras can you say that about? Not many. 
+
+I have taken literally thousands of photos with the 850z and many of them turned out great, some of them excellent. (Keep in mind that as an amateur, my results are not always what they could be!) I usually do end up sharpening the pictures a bit, maybe increasing the saturation just a bit from time to time. But any serious digital photographer will be doing some photo editing regardless of the camera.
+
+You can make an 8 x 10 print of a photo taken at the next to the lowest resolution (1600 x 1200 pixels, high compression) with no noticeable loss of quality (at least to me.) If you go with this camera's highest setting (1984 x 1488 interpolated, referred to as &quot;HyPict&quot;), you can make an 11 x 14 print that looks very decent (or so I've been told. My HP 722c printer just won�t let me check this out!) 
+
+It's when you multiply 1984 by 1488 that you get the maximum advertised resolution of 2.9 megapixels. This figure is somewhat misleading, however, since it is achieved by using a software algorithm that could be done just as easily by Adobe Photoshop. There is a real difference in a camera�s optical resolution and its interpolated resolution. But you know, I read a review of the 850z by an expert digital photographer who has used HyPict to make 11 x 14 prints who claimed that the results &quot;look as good as darkroom prints from 35mm negatives.&quot; (Fred Bopp, PCPhotoReview, 12/23/1999) If this is true, then perhaps there is some justification to calling this a 2.9 megapixel camera. I figure that I could live with quality that good. If you don't need prints bigger than 11 x 14 and if you don�t do a lot of cropping, this 2 megapixel camera is all you'll ever need. 
+
+However, I have also lost many great photo ops due to the camera's dratted time lag. I can really relate to the comments of others about this! However, I've read up a lot on the 850z's competition and have found that the time lag problem is very common for digital cameras in general, and that the 850z is not the worst. I think people need to keep that in mind. You just don't buy a digital camera these days for its ability to handle action shots and low lighting situations. (That doesn't mean you can't take good pictures in low light, but this does seem to be a weakness of digital cameras.)
+
+I have also noted that the LCD sometimes appears washed out, even when indoors. Recently I nearly ruined a whole series of relatively important photos, all taken indoors, due to the LCD's tricking me about the exposure level. Here's how it works: you look at the LCD and think the exposure is way too high, so you bump it down to maybe -1.0 or -2.0 to compensate. Guess what, you just ruined your photo. I'm still learning how to best compensate for this. The weird thing is that the LCD doesn't always do this.
+
+Battery life is good, but never good enough! Be sure to buy lots of rechargeable batteries and keep them charged. And always have a backup set with you. The optional AC adaptor wouldn�t be a bad investment. The 8MB CompactFlash storage card this camera comes with is, to put it mildly, lacking. No matter what digicam you end up getting, you will definitely want to get at the very least a 32 MB card; if not 64 or even 128 MB. 
+
+In spite of its drawbacks, I still love this camera. If I could go back in time and do it all over, I would still choose the PhotoPC 850z over any of the others that were available at the time (March 2000.) Actually, if I could trade it today (September 2000) for any other sub-$1000 digicam out there, I might still just hold onto it. After all, its manual capabilities are still very impressive, and other camera manufacturers are just now playing catch-up with some of its other features (hot shoe, USB port, availability of add-on lenses, voice recording.) The range of the 850z's manual settings, by the way, compares favorably even to the Nikon 990c--which is the epitome of the manual non-pro digital camera. The 850z's aperture range is actually wider than the 990c's, believe it or not.
+
+Overall, I would definitely recommend this camera not only for the beginner but also for any experienced photographer who just doesn't need 3 megapixels. E-mail me at valencourt@co.rowan.nc.us for examples of photos.
+<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

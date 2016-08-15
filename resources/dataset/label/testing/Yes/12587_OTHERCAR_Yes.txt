@@ -1,0 +1,58 @@
+DOC>
+<DOCID> 12587 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_CanonPowerShott-Canon_PowerShot_S10 </PRODUCT>
+<URL> http://www.epinions.com/content_15179026052 </URL>
+<TEXT>
+            The Canon PowerShot S10 has been one of the most eagerly anticipated cameras of the year. After all, it *is* the smallest 2 million pixel camera you can buy with a real zoom lens, and it's loaded with nice features such as a CompactFlash type II slot (for the IBM Microdrive) and USB support. And at $699, it's a pretty good deal.
+
+How does it stack up against other 2 Mpixel cameras? Read on...
+
+The PowerShot S10 comes with everything you need, with one notable exception, as you'll see below.
+
+Inside the box for the camera, you'll find:
+
+The 2.1 Mpixel PowerShot S10 camera 
+An 8MB CompactFlash card 
+Non-rechargable lithium-manganese dioxide battery (see below) 
+Hand strap 
+Video-out cable 
+Serial cables (separate Mac and PC cables... nice) 
+USB cable 
+Software package including PhotoDeluxe and PowerShot software 
+Owners manuals for camera and software 
+
+The folks at Canon include everything you need to get going... more or less. The camera has a built-in lens cover, so there are no worries there. Instead of supplying a PC serial cable and a Mac adapter, they give you two separate cables--one of each.
+
+The camera supports USB, but in a way (on the Mac, at least) that is different from the other cameras I've looked at before. Usually, you put the camera into PC mode, and it mounts on your desktop like another hard disk. But here, it launches the nifty PowerShot Browser instead.
+
+Now, my one minor quibble about what's in the box. While not every camera manufacturer tosses in rechargeable batteries, you'd think Canon would get the message. The included lithium-manganese dioxide battery DOES last a long time.. but then you've gotta replace it, and that can't be cheap. Instead, you're supposed to buy the Power Supply Kit (DK110, see below) for $100! (Canon says this was done to "give users a choice").
+
+Once you do buy the power supply (consider it a requirement), you'll find it to be a little different than what you're used to -- it's both an AC adapter and a standalone battery charger, though not at the same time. Unlike other cameras, the PowerShot has no power port. Instead, you stick a "battery on a wire" into the battery slot, and plug the other end into the power supply. Your regular battery sits inside a cradle on the recharger. While the camera is using the AC adapter, your battery isn't being recharged. But when you're done, the switch is automatic.
+
+The manual was very good, though there's a little too much jumping around between pages sometimes.
+
+Look and Feel
+
+There must be something about small, silver cameras that make people stand up and take notice. When I brought the PowerShot into work recently, words such as "neat, cute, and very cool" were overheard (they could've been talking about me though). This is similar to the reaction that I got when I brought the Fuji MX-1700 in as well... except here, the resolution is higher!
+
+I must say I was a little surprised when I took the camera out of the box... I thought it would be a little smaller, more like Canon's ELPH line. 
+
+The PowerShot is one of the best designed cameras I've tested, from a user experience point of view. It's small enough for one handed operation, and the placement of the controls are very good. 
+
+Using the Canon PowerShot S10
+
+The PowerShot engineers have gone to the Toshiba school of fast cameras, for sure. This thing fires up in 2 seconds, and can take a lot of pictures very quickly. Play mode is as fast as the two Toshiba cameras I've tested -- very nice. 
+
+Let's move through the different modes of the camera now, starting with Panorama mode.
+
+The PowerShot has a nice panorama helper that's not unlike the one found on the Olympus C-2000Z. Here, you can take a shot, move over for the next one, and line them up so they stitch together. This is the first camera where you can choose between five different stitch patterns: Left to right, right to left, top to bottom, bottom to top, and 4 images shot clockwise in a square. You can even move back one shot if you want to try again. The only downside is that the previous image isn't translucent so it's hard to line them up.
+
+Once you take the photos and download them to the computer, I found the PhotoStitch software to be excellent. You just select the photos you want stitched, make sure they're in the right order, and the software does the rest. It even crops the photo for you in case things don't line up (which is easy to do without a tripod). It can save them in a variety of formats, including QuicktimeVR! Nice!
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

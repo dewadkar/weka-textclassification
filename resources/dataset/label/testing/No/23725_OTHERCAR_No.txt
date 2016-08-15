@@ -1,0 +1,39 @@
+DOC>
+<DOCID> 23725 </DOCID>
+<PRODUCT> Digital_Cameras/Minolta_Dimage_s404_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_68367060612 </URL>
+<TEXT>
+            First and of foremost importance, the image quality is really excellent, especially those take in daylight. Flash images are good too, but they don't have the impact of the daylight images. On a computer, you can zoom right in and the images still hold together.
+
+Raw photo too dark or too light? (Say you photographed people with their backs to the sun?) No problem! If you have photo-editing software you can usually adjust the image so you get something - obviously it's not as good as when you get the exposure right, but you still have a photograph of the occasion.
+
+Using the highest image quality JPEG image setting, pictures are large at around 1.5 megabytes. The 16 megabyte flash card supplied is completely inadequate - you need to buy a bigger one immediately. This is on obvious ruse from Minolta (and all its competitors, in fairness) to get prices low. 128 megabytes is the minimum you should consider, and there are deals for around $50-60.  You could also find your computer needs a hard disk upgrade too, for all these extra large images... 
+
+I like the size and weight, they seem right. I also really like the 4x optical zoom, a very wide range for a camera of this class. It could only be improved if it went down to 28mm (35mm equivalent) rather then 35mm.
+
+The manual is comprehensive though poorly laid out, making it difficult to find things. For example, the first thing that happens when you turn on the camera is that it asks you to set the date and time - is this easy to find in the manual? Of course not! 
+
+You also need to change the default setting for image numbering, because the default is that that the camera starts numbering images from zero every time you clear the flash card (does no one at Minolta store photographs on a computer?). The setting was easy to find (it's called "File # memory" and its in the "Custom" menu), but I did read the manual before using the camera and this wasn't pointed out. Finally on the manual, some of the wording is odd - hurriedly translated from the Japanese I'd guess. 
+
+The camera eats batteries, so you'll need to buy high capacity rechargeables - 1700 maH, or better if you can get them. But at least it uses standard AA size, so you can use alkaline batteries as a stand-by for when the inevitable occurs. 
+
+The main control knob is very easy to turn inadvertently. Just walking along with the camera strung around my neck (or stuffer into my wife's purse) was enough to turn it and switch the camera back on - and this obviously does not help battery life. 
+
+The trigger button has two stages - press down and the camera focuses, press again and it shoots. This takes some getting used to (and my wife - who's a better qualified engineer than me - still hasn't got the hang of it).   
+
+The colors it gives can appear subdued on my computer screen, especially pictures taken with flash. This is apparently deliberate - Minolta using a wider "color space" than other camera manufacturers. The manual suggest adjusting the computer monitor settings to compensate for this. I tried this - it didn't make much difference to the pictures, but it did make the colors for everything else on the computer look very odd indeed. I now 'lift' the colors using photo-editing software on some pictures, but most of the time I don't bother, the difference is fairly small. (Apparently the bundled editing software will adjust the colors automatically; however, I haven't tried it, I have stayed with my favorite photo editing software.)
+
+Durability seems excellent, so far - it has withstood the attentions of my 3 year old.
+
+A minor disappointment - no hot shoe or syncro socket for an external flash.
+
+In summary, this is is a superb camera for the price, and I would buy it again since it was half the price of my other short-listed camera. But it has some annoyances too, many of them avoidable with better design. 
+
+AFTERWORD added on January 14 2004: I am very sad to report that over the holiday season, my camera's flash failed and though it does function without flash, the cost of repair is almost as much as buying a new camera. Unless I can find someone who will repair the camera far more cheaply, buying a new and different camera is exactly what I will do.
+
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

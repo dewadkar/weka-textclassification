@@ -1,0 +1,35 @@
+DOC>
+<DOCID> 24268 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Kodak_EasyShare_DX4530_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_114205625988 </URL>
+<TEXT>
+            I wondered why professional online reviewers such as steves-digicams and dpreview made no mention of this camera. I think I can tell you why. This is a 5 megapixel camera designed for low-end consumers. However, I will tell you that there are things to like.
+
+As I understand it, the DX4 series is supposed to be higher-end consumer. DX4530 means: DX4-higher end, 5-megapixels, 3-zoom ratio, 0-don't know. Why make a 5 mpixel camera that has the control you'd expect from a 2 mpixel camera?
+
+Pro: the camera is lightweight (230g or 250g with batteries), it uses AA batteries (hooray!), it is small, comfortable to hold, easy to use. Most unusual is that it has lens threads for addons. MSRP is $400.
+
+Cons:
+- Menus are totally dumbed-down, which means few options. You'd expect more from a 5 megapixel camera.
+- Compression (jpeg quality setting) is too high and not settable. A 3-star image is 5 megapixel image with a jpeg quality setting that results in files that are typically 800 KB in size! From most 5 megapixel cameras you would expect file sizes of 2 MB at high quality.
+- No lighting adjustment setting (incandescent, fluorescent, etc.)
+- No gimmicks such as panorama assist and color filters (sepia, etc.)
+
+I compared indoor flash and non-flash photos to a Sony DSC-V1. OK, this isn't terribly fair, but I wanted to understand how Kodak falls short. The image resolution hardly suffered from the high compression (low quality) JPEG setting, but the colors were noticeably off (too saturated). If you understand JPEG algortihms, this is what you expect - the compression mostly squeezes out chrominance information, so the colors get messed with, but image resolution is largely preserved. 
+
+I tried to get information from Kodak about the JPEG settings that were chosen. Thru support I received an uninformative letter that told me all Kodak cameras squeeze 5:1. Note: this is nonsense, jpeg doesn't allow you to choose compression ratio because it depends on the image contents. Also a 5 megapixel image is 15 Megabytes of data, so the compression ratio is closer to 15:1. Similarly a senior employee in marketing was unable to provide any information beyond sales blather.
+
+Conclusion:
+The pictures were only OK, but since the camera is dumbed-down, we'll never know if the hardware might be capable of far better quality. The camera needs to offer far more user settings.
+
+If you want a 5 mpixel camera that uses AA batteries (highly desirable), you have other choices. See steves-digicams.com for a summary table.
+
+If you want a threaded lens adapter, you have very few choices and most others - except for Sony DSC-V1 - are heavy and bulky.
+
+
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

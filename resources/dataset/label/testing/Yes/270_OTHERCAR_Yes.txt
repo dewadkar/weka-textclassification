@@ -1,0 +1,88 @@
+DOC>
+<DOCID> 270 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_Camedia_D_510_Zoom_Digital_Camera_D510ZOOM__Camera_D510ZOOM </PRODUCT>
+<URL> http://www.epinions.com/content_49293397636 </URL>
+<TEXT>
+            Olympus' newest top model to the extremely popular "D" series certainly shows that this company knows how to make a good thing even better.  The single best and most long awaited improvement over it's older sibling, the D-490Z is the addition of a speedy USB port instead of the formally standard clunky serial connection....FINALLY!  Anyway, I don�t want this review to be all about comparisons.  I'd rather write about the features on their own merits.
+
+<b>First, lets start with some important specs:</b>
+
+2.1 Megapixel Resolution - You'll easily get an 8x10 print without degradation to your photo's quality.
+3x Optical Zoom Lens - 38mm-115mm film camera equivalent.  A MUST have as far as I'm concerned!
+2x Digital Zoom - Using the LCD display to compose the shot, you can get even closer than the optical length of the zoom lens (more on this later).
+Macro Mode - Get up close and personal with your subject (to about 6").  Great for close-up work.
+Multiple Flash Modes - For a variety of lighting conditions.
+
+<b>Getting Started - </b>
+
+Okay, for starters to say that this camera is easy to operate would be an understatement.  Once you insert the camera's lunch (that would be the batteries), and the SmartMedia card you're pretty much pointing and shooting.  The shutter release and zoom control are conveniently placed and clearly marked so that anyone can be shooting in no time.  The difficulties, if any, with using this camera is remembering where certain changable features are on the extensive menu system (more on that later).
+
+The 38mm-115mm (film camera equivalent) zoom lens is great for composing a variety of shots, from a multitude of distances.  Although not fast like you would find on higher end cameras, you'll go from full wide to full telephoto in about 2.5 seconds.  Adequate for most amateur applications, however there will be times specifically in action shots where you'll wish for it to be a little faster.
+
+Once you've composed your shot, a press on the shutter release till it reaches it's halfway mark will set the auto focus...usually.  There are times when the camera has trouble focusing in on your subject, however this is indicative of a lot of point and shoot camera not just this one.  In cases where the camera cannot focus, you simply move the camera to an object of equal distance, lock in the focus by pressing and holding the shutter release, and then re-compose your shot.  The camera does however have a great infinity focus feature.  If you're going to be taking photos that will consistently set the camera's focus to infinity, then you can lock this setting on the camera thus eliminating the need (and the time it takes) for the camera to set the focus.
+
+The flash will automatically fire when camera senses that it's necessary for it to do so.  There will be times however, where you will want the flash to fire even though there is sufficient light.  Case in point, a backlit subject (the light is behind your subject).  This camera definitely has a little trouble with backlit subjects, and I recommend that you set the flash to fire at all times.  If you don't, you'll end up with a silhouette or a dark subject.  Having the flash fire in these instances will definitely help.  The other flash modes available other than "always on" are "always on with red-eye reduction", "fire when necessary", "fire when necessary with red-eye reduction", and "never fire".
+
+<b>Photo Quality - </b>
+
+So far, I've been very happy with the quality of the photos from this camera.  The colors are true to life in a variety of lighting conditions, and the clarity has been excellent using the default 'power-on' settings (full automatic).  I also have gotten great results by changing the flash mode to suit the environment, and also using macro (close-up) mode.
+
+Comparing the photos from my former camera (Olympus D-450Z), this camera's quality is FAR superior.  Usually, I would have to do a little 'tweaking' using a photo editor on my PC.  Now, with this camera, there's been no editing necessary...an enormous time and effort saver.
+
+Further, I've tried to tell the difference between the default HQ (high quality) and SHQ (super high quality) mode.  Other than the file size of SHQ being substantially larger, I honestly cannot tell the difference between the two JPEG compression schemes.  Larger file sizes means less photos per memory card.  Without seeing a substantial difference, I'm sticking with the default setting.
+
+<b>Advanced Features -</b>
+
+Menu System - 
+
+When using this camera and accessing certain functions and settings, it's sometimes difficult to remember exactly on which menu or sub-menu the feature control is.  To illustrate my point, think of the menu system as two fold.  One menu you can access while the camera is on and ready to shoot, and the other is available when you're viewing photos you've already taken.  If you're looking to change a setting, let's say "White Balance", the camera needs to be on and ready to shoot.  Accessing the menu systems while the camera is in photo display mode will allow you to access the options regarding file naming, memory card maintenance, etc.
+
+Either way, you press the menu button on the camera's back and you're presented with a list of icons that you have to decipher to get to the desired control function.  You first need to get used to navigating and selecting with six buttons (up, down, left, right, OK, and the assigned Cancel button) on the back.  Next you'll familiarize yourself with exactly where things are and what the icons actually mean.  Like all things, put the camera away for an extended period of time, you'll have to re-familiarize yourself with the many options and controls available to you.
+
+The blessing of a feature rich camera is really a double-edge sword.  On the one hand it's great to have creative control at your fingertips through an intuitive menu system.  On the other hand, getting there can sometimes be a problem.  
+
+Presented with the choice however, I'd rather fumble than not be able to.  And, Olympus has made tremendous strides in improving the menu system from their earlier models which by the way was even more cryptic and easy to forget.
+
+Digital Zoom - 
+
+Another feature of this camera is the 2x digital zoom.  This works by doubling the size of your composed photo, digitally not optically.  You can actually accomplish the same effect using your photo editor software once the photo hits your PC.  What you do is zoom in on an area of the regular photo and blow it up.  What happens is that you'll definitely get in closer, but you'll lose quality.  My advice in this regard is skip the 2x digital zoom camera feature.  Here's why...
+
+First, you'll have to set the camera to 2x.  Second, you'll need to compose your shot using the LCD display, NOT the viewfinder...if it's the least bit bright and sunny, you'll have trouble seeing the display.  Lastly, once taken your photo will not be the same resolution as normal shots.  
+
+If you want digitally zoom in on an area in a photo, do it on your PC using a photo editor.  Use a photo taken with a lower JPEG compression (higher quality) setting on the camera, this way you can increase the size of a particular area without degrading the quality too much.
+
+Digital Movie Maker - 
+
+Yup, believe it or not, you can make a short little movie that you will be stored on the memory card.  It's a neat feature, and certainly a conversation piece for the camera, but I don't see a real practical application for me.  The movies are short, use up a lot of precious memory, have NO sound, and are small in pixel size.
+
+Changing Settings - 
+
+Under normal circumstances, the default settings when you power on the camera will be adequate for most photo taking applications.  However, there will be times when you will want to 'tweak' the settings.  Some of the settings that can be changed are White Balance, File Compression (photo quality), Flash, etc.  There's a whole host of options available from the On-Screen Menu system accessible from the built-in display.  Becoming familiar with your available options and their practical application will definitely get you better results.
+
+USB - 
+
+This is by far one of the best features of this camera.  After you install the provided software, plugging the camera into a USB port will get you an additional "Removable Hard Drive" in "My Computer".  You access this "Drive" the way you normally would.  'Double-Click' to open the drive and reveal the photo files that you can drag and drop into a 'folder' on your hard drive for FAST file transfer.  Or, just access the photos from any photo editor directly to the folder on the camera.
+
+<b>Also Important - </b>
+
+Batteries - 
+
+By all means go out and get Nickel Metal Hydride rechargeable batteries.  This camera uses a lot of power, and rechargeable high capacity batteries are a MUST!  I bought Rayovac brand at CompUSA for $20.00 for an eight pack, and a $10 charger.  It sounds like a lot right now, but you'll save in the long run.
+
+Camera Case - 
+
+You're going to need a camera case too.  Although the camera has a metallic look, the case is plastic and scratches easily.  You�ll also want to protect the LCD display as well.  Plus, you need to carry some extras like batteries and memory cards.
+
+Memory - 
+
+One of the more disappointing features of this camera is the tiny 8mb SmartMedia card.  Keeping the card capacity small keeps the overall price down.  You'll definitely want one 64mb card for a total capacity of about 100 shots using the standard 'power-on' JPEG compression.
+
+<b>Overall - </b>
+
+I'm very happy with this camera.  The photos have been very good, requiring no 'tweaking' whatsoever.  It's easy to use, and easy to change settings.  The USB is a great addition for fast file transfers.  Once I installed high capacity rechargeable NiMh batteries and a larger memory card, the camera was perfect for me.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

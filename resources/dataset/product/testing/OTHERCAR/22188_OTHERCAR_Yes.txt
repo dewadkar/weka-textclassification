@@ -1,0 +1,33 @@
+DOC>
+<DOCID> 22188 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Kodak_DC-3400 </PRODUCT>
+<URL> http://www.epinions.com/content_14995852932 </URL>
+<TEXT>
+            I bought this camera in December 2000, and I�ve fallen in love with it as I opened the box and looked at the wealth of cables included for connectivity. You have serial cables for PC, adapter for Mac, USB cable and video out cable. In practice you can connect this camera and download/preview your pictures to any PC or preview them in a slide-show fashion on a normal television nearly everywhere in the world (Video out can be NTSC or PAL).
+
+ This is not the only good  point about the DC 3400. The price was about 600 US$, includes a 8 MB Kodak compact Flash memory card. I bought it on www.chl.it because I�m in Europe, but you�ll find better deals on US web stores. 
+
+The camera can take pictures at two resolutions, 1760*1168 and 896*592 pixels, so it is a 2.1 megapixel camera. Obviously you can fit more images on your compactflash card by using the second, but the quality of prints made with the highest resolution is better. You can also select another parameter to control the memory  occupation of the pictures. This is the �quality� (surprise) setting that can take one of three values: Best, Better or Good. My advice is that if you intend to print the pictures, don�t use anything less than �Best�. If you want to email or publish them on the web, the lower resolution and any of the quality settings will do just fine. Anyway, the camera has proved itself extremely satisfactory in both cases. 
+Another consideration can be made regarding resolution: If you have a serial connection then downloading images at the higher resolution will take about 4 times as long as it would for the lower resolution. You may want to consider a compactflash reader then. 
+
+This camera is ready to shoot brilliant pictures literally seconds after you open its box. To shoot a picture just point at something and click twice. The first time a soft click to fix the focus, and then an harder click to shoot the picture. 
+
+However the way it takes pictures can be customised by a plethora of settings. Most of them are accessible through the LCD menu-driven software. I must say that the default settings are fine for most of my purposes, but I�ll give you some suggestions here below.
+
+As I said before, I was ready to start taking pictures as soon as I opened the box, and so I did. Then I used the �DO IT� button to watch previews of the pictures. And this is my first piece of advice: If you do that the battery warning will start flashing after 15-20 shots. That�s what happened to me. The default option for the flash is  �Auto�. It means that the flash will nearly always shoot (unless you are in the middle of the Sahara desert) and that it will drain the batteries very soon. So, proceed as follows: Turn the Mode Selector wheel to �Camera Setup�, and then using the arrow buttons to navigate the menus select the flash icon and then push the �DO IT� button. Then turn the flash off by default. If you need to use it, then tell the camera by clicking on the flash button on top. The pictures are just fine with natural light,  but in some cases you may want to adjust the exposition a bit.    
+  
+With this I�m not telling that I�m unhappy about the camera, in fact, on the contrary I am extremely pleased with it, but I�ve used it a lot and I�ve developed my ways to get the best out of it. Therefore, here comes my second advice: Buy a couple of sets of rechargeable AA batteries for this baby. I always take it around with 4 spares. Because if you can save battery life by not using the flash when it is not necessary, you will not be able to stop previewing/showing to your family the pictures you just took. And that drains the batteries too. 
+
+Regarding the customisation settings, you can modify many other options: Video Out Format, Brightness, Exposition, Auto ISO, Borders, (you can download your own borders with a bundled application), Effects (the sepia-tone produces brilliant results) and language of the interface. The software will display other options when the �Mode Selector� wheel is in capture mode. You�ll be able to change, among the others, resolution and quality from there. 
+
+The  software in bundle is focused towards interfacing the camera with your computer and does so fairly well. The DC 3400 becomes just another item in your Windows Explorer and you will be able to browse the pictures on the camera and even get a thumbnail view of them. (but why you need to see Kodak�s own system folders on the flash card?) 
+The TWAIN driver allows you to download images from the camera to an application and also to control it remotely (adjust settings and take shots). As I mentioned before, there is an utility to transform own bitmaps to kodak picture frame (�Borders�) and upload them to the camera.
+I think that this is not as brilliant as other offers on the market. The drivers are extremely solid, they cover all the camera aspects and have never caused any trouble on my PCs. However, a photo editing software would be a welcome addition to the kit. I have not tried the Macintosh software, so I cannot comment on that. 
+On the photographic side, the focal length varies from 38 to 76 mm. The zoom is optical to 2X, then digital for extra 3X. The results have been always very good with the preview option even I was able to take decent pictures. This camera is perfect for amateur/office use, in fact it has also an option setting to scan documents, but you�ll better buy the accessory to hold it still then. It is built very well. It is a bit heavy but it is also stylish and strong and Kodak has in offer plenty of accessories for it. 
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

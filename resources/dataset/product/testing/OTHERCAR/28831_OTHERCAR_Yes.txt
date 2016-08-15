@@ -1,0 +1,28 @@
+DOC>
+<DOCID> 28831 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_KodakDCC-Kodak_DC-210 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-4031-60133C6-385EA8D4-prod2 </URL>
+<TEXT>
+              Ease-of-use is this camera's best quality. And it's relatively cheap. Take it out of the box and start taking pictures. Nice carrying case with places for extra batteries (which you'll need). 
+  On the other hand:
+  This camera is a mega-pixel model, which limits its resolution. I guess that's one reason why it didn't cost much.
+  There is a several-second wait between taking one picture and being ready to take another. Maybe that's another reason why it didn't cost much.
+  Although the camera has a timer which gives you plenty of time to press the button then jump back into the picture, it does not allow time-lapse photography. You can't just set the camera a-snapping, one after another, until it fills up its memory.
+  The bundled Picture Easy 3.1 software is easy to use but woefully lacking in power. Editing ability is limited to a few automatic functions. You'll want better software.
+  Hope that your computer is not one of the newer consumer types which have only one COM port. If it is, you'll have to unplug the external modem, plug in the camera, and back. Until recently, it had not occurred to me that a computer would ever have just one COM port! There is a fix for this problem, however. See below.
+
+  It's this simple: I lacked the experience to know what I wanted in a digital camera, and I wasn't willing to spend more money until I knew. The DC-210 is just fine for a starter camera, and I don't regret buying it. It will be fine for my 12-year-old son when I move up.
+
+  Hints for new users:
+  Immediately buy eight NiMH (nickel metallic hydride) rechargeable batteries, plus a charger. If you use any of the rear-screen views (or even if you don't), you'll chew up batteries very quickly. 
+  Your equally newbie friends will think it's really cool the way the rear screen shows the picture you've just taken, but using that screen eats up battery life. Turn it off.
+  When configuring the camera, choose the highest quality settings, although this will limit the number of pictures you can store on your memory card. Get extra memory cards at Walmart or Circuit City, and get bigger ones than the one (8 MB) that comes with the camera.
+  Whether or not your computer is limited to only one serial (COM) port, get a card reader that connects to the USB port. This cost me $60 and is well worth it. Using a USB port means you won't have to swap cables from modem to camera back to modem every time you want to dump photos into the computer. And USB also is FAR faster than a serial connection.
+  Have fun, learn, then get a better (higher resolution) camera!
+<br><br>
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

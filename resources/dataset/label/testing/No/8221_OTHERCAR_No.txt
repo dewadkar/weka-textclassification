@@ -1,0 +1,39 @@
+DOC>
+<DOCID> 8221 </DOCID>
+<PRODUCT> Digital_Cameras/615434_Polaroid_Corporation_320_PhotoMAX_FUN__Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_79263010436 </URL>
+<TEXT>
+            One day I was signing on to my AOL account. Now, AOL is known for having advertisements pop up at random times, and usually I just ignore them and close them when they appear.
+
+But on this particular day, an ad popped up immediately after signing on which I just couldn't ignore. The product advertised was the <i>Polaroid Digital 320</i> digital camera. Hey, a digital camera for only $60, who could ignore such an ad? So, I eventually ended up clicking the "Order" button. After a couple day wait, the camera arrived.
+
+I immediately opened the box and inspected the contents. This package included:
+
+-Polaroid Digital 320 Camera
+-Serial connector cable
+-Polaroid PhotoMAX software for downloading and editing pictures
+-Standard 9-volt battery.
+
+I took out all the parts, opened the plastic container the camera was in, slid in the included 9-volt battery (Seeing the standard battery quelled worries of having to hunt for a specialized battery), and I was ready to take pictures.
+
+Taking pictures with the Digital 320 was surprisingly simple, the kind of "point and shoot" simplicity that most Polaroid cameras tend to contain. All I had to do was line up the person/item I want to photograph in the viewfinder (Which happens to have nifty "aiming" boxes in the corners) and press the largest of the only two buttons on the entire camera. A couple seconds later, the camera beeped, a green light on the back blinked, and the number of pictures taken on the indicator panel increased. I had taken my first digital picture.
+
+After taking a few pictures of my cat and taking a picture of myself with the automatic timer, I returned to my computer and installed the included PhotoMAX software. I then connected the camera to my computer with the included serial cable, and proceeded to download the pictures. After they were downloaded, I proceeded to examine them one by one...
+
+...um, maybe the cat was moving when I took that picture. No wait...the second one is the same way. So is the third one, they're all blurry. Hey, I don't remember taking a picture of nothingness. Jeez this is a HORRIBLE camera! I wasted $60 on THIS? I could have gotten a better digital picture of myself if I pressed my face against the glass of a flatbed scanner!
+
+To the point: The Digital 320 is NOT a good camera at all. Want that explained in technical terms? Very well...most digital photography experts recommend that beginning digital photographers should get a digital camera with a resolution of at least 1.3 megapixels or higher. The Digital 320? Well, it ranks in at slightly under .08 megapixels. That's right, I said <i>.08</i> megapixels. Thus, any pictures it takes will be small dimension-wise (320x240 pixels) and quite fuzzy.
+
+Another problem is that this camera has no flash at all, nor does it have the ability to support a flash. This automatically rules it out as an indoor camera unless you happen to be using 300w bulbs in your lights.
+
+Also, the internal memory is incredibly small, only about 512kB (Not megabytes, <i>kilobytes</i>). This limits the amount of DECENT pictures you can take to somewhere in the area of 18 to 24 (You can make it hold upwards of 60 pictures...if all 60 pictures are nothing but a blank wall). Even managing to get just 18 pictures to fit into that small of area is hard to imagine, but they achieve it...by using "lossy" compression of severe quality. Don't be fooled by the .BMP extension on the downloaded images, these are stored internally as JPEG at the lowest quality level possible. This is one of the reasons the pictures the Digital 320 takes are horrible in appearance.
+
+Another problem is the interface. The Digital 320 uses the slow, clunky serial interface which is all but extinct. It can take upwards of several minutes to download all 18-24 pictures from the camera, and the serial interface makes it unusable on a Mac.
+
+The bottom line: The Polaroid Digital 320 is a terrible camera, and I don't recommend it to anyone, even those who need an inexpensive digital camera. Save your money and you'll eventually be able to find a 1.3 megapixel camera which is worlds better than the Digital 320.
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

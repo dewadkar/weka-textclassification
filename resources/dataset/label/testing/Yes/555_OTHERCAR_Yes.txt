@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 555 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Hyundai_Accent </PRODUCT>
+<URL> http://www.epinions.com/auto-review-133-9CAE07B-391DE0D8-prod3 </URL>
+<TEXT>
+            The Hyundai Accent is an excellent car for any new family.  With the high price of cars the Accent is a great place to start.  From the inside the Accent looks clean and sharp.  The controls are easy see as well as to use.  The basic features include,AM/FM cassette sound system, rear window defroster, variable intermittent windshield wipers, and fold-away heated outside mirrors.  With the base price being $9699 the Accent is an affordable car.  Although, it doesn't have much for performance I think it focuses more on ergonomics, safety features, and of course VALUE.  The warranty on this car is pretty good with five years/60,000 miles bumber to bumper and 10 year/100,000 miles for powertrain, and 24 hour roadside assistance for five years.  Overall a good deal.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

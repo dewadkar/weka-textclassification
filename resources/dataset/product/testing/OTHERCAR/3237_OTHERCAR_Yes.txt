@@ -1,0 +1,30 @@
+DOC>
+<DOCID> 3237 </DOCID>
+<PRODUCT> Digital_Cameras/615430_Polaroid_Corporation_640_SE_PhotoMAX_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_51548425860 </URL>
+<TEXT>
+            I bought this camera for my 12 year old daughter who is fascinated with my Fuji finepix 1300.  I knew when I saw the bubble plastic packaging not to expect much from this camera, so I wasn't as disappointed with it as some seem to have been.
+
+Out of the package this camera felt "cheap"--Cheaper even than the barbie cam I'd bought for my daughter several years ago.  It's very light weight and feels more "plasticy" than my fuji.  In other words, it feels like a toy.  It looks like one, too.
+
+Okay, so toylike feeling aside, I popped the software into my computer to see what this little $25 toy could do.  I was greeted with "Photomax software is not compatible with Windows NT".  Oooookay.  My first trip to www.polaroid.com found me searching for an NT/XP driver.  Simple enough to find.  I installed it but the photomax software still wouldn't install.  However, I had other photo software installed so I tried using it.  It *kinda* worked.  (I'd get one picture uploaded and it would crash.)
+
+My second trip to www.polaroid.com brought me some much needed help.  I went to the troubleshooting pages and right there on the front page of the troubleshooting section was a link for the 640se (guess I wasn't the only one who had problems, eh?)  I found the workaround for Windows XP (and the workaround for Windows 98se which I'll need for my daughter's computer.)  I did what the troubleshooting page said to do and now I have a working camera.
+
+Working camera may be overstating it a bit, though.  This is definitely a lowest of the low end digital cameras.  The pictures it takes sometimes come out very blurry or overexposed.  I've found, however, that taking pictures in a consistently lit room/area work best.  If you have bright lights or the sun behind your subject, the pictures aren't going to turn out well.  
+
+The tiny lcd screen only shows you how many pictures you've taken and which "flash mode" you're currently using--no preview of pictures for this model.  However, this makes for decent battery life.  This model came with 4 AAA batteries in the package and after 3 weeks (and about 50 photos) the batteries are still running strong.  This camera automatically shuts off when unused for about 45 seconds, so it saves on battery life as well.
+
+All the memory for this camera is internal, so you won't be able to take lots of vacation photos with this unless you have a computer handy to remove the old photos.
+
+The included photomax software seems clunky and even unweildy at times.  My daughter had to be instructed on how to get the photos from the camera into the software.  Upload times on the photos are a bit long even with the included "serial/USB" cable being used in the USB port.
+
+However, this camera can and does take good pictures under the right circumstances.  The choices with the flash make for better picture taking.  It's nice to have a timer and I didn't expect that with a camera so inexpensive. The included tripod mount on this camera is also a bonus.  It's much easier to mount it on a tripod so you don't have to deal with the "shaky hand" blurriness you may get otherwise.  This camera's resolution is great for those who like to just grab the picture off the camera and email it to friends.  If you've ever been the recipient of a 2+mb picture file on a dial up account, you know what I mean.
+
+It may sound like I'm very disappointed with this camera, which really couldn't be further from the truth.  Aside from the installation issues, it's a great little camera for my daughter to use for taking pictures of her friends and using for her web pages.  It was inexpensive enough that I'm not afraid to let her take it to school and it takes some decent quality photos under the right conditions (and with a steady hand).  I would recommend this camera for anyone who wants to share photos on the web if they don't have the money or desire to buy a higher quality camera.  It certainly is better than NOT having a digital camera and the price can't be beat!
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

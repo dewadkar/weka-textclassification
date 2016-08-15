@@ -1,0 +1,207 @@
+DOC>
+<DOCID> 10405 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_C_50_Zoom_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_81891724932 </URL>
+<TEXT>
+            The new Olympus C50 is the smallest five megapixel digital camera in the world, just like its predecessor the D40 was the world&#146s smallest four megapixel digital camera.  Usually product updates are just a refresh (the manufacturer adds a few minor improvements and additional features to an existing camera platform).  For the D40&#146s update however, Olympus really pushed the envelope by completely redesigning the camera.  
+
+The C50 is even smaller than the its diminutive four megapixel sibling, the D40. The D40 had a square profile while the C50 has a more stylish rectangular shape. Canon&#146s popular S30/S40 models are very small (marginally smaller than the C50 or D40) but they produce lower resolution images (three megapixels for the S30 and four megapixels for theS40 and the soon to be introduced S45) than the C50.  Olympus didn&#146t rest on their laurels with the world&#146s highest resolution ultra compact digital camera. The sexy little C50 functions perfectly as an easy to use full auto point and shoot camera, but it also features several advanced photographic options that will appeal to more demanding photographers.  The feature rich and very competent little C50 is a perfect fit for weight/size conscious photo enthusiasts, travelers, hikers and backpackers, and extreme sports fans
+
+The C50 was engineered specifically to take advantage of the size reduction potential of the new xD-Picture Card format. The xD picture card is the smallest memory storage device on the market, about the same size as a standard postage stamp.  The C50&#146s tiny all metal body is stuffed with Olympus newly designed five megapixel CCD imager, a newly designed ultra small Lithium Ion battery, a new 3X zoom (f2.8-4.8/38-114mm) lens and Olympus&#146 trademark sliding clamshell lens cover.  The C50&#146s design is logical and intuitive with all controls located within easy reach of your fingers.  The rear thumb grip makes the C50 comfortable to hold and use.  The C50 doesn&#146t just rely on its good looks; it offers serious amateur and demanding professional photographers a wide range of automatic and manual exposure and creative photography options. Olympus&#146 proprietary TruePic image control ensures top quality images, especially when coupled with dual (Digital ESP evaluative and Spot) metering capabilities, auto bracketing, a scene (Portrait, Self-portrait, Night Scene, Sports, Landscape and Landscape plus portrait) mode, and the ability to shoot uncompressed five megapixel TIFF images. 
+ 
+<b>Viewfinder/LCD</b> 
+
+The C50 features a standard &#147optical tunnel&#148 type viewfinder that zooms with the 3X lens.  The optical viewfinder (typically) doesn&#146t show the entire frame and there is some parallax error at close focusing distances for macro work.  The C50&#146s viewfinder doesn&#146t provide any diopter correction for eyeglasses wearers.
+
+The 1.5" LCD screen is bright and clear and the images are sharp.  People complain about the smaller size of the LCD screens on ultra compact digital cameras but it has been my experience that the smaller screens actually produce a sharper, brighter, and more color accurate image for focusing and composition.  They also tend to be a bit more visible outdoors under bright lighting than the larger screens in standard sized digital cameras.  I would have loved to see a tilting LCD screen (ala the Canon G2) and I don&#146t understand why Olympus didn&#146t include a protective cover for the LCD screen or an anti glare coating.  This camera that was meant to be carried in a pocket so the failure of Olympus&#146 engineering staff to anticipate and prevent scratches and smudges is genuinely puzzling.  If you buy a C50 be sure to buy a small soft case to protect the camera while it is in your pocket or purse. 
+
+<b>Exposure</b>
+
+Auto modes include full auto and six scene modes. Manual options include aperture priority, shutter priority, and full manual mode. 
+
+<b>Nuts & Bolts</b> 
+
+<b>Image Adjustment Options</b>
+
+The C50 allows a wide degree of control over the camera's internal image processing, users can alter sharpening, contrast, and color saturation.  In camera image adjustment options allow photographers more control over the look of the &#147digital negative&#148.  Most picture adjustment options are available with post exposure image manipulation, but in-camera manipulation saves valuable time and is always preferable to post exposure. 
+
+<b>Lens</b> 
+
+The newly designed all-glass 3X optical zoom lens does a really excellent job with everything from landscapes to environmental portraits.  The relatively fast f2.8 maximum aperture will cover just about anything that comes up outdoors, but it may be a bit slow for many types of interior shot (the AF occasionally fails to lock focus in very dim lighting) Unlike its predecessor (D-40) the C-50 has no manual focus capability.  The power zoom functions smoothly, quickly, and quite accurately.  Run time from the wide-angle end of the zoom to the telephoto end is about 1.5 seconds
+
+<b>Auto Focus</b>
+
+The C50&#146s auto focus (contrast detection) is fast and accurate, especially so in a camera this small.
+
+<b>Manual Focus</b>
+
+The C50 doesn&#146t provide any manual focus capability
+
+<b>Macro Focus</b> 
+
+The C50&#146s minimum focusing distance in macro mode is 3.9 inches.  We didn&#146t test the camera&#146s macro capabilities. 
+
+<b>Flash</b>
+
+The C50&#146s tiny on board flash does a very good job for a unit this small.  I suspect that macro illumination will suffer somewhat due to the parallax conflict between the offset flash position and very close subjects.  Because of the offset positioning of the flash (in relation to the lens) portrait shots exhibit considerably less red eye than other ultra compact digital cameras. 
+
+<b>Movie Mode</b>
+
+The C50&#146s movie mode will allow users to shoot up to 30 seconds of video at 320X240 @ 15 fps without audio.
+
+<b>My Mode</b>
+ 
+My Mode is a special exposure mode that allows users to program the C50 with a personal set of exposure preferences. This is a really useful feature for photographers who like to tweak standard settings or who shoot often with the same group of exposure/control settings.
+ 
+<b>Power</b>
+
+The C50 is the first Olympus digital camera to be powered by a proprietary lithium rechargeable battery pack (LI-10B).  The tiny new battery was specially designed for the C50.  Power is adequate for a long afternoon of shooting if the LCD and flash are used sparingly.  A second battery is a recommended accessory.    
+
+<b>Technical Specifications</b> 
+
+Resolution: 5 Megapixels (2560X1920) Optimum Image Enlargement (OIE) size of 3200 X 2400 (interpolated)
+Viewfinder: Optical (zooming) real-image
+LCD: 1.5 inch color TFT LCD 
+Lens: 3X f2.8-f4.8/38-114 mm (35mm equivalent) 7 elements in 6 groups (with two aspherical elements for sharpness and color fidelity)
+Lens Thread: (filter & accessory) none
+Auto Focus: TTL contrast detection.
+Exposure: Program Auto, Scene (Portrait, Self-portrait, Night Scene, Sports, Landscape and Landscape plus portrait) Aperture Priority, Shutter Priority, and Manual Modes. Exposure compensation: Yes  /-2 EV in 1/3 EV steps
+Shutter Speeds: 8 seconds to 1/1000th of a second
+Auto bracketing: Yes 1/3 EV, 2/3 EV and 1 EV increments in 3 or 5 image sequences
+Metering: Digital ESP (multi-pattern evaluative) and Spot metering
+Sensitivity: Auto or ISO (equivalent) 80, 160, 320.
+Storage Media: xD Picture Card (32MB card included)
+Image File Formats: JPEG and TIFF (uncompressed)
+White Balance: Auto TTL and pre-sets for daylight, overcast, tungsten, and fluorescent light
+Flash: Built-in multi mode-- Auto (automatic activation in low and backlight), Red-eye Reduction, Fill, and Slow synch
+Movie Mode: 320 x 240 @ 15 fps for up to 30 seconds. 
+In-camera Image adjustment: Yes-- Sharpness: soft/normal/hard. Contrast: high/normal/low
+Noise Reduction: Yes
+Video Out: Yes
+Power: 1 x lithium-ion rechargeable battery LI-10B 
+
+MSRP: $699.00---Street Price Range: $599.00--$529.00
+
+
+<b>Included</b>
+
+32MB xD-Picture Card, USB cable, A/V cable, Li-B10 Li-ION battery and charger,  RM-1 Remote Control, Olympus CAMEDIA Master Software 4.0, user manual and Quick Start guide, and carrying strap
+
+<b>Optional</b> 
+
+MA-2 Adapter, PT 012 Underwater Housing
+
+<b>In the Field/Handling & Operation</b>
+
+My friend seldom gets excited about cameras---digital or analog.  He&#146s been selling new and used cameras and photographic equipment for almost twenty years.  He has been looking for a replacement for his first digital camera (a Canon G2).  He didn&#146t like the way the new G3 looked (too clunky) and he had decided to wait and maybe buy the new Canon S45 when it finally hits the market.  I was really surprised when he turned up with a brand new ultra compact five megapixel Olympus C50.  He has been carrying the camera around for almost a week and he loves it, after a couple of days of playing with the shiny little precision techno toy I understand his enthusiasm.  
+
+We started our test of the new C50 at the Jefferson mall on a beautiful Saturday afternoon.  We shot holiday shoppers and a couple of neat Christmas displays in the well-lit mall (under a combination of daylight and fluorescent lighting).  The C50&#146s auto white balance and auto sensitivity setting produced absolutely striking images with incredible detail and rich well-saturated colors. 
+
+After about an hour of wandering around the crowded mall we decided to drive back to the East side of Louisville by way of the Jefferson Memorial Forest.  My friend and I (and another photographer friend) stopped several times to shoot interesting woodland scenes (we are just past our peak fall color so most of the trees are bare) especially one huge old downed tree surrounded by ankle deep leaves and covered in thick green moss.  The old tree made for an excellent photographic subject and we spent at least half an hour shooting Eliot Porter style &#147intimate landscapes&#148 with the old tree as the focal point. 
+
+Once we got back to the Highlands we went straight to the Twice Told Coffee House (a funky little &#147sixties&#148 style live music and espresso joint on Bardstown Road).  Shooting inside the dimly lit coffee house allowed us to shoot under low light and compare the images with some my friend had shot with the Olympus D40.  The D40 had a bad reputation for noise in low light images and we wanted to see if Olympus had addressed the issue in the C50.  Digital noise was virtually gone from the images we shot at the Twice Told Coffee House (although we did notice some chromatic aberration around bright &#147point&#148 light sources in the images).  Overall, the C50 has much improved ability in low light over its predecessor.  After the three of us finished with our cappuccinos, we called it a day and agreed to get together the following morning and finish our tests.
+
+The following morning was an absolutely beautiful late fall day with blue skies and puffy white clouds.  The temperature was in the sixties and we decided to run down to Slugger Field and check out the annual Festival of Trees and Lights, a holiday fair that features dozens of trees, wreaths, and stockings decorated by Louisville&#146s leading interior designers.  Profits from the festival go to help fund the operations of the Kosair Crippled Children&#146s Hospital.  We saw lots of colorfully decorated trees, some truly awesome holiday wreaths, and a couple really outlandish Christmas stockings.  The fair goers were pretty colorful and we were able to shoot some interesting &#147environmental&#148 portraits as well.  
+
+Everything we tried with the little C50 worked fine and I really was impressed with the camera&#146s ease of operation and versatility.  Both my friend and I were a bit disappointed that Olympus couldn&#146t figure out some way to incorporate a manual focus capability with the tiny little camera, but other than that we were just enthralled with how much fun it was to use.  My friend is selling his G2 and replacing it with the C50.
+
+<b>Shutter Lag/Timing</b>
+
+Shutter lag is about average for a five megapixel camera.  The C50&#146s start-up cycle is about 6-8 seconds (time to extend the lens) and shot to shot times are about average for ultra compact digital cameras.  Saving uncompressed TIFF files requires about thirty seconds and the buffer will hold four (full sized JPEG) shots before it has to flush the data to the memory card.  Overall the C50 is pretty quick.
+
+<b>Image Quality</b>
+
+My friend has been carrying the C50 around for almost a week.  He showed me two 8X10 inch enlargements he printed up (both from full sized JPEG files) on an Epson Stylus Photo EPX785 and they were both very good (even when inspected with a 4X Mamiya Loupe). The C50&#146s colors are well saturated and accurate, the tonal range is excellent, and resolution is on par with every four megapixel digital camera currently available and with most five megapixel models as well.  Very good performance for a camera you can drop in your shirt pocket.  
+
+<b>A Few Concerns</b>
+
+I don&#146t really like the idea of a new storage media format since there are already too many, but I do applaud Olympus&#146 engineers for choosing the media storage format to help reduce the size of the camera---I like cutting edge engineering and adaptive technology.  That said you will need to buy additional xD cards if you purchase a C50.  There is no manual white balance option and the 3X lens shows some minor but noticeable chromatic aberration (especially under artificial light) and a bit of barrel distortion at the wide end of the zoom range and noticeable pincushion distortion at the telephoto end of the range.  The C50 doesn&#146t provide an AF assist light for low light focusing.
+
+<b>Conclusion</b>  
+
+I really enjoyed using the C50 and my friend liked it enough to buy one.  If you are looking for a five megapixel digital camera with a full load of exposure and image adjustment options that you can drop in your shirt pocket and take along anywhere you go, then you are going to love the C50.  Comparatively, the C50 offers a more compact size that the Canon Powershot G3, excellent five (rather than four) megapixel digital images, and it costs less.  The C50 is an excellent choice if you are looking for a tiny, easy to use, go anywhere, full featured digital camera at a reasonable price. I suspect that anyone who finds one in his or her stocking on Christmas morning is going to be one very happy boy or girl.
+
+<b>Links</b>
+
+ 
+Are you considering spreading your imaging wings and setting up a home digital darkroom? Check out my reviews of a pair of bargain priced and very capable photo quality ink-jet printers. 
+
+Epson Stylus Photo 785 EPX ink-jet printer 
+<a href='/content_60776812164'>http://www.epinions.com/content_60776812164</a> 
+
+Epson Stylus Photo 780 ink-jet Printer 
+<a href='/content_54223670916'>http://www.epinions.com/content_54223670916</a> 
+
+For definitive advice on <b>How to Choose a Digital Camera</b> please see my review: 
+<a href='/elec-review-2E46-17B174E2-39A418E3-prod1'>http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+For more information about specific Digital Camera models you may find my Digital Camera reviews informative: 
+
+<b>Nikon Digital Cameras</b> 
+
+Nikon D100 
+<a href='/content_72201965188'>http://www.epinions.com/content_72201965188</a> 
+
+Nikon Coolpix 4300
+
+Nikon Coolpix 5700 
+<a href='/content_70131814020'>http://www.epinions.com/content_70131814020</a> 
+
+Nikon Coolpix 4500 
+<a href='/content_69311368836'>http://www.epinions.com/content_69311368836</a> 
+
+Nikon Coolpix 2500 
+<a href='/content_65176440452'>http://www.epinions.com/content_65176440452</a> 
+
+<b>Canon Digital Cameras</b> 
+
+Canon Powershot G3 
+<a href='/content_78672989828'>http://www.epinions.com/content_78672989828</a> 
+
+Canon Powershot S230 
+<a href='/content_78900203140'>http://www.epinions.com/content_78900203140</a> 
+
+Canon EOS D60 
+<a href='/content_73529200260'>http://www.epinions.com/content_73529200260</a> 
+
+Canon Powershot S40 
+<a href='/content_59617087108'>http://www.epinions.com/content_59617087108</a> 
+
+Canon Powershot S30 
+<a href='/content_59041746564'>http://www.epinions.com/content_59041746564</a> 
+
+<b>Olympus Digital Cameras</b> 
+
+Olympus C 4000 
+<a href='/content_79317208708'>http://www.epinions.com/content_79317208708</a> 
+
+<b>Sony Digital Cameras</b> 
+
+Sony DSC F717 
+<a href='/content_79857684100'>http://www.epinions.com/content_79857684100</a> 
+
+<b>Fuji Digital Cameras</b> 
+
+Fuji Finepix S2 &#147PRO&#148 
+<a href='/content_76963548804'>http://www.epinions.com/content_76963548804</a> 
+
+Fuji Finepix S602 
+<a href='/content_75291266692'>http://www.epinions.com/content_75291266692</a> 
+
+<b>Minolta Digital Cameras</b>
+
+Minolta Dimage F100 
+<a href='/content_76963548804'>http://www.epinions.com/content_76963548804</a>
+
+Just &#147cut&#146n&#146paste&#148 the URL into your browser&#146s address window. 
+
+
+
+ 
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

@@ -1,0 +1,41 @@
+DOC>
+<DOCID> 35025 </DOCID>
+<PRODUCT> Digital_Cameras/Minolta_DiMAGE_7_Digital_SLR_Camera_Outfit__I___Camera_2766101K </PRODUCT>
+<URL> http://www.epinions.com/content_62230728324 </URL>
+<TEXT>
+            I purchased the Dimage 7 a couple of months ago. (There is a new version called the Dimage 7i that is supposted to fix a couple of things.) I am enjoying the camera. I am not a professional photographer but would like to be one someday. 
+
+The camera has a very powerful 7x built in zoom lense with manual zoom (that doesn't use up battery power). It is 26mm-200mm 35 equivalent. Nice range on it. That and the 5 mega pixels attracted me to this camera for under $1000. This camera really makes high quality digital photos practical for the amature. 
+
+There are all kinda of controls on the camera that control every bit of it's function ( Color satuation, exposure, apature, etc.) Everything you could possibly want to control ... I'm sure you can do it. See the minolta site for full details of the camera's capabilities as the complete manual is posted there. 
+
+It's a very flexible camera. I like it because I can compose what I want flexibly and get great 8x10 prints off my inkjet.
+
+One down side of the camera is that there is a program that comes with the camera called DIVU that you must run the pictures through in order to get proper colors to come out right. From what I am reading, Minolta decided to offload some of the processing to this program in order to save processing complexity/time???? Supposedly it is more profession to have a bigger color space generated in the camera and then you can "process" it for your particular usage. 
+
+I'm not sure why exactly what this all means but I do know that you do need to run the pictures throught the program. It take a bit of time to do this... not a lot but it is a delay in your workflow. The programs default profile increases the contrast too much and so there is a person on the internet (Bryan D. K. Biggers) who has created a modified profile used by the program to process pictures that fixes this issue. I have install this new profile. You can find it at  http://webpages.charter.net/bbiggers/DCExperiments/html/d7_color.html
+(Also note that there is a "yahoo group" devoted to this camera that has all kinds of info on using the camera effectively.)
+
+Batterty life on all digitals seeems short and this one is very much that way ... I use Rayovac rechargeables and am doing fine. I have the one hour Rayovac charger and it works great ... I carry 3 sets of batteries just in case but have never had to use the 3 set but I bet one day it will happen.
+
+The large resolutions requires large storage space. I have a 256 meg CF card and assume I will need another one soon because I find that I run out of space after a long day.
+
+Some people use the IBM 1 gig microdrives but I feel that since they are a bit slower at recording images (22 second vs 13 for my CF card at the largest resolution) and use more battery power and can't go over 10,000 feet ... which I do periodically ... why add to my problems. Plus microdrives are more brittle then CF cards. On the other side, Microdrives are cheaper per megabyte then CF cards at this point in time.
+
+I have also found a program called "Neat Image" that cleans up the digital "noise" that all digital cameras create ... it's a relatively slow program and I will probably only use it on pictures that I plan on printing but it works wonders. I use Photo Elements to edit pictures and Irfanview for viewing, slideshows and quick fixes.
+
+I feel like I have a lot to learn with this camera in order to get the best possible pictures out of it but it is exciting. I think I made a good choice of camera from what I have read and heard.
+
+The camera will generate jpegs, tiffs, or Minolta RAW (which is a flexible format for this camera that the DIVU program uses to generate a tiffs or jpegs).
+
+The camera has an LCD and an EVF (electronic viewfinder). Since the LCD uses too much power I use it only occationally and use the EVF setting to detect my eye and turn on only when my eye is there. The nice thing about the viewfinder is that you see pretty much exactly what you are going to get ... focus, exposure, light conditions. The bad thing is the EVF blanks out when I take a picture for a couple of seconds. It would be nice to be able to frame the next shot during this time but instead you are stairing at black for a couple of seconds and I am still not use to this. It kinda interrupts your composition flow especially when you are trying to catch something that is in motion.
+
+The autofocus is slow and difficult in low light situation. There is a manual focus mode that is a focus "by wire" which means that the focus ring is running a focus motor. It is also a little difficult and seems imprecise. People talk about practicing with it to get used to it. 
+
+I have a lot of practice to go but I am getting better slowly.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,32 @@
+DOC>
+<DOCID> 24727 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Sony_DSC-S70 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-449A-1FC8DC03-397C4EF8-prod5 </URL>
+<TEXT>
+            If you are wanting a digicam with a wide variety of bells and whistles and you have $799 to spend, and you are not a professional photo-bug, this is for you.
+
+Some of our business involves digital images, and we needed a digicam that could get in close with great detail, provide lots of &quot;out-of-the-box&quot; capacity, a lengthy power-plant life, and ease of use, as well as USB capability (an absolute must).  We first looked at Olympus C3030, but, on a lark, we picked this guy up and gave it a look.  Glad we did.
+
+Pluses:  (1)  The power plant.  great life span on an NP-FM50 InfoLITHIUM battery pack (M series) and it comes with an AC adapter and battery charger. We like the InfoLITHIUM batteries because they communicate with the camera about the actual amount of battery consumption and report remaining battery capacity to you via a small readout on the LCD. Because the S70 is so dependent on its LCD display, I recommend keeping a second battery pack charged and ready to go, especially when the AC adapter isn't convenient. (Overall power consumption does seem pretty good for a 3 megapixel camera though.)
+
+(2)  Impressive clarity, even at lower resolutions.  The S70 is equipped with a 3x, 7 to 21mm Carl Zeiss, Vario-Sonnar lens (equivalent to a 34 to 102mm lens on a 35mm camera). Zeiss optics are noted for their sharpness, and the lens is a significant feature of the camera.  Apertures can be manually or automatically adjusted from f/2.0 to f/8.0. Focus can also be automatically or manually controlled, with a number of preset distances for you to choose from. A 2x digital telephoto function can be turned on and off through the Record menu and increases the S70's zoom capabilities to 6x (although with the usual decrease in resolution/quality that digital telephoto brings). The S70 performs well in macro mode as well, with distances ranging from 1.62 inches (4cm) to 8 inches (20cm). There are also two exposure modes that set the autofocus system for faster shooting. Landscape mode fixes focus at infinity for far away subjects and Panfocus can rapidly switch focus from infinity to closer subjects, good for moving objects. (The aforementioned manual focus option also improves shooting speed.)
+
+(3)  Features and Exposure control.  Although the S70 doesn't feature a full manual exposure mode, you do get a reasonable degree of control over exposure parameters. You have a choice of Aperture Priority, Shutter Priority, Twilight, Twilight Plus, the two fixed focus modes and a Spot Metering mode. Aperture and Shutter Priority modes are pretty self-explanatory, with Shutter Priority offering speeds from eight to 1/1000 seconds for still images and from 1/8 to 1/1000 seconds for movie images. The Twilight modes give you better results with night scenes
+and dark settings and the Spot Metering mode switches the exposure metering system to take readings from the very center of the image (a target crosshair appears in the center of the LCD monitor). White balance can be set to Auto, Indoor, Outdoor or Hold (the manual setting) and exposure compensation is adjustable from -2 to +2 in 1/3 EV increments. The built-in flash offers Auto, Red-Eye Reduction, Forced and Suppressed modes with a variable intensity setting. A bonus here is the external flash socket, which allows you to connect a more powerful flash to the camera. The Picture Effects menu captures images in Solarized, Sepia, Black &amp; White and Negative Art tones and a sharpness setting lets you control the softness of the image. Overall a nice mix of exposure control with some whimsical image manipulation tools thrown in.
+
+(4)  Ergonomics and Expansion:  Key criteria here was one-handed operation, and this little camera permits that.  It has well organized controls that are easy to get to and manipulate.  Even I could figure out what to do with this without the manual, though I did read the manual cover-to-cover later.
+  It supports a mammoth wide-angle lense(activation via the monitor), and the slot for the battery pack AND the memory stick is on the side.  together.  There is a spot on the bottom, just off center, for a tripod mount, a nice feature.  It also supports an external flash.
+
+Minuses:  (1)  This is a good one.  The viewfinder shows about 85% of the entire image that shows in the LCD display!  What?  I am not a complicated guy, so when I used the viewfinder instead of the LCD display, imagine my surprise when I found out this little tidbit.  Glad I didn't burn any film.  So, if shooting for 100% image (as most of us are), you're going to have to rely on the LCD display, the viewfinder is guesswork.  Another reason to keep a spare battery pack charged and ready to go.  But here's the little extra kicker, the LCD only hits 95% of the intended image, at best.
+
+(2) Shooting speed.  There is no such thing as rapid-fire stills using a digicam, and this camera is no exception.  However, it does have a movie-mode that lets you shoot some live-action shots, and there is an audio mode for spot narration.  More reason for the battery pack.
+
+(3)  Audio quality is raspy, which I found surprising from Sony.  I experimented with varying distances from the microphone (which is mounted flush with the top of the unit), and found most distances provided similar results.
+
+The camera is good for the amateur photographer who want as much &quot;bang-for-the-buck&quot; out of their digicam as possible.  Look for a retailer that sells a good warranty at a reasonable price.  We found huge differences in pricing, with Best Buy winning our business because of their warranty<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,27 @@
+DOC>
+<DOCID> 32852 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_NikonCoolpixx-Nikon_Coolpix_880 </PRODUCT>
+<URL> http://www.epinions.com/content_8756498052 </URL>
+<TEXT>
+             If you are searching for a digital camera that is easy to use and repeatedly produces excellent photos then you may want to give the Coolpix 880 a look. 
+ Some of the things you should be aware of prior to parting with your money are what could be referred to as hidden charges. Nikon chose to NOT supply a rechargeable battery and this camera likes batteries add about $100 for one rechargeable battery and charger/AC adapter or about $60 for an external power bank see the following site for details.
+http://www.mahaenergy.com/products/consumer/powerbank_comp.htm
+If you decide to stick with a throw away battery or if you want to have some handy in case your rechargeable battery stops at an inappropriate time. The 2cr5 non-rechargeable batteries are currently selling on ebay for around $19 for a package of 5.
+ Nikon also chose to include an 8 meg compact flash card. With the image size set to full an 8 meg card will hold the following number of images.
+Quality
+HI=0
+Fine=5
+Normal=10
+Basic=19  
+ Translation, if you want to test the TIFF mode on this camera you can't unless you again make another purchase.  The only good thing I can say here is the results obtained on FINE look as good to my untrained eye as those taken on the HI setting. I purchased a 64 meg card for another $90 on ebay. The software bundle is also weak. This area is more of a personal preference so I won't go into much detail other than to state if you do not own another digital imaging software program you may want consider making this purchase as well. Finally the flash is a bit weak but for another $140 you can fix this as well with the addition of an external digi-slave dsf-1s. 
+ Now for the good news. This camera is easy to learn and consistently produces incredible images. Colors are accurate and white balance settings are easy to manipulate to suit your individual taste. Auto focus is fast and accurate but if you wish manual focus controls are available. The camera is also supplied with a USB cable for easy and fast transfer from your camera to computer. If your computer does not support USB a serial cable is available as an accessory. The lens cap has a small cord which keeps it from getting lost. This may not seem worthy of mention but I have lost several unconnected lens caps in the past. 
+The CP 880 is a very capable camera and produces excellent results under almost all lighting conditions. The internal flash is somewhat limited, you will need to practice with the camera settings and do some image editing to obtain good results. You can add an external flash to this camera, which makes things easier and produces better results. The CP 880 does NOT have a hot shoe or a pc connection  to sync an external flash with the camera. Please see srelectronics.com for information on the addition of an external flash to a digital camera. I will tell you their product works very well (at least with a coolpix 880). If you decide to try this accessory with the CP 880 use trigger mode two on the back of the flash. 
+ The camera was not supplied with any type of case. You will probably want to pick one up if you do not already have a camera case of some sort. There are several accessories available for this camera. One that I find interesting but have not tried yet is the slide copying adapter. I will post an update if and when I have a chance to use one.
+ If you are in the market for a 3-megapixel digital camera, do your home work so you can make the best decision to suit your needs. I'd recommend checking out epinions.com (of course), megapixel.net, steves-digicams.com, and imaging-resource.com (imaging-resource.com has a neat image comparison section available which will let you view images from 2 tested cameras side by side on your monitor. If you do not have a high-speed internet connection this can take a while) 
+ I noticed a typo after submission of this epinion and have made the needed correction. Please note if you choose to add the external flash (dsf-1s) you will need to use trigger mode 2.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

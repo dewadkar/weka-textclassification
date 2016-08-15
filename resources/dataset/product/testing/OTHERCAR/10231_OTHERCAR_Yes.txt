@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 10231 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1999_Lexus_RX_300 </PRODUCT>
+<URL> http://www.epinions.com/auto-review-53C1-C4577EA-382A3E75-bd3 </URL>
+<TEXT>
+            This SUV, the Lexus RX-300 is great.  It has all the luxuries of a sedan, but with the AWD of an SUV.  It handles great in the snow.  Only problem is that there is too much wind noise at speeds higher than 60 MPH. This SUV can climb mountains and still take you to the theater in style.  It is much better than the Mercedes Benz ML-320 or even the BMW X5.  The Lexus can out manuver any of the big Lincoln Navigator type SUV's out there today.  It is a must have along with the Audi A6 Quattro.  The two are a great combo to have in a garage.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

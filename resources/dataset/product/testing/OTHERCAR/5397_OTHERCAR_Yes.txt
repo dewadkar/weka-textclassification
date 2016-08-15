@@ -1,0 +1,23 @@
+DOC>
+<DOCID> 5397 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_CanonPowerShott-Canon_PowerShot_A5 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-23BE-37B45D8-38D3C794-prod5 </URL>
+<TEXT>
+            Surprising as it may seem, even though I'm a geek I hadn't been terribly interested in digital cameras.  Not being a photography nut, I found most too bulky and more like hauling around a video camera than anything else. Perhaps it is different to people used to carrying around a gear bag, but for those of us who are more into recreational or opportunistic photos, most digital cameras out now seemed to be too much hassle.  I'm no fan of not being able to record to extremely common media (like floppies) either. 
+
+The Powershot has really turned me around; it is the size one expects for snapshot-use, and yet takes high-enough quality shots for more serious photography.  The small size isn't for a lack of features, either; I'll take Canon's word that it is the smallest zoom 1.3 Megapixel camera on the market.  All I know is that it can easily replace my conventional snapshot camera, as it has the zoom and range of environments to handle your average person's needs.  The auto-timer mode is just what you'd expect as well.  I admit that I have yet to play with the continuous-shot mode (claims 1 frame per second) and the stitch mode (where you can do 360 panoramas, large images by assembling four shots, etc), but plan to when taking my next trip.  There is what first seems to be an odd rubber ring near the lens assembly on the front; turns out that this is an excellently-placed grip.  This prevents a fumble-fingers like myself from my common error of getting used to a new camera by getting my fingers in the shot; you know exactly where you can touch on the front the first time you pick it up.
+
+While it is small, it is surprisingly hefty.  I don't think it could qualify for &quot;pocket-sized&quot; except in a coat or jacket.  It is also oddly packaged; while you get the wrist strap, the 'soft case' is a separate item you need to buy.  Similarly, a single Lithium battery is supplied, but it eats power like nobody's business when you have the LCD panel on. Extra batteries can run up to $10 in your local Radio Shack, and the 'optional power kit' (AC and DC adapters, as well as NiMH rechargable) can be found between $78 to $100.  In my opinion, they would have been better off bundling at least the AC adapter with the camera.  It is great that you can turn off the LCD screen and pretend you're just shooting pictures like you would with an ordinary camera, and only activate it when you want to review the &quot;roll&quot; you shot.  But again, it would be smart to be able to switch to AC for that review.
+
+Something that I needed to get used to in making the switch from normal snapshots to the Powershot 150 is the seeming shutter-delay in taking a shot.  There is a human-noticable pause between pressing the button and the image being captured; not being widely-experienced in the digital camera world, I can't say if that is common or not.
+
+I'm still not delighted about the interfaces, but other Powershot cameras have native USB, so it is my own fault for picking this model.  I did pick up some compact flash with a CF-PCMCIA adapter, so I don't have to mess around with the cables unless I'm somewhere without PCMCIA slots handy.
+
+All in all, I'm happy with the camera.  Not so happy that I had to pick up extras to make it very useful to me personally.  Canon, why not set a trend and ship CF-PCMCIA adapters with the cables, etc in your kit?  They sure don't cost much, and would be well worth it to the customers.
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

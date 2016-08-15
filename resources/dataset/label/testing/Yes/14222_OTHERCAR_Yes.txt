@@ -1,0 +1,16 @@
+DOC>
+<DOCID> 14222 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_CasioQVV-Casio_QV-2000Plus </PRODUCT>
+<URL> http://www.epinions.com/elec-review-1E08-BFF3D4D-3875145F-prod1 </URL>
+<TEXT>
+            This is a great little camera. The picture quality is excellent, and the display is great.  USB transfers are very fast.  It can capture up to a 30 second AVI movie, but it has no sound.  It also has a panorama mode which really works well.  What you do is take one picture and then it displays a bit of the right side of the first one on the left of the display sort of transparently, so you line it up and take the next picture.  Up to 9 pics.  Then the software puts them together and it looks really good.  The 3x optical zoom is a great feature.  The digital zoom works well too, but is not variable.  Like you push zoom in and it slowly zooms in optically, then it 'clicks' into 2x digital mode.  The onscreen menus are pretty moron-proof, and when you get the hang of them you can put it into Advanced mode which puts the menus in a nice list instead of icons.  When you plug it in you can set it up so it automatically starts loading the images (which is nice).  The PhotoLoader application is easy to use, and the pictures can be browsed with Windows Explorer (open the directory) or through a friendly HTML-based interface in a web browser.  The Panorama software works very well.  If you like the Grand Canyon or stuff like that you will love the Panorama shot.  Photo editing software such as Adobe PhotoShop would have been nice
+
+My only problem with this camera is the absurdly low battery life, especially when using the movie function.  If you like making soundless movies, the batteries will actually get warm.  Like they do in cheap Radio Shack remote control cars.  And it takes 4 AAs.  expect thee to get munched in ten to twenty minutes of using the movie function.  Also, the card it comes with is very small (8MB).  This will only hold 8 full size (1600x1200) pictures.  If you bump it down to small size (800x600) it will hold 23.  I have a biggger CompactFlash card which worked fine but a bigger standard card would have been nice.  They claim Microdrive (small hard disk in a CompactFlash type 2 card) compatibility, but I would not want to use that because it would die in 5 minutes with the added power drain of spinning a hard drive.  A Lithium Ion battery and charger would have been greatly appreciated.  Also, when you turn it on the lens fully extends (which takes a few seconds) and then the flash charges (which takes a few more).  The lens has a funny design, the outer lens is always extended and when you zoom in the inner lens retracts into the camera.  (In most cameras the inner lens is fixed and the outer lens extends when you zoom).  The flash is used sometimes when I dont think it is needed (it kind of whites out the picture) but that is not a big problem as it can be turned off easily.
+
+Overall, I think it was a great value for $520.  It has some great features but lacks some things that would have really helped (lithium battery and charger, sound).  If you are a techie or photo lover this is for you.  Great pics, great silent movies, great panorama, battery life still sucks.  Bring spares, you'll need them.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

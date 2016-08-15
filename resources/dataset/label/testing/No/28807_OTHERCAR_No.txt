@@ -1,0 +1,91 @@
+DOC>
+<DOCID> 28807 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_KodakDCC-Kodak_DC-210 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-1BDF-1BB477F-38CD09D1-prod4 </URL>
+<TEXT>
+            I�m an extremely lazy amateur photographer.  I don�t like to set options, fiddle with lenses, or adjust the exposure compensation (what the heck is <i>that?!</i>).  All I want to do is pick up and go, point and shoot.  I�m not aiming to capture the coolest shot �- I just want to preserve memories of family vacations and special occasions with friends.  I figured that any 1 megapixel camera would more than adequately give me the quality I need, without requiring too much work from me in return.
+
+The DC210 Plus seemed to fit the bill.
+
+<b>The DC210 Plus in a nutshell</b>
+� 1 megapixel (1152 x 864) resolution
+� 2x optical zoom (29 to 58mm)
+� Close-up mode (8 inches)
+� Color LCD viewfinder and optical viewfinder
+� Built-in flash
+
+<b>Taking pictures</b>
+The DC210 is extremely easy to use: just turn it on, and then point and shoot.  
+
+Here are the settings I used: 
+� Flash: Auto red-eye. Automatic flash with red-eye reduction.
+� Resolution: High (1152 x 864 pixels)
+� Quality: Best (4 pictures per 1MB of storage)
+
+Some observations:
+� After you snap a picture, it appears on the LCD screen for two seconds, so you can what it looks like.  I <i>love</i> this!  (The screen turns off after two seconds to conserve the battery.)
+� If you don�t like what you see on the LCD screen, you can delete the photo right then and there.
+� You can take close-up pictures, but not <i>too</i> close (down to 8 inches only).
+� It�s hard not to get smudge prints on the LCD screen, because it�s located right where I would place my left thumb on a regular camera. 
+� There�s a nice raised rubber grip on the right front side of the camera that prevents your hand from slipping.
+
+<b>Installing the computer software</b>
+The camera comes with a software CD containing two important programs: one called �Mounter,� which lets you transfer pictures from the camera to your computer, and one called �Picture Easy,� which lets you enhance your photos and organize them into albums.  I installed both programs without any problems.
+
+<b>Transferring pictures to my PC</b>
+� The �Mounter� program defines your camera as another drive on your computer, so you can easily drag and drop pictures from one file folder to another the way you would with any other file.  I connected one end of the serial cable to my computer�s serial port, and connected the other end to the camera.  I then used Mounter to transfer the pictures.  It worked perfectly the first time!
+� Using the serial port connection, it takes a <i>long</i> time to transfer files to the computer; it took ten minutes to download 8 pictures at highest resolution, best quality. For most people, this would drive them crazy and they would probably buy a separate card reader (which can be 10 times faster than a serial connection), but for me, it�s not that big of a deal �- I just start the download process and work on something else until the transfer is complete.
+
+<b>Retouching photos</b>
+� As mentioned earlier, the DC210 comes with a program called �Picture Easy,� which lets you enhance photos and then organize them into onscreen albums.  The user interface is geared towards computer novices and perhaps children �- it�s very friendly and colorful.  I did not find the program useful, however, because it has very limited, pre-set enhancement capabilities: cropping, rotating, and manual enhancing that consists only of sharpness and color.
+� Instead of �Picture Easy,� I prefer bringing the photos into Paint Shop Pro, which includes all the functions listed above, plus resizing, saving the photo as a smaller file, changing the contrast, and multiple levels of Undo.
+
+<b>Quality of the photos</b>
+The quality of the pictures is perfectly fine for my needs � which is mainly for Web display. (See �My sample pictures� below.)
+
+<b>A caution about batteries</b>
+One of the most common complaints that digital camera users have is that the batteries are used up <i>very</i> quickly.  (The DC210 uses four AA batteries, included in the package.)
+
+Tips for conserving batteries: 
+� Never use the LCD as a viewfinder (use the optical viewfinder instead).
+� When transferring pictures to your computer, use the camera�s AC adapter.
+
+I�ve taken about 50 pictures so far, and the battery indicator still reads �full power.�
+
+<b>A recommendation about CompactFlash cards</b>
+The CompactFlash card is what stores your photos in the camera.  The DC210 comes with an 8MB CompactFlash card, which can roughly hold around 24 pictures at best quality and highest resolution.
+
+I would recommend purchasing a bigger card, say 32MB, which will hold 100 pictures at best quality and highest resolution.  This will cost you around $100 at the online Kodak store.
+
+<b>The Kodak web site is awesome</b>
+If you want information about all the digital cameras that Kodak makes, check out their <i>excellent</i> website at www.kodak.com.  Not only does it provide complete spec sheets and sample images for each camera, but it also has an online demo for each camera that walks you through all of its features, accompanied by excellent illustrations.
+
+<b>All in all, why I decided <i>not</i> to keep the Kodak DC210 Plus</b>
+I think the DC210 is a perfectly fine camera for the weekend photographer.  It�s easy to shoot pictures, and easy to transfer them to the computer.  The quality of the pictures is wonderful for Web pages.  And the �Picture Easy� software that�s included is great fun for the computer novice.
+
+But, as is the case in so many of my purchases, I am returning the DC210 for two important usability reasons:
+� It�s not small enough.  I can�t fit it in my pocket.
+� It doesn�t have an automatic lens cover. This means a protective bag is required.
+
+Both these reasons would definitely deter me from taking the camera with me wherever I go.  And that would mean possibly missing out on the photo opportunity of a lifetime.  You just never know.  :)
+
+------------------------------------------
+<b>Great digital camera Web sites</b>
+� Imaging Resource (www.imaging-resource.com): Great feature that lets you compare images from two different cameras of your choice, side-by-side. 
+� Megapixel.net (www.megapixel.net): Excellent digital camera reviews. 
+� ComputerShopper (computershopper.zdnet.com): Easy-to-understand explanations of basic digital camera terms. Click �Digital Cameras� and then under �Shopping Tips,� click �How To Buy Digital Cameras.� 
+
+<b>My sample pictures</b>
+� See www.jps.net/tanster/kodak.	
+� These pictures were taken with the highest resolution setting (1152 x 864 pixels), at �Best� quality.
+� I edited each picture in Paint Shop Pro, to reduce the size to 50%.  <i>No other retouching was done!</i>
+
+<b>Best price on a Kodak DC210 Plus, as of 3/13/00</b>
+� $307 (plus $18 shipping), at The Camera Zone, www.thecamerazone.com.
+<br><br>
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

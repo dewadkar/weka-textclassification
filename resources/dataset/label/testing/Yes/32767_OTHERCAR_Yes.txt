@@ -1,0 +1,80 @@
+DOC>
+<DOCID> 32767 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Canon_PowerShot_S400 </PRODUCT>
+<URL> http://www.epinions.com/content_99177238148 </URL>
+<TEXT>
+            Here in the United States, Canon has offered a new camera for digital buffs.  Depending on what part of the globe your in, the PowerShot 400 may have different names (US / Canada: Canon PowerShot S400 Digital Elph ,  Europe/SE Asia: Canon Digital IXUS 400, Japan: Canon IXY DIGITAL 400).
+
+Canon&#146s new PowerShot S400 has all the features that any novice or professional photographer would need for taking outstanding pictures. This compact camera provides four mega pixel pictures and three times optical zoom into the same small size as their previous PowerShot S230.
+
+ One of the first noted (and appreciated by this purchaser) differences from this model and the previous ones is it&#146s finish.  Unlike previous Powershots, the S400 upgrades form the stainless steel case to an all new &#145Cerabrite&#146 material (metal and ceramic alloy). While decreasing the ease at which it can get scratched, the case has a &#147cool to the touch&#148. Additionally, the &#145Cerabrite&#146 finish does not show up fingerprints and dirt as easily as the old stainless steel did. A boon when you have as many kids as I do and EVERYONE ants to take a picture. 
+
+The S400 has a bright and sharp 1.5" 118,000 pixel LCD display with an outstanding (and functional) anti-reflective coating.  I found that I was able to view the screen in a variety of lighting conditions.  To aide in your viewing pleasure, there are fifteen levels of brightness adjustment to allow 100% frame view in both shooting and playback modes.
+
+For those up close and far away shots, the S400 has an all new 3x optical zoom lens.  With an equivalent focal length zoom range of 36 to 108 mm, this lens provides the ability to get in close.  The lens has a maximum aperture of F2.8 at wide angle and F4.9 at telephoto (Ok &#150 for you nonphoto buffs - this means that this lens is a little slow and could lead to blurry images).  The automatic functions of this lens ensures that the lens is protected when not in use.  With power secured, the lens retracts and gets covered. Applying juice to the camera and you will note that it takes a little more than a second for the lens to extend, total power up time is slightly longer.
+ 
+Most digital cameras off a typical optical viewfinder.  And the S400 does this as well. The viewfinder is okay for an occasional snapshot at reasonable distances, but this is no substitute for using the LCD monitor. On the down side, the S400 viewfinder has no dioptre adjustment and no parallax correction lines. 
+
+The bottom of the camera has a metal tripod mount, as usual.  This one is too close to the camera edge (left side in this case). Tripod mounts near the edge tend to cause the camera to lean in one direction when the mount bolt is tightened.  I avoid this by inserting a felt washer between the camera and the tripod.
+
+The S400 uses a Compact Flash card for picture storage.  The compartment is on the right side of the camera (from the rear) and is opened by sliding a lever upwards (the door will spring open). Inside you will find a Compact Flash Type I slot. For protecting the card from electrostatic shocks, opening the card door powers the camera off. But if there are images still being written when the door is opened, the camera will emit a high pitch (and irritating) beep continually until writing in an attempt to keep you from  removing the CF card.
+
+On the left side of the camera, behind a rubber cover, are the A/V out and digital (mini-USB) connectors. The rubber cover looks about as good as a gangrene thumb on a model.  It simply doesn't blend in to the overall design. Canon could have counter-sinked or flush mounted a cover, producing a more stylish look.
+
+ On top of camera you will find few controls. By limiting it to the power button, shutter release and zoom lever you will minimize any accidental control mishaps.  I especially liked  the power button requiring a 0.8 second hold before it will power off (guarding against power ups). Unfortunately, this is not the case for power offs, power off is instant and only takes a flicking of the switch. The power and shutter release buttons are notably different in size.  I have not had too many accidental power-off's as a result.
+
+Also on top (right corner) of the camera is the flash unit and the AutoFlash (AF) assist lamp. At Auto ISO Flash (AiAF), the flash has a quoted range of 3.5 m (12.5 ft) at wide angle and 2.0 m (6.6 ft) at telephoto. The AF assist lamp (which can be disabled) is used to illuminate the subject with a white light in low light situations, greatly improving the chances of the system being able to make a good AF lock. And a better picture as a result.
+
+The PowerShot S400 is a snap to use.  It is quick to react and introduces few significant delays between shots. Operational performance (menu navigation, FUNC menu settings changes and image magnification) are darn near instantaneous. One detractor is the image to image delay browsing in playback mode. There is an additional delay in AF lag introduced by using AiAF and this can become irritating when trying to review  a large number of shots. 
+
+Canon made sure that there was some place for me to put my thumb while taking pictures. With a large clear portion of body, your thumb rests naturally into this location. No more contortionist grips in order to get a good shot. 
+
+The S400 has added a shooting mode dial (auto / manual / stitch assist / movie) and changed the exposure compensation / white balance / photo effect button of the S230 to a 'FUNC' button which displays the on-screen function menu. These modifications mean that even my wife has no problems navigating the features of this camera.
+ 
+Taking a picture is almost mindless due to the onboard computer.  The S400 will tell you what you need to do and when it is ready for the shot.  Basic information on camera readiness is as follows:
+
+Green Steady	Ready to shoot
+Green Flashing 	CF card activity / Computer connected
+Orange Steady	Ready to shoot (with flash)
+Orange Flashing Ready to shoot, shot may suffer         
+                from blur (slow shutter)
+Yellow Steady	Macro focus / Infinity focus
+Yellow Flashing	Can not focus lock, focus difficulty
+
+ Canon has allowed you to select image size and JPEG quality separately. Image options include; 2272 x 1704 (L), 1600 x 1200 (M1), 1024 x 768 (M2) and 640 x 480 (S). JPEG quality also includes Super-Fine, Fine and Normal settings. Unfortunately, the S400 does not provide a RAW or TIFF output.
+
+For those special shots, the S400 has an automatic noise reduction mode. Enabling  an exposure of 1.3 seconds or slower.  Supporting long exposures of 1 to 15 seconds is achieved by enable the camera's "long exposure" feature (FUNC menu, press 'SET').
+
+By taking a 'dark frame' after the main exposure, noise reduction is accomplished by using any noise from the dark frame and removing it from the main shot. This is especially noticeable while taking night and dimly lit room pictures. The S400 takes great night exposures with no visible 'hot pixel' noise.
+
+The S400 also allows taking short movies.  While in the &#147Movie Mode&#148, short movie clips (AVI format) at different resolutions (all with mono audio @ 11.24 KHz), can be taken.  The resolution selections are 320 x 240, 15 fps and 160 x 120, 15 fps, both limited to a maximum of 3 minutes (including audio).  The 3 minute recording requires a high speed CF card at additional cost.
+
+Canon has included movie editing, Histogram display and Slide show features for manipulating and shuffling your pictures.  I was also pleased to find a Sound memo feature.  This little jewel allows you to record a note for yourself or someone alse (up to 60 secs).
+
+The Killer for all electronic devices in my house has been (and shall always be) the battery life.  Fortunately, Canon had my family in mind when they punched out the S400.  Powered by the NB-1LH 3.7V 840 mAh Lithium-Ion battery pack, Canon has bumped up the battery output from the 680 mAh NB-1L last year.  We managed to continuously run the battery for a little over 90 minutes before needing a zap.  I found that strategic use can extend battery life several days.  Of course, I failed to convince the children of this fact and I plan on buying a second battery.
+
+Like most digi&#146s, the battery compartment is found in the base of the camera.  It is easily accessed by sliding the plastic door to the left and open. The battery itself is held in place by a spring loaded (brown) clip. For lengthy shootng, you can use an optional AC adapter.  This is connected at a round rubber grommet in the battery compartment.
+
+Charging the battery is completed with the supplied  CB-2LS / CB-2LSE battery charger. After sliding the battery into place, a LED on top of the charger will indicate red (charging) and turn green once the battery is fully charged.  It takes about 2 hours to charge a completely dead battery.  Ten minutes will provide sufficient juice for those &#147necessary&#148 shots. 
+
+As with most Canon products, this camera was packaged and supplied well.   Inside the in the box are: 
+ &#149 Canon PowerShot S400
+ &#149 32 MB Compact Flash card
+ &#149 Battery Pack NB-1LH (840 mAh)
+ &#149 Battery Charger CB-2LS(E)
+ &#149 Wrist strap
+ &#149 USB Cable 
+ &#149 Video Cable (A/V) 
+ &#149 CD-ROM (Driver, Appl. software) 
+ &#149 Manual
+ The manual was simple to follow and understand.  I was ready to start shooting before the battery was fully charged.
+
+The PowerShot S400 produces very nice images, low noise, good color, good tonal balance with excellent details. Canon has shown growth through the S400, this generation being slightly better than the last. 
+
+And the price is only getting better by the day.  This baby cost 500 bucks when it first appeared.  You can shop around and find it under 400 dollars now. A great bargin when you consider all of the bells and whistles the S400 has.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

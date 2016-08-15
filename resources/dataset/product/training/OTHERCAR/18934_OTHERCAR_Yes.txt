@@ -1,0 +1,93 @@
+DOC>
+<DOCID> 18934 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2001_Mitsubishi_Galant </PRODUCT>
+<URL> http://www.epinions.com/content_7749340804 </URL>
+<TEXT>
+            First of all � <b>why I bought Galant</b>:
+
+1. <b>Value</b> � for the same price you cannot buy a similarly equipped competitor (Honda Accord or Toyota Camry). Even base DE model is very well equipped. The best value for the money is provided by ES trim level (which I got) � it has automatic transmission as a standard equipment, power everything, A/C with air filtration, engine immobilizer, fog lights, antiroll bars front and rear, remote keyless entry, radio/CD player, etc.
+
+2. <b>Styling</b> � it is quite distinctive comparing to competition. Of course, they stole some styling elements from BMW, but you can also see the resemblance to the old (pre-1999) Galant.
+
+3. <b>Handling</b> � <b>�Car and Driver�</b> magazine gave Galant (ES V6) a first place among midsize sedans under $20K. That was in part due to a fact that you can buy ES V6 for under $20K, but neither Camry nor Accord can be had for $20K with V6 engine. But engine notwithstanding, Galant�s suspension, transmission and both engines are excellent.
+
+<b>Doubts</b>
+
+1. <b>Reliability</b> � it is worse than Accord and Camry. But you have 3-year/36K warranty and 5-year/60K powertrain warranty.
+
+2. <b>Fit and finish</b> � might also be a bit worse, but Galant employs attractive materials and even fake wood trim (ES trim level and higher).
+
+So I got a 2.4 liter 4-cylinder Galant ES. Although it has 140hp (versus V-6�s 195) � CA emissions equipment, the torque is respectable 155 lb-ft at 3000 RPM and the torque curve is relatively flat, giving you good acceleration and drivability. The engine starts to pool very good after 3500 RPM all the way to the redline (6000 RPM).
+
+The 4-cylinder engine compares favorably with both 4-cylinder Accord and Camry. Unfortunately, unlike people in Japan or Europe, we cannot buy Galant with direct-injection gasoline engines (GDI), which provide better fuel economy and more power per liter of displacement.
+
+<b>I got 4-cylinder because:</b>
+1. It was cheaper.
+2. Insurance premium is lower.
+3. Better fuel economy.
+4. The wheels on V6 models look ugly.
+5. Better weight distribution.
+6. It is no slouch.
+7. I am a wimp (just kidding)
+
+The Galant�s cabin is very roomy and quiet. The A/C has a micron air filtration system (after buying it I found out that I have to replace the filter every <b>7,5K</b> miles). The A/C controls are very easy to use. Both A/C and heater are very effective.
+
+The brakes are very easy to modulate (4-cylinder cars use disc/drum combination and 15� wheels with 195-series tires whereas V6 models have all discs and 16� wheels with 205mm tires) and cornering is good. 
+
+The transmission uses fuzzy logic and adjusts shifting points according to the way you drive. In other words it is very good � push the pedal all the way and engine revs almost to the redline, the kick-down is also quite quick. But there is still space for improvement � on couple of occasions even with the fully depressed gas, the transmission would upshift way too early.
+
+<i>Fuzzy-logic automatic transmission is very "smart" and downshifts eagerly. The shifts are smooth and in regular driving they happen in right places (I used to drive a car with stick, and although stick gives you more control, the Galant's transmission is very good when it comes to shifting points). During shifting, the electronics retards ignition, so shifts don't happen abruptly.</i>
+
+The car has an engine immobilizer � the car cannot be started without the key, which has an embedded transmitter. The sound system is surprisingly good, even though in the ES model it has "only" 4 speakers. You get radio/CD player as standard equipment. The CD player plays my CD-R audio discs well. But the left front speaker rattles.
+
+The 4-cylinder engine has 4 valves per cylinder and requires regular gas. It has 2 balance shafts to fight vibrations and distributorless ignition. The noise level in cabin is low � you can talk quietly cruising at 70 mph, and I like the engine sound during hard acceleration. 
+
+The trunk is big <b>but the trunk opening is a little narrow</b>. The trunk has hooks for your grocery bags. The rear leg space is tight; the front seats take some time to get used to but after that they are OK.
+
+The interior looks great even without leather. The dash is covered with soft plastic that looks rich, and ES model that I have has "wood" trim. However, with 4,000 miles on the odometer, I could already hear rattles in the cabin.
+
+Try Bodega Beige Metallic Exterior with Tan interior. I like beige exterior also because it is hard to see dust and dirt on it. The fake wood looks good also. The remote keyless entry is convenient and engine immobilizer with security keys is reassuring. Air conditioning doesn't seam to "eat" a lot of engine power and works good. The cheapest DE trim has black mirrors and other exterior items, other models have body-colored ones.
+
+The mileage is about <b>24 MPG</b> (mostly city driving), around 27-29 MPG on the freeway. I got 27.5 MPG on a round-trip from LA to Vegas and back (480 miles at 70-90 mph), including some city driving. 
+
+But the fuel gauge is inaccurate - it stays at "Full" for the first 50-90 miles, then goes down and when it reaches "Empty" and the warning light illuminates, there is still <b>3</b> gallons in the tank. So you drive and worry (is it going to be empty soon?)
+
+The crash tests (www.crashtest.com) rates are good, especially for side impact (with side airbags), and insurance premiums are quite low. 
+
+Currently I have 12K on the odometer and didn�t have any trouble. <b>The recall was issued a week ago (1/16/2001) to replace a transmission cooler hose</b>; I scheduled a service appointment to do it next week.
+
+I�m very satisfied with Galant and highly recommend it. Just wish I could get it with a stick shift.
+
+-------------------------------------------------------
+
+<b>ENGINES</b>
+
+<b>2.4L 140 hp I4</b>
+Horsepower: 140 @ 5500 RPM
+Torque (lb-ft): 155 @ 3000 RPM
+Displacement (cc): 2351
+Bore X Stroke (in.): 3.41 X 3.94
+Compression Ratio: 9
+Fuel System: MPFI
+Recommended Fuel Type: Regular Unleaded
+Fuel Economy (city / hwy): 21/28
+
+<b>3.0L 195 hp V6</b>
+Horsepower: 195 @ 5500 RPM
+Torque (lb-ft): 205 @ 4500 RPM
+Displacement (cc): 2972
+Bore X Stroke (in.): 3.59 X 2.99
+Compression Ratio: 9
+Fuel System: MPFI
+Recommended Fuel Type: Premium Unleaded
+Fuel Economy (city / hwy): 20/27
+-------------------------------------------------------
+<b>TRANSMISSION</b>
+4-Speed Automatic Overdrive Transmission with fuzzy logic is standard on all trim levels
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

@@ -1,0 +1,108 @@
+DOC>
+<DOCID> 32329 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Kodak_EZ200 </PRODUCT>
+<URL> http://www.epinions.com/content_6721867396 </URL>
+<TEXT>
+            For actual samples of pictures and video, please read the following review and email me.  Like many others, I was searching for a digital camera that was good quality and inexpensive.  The Kodak EZ200 perfectly fitted my needs and exceeded my expectations.  I didn't want to spend over $500 because I wasn't going to print out too many pictures due to the high costs of the ink cartridges.  I just wanted to take pictures of my niece,  nephew and grandmother to send by email to my relatives around the world.  The Kodak EZ200 was great cause it enabled me not only to take digital still pictures at a resolution of 640X480, it also had the added bonus of acting as a PC Camera, PC Webcam and Digital/PC Video Camera.  Basically I compared the Kodak EZ200 with the Logitech QuickCam series, Agfa, Samsung, Intel and Zoltrix PC/Web cams in the $50-$200 range.  I bought my Kodak EZ200 for $135 US.
+
+TERMINOLOGY
+- Digital Camera Mode - When you use the camera as a mobile unit and walk around with it.
+- PC Camera Mode - When the unit is hooked up to your computer via USB cable.
+
+SYSTEM REQUIREMENTS
+-	Minimum of Pentium 266 MHz with MMX
+-	USB Port
+-	Windows 98 Second Edition or newer
+-	32 MB Ram and 100 MB hard drive space
+-	4 AAA batteries for the camera
+
+EASE OF USE / SOFTWARE
+- Installation of the camera on my PC was so fast and easy because of the USB connection.  I am running a PIII, 800 MHz, 128 MB Ram with Windows ME.  I plugged in the camera with my computer already on and it started to detect and load all the drivers in without even requiring reboot.
+
+- Software included on one CD Rom and contains ArcSoft Photoimpression and ArcSoft Video Impression.  Software takes about 10 minutes to load.  I didn't load in Photoimpression because I use ACDSee (shareware) that is great for enhancing, cropping, file conversion (TIFF, JPG, BMP), etc.  Video Impression is good for making or editing your video that you have taken.  You can add presentation effects such as text, wiping in/out, and combine a series of different video clips into one long video presentation.  The default video file format is AVI in PC Camera mode and is JPG in Digital Camera Mode.  When using Video Impression software, you can compress and convert the file type so that you are able to email the video clip at a reasonable file size.  
+
+- When the camera is plugged in via the USB port acting as a PC Camera, if you just press the camera's shutter button, it automatically initiates the software that allows you to take digital still or video images.
+
+
+FEATURES IN DIGITAL CAMERA/VIDEO MODE
+
+- Internal memory of 4 MB
+
+- Capable of storing 64 Digital Still Pictures at a resolution of 640X480 or 128 Digital Still Pictures at low resolution of 320X240.  I don't recommend using the 320X240 resolution.
+
+- 10 Second Self Timer Mode
+
+- Burst Mode - takes 5 shots consecutively at 320X240 resolution to capture fast action shots.
+
+- Movie Clip Mode - 10 seconds of video with no sound.  Video resolution is 160X120.
+
+- Fixed Focus with subject/object having to be a minimum of 30 inches or 75 centimeters away to be in focus (different requirements when in PC Camera Mode).
+
+
+FEATURES IN PC CAMERA/VIDEO MODE
+
+- Same as described above with the following additions
+
+- Doesn't use batteries when hooked up with USB cable (draws power from the computer instead of batteries).
+ 
+- Manual focus ring can be adjusted for sharper pictures.
+
+- Capable of recording video that is longer than 10 seconds (the file size is huge when it is uncompressed)
+ 
+- Acts as a WebCam with 30 frames per second (352X288) with high speed processor or 26 fps (500  MHz processor) or 15 fps (266 Mhz).  You can use this for video conferencing in NetMeeting or ICQ.
+ 
+- When taking pictures or video in PC Camera mode, the images/video are stored directly into your hard drive and not the camera's internal memory.  Basically, unlimited shots up to your hard drive's capacity.
+
+- When recording video in PC Camera mode, if you hook up a microphone to your PC, the Arcsoft Videoimpression software will record both audio/video as opposed to only video when you use the camera as a portable unit.
+
+
+POSITIVES :
+
+- Very versatile camera for its price (Digital Still        Pictures, Video, WebCam)
+
+- Extremely easy to use
+
+- Excellent software and easy to install
+
+- As a webcam, it has the same 30 fps as the Logitech, Intel and Zoltrix but has the versatility of being a portable digital camera.  Some of the other brands will take digital still but only in PC Mode (while being hooked up to computer).  Even then, the other brand's resolutions are not 640X480 (with the exception of the Logitech QuickCam Web).  As a webcam, the colours are excellent.  It has 24 bit colour, where as the Zoltrix is very yellowy and always dark (not true colours).  The light exposure is compensated well to give true colours in all modes.
+
+- Very small and compact
+
+- Batteries last a very long time because it has no flash and no LCD display
+
+- USB connection
+
+- 640X480 resolution is good for video storage, slide show presentation and emailing.  Doesn't take a lot of time to send through the net.
+
+- Black and White mode available
+
+
+DOWNSIDES (I'm crazy to expect these features on a camera that is $135)
+
+- No Flash and No LCD Display.  You can't review your pictures to make sure they turned out well until you download them to your PC.
+
+- Not Auto Focus (pictures are not the sharpest)
+
+- Requires lots of lighting for good pictures/video
+
+- No built in microphone
+
+- Not compatible with Mac
+
+- No external/removable memory system (Smart Media, Compact Flash)
+
+- Picture quality for printing is not the greatest.
+
+- No Zoom
+
+
+In conclusion, the Kodak EZ200 is a great camera for beginners, those who do not want to spend hundreds of dollars for a digital camera, those wanting to learn the basics of digital cameras and for those who want the versatility of a digital camera/webcam.  Because of its basic design and lack of complicated and confusing gadgets and modes, both kids, parents, grandparents and strangers can use this camera�.it is idiot proof.  Look through the viewfinder and point and shoot.  For the low price of this camera, it is a great investment.  With the technology of digital cameras improving every 6 months and the prices constantly dropping, I don't feel that I've lost anything with the purchase of the Kodak EZ200 because of its excellent low price to begin with.  Aside from that, for only $135 (and not costing me an arm, leg or any other vital organ that I can sell) it is well worth the price to be able to send pictures and videos of my family and friends to all of my other family and friends throughout the world at a relatively inexpensive cost�.a 640X480 picture or 160X120 video clip is better than nothing at all.
+
+For actual samples of photos and videos taken with the Kodak EZ200, please email me at gyozaman@hotmail.com and I will send you a picture in JPG format and a 10 second video (1.5 MB).  As for the using the Kodak EZ200 as a webcam, we can arrange to meet on ICQ.
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

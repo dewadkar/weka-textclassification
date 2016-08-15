@@ -1,0 +1,18 @@
+DOC>
+<DOCID> 6200 </DOCID>
+<PRODUCT> Digital_Cameras/Kodak_DX4900_Digital_Camera__Camera_DX4900 </PRODUCT>
+<URL> http://www.epinions.com/content_92276231812 </URL>
+<TEXT>
+            As a fairly new Epinions user, I thought I would read all the reviews on my camera before I did one myself; doing so convinced me to write a less technical review, and that's what this is.  I did some research and shopping around before buying this, my fist digital camera, and like many cost-based decisions, my choice was a series of compromises.  I liked the 4-megapixel capacity and Kodak name, and the camera appeared to have the features I wanted. Some other features I would have liked were available only on more expensive cameras - such as the ability to control shutter speed and exposure manually, or take short videos. I bought mine at Best Buy for $400, which included the Easy-Share dock and a rechargable NIMH battery pack, which can be charged only in the camera with the camera in the dock.  The camera itself came with a one-use lithium battery and a 16 meg CF card.  One of the first things I did was buy a 64 meg card, which will hold about 50 pictures at the 4 megapixel setting.  The camera allows settings for 4.0, 4.0 high compression, 3.1, 2.2, and 1.0 megapixels, and 1.0 megapixels in "burst" mode which will take a fast series of pictures while holding down the shutter button (but not using flash).  I spent an evening reading the manual while the batteries charged and I was able to access and adjust all the possible settings easily.  I was taking great photos from the very first, which prompted me to buy a new Canon i850 printer to print them (but that's another story).  However, right from the start, I was disappointed with the battery life.  Even with the LCD display turned off, I was getting only 20 or so pictures on a charge.  It got so bad that I took the camera in for warranty work, which Best Buy handled very well.  The camera was returned to my home by UPS, having been cleaned, tested, and returned to factory specs, and the battery life did improve, but I still purchased a second battery and also carry spare rechargeable LION AA's ( it takes two) just in case.  I find that if I turn the camera off when not expecting to shoot for a couple minutes, the battery lasts longer, and I can usually fill my 64 meg card on one charge.
+
+I am paranoid about loading software on my computer, so I did not load the Kodak transfer software.  Instead, I bought a USB card reader, and to transfer pictures from the camera to the computer, I take the card out of the camera and pop it in the reader, which simply shows up on Windows XP as another drive.  I did load the Kodak picture editing software onto my computer, and it works well as a basic photo manipulation tool, to lighten or darken the exposure, remove red-eye, and crop; it also can set up albums,and email or print photos.
+
+The camera has 2X optical and 3X digital zoom, color and B&W settings, review and delete, and menus for many different settings.
+
+The best thing about this camera is the resolution of 4 megapixels for a reasonable price. It is easy to use, small enough to carry, and has some useful features.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,33 @@
+DOC>
+<DOCID> 28630 </DOCID>
+<PRODUCT> Digital_Cameras/558169_Fuji_Film_FUJI_DS_7_DIGTLCAM_OUTFIT </PRODUCT>
+<URL> http://www.epinions.com/content_90146508420 </URL>
+<TEXT>
+            The one sitting on my desk right now was bought by my father a good few years ago. I believe it was 1998 or something like that. At the time, it cost him about $200, which I believe was a good price. Of course, it is <b>half-a-decade-old technology</b>, so if you're serious about your picture taking, you may want to look for something newer. Take a look at the specifications and compare them to newer cameras - this thing just can't compete.
+
+He handed it down to me on my birthday the following year and it has served me very well to this day. The camera can take stills in two sizes, <b>640x480x24b and 320x240x24b</b>. At the high resolution, the removable memory card <b>stores 30 images</b>, after which, you can insert another card. I've found 30 not to be enough at times, so you may want to get another card (only one card was included in my original package).
+
+There are two shutter modes and a brightness dial. There are also three modes of focus (I think that's the right term- It's where you select if you are taking pictures of flowers/people/mountains)
+
+Regarding the screen I just mentioned- there is an <b>LCD Monitor</b> on the back. This is the only way to see what you are taking a picture of, and it takes a lot of juice. Some <b>batteries will drain</b> before taking all 30 pictures in the memory card, so make sure you have spares.
+
+There's a <b>delay of a couple of seconds</b> after taking a picture (I presume, it's busy storing the picture to the memory card). I'm sure they've gotten better at this and a modern camera wouldn't have that quirk.
+
+Two more features are, first, an <b>auto-timer</b>, which I used for the first time last week. No manual was needed to operate that (I don't recall ever seeing the manual, but I've never needed it) . The other is that you can view pictures on the memory card, and even delete the ones you don't want, so that you can use the space to try again.
+
+Two more things I have against my faithful old companion (not much of a friend, am I?):
+1) A <b>serial cable</b> is used for downloading the images to your computer. Never heard of serial? Well, serial is what we used to use before USB. If you aren't up to speed on computer communications, USB is being replaced these days (by USB 2.0 or "FireWire") because <b>it's too slow</b>. Downloading pictures is an exercise in patience. You've been warned. It's never broken on me, but I've treated it well over the years. I'm pretty sure the most it could take is one blow from a baseball bat. You'd really be pushing it with two...
+2) No ability (as far as I can tell) to be used as a <b>webcam</b>. I searched the Internet for hours trying to see if I can convert this thing into a web camera, so that I wouldn't throw it out when I eventually buy a new camera. There was only one lead I found, which would require me to buy an expensive new video card. A new webcam with all the bells and whistles would be much cheaper - dead end.
+
+If you come across one of these (which I doubt, but hey- you never know...) - you've been warned. And do me a favor- don't pay much for it if you do decide to encourage your ten-year-old to discover his/her artistic side by giving it as a birthday present.
+
+PS- I'm not sure I won't regret this (my site's bandwidth is limited), but if you really want a demonstration of the results this camera gives, check out http://www20.brinkster.com/monchanger/US/brickpics/. All pictures taken in the 640x480 resolution.
+
+Apr. 11th, 2003 Update: I have successfuly located and tested a Linux image-downloader program for the DS series. 
+Download the aptly-named "Get_DS7" from http://www.yk.rim.or.jp/~mamo/Computer/DS-7/index-e.html or from my personal website (see my profile). Hurray for the wizards of open-source. BTW- Use binary mode to transfer images via FTP ;-)
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

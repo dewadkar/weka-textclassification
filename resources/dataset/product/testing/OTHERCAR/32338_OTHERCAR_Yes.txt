@@ -1,0 +1,86 @@
+DOC>
+<DOCID> 32338 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Minolta_Dimage_F300_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_118640709252 </URL>
+<TEXT>
+            Okay, let me begin by admitting that this camera is not
+perfect. Most of its shortcomings can be overcome, however;
+and for those willing to adapt to it the F300 can be an
+outstanding instrument.  In my opinion it is the best 
+digital camera yet in a specific niche once occupied by 
+the lauded Leica M3 of the '50s:  extremely small and light
+but very flexible, capable of taking sharp, beautiful
+photographs in a variety of situations with a minimum of
+effort. For many it's all the camera they will ever need.
+ 
+Many other reviews and websites cover this camera's specs
+and features in exhaustive detail.  If you are reading
+this review you probably already suspect that the F300 may
+be suitable for your needs.  I thought I'd focus on the
+quirks I've found that might make you unhappy with an F300
+purchase, and some possible workarounds that might make
+the F300 acceptable.
+
+I've found three main flaws in the F300 that mar an
+otherwise excellent package.  The most bothersome for me
+is a tendency toward graniness in some types of pictures.
+Large areas of a single dark color show this flaw most
+apparently, particularly blue sky.  In manual mode one can
+force the ISO setting to 64 which helps reduce this
+tendency.  I also imagine that image editing software such
+as PhotoShop may have tools to correct this, but that would
+only be worth the trouble for the most valuable of images.
+Please note:  this graininess does not obscure fine details
+or reduce overall contrast in the image. It is as if one
+were shooting ISO 800 film in a high-quality 35MM camera.
+You get very sharp, contrasty images with excellent color,
+but noticeable grain in some open areas.
+ 
+The only other flaw that directly affects image quality is
+a good bit of barrel distortion at the wide angle setting.
+For portraiture or nature photographs this will be of little
+concern, but for architectural or urban images it can be
+a nuisance. The only simple solution is not always possible:
+back yourself up and zoom out of wide angle mode. Otherwise
+you can spend some more time in PhotoShop.  Besides this
+one flaw, though, the lens of the F300 is one of the best
+in any compact digital camera, with high contrast, very
+low color fringing, and excellent resolution.
+ 
+The last flaw I'll mention will probably bother casual
+snapshooters the most:  The autofocus has trouble in low
+light situations.  There are several remedies for this
+problem --
+
+1) Put the camera in Aperture Priority mode and set it to
+   F5.6 or F8.  This will give you greater depth of field,
+   but will make the flash work harder to keep up.
+2) Use manual focus.  Hey, some of us remember when that
+   was the ONLY focus mode available!
+3) Hit your subject with some additional lighting, push
+   the shutter release partway to lock focus, kill the 
+   extra light and then take the pic.
+
+Of course, Minolta could make this problem disappear with
+the addition of an autofocus assist lamp to the F300.  
+Let's hope Minolta reads reviews.
+
+I bought this camera to use while travelling, which for me
+includes backpacking.  It suits my needs perfectly.  I
+can buy AA batteries anywhere, and can use CR-V3 and 
+rechargables too.  It shoots excellent nature photos and
+razor-sharp macro pics.  The colors are beautiful and 
+natural.  The five megapixel images let me do final 
+cropping and composition at home without losing a lot of
+image detail. I love the little remote control you can buy for the F300. 
+
+If Minolta starts making an F300 Version 2.0 that fixes
+any of the three problems I mentioned, I'd buy it in a
+second!
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

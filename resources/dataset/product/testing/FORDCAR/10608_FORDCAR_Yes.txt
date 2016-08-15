@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 10608 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Ford_Ranger </PRODUCT>
+<URL> http://www.epinions.com/auto-review-5EB9-45DCF7F-38618BBE-prod1 </URL>
+<TEXT>
+            I purchased a Ford Ranger in 1995.  It is a long bed and two-wheel drive.  It also has a 3.0 liter V6 and an automatic transmission.  I bought it used and it had been repaired after an accident.  For the last four years it has proven to be realiable.  It has started every morning in cold weather and hot.  No problems have been experienced in regards to the engine, transmission, or coolant system.  With regular mantaince the Ford Ranger can be an excellent vehicle for any college student.  The problems I did find is the air conditioning system and engine power seems to suffer at high speeds.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

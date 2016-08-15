@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 19504 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Casio_QV_3000EX </PRODUCT>
+<URL> http://www.epinions.com/elec-review-2A29-13738E8B-38FCA90D-prod5 </URL>
+<TEXT>
+            I just picked up one of these, it seems really great! It comes with an IBM 340meg Micro-drive and has 3.34 mega-pixels. So far the pictures look great but I really haven't put it through it's paces. It has 2048 X 1536 in high res.(fine) mode. In this mode you get 245 images and in low res 1024 X 768 economy mode you can get 2054 images! I do recommend getting the optional AC power pack as off-loading the images with the micro-drive eats up the 4 AA batteries. It uses ether the USB or serial ports, with the USB port it off-loads images in around 2 sec each. The USB port installed fine in my win98 sr2 box. The only down side to this camera is it doesn't have threads on the (Cannon) lens so you can't put any adapters or other lens's on it. Also it should have come with the AC adapter. But a 6 Volt 1 amp Adapter works fine. <br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

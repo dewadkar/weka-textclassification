@@ -1,0 +1,160 @@
+DOC>
+<DOCID> 3202 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Sony_CyberShot_DSC_S85_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_42257845892 </URL>
+<TEXT>
+            <b>Overview</b>
+
+I have been waiting for a digital camera that approaches the quality levels that can be achieved by a professional scan of a 35mm negative from an SLR film camera.  The S85 has a 2272x1704 pixel sensor which is not much different from a Kodak PhotoCD scan of a 35mm negative (good for about 3000x2000 pixels).  In addition, this camera is much lighter and more compact than SLR camera, and eliminates the film too!
+
+Digital photography presents some new challenges to master, and figuring out how to get your work on paper isn't trivial.  However, if you are technically competent and motivated to learn new stuff, this camera is a very impressive tool.
+
+<b>Camera Features</b>
+
+The package looks a lot like a compact 35mm point-and-shoot except for the 1 3/8 x 1 inch LCD on the back, and a few extra buttons.  It weighs in a little under a pound with battery.  No case is provided (Case Logic makes one - DC40 - that fits perfectly if you leave the strap off or wind it round the camera body carefully).
+
+The optical viewfinder is cramped and small - like most point-and-shoot cameras.  It also previews only about 80% of the actual image - I imagine the usual parallax considerations pushed the design in this direction, although it is quite irritating.  The optical viewfinder zooms in tandem with the lens - but if you go beyond the 3x optical zoom into digital zoom, you'll find that the optical viewfinder doesn't track - not too surprising.  Fortunately, you can disable the digital zoom so you don't get confused.  In any case, you will find yourself using the LCD most of the time if you are trying to make high quality pictures, in order to see the various other settings displayed (none are shown in the optical viewfinder).  The optical viewfinder has dioptre adjustment - a nice feature for those who wear glasses, since you can see more through the viewfinder if you don't have to look through the glasses too.
+
+A mode switch on the top of the camera rotates between modes: Setup, Review, Auto, Aperture Priority, Shutter Priority, Manual, "SCN", and Movie.  A series of buttons on the back allow for control of flash, self timer, macro-mode, exposure compensation, spot-metering, manual focus mode, and AE lock.  Most of the one-time setup happens in setup mode, but there is also a menu button on the back for rapid access to features like resolution and white-balance in photo mode, and delete, rotate, and protect in review mode.
+
+The zoom buttons are nicely positioned for the right thumb.  You'll probably want to disable digital zoom - you are getting about the same quality of image as if you clip out the pixels from the middle of the unzoomed image.  The zoom covers a 3x range - tolerable, but not great.  Wide-angle and Telephoto adapters can be purchased; I haven't looked into them yet.  The camera always powers on with the lens at a mid-zoom point, so it is quick to reach either full wide, or full zoom.
+
+The lens seems pretty good, although the mechanics feel a little sloppy (you can wobble it from side to side when it is extended).  That doesn't seem to impact the picture quality, which is nice and sharp.
+
+<b>Exposure Settings</b>
+
+In full automatic mode, the camera operates just like any other point-and-shoot - except that it has a couple more variables to choose - the "film speed" and white-balance.
+
+More precisely, the film-speed setting controls the sensitivity of the imaging chip.  Unusually, the S85 has a sensor that with a maximum sensitivity of ISO 400 (few cameras are as sensitive), so indoor available-light photography is quite good.  The minimum setting is ISO 100.
+
+Film cameras don't have a white-balance control - almost all film is balanced for outdoor color temperature, and flashes are set to replicate outdoor colors.  If you want to do available light indoor photography, you put up with the shift to warm red colors, or you buy lower color-temperature film.  Digital imagers see indoor colors less forgivingly, especially under flourescent light, which gives everything an ugly green shift.
+
+The S85 has a competent automatic white-balance setting, which detects indoor and outdoor colors, and compensates automatically.  It also has an outdoor setting, an indoor setting, and a one-touch calibration setting.  You might want to use the manual outdoor setting for dawn and dusk scenes: the extra atmospheric scattering shifts the sun's light to a cooler temperature which might conceivably confuse the camera, removing some of the glowing reds from the sunset you are trying to capture...  To use the one-touch calibration setting, you point the camera at a sheet of white paper under the lighting conditions you are going to use and hit the button.  I haven't experimented with this mode yet - but that's the first thing to try for indoor office photography under flourescent lighting.
+
+The automatic exposure control chooses appropriate aperture and "shutter" speed settings for the light levels measured on the imager.  There is no mechanical shutter, of course, it is all electronic.  The speed merely controls the time that the chip is allowed to capture light.  (It should be noted that when the irritating beeps are turned off, the camera takes pictures perfectly silently - so silently that if you are looking through the optical viewfinder, you don't even know that you took a picture.  That means that you are probably going to want to set the beep control to its middle setting, in which the menus and other buttons are silent, but taking a picture makes a sound that emulates the mecahnical sounds of shutter and film advance!)
+
+A single button on the back of the camera selects spot-metering instead of area metering.  In this mode, the exposure is calculated for the light falling in a small area right in the center of the image.  Point the camera to center the subject, half-depress the trigger to calculate and lock the exposure, re-frame the picture, and full press the trigger to take the picture.
+
+An AE lock button fixes the exposure settings for a series of pictures, useful for making panorama sequences which match up to each other, for example.
+
+<b>Over and Under Exposure</b>
+
+When film is over-exposed (for example, the highlights and reflections off a waterfall when shooting towards the sun) the prints show the highlights as maximally white with no shading or detail - generally a reasonable outcome.  Similarly, underexposed shadows are all black on the print - there's no shadow detail to be seen.
+
+However, digital sensors are different.  Overexposure leads to bleed-over, where some of the signal spills into adjacent pixels.  This means that those sparkles in the waterfall are surrounded by a blue-purple halo a pixel or two wide.  This is a considerably less desirable effect than the washing out that happens with film.  If you do outdoor landscape work, you will find that you spend a lot of time looking at highlights and setting exposure so that the highlights are not bleeding over like this.
+
+Similarly, underexposed regions in a digitally captured image tend to yield more color-noise than underexposed film.  This isn't usually visible until you put an underexposed image in photoshop and attempt to stretch the contrast of the darker regions to bring out detail.  You'll find the detail, but also some murky blue speckles too.
+
+It is my sense that both of these limitations of imaging sensors are common to all digital cameras (and video cameras too, of course).  Tests of the S85 (see dpreview.com) suggest that its sensor has 10 bits of dynamic range, which is probably a bit more than film, generally considered good for 5 stops (intensity doublings) of dynamic range, with perhaps 8 bits of range total.  That said, for my outdoor work, I've found that more than half of the pictures I take are deliberately underexposed to avoid highlight bleed.
+
+Fortunately, the S85 has a very simple exposure compensation setting: you click the +/- button and roll the thumb wheel to adjust exposure up or down up to two stops in third-stop settings.
+
+It also has an auto-bracket mode, where each picture is snapped three times: with normal-, over-, and under-exposed images.  The exposure increment is adjustable in third-stop steps.
+
+<b>Manual Exposure Modes</b>
+
+My work includes a lot of outdoor scenes, and I prefer manual control of exposure settings for most pictures.  In fact, that's one of the reasons I chose this camera.
+
+Manual mode is selected by rotating the camera-top dial.  In full manual mode, the camera allows full choice of aperture and expsure time.  The LCD display shows aperture, speed, "EV" (effective exposure value) one below the other.  <i>Rolling</i> the thumb-wheel chooses which value is going to be changed.  <i>Clicking</i> the thumb-wheel then activates the highlighted setting, and more <i>rolling</i> changes the selected value up or down.  Reading this description takes much longer than it takes to become familiar with how this all works on the camera - it is really quite natural.
+
+The only disadvantage is that the settings are quite hard to read, especially with a low sun behind you and wearing sunglasses!  Also, if you turn off the LCD display, you can't adjust the settings!  Given the limitations of the optical viewfinder, you are likely to find yourself using the LCD display almost all of the time anyway, so this isn't a real problem.
+
+One other critism I have is that the camera doesn't have settings for really bright scenes.  The smallest aperture setting available is f/8 (compared to f/22 or f/32 for most SLR lenses), and the shortest exposure time setting is 1/1000 second.  Combined with a slowest "film-speed" sensitivity of ISO 100, very bright scenes are just too bright.  I shot some snow-scenes at high altitude in Colorado in September, and I had to resort to holding my sunglasses in front of the lens (an crude, if eminently workable solution!)  I'm sure I'm going to need a filter adaptor and an ND5 neutral density filter for winter work.
+
+I said above that the fasted speed is 1/1000 of a second, which is true in manual modes.  However, it appears to me that in aperture-priority mode, or full automatic mode, that the camera is capable of darker exposures - perhaps a shorter integration time.  I'm not certain, but I have found that in extra bright scenes I can switch to aperture more with some benefit.
+
+Speaking of aperture priority mode, both that and shutter priority mode are selected using the camera-top dial.  Either the aperture or speed displays on the LCD are greyed out and no longer adjustable.  Instead, as you adjust the priority setting, the camera displays its choice for the other setting.  A single click on the +/- button on the back of the camera enables the thumb-wheel to adjust the "EV" setting above or below nominal to get under- or over-exposed effects.
+
+<b>Automatic Focus</b>
+
+Most autofocus film cameras shine an infra-red light beam out from the camera, which reflects off the nearest subject, and the reflection is measured at the camera.  By triangulation, the distance to the subject is calculated, and the focus is set.  Two disadvantages of this approach: shooting through windows - the window reflects the sensor beam and you get a beautifully focused view of the dirt on the window, and the subject beyond is out of focus; and if the subject is very dark and unreflective, the camera doesn't see the reflection, and focus reverts to infinity.
+
+Video cameras often use an alternative: adjusting the lens to maximize contrast in the imaging sensor.  The disadvantages of this approach are: it is slower (there's a lot of computation required) and it makes no distinction between near and far objects when maximizing contrast.
+
+The S85 uses the contrast-maximization technique.  For wildlife or sports photography, when split-second timing can be critical, you are going to find the autofocus lag very intrusive.  For less demanding situations, it is no problem.  Fortunately, the manual focus mode is simple to use, and solves most of these problems fine.
+
+The other disadvantage is illustrated by considering a close-up photograph of a flower.  Often the detail in the flower is relatively low contrast, and the flower is surrounded by stems and leaves with high contrast against the sky or ground.  In this case, the camera's contrast optimization algorithm seems to favor getting the leaves and stems in sharp focus, at the expense of the flower subject you really wanted in focus.  There really isn't a good substitute for using manual focus if there is any kind of depth-of-field challenge in your subject.
+
+Manual focus is enabled with a single button on the back of the camera, and thumb wheel then rolls through the focus settings.  Unlike an SLR, the focus is not continuous, but you choose from a series of steps.  The near focus distance is 10cm (about 2.5 inches), but that isn't achievable at full optical zoom.  the steps are closely spaced at near focus, and get further apart at far distances.  I was initially surprised and disturbed by the discrete focus settings, but found that it is no issue - the steps are close enough together never to be a problem.
+
+Unfortunately, when you focus manually, there really isn't good feedback to help you set the focus correctly.  The image on the LCD display just isn't large enough to tell when the picture is sharp.  It is really too bad that there isn't a setting where a circle in the center of the display shows the center of the image magnified 10 or more times to aid in manual focus setting.  Instead, you are going to want to mark off distances in centimeters on the camera strap if you do a lot of close-up work.  For distant subjects, its really quite easy to estimate the proper settings.
+
+One other thing you can do to help is capture the photo, and then hit the one-touch review button.  The most recently captured image is immediately displayed, and the zoom buttons now zoom the recalled image instead of the lens.  You can zoom in five-fold, which is still not enough to see the finest focus detail (especially in bright light), but will help you redo gross focus errors.
+
+<b>Software and Storage</b>
+
+The camera comes with PhotoSuite software, which I didn't load since I have photoshop 6 already.
+
+Installation of the USB drivers was easy on my Windows 2000 machine.  Keep in mind that there are no USB drivers on Windows NT, but you should be OK with Windows 98, and ME.  I haven't tried XP yet...  The USB cable is both short, and has a non-standard connector on the camera end.  If your computer is buried beneath your desk, you may want to try a USB hub on the desktop to make it easier to plug in.
+
+The USB drivers make the camera look just like a removable storage device to your PC.  You can drag images from the camera to your hard-disk or back again, and you can delete selected images.  You can even edit or modify images right on the memory stick, although the manual warns that the camera might not be able to read files written by other applications.
+
+If you switch off the camera, or unplug the cable, you'll get the warning about unsafe removal of a device may crash your computer, but it hasn't caused me any problems.  If you want to be safe, click the "credit-card" icon in the systray and choose "Stop Sony DSC" before unplugging.
+
+The images are saved as JPeg files.  Full resolution images (2272x1704) are about 1.7Mbytes at "fine" JPeg quality.  The camera comes with a 16MByte memory stick.  If you plan to utilize the high-resolution of this camera for most of your work, you will need to buy a larger capacity memory stick.  Fortunately, memory sticks are now available at 128M at not a lot over $100, so that is within reach.  The 128M stick holds about 70 full resolution fine detail images, and a lot more images at lower resolutions.
+
+Memory sticks have acquired a negative as they are Sony proprietary and not as widely used as flash cards.  That difference was mostly manifest in price differences, which have largely disappeared as of late 2001 - although its conceivable that the price gap might widen again in the future.  Given the speed of technology change, I wouldn't worry that the media will be obsolete any sooner than the camera itself.
+
+For most purposes, a single 128M stick may suffice - but keep in mind if you are on a vacation, you may not want to drag your computer around, in which case you'll need enough memory sticks for however long you plan to travel.  I find that I take quite a few more pictures than I used to with film.
+
+<b>Movie Mode</b>
+
+I bought a still camera, not a video camera.  The MPEG movie mode is a toy - its nowhere near substitute for a video camera.  The resolution is very poor, the compression very lossy, and the memory stick far to small and expensive to hold long motion sequences.  This is a me-too feature to prevent lost sales, and I doubt anyone will use more than once or twice.
+
+Fortunately, it's not at all intrusive into your normal use of the camera.
+
+<b>Review Mode</b>
+
+In review mode, you can scroll through the images in the memory stick viewing each in turn.  The menu allows images to be deleted, protected, rotated (portrait mode), or flagged for printing.  There is also crude capability for cropping and resizing images.  Each image can be zoomed and panned on the display up to 5x to inspect details.  And the camera records ISO, aperture, exposure, and EV (but not focus) on each image.  I haven't found out whether it is possible to access this data from the PC, but the time/date stamp on the file shows when the picture was taken, and that does copy over with the file to the PC.
+
+A slideshow mode scans selected pictures automatically, and if you plug the camera into a TV, you have a basic slide-show capability.  The resolution of a TV display is much inferior to the camera, of course, and obviously it is tedious to load old pictures back into the camera just to show them off.
+
+<b>Processing your Pictures</b>
+
+There is room for a whole essay on this topic too, but a few words will cover the main points.
+
+You are going to generate gigabytes of imagery with this camera, and managing those images is a little different from the shoebox of prints!
+
+If you want to share your pictures with others, a convenient solution is to create digital scrapbooks to display on your PC.  I haven't found much good scrapbook software yet, so I wrote some stuff to use a web-browser to display a slide-show - check out http://www.nhunt.org/Photography/Vacation2001/Index.html (These pictures are low resolution subsamples of the full-resolution images) For a couple of high-resolution samples, check out http://www.nhunt.org/Photography/S85/Index.html.  (sorry - epinions doesn't let authors create real links - you will have to cut and paste!).  [If there is interest, I might try to make a shareware download of the slideshow software - let me know at photo@nhunt.org]
+
+You can burn the scrapbooks to CDs to take to your friends house, or send to your parents, but that is a whole new set of technology to master...  But you are almost certainly going to want to burn images to CD to avoid filling your hard-disc up in the first month or two!
+
+Alternatively, if you want to make a traditional scrapbook, you can use a service like ofoto (www.ofoto.com).  You upload your digital images, and order prints in sizes from 4x6 to 20x30.  Prices are not out of line with film photography, with the benefit that you can choose, crop, and adjust your imagery before getting just the good stuff printed.
+
+Full resolution images from the S85 meet the minimum requirements at ofoto for producing a 20x30 print (they suggest at least 1600x1200 pixels).  I haven't tried a 20x30 print, but in my testing prints at 2272x1704 have printed up at 8x10 and 11x14 looking pretty sharp.
+
+I'm looking for software to produce a video-CD containing my slideshows that will play on a DVD player.  If anyone has any leads, please let me know (photo@nhunt.org).
+
+<b>Summary</b>
+
+The DSC S85 is a competent camera that will take pictures that rival a 35mm SLR - but you have to master the technology.
+
+It is nowhere near as foolproof as a point-and-shoot, since you need a PC skills, image editing skills, and actually getting a slideshow or prints requires additional software and skills.  That said, the opportunity to manipulate and refine your images digitally before printing them up is a whole new dimension in photography.
+
+For me, a significant moment with this new camera was shortly after returning to work (at Netflix) from my vacation.  I got back on Monday.  At our Tuesday morning weekly executive staff meeting, I was able to show my colleagues a polished slide-show of highlights of my trip.  Very satisfying!
+
+The main features are very compelling:
+- small, compact, and light
+- very high resolution images
+- full control of exposure, focus, color-balance.
+- long battery life
+- bright and effective LCD display
+- clean simple interfaces and software
+
+The camera has a few minor design issues, notably:
+- can't deal with very bright scenes effectively (need a neutral density filter for snow scenes)
+- optical viewfinder is weak (but the LCD display is very good)
+- autofocus is slow and not good for some complex close-up scenes (but manual focus makes up most of the difference)
+- there is no good visual focus feedback when in manual focus mode (use a tape measure!)
+
+And then there are the inherent limitations of digital imaging:
+- highlights bleed over, requiring extra caution in shooting scenes with high dynamic range (compose and expose with care and understanding)
+
+The small size and weight of this camera have caused it to completely displace my old SLR for most of my trips.  The high resolution imaging means that I can make decent 8x10 prints to frame for my office walls - which was not really feasible with previous generation cameras.  And the opportunity for full control of every aspect of picture taking is a critical differentiator from most compact cameras on the market, both film and digital.
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

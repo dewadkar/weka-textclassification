@@ -1,0 +1,22 @@
+DOC>
+<DOCID> 22982 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_PolaroidPDCC-Polaroid_PhotoMax_PDC-640 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-1C83-D661B5A-396BBCA0-prod2 </URL>
+<TEXT>
+            Like many others, I bought this camera as a low cost way to start taking digital pictures ($299 during summer of 1999).  I also really liked the picture transfer method: the files are stored on a small card that can be inserted into a floppy adapter and used in your computer like a 3.5&quot; drive.  No cables!  Also it comes with an AC adapter, which I found was extra for most other cameras.  Turns out I never use the adapter though.
+
+The missing features that I was willing to overlook were lack of zoom, and 640x480 max resolution.  I find that 640x480 is just fine for me.  I just want pictures I can put on the Web, I'm not really a photography enthusiast.
+
+It is the missing feature that I accidentally overlooked that has made me somewhat unhappy with this camera: NO AUTOFOCUS!  There are 3 manual focus settings: close-up, medium, and far away.  If you do not switch to the appropriate setting, you are pretty much guaranteed to get a blurry picture.  It might not be so hard to remember this if the view in the viewfinder was blurry too, but it is just a small glass window that doesn't go through the lens, so it always looks fine.  So I use the wrong setting about 20% of the time.
+
+I still think this is a decent camera.  The viewfinder looks good, battery lasts pretty well, and again, the price is right.  The focus is really my only complaint, but it is a big one.  So unless you have a great memory or take pictures from the exact same distance all the time, be ready for a few blurry disappointments.
+
+Oh, one more problem.  The floppy adapter drivers do not work with Windows NT.  I have to download the pictures on my girlfriends Windows 95 computer instead of my NT one.
+
+NEW ADDITION (08-16-2000) My camera just broke after 14 months, 2 months after the warranty expired.  I now despise this camera.<br><br>
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

@@ -1,0 +1,49 @@
+DOC>
+<DOCID> 28814 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_KodakDCC-Kodak_DC-210 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-204E-1003E49B-38F3DD3A-prod5 </URL>
+<TEXT>
+            The Kodak DC-210 Plus is a good digital camera at an affordable price. Its feature set is becoming a little dated. With so many good camera choices in the 210 Plus price range, it's important for you to comparison shop other Kodak cameras and competing brands.
+
+I purchased a DC-210 Plus over a year ago. The camera is used in a nuclear power plant to take pictures of components and areas within the plant. Good quality pictures in this environment are a necessity. If an image isn't good enough, we have to go back in and take additional pictures at the cost of additional radiation exposure. If we don't have a good image, the other work groups may need to make additional entries to plan their work, also increasing their exposure. As you can see, digital cameras, camcorders and their predecessors are very important to our planning and radiation exposure reduction efforts.
+
+With that said, our DC-210 Plus has been a reliable work horse. It is capable of good image quality: One megapixel (1152 x 864) is good enough for 3x5 and 4x6 prints as well as 5x7 enlargements. If you need 8x10 or larger enlargements, consider a two megapixel camera as a minimum.
+
+The 2X optical zoom provides a useful focal length range of 29mm to 58 mm (moderate wide angle to mild telephoto). For home use, 2x zoom is useful for people pictures. For industrial use and outdoor photography, 3x or more optical zoom is useful and desirable.
+
+It's important to differentiate between optical zoom and digital zoom. Optical zoom retains image quality. Digital zoom compromises image quality and the same type of zoom can be performed after the picture is taken using software image processing. For industrial and/or home use, I would not purchase a digital camera without optical zoom capability.
+
+The camera's built-in flash provides a useful range of 2 feet or so out to 10 feet or so. Good for component pictures and people pictures. The camera does not provide for external flash synchronization so you can't attach an external flash to take a good picture of a large, dark room.
+
+The DC-210 Plus comes with an 8 Mb CompactFlash card standard. This is enough capacity for 26 high quality JPEG images and up to 120 640x480 images suitable for web publishing.  If you purchase a 32 Mb CompactFlash memory card (approximately $80), you could take 104 high quality images or 480 VGA (640x480) images without downloading. Another accessory must is rechargeable batteries (NiMH) and a recharger. These will set you back another $40 or so. 
+
+Kodak provides Mounter as its downloading program. Mounter adds the camera as another drive to your system. You can use Windows Explorer to move pictures from the camera to your computer's hard drive. It's easy but it's slow. You can speed up the process by purchasing a parallel or USB Compact Flash card reader for approximately $50. But many other newer models include USB download capability integral to the camera.
+
+Kodak also provides Adobe PageMill (good Internet web page development software), Adobe PhotoDeluxe (limited but good photo enhancement software) and Kodak's PictureEasy software (easy-to-use but effective photo enhancement software) all on a CD-ROM.
+
+The biggest negative against the camera is that it occasionally locks up. You have to turn off the camera and turn it back on to take additional pictures. This results in a loss of the image you were taking when the camera locked up. Also, the camera takes about 10 seconds to process the current image and ready itself for the next shot. Don't even think about shots in rapid succession with this camera.
+
+All in all this is a good, few-frills camera that is capable of taking impressive quality pictures. You can purchase one on the web for $300 or so.
+
+There are other newer cameras in this price range that provide a better feature set than the DC-210 Plus. None that provide significantly better image quality though.
+
+Kodak's DC-215 Millenium Edition Zoom should be a logical choice as it is the DC-210 Plus' successor. It adds USB capability and includes an 8 Mb CompactFlash card. Both DC-215's I've used had minor but noticeable image flaws (small white spots and slightly fuzzy images). Though I cannot recommend it based on my experiences, other users rate it highly at this price point.
+
+If you need additional features and are a knowledgeable 35mm camera buff, consider the Nikon Coolpix 800 ($450 or so on the web, another $200 or so in necessary accessories: 32 Mb CompactFlash, NiMH batteries and charger, camera case and lens filters).
+
+A good choice for excellent 2 megapixel images in a complete package is the Kodak DC-280 (as low as $490 on the web and includes a 20 Mb CompactFlash card, rechargeable batteries with built-in charger, built-in USB). The DC-280 would be my camera of choice for someone who wants to take excellent pictures with a minimum of hassle.
+
+The Nikon Coolpix 800 is my pick for maximum capability and versatility at a relatively low price.  (See my review of the Coolpix 800 for additional details.)
+
+Other alternatives? We have several Sony digital cameras in use at the power plant. Their most notable feature is their ability to store images on a 3.5&quot; floppy disk that can be read on any computer having a 3.5&quot; drive. The Sony's are generally more expensive than their competitors at any given price point and provide lower resolution images. From a practical user standpoint, the Sony digital cameras are hard to beat.
+
+The point here is don't just compare numbers. Look beyond the numbers for features you need, then features you want. There are important differences between each manufacturer's cameras. Shop well and get the features that you need for the type of photography you plan to do.
+
+Epinions is a great place to research your purchase and shop. There are many terrific, honest reviews in this area. Digital photography and processing, as a compliment to traditional photography/processing, is useful, rewarding and fun. Read well, purchase with confidence and enjoy!
+<br><br>
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

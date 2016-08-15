@@ -1,0 +1,42 @@
+DOC>
+<DOCID> 13142 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_C_5050_Zoom_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_102471470724 </URL>
+<TEXT>
+            Let me say out of the gate that any number of C-5050Z owners will discount this review and say, "Oh, this guy is nuts," or "he doesn't know what he is talking about."  Additionally, people tend to develop feelings of strong loyalty about camera brands. You have your Olympus fans, Canon devotees, Sony loyalists, and so on. All that aside, I'm going to share with you my honest, unfiltered experiences with this camera, and let you decide.
+
+My C5050Z was  an upgrade to my much beloved C-2020Z, which was my very first digicam.  Most of my photography these days consists of once-in-a-lifetime shots of our toddler, so I promised myself that when 5 megapixel cameras came down to saner price levels, I'd invest in one. Given my happiness with the 2020, I purchased the 5050 from a local dealer without a second thought...
+
+My biggest mistake, and the "lesson" I'd like to impart to anyone reading this: there is no such thing as "The Best Camera," there is only The Best Camera For Your Needs. And every camera involves trade-offs.
+
+First, the good stuff:
+
+On the positive side, if you are an experienced photographer, then the C5050 will give you endless opportunites to press buttons and twiddle dials. Every conceivable photographic parameter is adjustable, and the 5050 allows you to specify your own shooting modes so that your favorite settings can be saved and quickly accessed. Another nice feature: you can set "All Reset" to "Off," meaning that all of the settings you specified for your last photo session are retained indefinitely (as long as there are batteries in the camera).
+
+Speaking of batteries, the 5050 uses relatively cheap, easily available AA batteries, and I've seen a set of good, Lenmar NiMH batteries going for under US $10 recently. This saves you substantial money over other manufacturers' proprietary batteries.
+
+Another good point: the 5050 accepts several memory formats: Smart Media, Compact Flash, IBM Microdrive and the new Fuji/Olympus xD card. You can even have a SmartMedia card and a CF card in the camera at the same time, and specify which one you want to use at any given moment.
+
+Two other strong points: the form factor (admittedly a matter of personal taste) is wonderful -- the camera feels "just right" -- compact, with the right amount of "heft," but not so small that you're afraid of not being able to hold it steady for a slow-shutter-speed shot. However -- if you want a camera to slip into your pocket and grab for a fast shot of a child doing something cute in the sandbox, this ISN'T it. It's too big for that, and by the time you release the lens cap and power it on, the moment will have passed. Furthermore, even with prefocusing, I found the level of shutter lag to be unacceptable.
+
+But again, on the plus side, there is that very fast lens: you can get away with turning the flash off for indoor shots more readily with this camera than with most other compact digicams.
+
+And now to the not-so-pretty part: I first got an inkling that I'd made a mistake when I looked at my early shots on my Mac and found a disconcerting level of digital "noise" in most of them. I mean, viewed up close they looked awful. A lot of snooping around on Olympus forums on line led me to the suggestion that the default level "0" of in-camera sharpening is too high. So I dialed it down to -5 and the noise problem went away, for the most part. Now I know that every camera has its quirks, but I couldn't help wondering why Olympus would ship a model that shoots so poorly on the default settings.
+
+The other issue, and the one that really drove me over the edge, was an inordinate amount of blurry, out of focus shots. It seemed that the camera was forever choosing to focus on a background element in the scene, leaving me with a blurry subject. Whether I used Spot Mode or iESP focusing didn't seem to matter. I kept getting photos that "would have been terrific had they not been out of focus." This had never been a problem for me with my old C2020. That is not to say that I never got good photos -- some turned out gorgeous. But focusing was too consistent a problem. Posting this query to Olympus forums got me a wide range of advice, but the advice was complex and contradictory enough to lead me to think, "This is taking the pleasure out of picture taking..."
+
+My overall conclusion came to be that this isn't a camera for casual photographers, or even for more experienced photographers who regularly need to pop off the candid snapshot. It will do anything you want it to do, but the learning curve is so steep that only professionals or hard-core enthusiasts need apply. 
+
+And speaking of learning curve, Olympus did one border-line unforgivable things with this model: they cheaped out on the manual. The basic operations manual is provided in printed form. But to learn about any of the more advanced operations of the camera (and believe me, you'll want and need to learn about them!) you have to read the full owner's manual, which (argh!!) IS ONLY PROVIDED AS A PDF FILE ON THE INSTALLATION CD!! Be prepared to either hunch over your computer screen for a long time, or print the thing out (at nearly 300 pages). In an $800 camera, this is inexcusable.
+
+Let me conclude by saying that I am not trashing this camera. It is a beautiful piece of technology, to be sure. But I learned the hard way that it was not the model for me.  Specifically, if you do a lot of point and shoot photography, or if you need something pocketable and easy to use, there are far better choices. I myself, after selling the 5050 (and I didn't give up easily... I owned that camera for 6 months of frequent use) purchased a Canon S50. I'll review that model separately when I feel really familiar with it.
+
+I hope this review proves helpful.
+
+
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

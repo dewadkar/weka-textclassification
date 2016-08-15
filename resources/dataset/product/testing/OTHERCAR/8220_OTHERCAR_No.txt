@@ -1,0 +1,29 @@
+DOC>
+<DOCID> 8220 </DOCID>
+<PRODUCT> Digital_Cameras/615434_Polaroid_Corporation_320_PhotoMAX_FUN__Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_40103612036 </URL>
+<TEXT>
+            The Polaroid Photo Max Fun! 320 digital camera really does prove that old cliche that "you get what you pay for."  Truth be told, I only paid $14 for this silly thing...and it showed.  I don't often write negative reviews; in fact, I typically only write them when the product is <I>so awful</I> that I just feel like I should let everyone know.  The Fun!320 is just such a product.
+
+As soon as I took my Fun!320 out of the box, the first thing that I noticed about it was that its weight was almost imperceptible.  Now, with some kinds of products this would actually be a major positive -- but not here.  That a piece of complex electronic equipment is extremely lightweight typically means one of two things:
+
+1.  It's made of space-age titanium.
+2.  It's made of plastic.
+
+Now, referring once again to that purchase price, I'll let you use your surely excellent reasoning skills as a discriminating consumer to determine which of those two was true here.
+
+The next bad sign was that there were only one or two discernible buttons on the whole device -- never a good thing.  Some friends of mine and I have established quite reliably that the overall excellence of a piece of electronic equipment can almost invariably be measured in relation to the number of buttons, switches, knobs, etc. that it has -- more stuff to fool around with.  And isn't that what electronics are really for after all?
+
+The included software doesn't work with Windows 2000, which meant that I couldn't use it at all.  After putting some effort into contacting Polaroid's customer support, I finally got a hold of someone who told me that no version of the software exists that supports Windows 2000, despite what Polaroid's website suggests.  I was, however, able to get a TWAIN driver for Windows 2000 from their website, which allowed me to use Paint Shop Pro, which I already had, to import pictures from the camera.
+
+I took a few pictures around the house, just to check out how well the Fun!320 worked -- a few of my cats, myself, my couch, etc.  When I was able to iron out the driver issues and import the pictures, I was not at all impressed.  My cats could just as easily have been bears, and I looked like some sort of gelatinous, ethereal being.  Translation:  the resolution was terrible, and the pictures appeared extremely fuzzy.  This was a bad thing, since it's a fixed-focus camera -- that was as good as the pictures were going to get.  Shortly thereafter, I gave up and put the camera back in the box.  I later sold it on eBay at a profit.
+
+In Polaroid's defense, this camera only retails for somewhere around $40.  Having looked into the prices of digital cameras in a little bit in the past, I knew that this was inexpensive to the point of absurdity for this kind of product.  In fact, I seem to recall that, a few months ago, the absolute cheapest one that Best Buy carried was in the $100 range.  So, I should have known better.
+
+Actually, I really didn't expect much from this camera when I ordered it (and boy did I get it!) -- I kinda wanted a digital camera, and I figured that at $14, which was inexpensive even for this camera, it was worth a shot.  Don't feel too bad for me -- I sold it on eBay at a $6 profit.
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

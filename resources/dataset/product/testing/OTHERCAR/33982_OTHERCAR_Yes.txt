@@ -1,0 +1,29 @@
+DOC>
+<DOCID> 33982 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital-JamCam_JamCamProductFamilieses-Jam_Cam_Jr_ </PRODUCT>
+<URL> http://www.epinions.com/elec-review-2EDE-202F5C91-3A4EE8F1-prod4 </URL>
+<TEXT>
+            I recently bought the Jam Cam Jr. for my daughter because I wanted her to have a fun gadget and she loved taking pictures. And, the price was right with the $40 rebate (I assume I'll get that!).
+
+Well, the camera setup as very easy, and I like the included Disney Studio software, but the picture quality was lousy! I noticed other similar comments about picture quality from other E-opinions reviewers. 
+
+I am a physicist by training, so I did some thinking and research. First, I thought the camera was defective, but noticing similar comments about the picture quality from others made me doubt this. Then, I thought all cameras with similar pixel sizes (320x240) produced fuzzy and grainy pictures, but then I saw an ad on AOL for a camera ($70) with similar resolution. I doubted that AOL would sell an adult camera that made such lousy pictures! What's going on? Time for an experiment...
+
+I happen to have a powerful desk lamp. I noticed that when I looked at the camera lens with light from this lamp that I would see a specular reflection! That's physics speak for reflection from a flat surface. This would be impossible to observe with a normal camera, because they have a curved lens that would not allow one to see a mirror-like reflection (the reflection comes from the CCD chip inside the camera).
+
+Oh my! This camera has no lens. It then must be based on a simple optics principle I learned in high-school: it's a pinhole camera!!! You can actually make a camera with no lens and just a pinhole. The pinhole &quot;focuses&quot; the light in a way, but the downside is that you have to use a small aperture that limits the total amount of light that gets through (that's why lenses are not becoming obsolete: they combine focussing and large apertures).
+
+The aperture on the Jam Cam Jr. is much larger than that for a typical pinhole. So, I made a little paper lens cover with a pinhole through it, placed it in the camera aperture, and voila! much clearer pictures!
+
+(So, my physics training paid off after all...).
+
+I recommend you try something similar with your camera. Place a pinhole as close as possible to the CCD and watch the image quality improve!
+
+Thanks for listening.
+<br><br>
+            
+<label> Yes
+<rating>  1.0
+
+</DOC>
+<

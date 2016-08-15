@@ -1,0 +1,18 @@
+DOC>
+<DOCID> 7120 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1999_Mazda_MX_5_Miata </PRODUCT>
+<URL> http://www.epinions.com/auto-review-FF2-37BB5F5-3855270D-prod5 </URL>
+<TEXT>
+            When we set out to buy my wife's Miata, we drove the '99 models with automatic transmissions, since she never learned to stir her own gears.  The test drives were short but, we thought, adequate to evaluate the cars.  We bought the car without the Sport package and in the first few thousand miles we learned that the overall gear ratio was too tall to keep the engine in the appropriate part of the torque curve on long hills or moderate hills if the speed dropped below 60 MPH.  Downshifting, either manually or by kickdown, brought the RPM's too high for most conditions and resulted in a lot of noise and wasted gas, with disappointing performance results.  Other than this anomaly, the car was a delight in all other respects.  The handling and roadholding were superior to the two A model Miatas I have owned.  In fact, I liked the car well enough that after she owned it for two months, I had to have my own.  
+
+I bought a '99 five-speed with leather package, thence the limited slip differential.  Now here is a Miata where the gears were done right...right up to the top gear that is.  Depending on your type of driving, you may be very disappointed to experience the high RPM's of cruising in the 65+ MPH region.  If you only drive around town, or only race short track, the gear ratios of the five speed should suit you well.  If you are going to be on the highway, the engine will sound like it is going mad at cruising speeds.
+
+At 70 MPH, side-by-side, the automatic is turning 3150 RPM and the stick is turning 3800 RPM.  Ideally, about 3400 would be nice.  Apparently Mazda figured this out themselves and fixed it with the six speed transmission and a better final drive ratio in the 2000 Limited.  If you compare the final drive ratios, you will see the substantial differences.
+
+What is an owner to do?  Your choices are limited unless your checking account isn't.  Swapping rear gears comes to mind as a possible, but expensive choice.  You might consider a tire/wheel change to move the numbers up or down as needed.  I did this on my 5 speed at a cost of $1,700.  Not enough difference to notice the RPM change although going from a 195/50 tire to 215/40 tires really improved the cornering.  Most likely choice, drive your Miata like it is and tell Mazda to fix the final drive ratios or you'll buy a BMW Z-3 next time.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

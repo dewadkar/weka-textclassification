@@ -1,0 +1,15 @@
+DOC>
+<DOCID> 22152 </DOCID>
+<PRODUCT> Digital_Cameras/pr-D-Link_DSC-350_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_28667252356 </URL>
+<TEXT>
+            I bought it thinking I could use it as a digital camera and just save all my pictures to my hard drive and not have to waste money on film and developing.  I also thought I could use it as a webcam for my computer.  Unfortunately, I could not use it for either purpose.
+It seemed to wait until it had very specific conditions in lighting and what not, but every picture I was able to take came out terrible.  It was blurry, no matter what zoom or focus setting I had it on.  It would only let me take pictures at a particular distance, again regardless of zoom or focus.  If conditions were not perfect (or whatever it thinks is perfect), it would not even take the picture.  This I believe to be a fatal flaw.  Since when did cameras dictate when a picture can be taken.  The purpose of a camera is to take the best possible picture given current conditions.
+As far as the webcam feature, I hooked it up using the USB cable and downloaded the drivers for it.  The camera came right on as advertised, however I could not start it using any software, even Microsoft netmeeting.  Some programs detecting I had a camera connected but not configured properly and others not detecting anything at all.  The camera had no configurations in this mode and when I tried to set it up on my computer, none of the settings worked.  I installed the latest drivers and still no good.
+I contacted D-Link tech support and the only thing they told me to do was get the updated drivers, completely omitting any information about the other modes such as streaming video which also did not work.
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

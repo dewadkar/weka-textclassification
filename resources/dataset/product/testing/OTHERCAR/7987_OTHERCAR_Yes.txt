@@ -1,0 +1,26 @@
+DOC>
+<DOCID> 7987 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Minolta_Dimage_S414_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_102977736324 </URL>
+<TEXT>
+            I've wanted a digital camera for some time - my wife and I are shutterbugs.  I was looking for a 4 Megapixel camera, Macintosh compatible, in the $300-400 price range, and web searching led me to look at the Olympus 4000 and the HP 812 (both owned by friends who were pleased with them) and a couple of other models.  I selected this camera because (a) it had features comparable to the other models, and (b) I found a good price (by email) from a reputable dealer (B&H photo).  I'm writing this review after having the camera in hand for just a few days, so many impressions are those of a digital camera neophyte with his new "toy."
+<p>
+First, rechargable batteries (NiMH) are a must.  The alkaline batteries that came with the camera didn't last the first afternoon.  I've been using NiMH now for 4 days without a recharge and have taken both stills and (short) movies, downloading them to my laptop 3-4 times with the charge still holding up.
+<p> The camera <i> can </i> be used out of the box (with a short trip to the manual on setting the time and date).  I shot several pictures and short quicktime movies and easily downloaded them onto my Mac.  (FYI: The camera appears on the mac desktop as an external disk drive; just drag the pictures  to iPhoto, or to your disk, or load with the supplied DiMage software).
+<p>
+My friend who purchased the HP 812 did so because he could figure out the user interface while at the store.  This cannot be said of the Minolta S414.  However, after spending about 1/2 hour to 45 minutes reading the manual and trying things out, I'm quickly learning the features that I want to use in "automatic" mode.  I still have about 2/3 of the manual to go that covers "multifunction" (manual focus, etc.) operation.
+<p>
+Short observations: <p>
+I purchased a 256 Mb flash card for the camera for about $60; well worth the cost!
+<p> The camera does not come with its own DC power supply.  The Minolta recommended DC supply is about $70 for 6V DC.  From reading the manual, it looks like you need to take batteries out to recharge - purchasing a DC power supply will let you run the camera, but it doesn't have its own power management on board.  That makes the EE geek in me wonder why a $70 power supply is necessary.  I haven't needed one yet though; I'm working strictly off of NiMH batteries.
+<p> The camera has four options for image size, ranging from 640x480 to 2272x1704.  The camera also can do four-levels on on-camera image compression, with three levels of JPEG compression (economy, standard, fine), and TIFF (lossless) compression.  This allows the user to trade-off image quality with required on-camera storage.  Pictures taken so far are very pleasing to view on the screen.   I haven't tried printing yet, but it's hard to get that wrong once the digital data is stored.  
+<p> Movies can be shot (including audio) for up to 60s at a time.  The 60s limit is due to the camera's (fast) on-board buffer memory.  I have several movies stored on the flash card, mixed in with still photos.  
+<p> The controls are a bit fussy.  The most common actions are taken with the main button on the back, which can switch up, down left, right, or just be pressed directly in as a button.  A slip of the thumb and you'll get the wrong function, but so far this is an easily recoverable error.
+<p> As noted elsewhere, the tripod mount is on the far left, away from the camera's center of gravity (the batteries are on the right side of the camera).  I haven't tried using it with a tripod yet, but physics says I'll need to be careful to make the mount tight!
+<p> <b> Overall </b> I've been pleased with the purchase.  I don't mind reading manuals, and I'm getting used to the controls.  Once you know how to use the function buttons, it's a convenient unit!
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

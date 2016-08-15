@@ -1,0 +1,35 @@
+DOC>
+<DOCID> 865 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_OlympusCC-Olympus__C-3000_Zoom </PRODUCT>
+<URL> http://www.epinions.com/content_34595638916 </URL>
+<TEXT>
+            When I bought the camera, it impressed me with its good camera body design & outlook. It fits in my hands very well and holding the camera is quite comfortable. The bronze aluminum body and the shiny silver ring of the lens base are quite attractive. The deep green color coatings of the lens elements are also very pleasing.
+
+Beside the appearance and the handling, the camera delivers quality photos with good details, sharpness and acceptable colors. The details of image can be maintained even for some highlighted and shadow areas. However, the recorded photos often come out too dark in level. It's not exactly the same as "underexposed" in film photography as one can boost-up the image brightness with the monitor contrast/brightness control or by using software. I think this is a problem of today's CCD technology for preventing the overcharging of the CCD elements under bright light source.
+
+The auto white-balance is quite accurate (I think up to 85 to 90% of the photos are acceptable, although not very natural). The preset sunlight and cloudy white-balance settings are also quite accurate.
+
+The lens delivers very sharp image, however the image at wide angle suffers from obvious pin-cushion distortion and vignetting can be seen easily. Surprisingly, the vignetting is more serious in the upper right corner than the other three corners. I really can't explain it, since the lens and the CCD should be placed symmetrically along the optical center.
+
+When I selected the camera, one of my considerations is that it has the optical viewfinder. However, after using the camera, I found that the optical viewfinder simply useless under some situations.
+First of all, the viewable area is only about 60-70% of the recorded picture. Secondly, the error will become more serious when zooming to telephoto and/or the object is near.
+
+I wonder why a cheap 35mm point n shoot camera can do much better in this aspect. I've heard that many digicams with optical viewfinder suffer from the same problem. I suspect to build a more accurate optical viewfinder maybe a little bit more expensive in the cost of manufacturing, maybe somehow owing to the smaller size of the imaging element.
+
+It's good for the camera to use AA-batteries by considering the high availability of non-chargeable and chargeable batteries and charger everywhere.
+
+Last but not least, I must mention the unreliable SM card compartment. The contacts are poor and sometimes you will get the card error message, but after I pulled out and re-inserted the card, the message disappeared. Maybe I used an external USB card reader and I need to get out and re-insert the SM card often.
+
+The camera enables the built-in panorama mode only when it sees olympus-id SM card and it is a joke to the consumers. BTW, I use the manual mode to overcome it and the results are great.
+
+Many peoples had mentioned about the lens cap, still the fact that the zoom lens motor will still try to push out the
+lens cap when it is not detached is simply a design fault. Furthermore, the lens cap can be accidentally dropped even it is put on the lens "firmly".
+
+Finally, if someone asks me if I can recommend him which digital camera is going to buy, I would only say that one should only use digital camera for casual shooting but not demanding too much and never compare to the quality of film photography, in particular color saturation and naturalness.
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

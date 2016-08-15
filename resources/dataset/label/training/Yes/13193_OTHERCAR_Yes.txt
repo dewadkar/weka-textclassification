@@ -1,0 +1,46 @@
+DOC>
+<DOCID> 13193 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Canon_PowerShot_A70 </PRODUCT>
+<URL> http://www.epinions.com/content_110420463236 </URL>
+<TEXT>
+            Before I get to the camera itself, let me start by explaining what sort of photographer I am and what kinds of pictures I like to take, so that you can see my biases clearly.  I'm not a pro; I mostly take photographs of my family, both indoors and out, plus the occasional outdoor shot of something interesting like a bridge or a mountain.  Weird effects, macro shots, night shots and so on aren't the primary reason I bought this camera, although I wanted a camera that would let me experiment and learn about them.
+
+I looked at several cameras before deciding on the A70; the other serious contenders were the Minolta F100, the Olympus C-4000 and the Nikon Coolpix 4300.  All four cameras had excellent features, and all took fine photographs as far as I could tell.  I eliminated the Minolta and the Nikon by visiting a camera store and looking them over; they both felt very clumsy in my hands (don't underestimate the importance of actually seeing and holding a camera before you buy it on the web).  I eliminated the Olympus because it uses SmartMedia cards, which for technical reasons have a size limit of 128 MB (while you can get CompactFlash cards in sizes up to 4 GB as of this writing).  The Olympus pictures also had a distinctly bluish cast to them; see http://www.imaging-resource.com/IMCOMP/CDISPLAY.HTM for examples.
+
+Even with all the research, though, there were still a few things about the Canon that worried me.
+
+One was the so-called "soft-image" problem.  Some Canon users complain that the shots you take with Canons always look a little out of focus (see http://forums.dpreview.com/forums/read.asp?forum=1010&message=4817627 for a more detailed discussion).  Although I thought I was indeed seeing this problem after the first few shots I took (which were badly out of focus), after I got the hang of the camera the problem went away.  I'll say more about this below.
+
+The second worry was that a 3.2-megapixel camera wouldn't produce pictures that could be blown up.  This, too, turned out to be a non-issue.  I've taken some shots and blown them up to 8x12, and I can't see any pixels in the enlargements.  Of course, if you crop a 3.2-megapixel shot and then try to enlarge it you might run into problems; I haven't tried that.
+
+The last worry was the lack of a RAW output format; the A70 spits out its pictures as JPEGs.  I worried that the pictures might have fringing effects or look "dirty" the way JPEGs sometimes do.  Again, this was a non-issue.  The camera doesn't compress the JPEGs aggressively enough for these artifacts to be visible.
+
+So much for the worries.  Although A70s can be had on the Web for as little as $270, I decided to buy mine at the local Ritz Camera store; I figured that the peace of mind that came with being able to return to the store and say "take it back" was worth $30.
+
+That was five weeks ago, and since then I've taken several hundred shots with the camera.  The long and the short of it is that I'm very happy with the results.  The colors are vibrant, the pictures are sharp, and the camera works well in a wide variety of lighting conditions.  The pictures came out looking so good that I've gotten more adventurous with the controls, and I'm now using the camera for macro shots, night shots and panoramas, and again, I'm very happy with the results.  I have some great closeups of flowers and insects in my garden, and a nice night shot of the Big Dipper hanging over my home, taken in nothing more than starlight.
+
+In fact, I have found that I like fiddling with many of the controls that are disabled in the fully automatic mode (color balance and ISO, for example), so now I shoot mostly in the program mode.  And until I bought the A70 I'd never owned anything other than a fully automatic camera.
+
+The stitch assist mode, by the way, is excellent; what the camera does is to display a fragment of the previous picture along the edge of the LCD, so you know how far to pan when you shoot the next picture.  Very nice.
+
+I said previously that the first few pictures I shot with the A70 turned out badly out of focus, and I thought I had run into the "soft image" problem big time; but I think what was really happening was that I didn't understand that the camera doesn't focus instantaneously.  I get much better results when I take my time, compose the shot, slightly depress the shutter button and give the camera time to focus before taking the picture.  Once I learned to do that the results improved dramatically.
+
+Incidentally, that's why I have given the camera 3 out of 5 for shutter lag.  From a standing start, the camera does take about a second to snap the picture; if you already have things composed and focused, though, the shutter lag is nearly zero.
+
+To be fair I have a few minor nits to pick, although I haven't yet found anything that would make me want to take the camera back.
+
+The biggest nit is that the flash tends to wash the subject out.  There's a brightness control on the flash, but it's manual, and if you're too close then the subject ends up washed out and the background ends up too dark.  The solution is to back away from the subject, but you can get only so far away since the camera has only a 3x optical zoom.  The telephoto lens would help here; I'm considering buying it.
+
+Speaking of which, I wish the camera had a more powerful zoom.  My camcorder, for example, has a 10x optical zoom.  But, no equivalent camera has more than a 3x zoom.  What can you do.
+
+Finally, the LCD is completely unreadable in direct sunlight, but I think all LCDs have the same problem.
+
+There are a few add-ons you might want to invest in.  First, buy yourself a SanDisk USB 2.0 CompactFlash reader for $20; the camera's USB interface is USB 1.1, which is 40 times slower.  Next, don't rely on alkaline batteries; they'll last you only a few days.  Go to batteryspace.com and buy yourself a 24-pack of 2000 mAh NiMH AA's; for $25 you'll never have to deal with dead batteries again.  Finally, get yourself a bigger CompactFlash card.  A 256 MB card is only about $50, and it will hold over 200 pictures.
+
+The bottom line is that I'm very happy with the A70.  You can always spend a grand and get a better camera, but for $300 this camera delivers the goods in spades.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

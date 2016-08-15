@@ -1,0 +1,30 @@
+DOC>
+<DOCID> 20495 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1991_Chevrolet_Lumina </PRODUCT>
+<URL> http://www.epinions.com/content_32175459972 </URL>
+<TEXT>
+               I no longer own this car but did for a long time and got to know it's quirks quite well. First though, some opinions on comfort, style, and driveability.
+
+   The Chevrolet Lumina shares a chassis with the Pontiac Grand Prix, Buick Regal, and Oldsmobile Cutlass Supreme. (the W chassis) Although it's siblings are quite attractive, my old Lumina looked kinda like a Corsica all grown up. Far from attractive but when compared to the 4 door LeBaron or Taurus not too plain. The interior is quite roomy but I would have preferred a little more leg room. visibility is helped by a downward sloping hood which makes it easy to park for a relatively wide and long car. On the down side, the instrument cluster on the base model is narrow and hard to read at a glance. Typical of Chevrolet models of the era it is equipped with an idiot light cluster, speedometer, odometer, and gas gauge. That's it. Euro models have full but tiny instrumentation. The stereo/cassette player was acceptable even if the cassette player was short lived. A good excuse for a brand name aftermarket upgrade. I never liked the climate controls. Vague little square push buttons that I suppose worked ok but were badly placed. The glove compartment (if you can call it that) is pretty much useless. Maybe room for an insurance card. What a joke to find such a small space behind such a big door. The paint is horrible. I didn't see any other complaints but I have seen a lot of these cars with paint coming off in huge sheets. It may just be a sunbelt issue. The curved windshield has a terrible optical distortion at the edges. Yeah, I got used to it to the point of it being entertaining on long road trips but the first few times you look over there and see the world by the A pillar distort...it can be distracting.
+
+   The best feature I can think of about this car is freeway performance. Mine was a base model and had 14" tires so it didn't have the great handling of the Euro. It also never cost me more than $300.00 to put 4 new brand name tires on it. In icy weather the car handled itself very well. Sometimes it was deceptive just how slippery it really was. (On black ice, near Council Bluffs Iowa, the Lumina earned my respect by it's ease of control in the slippery stuff. My feet should have had it so good. I fell.)
+Milwaukee to Dallas via Omaha and Denver one winter. The Lumina took it all. (I know there is a more direct route but I wanted to go to Colorado...) It was stable and relaxed when traction was good at 75 mph and returned an average of 30mpg.
+
+Addressing the issues:
+
+  Most of the complaints have been about the brakes. In particular the rear brakes. You absolutely have to set the parking brake periodically. Preferably every time you park. My front pad life was very short until I read a service bulletin on this. No further problems since.
+
+  Accessibility: This has got to be one of the easiest FWD V6 cars to service. Not changing the back 3 plugs is completely ridiculous. Just remove the alternator. From that point the back three are a straight shot from the passenger's side. Some techs remove the front torque struts and rock the engine forward but removing the alternator is easier for me. The alternator is very easy to remove and can be done with common hand tools. The water pump is also very easy. Much more so than the Taurus' 3.0l or the LeBaron's 3.0l (which is driven by the timing belt) The difficult things to access are the coil packs which you need access to to change plug wires and the A/C low pressure connector which is located under the battery.
+
+Alternator: My Lumina was purchased with a brand new Autozone Duralast (UhOhZone DuraCrap)alternator installed. It failed within weeks. After much debating with various members of the staff and management at two locations a replacement was given. It failed a little more than a month later. After being insulted by some high school counter monkey, while I was in work attire complete with ASE automobile technician patch, I purchased another from AlterStart in Dallas. I don't know if just the third time was the charm or if a custom built unit is that much better but it never failed again. Note: the GM CS series alternator will not charge a dead battery. It needs a certain amount of voltage before it will even energize.
+
+   Thanks for reading.
+
+AlterStart (214)330-5900 
+
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

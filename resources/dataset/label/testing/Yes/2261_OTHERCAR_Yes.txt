@@ -1,0 +1,50 @@
+DOC>
+<DOCID> 2261 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_ToshibaPDRR-Toshiba_PDR-M1 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-3665-1FDE8AC-37DB3234-bd4 </URL>
+<TEXT>
+            Things came together for me and a digital camera in May of 1999.  The main impetus to get one came with a major remodel of our house.  I knew I wanted to take a bunch of pictures of the construction process for fun, and also to have a record of where things were under all that drywall and insulation.  I wanted to pay around $400 for the camera, so I did my research, used a friend's Kodak DC210, and decided to save some money by going with the PDR-M1 instead.  I picked it up at http://buy.com for $310.  With the same order, I also picked up a 16mb SmartMedia card for $41.  
+
+The one thing I definitely heard about the PDR-M1 (and other d-cameras) is that it drains regular alkalines in a flash.  The solution to this, I learned from a faq at 
+
+http://www.imaging-resource.com/.  
+
+Head over to http://members.home.com/andybaird/batteries.html 
+
+to learn about battery options.  The bottom line is this -- buy rechargable Nickel Metal Hydride batteries.  I picked up 8 NiMH AA batteries and a charger for about $50.  This is about a perfect solution.  I've always got a set of batteries in the charger hot and ready to go, and one in the camera getting colder.  
+
+So, for my $400, I've got a mega-pixel camera that stores about 50 high-resolution images (1280x1024) or 180 lower-resolution images (640x480).  Not a bad setup.  
+
+I've taken over 800 pictures over the last four months and I've have to say that the quality is better than a scanned snapshot and a heck of a lot easier to get into the computer.  
+
+I've definitely enjoyed using it, but it doesn't yet pass my father-in-law test.  He loves cameras and taking pictures, but he's pretty techno-phobic.  Like most digital cameras, there's enough of a delay between pushing the button and the picture taking to make candid shots difficult.  Add to that the approximately 10 second boot-up time from hitting the power switch to the green light for taking pictures, and the about 10-second delay as the camera saves the last picture.  This camera is for documentation and selective stalking, not something to whip out to snap a shot of a UFO.  
+
+Computer interface:
+
+The camera comes with a workable image-editing program, but nothing to write home about.  You connect the camera to the PC through the computer's serial port.  No USB action for this machine.  Toshiba also includes a Mac interface cable.  I've had trouble with the image downloading software on my machine running Windows NT4, but the non-DOS-phobic will probably enjoy a little DOS utility for downloading the files which you can get at: 
+
+http://www.globaldialog.com/~biggers/html/pdr-m1_tidbits.html 
+(scroll to the bottom of the page).  
+
+It takes about 60 seconds to d/l a high res picture, 15 seconds for low res.
+
+Documentation:
+
+Actually, I've never used it, so I can't comment.  I just picked up the camera and went to town.  Once you've gotten used to the timing quirks, the camera is a simple point-and-shoot with an LCD screen.  
+
+Using the thing:
+
+Turn it on, wait for the LED to turn green.  You've got an optical viewfinder or an optional live view from the LCD.  I primarily use the optical.  Point and shoot.  A thumbwheel on the back lets you go to a setup screen, choose shooting modes (timer, manual, and auto), view pictures stored on the camera, delete pictures (all, or just the frame you're looking at), protect stored pictures (make them immune from bulk deletion), and go into PC download mode.  
+
+I mostly use the manual mode, which displays the picture you just took on the LCD, then lets you keep or delete it right there.  
+
+The little SmartMedia cards are about 1x2 inches and wafer-thin.  The PDR-M1 comes with a 4mb card standard.  If you need to store more pictures, just buy another card.  You can speed up the download rate tremendously if you use a Flashpath floppy adapter.
+
+This is a little instant-gratification box.  Snap the picture, download it, and it's there on your computer forever.  It's neither as simple nor as cheap as a comparable film camera, but it's a great start.  I have no doubt that two years from now, my son, who will be nine by then will have received this camera as a hand-me-down and his dad will have a shiny new one that does pass the father-in-law test.  But until then, I only let him use it with my supervision!
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

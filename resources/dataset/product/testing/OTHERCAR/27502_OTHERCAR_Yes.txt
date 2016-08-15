@@ -1,0 +1,88 @@
+DOC>
+<DOCID> 27502 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Kyocera_Mita_Finecam_SL300R_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_121306189444 </URL>
+<TEXT>
+            Slimmer and smaller than most men's wallet even when put in its supplied camera case, the SL300R is probably the best ultra-compact digital camera in its class. (3 Mega-Pixel + 3x Optical zoom class.)
+
+I only research and buy ultra-compact digital camera, because I believe the
+best usage for digital cameras is to "capture the moment".  I've been a huge
+fan of the Canon Digital Elph series, from the S100 to SD100, I've watch
+them improve in each generation.  However, there is a couple problems that
+they have not solved even up till today, and that is its mere 2x optical
+zoom and relatively thick body.
+
+Now, you might say "Non-sense, the S400 has 3x optical zoom and the SD100 or
+SD10 are thinner than before."  To which I would say "Just look at the
+Pentax Optio S."  The standard of camera size   optical zoom was forever
+changed when Pentax announced their "fit inside an ALTOIDS can" size camera
+w/ 3x optical Zoom!!  Unfortunately, both the Pentax Optio S and the Casio
+EX-Z3 suffer from poor image quality compare to the Canons. (They use the
+same lens and same image processor.)
+
+In come the Kyocera SL300R.  Announced in September 2003, the SL300R is the
+thinnest 3x zoom, 3 Mega-Pixel camera right now (December 2003), go search
+for it on Yahoo to read its spec., and go to Steve's DigiCams for a complete
+review   sample pictures.  I didn't even wait for any reviews before I
+bought this camera!  I tested it for picture quality myself! (The only thing
+I couldn't test was battery life, which DPReview's site has.)
+
+As you can see, picture quality is very good, at least on par with Canon's
+Digital Elphs!  Skin tones are natural, screen noises are not bad,
+compression is done nicely so the whole picture looks very natural.  Kyocera
+heavily advertises its "RTUNE" image processor, which allows its SL300R to
+continuously take 3 Mega-Pixel pictures at 3.5 frames per second, or 640x480
+avi movies at 30 frames per second with sound, until your memory card is
+full!!(must use a high-speed memory card.)  What they didn't tell you is
+that you can take 30fps 640x480 avi movies and be able to use optical zoom!
+& I only use a normal 256MB SD card (non high-speed card), I can still
+record more than 1 minute of movies! (I stopped it, it could keep on recording!)  But because this takes way too much
+space, I strongly advise against it!  Personally, I like the continuous
+pictures.  Once again, w/ my "low" speed memory card, I can still take 3.5
+pictures per second at its highest 2048x1536 resolution. (But zoom and flash
+are disabled.)  Strong magnesium body feels sturdy.  The rotatable lens also
+feels strong and is not going to break off easily.
+
+Getting more technical now, aside from the typical settings, the SL300R also
+gives you a "Chroma" settings, which lets you adjust the intensity of the
+colors (brighter or paler), an AE mode which lets you fix the aperture at
+F2.8 or F7.5 (adjust area in sharp focus {depth of field} from shallow to
+deep), manual focus from 2 ft to infinty, and finally metering on
+evaluation, center or spot area, which is how it calculates the exposure of
+the picture.  In "evaluation", the entire picture is cut into 64 zones and
+the light in each zone is measured to determine the optimum exposure,
+"Center" means light is measured with greater weight given to the central
+part of the screen, and finally "Spot area" means light is measured at the
+center alone.  (All these mumble jumble means you have the power to take
+professional looking pictures with this tiny camera, if you know how.)
+
+Finally, its weaknesses.  It has no tripod mount, probably due to the fact
+that it is so thin!  However, please note that it can stand still on a flat
+surface with its lens twisted foward!  There's no lens cover and since the
+lens in right at the corner, you will touch it a lot of times at first, once
+you get used to it you won't touch it anymore, but be prepared other people
+will keep touching your lens when they ask "can I see your camera?" (And
+they WILL ask!).  Fortunately, it comes with a tiny key-chain lens wiper,
+you should hook that to the camera's hand strap.  It has no video output,
+not a big problem IMO, as I always view my pictures on my PC.  Oh, almost
+forgot, if you're using Windows 2000 or higher, your pc will automatically
+recognize your camera as an external drive, so you don't need to install any
+software!  Very convenient!  Battery indicator seems to be not very
+accurate, when it drops to 1/2, it will soon drop to low.  If you plan to go
+on a trip with this camera, you'll need to buy a 2nd battery.  If you don't
+use a flash in low light condition, the noise level goes up(this goes for all other digital cameras too.)  It isn't too bad, but it's not as good as the Canon Digital Elphs.
+
+So, my conclusion is, if you're in the market for a REAL tiny, 3x zoom, 3
+MegaPixel digital camera, you can't go wrong with the Kyocera SL300R!  It's
+MSRP in Japan is actually just around US$350, I was able to get it for $330
+including tax!  I think Kyocera is trying to break into the lower/mass
+consumer market with this camera, (they used to only make top of the digital
+cameras that cost $500 & up.  Kyocera is also the maker of the Contax brand
+professional cameras.) so take advantage of this I say!  Buy it now!
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

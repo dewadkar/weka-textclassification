@@ -1,0 +1,52 @@
+DOC>
+<DOCID> 11441 </DOCID>
+<PRODUCT> Digital_Cameras/612909_Sony_MVC_CD200 </PRODUCT>
+<URL> http://www.epinions.com/content_32206261892 </URL>
+<TEXT>
+            I wasn't looking to buy a new camera, but I was sucked in by the unique storage format of this new Mavica from Sony, and now I actually own one.
+
+Putting the storage issues aside for a moment (see the bottom of this review for myth debunking of other reviews), the camera takes rock solid photos.  The 2.1 megapixel camera has a maximum pixel resolution of 1600x1200 and a minimum resolution of 640x480.  I must emphasize that the images produced by this camera are stellar.  In comparison to my two other digitals (a Mavica FD-88 and a cheapie Casio) and others used by friends and family, this camera's images are consistently more crisp and vibrant.
+
+For camera novices, like my wife, the CD200 has a point-and-shoot setting that figures out all of the details for you.  Alternately, it also provides manual controls for all sorts of custom settings.  You can set exposure times and sensitivity, and even emulate different film speeds, such as 200 or 400.  Use the pop-up flash for flood or dark scenes.  It can even focus in the dark using this odd secondary lamp located just below the flash arm.  Or just set it to manual focus and do it yourself!
+
+The zoom is a 3x, like most cameras on the market.  It's a complete loss moving from my FD-88 (with an 8x zoom) to this camera, but the other options and high resolution are enough to overlook this, especially if you don't already have a camera.
+
+All of the features of this camera are easily accessed by either turning the knob on top (for common settings) or using the menu system in the LCD viewfinder.  The viewfinder itself is very sharp and is well lighted.  Unfortunately, this drains the camera's battery life more quickly.  But even if you use the LCD finder constantly you can get a good 2 hours of shooting time.
+
+One great feature of this camera is that it takes pictures quickly.  There isn't as much of a delay between shots as in many digital cameras.  Not even a second passes before the camera is ready to shoot again.  This is a TREMENDOUS advantage because it lets you take shots of action without "waiting for this stinking camera to be ready".
+
+The CD200 has a shoe for adding an external flash that plugs into an accessory port on the side.  A video-out port lets you play slideshows for your computerless relatives through their TVs, and a USB port lets you hook the camera to your computer.  It behaves just like another CD-R drive!
+
+Unfortunately, the camera doesn't come with an external charger, so if you want to charge the battery, you need to leave the camera plugged in.  This is an advantage over the old Mavicas, though, which didn't have power ports at all, and therefore couldn't be used without a battery.
+
+The MPEG mode has been improved for this CD Mavica.  You can now record 320x200 for a minute or 160x100 for 4 minutes.  The quality is pretty good for a not-video camera, and surely good enough to convert for streaming on the web (I recommend Sonic Foundry's Stream Anywhere for this purpose).
+
+Even without the special storage capability, the camera is a fabulous device.  But the storage medium IS what makes it special.
+
+Each 156MB disk can hold a TON of pictures.  I spent last weekend obsessed with trying to take the remaining 300 images that the camera had reported to me.
+
+I need to clarify some things that other reviews I've seen online (on epinions and elsewhere) have gotten all wrong concerning the CD mechanisms:
+
+The disk is either a CD-R or CD-RW.  It is is not a Sony MiniDisc(TM).  It's true that the CD is a 3-inch CD, not a 5-inch CD, so I guess that makes it a "mini-disk", but not a MiniDisc(TM).
+
+That said, you can see that this storage system would be universal.  Pop out a disk, stick it in a computer, presto - photos!
+
+To prepare a disk for writing, you need to initialize it.  This is done once when a fresh disk is inserted.  A disk that is initialized need not be initialized again, even if it is reinserted.  This process takes about 15 seconds.
+
+After a disk is full (or you just want to use it in your computer) you need to finalize it.  This process takes about 2 minutes, and makes it so that your CD can be read by most regular CD-ROM drives.
+
+Initialized disks can be also read in CD-R drives without being finalized if you have Adaptec's DirectCD installed.  I used this method to avoid taking the time to finalize/unfinalize disks between shooting sessions.
+
+One thing I don't like about the CD is that it stores all of your images types in different directories on the CD.  For example, photos go in one directory, and movies in another.  It sounds like a good thing, but try to remember which cryptic directory name contains what, and you'll see my impatience with this small annoyance.
+
+The camera comes with an adapter ring to increase the size of the mini CDs to the regular size for systems that can't hold them.  This isn't really necessary on most systems, since almost every one I've tried has had a smaller ring on its tray for the smaller disks.  The only drive that gave me problems was my 4 CD changer, which feeds with a slot like a car CD player.  It might have taken the smaller CD (my car player will!), but it's older and I didn't want to try and end up breaking it.
+
+The price of the camera is a little steep.  But I justify it in a couple of ways.  First, obviously is the cool factor.  Second, I need to be able to "develop" photos when I'm away at relatives who don't have compactflash readers and such.  Third, I want to be able to take short movies without also carting my video camera around.  Fourth, I need the extra custom control over focus and exposure that isn't provided by typical cheapie digitals.
+
+All in all, this camera is a tad expensive for a 2 megapixel digital, but its solid design, image clarity, control over photo settings, and unique storage media made it a good buy for me, and probably you, too.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

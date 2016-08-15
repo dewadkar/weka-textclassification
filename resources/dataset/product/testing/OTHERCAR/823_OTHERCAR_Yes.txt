@@ -1,0 +1,46 @@
+DOC>
+<DOCID> 823 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Hewlett_Packard_PhotoSmart_C618 </PRODUCT>
+<URL> http://www.epinions.com/content_41099366020 </URL>
+<TEXT>
+            For many people, HP PhotoSmart 618 represents one of the best values you can find in the realm of digital cameras.  For me, the camera represents one of the best bargains as well, but also one of the best digital cameras I have ever used.  Sadly, this camera became the reason why I reverted back to the good old 35mm format.
+
+PhotoSmart C618, reviewed here, is a 2.1 megapixel camera with the option to switch to manual settings, an LCD display loaded with options, USB computer connection, and all that for an unbelievable price of $300-$400.  Actually, according to Amazon.com, the full price of the camera is over $600, but all shops are selling it with a discount.  This said, let us look at the features one by one:
+
+<b>Optics</b>
+The camera features a Pentax lens with 3x zoom and an additional 2x digital zoom.  While this zoom is adequate for taking pictures from distance, extreme close-ups tend to gain a fish-eye distortion.  This problem, however, can be solved by applying specific filters.  While the Pentax lens is state-of-the-art, it is the special filters that add lots of value to the camera.  Sold (quite expensively) by a third party, you can get lenses for extreme close-ups, telephoto lenses and even some filters.  My biggest gripe with the optics is that at least a polarizing filter should have been included in the standard package.
+
+<b>Ergonomics</b>
+The camera belongs among the more bulky and heavier types, yet it is no real burden.  The grip is very comfortable, and you have easy access to all buttons.  Included to the standard package is an infrared remote control that not only lets you take pictures removed from the camera, but also browse through the pictures you have already taken.
+
+<b>Software and storage</b>
+The camera comes with a 16MB flash card, which holds in average of 25 pictures in medium (800x600 pixels) quality.  The first thing I did was to buy an extra 64MB flash card, which proved to be very handy.  On the other hand, the camera does not recognize microdrives, so you are stuck with the more limited Flash cards.
+
+Software, on the other hand, gives you lots of options � from applying some filters, such as sephia (actually, that is the only filter if you don�t count black and white picture taking), through adjusting the film speed (ISO 100 or 200), changing the picture quality, to embeding date and time information on the pictures.  Everything, of course, can be automated as well, and in that case you have a standard point-and-click camera.
+
+In addition to normal picture taking, the camera has a very useful continuous shot option, which lets you take pictures as long as you hold the release button.  The speed of taking these pictures, however, seemed a bit slower than on classic 35mm cameras.  The last option is picture taking with a delay, which lets you chose a 15 seconds delay or the use of the remote control.
+
+<b>Picture transfer</b>
+The camera comes with an HP software for transferring and adjusting pictures in your computer.  I have discarded this software very quickly, however, as its features are comparable to ACDSee and opted for an additional investment of $99 for Paint Shop Pro.  The camera connects to the PC through a USB port, and if you have WinME, you will not need the HP software at all.  Overall, the transfer is very simple and fast; one of the best features the camera offers.
+
+<b>Problems</b>
+Mow comes my favorite part, complaining about the product.  Basically, the camera suffers from some of the problems other digital cameras suffer from as well � limited effects, limited battery life and low picture quality.  In addition, the camera has some specific problems with shutter speed, color balance and the built-in flash.
+
+<i>General problems</i>
+As other digital cameras, PhotoSmart 618 has a very limited battery life.  It uses 4xAA batteries, which will last you for only about 50 to 70 pictures fit the LCD screen on, which may be less than the capacity of a 64MB flash card.  In addition, you will be forced to browse a complex menu to adjust manual controls, which eats up the battery life even further.  The second problem is that the viewfinder does not display everything that will be at the picture.  This will force you to use the LCD screen more often or crop pictures you have taken.  The third problem is the LCD itself � I found that in direct sunlight, it was impossible to see anything there.  The last problem is that the picture speed is limited to ISO 100 and 200.  I am a heavy user of ISO 400, but sometimes tend to drop to a grainy black-and-white ISO 32, none of which are offered.  Thus, this camera is good for average pictures only.
+
+<i>Specific problems</i>
+<i>1. Low shutter speed.</i>  The camera has an incredibly low shutter speed, which results in a lot of blurred pictures.  Whenever you will try to take a picture in low light conditions without the flash, you will need a tripod or a very steady hand.
+
+<i>2. Color balance.</i>  The color balance is less than satisfactory.  All pictures gravitate a bit to green color, and I always have to increase the amount of yellow and red when editing the picture to offset this problem.  I found out that the same color adjustment settings can be applied to any picture I have taken in low light conditions without a flash, so I believe it is an ongoing problem with this camera.
+
+<i>3. Flash problems.</i>  This camera is very flash-happy, and often even on a sunny day the flash went off when I was standing in the shadow of a tree.  Understandably, all those pictures have turned out to be incredibly dark, and only the manual disabling of the flash helped.  
+
+<b>Overall,</b> the camera proved to be an expensive toy, and nothing more.  If you want to take pictures comparable with your compact 35mm camera, this one may be sufficient.  Its main strengths are: the ability to delete unwanted pictures, the savings that come with the lack of the need to develop pictures and the relatively large picture capacity if you decide to buy an additional Flash card.  For intermediate users, the camera can still be valuable, but only if you invest an additions $300 for a tripod and the basic lenses and filters.  For $700, however, you may get a better 35mm camera.  For both types of users, the biggest advantage will remain the fact that all pictures you take are Web-ready.  I do recommend this camera for that reason, but I always keep a 35mm camera right next to this one.
+
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

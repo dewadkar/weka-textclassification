@@ -1,0 +1,61 @@
+DOC>
+<DOCID> 32688 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Minolta_Dimage_A1_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_114961059460 </URL>
+<TEXT>
+            Recently, I have tested the A1 two times indoor and outdoor and would like to share my limited hands-on experience and first impression about it.
+
+<i><b>Body feel & handling</b></i>
+
+It's very comfortable to hold and its grip has been much improved when compared to the original Dimage 7. Also, the camera body balanced well in my hands. But it seems that the whole body is made of plastic and it is actually more lightweight than it looks.
+
+<i><b>Operation & making settings</b></i>
+
+The general operation for choosing modes and shooting is seamless. Dials, knobs, buttons are well placed and marked. The manual zoom ring is also an advantage for better zooming and framing control. The zoom ring is tight and the moving lens barrel is not loose. However, the zoom action seems a little bit rough which I dislike. In general, the A1 can be operated in a very similar way to a traditional SLR film camera.
+
+On the other hand, I found that the "auto" mode memorised its own default/fail-safe settings other than the PASM creative modes, e.g. picture quality or simply the compression ratio. I hadn't read any user manual but I found that changing such more in-depth settings was not quite direct and easy. Another example is the selection of the AF point(s).
+
+After all, the A1 is not that bad regarding the user-friendliness. It's just not as good as the best design in the market, e.g. the Pentax *ist D which should take the crown, even over Canon and Nikon, IMHO.
+
+<i><b>The AF</b></i>
+
+The AF is very quiet and fast, there was no hunting observed. Actually, I quite like its responsiveness. I chose the multi-point AF mode and it could choose the AF point decisively. However, AF accuracy and consistency would be a problem. The system did not always select the same AF point even when I panned the camera only a little in position. The most worried thing is that there was one shot out of focused in the first ten shots although the camera thought that all the shots were in focus. I would like to amend that the lighting conditions should be ok for the AF systems for all shots. I also tested the AF accuracy in macro mode and I can say it is only acceptable but not very accurate.
+
+<b><i>The optical quality - the super zoom lens</i></b>
+
+This lens has very good sharpness, resolution, contrast, intensity rendition, little distortion and fair to good bokeh. This has been verified in all my test shots. This GT lens is the best of the A1, I think, bright and fast and covers the most useful range from 28mm wide to 200mm tele (135 equilvalent)
+
+<b><i>The picture quality - the digital part</i></b>
+
+The sample pictures show that the resolution is very high. The color looks quite natural and pleasing in both sRGB and AdobeRGB color spaces. I can also see in the pictures that the recordable dynamic range is quite wide, i.e., I can still see something in both very bright area and shadow area. The jpeg/digital artifacts and noises, etc. are not very noticeable for all the pics which were taken at ISO 100 setting. But one should be aware that higher ISOs and longer exposure time will probably cause troubles, though I haven't tested those. Last but not least, the sharpening seen in the pictures are considered to be moderate. Finally, I noticed that the AWB is not always accurate for indoor fluorescent lighting so that some shots turned out to be yellowish for white object.
+
+<b><i>The AS (Anti-Shake) function</i></b>
+
+This is an unique feature of the A1 and also the world's first body built-in image stablisation system. It's very interesting that the CCD moves to compensate the camera shake instead of moving lens elements as adopted by Canon and Nikon. I tried to shake the A1's lens a little bit vertically and set the lens at 200(50)mm and of course using a slow shutter around 1/30 to 1/60th second. I found that the AS cannot eliminate all the shaking but the effect has been minimized.
+
+<b><i>The EVF</i></b>
+
+I think I must elaborate more about the EVF since that  this maybe a major concern for most ppls who used to play with traditional film SLR.
+
+The EVF is fine, smooth and colourful, there was no obvious pixel seen, unlike the Dimage 7 series. There is no unpleasant color shift as seen in D7. The saturation is a little bit on the high side, colorful but not quite natural;
+
+The EVF has no flickering under artificial light source which happened in the EVF of the Nikon 5700;
+
+But the response/fps of the EVF is still rather slow and maybe just a little bit faster than the Dimage 7. I panned the camera and look through the EVF, I found that the frames were changing "frame-by-frame". I regard this viewfinder is not suitable for action photography;
+
+The dynamic range of the EVF is indeed not wide enough so that highlights are often blown out and details couldn't be seen in those brighter areas;
+
+<b><i>Alternatives?</i></b>
+
+Wait for the Sony F828, a 8M model, or simply consider the cheaper latest Panasonic FZ-10, a 4M, 10X optical zoom model. But for the A1 price tag, the Canon 300D, which is a true DSLR, is also very worth for considering.
+
+<b><i>DSLR?</i></b>
+
+But how about getting a true optical DSLR? If you want an all-in-one DC with accurate framing viewfinder but needed to be lightweight and compact, then go for the A1 path. And one can save considerable amount of bucks as well, except that if one getting a Canon 300D with  the standard EFS lens only. If you simply want a true interchangeable lens DSLR and simply can't tolerate an EVF, then one should opt for a DSLR. BTW, I myself haven't made up my mind yet. 
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

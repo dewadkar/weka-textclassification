@@ -1,0 +1,18 @@
+DOC>
+<DOCID> 27505 </DOCID>
+<PRODUCT> Digital_Cameras/Polaroid_PhotoMax_2300Z__Camera_634601 </PRODUCT>
+<URL> http://www.epinions.com/content_69940514436 </URL>
+<TEXT>
+            The Polaroid PDC 2300Z is a rebranded Premier DC2000, also sold as the Vivitar ViviCam 3655.  It's been around for a while now, no longer marketed by Polaroid.  Better cameras can be bought for a lower price unless you try for an auction.  The camera has a 2.3 megapixel CCD, 2x optical zoom, 2x digital zoom, uses CompactFlash memory, with a 1.8 inch LCD.  The physical size is larger than most cameras with similar features.  It's not exactly pocketed easily.  
+
+The image quality is nice.  Medium compression of the jpegs is half the size of lowest compression, with very little noticeable difference.  Colors are good except in dim fluorescent or incandescent light.  It tends to turn a little greenish under those conditions.  The flash doesn't seem to fill up the entire view.  It's noticeably darker at the edges.  A remedy for this is to put some Scotch tape--not the perfectly clear type but the one with the rough surface--over the flash.  Macro mode (extreme close-ups) is great on this camera, producing very clear images.  
+
+Buttons and features are easy to use and self-explanatory.  The only problem is the spinner at the top left.  It's hard to acquire a grip on the slick plastic even with the protrusions, and turning it is a chore.  The LCD screen has poor contrast and is very dim.  Indoors, it works decently, but in sunlight, it's barely visible even when set to brightest.  Because of this, it's best to use the optical viewfinder in sunlight.  The LCD screen protrudes about half a centimeter past the optical viewfinder, making it hard to use with the right eye due to people having noses.  The viewfinder works better when viewed with the left eye because the LCD doesn't hit the nose.  
+
+Pictures are transferred to the computer through the USB port using TWAIN.  Basically, that means your computer thinks it's hooked up to a scanner and you have to do image acquire.  It's a good idea to get a Compact Flash reader for your computer so you can transfer files directly.  This way, you don't lose all the JPEG file information like the date and time, shutter speed, and exposure time.  My friend sold this camera to me for $85 after less than a year's use because he was getting a 3 megapixel digital camera.  However, for the retail prices offered as of this review, it's a bad deal.  Polaroid's financial status is iffy so who knows if there will be support in the future.  There are newer and better cameras out there for lower prices.
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

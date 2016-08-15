@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 55 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Mercedes_Benz_E_Class </PRODUCT>
+<URL> http://www.epinions.com/auto-review-6DDB-6FC6F9-388E45F6-bd3 </URL>
+<TEXT>
+            The Mercedes E320 is in my opinion the best luxury car on the market.  The engine is without equal.  It is so powerful and fast that it could be used to race.  The handling of the car is also spectacular.  I dont think that BMW, Lexus, or any of the other competiters are nearly as good as the Benz.  The ride is extremely smooth and quiet.  The one bad point of this car is its ride in extremely rough conditions.  Though it still drives better than most cars, there is some difficulty handling the automobile in icy conditions.  Other than this point, it is a great buy for any buyer with the cash. <br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

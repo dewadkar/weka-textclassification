@@ -1,0 +1,83 @@
+DOC>
+<DOCID> 4950 </DOCID>
+<PRODUCT> Digital_Cameras/Nikon_Coolpix_4300_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_85020413572 </URL>
+<TEXT>
+            <b>Introduction</b>
+
+The Nikon Coolpix 4300 is of the well acknowledged Nikon quality, including 4 Megapixels and 3x optical zoom. This model replaced the old 880/885-series, which has been a best-seller all over the world. So the expectations towards this camera has been very high. 
+
+<b>Usage</b>
+
+Nikon Coolpix 4300 is surprisingly small. It fits nicely into many different sized pockets, but because the grip and the lens sticks a bit out, you will need an above average sized pocket. The camera comes in two different color, black and silver colored plastic. The camera seems to be very solid, and for a while I actually thought that it was made of magnesium. 
+
+Nonetheless I find the camera to be very elegant, and the size shouldn`t scare anyone from using it among unknown crowds. The grip makes the camera very easy to hold on to, and most of the important functions can be served with the use of only one hand. The camera is as usual made for righthanded people. The buttons for flash, macro and exposurecompensation is easiest served with your lefthand. This is totally a very good design.
+
+<b>Functions, buttons, menus</b>
+
+The camera has got all the important functions, and complete menus, both in manual-mode and setup-mode. Here, the enthusiast can play freely with numerous of different settings. You can even setup the camera, and the camera remembers it when you turn it back on. A menu choice that I would like to see on this camera, is the color balance. Nikon traditionally has a very neutral color reproduction, some would probably like to adjust the colors a bit so the pictures look better directly from the camera. The camera also lacks the RAW-mode, which for e.g. it`s competitor Canon PowerShot S45 got. 
+
+Nikons menus is not among the most userfriendly to my opinion. Here Nikon got a lot to learn from both Canon and HP. I have many times experienced that I can`t choose a setting, because some other setting had been chosen on another menu. And I have had to reset the camera every time, because I couldn`t find which setting that stopped me from changing the one I was intending to. In these cases Nikon would be better off displaying an error-message which said what was wrong, and where it was wrong. Another minus is you can`t reach the menu while in auto-mode. It`s annoying to not be able to set e.g. the ISO-mode without going to manual mode first. If you press the trigger while in a menu, it automatically jumps into photo-mode. However, the menu pops right back after a while, something I find very annoying. 
+
+<b>LCD-screen/Optical seeker</b>
+
+Nikons LCD-screens are very tiny. They work under most conditions, but when you compare it to a 2&#148 LCD-screen, you realize how much more comfortable it is using a camera with a bigger screen. The resolution is OK, but it`s nonetheless impossible in most circumstances to see what is focused and what is not. That makes the manual focus, pretty much useless. The focus-status and flash-status is not shown on the LCD-screen, but is shown on flashing LED-lamps next to the optical seeker. But because the LCD-screen and the optical-seeker is fairly close to each other, this works OK. The LCD-screen updates well, it freezes for a short period when the trigger is pressed halfway down, and can be seen from vast amount of horizontal angles. The sight from vertical positions is not very good, and since the screen isn`t adjustable, it can be a pain in the a** to do e.g. horizontal macro-phototaking along the ground. 
+
+<b>Optics</b>
+
+Nikon Coolpix 4300 has got a 3x optical zoom (38-114 mm). At several occasions I have missed a more powerful wideangle. The lens has got 14 different settings for burn-width, which is plenty for a camera with a 3x-zoom lens. In that way you can be given a pretty accurate cut-out of the motive you wish to. The lens is only average when it comes to the picture quality; the sharpness descends towards the corners and the wide-angle photos is not at all flawless. 
+
+<b>Focus</b>
+
+The focus of the Coolpix 4300 works well under most conditions. It`s quick, quicker than e.g. Canons top model Powershot G3. However there is no &#148aid-lamp&#148 for the autofocus, so the camera get into trouble when the lighting is bad. The manual focus is hopeless, you cannot see what`s in focus or not on the LCD-screen and the depth perception is all wrong. 
+
+<b>Battery</b>
+
+The camera uses a rechargeable 680 mAh Lithium-battery &#150 the same as Coolpix 5700. You have to remove the battery from the camera to recharge it, in the included recharger. Luckily the time and date is remembered for a pretty long time, while the battery is recharging. The recharger works great, and is pretty fast. I have experienced the camera starting to lag already after 144 pictures. The camera then uses a 4-5 seconds longer to save the picture, and the screen goes black while recharging the flash. However I have been able to squeeze 550 pictures out of the camera, which is without doubt OK. Practically though, this camera lacks the capacity it needs to play with the big boys.
+
+<b>Saving of Pictures</b>
+
+Nikon is still using the CompactFlash-standard, which is the standard that today provides the best combination of capacity and price. The Coolpix 4300 only supports Type I &#150 and not the thicker Type II. Included is a 16 MB Sandisk-memorycard, this doesn`t cut it for a 4 Megapixelcamera. You should at least have 128 MB on a camera like this. 
+
+<b>Exposure Options</b>
+
+The adjustment of exposurecompensation works OK. You also have a separate mode where you can choose between many preset exposuremodes like portrait, party, museum and so on. Here you have more to choose from than you normally have, but I have not yet had the pleasure of trying them as I prefer to set up the camera manually. You also have a manual mode, where you can set shutter-time and &#148blend&#148 yourself. These manual settings works great, but they are only useful for the enthusiasts. I miss a mode where you can adjust the shutterpriority and the &#148blendpriority&#148. The lack of these functions is clearly negative &#150 to my opinion it puts this camera out of the question for the advanced user. Another minus is that this camera doesn`t come with &#148blend&#148. The camera uses a filter to reduce the amount of light, but this causes the depth-sharpness to decrease. It`s sad that Nikon has left this photographical principle in this way. 
+
+<b>Self-triggering</b>
+
+The camera has got a self-triggering mechanism, but I don`t like this much. The focus and exposure happens when the picture is taken, so you have no control over the result when you set the self-triggering mechanism. You should at least have had an option for choosing, when you set the options, like in the HP 850. The alternative is using manual focus and exposure. In return you can choose between a self-triggering for 3 and 10 seconds, and you can also easily abort the action.
+
+<b>Video Mode</b>
+
+The Coolpix 4300 can record video in 320x240 quality. You can record 40 seconds with 15 frames per second, without sound. The camera has no microphone or loudspeaker. The exposure and focus can vary during the film. This feature can in no way compete with a digital camcorder.
+
+<b>Picture Display</b>
+
+Nikon has very good solutions for viewing the pictures you have taken. It`s only a push of a button, and a light touch on the trigger puts you back into photo-mode. You can see all the relevant recorded-data including histograms. You can zoom in on the pictures up to 6x, and it is easy to navigate around the enlarged picture. A minus is that the camera does not rotates pictures vertically, like some competitors have started doing. The camera is equipped with a TV-port, and a TV-cable is included. 
+
+<b>Transfer</b>
+
+The camera can as most Nikons be set as a Mass Storage Device, in that way the camera works as a external harddrive when connected to a computer with a USB-cable. This makes it all pretty easy to copy or transfer the pictures from the memorycard to the computer. The camera can bet set to name the pictures, but this doesn`t quite work with my camera. At one occassion the counting was reset, so I had to copy the pictures over to a different folder so I wouldn`t overwrite the old pictures.
+
+<b>Userfriendly?</b>
+
+On auto-settings the Nikon Coopix 4300 is a very userfriendly camera, but when you go manual it`s all a bit different. Nikons very complex menu system, makes you sit down with the very thick manual to study all the different functions. The camera doesn`t have &#148blend&#148 or exposure-mode for prioritizing &#148blend&#148 or shuttertime, the advanced user will most likely not find this camera very interesting. These lacks, combined with the advanced menu structure, causes the camera to fall between to chairs. To my opinion many cameras on the market will have a better combination of userfriendliness and advanced functions, but if you only wanna take pictures in the auto-mode &#150 without changing the original settings &#150 the Coolpix 4300 will work well. 
+
+<b>Software</b>
+A big  pluss is that Nikon has included the Adobe Photoshop Elements 1 together with the camera. This is a good program for handling pictures taken with a digital camera, and will work great for most people. Since the program is rather expensive on it`s own, this increases the camera-packages value. 
+
+<b>Speed</b>
+
+For a camera in this class, it is surprisingly slow to turn on. You can snap your first photo 5 seconds after you have hit the powerswitch. The camera is fast when pushing the trigger though, if you already have pushed the trigger halfway down, the picture is taken almost immediately. I JPEG mode, I managed to snap 4 pictures in 10 seconds, and 16 pictures in one minute. That`s respectable. 
+
+<b>Conclusion</b>
+
+The Nikon Coolpix 4300 is a very small and goodlooking camera. It is userfriendly on automatic settings, and as long as you stick to this the camera works really well. The lack of &#148blend&#148, &#148blend&#148/shutterpriority, and RAW-mode makes this camera unsuited for advanced users. The Coolpix 4300 has extensive and advanced menus, where you can set numerous of different options. If you wish to make these kind of choices you have the opportunity, but count in lots of time studying the manual first. The picture quality is good, but in the regular Nikon-way the color-reproduction is a bit dull and neutral. If you want sparkling colors you can`t set it up that way yourself, like in many other cameras. If you are only to photograph with auto-settings, then Coolpix 4300 would be a safe and good choice. 
+
+
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

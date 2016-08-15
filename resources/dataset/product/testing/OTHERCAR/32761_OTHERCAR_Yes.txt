@@ -1,0 +1,188 @@
+DOC>
+<DOCID> 32761 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Canon_PowerShot_S400 </PRODUCT>
+<URL> http://www.epinions.com/content_94761619076 </URL>
+<TEXT>
+            The pace of digital camera evolution is almost dizzying, with new models introduced at a startling rate, each  more capable than its predecessor.  One of the most popular segments of this high-tech revolution is the ultra compact (or micro) digital camera market niche. 
+
+Just one year ago consumers were restricted to a very small selection of expensive two megapixel units with limited feature sets, wretched battery life, weak flashes, and 2X zooms. Consumers now have a much larger selection, most with higher resolution, improved battery life, an amazing array of advanced features, and an increase in zoom reach. How well each of these new &#147micro&#148 cameras performs is directly proportional to how skillfully the designers were able to balance features, function, and usability with miniature size.  
+
+Photography (whether digital or analog) has always been about compromises.  Tiny cameras have inherent limitations that cannot be completely overcome. Diminutive  size limits battery capacity and lens complexity, so ultra-compact models have shorter battery life and narrower zoom ranges than standard sized digital cameras with comparable features.  Canon&#146s product development team seems to have overcome many of these limitations by mating their sexy 3 megapixel S230 Digital Elf with the nifty new 4 megapixel Powershot S45.  The love child of this bizarre robotic union is the exciting new Canon Powershot S400.  The newest digital ELPH may be the ultimate &#147shirt-pocket&#148 digital camera.  
+
+The S400 features 4-megapixel resolution, a fully retractable 3X optical zoom, a tough as nails stainless steel body, point & shoot ease of use, a genius designed user interface, and a boatload of advanced features---all shoehorned into a package the same size as last years 2 megapixel Powershot S200. If you&#146ve been yearning for a tiny user-friendly digital camera, the capable little S400 will almost guarantee you&#146ll be ready when one of those &#147Kodak moments&#148 occurs.
+
+<b>What&#146s New?</b> 
+
+The only obvious differences between the S230 and the S400 are a slightly more streamlined body and a couple of additional buttons in the S400&#146s control array.  The most significant change is under the hood, a new four megapixel CCD imager.  The new mode dial and the FUNC button (from the S45/S50) make the S400 a much more responsive and intuitive performer than earlier ELPH models and the S400 is quicker than the S230, with noticeably improved start-up (boot cycle), shutter lag, write to card, and shot to shot times.
+
+<b>Viewfinder/LCD</b>
+
+The S400 has the same zooming real image optical viewfinder and 1.5&#148 color LCD as the S230. 
+ 
+<b>Lens</b>
+
+The S400 features a 3X (36-108mm 35mm equivalent) f/2.8-4.9 all-glass zoom lens. When the camera is powered down the lens is fully retracted into the S400&#146s body and a built in lens cover slides into place to protect the front element of the lens. 
+
+<b>Exposure</b>
+
+<i>Metering</i>
+
+The S400&#146s default evaluative metering system is consistently accurate in all but the most difficult lighting situations.  Experienced photographers can opt for center weighted averaging or Spot metering for trickier lighting or for more demanding compositions. 
+
+<i>Auto mode</i> 
+
+Select the S400&#146s auto mode and the camera makes all important exposure decisions, photographers need only &#147point & shoot&#148. The AiAF (advanced intelligent auto focus), DIGIC processor chip (first seen in the groundbreaking G3), iSAPS scene mode technology, and a thirty-three per cent resolution increase  (over the 3 megapixel S230) combined with the super accurate evaluative metering system produce consistently excellent images.  
+
+<i>Manual Mode</i> 
+
+The S400&#146s "manual" mode permits only limited  user input (like most ultra-compact digital cameras) but creative shooters can select ISO sensitivity, lock exposure/focus, modify exposure compensation, adjust white balance, change metering options, and select shutter speeds.  The S400 automatically controls aperture settings in all modes.  
+
+<i>Macro Mode</i> 
+
+The S400&#146s macro capabilities are adequate (close focusing to about six inches) for e-bay images and decent close-ups.  Artistic compositions with bugs and flowers are likely to be disappointing due to poor flash coverage at close distances. 
+
+<i>Movie Mode</i>
+
+The Powershot S400&#146s movie mode is the same as the S230&#146s.  Video clips (with sound) can be shot  @ 320 x 240 at 15 fps for up to three minutes.  Unlike most ultra-compact digital cameras, the S400 features a tiny built-in speaker for audio playback.  The S400&#146s Voice Memo feature allows users to add (up to 60 seconds)  voice annotations to any saved image.
+
+<i>White Balance</i>
+
+The S400&#146s White balance options are fairly standard (exactly the same as the S230&#146s) with settings for: Auto, daylight, cloudy, tungsten, two fluorescent modes, and a custom mode. 
+
+<b>Night/Low Light Photography</b> 
+
+The S400 does a better job in low light situations than earlier ultra-compact digital cameras, however micro digital cameras don&#146t perform very well in night/low light situations, as a class. 
+
+<b>Nifty Features</b>
+
+<i>DIGIC Image Processor</i> 
+
+Canon&#146s DIGIC Processor (Digital Imaging Integrated Circuit) was developed for the groundbreaking G3.  DIGIC technology enhances auto focusing accuracy and improves processing speed while utilizing complex proprietary imaging algorithms to produce images that are optimized for sharp resolution, excellent contrast, low noise, and accurate color balance. 
+
+<i>iSAPS</i> 
+
+The S400 utilizes Canon&#146s exclusive iSAPS (Intelligent Scene Analysis based on Photographic Space) technology to produce exceptional exposures in all scene modes. The camera instantly matches the scene in front of the camera with an on board database of known scene types and then compares that information with the specific scene&#146s contrast range, lighting, color, and subject distance to determine the correct exposure.  
+
+<i>Photo Effects</i> 
+
+The Photo Effects mode allows users to select spot metering and adjust exposure compensation.  You can also make in camera image adjustments (select vivid or neutral color saturation, contrast level, sharpening, and sepia or B&W tonal effects) you can accomplish the same effects in Paint Shop or Adobe PhotoShop, but in-camera image adjustments are always easier than post-exposure image manipulation.
+ 
+<b>Nuts & Bolts</b>
+
+<i>Auto Focus</i>
+
+The S400&#146s 9 focus point AiAF (Advanced intelligent Auto Focus) system covers a much larger part of the image area than earlier AF systems making it easier (and faster) for the S400&#146s auto focus to analyze the scene in front of the camera and accurately calculate camera to subject distance to determine which AF point is closest to the primary subject and lock focus on that AF point, even when the subject is not centered in the viewfinder.  Compositions look better because the primary subject is not always placed dead center. More creative users can select which of the 9 focus points they want to overlap with the closest element in the scene. 
+ 
+<i>Manual Focus</i>
+
+The S400 has no provision for manual focusing.
+
+<b>Flash</b>
+
+The S400&#146s tiny built-in multi mode flash offers a fairly standard selection of lighting options including Red-Eye Reduction and Slow-Synch modes. Maximum flash range is (according to Canon) about ten feet---realistically anything beyond six feet is going to be pretty dark, unless you shoot in light colored surroundings and have lots of ambient light. 
+
+<b> Controls, Design,  & Ergonomics  </b> 
+
+For such a tiny camera the S400 is surprisingly easy to use.  The controls are laid out very well and handling quickly becomes intuitive.  Folks with large hands will need a little hands-on practice to avoid the &#147fumble finger&#148 syndrome.  
+
+The S400 is more versatile than earlier ELPH models because Canon&#146s engineers designed the camera&#146s controls around the new mode dial.  The mode dial improves usability by permitting users to quickly select the desired record mode (Auto, Manual, Movie, or Panorama Assist) without resorting to the menu system.  The FUNC button (first seen on the S45) calls up a &#147super&#148 menu of the most commonly changed camera settings (exposure compensation, white balance, drive mode, ISO sensitivity, flash options, image size/quality options, and photo effects) so that users can directly and quickly access the specific setting they wish to modify without shifting through multiple menus. 
+
+<b>Power</b>
+
+Ultra-compact cameras use tiny batteries and tiny batteries can&#146t hold as much juice as larger batteries. There&#146s no way to avoid this fact, but wise users can hedge their bets by carrying a back up battery at all times.  The S400 uses the same NB-1LH. Li-ion rechargeable that powers the S230 (older NB-1L batteries will work great as shorter duration back ups). The S400&#146s NB-1LH is good for about 70-75 minutes (160-180 exposures) of heavy shooting with continuous LCD use (about 55-60 minutes with the NB-1L) and users can double those numbers if they use the optical viewfinder instead.  The included 100-240V CB-2LS rapid charger plugs directly into a wall socket and charges the battery (out of the camera) in about two hours. Plan to spend about $60.00 for a back-up NB-1LH. 
+
+<b>Technical Specifications</b>
+
+Resolution: 4.1 megapixels (2272 x 1704)
+Viewfinder: optical (real image) zooming & 1.5" TFT LCD
+Lens: f2.8 -f4.9/36-108 mm (35mm equivalent) 3X zoom
+Exposure: Auto, Manual (minimal)
+Metering: evaluative, center-weighted, spot
+White balance: Auto, Daylight, Cloudy, Tungsten, Fluorescent, Fluorescent H,
+& Custom
+Shutter speed: auto---15 seconds to 1/2000th of a second
+Aperture: Auto
+Exposure compensation: yes--  /- 2EV in 1/3EV increments
+Noise Reduction: yes
+In-camera Image Adjustment: yes
+Flash: built-in multi mode (Auto, Slow Sync, Red-Eye Reduction) 
+ISO Sensitivity: 50 / 100 / 200 / 400 (35mm equivalents)
+Image format: jpeg 
+Connectivity: USB & Video out
+Image storage:	 CompactFlash type I
+
+<b>Included</b>
+
+32MB CompactFlash card, NB-1LH rechargeable Li-ion battery, CB-2LS Battery charger, Wrist strap, USB cable, A/V cable, software (Canon Digital Camera Solutions and ArcSoft Camera Suite) CD-ROMs,  printed user&#146s manual and software manual
+
+<b>Optional</b> 
+
+AC Adapter Kit ACK500 (Power Adapter CA-PS500, DC Coupler DR-500, and an AC Power Cord), WP-DC800 waterproof case 
+
+MSRP--$599-----Street Price Range $499--$459.
+
+<b>In the Field/Handling & Operation</b>
+
+Spring has finally sprung here in the Bluegrass State and the last couple of weeks have been absolutely gorgeous (especially after our long, cold, drab, winter) with azure blue skies, puffy white clouds, and highs in the seventies.  The first things to bloom in Louisville every spring are trees and bushes.  We now have Japanese Magnolias, Tulip trees, Weeping Cherry trees, Forsythia (which our wise City Fathers have planted along most of the freeway on/off ramps), and a wide variety of decorative fruit trees.  Daffodils are starting to show everywhere and yellow and red tulips are popping up in yards all over town. 
+
+My friend (who sells new and used digital and analog cameras and photographic equipment) managed to get a brand new Canon Powershot S400 digital camera for us to play with.  We shot some color tests using a home-made macro stage and a selection of brightly colored (red, green, yellow, blue, and purple) plastic children&#146s beach toys against a white background.  This test allows us to check not only for color accuracy but also the accuracy of a camera&#146s white balance settings.  The S400 did an absolutely outstanding job---all colors were bright, well saturated, and dead on accurate and the S400&#146s white balance system is the best I&#146ve seen in an ultra compact digital camera to date. 
+
+After finishing our color/white balance tests we headed for Cherokee Park to hunt for signs of spring.  We parked just down the hill from the statue of Daniel Boone (near the top of the scenic loop) and walked into the woods. We&#146ve had a long and very cold winter with lots of rain in the last few weeks so the forest floor was pretty mushy and a small seasonal creek was running pretty hard.  We didn&#146t find much (it is still a bit early for spring wildflowers) but we did get a couple of really good Eliot Porter style &#147intimate landscapes&#148 of the small creek (with lots of moss covered stones, patches of violets and dandelions, and a couple of large fallen tree limbs along the banks).
+
+From Cherokee Park we drove around the Highlands neighborhood shooting the Tulip trees, Japanese Magnolias, and Forsythia bushes.  In one yard we found a beautifully backlit glowing yellow Forsythia hedge with a rusty Radio Flyer wagon sitting right in front of it.  After a couple of hours of shooting blooming trees and bushes we drove over to the Mid City Mall so my friend could get a sandwich at the new City Caf�.  While he was eating I wandered down to Baxter Avenue with the S400 and shot a couple of young girls roller-blading.  The S400 reacts quicker and the shutter lag is shorter than earlier digital ELPH models so I was actually able to use the camera to shoot the girls as they shot by me going as fast as they could. 
+
+When my friend finished eating we walked over to Heine Brothers Coffee Shop to have a cappuccino and review our pictures.  Both of us were very impressed with the solid capabilities, exceptional usability, and excellent images of the S400.   Creative photography is possible with the latest digital ELPH because of the camera&#146s great design although manual exposure options are very limited and the camera is designed to operate primarily in auto mode.
+
+The following weekend was very cold and the skies were dark when my friend and I got together.  We headed straight for Cave Hill Cemetery, Louisville&#146s only arboretum..  We found some decorative plantings and an absolutely beautiful Weeping Cherry tree in full bloom.  We parked and walked back to the tree and just as we got there the sky behind us, opened up and the sun popped through.  The Weeping Cherry was brightly front lit with a dark stormy sky behind it---a really striking composition.  We took turns shooting the beautifully lit tree until the sky closed back up and we lost our front lighting. 
+
+We drove over to Wendy&#146s at Bardstown and Grinstead to get a cup of coffee and warm up.  While we were reviewing the pictures we&#146d shot that morning the sky cleared up and turned blue.  We dumped our coffee and headed for the Cherokee Triangle to shoot an old Japanese Magnolia covered with huge snow-white blooms that we&#146d noticed earlier.  
+
+<b>Image Quality</b>
+
+Resolution is clearly a major factor in just how good the images from any given digital camera will be, but image quality is not reliant solely on resolution.  Two other important considerations, the optical quality of the camera&#146s lens and how well the camera&#146s image processor handles its job, will ultimately have just as much impact on the finished product (the image) as resolution.  The S400&#146s excellent 3X zoom and 9 point AiAF system, DIGIC processor, and four megapixel imager work together to produce absolutely stunning digital images.
+
+Even complete tyros will be able to shoot beautiful and creative pictures with the S400.  Colors are well saturated (but not garish) and resolution is sharp with consistently good shadow detail.  Gorgeous enlargements (up to 8X12) are easy and decent 11X14 enlargements shouldn&#146t be a problem.  We printed two 8X10 enlargements (with an HP 1215 and Kodak photo paper) and both were bright and sharp with excellent color and very good detail. 
+
+<b>Shutter Lag/Cycle/Start-Up Times</b> 
+
+The S400 is ready to go (boot-up time) in about 3 seconds, which is pretty quick, noticeably better than average for ultra-compact digital cameras with retractable zooms.  Write to card and shot to shot times are equally impressive.  Shutter lag (from almost instantaneous when pre-focusing is utilized to about one second)  is markedly improved over earlier digital ELPH models. AF lag is virtually non existent in good lighting and faster than average at lower light levels.
+
+<b>A Few Concerns</b> 
+
+The S400&#146s lens exhibits very slight chromatic aberration and some minor distortion at the wide-angle end of the zoom range. The tiny flash is not much help except under optimum conditions. Low light images (especially at ISO 400)  display very minor levels of digital noise.  The S400&#146s hefty price tag is justified (when compared to the S230) by the much improved user interface and increased resolution, however the S400 is very close in price to the superb S45, so purchasers should carefully weigh the benefits of ultra compact size against the substantially better creative potential of the only slightly larger S45.  
+ 
+<b>Conclusion</b> 
+
+The first micro digital camera I ever used was the nifty little Canon S10, which I really liked because it reminded me of the classic Rollei 35S.  Since the S10 I&#146ve used every one of the digital elph&#146s (except the S330).  Is Canon&#146s newest digital ELPH the Ultimate ultra compact digital camera?  At this point in the blindingly rapid evolution of digital imaging the answer is an enthusiastic yes, the S400 is easily the best ELPH yet.
+
+The S400 is almost perfect for travel photographers, hikers, and backpackers because of its tiny size, tough as nails construction; rich feature set, and excellent usability.  If you&#146re looking for a digital camera with high resolution, lots of features, point & shoot ease of use, and ultra-compact size----the S400 is just about as good as it is likely to get---for now, anyway.  Recommended without reservation. 
+
+Epinions is always your best source for independent and unbiased electronics reviews.  If you want to read more about the S400, check out yusakugo&#146s excellent review 
+<a href="/content_94207643268">http://www.epinions.com/content_94207643268</a> 
+
+<b>Links</b>
+
+For definitive advice on How to Choose a Digital Camera please see my review: 
+
+<a href="/elec-review-2E46-17B174E2-39A418E3-prod1">http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a>
+
+If you&#146d like to compare the S400 with other ultra-compact (micro) digital cameras, you may find the reviews below informative
+
+Canon Powershot S200
+<a href="/content_67098742404">http://www.epinions.com/content_67098742404</a>
+
+Canon Powershot S230
+<a href="/content_78900203140">http://www.epinions.com/content_78900203140</a>
+
+Olympus Camedia C50
+<a href="/content_81891724932">http://www.epinions.com/content_81891724932</a>
+
+Minolta Dimage Xi
+<a href="/content_89754275460">http://www.epinions.com/content_89754275460</a>
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

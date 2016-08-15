@@ -1,0 +1,19 @@
+DOC>
+<DOCID> 25367 </DOCID>
+<PRODUCT> Digital_Cameras/elec_AgfaePhotoo-Agfa_ePhoto_CL30_Clik_ </PRODUCT>
+<URL> http://www.epinions.com/elec-review-20F9-637A099-385F3428-prod2 </URL>
+<TEXT>
+            I bought this camera about two months ago and have had major frustrations with it's use. It is easy to use, but if you don't have stock in energizer batteries you will hate it's battery use. The download software has become my ongoing nightmare. I bought the camera because it claimed to be cross platform, Mac &amp; windows, through the USB connection. I use both so I wanted an entry level camera that would be easy to connect to my computer.
+
+First to the battery issue. It used four AA batteries. At 1.5 volts each that totals 6 volts. The camera is designed to function with and AC adapter that produces 6.5 volts. This is a design problem! Using batteries you might shoot 16 pics if you leave the LCD off. With the LCD on forget it. You are dead after just a few shots and have to throw more batteries in to keep going.
+
+The software to download work about every other time on my PC. On my Macs, a Blue G3 and an iMac, I still have not been able to make it work. I have tried working with AGFA tech support on this but they finnaly gave up and blamed my mac software. I am running system 8.6. Apple recognizes no problem on their end.
+
+Stay away from this camera if you use a Mac. With a PC it is an ok camera and produces good quality pictures.
+<br><br>
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

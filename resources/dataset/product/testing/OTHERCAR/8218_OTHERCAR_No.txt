@@ -1,0 +1,113 @@
+DOC>
+<DOCID> 8218 </DOCID>
+<PRODUCT> Digital_Cameras/615434_Polaroid_Corporation_320_PhotoMAX_FUN__Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_54640414340 </URL>
+<TEXT>
+            Initially, when I heard about Polaroid's inexpensive <b>Photo Max Digital 320 Camera</b>, I thought it was a great idea. Offer a low-end, very inexpensive digital camera to allow people a way of seeing just how interesting and fun digital photography can be.
+
+Notice I kept saying 'inexpensive' instead of 'cheap'?
+
+Well, guess what. For a brand name like Polaroid, this camera is just that - cheap.
+
+Perhaps my expectations were too high for this $20 camera, but I would still expect something far better from the likes of Polaroid.
+
+The resolution on this camera is low end. Just 320 x 240.  For you megapixel entranced people, that's roughly the equivalent of 1/10 of 1 megapixel.  Like I said, this is a low-end camera.  But the resolution really isn't the problem.  It's the optics. This camera simply takes bad pictures.  It doesn't come equipped with a flash, and since it has such a small aperture opening into the lens, it really requires a tremendous amount of light just to get a halfway decent picture. 
+
+Use it indoors and you're sure to be deleting a lot of pictures. Guaranteed.  As for a zoom, forget it. This is essentially a disposable digital camera in a nicer body.
+
+The real benefit of this camera is being able to take small (filesize) pictures. The onboard memory doesn't hold to many pics (18 in total), and the slow serial transfer rate is annoying at times, but once you have the picture, they're the perfect size for emailing and displaying on low-bandwidth web sites.
+
+But quality? Clarity? Crispness?  Don't expect any with this camera.  Coloring of the images was mediocre in normal light, better (but not good) in high light, and just plain awful in low light.
+
+The camera comes with a 15-second self timer, and if you get the PhotoMax Fun! Packager, you'll get the PhotoMAX SE Image Maker software, a serial cable, a wrist strap, and a 9-volt battery to get you started.
+ 
+The software offers one-click fix technology as well as the ability to add your face to magazine covers, costume fantasy scenes, or to other creative applications.
+
+All in all, this was a good idea from Polaroid, but it was poorly executed.  I'm sure the general populous that wants a low end digital camera would have gladly spent $10 more for better optics and a built-in flash.  Maybe the next round from Polaroid will net that result.
+
+Maybe.
+
+Complete (or incomplete depending on how you look at it) camera specifications follow.
+
+Thanks for reading.
+
+<b>Camera Specifications</b>
+
+* Maximum image resolution: 320 x 240
+* Image resolution options: 320 x 240
+* Image resolution options: N/A
+* Image resolution options: N/A
+* Maximum CCD resolution: 76,800 pixels (less than 1/10 of a single megapixel)
+* CCD size (inches): --
+* Optical viewfinder: Yes
+* LCD screen size: N/A
+* LCD swivel: N/A
+* Aperture: --
+* Optical zoom: N/A
+* Digital zoom: N/A
+* Lens construction: --
+* Compatible memory type: Internal memory only
+* Onboard memory: 0 MB
+* Included memory cards: None
+* Max. photos at highest quality: 18
+* Max. photos at lowest quality: 40
+* Image type(s): JPEG
+* Uncompressed mode: No
+* ISO film speed equivalency: --
+* Macro focus range: N/A
+* Shutter speed range: --
+* Autofocus system: Fixed
+* Manual focus: No
+* Focus range: 0.90 meters to infinity
+* Shutter priority mode: No
+* Aperture priority mode: No
+* Main exposure mode: --
+* Spot metering mode: No
+* Manual exposure mode: No
+* Programmed exposure modes: --
+* Manual white balance mode: No
+* Built-in flash: No
+* Red-eye reduction: N/A
+* Fill-flash (forced flash): N/A
+* Flash-off mode: N/A
+* Night portrait (flash synch) mode: N/A
+* Hot shoe for external flash: No
+* Black and white: No
+* Solarized: No
+* Movie mode: No
+* Max. movie length: N/A
+* Audio recording: No
+* Burst mode or continuous shooting: No
+* Frames/sec in burst mode: N/A
+* Self timer: Yes
+* Remote included: No
+* Special effects: --
+* Splashproof: No
+* Other special features: Audio alerts, auto picture counter, auto standby mode
+* Compatible systems: PC
+* Mac system requirements: N/A
+* PC system requirements: Pentium processor; Windows 95, 98; 16 MB RAM; 50 MB hard drive space; 16-bit display card; color monitor; 2x CD-ROM; serial port; mouse
+* Software included: Polaroid PhotoMA* Image Maker
+* Serial output: Yes
+* USB output: No
+* Video output: No
+* Battery requirements: 9-volt
+* Batteries included: Yes
+* Rechargeable batteries included: No
+* AC adapter included: No
+* Body type: Point-and-shoot
+* Included in box: Ma* Fun! Digital 320 camera; software; 9-volt battery; serial cable; CD-ROM; user's manual
+* Included memory cards: --
+* Width: 10.13 inches
+* Height: 8.13 inches
+* Depth: 2.25 inches
+* Weight: 0.75 pounds
+* Warranty, labor: 1 year, limited
+* Warranty, parts: 1 year, limited 
+
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

@@ -1,0 +1,45 @@
+DOC>
+<DOCID> 25055 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Kodak_DC-4800 </PRODUCT>
+<URL> http://www.epinions.com/content_17233710724 </URL>
+<TEXT>
+            For my third digital camera, the Kodak DC-4800 stands at the top of my list. Even though being more expensive than all the others it packs more features and pixels - you get what you pay for. 
+
+While other people pay $600+ in stores, sometimes after the rebate, I purchased this camera for $375 online (after rebate).
+
+I picked this camera because it was one of the top rated cameras at the time and contained features that I liked such as the 3.3 megapixel CCD, fast USB transfer and other features.
+
+<b>Camera Overview:</b>
+The body of the camera is metal based and easy to hold. On the right side is the door for the Compact Flash Card, and on the left side behind a door: USB transfer, Video Out and DC-in. The camera also comes with a lens cap but not attached to the camera with a lanyard so it could be easily lost. The flash on the top is concealed until you pop it up. Also on the top is the B&W LCD. The camera also comes with a Kodak neck strap which is useful for transporting the camera around with you, but if you plan on just using it around the house, keep the strap off or else it just gets in the way. 
+I suggest ordering a camera cleaning kit with a soft cloth and lens cleaning fluid to keep the fingerprints off the LCD and lens. Also order a camera case so you have a safe soft place to put the camera while not in use, to prevent any damage. The 16MB compact flash card is the card that stores your pictures. This might be small for some people so it is recommended you buy another such as 32, 48, 64MB or higher. I had an extra 32MB card sent with my order.
+
+The 1.8" LCD screen offers a nice live preview of the exact image you are about to take. I always like to use the LCD screen so I can see exactly what i'm getting and its just easier not to have a camera smushed up to your face. The viewfinder I find is a little off, especially during closeup images you can miss the object by far. In extreme sunlight you may have to resort to using the viewfinder and if you are concerned about battery power.
+
+<b>Usage:</b>
+This camera is very easy to use. When turning the camera on, the lens extends and it is up and ready to run within about 3 seconds. When the dial is set to (P) automatic, all you have to do is press the shutter button halfway to focus, then shoot. I particularly like the feel of the shutter button; its easy to operate whereas you push it down, not having to worry about snapping the picture without autofocusing. The button easily pushes down for autofocus, then there is a nice little amount resistance in order to "click" the button to snap the picture. After shooting, your picture is displayed, and you may either delete it or let it be written. You can later review your picture(s) by setting the dial to Review.
+This camera is very quick and wont make you wait long for any required function. Its internal buffer allows you to continue taking pictures while it is writing to the card.
+
+<b>Features:</b>
+Useful features on this camera include power save modes to save the battery life, in review mode: 2x - 4x image magnification, write protect, slide show, and detailed picture info. When taking pictures, you may choose White Balance (or Auto), Color modes, Picture quality, Exposure metering, sharpness, ISO Speed (100,200,300,400,Auto), Shutter Speed (1/1000 - 16", Auto), Date/Time Stamp & format.
+I really like the 2x-4x image magnification. This features lets you zoom in on and navigate around a picture you have taken, up to 2 levels. When zoomed in, the picture shows up in surprisingly high detail on the LCD screen. This can save you the trouble of downloading the images to your PC to view them closeup and in detail.
+
+<b>Resolution:</b>
+The picture quality should satisfy any photographer with its 3.3 megapixel CCD, and 3.1 megapixel image resolution. Outdoor pictures are great, and indoor pictures are good if there is adequate lighting. You have the choice of taking pictures at 3.1 MegaPixels Uncompressed, fitting only *1* picture on a 16MB card, 3.1MP Light Compression, 3.1MP High Compression, 2.2MP, 1.6MP or 0.8MP all of which come out looking very good and even better with a little photo editing.
+
+Based on my testing, on a 16/32MB card you can fit the following:
+--------------------------------------------------------------------------
+3.1MP Uncompressed~~~~~~~~~~ 1 /  3 pictures
+3.1MP Light Compression~~~~~~ 15 / 32 pictures
+3.1MP High Compression~~~~~~ 32 / 66 pictures
+2.2MP~~~~~~~~~~~~~~~~~~~~ 21 / 43 pictures
+1.6MP~~~~~~~~~~~~~~~~~~~~ 28 / 58 pictures
+0.8MP~~~~~~~~~~~~~~~~~~~~ 47 / 97 pictures
+
+<b>Battery:</b>
+I've heard others complain about short battery life, but haven't noticed extreme measures of this. I've noticed it doesn't have as much life as my other camera that used 4 "AA" Ni-MH batteries. Therefore I have constructed a fully-enclosed battery pack that uses the high capacity Ni-MH rechargeable batteries, which plugs into the camera's DC-in input. It seems to hold up extremely well when the camera's Li-Ion battery is low or fails. If you are interested in this design, you may e-mail me for more info at NightShft8@aol.com
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

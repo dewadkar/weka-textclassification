@@ -1,0 +1,175 @@
+DOC>
+<DOCID> 33240 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Olympus_E_10 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-59FB-183DFC73-3A17388F-prod2 </URL>
+<TEXT>
+            <b>OVERVIEW</b>
+
+The folks at Olympus have often been innovators in both the 35mm camera and digital imaging worlds.  Their half frame Pen F cameras from the early sixties offered photographers the option of 72 images on a standard (36 exp) roll of 35mm film, with all the lenses and accessories of a true �system� camera.  The Olympus OM1 of 1977 was the first of the compact full feature 35mm cameras, a system that revolutionized camera design.  The Olympus OM3Ti and OM4Ti 35mm cameras are still available for fans of precision built manual focus 35mm cameras.  The Olympus D300L was the first �serious� prosumer digital camera. At a time when most consumer digital cameras were toys, the D300L was a capable and competent image-maker.  Olympus followed the D300L with the C2500L Digital SLR, aimed right at the heart of the growing digital imaging movement.  A quality digital camera that eschewed �bells & whistles in favor of solid engineering and first class image making capabilities at a price that withered the competition.  The new Olympus Camedia E10 Digital SLR continues this tradition of innovation and unique solutions to imaging challenges.
+
+There are only a handful of serious �PRO� level digital cameras on the market, the Nikon D1, Canon�s new D30, the Fuji Finepix S1 Pro, and a couple of 35mm pro models (modified to do digital duty) from Kodak.  Olympus has engineered a new camera, that it claims can compete with these top of the line "PRO" Digital SLR�s.  The new Olympus Camedia E10 Digital SLR, costing less than two grand, offers convincing evidence that pro features are available without the $3500 to $6000 initial investment required with all the other �PRO� model digital SLR�s. 
+
+
+The Olympus E10 accomplishes these design breakthroughs by using new approaches to solve old problems.  How does the E10 do this? Most importantly, the camera doesn�t offer interchangeable lenses.  Instead Olympus has designed a new 9-36mm (35-140mm 35mm equivalent) f2.0-2.4 zoom lens that was engineered from its inception to mate perfectly with the Olympus four megapixel  (2/3 inch) CCD sensor.  This "designed from scratch" zoom lens and CCD sensor "combo" provide an extremely clean, sharp as a tack, and noise free 2240x1680 image file.  CCD sensors are far less forgiving of stray and indirect light than silver based film, Olympus engineers took this fact into consideration and designed the one piece rigid body camera/lens unit to capitalize on the differences between traditional silver based imaging materials and digital imaging technology.  Digital sensors require a direct "straight line" path, stray light and reflections seriously degrade the quality of the final image.  The E10's  new �super-corrected� zoom is focused directly on the CCD, and offers exceptional resolution throughout the zoom range.
+
+<b>CUTTING EDGE DESIGN & ENGINEERING</b>
+
+Olympus's new digital SLR doesn�t compromise on image quality, features, performance, or "PRO" capabilities.  Olympus claims that the one piece body and lens design offers better alignment between lens and CCD, improving image resolution and eliminating dust and contaminants inside the camera.  Dust and particulate contaminants inside the mirror box are a real concern with the Nikon D1 and the Fuji Finepix S1 Pro, both require fairly regular �dust control� and  a can of compressed air is a needed extra component.  In addition Olympus has incorporated a very powerful 32 mb SDRAM to rapidly process the 4 megapixel images at rates of up to 3 FPS (for up to four frames) which works in conjunction with the proprietary Olympus �True-Pic� system to optimize all captured data in �real time�, before saving the data to storage media.
+
+Olympus designed the new 4 megapixel  (3.9 effective) CCD to enhance brightness perception, this is accomplished by using two green filters for every red and blue filter. Green significantly increases the perception of brightness, and this makes colors appear richer, brighter,  and fuller.  Three metering options (ESP multi-pattern, centerweighted, and spot), exposure compensation (+/-3EV), and auto bracketing help to insure consistently correct exposures.
+
+The controls on the E10 are logically laid out, Olympus asked professional photographers to offer advice on the optimal operational layout of the camera, and then they followed that advice.  The result is a camera that photographers will love, because it was in large part designed for photographers, by photographers.  Ergonomically the E10, fits the hands well,  is extremely easy to operate, the controls are intuitive, and all buttons and switches are within easy reach when holding the camera.  Olympus says the camera can be operated in the dark, by touch.
+
+<b>FEATURES</b>
+
+Two separate AF modes work in tandem to insure focusing precision and accuracy.  Manual focus and manual zoom capabilities are especially attractive, since they will feel "right" to photographers who learned image making with manual cameras.  Shooting in Aperture or Shutter Priority, or full Manual mode will allow the control, that photographers who insist on being completely in charge of their image making, insist on.  White balance can be individually tailored for a wide variety of shooting conditions with seven color temperature settings.  Virtually any lighting situation can be mastered by using the �One Touch� white balance adjustment.  Auto (TTL) white balance produced some of the truest skin tones I have ever seen.
+
+The E10 offers slots for both �Smart Media� and Compact Flash (Types I & II) cards.  Depending on the capacity of the card employed, a huge number of images can be stored. This provides an obvious advantage, since the photographer can shoot quite a few images before the storage media needs to be replaced.  The E10 utilizes a USB (storage class) interface for fast and easy data transfer, your computer will "recognize" the camera as an external drive
+
+<b>IN THE FIELD/OPERATION & HANDLING</b>
+
+The Olympus E10 functions intuitively; as soon as you pick up the camera, your fingers instantly find the controls.  The optional <b>Power Grip</b> is a highly recommended accessory (this provides a vertical shutter release) plus the four additional batteries will extend operation time significantly.  I had about sixty minutes to check out the camera (as far as I know it was the first E10 in Louisville, and there were a couple of  other photographers who were waiting impatiently for their turn to play with it) I was very impressed with its ease of operation. After everyone had spent a little time with the camera we were shown two 8x10 custom prints from E10 TIFF files that were the best digital images I have ever seen, they were comparable to 35mm slide prints.
+
+<b>Technical Specifications</b>
+
+4 Megapixel (3.9 effective) Digital SLR
+1.8 inch color TFT LCD monitor
+Optical Viewfinder  (full Information) focusing screen shows focus/de-focus
+Memory/Storage Media:  Smart Media & Compact Flash (types I & II) 
+Image Recording: JPEG, TIFF, RAW
+Light Metering: ESP (multi-pattern), Centerweighted, & spot
+Exposure Modes: Program AE, Aperture & Shutter Priority AE, and Metered Manual
+Flash: Built In Flash with Auto, red-eye Reduction, Slow Synch Effect & Second Curtain Synch Effect.  Provision for external flash units.
+Power: 2 CR-V3 Lithium cells (with optional �Power Grip� 4 �AA� Ni-Cad cells)
+
+
+<b>Zoom Lens</b>
+
+Olympus Zoom 9-36mm (35-140mm 35mm equivalent) f2.0-2.4
+14 elements in 11 groups 
+filter size: 62mm
+
+<b>Optional Accessories</b>
+
+�Power Grip� (vertical shutter release & additional battery power)
+ 0.8X (wide) 1.45X (Short Telephoto) 3X (Long Telephoto) 
+& Macro extension lenses.
+
+<b>A FINAL WORD</b>
+
+The Olympus Camedia E10 Digital SLR is a serious photographic tool, and many serious photographers are going to see this camera as the next logical step in their digital photography evolution.  Pro features, four megapixel images, solid construction, and cutting edge design for two thousand bucks is going to sell a lot of E10�s.
+
+For information on How to Choose a Digital Camera please see my review: 
+
+<a href='/elec-review-2E46-17B174E2-39A418E3-prod1'>http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+For information about specific Digital Camera models, please see my Digital Camera Reviews: 
+
+
+Nikon Digital Cameras 
+
+Nikon Coolpix 5000
+<a href='/content_52720406148'>http://www.epinions.com/content_52720406148</a>
+
+Nikon Coolpix 885 
+<a href='/content_46290931332'>http://www.epinions.com/content_46290931332</a> 
+
+Nikon Coolpix 995 
+<a href='/content_40256769668'>http://www.epinions.com/content_40256769668</a> 
+
+Nikon D1X 
+<a href='/content_36023996036'>http://www.epinions.com/content_36023996036</a> 
+
+Nikon D1 
+<a href='/elec-review-4868-E2433E5-38737CF8-prod2/tk_~CB003.1.78'>http://www.epinions.com/elec-review-4868-E2433E5-38737CF8-prod2/tk_~CB003.1.78</a> 
+
+Nikon Coolpix 880 
+<a href='/elec-review-2DA8-DF21E52-39E118CA-prod5'>http://www.epinions.com/elec-review-2DA8-DF21E52-39E118CA-prod5</a> 
+
+Nikon Coolpix 990 
+<a href='/elec-review-3B78-3C431D90-3A345313-prod3'>http://www.epinions.com/elec-review-3B78-3C431D90-3A345313-prod3</a> 
+
+Canon Digital Cameras 
+
+Canon Powershot G2 
+<a href='/content_47646084740'>http://www.epinions.com/content_47646084740</a> 
+
+Canon Powershot S10 
+<a href='/content_7563808388/tk_~CB003.1.74'>http://www.epinions.com/content_7563808388/tk_~CB003.1.74</a> 
+
+Canon EOS D30 
+<a href='/content_11625991812/tk_~CB003.1.58'>http://www.epinions.com/content_11625991812/tk_~CB003.1.58</a> 
+
+Canon Powershot PRO 90IS 
+<a href='/content_30440001156/tk_~CB005.1.9'>http://www.epinions.com/content_30440001156/tk_~CB005.1.9</a> 
+
+Canon Powershot G1 
+<a href='/content_8768294532/tk_~CB003.1.70'>http://www.epinions.com/content_8768294532/tk_~CB003.1.70</a> 
+
+Canon Powershot PRO 70 
+<a href='/elec-review-6496-25768DA-38C3E01A-prod9/tk_~CB003.1.70'>http://www.epinions.com/elec-review-6496-25768DA-38C3E01A-prod9/tk_~CB003.1.70</a> 
+
+
+Sony Digital Cameras 
+
+Sony DSC S85
+<a href='/content_51957567108'>http://www.epinions.com/content_51957567108</a>
+
+Sony MVC-CD 300 
+<a href='/content_45591793284'>http://www.epinions.com/content_45591793284</a> 
+
+Sony DSC-S50 
+http:<a href='/content_15885897348'>http://www.epinions.com/content_15885897348</a> 
+
+Sony Mavica MVC-CD1000 
+<a href='/elec-review-5F01-365BA12-3980602C-prod3/tk_~CB003.1.14'>http://www.epinions.com/elec-review-5F01-365BA12-3980602C-prod3/tk_~CB003.1.14</a> 
+
+Olympus Digital Cameras 
+
+Olympus Camedia C3040 
+<a href='/content_42675179140'>http://www.epinions.com/content_42675179140</a> 
+
+Olympus Camedia C3000 
+<a href='/content_26106105476/tk_~CB003.1.30'>http://www.epinions.com/content_26106105476/tk_~CB003.1.30</a> 
+
+Olympus Camedia E10 
+<a href='/elec-review-59FB-183DFC73-3A17388F-prod2/tk_~CB003.1.42'>http://www.epinions.com/elec-review-59FB-183DFC73-3A17388F-prod2/tk_~CB003.1.42</a> 
+
+Fuji Digital Cameras 
+
+Fuji Finepix S1 �PRO� 
+<a href='/elec-review-5591-16816C34-39047A87-prod5/tk_~CB003.1.18'>http://www.epinions.com/elec-review-5591-16816C34-39047A87-prod5/tk_~CB003.1.18</a> 
+
+Minolta Digital Cameras 
+
+Minolta Dimage 5 
+<a href='/content_49104522884'>http://www.epinions.com/content_49104522884</a> 
+
+
+Just �cut�n�paste� the URL into your browser�s address window. 
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

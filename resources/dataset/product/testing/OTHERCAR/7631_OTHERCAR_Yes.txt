@@ -1,0 +1,34 @@
+DOC>
+<DOCID> 7631 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Minolta_Dimage_Z1_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_125021228676 </URL>
+<TEXT>
+            Having looked around the Web for a digital camera I was looking at either the Z1 or the Canon EOD300 Rebel.  Unfortunately the Rebel was out of my price range so I bought the Z1.  Overall I made a very good choice.
+
+The camera takes good pictures in the majority of circumstances.  You can have full control over the aperture, exposure and focus should you wish too.  The camera can take over some or all of the functions too if you wish.
+
+Low light shooting is easy and there is an option for sunset preserve to keep the warmth of a picture rather than overexpose to simulate full light.  Fast moving objects need good light (as you would expect) but the camera can still operate at speeds approaching 1600 ISO (the speeds are quoted in seconds and fractions so you will have to convert to ISO yourself if you are that way inclined)
+
+Night shooting is an exercise in steadyness and the threaded mount is inline with the lens so tripods are easy to attach and use with the camera.  The position of the trigger means taht a decent push is needed often spoiling the shot through movement on the tripod, I tended to use the time delay function after lining the shot up (since the exposur time was generally 2 seconds you wouldnt be able to take moment-in-time shots anyway as you would blur, however if motion blur was wanted for a set time then the lack of a remote may hinder you.
+
+The flash was good with the red eye reduction setting annoying (3 distinct flashes are used rather than the usual strobe) but effective.
+
+The viewfinder shows a full picture but it has an obvious border so you will get more than you see.  The LCD screen shows the full picture (observed by me not scientifically proved!).  The viewfinder and LCD screen are served by the same mechanism and therefore cannot be activated at the same time.  
+
+Long exposure shots are restricted to 10 seconds maximum, the sensor simply cannot take long exposure (I typically call long exposure at least 1 minute with traditional cameras taking maybe 30 minutes onwards....).  This is not a fault of the camera as most digital cameras suffer the same fate of "overheated" CCDs.  Only the EOD300 can have long exposures (I have seen a 10 minute exposure picture) for a budget camera.
+
+10x optical zoom is terrific and even the autofocus at maximum zoom is quick and efficient.  A certain knack needs to be adopted with the camera since the shutter trigger is a two position button.  A half press will continually focus and a full press will take the picture.  therefore if you simply press the button the shutter will appear to be slow since the focusing mechanism will kick in before the picture is taken.  If you are anticipating a fast shot then half hold the button to activate the autofocus then the shutter can be activated quickly.  Usign this methods the camer was faultless and fast.
+
+I have never been a fan of megapixels to rate a camera.  Rather the resolutions on offer are good and true.  2048 scale very well - but dont expect many per a 128Mb card never mind the bundled 16Mb!  Colour reproduction is faithful on daylight shots and average for evening shots with maybe a hint of overglow.
+
+Battery life is great on rechargeables, I got 300 shots from a set of 2100 NIMH before they needed charging and I was using autofocus  and zoom a lot, however if you use alkalines then expect 200 before the batteries are drained - note they wont be useless (good enough for remotes or clocks) but they have lost the edge for the drain the camera needs.
+
+For negative points, the build quality is average.  The mechanican shutter jammed on my only 1 week into using it.  I couldnt shift between LCD and viewfinder and a heavy press was needed on the back screen to release the shutter.  Not good.  The battery compartment seems VERY flimsy and I worry about breaking it everytime I use it (and I charge my batteries in a smart charger not internally).  No AC supply is included but the majority of people who need one will have a regulated supply to hand anyway.
+
+The lack of remote function is the only noteable omission from a rather useful bargain camera.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,32 @@
+DOC>
+<DOCID> 16907 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1999_Subaru_Legacy_Wagon </PRODUCT>
+<URL> http://www.epinions.com/auto-review-6CE9-101C86CC-38BA7861-prod4 </URL>
+<TEXT>
+            An inside look into the making of an automobile is something most people don't get very often, outside of The Learning Channel.  As a car nut, my two years as an associate with Subaru-Isuzu Automotive have been interesting and enlightening, and I'd like to share what I know about the making of the Subaru Legacy line, including the Legacy Outback wagon and sedan.  I work in the Information Systems department, which has given me the chance to see almost all of the plant while placing and fixing computers, and I've taken the opportunity to gawk and marvel at lots of things.
+
+Subaru-Isuzu Automotive is a non-union factory that employs between 3,000 and 4,000 people in Lafayette, Indiana.  We build North America's entire supply of the Legacy line here.  SIA, as the name might imply, is a shared facility.  Isuzu builds the world's supply of the Rodeo and Amigo SUV's, as well as the platform-shared Honda Passport, at SIA.  We even export the Isuzu products back to the Japanese home market.  We started production in 1987 and expanded steadily since then.  Today we are ISO 14001 certified and produce 2,000 to 3,000 Legacies every month.  Our website is at http://www.subaru-isuzu.com and while it is rather outdated, it still has some photos of our manufacturing and administrative areas.
+
+Lafayette is a community of about 66,000 on the Wabash River, home to several production facilities in addition to SIA, including Eli Lilly chemicals, ALCOA, Caterpillar diesel and AE Staley.  Across the river is West Lafayette, home of the Purdue Boilermakers.  The prevailing mentality of SIA associates seems to be a &quot;can-do&quot; attitude, and a fair amount of pride in our work.  The company encourages &quot;kaizen,&quot; a Japanese term roughly meaning &quot;change from within.&quot;  Basically, associates are encouraged to suggest improvements to the production process, and are rewarded if the suggestions are implemented.  Some of these suggestions have saved the company millions of dollars.  SIA contributes to the community and to United Way, most recently sponsoring a new playground at one of the larger city parks.  Associates are treated well, and provided with a recreation center and a brand-new childcare center on our grounds
+
+The body of a Legacy starts as a roll of sheet steel in our stamping department.  The roll is fed into one of our two blanking presses, where it cut into flat sheets, &quot;blanks,&quot; which will eventually become hoods, doors and so on.  The blanks are then put into one of our 4 presses, the largest of which is roughly the size of a 16-unit apartment building, where they are run through a series of dies and come out as finished body parts.  Most of the steel in a Legacy is galvanized.
+
+The body parts are sent to the body shop, where they are jigged and welded by precision robots into the car's unitbody shell.  The body shop covers over 100,000 square feet of floorspace, and out of that comes a shell that is already recognizable as a Legacy.  The finished shell is passed through several metal-finish areas where associates smooth off any imperfections by hand, to prepare the shell for painting.  
+
+Here's an interesting factoid:  On the Legacy sedan, there is a weld seam near the top of the C-pillar where the roof meets the bodyside panel.  This seam is smoothed by hand until totally unnoticeable in the finished product.
+
+The paintshop is a controlled area where most visitors never see.  Everyone entering the paintshop must wear special blue jumpsuits and enter through &quot;airlocks&quot; that blow all the dust off of them, to reduce flaws in the cars' paint surface.  Most of the paintshop is automated, and the prepared body shells ride around on a track that looks for all the world like a little rollercoaster.  The bodies are first put through an anti-rust dip, which is olive-drab in color, and electrostatically bonded to the metal.  Sealing compound is applied by hand to joints and seams, then the shell is baked in an oven to harden the applications.  Successive layers of primer, color and topcoat are added and baked until the process is complete.
+
+After leaving the paintshop, the body travels to the trim &amp; final assembly shop.  The doors are removed and sent along their own dedicated line to be fleshed out.  Trim &amp; final looks the most like the traditional car factory you see on television, with hundreds of people adding recognizable parts like seats and taillights to a bright-and-shiny thing that's easily identified as an automobile.  The 2.5-liter boxer engine is assembled in-house on its own line, then added to the chassis, the interiors are installed, the badges are glued on, and the car rests on its own wheels for the first time in the last 50 feet or so from the end of it.
+
+Every Legacy is tested and adjusted before being shipped.  Fluid level, wheel alignment and balance, headlight aim, brake capacity and a multitude of other systems are checked, and the car is driven to 70 miles per hour on a set of free rollers.  Each car is then run through a water-test booth and sprayed with high-pressure nozzles to check for water leaks.  Any defects found are not only corrected, but a record of them sent to the department and section that caused them.  Finally, Legacy undercarriages are sprayed with undercoating and are prepared for shipment.  Random vehicles are selected to be tested at our on-site test track, as well.
+
+Quality standards are high at SIA.  As an illustration, several finished units suffered acid-rain damage while sitting in our shipping yard awaiting transport.  These were <i>not</i> sent to dealerships, and were not simply repainted and sent out again.  They were removed from the market, and offered at a discount to SIA associates, and <i>only</i> SIA associates.
+
+I haven't talked much here about the attributes of our finished product.  I'll leave that task until I get a chance to drive one of our current-generation Legacies.  Hopefully, though, I've given a bit of insight into the Legacy Outback that people find interesting, and might use when considering their next auto purchase.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

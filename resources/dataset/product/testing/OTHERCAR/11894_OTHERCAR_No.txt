@@ -1,0 +1,28 @@
+DOC>
+<DOCID> 11894 </DOCID>
+<PRODUCT> Digital_Cameras/509166_Agfa_ePhoto_780 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-363A-32FDC261-3A1C9761-prod3 </URL>
+<TEXT>
+            <b>First</b> I'd like to tell you I'm happy I did not buy this camera. Someone else made the decision of buying an Agfa 780c for our office.
+
+<b>What you get</b> for almost $450 CAN is a poor quality digital camera that has a resolution of only 640X480, but by interpolation will be able to store pictures at 1024X768.
+
+<b>Characteristics</b> 
+The camera is easy to use, all the buttons are in the right place, taking pictures is easy and downloading them is not a problem through the serial port. The LCD display is useful when taking macro pictures, but you should turn it off as soon as the job was done if you want your batteries to last. The body is strong but the design sucks, being in my opinion one of the uglyest camera on the market. The memory supplied is low, only 2Mb card included.
+
+<b>Software package</b> is good and we did not have any problem installing it on few systems in the office. If you don't mind using almost 100Mb of your hard drive space you'll enjoy a good, brand name software from Corel which gets the job done very well. Personally I'm using a small freeware, called IrfanView for my editing needs and by that I'm saving 97Mb of my HD.
+
+<b>Pictures quality</b> is poor. Colours are not natural, the white balance is off, but with the right software you can adjust the file to look natural. The biggest problem is with the sharpness of the pictures which is worse than what I've got from a Polaroid in the same price range.
+The flash capability is low and again the white balance does not do the job. There is no autofocus, only two settings: macro and normal.
+
+<b>Battery usage</b> is heavy and the supplied AC adaptor is a plus and should be used as much as possible. With the LCD display ON you'll be able to take at most enough pictures to fill up the memory on a set of 4 AA Duracell batteries so be prepared to replace them very often or spend some extra money for a set of rechargeable batteries.
+
+<b>Wrap-Up</b>
+<i>If you want a digital camera for a low price, but care about the quality of the pictures it takes stay away of this camera!</i>
+ <br><br>
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

@@ -1,0 +1,30 @@
+DOC>
+<DOCID> 7307 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_OlympusDigitall-Olympus_D-460_Zoom </PRODUCT>
+<URL> http://www.epinions.com/elec-review-BDD-183F61BB-3969039C-prod5 </URL>
+<TEXT>
+            I was in the market for a mid-range digital camera, anywhere up to about $500.  I narrowed down my choices between the Kodak 240 and the Olympus 460Z.  
+
+I ended up going with the 460Z because I was less than impressed with Kodak's line of digital cameras and the battery life on the 240 was not adequate according to some user reviews on C|NET that I read.
+
+I have had my Olympus for a little over a week now and WOW!  I'm very impressed with the ease of use, quality photos and features.  Almost immediately I was snapping pictures with my camera.
+
+Unfortunately, I ruined the 8mb SmartMedia card that came with the camera. I put it into my mp3 player and the Nomad 64 did something to it so that the camera couldn't read the card.  This was my fault -- it explicitly says in the instructions that you shouldn't use the card with any other devices (I sort of skipped over that in the manual).  Anyway, I got on the phone with Olympus and their tech support was VERY friendly and helpful!  I had to order another SmartMedia card and I've been taking pictures ever since.
+
+To see some of the pictures I've taken with my camera visit my page: http://www.wubbie.org/pictures/ 
+
+Some of the shots don't look incredibly great but it's mainly user error (in a few close shots, I forgot to put the camera in Macro mode).  I took the camera to the zoo and those shots didn't turn out the best because I was trying to shoot at fast moving fish and things through glass -- I couldn't use the flash because it would make a big white blob in the photo.  I will be uploading more pictures soon.  I took some great ones up at my grandparent's farm!
+
+One of the big drawbacks is that there is no native USB support for this camera.  The serial connection is horribly slow.  But, you can get adapters for SmartMedia cards and I bought a pcmcia smartmedia reader for my laptop (check out my T20 review!)  If you don't mind shelling out a little more, this camera is still a great choice.
+
+In my opinion, this is a great starter camera for anyone.  It has all the features that any non-professional photographer would need 1.3 megapixel, 3x zoom, optical viewfinder, flash).  I previously had only a 35mm camera and adapting to this digital has been so easy since it looks just like a regular camera!
+
+<b>Batteries</b>
+
+I bought two sets of Maha NiMH (AA 1550mAh) batteries for this camera as well sa Maha's C204F charger.  These batteries are the best.  I don't use the camera every day so for me, the batteriest last for months.  I've had periods where I used the camera more often... I'm more than satisfied with these batteries.  They work great with the 460 Zoom.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,55 @@
+DOC>
+<DOCID> 27503 </DOCID>
+<PRODUCT> Digital_Cameras/Polaroid_PhotoMax_2300Z__Camera_634601 </PRODUCT>
+<URL> http://www.epinions.com/content_80553938564 </URL>
+<TEXT>
+            Having had numerous film cameras over 4 decades ranging in quality from serious 35mm SLRs and 35mm point & shoot units to super compact APS cameras (see my reviews on Minolta Vectis and Cannon Elph units), I waited for the digital image revolution to become economical enough to buy a starter unit for education and experimentation.  Last year, Fry's Electronics, the electronics superstore chain, had a special on the Polaroid DC2300Z for $199, including a portable Polaroid Printer using Polaroid 500 film.  It was a deal I felt I could not/should not pass up.  Therefore, I decided to acquire this as my digital starter camera.  That was over 6 months, ago.
+
+The camera is a 2.3 megapixel unit.  It comes as a complete kit with an 8 mb Compact Flash Card, Serial and USB cable for downloading into your PC, an AV out cable for direct viewing on a TV monitor, an AC converter - useful for TV playback, basic but easy to use photo editing software, AA alkaline batteries (4), camera case, wrist strap and a fairly comprehensive manual that is easy to read and does not require a Phd in Physics to understand.
+
+The controls are easy to understand and are fairly intuitive for general use.  The LCD image display is on the back, the main control mode dial is up on top along with the zoom lens control and the tiny LCD control panel display.
+
+The small LCD panel displays the following:
+  Resolution Level 
+  Number of photos taken/left on current resolution 
+  Macro Setting 
+  Flash/AutoFlash/No flash Settings
+  Timer Delay Setting 
+  Image Number 
+  Battery indicator
+
+The unit is a typical Point & Shoot unit with no ability for manual override capabilities.  It's size and bulk is also similar to early film Point & Shoot units but styling is definitely funky.  If looks are important to you, forget this one.  It is not sleek or contemporary in appearance.
+
+The unit works well in good light conditions and takes excellent photos in bright sunlight with good image sharpness and color saturation and no noticeable distortions.  The macro lens capability is superb!  So, for normal snapshots and close ups of flowers or details of small objects in good outdoor lighting, everything works just fine.
+
+There are two resolutions settings, 896 x 600 and 1792 x 1200 and 3 compression settings.  The display indicates remaining image capacity on the CF card in use.  At the highest resolution with least compression setting, the yield is 59 images on a 64KB card.  At the lowest resolution/highest compression setting, the yield is a whopping 891 images on a 64KB card.  I shot a lot of photos at the high resolution/medium compression setting (yields 111 images on 64KB card) with excellent results printed 4" x 6" at the local photo store using their dedicated digital printer that accepts all digital media forms.  These were as good as a Pint & Shoot film camera prints.  Prints using my Lexmark 3200 printer also gave excellent results when used with photo grade paper.
+
+I can't say enough about the macro lens uses.  This macro lens is easy to use (without flash) and provides fine, detailed close ups within about 1.5" from the subject.  The details and clarity of things like jewelry are phenomenol.  I have used it to copy documents/pictures, take photos of mechanical parts before disassembly to aid in re assembly, documentation of details of various things for future reference, recording of small details in craft projects to show quality and skill, superb close-ups of items for e-bay postings, etc.  
+
+The unit uses 4 - AA batteries for power.  Like most other digital cameras, the alkalines don't last very long and are fine for short-term or emergency use but Ni-MH rechargeables are a must for extensive use.
+
+So far so good.  Now for the not-so-good things!
+
+The unit is inconsistent in use.  Sometimes it locks up for no apparent reason.  It happens at various times and I cannot determine anything that triggers it.  I've learned to simply turn it off and let it rest for about 15 seconds to reset itself and power it back up, again.  It is totally unpredictable.
+
+The flash performance is horrid!  Anything closer than about 6' is burned out by intense overexposure.  Anything beyond about the 10' range will have darkened edges as if the spread of the light is too narrow for the lens.  The one bright side for indoor use is that the automatic shutter/aperture settings make for good low-light performance but it needs a tripod or some kind of firm rest in order to work well in this mode.
+
+While the unit has both an optical viewfinder and an LCD display, for composition and framing purposes, the LCD display is preferred (the viewfinder is not accurate, especially in macro mode).  However, in outdoor or bright lighting conditions, it is difficult to view even when trying to shield it from bright ambient light.
+
+The delay for the unit to write the data to the card seems longer than other digital cameras I have experimented with, regardless of the resolution setting.  The shutter lag also seems longer than most.
+
+None of the controls except the on/off switch have a good tactile touch.  The rotary mode selector knob on top is a frequently used control (determines record, playback, download and setup).  It's hard to grip and is really difficult to activate or change modes.  The 4 buttons on top lining the control panel display are very sensitive.  The 3 switches on the back panel next to the LCD image display require a healthy push to activate.  The shutter release button is very mushy and vague feeling, making the focus-lock/shutter release action a real challenge that requires lots of practice to become proficient.
+
+And, the unit has a boxy feel and is not comfortable to grip.  The LCD panel on the back sticks out and when using the viewfinder, the users cheek is in constant contact resulting in an oily smear on the display.  Styling reminds me of an early '30s Argus machine.  Clearly, there was not a lot of care put into the industrial design of this unit.
+
+The "auto-everything" is another problem.  When the subject is brightly-back lit, the only option is to use the fill-in flash but if the subject is very close, it will be washed out.  And, lighting conditions with soft contrast do not always come out well - a bit washed out or, sometimes, underexposed.
+
+And, currently, the future of Polaroid is in doubt since they have filed for bankruptcy.
+
+But, for a cheap starter unit that has provided me with an excellent initial experience with the digital medium, I think it has served its purpose.  My next step up will likely be the Canon A40 2.0 Megapixel unit at about $250.  I'm looking forward to it.  Meanwhile, I will keep the Polaroid PDC 2300Z for its excellent macro focus feature.
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

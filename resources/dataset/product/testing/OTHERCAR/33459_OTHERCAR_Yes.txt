@@ -1,0 +1,26 @@
+DOC>
+<DOCID> 33459 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_D_520_Zoom_Digital_Camera__Camera_D520ZOOM </PRODUCT>
+<URL> http://www.epinions.com/content_80273247876 </URL>
+<TEXT>
+            I bought this guy about a year ago, and it cost $300 at the time.  That was a good price, and the current $150-200 range is very good.
+
+This was the only camera in my price range (at the time) that gave me an equivalent of ASA-400 speed film.  Most are either ASA-100 or ASA-200, which means that low-light or high-speed photography should be less sharp on those cameras.  This camera allows you to manually select an ASA-equivalent number, or leave it on 'auto-select'.
+
+One neat feature is the 'panorama' ability (this features requires that you use Olympus-brand mem card, but the camera comes with an 8MB one).  Using a tripod, you take a sequence of overlapping photos, up to a full circle.  The PC software then munches on the data and creates a Quicktime 'virtual tour' file like the real estate sites use: you can pan around, zoom in, etc.  Nifty 'lookitdat' feature.
+
+The camera can take 15-second video clips (without sound).  That doesn't sound like much, but I've found that while on vacation there are some scenarios where a short video clip makes a better 'memory' than a still.
+
+The camera's GUI is not the best in the world, but it is perfectly adequate.  You can access most functionality via tiered menus, and photo browsing is good: 4, 9, or 16 photos per 'page', with the ability to zoom in and pan around on any given photo.  My only complaint here is that some features are accessible only when the camera is closed, and others only when open.  This means that you have to wait for the lense to collapse/expand itself before you can make adjustments.  Not a big deal, but somewhat annoying.
+
+I've use this camera frequently, taken hundreds of pictures, and have no serious complaints about it.  It's a reasonable shape & weight.  A set of Nimh batteries (I highly recommend that you use Nimh) typically give me about 200 flash-enabled, LCD-turned-on photos; over 300 would liekly be possible with the LCD turned off and no flash.  At 2.1MP it's not as high-rez as others, but unless you're a professional photographer, or want to buy prints larger than 8x10, then 2.1 is all you'd ever need.
+
+Oh yeah, and there's a direct RCA video-out, so you can hook your camera directly to a TV and do a slideshow with no PC involved. :)
+
+PC interface: USB-only, so all you Win95 people out there are out of luck.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

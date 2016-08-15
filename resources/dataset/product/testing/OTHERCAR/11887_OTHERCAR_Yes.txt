@@ -1,0 +1,55 @@
+DOC>
+<DOCID> 11887 </DOCID>
+<PRODUCT> Digital_Cameras/509166_Agfa_ePhoto_780 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-1A34-58F3153-39130ABB-prod3 </URL>
+<TEXT>
+            -Why did I buy it?
+   For my parents as a Christmas present
+
+-What was I looking for and how much did I want to spend? I was looking for something that had higher resolution than just640X480 and didn't want to spend more than $200.
+
+-Description:
+   The Agfa ePhoto 780c� digital camera produces images up to 1024 x 768 using PhotoGenie� technology and processes pictures in under two seconds. This stylish silver-blue digital camera is very easy to use and comes with both a LCD and optical viewfinder.
+
+   Camera features include a focus-free all glass lens, 4 flash modes (auto, fill-in, red-eye reduction, off) and video output to view pictures on TV. The 2MB SmartMedia� card (included) stores up to 96 images.
+
+-Specs: 
+   RESOLUTION             
+   1024 x 768 (XGA)       
+   640 x 480 (VGA)                             
+   320 x 240 (standard)
+   24 bit color
+
+CCD RESOLUTION: 350,000 pixels       
+
+SCREEN: 290 x 220 pixels, 1.8&quot; color LCD display
+
+   REMOVABLE STORAGE: SSFDC SmartMedia card slot for removable memory, ATA compatible (2 MB, 3.3V card included)
+
+   NUMBER OF PICTURES: 12 - 96 (depending on capture mode) on a 2 MB card
+
+   PROCESSING TIME BETWEEN PICTURES: under 2 seconds
+
+   LENS: Focus-free, all glass lens, Fixed aperture f4.0 with macro
+EQUIV. FOCAL LENGTH: 50 mm
+
+   4 FLASH MODES: Auto, Fill-in, Red eye reduction, and off
+
+   Has a SELF TIMER.
+
+   VIEW FINDER: Optical; LCD can also be used as viewfinder
+
+   OUTPUT FORMAT: Jpeg
+
+   COMPATIBLE OS: Compatible with Windows 95/98/NT and Macintosh System 8.x 
+
+-Comments:  Overall I did an extensive search on the internet and found digital cameras with 1024X768 resolution averaged in the $300 dollar range.  I was very pleased with the camera.  The software was easy to install.  It was fun to use, nice looking, but not a camera for professionals.  Good starter camera.
+
+
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

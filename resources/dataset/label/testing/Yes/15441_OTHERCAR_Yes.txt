@@ -1,0 +1,21 @@
+DOC>
+<DOCID> 15441 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_SonyMCVV-Sony_MVC-FD88 </PRODUCT>
+<URL> http://www.epinions.com/content_16460254852 </URL>
+<TEXT>
+            I used MVC-FD88 for approx 1 year, I took more than 1000 pictures meanwhile.
+I like the fantastic zoom (8x optical, 8x digital). It works very quiet and it is easy to use. Also, the idea o using a standard 3.5" floppy as storage (the camera includes a fast access 4x disk drive where you can put a standard floppy, that's the reason the camera is so bulky, compared with others) is both good and bad, depends on how you use the camera: GOOD because your are not limited in memory when you take a lot of high resolution pictures (you just change the disk with an empty one) and you cannot download them (in a trip, out of your home or office), GOOD because you can very easily make a photo and give the disk to someone else, even copy the photo on another disk (like I do, when I use the camera at the office and my colleagues needed a photo for a presentation or a brochure), GOOD because the drive is faster than a conventional one and BAD because you have to change the disk very often (only 4-6 photos of max resolution would fit on a disk, BAD because it takes time to save the photo on the disk and meanwhile you cannot shoot another one, BAD because sometimes you might get a reading error on the disk (if the disk has bad sectors)and the photo is lost (it happened to me, and ever since I only use new disks just for 4-5 times and then I change them with new fresh ones and it didn't happened again).
+The only feature that is really missing from this great camera is the possibility to zoom in on a saved photo to see how accurate was taken.
+Also, the focus control is not so accurate. The automatic one works fine but when you have to focus on something away from you and another object is in front of it, it will focus on the closer object. If you switch to manual, the resolution of LCD screen is not good enough for you to tell if the focus is adjusted or not. I cannot use properly the manual focus because of that.
+The battery (InfoLithium) is OK for around 1h of continuous operation. A nice feature is the baterry remaining life in minutes, displayed on screen, although not entirely accurate, but very useful.
+The maximum resolution (1280x960) is good enough for most of pictures. Maybe for some landscapes I would have wanted more but that is the case of just a few photos.
+The colours are good and realistic. The white balance for artificial light could be better but this can be easily corrected trough image editing software.
+It can also make short .mpg movies, it can record sounds, as spoken comments attached to photos.
+Also, the output format is JPEG and includes a pre-formatted HTML web page with photos in it for those of you who want to publish on the Internet very easy.
+In the whole period I use it, the camera worked perfectly. I have absolutely no complaint about the quality of manufacture, it is excellent. As they say: "don't worry, it's a Sony"
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,40 @@
+DOC>
+<DOCID> 14931 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_SonyMCVV-Sony_MVC-FD73 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-6958-8290D9D-393FC896-prod4 </URL>
+<TEXT>
+            Whining and keening as I was about the lack of a good camera for quick, on-the-fly pictures (The Boy is growing up fast) I looked for something that wouldn't destroy my budget - and it don't take much to do that, folks. I was once a hobbyist, using an Olympus SLR 35mm for creating cool "look what a great photographer I am" pictures. I didn't need perfect quality this time, but I needed something that would produce relatively clear pictures and allow quick transfers to the computer for editing, doctoring and touch-up (boy, do I need a lot of doctoring) and e-mailing to unwilling relatives.
+
+My in-laws had a Kodak digicam with 4 meg of memory. It was a megapixel - plus camera, meaning that it could take very detailed photographs that, when displayed on a computer screen, would produce huge pictures that exceed the screen size and take up prodigious amounts of space on the hard drive - once, that is, I figured out how to get the cord from the camera plugged into the right port on my system, get the software to read it, etc. etc.
+
+My wife, who is a neonatal nurse practitioner, uses a <b>Sony Mavica</b> at the neonatal unit. When I asked her why, she told me that the Mavica used a floppy disk for image storage instead of a "memory stick," and she found it very useful for taking pictures of the new kiddo and simply handing the diskette to the parents at the end of the photo session. All the pictures were stored in JPG format by default, and they didn't take up nearly as much disk space. This sounded good.
+
+So I began my research. This was the <i>next</i> thing I was going to buy with my April Eroyalties, so I wanted to get it right. Sony has a number of digital cameras with floppy storage, including megapixel types in price ranges that exceed $1,000.00. I didn't think I needed ultra-clear, pass - the - magnifying - glass - test pictures; I just wanted snapshots that I could save in an online album, stick into web pages and harass everyone via e-mail attachments. The MVC-FD73 fit the bill.
+
+<b>This camera has turned out to be a popular choice for many would-be photographers. Check the bottom of this page for links to other reviews on this camera.</b>
+
+Why get the cheapo version (I'll pass on the character analysis concerning me being a cheapo person)? First of all, <i>the largest picture it takes is 640 x 480 resolution</i> photos. In JPG format, that's about 56k or so, give or take a few bytes. Most of the people that would be interested in pictures from me (assuming they're interested at all) wouldn't be interested in downloading a 1-meg-plus-sized shot of my son's right eye. Why do that, when I have 56k right-eye shots? The download time is much faster. 
+
+But for the true e-mail harasser, this camera has an extra feature: <b>"e-mail" mode</b>. When you switch to this mode, the pictures are compressed even further (to 320 x 240) and about 12k in size, perfect for sending an e-mail attachment that downloads in a snap. The smaller pictures are perfectly presentable. My relatives have been avoiding all my e-mails since I started making use of this mode. It's great!
+
+The MVC-FD73 has two basic operational modes: <b>"Camera" and "Play.</b>" After looking for the "Pong" game, I learned that "Play" means that the camera will display all the pictures currently on the floppy, either in individual or "index" mode. Index mode displays several postage - stamp - sized (well, even smaller than that, but you get the point) shots on the 2-inch color LCD display screen at once. By moving the little round button around, you direct the cursor to the picture you want to see, and it's displayed in "full" size on the screen. You can also do a "slideshow" where each picture on the diskette is displayed in order, with a time interval between shots you control.
+
+In "Camera" mode, of course, the display screen shows you what's coming through the lens. While in this mode you may choose <b>"Normal" 640 x 480 shots</b>, the "E-mail" mode I mentioned earlier, or you may choose to have the photos saved in <b>high-quality Windows bitmap (BMP) format</b>. You can get from 20 to 25 pictures on a diskette in Normal mode. Using "E-mail" mode, an "E-mail" subdirectory is created on the diskette and the small e-mail sized photos are saved there. Normal-sized JPG shots are still saved while in E-mail mode and placed in the root directory of the diskette  (but you still get 20 to 25 shots on the diskette). In high-quality bitmap mode, only one photo will fit on a diskette; it's over a megabyte in size.
+
+Other features include a timer so you can run around front and be in the picture (there's a tripod mounting hole if you need it), a 2x disk copier so you can give a copy of the diskette to people who may or may not want it, individual picture deletion so you can get rid of the bad pictures and create more room on your floppy for more shots, and some rather lame special effects that are better attempted with the included Adobe Photodeluxe software - after you save the pictures to your hard drive.
+
+Because it's only about .3 to .5 megapixels, <i>don't expect extremely detailed shots</i> with this camera. Expect decent pictures with decent color - something that's good for memories (and harassing the relatives). The true hobbyist or pro will go with a high megapixel or multi-megapixel camera - or a good 35mm or large format camera. This camera runs about $490 or so at most places.
+
+<b>One note of caution:</b> The camera, because of its built-in floppy drive, has one thing that bothers me a bit when I see it in any electronics gear: <i>moving parts</i>. Because of that, I got the extended warranty.
+
+I'm not a true hobbyist or pro - but I am excellent at piling up pictures and sending them off to people. This camera's perfect for that. Just ask my unfortunate e-mail pals. I'm enjoying it so far, even if they aren't.
+
+And I invite you to click on the links at the bottom of this page for contrasting views of this camera.
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

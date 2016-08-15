@@ -1,0 +1,181 @@
+DOC>
+<DOCID> 13189 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Canon_PowerShot_A70 </PRODUCT>
+<URL> http://www.epinions.com/content_99985034884 </URL>
+<TEXT>
+            The new Canon Powershot A70 is one of the most exciting digital cameras to come down the pike this year, not because it pushes the envelope in the megapixel race, but because it shoehorns much of Canon&#146s cutting edge new digital technology into a proven and eminently affordable digicam designed for the masses.  The first thing you&#146ll notice when you pick up the A70 is that it doesn&#146t look like an entry level camera, in fact the stylish little A70 bears a striking resemblance to Canon&#146s top of the line G3.  But the A70 doesn&#146t simply rely on good looks, it is designed to meet the imaging needs of a remarkably broad spectrum of users.  Absolute beginners will be able to quickly master the A70&#146s program and scene modes and  for more advanced photographers there is a real manual mode, a genuine rarity in entry level digicams. 
+ 
+The A70 is the third generation update of the  Powershot A20, one of the most capable entry level digital cameras ever produced.  Canon listened carefully to  consumer complaints and expectations and then combined proven components used in the A20 (and the A40, it&#146s second generation update) with  state of the art digital technology (like the new DIGIC processor and iSAPs technology pioneered for the G3, S45, S50, and S400 models) to create a bargain priced digicam with advanced features, exceptional ergonomics, and loads of manual  photography options.  Utilizing this winning formula allowed Canon to create a digital camera that raises the competitive bar for the other major digicam manufacturers, and that is a good thing for consumers. The A70 consistently delivers colorful highly detailed images that are not just better than other entry level three megapixel digital cameras, but equal to those of many higher priced prosumer models. 
+
+<b>Viewfinder/LCD</b> 
+
+The A70 uses the same 1.5" LCD screen as the Powershot A40.  LCD images are bright, sharp, and fluid (but brightness can&#146t be adjusted). The A70&#146s real image zooming optical viewfinder (also from the A40) is bright and clear and shows about eighty per cent of the frame. There is no diopter adjustment for eyeglasses wearers.
+
+<b>EXPOSURE</b>
+
+Like its Canon cousins (G3, S50, S45, S400, S230, and A60) the A70 features the <b>DIGIC Processor</b> (Digital Imaging Integrated Circuit).  Canon's proprietary DIGIC processor efficiently combines image processing and basic camera control in a single chip that handles Auto Exposure,  Auto White Balance, image compression, gain control, and most other important camera functions making the A70 faster and more powerful.  DIGIC technology enhances auto focusing accuracy and improves power management (battery life) while utilizing complex imaging algorithms to produce images that are optimized for sharp resolution, excellent contrast, low noise, and accurate color balance. 
+
+The A70 provides an incredibly wide range of exposure options for a bargain priced digicam including; Auto (Point and Shoot mode), Program (Auto exposure with user input), Scene mode (Portrait, Landscape, Night Scene, Fast Shutter, and Slow Shutter), Aperture priority, Shutter-speed priority, Manual mode, Movie mode, and Stitch Assist mode. Canon&#146s exclusive iSAPS (Intelligent Scene Analysis based on Photographic Space) technology produces consistently exceptional exposures in all scene modes. The camera instantly matches the scene in front of the camera with an on board database of known scene types and then compares that information with the specific scene&#146s subject distance, white balance, contrast range, lighting, and color (just before the image is recorded) to determine the correct exposure.  The ISAPS system works hand in hand with Canon&#146s DIGIC chip and AiAF auto focus system to quickly create consistently exceptional images.
+
+<b>Manual Mode</b> 
+
+Unlike most entry-level digital cameras, the A70 provides a full range of manual controls.  Users can set shutter speed, lens aperture, and ISO sensitivity, and fine tune white balance.
+
+<b>Movie Mode</b>
+
+The A70 has a very capable movie mode, especially for a budget digicam.  Users can record video clips (with audio) up to 30 seconds in duration at 640x320 @ 15 frames per second and up to 3 minute clips at 320x240 and 160x120 (also @ 15 FPS).  You can&#146t use the zoom (you must set the zoom to the desired focal length before you begin) during movie recording, but the Photo Effects mode can be used.  The A70 also provides voice-notation so users can add audio notes to still pictures.
+
+<b>Metering</b>
+
+The A70&#146s default evaluative metering system is consistently accurate in all but the most difficult lighting situations.  More experienced photographers can opt for Spot metering in trickier lighting or for more demanding compositions. 
+ 
+<b>Lens</b>
+ 
+The A70 uses the proven 3X f2.8-4.8/35-105 (35mm equivalent) all glass optical zoom lens from the A20 & A40. When the A70 is powered up the lens extends automatically.  When the camera is powered down the 3X zoom is fully retracted into the camera and a built in lens cover closes to protect it. The 3X zoom travels from wide angle to telephoto in less than two seconds.  The A70 (unlike many budget digicams) accepts auxiliary wide angle, telephoto and macro lenses. To mount an add-on lens simply remove the plastic lens surround ring, screw in the (optional) lens adapter, and attach the conversion lens (or 52mm filters).  The A70&#146s 3X zoom lens is sharp, relatively fast, and operates smoothly (and fairly quietly).  There is minor barrel distortion at the 35mm end of the zoom&#146s range, but virtually no pincushion distortion at the telephoto end of the range.  Close focusing distance (macro) is 2 inches. 
+ 
+<b>Auto Focus</b>
+
+The A70&#146s 5 focus point TTL AiAF (Advanced intelligent Auto Focus) system covers a much larger portion of the image area than the AF systems featured on the A20 and A40. The AiAF system analyzes the scene in front of the camera and accurately calculates camera to subject distance to determine which AF point is closest to the primary subject and then automatically locks focus on that AF point (users cannot select a specific focus point) even when the subject is not centered in the viewfinder.  User&#146s can turn off AiAF and default to the center focus point for portraits or traditional landscapes via the A70&#146s menu.   In low light the AF assist beam helps to illuminate the subject for more accurate focusing. The A70's autofocus is fast and precise, with above average performance, in virtually all lighting.
+ 
+<b>Manual Focus</b>
+
+Kudos to Canon, because entry-level digital cameras don&#146t usually provide a manual focus option.  User&#146s can enable manual focus with the four-way switch and then use the left/right buttons to adjust focus incrementally.  A scale is shown on the LCD to indicate approximate distances, but the center of the image isn't enlarged (like it is on many prosumer cameras). The A70&#146s manual focus system is a bit cumbersome, but it does provide users more control and creative input than comparable digicams.  
+
+<b>Flash</b>
+
+The A70&#146s built in flash offers a fairly standard selection of flash options including; Auto (fires when needed), On (fill mode), Red-Eye Reduction, Slow-synch in Night Scene Mode, and off.  Canon claims the flash range is about 15 feet and this seems to be a fairly accurate assessment.   The A70 provides (limited) flash compensation via the flash output setting ( low, medium, or high).  Overall, the A70&#146s built-in flash does a better job than most point and shoot flash units. 
+ 
+<b>Controls, Design, & Ergonomics</b>
+ 
+The A70 is an attractive and well balanced digital camera  The compact light weight body is constructed of a durable combination of metal and polycarbonate.  Experienced photographers will have no problem using the camera right out of the box and beginners will be able to shoot stunning images after quickly scanning the user&#146s manual. The A70&#146s top deck is uncluttered and logically laid out  (mode dial, shutter button, zoom controls, and power button).  There is a large and comfortable (for right handed shooters) grip on the right hand side of the cameras front.  The <b>Mode Dial</b>  has settings for Aperture Priority, Shutter-Speed Priority, Program AE, Portrait Mode, Landscape Mode, Night Scene Mode, Fast Shutter, Slow Shutter, Movie mode, and Stitch-Assist mode, allowing users to quickly shift between modes without resorting to the A70&#146s menu. 
+
+On the back of the camera is the 1.5 inch LCD screen, a 4 way compass switch, and the <b>FUNC button</b>.  Most of the A70&#146s shooting functions can be easily accessed via traditional buttons and switches, but when users need to employ the menu the FUNC button provides an overlay that takes photographers directly to the function they wish to modify or change, enhancing the A70&#146s creative control. The difference is subtle but once users (especially more advanced photographers) are comfortable with the FUNC button, usability and composition speed are noticeably improved.
+  
+<b>Creative Photography Options</b>
+ 
+The A70 probably has more white balance options than any other entry level digicam, including a professional custom mode that allows users to  shoot a white card for perfect  white balance.  The A70 also features a continuous shooting mode (2.2 fps) for following rapidly unfolding action. The Photo Effects mode allows users to  quickly and easily adjust color saturation levels and image sharpening.
+
+<b>Power</b>
+
+The A70 is powered by four cheap and readily available AA batteries.  Canon&#146s engineers have improved power management to the point that even Alkaline AA&#146s from the supermarket will power the camera (according to Canon) for up to 250 (continuous LCD and occasional flash use) exposures.  NiMH re-chargeables will power the A70 through up to 350 (continuous LCD and occasional flash use) exposures.  If you use the optical viewfinder instead of the LCD, Canon claims  the A70 will rack up 800 exposures (AA Alkalines) and 1000 exposures (NiMH re-chargeables) before running dry.  What this means for  consumers is that the four AA Alkaline batteries included in the box will probably power the camera until they can find time to pick up eight NiMh rechargeable batteries and a charger (and Alkaline AA&#146s can be used in the field if users don&#146t have spares).  My friend and I used four Duracell Alkaline AA&#146s to power the A70 through two weekends of demanding ( heavy LCD and flash) use and never ran out of juice.
+ 
+<b>Technical Specifications</b>
+
+Resolution: 3 Megapixels (2048 x 1536)
+Viewfinders: 1.5&#148 Polycrystalline silicon TFT LCD and Real Image zooming optical viewfinder
+Exposure: Auto, Program, Scene mode, Aperture priority, Shutter-speed priority, Manual mode, Movie mode, and Stitch Assist mode.
+Metering: Evaluative & Spot 
+Exposure compensation: Yes +/- 2 EV in 1/3 EV increments
+Lens: f2.8-4.8/35-105 (35mm equivalent) all glass 3X optical zoom
+Auto Focus: 5 AF point AiAF
+Manual Focus: Yes
+Macro: Minimum focusing distance-- 2&#148
+Shutter Speed: 1/2000th of a second to 15 seconds
+White balance: Auto, Daylight, Cloudy, Tungsten, Fluorescent, Fluorescent H, Flash, & Custom 
+Sensitivity: Auto, 50, 100, 200, & 400 ISO (35mm equivalent)
+In-Camera Image Adjustment: Yes 
+Noise Reduction: Yes-- automatic on exposures longer than 1 second 
+Flash:	Auto on, auto off, red-eye reduction on, red-eye reduction off, and slow sych (in night scene mode only).  There is no provision for using external flash units
+Image Storage Media: CompactFlash type I  
+Connectivity: USB & AV/out 
+Power: 4  AA batteries 
+
+MSRP $449.00  Street Price Range $349.00--$299.00
+ 
+<b>Included </b> 
+ 
+16MB CF card, four AA Alkaline batteries, wrist strap, USB & AV cables, software CD&#146s, user&#146s and software manuals.
+
+<b>Optional</b>
+ 
+CBK100 (4 NiMH) batteries and charger kit, LA-DC52C Lens adapter, Canon WC-DC52 0.7x Wide Converter lens, TC-DC52 2.4x Tele-converter lens, 250D Close-up Lens, WP-DC700 Waterproof Case, ACK600 AC adapter, and soft camera case.
+
+<b>In the Field/Handling & Operation</b>
+
+I recently got a request from one of my long time readers (artdeco73) to review Canon&#146s new A70 and A60 digital cameras.  I asked my friend (who sells digital and analog cameras and photographic equipment) to see if he could round up one or both of them for us to play with.  He turned up with a brand new A70 the Saturday before the Kentucky Derby.  The weather was absolutely beautiful (mid seventies, blue skies, puffy white clouds) so we headed for Cave Hill Cemetery (Louisville&#146s only arboretum and a favorite shooting location for both of us). 
+
+We  photographed wildflowers, old 19th century native limestone grave markers, and some of the hundreds of ducks and geese that populate this old burying ground.  It was one of those absolutely wonderful spring days with almost perfect front lighting that we often get here in the Ohio Valley.  We took a break after a couple of hours and drove over to Five Star Chili at Mid City Mall to get a bowl of chili (five way) and a coke. 
+
+After we finished eating we drove to the scenic loop in nearby Cherokee Park, which was absolutely packed with runners, rollerbladers, bikers, speed walkers, sun worshipers, Frisbee tossers, and dog walkers.  It really looked like almost everyone in the Highlands was at the Park.  After a couple of hours shooting folks having fun in the Park we called it a day.
+
+The following weekend we got an early start and drove out to Bernheim Forest, 30 miles south of Louisville.  Bernheim Forest is the official Arboretum of the Commonwealth of Kentucky, a 14,000 acre combined nature preserve and Biological/Ecological/Environmental research station.  The weather was a little cool (mid 60&#146s) and the sky was an overcast murky gray-white so we decided to spend the day shooting wildflowers and intimate landscapes (to take advantage of the shadow less low reflectance lighting) and keep the funky looking sky out of our pictures. 
+
+The A70 did a great job, no matter what we tried.  I used the camera in the heavily shaded forest area around the  wildlife enclosure, poking the A70&#146s 3X zoom through the fence to shoot a doe curled up in the grass under a tree. The shot was something of a stretch for the 3X zoom but my friend and I both agreed that the deer was close enough that I was able to create a nice natural looking "mini" setting with the deer, the long grass, and the tree, an example of Eliot Porter&#146s "Intimate Landscape" style of shooting.
+
+We found some very pretty clumps of wildflowers scattered around in the woods, including a nice patch of wild irises along one of Bergheim&#146s small creeks and the A70 did a good job of recording close-up details with great color (Photo Effects---vivid color) and the flash set to on (fill mode). We discussed our impressions of the little A70 during the thirty minute drive back to Louisville and both of us felt that the camera offered a lot of photographic capability, both for beginners and more advanced shooters, at a bargain price.
+   
+<b>Image Quality</b>
+
+The A70 consistently produces well exposed images with good dynamic range. Color accuracy and white balance are excellent under most lighting conditions. Images are sharp and the AiAF auto focus is accurate even when shooting close-ups. Wildflower shots looked natural with well-saturated colors and balanced gradations (our Iris close-ups looked great even though the color ranged from creamy white to deep purple in a single flower).  My friend says that the A70 gets some red-eye complaints, but since we didn&#146t shoot any indoor people shots or portraits I can&#146t address this. 
+ 
+The A70 does a noticeably better job than its predecessor (the A40) and both my friend and I agreed that the images were equal to those we&#146d shot with the prosumer Canon Powershot S30 and slightly better than those we&#146d shot with the S230.  Actually, the A70 does a better job than any camera in its class and is competitive with three megapixel cameras costing significantly more.  Reds are just a tiny bit flat, but in most cases, the vivid saturation effect should cure this minor fault.  Images shot at ISO 50 looked best, with extremely low noise levels.  At the ISO 100 setting noise levels rise a bit, but not objectionably so, however, there's a noticeable and surprising amount of noise at ISO 400. 
+
+We noticed some minor chromatic aberration in a couple of shots where a dark tree branch crossed a patch of overcast white sky (you could see very low level purple fringing along the branch) but our wildflower shots showed no chromatic aberration in the transition area between the brightly colored wildflower petals and the dark background. 
+ 
+Overall, the A70&#146s images are very good, especially for a bargain priced digital camera.  Both of us observed some minor detail loss in dark backgrounds, but this isn&#146t necessarily a bad thing.  Colors looked consistently natural and skin tones (based on outdoor shots in Cherokee Park) were excellent. We printed two 5x7&#146s with an Epson Stylus Photo EPX785 (an Iris close-up from Bernheim Forest and an old Jewish tombstone from Cave Hill) and both were excellent.  I suspect that 8x10&#146s from A70 image files would be just as good.
+  
+<b>Shutter Lag/Timing</b>
+
+The A70 is noticeably faster than the A40, Canon&#146s proprietary DIGIC processor really speeds things up.  Start up time (power on&#151lens extended) is between two and three seconds, which is pretty snappy.  Shutter lag wasn&#146t a problem for us (the shutter fires almost instantly) and shot-to-shot times are quicker than average for entry level digicams (typically between one and two seconds) due to the A70&#146s fast processing and an ample buffer.  AF speed is impressive (especially if you press the shutter button halfway before you compose the shot) typically less than one second.  Low light images take a bit longer, but they&#146re still shorter than comparable digital cameras.
+  
+<b>A Few Concerns</b> 
+
+The CompactFlash card cover seems flimsy and I don&#146t like the plastic tripod mount (at least it&#146s centered).  Overall, the A70 is a tough little camera but I was disappointed that Canon cheaped out in two areas that will have to endure sustained wear and tear.
+  
+<b>Conclusion</b>
+ 
+The A70 is a really good choice for someone just making the jump to digital photography and it will also do yeoman duty (virtually no shutter lag, exceptional ease of use, compact size, reasonable price, manual photography options for more advanced photographers, and durable construction) as a family camera, especially in two photographer families.  My friend and I both really liked the PowerShot A70 because it isn't just a cheap camera, it's a feature and capability rich camera too. Canon&#146s A series digital cameras have always been an excellent value and the A70 continues that tradition, with a vengeance.  The A70 is a perfect choice for beginning photographers who want a digital camera that will grow with them as their image making skills evolve.   If you are searching for a champagne camera on a beer budget, the Canon PowerShot A70 should go to the very top of your short list.
+
+The three megapixel A70 is an almost identical twin to the two megapixel Powershot A60, so if you don&#146t think you&#146ll need 8x10 enlargements then you can save a hundred bucks and opt for the A60 instead.
+   
+<b>A Final Note</b>
+
+For those of you who insist on always staying one step ahead of the game, it is not too early to consider Christmas gifts.  If you want to genuinely impress your sweety with a present that is truly worthy of him or her, my friend says (insider buzz) that `if the economy remains stagnant or worsens (which seems likely) Canon will deeply discount the A60 and A70 models for the 2003 holiday buying season. Industry speculation suggests that wise gift purchasers will be able to find the A60 for as low as $180.00 and the A70 for about $250.00, once the weather turns cold.  My A60 review will be posted as soon as my friend and I finish running it through its paces.
+
+<b>Links</b>
+
+For definitive advice on <b>How to Choose a Digital Camera</b> please see my review. 
+
+<a href="/elec-review-2E46-17B174E2-39A418E3-prod1">http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a>
+
+Looking for a capable photo printer at an amazing price?  Check out my review of the <b>Epson Stylus Photo 785 EPX</b> ink-jet printer. 
+
+<a href="/content_60776812164">http://www.epinions.com/content_60776812164</a> 
+
+Still searching?  Here are my reviews of some comparable digital cameras.
+
+Canon Powershot S230
+
+<a href="/content_78900203140">http://www.epinions.com/content_78900203140</a> 
+
+Canon Powershot S30
+
+<a href="/content_59041746564">http://www.epinions.com/content_59041746564</a> 
+
+Olympus Camedia C730 UZ
+
+<a href="/content_86851030660">http://www.epinions.com/content_86851030660</a>
+
+Olympus Camedia D550
+
+<a href="/content_85994606212">http://www.epinions.com/content_85994606212</a>
+
+Fuji Finepix 3800Z
+
+<a href="/content_81234595460">http://www.epinions.com/content_81234595460</a>
+
+Fuji Finepix S602
+ 
+<a href="/content_75291266692">http://www.epinions.com/content_75291266692</a>
+
+Nikon Coolpix 3500
+
+<a href="/content_88242491012">http://www.epinions.com/content_88242491012</a>
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

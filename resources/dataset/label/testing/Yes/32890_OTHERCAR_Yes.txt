@@ -1,0 +1,44 @@
+DOC>
+<DOCID> 32890 </DOCID>
+<PRODUCT> Digital_Cameras/514223_Canon_PowerShot_S300 </PRODUCT>
+<URL> http://www.epinions.com/content_25484103300 </URL>
+<TEXT>
+            --General--
+Okay, let me get this out right away:  my wife needed a camera that is 1.) point-n-shoot easy, 2.) tiny enough to bring anywhere, 3.) has picture quality at or above the 35mm equivalent (small point-n-click), and 4.) is rugged enough to be tossed in her purse.  The S300 excels at all of those requirements.
+
+If you are into serious photography, this may not be the camera for you.  Manual adjustment is limited to white balance, flash control, and the like.  You can't pick your shutter speed or (more importantly) aperture.  And 2 megapixels might not be enough.
+
+On the flip side, this camera is great for documenting life's casual moments.  It is small and rugged enough to bring anywhere.  Picture quality is quite good, and I am far more satisfied with the color fidelity and clarity than with 35mm point-n-shoot alternatives.  Plus, you get all the advantages of digital (which I assume interest you if you're looking at buying a digital camera).
+
+--Likes--
+1.)  Did I say small?
+
+2.)  Love the picture quality - especially color depth and fidelity.
+
+3.)  The LCD display is very clear, subject to the general problems all of these displays have in sunlight.
+
+4.)  Battery life is quite good.  I know everyone likes to complain about this, but c'mon.  This is a digital cam in a very small package.  Keep the LCD off except when you really need it and you'll change the batteries far less often than you'd change film.  Of course I recommend everyone have 2 batteries so you never get caught without a charge.
+
+5.)  My tech-averse wife can operate it no-problemo.
+
+6.)  The included image browsing software is, unexpectedly, great!  I've tried many of these packages, looking for anything that will allow me to easily navigate 1000s of pictures while maintaining a directory structure of standard JPEGs or TIFFs.  The "Zoom BrowserEX" software from Canon does a great job of this.  It takes a (good) while to load and/or update the database, but browsing is a dream.  I would happily pay $50 for this software alone.  This software is also able to extract extra info the camera provides (such as exposure info, time/date,etc.).  Very cool.
+
+7.)  The stitch mode (also known as "panaorama") is very cool.  All exposure settings are locked and you can take a series of pics and stitch them together on your PC for anything up to a 360 degree panorama.  This whole process was much easier than I expected.
+
+--Dislikes--
+I am comfortable with the film vs. digital tradeoffs, so I won't discuss any of them here.  As an owner of other digital cams, I'll only state the things specific to the S300 that I'm not 100% pleased with.
+
+1.) "Special" battery.  I would prefer the use of standard AA or AAA batteries so I could replace the batteries by going in to any store anywhere and buying some alkalines.  I whould also prefer to choose the NiMH battery/charging solution on my own.  I consider batteries more than memory cards the "film" in a digital cam since they always seem to run out at the most inconvenient times, so easy emergency replacement is high on my list.  Unfortunately you will need to find a Canon battery and wait for it to charge if you get stuck somewhere with a dead battery.  Not really gonna happen, is it?
+
+2.) Camera images default to "standard" compression instead of fine.  A friend of mine took a bunch of pics at this lower quality setting before realizing what was going on.  Of course once you choose "superfine", the camera remembers this.  I may be nitpicking here, but the reason most people buy a 2 megapixel camera is for the quality.
+
+3.) 8MB CF card?  Are you kidding?  That only holds 7 high quality pictures.  I took mine out and threw it away.  I'd rather Canon didn't include any memory and saved me $20.
+
+--Overall--
+If you can handle the expense, this is a very fine camera for the majority of family photos.  And there is very little else available in this size.  My philosophy:  I'd rather have a 2 megapixel digital photo of something because I had the camera with me than a high quality camera (digital or film) sitting at home for all but special occasions.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

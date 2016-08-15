@@ -1,0 +1,43 @@
+DOC>
+<DOCID> 12605 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_CanonPowerShott-Canon_PowerShot_S10 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-60E-38A58E7-397F0D33-prod6 </URL>
+<TEXT>
+            This is the first camera I ever purchased, analog or digital!  Well, sort of.  I had been buying disposable cameras prior to this.  So my review is not one of an expert photographer, but of a guy who likes to travel and take pictures once in a while.
+
+First, the pictures.  You're dying to know what an average guy like me can do with a camera like this.  Go to http://albums.photopoint.com/j/AlbumList?u=979555&amp;Auth=false
+
+This url is a pointer to photographs from my recent trip to Italy with a company called Backroads.  If you think any of these pictures are nice, wait until you get them printed on regular photograph paper by some of these companies like photopoint (see url above).  The prints are astounding.  And guess what?  None of these photos have been retouched in any way.
+
+A word about the prints:  I can't tell them apart from analog prints, except for the fact they are nicer and more detailed than analog prints.  You won't be dissappointed!
+
+You'll notice that there are hardly any indoor shots.  Well, I have taken indoor shots, and they come out fine.  Perhaps a little dark, but that could just be my monitor.  (You can always retouch later).
+
+Here are some MUSTS if you buy this camera:
+
+1) Buy the battery recharging kit.  This includes recharger, battery,
+and adapter for hooking camera to A/C outlet.
+
+2) Buy the IBM Microdrive and PCMCIA card.  By doing this, transferring
+photos to your computer is as easy as taking the microdrive out of the camera and sticking it into your laptop.  If you don't have a laptop, hopefully there are PCMCIA adapters you can get for your desktop.  Otherwise you'll have to download your photos via an rs232 cable, and this is painful.
+
+I have a 320M microdrive which can store approx 600 1600x1200 images.  That's alot!
+
+There are many special little features and controls on this camera, such as a macro mode for shooting small objects, ways to get panoramic shots, analog zoom, and lots of cool little things.  
+
+The camera comes with lots of software, but it's a pain to use.  For one thing, the main software program (I forget the name) doesn't install onto a drive with more than 2G of free space.  Being a programmer, I know exactly why this is, but trying to convince the software wizards at Canon that there is a problem is useless.  The software is very quirky on top of this.
+
+I don't use the software, personally, and you don't need to.  You're better of getting PaintShop pro if you want to retouch images.  And if you have a PCMCIA slot, there's no reason to use the software to download images to your computer.
+
+This camera is very compact and easy to travel with, but get a waterproof camera bag.
+
+Also, don't rely on the LCD display -- this will cut available battery time to around 10 mins or less.  But if you turn off the LCD display while shooting, you'll get many shots before having to recharge.  I only have a single battery and have no problems.
+
+Happy shooting!
+<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

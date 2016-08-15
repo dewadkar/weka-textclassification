@@ -1,0 +1,60 @@
+DOC>
+<DOCID> 27762 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_PowerShot_S100 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-5756-4B23AD5A-3A5A68D7-prod3 </URL>
+<TEXT>
+            Let's get right to the point- I love my camera. I've had it for six months and now feel I'm armed with enough info to write a full review. There are a lot of things that I love about digital photography in general, and about this camera in particular.
+
+Taking zillions of pictures without worrying about wasting film is perhaps my number one reason for loving digital. Low light, no light, through a dirty window, from a moving car� however dicey the conditions, I take the picture anyway. Digital gives you the freedom to get wildly experimental with your picture taking, whether it's shooting through a pair of binoculars or while jumping on a trampoline. If the picture doesn't turn out well, you can delete it quickly and carry on shooting. The size, quality, and relatively few flaws of the S100 make it easy to release your inner Man Ray.
+
+<b>Picture Quality-</b> See for yourself! Go to <b> http://www.heatherville.com/s100 </b> to view a sampler of pictures I have taken with my baby. They aren't masterpieces, but they give you an idea of what you can expect. According to the manual, the camera is capable of a resolution of 2.1 megapixels. I'm not entirely sure what a megapixel is, but I've read that 1 is entry-level and 3 is professional quality. My powers of deduction tell me that this camera falls somewhere in the middle. 
+
+It has 2x optical zoom and 4x digital zoom, but I do not recommend relying too heavily on the digital zoom- the results are inferior, but better than nothing. You have three picture quality options, Large Sharp and Large (1600 x 1200), and Small (640 x 480). Small works just fine for my bubblejet printer at home, but I switch to large if I want to use it for professional printing.
+
+Thankfully, the blue and red artefacts so typical of older digital cameras I've had experience with seem to be a thing of the past. Even close examination of a picture taken with my S100 turns up little or no evidence of its digital heritage.
+
+<b>Features-</b> Here are some of the features I think need mentioning:
+
+<i>-Viewfinder/LCD: </i>Although the camera does have a traditional viewfinder, I never use it. The only reason I can think of to do so would be in such bright light that you can't see the LCD screen. So far this has never happened. Speaking of the display, it's crammed full of information about things like picture quality, mode, flash, and how many more pictures you can take before the flashcard is full. All this info can be turned off if it's too distracting. For that matter, the entire LCD can be turned off to preserve the battery. Shortcut: After taking a picture, keep your finger on the shutter button to view the picture you just took without having to switch to viewing mode. Also, press 'set' and the left arrow button while in preview mode to quickly erase duds. 
+
+<i>-Auto Focus: </i>According to the manual, the camera has the ability to pick out the subject and focus on it, even if it's not centred in the frame. In my experience, this has proven to be true. Even when taking pictures through glass or a fence, it doesn't get confused and focus on the wrong thing. 
+
+<i>-Blur Warning:</i> If the camera thinks the lighting is too low, it will warn you with its little blur warning icon. My advice: take the picture anyway. The camera can focus even in complete darkness, and the picture will probably turn out surprisingly well. I mean, if you're taking a picture of a city skyline at night, the flash is not going to help you, and the picture will turn out fine. 
+
+<i>-Flash: </i>The flash works pretty well, but I usually leave it turned off unless absolutely necessary- I try to avoid glare whenever possible. There is an anti-redeye feature as well, but I have never used it. Of course, if you don't use the flash there won't be any redeye! 
+
+<i>-Stitch Assist Mode: </i>One of my favourite features, Stitch Assist helps you properly frame panoramic shots. Once the picture is taken, it shows you the rightmost 1/3 of the picture you just took, to help you match up the next shot. Then the included PhotoStitch software helps you put it all together on your computer for one l-o-o-ong picture. Or, you can turn it into a 360� panorama and save it as QuickTime VR, which is pretty cool. The program has a tutorial featuring pictures of Canon headquarters in Japan to help you get the hang of it. 
+
+<i>-Macro:</i> You can get quite close to your subject in Macro mode, as close as 4&quot;. 
+
+<b>Size-</b> When I bought it six months ago, it was the smallest digital camera on the market. I don't know if that's still true, but the fact remains that this thing is still pretty darned small. When I first saw it in the store sitting next to the other digital cameras, there was just no comparison.
+
+<b>Durability-</b> Although this camera has an all-metal body appears to be quite rugged, I nevertheless treat it like it was made of porcelain. It's small enough to stick in your pocket, but I would never do that for fear of hitting it on something or sitting on it. Similarly, I never dangle it by the wrist strap lest I swing it into a wall or something. I have no idea what its threshold for abuse is, but I'd rather not find out the hard way! And, despite the dire warnings of the salesman in the store trying to sell me an extended warranty, I have had no problems with it at all over the six months it's been in my possession. 
+
+<b>Capacity-</b> On the included 8-MB flashcard, you can fit 4 Large Sharp pictures, 12 Large, and 46 Small. I would definitely recommend buying a larger capacity card.
+
+<b>Accessories-</b> The camera comes with an 8-MB flashcard, a battery pack, recharger, USB cable and a video cable for hooking up to a TV. The video cable is an easy and effective way to show people the pictures you have taken, as I find people usually demand a demonstration when they first see it in action. The pictures look really good on TV, bright and sharp. A week after buying the camera, I returned to the store to buy an extra battery pack and 16-MB flashcard, and find this to be the optimal system for my own use. Although the battery doesn't take too long to charge, it's a lot more convenient to have a second one in rotation.
+
+<b>Software-</b> Canon ZoomBrowser, a sort of virtual contact sheet organizer, is actually pretty good for managing your pictures and organizing them into different albums. It also allows you to adjust brightness, contrast, colour balance, etc. but I would not recommend using it for this purpose unless you have no other means of image editing. The camera saves all images as JPEG, and JPEGs deteriorate every time you resave them. Right-clicking on the thumbnail brings up a number of options, one of which is exporting the picture to an image editing program of your choice (mine is Adobe Photoshop). Luckily, a copy of Adobe PhotoDeluxe is also included.
+
+One of my favourite things ZoomBrowser has to offer is a silly feature called Time Tunnel, which allows you to view all of your pictures in chronological order, in a psychedelic spiral of retrospection. Groovy!
+
+<b>Annoyances-</b> Every electronic product I've ever owned has had me saying &quot;I sure wish�&quot; on a few occasions. Much as I love this camera, it's not immune.
+
+<i>-Changing picture quality:</i> A lot of menu scrolling on the display screen is required, and this is a hassle for a feature I use so often. A dedicated button or even menu category would make more sense. 
+
+<i>-Excessive motor use:</i> When switching from picture taking to viewing mode, the camera retracts its lens. When you switch back to picture taking mode, out it comes again. It causes a delay and no doubt takes its toll on the battery. I have tried to get into the habit of previewing a picture right after taking it, and use the viewing mode sparingly. 
+
+<i>-Useless Time Lapse Mode:</i> The time period of about a second between shots is too slow for all practical purposes I can think of. Although it keeps shooting until you take your finger off the button, from the time of the first shot to the next, your golf swing will be long since finished. 
+
+<i>-Heat:</i> The camera tends to heat up during prolonged picture taking sessions. Although it doesn't get uncomfortably warm, it was a little alarming the first time it happened. According to the manual, this is perfectly normal. 
+
+<i>-Expensive extras:</i> Buying extra batteries and flashcards is not mandatory, but they definitely make life easier. Sadly, these items are not cheap. For some reason, dropping fifty bucks on a wafer-like flashcard that's smaller than an After Eight mint causes my logical alarm bells to go off. 
+
+In short, with the S100 around, the inconvenience of lugging a camera around is all but eliminated. I think there will always be a place for traditional photography, but nothing beats the versatility of digital, taking your pictures straight to your computer and beyond. It's so small and light, there's no reason not to take it with you everywhere, and I certainly do. No developing, no scanning, no film, and practically no learning curve- just whip it out of the box and start creating!<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

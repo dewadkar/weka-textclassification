@@ -1,0 +1,35 @@
+DOC>
+<DOCID> 17136 </DOCID>
+<PRODUCT> Digital_Cameras/Canon_PowerShot_A40_Digital_Camera_7634A001__Camera_7634A001 </PRODUCT>
+<URL> http://www.epinions.com/content_66604142212 </URL>
+<TEXT>
+            There's a saying about software that also applies to digital cameras: whatever you buy should be good at doing the 20% you do 80% of the time. The PowerShot A40 fits this bill exactly: it excels as a point and shoot camera, with very accessible and powerful program and manual modes, as well as a bundled software that make it easy to store, edit and print photos.
+
+The camera itself has a solid feel &#150 the body is easy to grip, and the controls are well laid-out.  The viewfinder has a slightly limited view and no diopter adjustment, which makes the 1.5" LCD the best way to preview an image before taking a shot.  You should be able to store over 100 high-quality images on a 128MB compact flash card (available online for around $50.)
+
+Using rechargeable nickel metal hydride batteries, you should get well over 300 shots with mixed LCD use. (Two sets of 1700mAH AA NiMH batteries and a charger should set you back about $37 at your local WalMart.)
+
+The optical zoom is smooth, but the digital zoom jumps a bit &#150 you get only three settings between 3x and 7.5x zoom.  Macro mode is great for close up shots, unless you use the flash, which is a bit over-powered up close.  You can get around this by disabling the flash and putting the camera on a tripod, which gives good results.
+
+Auto mode is good for point-and-shoot use; program mode is good at giving you control over the important elements of a shot that can get things &#147just right.&#148  There's also a manual mode available for when the program modes just don't seem to cut it.  Being able to preview the image on the LCD is helpful for tricker shots, particularly in manual mode.
+
+Flash modes are Auto, red-eye reduction, fill-flash, and slow-syncro (which illuminates objects in the foreground while catching the details of a low-lit background.) Though flash is a bit strong at close range, most flash shots are well exposed, with good colors and red-eye reduction.
+
+The auto focus has a (defeatable) assist lamp that ensures the camera maintains focus in low-light conditions.  Similarly, there are numerous white-balance options, as well as spot and evaluative metering.  ISO settings include AUTO, 50, 100, 200 and 400; there&#146s some noise in low-light ISO 400 shots, so you might want to use a lower ISO setting and a tripod for really low-light situations such as night shots.  
+
+Photo effects include vivid, low sharpening, black and white, sepia and neutral; some of these seem like gimmicks to me, because you can do the same thing with a photo program after you take the shot.  There&#146s also a movie mode, good for sub-30 second videos of friends and family, with sound &#150 just the right size for America&#146s Funniest Videos &#150 &#145nuff said!
+
+Available image sizes for still shots are: 640 x 480, 1024 x 768 or 1600 x 1200. Quality levels for each image size are SuperFine, Fine or Normal.  I usually take 1600 x 1200 pictures in the Fine mode, which results in decent prints of up to 8x10 size on my HP DeskJet 960.  
+
+Under Windows, the camera installs as a TWAIN device, so you&#146ll need to use the Windows imaging application or the included software bundle to get images directly off the camera. Images can also be pulled off the CF card using a reader that plugs into your USB port(about $20).
+
+Reviewing shots in the viewfinder is mostly intuitive: zoom in to review individual shots (the right/left keys scan up and down within an image as if you were reading a page forwards and backwards); zoom out to see a page view where you can select from thumbnails of all of the photos/movies stored on the card.  From either view, at any time, its easy to delete unwanted photos.
+
+In conclusion, this the PowerShot A40 compares favorably to many of its competitors in the 2-megapixel class.  While other cameras might come with more features, or prettier packaging, the Canon&#146s ergonomics, flexibility and well thought-out menus makes it one of the better choices overall.  Since replacing my Sony DSC-S85 with the A40, I take more and better photos because it's easier to do so, which is the highest compliment I can give a digital camera.  Highly recommended.
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

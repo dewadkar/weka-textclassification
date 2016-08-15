@@ -1,0 +1,228 @@
+DOC>
+<DOCID> 8264 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Nikon_Coolpix_5400_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_105352433284 </URL>
+<TEXT>
+            I don't know what it is with digital cameras and my wallet.  I usually have my credit card out to buy before I really think things through... problem is that this time, I'm not so happy with the purchase.
+
+I got the Nikon CoolPix 5400 at a ridiculous price that I have not been able to duplicate again.  The best average deal for the camera is around the $680 range.  I got it for much lower than that.  Read my epinion <a href="/content_3087507588">The Art of Buying... Getting your money's worth!</a> to see some ways on how to save some money on online buying.
+
+The Nikon CoolPix line has a fairly deep history as far as digital cameras go... I was originally very excited to hear of the 5400 model being released.  When I stumbled onto the price I got for it, I jumped on it.  Now after playing with the camera for over a week, I see some of its strong points and its weak points... unfortunately for me, the weak points weigh more heavily on me than the strong points.
+
+<i><b>Short Runs... Short Takes</b>
+
+The Nikon CoolPix 5400 should be a truly impressive camera, but the problem is that there is already healthy competition at many fronts and at many price ranges.  This puts the 5400 in a bit of an odd spot.  There is already competition from from within with Nikon's 5000 and 5700 lineup as well as outside competition like Canon's G5 and Sony S717 and V1 models.  There are also a number of competing 5 MP cameras for people who need fewer features than what the 5400 offers.  This all bodes poorly overall for the 5400.
+
+It not that the 5400 is a bad camera, in fact if this was your first foray into prosumer cameras it would nearly rank as an excellent camera!  However, it doesn't offer enough to show an appreciable advantage over the multitude of competition especially at its price range.  Actually, the many of the features it touts may never be used by most people in the general populace leaving the camera almost entirely in an enthusiast's/professional's market.
+
+<b>Pros:</b>
+1) 5 MP pixel camera
+2) capable of JPEG, TIFF, and RAW photos (see cons)
+3) Best macroing ability I noted in this class and price range.
+4) hot shoe
+5) chock full of features
+6) less noise than my S50 in similar photos at equivalent optical zooms ranges.
+7) Tons of accessories available
+8) Excellent LCD that can be flipped out and rotated
+9) 64MB memory buffer
+10) Excellent wide angle (28mm equivalent)
+11) good battery life
+12) uses EN-EL1 battery used in many of Nikon's Coolpix models
+13) Excellent handgrip
+14) Good color balance and reproduction although slight "cool" cast
+15) Smaller size than CoolPix 5000
+
+<b>Cons:</b>
+1) MRSP of $799!
+2) General softness of image compared to same shot taken with my S50.  Image seems slightly softer than shots taken with 5000 and 5700 CoolPix models as well.
+3) Only 16 MB Compact Flash card included in package
+4) Slow write times to Compact Flash
+5) use of continuous shot modes and movie modes lock up the camera as it writes to the Compact Flash card.  This can take up to several seconds!
+6) RAW mode not available yet... promised as a firmware update later this year
+7) The various connection ports are on various places on the camera protected by rubber covers.
+8) If you want lower resolution shots, the next available camera selection is 2 MP?! (1600x1200).  No inbetween setting available.
+9) Regardless of smaller size versus 5000 Coolpix, the 5400 is still a fairly big and bulky camera.
+10) Slightly off center tripod mount
+11) USB 1.1 port only... not USB 2.0 compliant
+
+</i><b>Where to start?</b>
+
+I guess you can call the CoolPix 5400 the true successor to the 5000 model while the 5700 seemed more like an extension of the 5000 mdoel.  Many of the features are a pure extension of the 5000 feature set and there are improvements over the 5000 model as well as a few setbacks.  The 5400 model is definitely more full featured than the 5000 and has several additional features over the 5700 model.  Lets start with a few basics.
+
+The 5400 is officially listed as a 5.2 MP camera with measurements of 4.3 x 2.9 x 2.7 inches and weighing 13.4 oz.  The 5400 shares many of the 5000 and 5700 body styling although the size is slightly different from the original 5000 model.  The 5400's body is composed of a jet black magnesium alloy (at least I think it's magnesium) that gives the camera some bulk (but in a good way) with a good right handed soft rubber grip.  The camera feels solid and steady in the hand.
+
+Starting at the bottom of the camera, you have the access to the battery compartment (within the handgrip) with a level lock and a slightly off center tripod mount.  The 5400 uses the same reliable EN-EL1 battery from previous Nikon CoolPix cameras (making it a somewhat easier to upgrade from a previous Nikon).  The off center tripod mount is a bit disappointing since that adds a bit of difficulty to panorama and stitch shots.
+
+The top of the camera contains the hot shoe, the command dial, the mode dial (which is new to the CoolPix 5xxx series cameras), an on/off switch around the shutter button, a flash setting button, white balance/microphone button, and the FUNC button (which didn't allow as much access to user settings as the FUNC button in Canon cameras).  The microphone for the camera is at the top of the camera.
+
+The right side of the camera (you're looking at the back of the 5400) contains a badly placed eyelet (for the camera strap) that lies just on top of where you would put your hand if you were gripping the camera, the door for the Compact Flash card (accepts type I and II cards), and the DC in port?!  Both the eyelet and the DC port are in bad spots... I like to use the DigiPower DPS-9000 Lithium Ion battery pack to lengthen my camera up time.  This battery pack attaches to the tripod mount and a cable runs from the battery pack to the DC port.  With this setup, handgrip area gets rather crowded and uncomfortable.  By the way, there is a rubber cover over the DC in port.
+
+The left side of the camera contains another eyelet, the USB port on the top left, and the A/V out on the bottom left.  Both are covered by rubber covers.  The speaker is also placed on this side.  Now, Nikon has never been particularly good with placement of their ports but the scattershot placement of the ports and the odd placement of the speaker is almost mindboggling.
+
+The back of the camera contains the optical viewfinder, the 1.5 inch (yes it's smaller than the 5000 and the 5700!) LCD that can be flipped out and rotated, the zoom rocker, the autoexposure/autofocus lock, menu button, quick view, autofocus selector button, monitor button, and the 4 way D-pay with central set/OK button.
+
+OK... have a good picture in your mind yet?  Good... time to move on.
+
+<b>How's the View?  Is it still good when I snap the shot?</b>
+
+Well, the LCD is the best way to frame your shots... that shows you more than 95% coverage of the shot you're taking.  Using the optical viewfinder leaves you guessing a bit... maybe 80% coverage.  However, this is typical for optical viewfinders in digital cameras.
+
+As for the pictures you take, that really depends on what you wanted the camera for.  I required a camera that I could take close up shots (which the 5400 does very well) while retaining a high level of sharpness without a severe alteration in color reproduction.  I am unsure why the 5400 performed worse in the sharpness quality versus my S50 and the older 5000 model (to a lesser degree).  Color reproduction is very good if you don't try to increase the sharpness too much.  You wondering what the camera was being used for?  Well... to document rashes, injuries, and physical ailments of patients in the hospital and office.  The S50 produced sharper photos than the 5400 although the 5400 had less noise/graininess to the photos than the S50's shots.  In this situtation, I was a bit disappointed in the 5400.  The Coolpix 5000 photos were also slightly sharper than the 5400 although I favored the color reproduction on the 5400 model.  I am unsure if the sharpness issue is due to the calculations used in the Nikon 5400 or the change to a slightly smaller CCD sensor from the 5000 and 5700 models (2/3 inch CCD in 5000 to 1/1.8 inch CCD in 5400).
+
+In other situations, the 5400 performed well.  Landscaping shots were particularly nice on the 5400 where sharpness was less of a factor and color reproduction more so.  Taking shots of the Manhatten skyline from Castle Point on the Hudson in Hoboken with a slight morning mist in the air produced fabulous shots.  The softer shot taken by the 5400 helped make a shot where the streaking sunlight across the Hudson river mixed with light morning mist to create a picture of a drowsy NYC skyline.  I couldn't capture the shot with that amount of character with my S50.
+
+The same with other photos... if I needed sharpness and very minute details the S50 was better than the 5400 but the 5400 inherent slight picture softness imbued many pictures with a character I couldn't quite reproduce with the S50.  It really depended on what you wanted in your shots.  Of note is that the 5400 also had less purple casting (fringing) than the S50 in photos (also called Chromatic Aberrations)
+
+One of the weak points of the 5400 was the built-in flash.  If you left the flash to automatic exposure, shots were often underexposed.  At first I thought there was a problem with the flash... then later that the flash was underpowered.  However, I noted that taking photos of friends in extremely low light situations came out better than with a streetlight or two in the nearby.  Shot were frequently underexposed with a reflective background.  Setting the flash exposure manually seemed to correct this problem for the most part.  Hmmm... maybe it wasn't the flash as much as the flash sensor... but you can get some odd results in low light/nighttime photos.
+
+Shots up to 8.5x11 borderless prints retained their details and image quality.  Overall, the quality of shots were good although minute details may have blurred out... photos still had a bit more detail than a high quality 4 MP camera.  However, if details were the key, the S50 was sharper than the 5400.
+
+Movie mode can be recorded at 640x480 at 15fps up to 70 sec, 320x240 at 15 fps up to 3 minutes, and a time-lapse movie mode (takes one at a set interval of time... i.e. 5400 takes one shot every 30 secs).  Time lapse mode does NOT record audio while taking the shots.  Movie mode is decent overall but the short movie times are rather limiting.  For most purposes, it will not replace a good old digital video camcorder.  Movie images were not as clean as Canon PowerShot S230 in my opinion.
+
+Continuous shot mode would be slightly slowed down if you used the LCD to preview shots.  However, the lack of propritary hardware (processor) like in Canon's latest cameras resulted in longer save times to the Compact Flash card.  The Continuous High mode took up to a minute to save the photos to the Compact Flash (CF) card.  For some reason continuously low took several minutes longer to save in some cases about 3 minutes at the highest photo settings and 7  minutes at 5MP Normal JPEG compression?  That was really odd.
+
+<b>Main Features?</b>
+
+This is going to be a long list...
+
+- 5.2 MP digital camera with 1/1.8 inch CCD and RGB color filter array
+- 4x optical zoom
+- f2.8-f4.6 lens (28-116mm equivalent in 35mm terms)
+- 20 step zoom (very smooth movement from telephoto to wide lens mode!)
+- minimum focus range of 50cm in normal shooting modes
+- minimum focus range of 1 cm in macro mode
+- supports TIFF and JPEG file format (RAW to be added via firmware update later this year)
+- 7 shooting and exposure modes which include auto, scene, program AE, Shutter Priority AE, Aperture Priority AE, Manual Exposure, and Movie mode
+- 15 scenes modes like portrait, landscape, close up, and sports.
+- auto ISO sensitivity mode.  manual ISO settings to 50, 100, 200, and 400.  No ISO 800 setting.
+- Best Shot Selector (2 modes)
+- multiple drive modes including single, continuous high, continuous low, multi-shot 16, continuous ultra high speed, and the 5 shot buffer mode.
+- 3 movie modes
+- 7 flash modes like auto and red-eye reduction
+- 9 white balance modes including auto, incandescent, and flourescent.  Many of the white balance modes can be fine tuned.
+- 4 metering modes
+- Adjustment of imaging parameters like sharpening, contrast, and saturation.
+- hot shoe and ability to add external flash units.  Ability to use the internal and external flash units simutaneously
+- flash compensation
+- optional wired remote
+- tons of accessories
+
+<b>Battery... Do they last?</b>
+
+The 5400 uses the same EN-EL1 battery used since the CoolPix 995 (that was the first time I was introduced to this battery model).  I actually used the same battery from that 995 model (now 1 3/4 years old and gone through plenty of recharge cycles).  That particular battery lasted about 225 shots with the LCD on and flash use for 1/4 of the photos taken at 5MP JPEG/Fine mode on a 512 Compact Flash card.  With the DPS-9000 Lithium-Ion external battery pack from DigiPower, I was able to take well over 1000 shots with power left in the battery (although I needed a second CF card).  The EN-EL1 battery is a bit different from the one found in the 5400 however.  They share the same shape and connections but the capacity is higher in the latest versions of the EN-EL1 battery.  The 995 EN-EL1 had a 650mAh capacity while the 5400 EN-EL1 had a 680mAh.  This should result in another 25 or more shots since my 995 EN-EL1 battery can be considered somewhat run down.
+
+<b>Accessories?</b>
+
+There are a ton of accessories for the 5400 out already or going to be released.  These include:
+
+* EN-EL1 battery packs
+* MC-EU1 Wired Remote
+* ES-E28 Slide Copy Adapter
+* TC-E15ED tele conversion lens
+* WC-E80 wide conversion lens
+* lens adapters UR-E9, UR-E10, and UR-E11
+
+I have to ask my opthalmology buddies whether older equipment that could attach to the CoolPix 995 can attach to other CoolPix models... although I don't see why not.
+
+<b>Image Quality and Sizes</b>
+
+Image resolution gives you the following choices:
+
+- 5MP (2592 x 1944)
+- 3:2 (2592 x 1728)
+- 2MP (1600 x 1200)
+- 1M (1280 x 960)
+- SVGA (1024 x 768)
+- VGA (640 x 480)
+
+Note that there is no option for 3 or 4 MegaPixel shots!
+
+Image Quality/Compression choices are:
+
+- TIFF/Hi Quality (minimal compression)
+- JPEG/Fine (low compression)
+- JPEG/Normal (normal compression)
+- JPEG/Basic (High compression)
+
+There currently is no RAW mode (no compression).  Nikon plans to add this feature via a firmware update later this year.
+
+As far a file sizes go, prepare to buy a much bigger CompactFlash (CF) card.  A shot at 5MP in TIFF/Hi Quality averages about 15 MB!  One shot in 5MP in JPEG/Fine Quality is around 2.5 MB.  A 5MP shot in JPEG/Normal averages 1MB.  A 5MP shot in JPEG/Basic is 400-600 MB.
+
+This means a 256MB CF card can hold around 100 shots at 5MP JPEG/Fine Quality mode.  You can store 12-16 shots in 5MP TIFF/Hi Quality mode on a 256MB CF card!  Couple this with a slow USB 1.1 connection from the camera.  If you took 24 shots at 5MP JPEG/Fine Quality, you're looking at 60 MB of information.  That takes about 15-20 minutes to transfer via the USB cable connection to your computer.  You're better off getting a dedicated USB card reader which will half the transfer time.  If you can get a USB 2.0 card reader (and your computer has and supports USB 2.0 ports), you can transfer the info in a minute or two.
+
+<b>What's in the Box?</b>
+
+The important stuff in the box includes:
+
+* the camera of course
+* EN-EL1 battery pack (latest version with 680mAh capacity)
+* MH-53 battery charger
+* puny 16MB CF card
+* neck strap
+* USB cable (USB 1.1 cable to USB mini-jack cable)
+* Video cable (A/V)
+* CD-ROM/software
+* A really thick user manual!
+
+<b>What do I need to buy?</b>
+
+First and foremost, you must buy a BIGGER COMPACT FLASH CARD.  16MB barely lets you take 6 photos at 5MP resolution at JPEG/Fine Quality mode!  You should get at least a 256MB card and if you can afford it, a 512MB CF card.  A 512CF card should run you $120-$250 range depending on the speed and warranty on the CF card.  These prices are before mail-in rebates!
+
+Another accessory that I feel is necessary is a USB flash card reader (that reads Compact Flash cards of course!).  It will save you a lot of headaches when transferring photos from your CF card to your computers.  As I said before, transferring directly using the camera takes a long time.  If your computer supports USB 2.0, get a USB 2.0 card reader... the transfer time will be really short.
+
+You may want to buy a second battery or an external battery pack to increase your camera up time.
+
+You may also want to buy a camera case to protect your $799 investment.
+
+<b>Competition?</b>
+
+The CoolPix 5400 is a good camera although it didn't fit the exact needs I wanted it for.
+
+The competition is pretty stiff and direct competitors includes:
+
+<a href="/content_104580419204">Canon PowerShot G5.  This epinion is by Howard_Creech who wrote a bang up review on it.</a>  
+<a href="/content_105723891332">Epinions member zlmajors also wrote a concise and complete review as well of the G5.</a>
+
+<a href="/content_106675080836">The Sony DSC-V1 5 MP 4x optical zoom.  I recently purchased one from J&R Computer World for $619 before ebates rebate.</a>
+
+Non-direct competitors but still 5MP cameras include:
+
+*<a href="/content_99194015364">The Canon PowerShot S50 5MP 3x optical zoom camera which I used as a comparison camera to the 5400.</a>
+
+*<a href="/content_72322616964">Nikon CoolPix 5700 5MP 8x optical zoom camera.</a>
+
+*<a href="/content_52956335748">Nikon CoolPix 5000 5MP 3x optical zoom camera.</a>
+
+*Sony F717 5MP 5x optical zoom camera
+
+*Minolta F300 5MP camera
+
+*Minolta Dimage 7(xi?) 5MP 4x optical zoom camera
+
+*Pentax Optio 550 5MP 3x optical zoom camera
+
+4 MegaPixel alternative cameras that produce wonderful shots as well!
+
+*<a href="/content_84748766852">Canon PowerShot S45 4MP 3x optical zoom full featured camera</a>
+
+*<a href="/content_94207643268">Canon PowerShot S400 compact 4MP 3x optical zoom camera (doesn't have as many features as the other 3 listed here)</a>
+
+*<a href="/content_70984109700">Nikon CoolPix 4500 4MP 4x optical zoom camera</a>
+
+*<a href="/content_77712494212">Nikon CoolPix 4300 4MP 3x optical zoom camera</a>
+
+Excellent 3MP starter camera:
+
+*<a href="/content_97228787332">Canon PowerShot A70 3MP 3x optical zoom full featured digital camera under $300!</a>
+
+<a href="/user-yusakugo/show_~View_Profile">If you like to read more camera reviews (or other electronic or computer hardware reviews) check my profile page</a>
+
+If you have questions email me instead of leaving comments... I may not get to comments in a reasonable time.
+
+Thanks for reading!
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

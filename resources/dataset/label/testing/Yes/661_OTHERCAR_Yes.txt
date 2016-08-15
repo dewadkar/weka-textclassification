@@ -1,0 +1,89 @@
+DOC>
+<DOCID> 661 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_NikonCoolpixx-Nikon_Coolpix_950 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-4E49-35F2B67-3789C70C-bd1 </URL>
+<TEXT>
+            
+
+
+
+
+The much hyped Nikon Coolpix 950 is finally becoming available to consumers after many online sites advertised for months, but couldn't deliver.  Advertised prices were as low as $723.00, but now have risen to around $900.00.
+
+I bought mine in St. Thomas in June for $899.00 and have no regrets.  The camera is smaller that I would have imagined, and features 2.1 million pixels for resolutions up to 1600 by 1200 pixels.  
+
+The 950 uses compact flash cards for memory, and an 8 MB card yields 32 &quot;basic&quot; shots, 16 &quot;normal&quot; shots, 8 &quot;fine&quot; shots or one &quot;Hi&quot; TIF at the highest resolution for print applications.  
+
+Using lower resolutions for internet or to produce slide shows for your computer will more than more than double the number of photos.  I use &quot;normal&quot; at 1024 by 768, and get 39 photos per 8 MB card.
+
+The camera offers the choice of fully automatic settings or manual control with priority setting for apeture or shutter.
+
+The built in flash is surprising good for such a tiny unit.  Red eye control is offered but could be better.  There are options for auto flash, no flash, red eye flash, forced flash for fill-in and slow flash to allow the ambient light to show.  A tripod is recommended for the later.
+
+There is also an optional flash bracket for external Nikon flash units.  The same features for the built in flash are available with the external units. Other flash units are not recommended
+
+There is a distance scale that will force the camera to focus on infinity or close-ups. Without accessory lenses, you can focus as close as 2 cm (0.8 in)
+
+The accessory lenses include a wide angle, a telephoto and a fisheye. Using the included IPIX software and a fisheye, you can get an astounding 360 degree photo by joining just two shots.  The IPIX view allows you to rotate and zoom.  There is a seam in the top of the photo, and an IPIX icon at the bottom that covers the tripod.
+
+&quot;HotShots&quot; by Pictureworks is also included and has many useful features including several &quot;quick fixes&quot; for redeye, contrast problems etc.  Since I have several photo and paint programs, I have not really put this software to the test. 
+
+Camera power is provided by four AA batteries, but using anything but NiMH is really not recommended.  The best Duracells will last only short time in this high draw device.  I am guessing that the NiMH last up to five times as long before needing a charge.
+
+Nikon should include or offer a rechargable battery pack or include the optional AC adaptor.  Using Alkaline batteries during the uploading process is indeed costly.
+ 
+Uploading is slow with the standard serial port connection. Options include a PC card adaptor and a Floppy adaptor for the memory cards, but I have not been able to find either so far to see if there is an improvement.
+
+The 2 inch LCD monitor on the back of the camera is the biggest power draw and can be turned off. An optical viewfinder zooms in and out so that you can frame your photos pretty well without the monitor.
+
+Specifications:
+
+Type: digital camera
+Recording modes: automatic (A-REC), custom (M-REC; offers monochrome mode and allows manual ad-justments to focus, shutter speed, aperture, sensitivity, white balance, metering, bright-ness, and contrast)
+Image sensor: high-density 1 / 2 &amp;#733; CCD
+Pixel count: effective pixel count 1.92 million pixels (1,600� 1,200 pixels), total pixel count 2.11 million pixels
+Image size: 1,600 � 1,200 (full), 1,024 �768 (XGA), 640 � 480 pixels (VGA)
+Lens: �3 zoom Nikkor aspherical glass lens containing nine multi-coated elements in seven groups, f=7.0mm�21.0mm with macro
+(35mm [135] format equivalent is 38mm�
+115mm), F2.6�F4.0; wide-angle, telephoto
+and fish-eye lens adapters (sold separately)
+can be attached
+Range: 30cm (11.8&amp;#733;)��; macro 2cm (at middle zoom position)�� (0.8&amp;#733;��)
+Focus modes: continuous autofocus (color LCD monitor on), single autofocus (color LCD monitor off or single autofocus selected from M-REC setup menu), manual (ten steps from 10cm/ 3.9&amp;#733;��)
+Modes: normal, forced �, macro Optical viewfinder: real-image optical zoom viewfinder with di-opter adjustment (-1�+2dpt.)
+Magnification: �0.44��1.2
+Field of view: approximately 85%
+LCD monitor * : 2&amp;#733; low-temperature polysilicon TFT LCD
+display with brightness adjustment
+Pixel count: 130,000 pixels
+Refresh rate: 30 frames per second
+Field of view: approximately 97% (approximately 100% in playback mode)
+Shutter: combined mechanical and charge-coupled elec-tronic shutter
+Speed: 8� 1 / 750 sec.
+Aperture: electromagnetically controlled
+Capture modes: single-shot, continuous (approximately 1.5 frames per second at full size), VGA se-quence (approx. 2fps), 16-shot
+Sensitivity: ISO 80 equivalent
+Exposure metering: three-mode TTL
+Modes: 256-element matrix, center-weighted, spot
+
+I am very pleased with this unit, and have taken hundreds on photos on our recent vacation.  The convenience of seeing the results immediately and having the chance to reshoot if necessary coupled with the ability to upload and manipulate the image within minutes of shooting it is fantastic.  
+
+To have the Nikon quality in a digital this reasonably priced makes it impossible to ignore, and for the moment, the best available in this price range.
+
+ <p>
+
+
+
+
+
+
+
+
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

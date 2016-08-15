@@ -1,0 +1,41 @@
+DOC>
+<DOCID> 23155 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Visioneer_MX230_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_102128848516 </URL>
+<TEXT>
+            This is a very good inexpensive camera. It is enough to get a novice started in digital photography. I have been using this camera for several months and wish to provide some additional incite into the camera. Here are some key specs/features: 
+
+
+2.0 Megapixel 
+
+3.0 SUPER Megapixel Mode (high-level interpolation) 
+
+SONY CCD Sensor 
+
+3X Zoom (3X Digital) 
+
+4 White Balance Settings (day, shade, tungsten, flourecent) 
+
+3 Focus Modes (Macro, Landscape, Portrait) 
+
+8MB built-in flash memory 
+
+Record 60 secs of video WITH audio (plays back with audio also!) 
+
+F/2.8 ~ F8 Lens 
+
+This camera takes excellent pictures. It's strong point is in full auto mode during the day. The optics and sensors though are not as "smart" at night. You can recover by taking control of some of the settings yourself and increasing the exposure value  /- 2EV by 1/3 (or .3) REALLY improves indoor photography. 
+
+Image capture is very forgiving and you can get good shots even moving slightly. (I once took crystal clear pictures of traffic with the camera balanced on the steering wheel while driving!) To optimize use of the focus modes you must "sync" the camera and lens but half pressing the shutter release after changing modes. (i.e. portrait (5-15ft.) to landscape (12ft-infinity) you must half press the shutter in order for the lens to "switch" from one mode to the other else all the subsequent pics will usually be out of focus. 
+
+Some operational shortcomings are that it uses Secure Digital memory cards which are typically more expensive then some of the others. The Zoom is 3X which is standard even on cameras with twice the MP, but this can be a handicap depending on what you tend to shoot. Moving the camera while "focus locking" will also cause the image sensor to completely lose the shot and you must focus lock once more to reacquire the subject. The last few things that can cause problems are that going from 'No Flash' to 'Auto' or 'Force' and from Macro/Landscape to Portrait will cause the camera to pause for 5 seconds while it "gets ready" for the next shot. This can cause you to miss an important shot but can be bypassed by preping the camera ahead of time. There is also no auto shutoff function so you can easily drain your batteries if you are not careful. 
+
+Battery life is decent and at least 1800mAh NiMH (Nickel-Metal Hydride) should be used for best performance. If Alkalines must be used the specially formulated high capacity alkalines are a must. If using all available power (flash, LCD, & Zoom) at the same time, the batteries will report no power and shut down the camera no matter what level the batteries are. However this is only due to the rapid discharge when shooting the max number of pics possible by the camera in a short span of time. Powering up the camera again will reveal the true level of power.(As far Alkalines go though Radio Shack ENERCELL's are good) and will typically give you 3-4 times the power of just a standard battery. 
+
+Note: This review also appears at BroadbandReports.com.  See here http://www.dslreports.com/faq/7293
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

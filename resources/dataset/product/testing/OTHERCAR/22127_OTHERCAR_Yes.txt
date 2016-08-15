@@ -1,0 +1,29 @@
+DOC>
+<DOCID> 22127 </DOCID>
+<PRODUCT> Digital_Cameras/Kodak_DC215_Zoom_Digital_Camera__Camera_185_3175 </PRODUCT>
+<URL> http://www.epinions.com/content_12919737988 </URL>
+<TEXT>
+            We purchased this camera to document the birth of our second daughter.  My primary use for this camera will be emailing photos etc.   I did not want a 640 x 480 camera, but I also did not want a Mega Megapixel camera.  The file sizes would be unmanageable, and the cost would be prohibitive.
+
+I selected the DC 215 based on the following items.
+
+- 2X Optical Zoom
+- Glass Optics (Not Plastic)
+- Price
+
+So far I couldn't be happier with the camera.  Overall indoor photo quality is excellent.  We are taking picures at maximum resolution with medium compression.  This produces a picture that is more than acceptable for email, and even reproduces well when printed out.
+
+We did purchase a 16 MB CF card.  This allows us to capture up to 80 pictures without running to the computer to download.
+
+Average file size using the setting above is approximately 200K.  This makes a great size for emailing.
+
+Due to the fact that the camera does not come with an AC adapter, I would strongly recommend the purchase of some sort of CF Card reader.  I chose a IDE Internal CF Card Reader Drive.  This reduced the download time for 8 pictures from 2:40 using the supplied serial cable to approximately 3 seconds using the IDE CF Drive.
+
+Using the above method, battery life is extended greatly.  I would even be willing to say that battery consumption is low. 
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

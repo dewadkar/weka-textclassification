@@ -1,0 +1,212 @@
+DOC>
+<DOCID> 25306 </DOCID>
+<PRODUCT> Digital_Cameras/Nikon_Coolpix_5700_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_70131814020 </URL>
+<TEXT>
+            Nikon&#146s R&D folks have been very busy designing new cameras; both digital and analog.  Over the past few months Nikon has introduced a new 35mm SLR (the N55) four new consumer level digital cameras (CP 2000, CP 2500, CP 4500, CP 5700) and a new feature rich and more affordable digital SLR (the D 100). 
+
+The Coolpix 5700 is the second generation of a new class of Nikon &#147bridge&#148 digital cameras designed to offer most of the benefits of a digital SLR at a price that is closer to prosumer digital point and shoot models. Nikon&#146s CP 5700 actually comes very close to being able to bridge the gap between digital point and shoot models and digital SLR&#146s.
+
+Nikon&#146s first &#147bridge&#148 camera was the Coolpix 5000, introduced late last year.  The CP 5700 is an updated version of the CP 5000 and with its huge 8X zoom, the CP 5700 looks rather like a Coolpix 5000 on steroids.  In addition to the strong family resemblance, the two cameras share five megapixel resolution, a similar layout and control placement, and the fully articulated tilt-swivel LCD (first seen on Canon&#146s Powershot Pro 70). However, do not allow appearances to deceive you, the CP 5700 is a profoundly different camera than its slightly older sibling.  Major changes include the CP 5700&#146s newly designed 8X zoom (the CP 5000 has a 3X zoom) lens and a new Electronic Viewfinder (the CP 5000 had a real image optical viewfinder). The CP 5700 is the second Coolpix to feature an Electronic Viewfinder (the first was on the entry level CP 2500) and the first Nikon digi-cam with an 8X zoom. 
+
+<b>FEATURES</b> 
+
+<b>Quick Review</b> allows users to check the last exposure or scroll through all the images on the memory card while still in record mode. 
+ 
+Digital Print Order Format <b>(DPOF)</b> and Epson Print Image Matching <b>(PIM)</b> compatible for printing images without a computer.
+
+<b>QVGA 320X240 Video clips with audio</b> @ 15fps (up to 60 seconds) 
+
+<b>Clear Image Mode</b> for highly accurate color, low noise, and a wide dynamic range in images shot at resolutions of 1280 x 960 and smaller.  Great for sharp colorful email images. 
+ 
+<b>Noise Reduction mode</b> The CP 5700 uses noise reduction technology based on dark frame subtraction.  During long exposures the camera shoots a second exposure with the shutter closed. An in-camera program superimposes the dark frame over the normal exposure, compares the two, and then subtracts visible noise from the first exposure.  Available as a menu option or automatically enabled on all exposures longer than � of a second.
+
+<b>Backlit LCD</b> info display on the camera's top deck 
+
+<b>Viewfinder/LCD</b> 
+
+The CP 5700&#146s Electronic Viewfinder (EVF) delivers images that are crisp and color accurate. The Monitor Select button allows users to switch back and forth between the EVF and LCD monitor displays. Using the Setup menu, photographers can select the default setting and choose to have either the EVF or LCD automatically activated at start up.
+
+Because it is almost impossible to construct an accurate real image optical viewfinder that will maintain optical integrity (brightness, sharp resolution, low distortion, etc) beyond about 4X, EVF&#146s are an unavoidable compromise in digital cameras with very long zooms.  The CP 5700&#146s EVF does a noticeably better than average job, but it's no match for a real image optical viewfinder. The CP 5700 provides a diopter adjustment for eyeglass wearers
+
+The CP 5700 features a 1.5" flip out LCD very similar to the version first seen on the Coolpix 5000. One of my first serious cameras was an ancient Rolleiflex TLR that featured waist level viewing.  I learned a lot about how to compose images using that dim image-reversed Rollei focusing screen.   The Coolpix 5700&#146s LCD monitor lifts and swivels 270 degrees from the rear of the camera for the most incredible waist level (handy for over-the-head shots in crowds, or ground-level macro shooting too) viewfinder ever.  An added benefit is the ability to flip the LCD around and face it in toward the back of the camera when not in use (which protects the screen from smudges and scratches).  Another  really nice touch  is the ability to adjust not only the LCD's brightness, but its color (hue) as well. A menu option allows users to bias the color towards either the blue or the red end of the spectrum
+
+<b>Exposure</b> 
+
+Select the fully-automatic Program AE mode, and the CP 5700 does everything, all the user has to do is frame the subject and push the shutter button.  The Flexible Program AE option allows more experienced photographers to choose from several equivalent exposures (choose a faster shutter speed for action or a smaller lens aperture for mood/detail).  For even more control, photographers can choose Aperture Priority (the user selects the f-stop and the camera selects the shutter speed) or Shutter Priority (the user selects the shutter speed and the camera chooses an appropriate f-stop) or full manual (users select both shutter speed and aperture).
+
+The Coolpix 5700 provides Exposure compensation  (-2 / +2 EV) in 1/3 f-stop increments in all exposure modes.  Auto Bracketing allows users to shoot three or five shots of the same subject with slightly different exposure values (determined by the photographer in Manual mode and by the camera in all other modes). Bracketed settings can be varied from -2 to +2 EV (and can be used with the exposure compensation feature) in one-third, one-half, or one EV units.  Bracketing can be biased toward underexposure, overexposure, or based on the meter selected setting.
+
+<b>White Balance</b>
+
+The CP 5700 provides users with seven white balance options: Auto, White Balance Preset, Fine (Outdoors), Incandescent, Fluorescent, Cloudy, and Speedlight (flash balanced). All white balance settings except Preset can be adjusted from -3 to +3 units on an arbitrary scale. There's also a White Balance Bracketing mode, which captures three images at slightly different white balance adjustments (slightly warm&#151normal&#151and slightly cold). 
+
+<b>Metering</b>
+
+Metering options include Nikon&#146s trademark 256-element matrix, center-weighted averaging, spot, and spot AF (spot metering based on one of the 5 AF areas----allowing metering and focus to be aligned on the single most important element----like the eyes in a portrait---of the composition)  
+
+<b>New 8X Zoom Nikkor</b> 
+
+The 8X Zoom-Nikkor f2.8-f4.2/35-280mm (35mm equivalent) lens is an all glass optic with two ED (extra low dispersion glass) elements and Nikon&#146s Super Integrated lens Coatings. The Lens extends to full telephoto in less than 2 seconds.
+
+<b>Auto Focus</b>
+
+The Coolpix 5700 utilizes Nikon's zone-based autofocus system. The camera automatically chooses between five autofocus zones (based on closest focus priority) or the photographer can select any one of the five focus zones manually. The EVF display highlights the selected AF zone in red.
+
+<b>Manual Focus</b>
+
+The CP 5700&#146s manual focusing distance scale is confusing since it does not use actual distances but it is helpful that the display turns red if the user tries to focus closer than the minimum focusing distance for the focal length set. Nikon also provides a nifty new focus confirmation option.  The camera kicks the LCD&#146s apparent sharpness/detail up significantly making objects &#147snap&#148 into sharp focus like they would with an SLR.  This option can be enabled full time (which is a great idea).  It almost makes the EVF a bit more acceptable.  Kudos to Nikon for some innovative engineering on this exclusive feature. 
+
+<b>Macro Focus</b> 
+
+Macro mode allows the CP 5700 to focus as close as 1.2&#148 from the subject. Like the rest of the Coolpix line, the CP 5700 is an excellent macro performer, more than capable of stunning bug/butterfly/flower close-ups.
+
+<b>Flash</b>
+
+The Coolpix 5700 features a built-in, pop-up flash with five modes: Auto, Flash off, Fill Flash, Red-Eye Reduction, and Slow-Sync. The top-mounted hot shoe permits the use of more powerful external Nikon dedicated flash units (SB-80DX, 50 DX, 28DX, 28, 27, 26, 25, 24, 23, and 22s), or third-party flash units may be used.   Strangely, the zooming flash-head function on Nikon Speedlights does not function with the CP 5700 (you can still zoom the flash head manually) and there is no focus assist beam.
+
+<b>Power</b>
+
+The Coolpix 5700 runs on one rechargeable EN-EL1 lithium-ion battery pack in the cameras hand grip, or an optional AC adapter, or in a pinch, you can use one 6V 2CR5/DL245 lithium battery (or six AA batteries via an optional external Power Pack) 
+
+Overall, the Coolpix 5700 is a bit more power-hungry than the Coolpix 5000, probably due to the extra battery drain from the EVF.  Nikon claims 90 minutes of extended usage, but my experience was more like 70-80 minutes for a freshly charged battery.  Plan to buy at least one additional battery. 
+
+<b>Controls, Design,  & Ergonomics</b>  
+
+The Coolpix 5700's user interface is very similar to the CP 5000's, however Nikon listened to consumer complaints about the CP 5000&#146s menu system, and the new CP 5700 features  simplified operation allowing users to make virtually all standard exposure adjustments without using the LCD screen.  Operation is quick, simple, and intuitive.  Ergonomics are superb, the CP 5700 is well balanced and all controls come easily to hand.
+
+<b>Creative Photography Options</b>  
+
+Nikon&#146s exclusive <b>Best Shot Selector (BSS)</b> will capture a series of images of the same subject in rapid succession, and then select the sharpest example to be saved to the CF card.  This is a really useful feature in a camera with an 8X zoom and no image stabilization.  The camera can be handheld for action sequences at maximum zoom extension with at least some hope of getting a sharp image. 
+
+Another exclusive Nikon feature is the <b>Image Adjustment</b> menu. This allows photographers to increase or decrease contrast and lighten or darken the image. This is a neat creative feature because it permits photographers to adjust mid tone values without blowing-out white areas, or lightening black areas. 
+
+<b>Saturation Control</b> allows users to control the degree (Maximum, Normal, Moderate, Minimum, and Black & White) of color saturation 
+
+<b>Technical Specifications</b> 
+
+Resolution: 5 megapixels (2560 x 1920)
+Lens 8x Zoom-Nikkor lens f2.8-4.2/3 5-280mm (35mm equivalent) 14 elements in 10 groups; all glass (with 2 ED elements) Nikon&#146s Super Integrated Coating (SIC) and 7-blade iris diaphragm 
+Autofocus: CD-TTL 5-area Multi AF or Spot AF 
+Manual Focus: From 1.4 in. to infinity with focus confirmation 
+Viewfinder: Electronic viewfinder (EVF) coverage 97% (100% in play) and diopter adjustment
+LCD: Fully articulating, 1.5&#148 TFT LCD w/adjustable brightness & hue adjustment
+File Format: TIFF-RGB (uncompressed), JPEG or NEF raw 
+Image Storage: CompactFlash Type I & II (Supports IBM MicroDrives)
+Metering: 4-mode TTL (256-segment Matrix, Center-Weighted, Spot, and Spot AF Area)
+Shutter Speeds: 8 seconds to 1/4,000th of a second plus Bulb (max 5 minutes)
+Exposure Modes: Programmed Auto (with Shift), Shutter-Priority, Aperture-Priority and Full Manual
+Auto Bracketing: Yes (3-5) +2/-2 EV in 1/3 EV steps
+Exposure Compensation: Yes +2/-2 EV in 1/3 EV steps
+White Balance: Matrix Auto White Balance with TTL control, 5-mode Manual (Fine, Incandescent, Fluorescent, Cloudy, Speedlight), Custom Preset, and White balance bracketing
+Sensitivity: Auto 100, 200, 400, 800 (ISO equivalent)
+Flash: Built-in Multi Mode:  Auto,  Flash Cancel, Fill Flash, Slow Sync, and Red-Eye Reduction) with hot shoe support for external Nikon Speedlights (SB-80DX, SB-50DX, SB-28DX, SB-27, SB-26, SB-25, SB-24, SB-23, and SB-22s)
+Connectivity: USB
+Power: 1 Nikon EN-EL1 lithium rechargeable (Battery life Approx. 90 mins.) or 1 2CR5/DL245 lithium
+Noise Reduction: Yes automatic on long exposures
+Clear Image Mode for highly accurate color, low noise, smooth edges and wide dynamic range images at resolutions of 1280 x 960 and below.
+
+MSRP--$1499.00  Street Price Range---$949.00--$1299.00
+ 
+<b>Included</b> 
+
+32Mb CF card
+Lens cap 
+Neck strap 
+A/V cable 
+USB cable 
+Rechargeable Li-Ion Battery (EN-EL1) 
+Battery Charger MH-51 
+Software CD 
+
+<b>Optional</b> 
+
+Wideangle Converter (WC-E80), Telephoto Converter (TC-E15ED), Step Down Ring Lens Adapter (UR-E8), Lens hood (HN-E5700), Battery pack (MB-E5700), AC Adapter (EH-53), Remote Cord (MC-EU1) Nikon (MB-E5700) battery pack/handgrip with 6 x 1.5v (AA) batteries. Optional Nikon (EH-21) AC adapter, and Nikon Capture 3 a high performance image and control software package that provides dedicated imaging tools, including RAW data processing.
+
+<b>In the Field/Handling & Operation</b> 
+
+My friend (who sells new and used digital and film photographic equipment) and I got together in the early afternoon on a gray and cloudy Saturday to check out Nikon&#146s new CP 5700.  I would have much preferred a nicer day but we only had the loan of the camera for one weekend.  My friend had decided that we would attend the <b> Old Fashioned Ice Cream Social at Riverside</b>  (the Farnsley-Moremen Landing). Since  I had chosen the locale of our last outing (Bernheim Forest) it was my friend&#146s turn to choose where we spent the day playing with Nikon&#146s newest digital camera.
+
+The <b>Farnsley-Moremen House</b> stands on a gentle slope overlooking the Ohio River, about ten miles south of Downtown Louisville.  The Federal style house was built in 1837 and for many years was the headquarters of the largest farm in Jefferson County.  For more than seventy years Steamboats stopped at the Farnsley-Moremen landing to pick up and discharge passengers and load and off-load cargo. The landing was also home to a ferry that operated between the Kentucky and Indiana sides of the Ohio River.  The family sold the historic property to Jefferson County in 1988.
+
+My friend felt that a kid friendly event would be a good place to test the camera.  Even though the weather was pretty grisly, we were able to shoot pictures of kids riding ponies, kids playing games, and kids eating ice cream.  After a couple of hours we left to run some tests and check the CP 5700&#146s color accuracy. We always use a home-made macro stage (a large cardboard box with the top and front panel cut away) lined with white photographic background paper. We white balance the camera using the white background paper and then shoot a selection of brightly colored (red, blue, green, and yellow) plastic children&#146s beach toys with the tripod mounted camera and a very simple overhead soft box studio lighting set-up. The CP 5700&#146s color accuracy is excellent, although both of us thought the reds were just a bit &#147hot&#148 and the greens just a little dull. Color was fairly neutral, although not quite as neutral as the CP 4500 we tested recently.  The CP 5700&#146s color was bright, vibrant, and well saturated, but not overly so.
+
+Sunday morning the weather was much better with blue skies, wispy white clouds, diffused lighting, and temperatures in the low 80&#146s.  We returned to Riverside to shoot more images of kids having fun, some close up and architectural details of the house, a few landscapes shots from the landing of the forested Indiana side of the Ohio River, and some neat shots of the &#147Spirit of Jefferson&#148 (a brightly colored excursion boat designed to look like an old steamboat) at the landing.  
+
+From Riverside we drove to nearby Dixie Highway to shoot an old abandoned and rusted out International pick up truck from the early fifties.  We&#146ve both shot the old truck several times before, but this particular Sunday conditions were almost perfect.  The old truck sits on the high side of an empty field surrounded by tall sere prairie grass. The battered rusty old truck was backdropped by a beautiful blue sky and gorgeous white clouds.  The afternoon lighting was excellent and we were able to shoot some images that looked like they were shot out in the middle of nowhere in Montana or Idaho, rather than just off a major highway ten miles from Louisville, Kentucky.  
+
+<b>Shutter Lag/Start-up-Cycle/Write to Card Times</b> 
+
+The CP 5700 is pretty fast in operation with shutter lag times that are just a bit faster than the CP 5000. If you pre-focus, there is virtually no shutter lag.  Cycle times are very quick for up to eight shots (until the buffer is full).  Write to card times are pretty quick except for TIFF files (about 20 seconds).  The 5700 is especially quick with shot to shot cycle times.  Overall, slightly quicker than the CP 5000.
+
+<b>Image Quality</b> 
+
+The CP 5700&#146s resolution is excellent, exactly what you would expect from a five megapixel digital camera.  Skin tones are very good and color nuances are sufficiently subtle to clearly distinguish between Hispanic, Caucasian, and Asian complexions with no tonal inaccuracies observed.  Noise and chromatic aberrations (purple fringing) are very well controlled.  
+
+Superb 8X10 enlargements are easy, very good 11X14 enlargements are a realistic option, and decent 16X20 custom enlargements are within the realm of the possible (as long as cost is not a concern) overall print quality with the CP 5700 is on rough parity with ISO 100 color print film.  The CP 5700&#146s images lack the snap of slow speed color slide film prints or prints from fine grain monochrome negatives, but the image quality gap between digital and traditional silver based film images appears to be closing rapidly.
+ 
+<b>A Few Concerns</b> 
+
+Electronic viewfinders are cheaper to make than optical viewfinders, especially with long zooms, which is why Nikon and other manufacturers are moving toward electronic viewfinders.  EVF have a primary problem, they don&#146t do a very good job of helping photographers compose an image.  EVF&#146s are actually a redundant (and much smaller) LCD screen, which doesn&#146t provide any real information about depth of focus, contrast, or real world color balance or dynamic range.
+
+<b>Conclusion</b> 
+
+Competition drives the high technology business and the struggle between Nikon and Canon to dominate the digital camera market has been very good for consumers.  Each new model introduced by the two major players in this competitive drama provides more features, better ergonomics, enhanced image quality, improved usability, and lower prices. Whatever Nikon and Canon do, most other manufacturers quickly mimic, and generally at a lower price. 
+
+The Coolpix 5700 has the potential to be the most useful &#147prosumer&#148 digital camera to date.  With its groundbreaking features, fantastic resolution, first rate usability, modular system capabilities, and 8X zoom the CP 5700 will provide most photographers with everything they need to create exceptional images.  There is no such thing as a perfect camera (digital or analog) but the CP 5700 takes us a bit closer to that elusive goal.  For the thousands of serious photographers and part time pros who want a digital SLR but can&#146t afford the $3000.00 to $6000.00 cost of buying into a Nikon or Canon digital SLR system, the CP 5700 provides a serious, very capable, and affordable alternative.
+
+
+<b>Riverside, the Farnsley-Moremen Landing</b>------call  (502) 935-6809 for information about hours, tours, and fees.  From downtown Louisville, take I-65 South to the Gene Snyder Freeway, then follow the Gene Snyder westbound until the freeway ends just before Riverport.  Watch for the flashing yellow caution light and turn left onto Lower River Road.  Riverside will be on your right, just watch for the sign.
+ 
+Are you considering spreading your imaging wings and setting up a home digital darkroom? Check out my reviews of a pair of bargain priced and very capable photo quality ink-jet printers. 
+
+<b>Epson Stylus Photo 785 EPX</b> ink-jet printer 
+<a href='/content_60776812164'>http://www.epinions.com/content_60776812164</a> 
+
+For definitive advice on <b>How to Choose a Digital Camera</b> see my review: 
+<a href='/elec-review-2E46-17B174E2-39A418E3-prod1'>http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+For more information about specific Digital Camera models you may find my Digital Camera reviews informative: 
+
+<b>Nikon Digital Cameras</b> 
+
+Nikon Coolpix 4500
+<a href='/content_69311368836'>http://www.epinions.com/content_69311368836</a>
+
+Nikon Coolpix 2500 
+<a href='/content_65176440452'>http://www.epinions.com/content_65176440452</a> 
+
+Nikon Coolpix 5000 
+<a href='/content_52720406148'>http://www.epinions.com/content_52720406148</a> 
+
+Nikon Coolpix 885 
+<a href='/content_46290931332'>http://www.epinions.com/content_46290931332</a> 
+
+Nikon Coolpix 995 
+<a href='/content_40256769668'>http://www.epinions.com/content_40256769668</a> 
+
+Nikon D1X 
+<a href='/content_36023996036'>http://www.epinions.com/content_36023996036</a> 
+
+Just &#147cut&#146n&#146paste&#148 the URL into your browser&#146s address window. 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

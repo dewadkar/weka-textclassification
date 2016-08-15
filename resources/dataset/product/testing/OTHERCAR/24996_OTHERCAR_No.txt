@@ -1,0 +1,42 @@
+DOC>
+<DOCID> 24996 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_RicohRDCC-Ricoh_RDC-300 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-153F-E62B2B6-382F88AD-bd4 </URL>
+<TEXT>
+            I bought the Ricoh RDC 300 two years ago.  Primarily I bought it because it was the cheapest digital camera I could find with 4 megs of RAM.  Many others at the same price range had only 2 megs, or else they had lower resolution.  I'm happy to report that the camera has held up fine thus far, even surviving a trip to the Galapagos Islands, not to mention abuse from all the people who had to try it out, not having seen a digital camera before.
+
+<b>First, the bad stuff. </b>
+
+1) The camera does not have a regular viewport that you look (squint) through.  The only way to aim the thing is to look at the little video screen.  In a way, this is good because what you see is really what you get, but it can be kind of awkward to hold, and sometimes the subject is just to small to see on the screen.  Also, this screen tends to eat up a lot of battery very quickly.  If I were looking for a camera today, I'd make sure it had a regular lens to look through, like a traditional camera, and even better would be an option to turn off the screen.
+
+2) There is no zoom.  This means the camera is best suited for parties and other things where you can manually zoom, eg walk forward or backward.  It does not work very well for photographing wildlife or other natural objects.
+
+3) This camera is not TWAIN compliant.  It comes with its own proprietary upload software.  This is a major drawback because it makes it harder to use with [insert your favorite photo editing package here].  You must first upload the image, save it, then import it into your photo package of choice.
+
+4) Serial interface to the computer is slow.  I find uploading and manipulation of photos to be a slow, tedious process. Today, I would look for a camera that supports both USB and serial interfaces.
+
+5) The software provided for Image organization is, at best, not well thought out.  For example, all the images are stored in one directory, and there is no way to delete them except through the file system.  You can remove the image from an &quot;album&quot; but the actual file lives on.  I advise the potential buyer to test-drive the software before making a purchase decision, as this is where much of your time will be spent.  At least if your camera is twain compliant (see above), you have more options.
+
+<b>Now, the good stuff:</b>
+
+1) The image quality is pretty good, at least for this resolution (640x480).  That was another reason I chose the camera.
+
+2) It's a lot cheaper than paying for film and film processing.
+
+3) You can instantly preview the image you've just taken, and even delete it on the spot if you don't like it.
+
+4) Image compression is adjustable (3 levels) so you can take 100 pictures at lower quality, 50 at medium, or 25 at highest.
+
+5) It is pretty small and easy to carry.  Comes with a nice leather-like pouch.
+
+6) Brain-dead simple to take pictures with.
+
+<b>Overall:</b>
+
+Given the age of this camera and the drawbacks, I'd take a hard look at alternatives.  In fact, I'd be kind of surprised if they are still selling it.<br><br>
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

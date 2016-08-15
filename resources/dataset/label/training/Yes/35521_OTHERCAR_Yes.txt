@@ -1,0 +1,68 @@
+DOC>
+<DOCID> 35521 </DOCID>
+<PRODUCT> Digital_Cameras/Kodak_Easy_Share_DX3900_Digital_Camera_Outfit__U___Camera_DX3900 </PRODUCT>
+<URL> http://www.epinions.com/content_76686855812 </URL>
+<TEXT>
+            My first digital camera was a 1 megapixel (MP) Kodak DC215 - a nice metal camera. Sadly, most consumer level cameras these days are made out of plastic (which is why I didn't cite that as a con for this review.) I decided it was time to get a higher resolution camera, and again ended up with what I consider to be one of the best brands out there - Kodak.
+
+<b>The hunt:</b> I began my search by looking at several camera review websites, such as Digital Photography Review (www.dpreview.com) and Megapixel.net. Megapixel.net was especially useful, since they rate each camera according to ergonomics, characteristics and image quality. Also provided are test photos of each camera in action.
+
+After viewing several different brands, I did gravitate towards Kodak, because their test photos had vibrant colors and looked good on screen. I later visited Best Buy to actually try the cameras in person, and decided that the DX3900 would be appropriate for my needs and budget (I didn't need a 4 MP camera in the DX4900.)
+
+<b>Handling:</b> The DX3900 has a nice, solid feel to it, even though it's made out of plastic. The right hand grip has a thin strip of rubber to anchor your fingers against, and it curves the hand naturally around the camera. Gripping the left side on top and bottom with thumb and forefingers to steady the camera feels fine as well, even though there are no specific "grips" molded on that side.
+
+<b>Controls:</b> On top of the DX3900, you will find three almond slice buttons: the flash control (auto, always flash, red eye, and off), a Close-Up/Distant toggle button, and a 10 second auto timer. 
+
+There is also a mode dial on top with three settings:
+
+<b>Capture mode:</b> Take photos, and change picture-taking options (ISO speed, picture quality, exposure settings, etc.)
+
+<b>Review mode:</b> View and work with your pictures on the LCD screen.
+
+<b>Setup mode:</b> Customize camera functions (power save, digital zoom on/off, date/time set, format card, etc.)
+
+<b>Features:</b> The Kodak DX3900 is a 3.1 Megapixel camera, with maximum resolution of 2160x1440 pixels, and a minimum resolution (at .8 megapixels) of 1080x720 pixels. It has a very usable 2x optical zoom, USB interface, and the camera comes with a nearly useless 8 meg CompactFlash card (Only about 7 photos can be taken at the highest resolution.)
+
+The DX3900 also comes with a built in lens cap, which opens when you turn the camera on, and closes when you power it down. This is an excellent feature, as my old DC215 had a regular lens cap that always fell off after I had owned it for about a year.
+
+The included 1.5 inch LCD screen is adequate for viewing photos, but sometimes the images can look "pinched". You can, however, zoom each picture 2x <i>and</i> as much as 4x, to clearly see the details of each photo.
+
+<b>Power supply:</b> The DX3900 runs on 2 AA batteries, but don't even consider using alkalines; they'll run down very quickly. Kodak recommends using either a Kodak brand lithium battery pack (model KCRV3), or NiMH rechargeable batteries.
+
+After shooting around 250 shots with the included Kodak KCRV3 lithium pack (non-rechargeable), I went ahead and purchased two Kodak NiMH rechargeable battery packs for my upcoming trip to Singapore. So far, they seem to last almost as long as the lithium battery.
+
+<b>Some battery saving tips:</b> I got as many shots from those batteries as I did by not using certain functions, and limiting others:
+
+<b>1.</b> I <b><i>never</i></b> use the preview function (using the LCD screen to frame your picture); this wastes a <b>lot</b> of battery power.
+
+<b>2.</b> I try to limit the use of my flash unless necessary.
+
+<b>3.</b> I limit the time I spend reviewing recently taken photos. If it looks good on the LCD, it will probably look even better on the computer screen.
+
+<b>Optional docking station:</b> I also purchased the Kodak Dock, which not only recharges your Kodak NiMH battery packs, but also allows you to transfer photos to your computer with the touch of a button. As much as I liked the "one touch transfer" idea, the included software has a slightly awkward interface for manipulating the photos.
+
+I prefer to put the memory card into my SanDisk card reader and copy the photos onto my hard drive manually, then edit them in Photoshop. At least the dock still keeps my batteries charged up for me.
+
+<b>Real world results:</b> After owning this camera for several months now, I have found that my first impressions of the website test images were correct. My images are clear with vibrant colors, and the <b><i>details</i></b> this camera shows are amazing, especially when taking photos at maximum resolution (3.1 MP.) I never take lower resolution shots anymore - <b>that's</b> how good these images turn out to be.
+
+<b><i>Update 12/17/02:</i></b> I returned from Singapore a little over a week ago, and have had time to see how the photos came out.
+
+The daytime shots were excellent, but I was somewhat disappointed with the night shots. I had a great shot of the city at night, with the shutter speed and ISO both set to auto - too dark. I changed the ISO setting to 400 (as that's better in low light) and tried again. No noticeable difference. I tried a time lapse exposure of 2-3 seconds...a little better, but the photo ended up blurred because I didn't have a tripod.
+
+Other close up photos of people came out well, and even those could be brightened up a bit. For this purpose, I found an <i>excellent</i> program called DCE - Digital Camera Enhancer. It automatically brightens the photo, reduces the "graininess" or "noise", and generally makes the pic look great. It worked well on some indoor shots as well.
+
+You can get DCE (free version) here: http://www.mediachance.com/digicam/enhancer.htm
+
+I still highly recommend this camera, but just realize that it <i>does</i> have limitations when taking night photos.
+
+<b>To sum up...:</b> I would recommend the Kodak DX3900 to anyone looking for a moderately priced digital camera. It is easy enough for first time digital camera owners, but does have a few intermediate functions available for those who want to adjust the ISO speed, exposure settings, or shutter speed.
+
+Kodak has once again made a camera which lives up to its great reputation.
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

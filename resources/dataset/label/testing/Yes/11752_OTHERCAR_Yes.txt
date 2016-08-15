@@ -1,0 +1,58 @@
+DOC>
+<DOCID> 11752 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Kodak_DC3200 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-1210-394BBB2E-3A501247-prod5 </URL>
+<TEXT>
+            Someone at Kodak must have said, "How can we sell a decent digital camera for less than 200 bucks?" The DC3200 was their answer to that question.
+
+Clearly such a camera will be a fixed focus camera, but the color LCD screen is a very nice surprise at this price point.  The main purpose of the screen is not so much to frame your pictures (you use the optical viewfinder for that) but to give a place for you to interact with the camera via a system of menus.  These menus let you adjust various settings on the camera to gain far greater control over your photography than would be possible with only buttons.  You can also use the display to review pictures stored in the memory, deleting "bad" ones if required.
+
+The things that make this camera a bargain are:
+
+1) 2 million bytes of internal memory.
+2) color LCD display
+3) socket for memory card
+4) Serial PC connection cable (nothing for Macs) 
+5) Decent software
+6) Built in flash which can be set to always on ("fill"), off, or automatic
+7) 2x electronic zoom 
+
+The things you don't get, but wish you did are:
+
+1) A lens cap (available from Kodak at extra cost)
+2) A memory card (available from Kodak at extra cost)
+3) A tripod socket 
+4) A self timer
+5) A camera case
+
+To use the camera one selects the desired picture quality, frames the picture in the view finder, and depresses the shutter.  Unlike a mechanical camera, this camera (like all low end units) will pause for a second or so before it takes the picture.  It's hard to sneak up on people with this camera. 
+
+The key concept to grasp when using this camera is that of "picture quality".  The camera has three quality settings:
+
+good - The internal memory can hold about 15 pictures 
+better - The internal memory can hold about 10 pictures
+best - The internal memory can hold about 6 pictures
+
+The actual memory required varies depending on subject.  In general, the more detailed and colorful the subject, the more memory will be required for the digital photo.  I would not recommend that you use this camera if you hope to make enlargement prints.  I notice that even in "best" mode that any attempt to enlarge the print will display artifacting.
+
+The lens is very wide angle, equivalent to a 35mm lens on a standard film camera. In the "good" mode you can select 2x electronic zoom to obtain a field of view that resembles that of a 50mm film SLR lens.  I take most of my pictures in this mode, since it avoids the "tiny little people" effect of the basic lens.  This camera is optimized for subjects 5 to 8 feet away.
+
+You don't have to have a memory card, the camera has 2 megs of internal memory.  I've had the camera only a week and already I'm saving for a memory card.  The alternative is lug a laptop around with you if you plan to take many pictures.  The DC3200 requires "CompactFlash" memory cards.  Best Buy has a 16M card for $50 that ought to work.  A 16M card will hold about 114 "good" pictures, or 39 "best" pictures.  There is a picture card FAQ on the Kodak web page which talks about problems with memory cards of 128M or larger, so I'd stay away from the very large cards.  
+
+The camera uses 4 'AA' batteries and can be powered by an optional 7v power pack.  
+
+Once you've taken your pictures, you need to get them out of the camera.  The camera includes two programs. 
+
+One program is called "DC3200" and is used to download files from the camera to a PC.  It's a straight forward little program that copies thumbnail images from the camera over the serial cable and displays them in a "slide tray".  To copy the full image, just double click the "slide".  
+
+Kodak also sells a USB memory card reader that will transfer files from a memory card to your computer at high speed.  Since the internal memory takes a "good long time" (as we say in Texas) to download pictures from the camera to your PC over the serial connection, you'll wish for one of these.
+
+Once you've copied the images from the camera to your computer, you can use the "Kodak Pictures Now" software to edit them.  This program is a very simple but effective program that lets you edit your pictures.  The primary functions of the program are trim, enhance, redeye correction, email, brightness, black & white, and sepia.  It's not Photoshop, but it's great for simple adjustments to snapshots.  My only complaint with it is that it has a full screen cutsey Macromedia Flash interface instead of a standard windows interface.  It has a long winded splash screen, and also a long "shutdown" screen that shows the Macromedia and Kodak logos. I guess I'm just old fashioned, but I'd just as soon stick to the windows standard user-interface.
+
+Kodak has an excellent web page that includes the full user's manual for this and all their other cameras.  Before you buy, read the manual and think about the compromises that were made to bring this unit in under $200.  If you can live with these, then buy all means go buy a DC3200 and join the digital photography revolution.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

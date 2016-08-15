@@ -1,0 +1,32 @@
+DOC>
+<DOCID> 2980 </DOCID>
+<PRODUCT> Digital_Cameras/Kodak_EasyShare_LS443_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_109801082500 </URL>
+<TEXT>
+            Latest: I received another refurb and it seems to work great! Kudos to Kodak's support for their promptness. TigerDirect promised me the camera before I went on vacation but were two days late. The agent tried to push their extended warranty on me before he even dealt with the problem. Despite these things, I'm happy that I finally got a good working camera. The only negative thing I noticed so far is the high compression level of the JPGs which cannot be changed. Kodak's tech said the option to change compression levels will not be available with newer firmwares. It results in blurry details when you zoom in with any photo editor.
+
+Original Review: I bought this camera from reading many reviews and because of its attractive price. All I was looking for was a camera that took great pictures and all the reviews I read confirmed this.  The rest, like the Variogon lens, were bonuses.
+
+After unpacking the box it was very easy to get started. I'm pretty tech savvy and consider myself a technogeek (I'm probably the only guy who cares about the fabrication processes of computer processors). And, yes, I have taken thousands of digital pictures and numerous hours of video and produce my own DVDs, SVCDs, VCDs and tapes from a combination of still and moving pictures. 
+
+I took about 15 pictures right away of my bedroom and my baby daughter. After transferring the pics to my computer I was shocked that only one of them was in focus.  Two were very marginally acceptable and the rest were garbage (we're talking so blurry you couldn't tell what was in the picture)! Many thoughts went through my head at this point, but I dismissed them thinking the settings were wrong.
+
+I proceeded to methodically isolate the problem by mounting it on a tripod and changing one setting at a time, while taking the same picture over and over again.  No luck. After probably a hundred pictures I gave up and contacted Kodak via email. They haven't returned a reply yet. I'm hoping they can fix it with a firmware upgrade, but I have my doubts.
+
+On auto settings, and holding it in my hands as opposed to mounting it on a tripod, I should be able to get at least 50% decent shots. But it's more like 1 out of 10 are okay, and 1 out of 30 are sharp! I even took a picture of my house on a bright day (as close to optimal conditions as you can get) and it couldn't focus worth beans. My car was in front of my house and I couldn't even read my license plate from the picture! I was approximately 20-25 feet from my house. I took a shot of my neighbor's house across the street (approximately 60-70 feet away) and the only shot that was decent had the landscape setting on. By decent I mean you can tell what kind of car he has; the others are just blotches of color.
+
+I've used several digicams and I could say with certainty that this one is the worst. Among the cameras I've used are the Canon A20, S400, and S45, and my Sony 1.5MP camcorder, which I use as my reference. Maybe having a Zeiss Vario-Sonnar and a good CCD in my TRV30 have spoiled me (not to mention great AF). 
+
+The software is good for novices, I suppose. But be aware that it comes with something akin to spyware, which my firewall constantly warns me of (Backweb is listed under Ad Aware's and Spybot's definitions for spyware). You don't need to load it because Windows XP and 2000 will reconize the camera and allow you to transfer files directly. As far as editing is concerned, you can get a slew of freeware picture editors or some old version of Paint Shop Pro that is way better than Kodak's program. Just be aware that if the original photo is framed properly and shot accurately you will need very little in terms of post editing.
+
+Thus, the Easyshare dock is really only useful for recharging the battery, which I think Kodak should have built in to the camera. If you take the LS443 on Vacation and have only one or two batteries, you will have to take the dock with you to recharge your batteries.
+
+I'll update this soon with Kodak's response, or lack thereof. I sincerely hope that my lemon can be fixed!
+
+
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

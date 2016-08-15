@@ -1,0 +1,14 @@
+DOC>
+<DOCID> 548 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Hyundai_Accent </PRODUCT>
+<URL> http://www.epinions.com/auto-review-17C7-609B3AE-38DA52D5-prod5 </URL>
+<TEXT>
+            Economy cars once resembled shoe boxes, had a stiff ride and slow, noisy acceleration. The 1980s Hyundais were such cars, but that's history. Even Hyundai's 1998 entry-level Accent looks slick and is fairly sophisticated. Its all-independent suspension provides a decent ride, and acceleration generally is lively. A fair amount of tire and road noise is noticeable with the radio off, but the Accent's surpisingly roomy interior is pretty quiet.  Even the car's four-cylinder engine doesn't get too loud when pushed hard, thanks to noise-reducing roller-type rocker arms and needle bearings that minimize engine friction and noise. The 1998 Accent coupes have been slightly restyled at the front and rear for a sleeker appearance, and the sedan gets a new hood, trunk lid and headlights. Noise and vibration have been reduced from 1997 levels. 
+
+<br><br>
+            
+<label> Yes
+<rating>  2.0
+
+</DOC>
+<

@@ -1,0 +1,32 @@
+DOC>
+<DOCID> 19316 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Fuji_FinePix_1400 </PRODUCT>
+<URL> http://www.epinions.com/content_37234118276 </URL>
+<TEXT>
+            Overview
+--------
+I bought the FP1400Z on recommendation of a salesman at a small camera store. He said the Fujifilm range were pretty good; mentioned the MX-1200. The closest I could find in stores (to the 1200) was the Finepix1300 & 1400Zoom. The 1400Z was on sale (~$100US off!)  in a nearby department store, so I snapped it up instead of the slightly cheaper models I was considering. (DC3200, HP215 & Agfa CL34, PDC1300) 
+
+I won't blather on about the obvious features in this model; instead I'll take a look at the "little things" that go together to make this a great camera.
+
+1. Tripod mount: Small thing, but very useful for making those closeup shots.
+2. Macro function: 10-60cm macro range provides quite a good  image (you can't zoom in when macro is enabled, except using the 2x digital zoom when your image is set to 640x480)
+3. Zoom: When shooting small (640x480) images, you often want a subject to fill 80% of the shot. The 3x optical zoom means you don't get tiny little dots on the horizon where a house was.
+4. Flash settings: Flashes to reduce redeye, backlit scenes,   flash on/off (suppressed) for daylight scenes.
+5. Manual mode: White balance adjustable for shade/daylight/fluorescent lights(3 different warmths) and tungsten lights.
+6. 10 second self timer for happy snaps of friends and family.
+7. USB connection and Exif Viewer/Dpof Software
+8. AC adaptor socket: Haven't used this, with the 8x1500 NimHs I got, I rarely find the need to use it (images take 20-30secs max to transfer on a 4Mb SmartMedia card)
+9. Sliding lens cover that clicks into place when open. (haven't noticed any scratching on front of camera)
+
+The only noticeable problems I have with the unit are:
+1. The battery compartment's cover is relatively sturdy, but  slides out and flips open on a small hinge. You have to be a tad careful when inserting/removing batteries.
+
+Be prepared to spend at least $40US on a charger and 8 AA nimhs, or (gasp!) an F cell rigged up to an AC adaptor plug!
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

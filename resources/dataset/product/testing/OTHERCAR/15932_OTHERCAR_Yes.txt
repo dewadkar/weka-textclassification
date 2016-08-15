@@ -1,0 +1,34 @@
+DOC>
+<DOCID> 15932 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Creative_Labs_PC-Cam_350_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_115199217284 </URL>
+<TEXT>
+            Recently, a family member built a new computer for me.  It was loaded with Windows XP whereas my old computer was Windows 98.  I could never have imagined the problems I would experience with my old software and compatibility with XP but that's a different "Epinion" altogether.
+
+I frequently communicate with family and friends via the internet and we often use webcams in those conversations.  My old webcam worked perfectly with my old computer but with the new computer, it was a disaster.  The manufacturer had gone out of business, shut down their site and I searched high and low for an updated driver without success so I was on a hunt for a new webcam.
+
+Since I was also interested in trying my hand at digital photography, cheaply, I was primarily looking at webcams that also served as digital cameras all at fairly low cost.  After searching many electronics websites, I finally found the <b>Creative PC-Cam 350</b> on Best Buy's site.  I called locally and it was in stock so I made my purchase.
+
+The software accompanying the camera was very easy to install.  It went off without a hitch.  I was also impressed with the quality of the software as well.  The photo editing program <b>Ulead Photo Express 4.0</b> allows you to adjust any imperfections in the original photo.  You can edit the hue, brightness, contrast, color, focus and other aspects of the photograph.  It also allows you to remove the "red eye" effect of your photos.  You can resize the photo, crop it and straighten it all within this program.  It is an impressive program.
+
+Now to the camera itself.   The camera has a built in flash that ultimately sold me on this camera.  Similar cameras I looked at did not have the flash feature.  When taking a photo, the user can choose to use the flash or not.  The camera has a snapshot feature allowing the user to take multiple shots, in sequence, with only one touch of the button.  It also has a 10 second timer.  The camera can store 485 low resolution photos, 74 high resolution photos and can take up to 75 seconds of video --- WITH sound.  You can also store combinations of high resolution and low resolution.   The display on the back of the camera always lets you know how many photos you can take of each resolution at any given time.  Also, the camera has 8MB of internal memory so even if your batteries die, your photos are still safe.  The camera uses four AA batteries.
+
+When the user is ready to plug the camera up to the computer via the USB cord, the camera monitoring program located in the system tray will display a message stating that the camera has just been plugged in.  It will give two choices:  1) Live video (for webcaming)   2) Contents in camera.   When the user clicks the second option, they will be taken to the PC Cam Center.  This is the program where the user can view an already stored photo album, view live video, make a video, take a snapshot, view and transfer any photos that are stored in the camera.  The software is very simple to use.  The user simply highlights the photo(s) they want to transfer then click the "transfer to" button saving them to the desired location on the PC.  Then to delete, they would highlight the photo(s) they want to delete from the camera's memory and click the delete key.  
+
+Using the camera as a webcam was a little more difficult for me because I was so familiar with my old one.  I am not impressed with the webcam capabilities of this camera at all.  The quality isn't that great.  It is a little fuzzy.  If I'm wearing black, my dark hair seems to blend in to me as does some background objects.  The camera does not have the ability to move up and down and the software does not offer the ability to pan the camera up and down or from side to side as I have seen with some other cams.  It is fixed in one location.  If you're like me and have limited desk space, that can pose a bit of a problem.  On the bright side, very little light is required to use this camera as a webcam.  I am very impressed with that.  Even a dim light nearby provides sufficient lighting.  
+
+Overall, I have mixed feelings about this camera. The ease of use is amazing.   I did buy it primarily as a webcam but I'm finding that I am using it more and more to take digital photographs instead.  Even then, some photos end up being just a little fuzzy and require some adjustment after saving.  I am impressed with the fact that photos, too, turn out even with very little light.  The user will have to be very careful if taking important photographs and using the flash.  If there is enough light (and it can be difficult to judge at first) and the flash is used, then the subjects will appear to be forms with nothing but eyes, a nose and a mouth.   If there isn't enough light and the flash isn't used, well, you get the picture.   I found this out the hard way with some shots that I really wanted to keep so I began experimenting taking useless photos in varying degrees of light and now I'm now fairly comfortable knowing when there's enough light and when there isn't.
+
+Another problem I have experienced with this camera, in taking photos, is that some of the shots are bi-colored, i.e. the top half of the photo is visibly darker than the bottom portion.  I'm not sure why this occurs but thank goodness it is rare.
+
+If your subject is young, you have to move quick.  I take a lot of photos of my four year old nephew who is all over the place all of the time.  Taking photos one at a time may not be best in most situations because of the delay from the time you press the button and the time the photo is actually taken.  There is at least a 2-3 second lag.  With subject often on the go, I would recommend the snapshot feature instead.
+
+I have not yet experimented with the 75 second live video with sound feature so, unfortunately, I cannot comment on that.
+
+Overall, I would recommend this camera to someone who is just beginning to experiment with digital photography and wants a basic webcam as a bonus.  Being the perfectionist I am when it comes to my images, both still and live, I wish I would have searched a little longer before making my decision.  However, for the price of the camera, I can't really complain too much.
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

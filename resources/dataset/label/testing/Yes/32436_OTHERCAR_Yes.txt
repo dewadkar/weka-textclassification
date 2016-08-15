@@ -1,0 +1,41 @@
+DOC>
+<DOCID> 32436 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Panasonic_PV_SD5000_PalmCam </PRODUCT>
+<URL> http://www.epinions.com/content_13204754052 </URL>
+<TEXT>
+            OK I have to preface this by saying I own and operate multiple cameras both digital and conventional.  I've owned two different floppy based Mavicas including the very first model released in the 90's (for those who didn't know the first digital Mavica was released as a prototype in the early 80's, no floppy drive though).  I also have a couple higher end cameras including a Coolpix 990 and one of the little Sony's with the Carl Zeis optics.  I suppose you would not consider me a rank amateur with no basis of comparison against other models or formats.
+
+Whether or not you would want one of these cameras depends in large part on what you want to do with it.  I use mine for taking photos to be touched up and used in online auctions on ebay and other sites.  It is a great camera for the price for this purpose and keep in mind this thing did not cost me anywhere near $900 either (brand new sears $499 - $100 rebate =  $399).  Panasonic is set to launch a 3.3 mega pixel version in the near future as I write this and prices for this model are 50% of where they used to be.  At these prices its hard not to be enthusiastic with a camera that can take 450 high resolution photos without reloading.
+
+That being said if you are a student of the visual arts either professionally or as an aspiring serious amateur the number one drawback is in fact the resolution.  This camera tops out at 1.3 mega pixel of which it can take 450 on a disk, at lower resolutions it can take 1,500 (640x480).  Ok so compared to my Coolpix which is 3.3 mega pixels that's pretty meager.  Again it depends on how you will use it, I loaned one of the low resolution Mavicas I used to have to a high school art student who just went hog wild with it and thought it was great!  Why would a painter use it?  Why would a large format photographer use it?  It's not uncommon for artists to do the equivalent of a low resolution mock up via a quick sketch or note taking of some sort.  With this piece of technology you can do literally all the sketching you want. 450 or 1500 images not enough, pop in another $10 Superdisk and take 450-1500 more.
+
+Along that line if you are considering a camera for taking photos for a web site and you would like to take advantage of all the freedom offered by digicams what can be better than virtually limitless content creation?  I have 11 Superdisks I've bought off ebay and frankly with the capacity to shoot 4500+ shots in the highest resolution mode I no longer worry about taking large amounts of photos on a consignment (every auction I launch now get a photo my success rate is in the 90% area often).  The same usefulness for unlimited content and idea capture apply equally to art students, web designers, and those with a commercial bent.  
+
+On the web you can't really use a full 3.3 megapixel image base, even with broadband your pictures and websites would be a long time loading.  In fact the 1.3 megapixel images created by this are a bit hefty if you want a fast loading page.
+
+Another thing this camera would be great for is family pictures and web sites.  Read what I've written for the artist or the commercial website designer and then consider what you might do for the family album?  Here's one idea:  you could attach it to a tripod, plug it into a wall, point it out in the yard where the kids or family are, and set it to take pictures every few moments.  Put them 30 secs apart  with 450 shots and your looking at 225 minutes of coverage from which you can pick out the best to keep or print and burn the whole bunch to a CD in case you want them someday.  Remember 450 fit on one 120mb Superdisk, you could fit 4-5 of these on one CDR no problem.  Instead of having to constantly fight with your subjects and do something other than socialize you could take part in the activities.
+
+Unlike many cameras (Nikon for instance) this camera comes with both a rechargeable battery and a power cord to power the unit from any household outlet.  The main impediment to realizing the benefit of being able to take such a large volume of photos is running out of juice.  I took about 200 product photos yesterday at full resolution with sporadic use of the flash and when I was finished the led indicator said the camera battery was roughly 50% depleted.  Granted I turned the unit off between shots and conserved but let me tell you that's still darned good compared to some units on the market.  If you're in a position where you can plug it into a wall outlet there is no worry.
+
+Final Points to the Positive?  This is a Superdisk drive with a camera built on it, it shows on your windows based computer as an extra floppy drive.  You can use it in a pinch to transfer some fairly large files to another computer in other words.  Oh and for those unfamiliar with Superdisk this is the other camera in which you can use a standard floppy (Sony makes the others).  Got Mac?  This camera comes stock with Mac software and adds a floppy to your iMac to boot.
+
+OK so what's not to like?  As prior reviewers have noted the color saturation is not as good as on some other models.  To be honest, this was a more valid issue when the unit cost $700-900 US.  Now that it's in the sub-$500 range it's more competitive in this respect than before.  
+
+When you're talking $900 for a digicam you're talking Nikon Coolpix quality, or Canon, or one of the big guns.  When you're talking $499 before the $100 rebate you're talking about Kodak, Hewlet Packard, Sharp, and maybe even Intel.  These are vastly different markets, this camera was originally priced into the Pro segment, which probably held back sales.  I was intrigued with it back then but given the choice between Panasonic or Nikon in the same price range I chose the Nikon.  This camera is now in the intermediate range and the day I saw how much it had fallen I decided to get one and guess what?  Every online retailer I tried at the time was sold out, some over night.  Ironically I found a local Sears store that had two collecting dust in a stock room, it doesn't hurt to try the old fashioned shopping mall sometimes.
+
+The color saturation is sub par when compared against a Nikon or Canon professional model but that can be adjusted via software as well.  I use Adobe Photoshop but by all accounts you can get good results with less expensive programs on the market.  In Photoshop it is often just a matter of running the auto levels command and only occasionally digging deeper into the details.  In other words the color quality is good enough for most people in my opinion particularly if you're interested in playing around with the special effect controls in your software etc.
+
+The image resolution will also fall short if you print to 8x10 but should be good on 4x6 or 5x7 prints, at higher resolutions it does not compare to the pro models.
+
+I'm not really terribly impressed with the zoom either to be honest although thats partly due to the presence of my Nikon.  It's adequate for basic cropping and getting a little closer.  I have an adapted spotting scope on the Nikon thats equivalent to a 1200mm lens on a normal film camera so obviously that's a little better.
+
+It also can have a lag time while writing to disk although I personally haven't had a problem, it also does not boot as fast as my Nikon.  This is no doubt due at least in part to disk drive.  Another physical consideration due to the drive is size, this is a BIG camera as digicams go.  It's about the same size as a Sony Mavica and you don't have to worry about leaving it in your pocket and washing it.
+
+At $399 at rebate in March 2001 it's strengths far outweigh its liabilities and like film cameras if you are an enthusiast you will likely wind up with more than one camera eventually.  I bought this after my Nikon and I use both now, a person new to the medium would find this a very interesting specimen as well.  That is my epinion of this camera in a nut shell
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

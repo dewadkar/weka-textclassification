@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 36363 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1994_Honda_Accord </PRODUCT>
+<URL> http://www.epinions.com/auto-review-11E7-88FDD98-38A72751-prod5 </URL>
+<TEXT>
+            I bought my Honda Accord because of Honda's reputation of making very reliable cars. It has almost 80,000 miles on it and it hasn't had any problems yet. It gets good gas mileage (about 28 mpg highway, 24 mpg city for my '94). It handles well and has good acceleration for a 4 cylinder engine. The only complaint I have is it is a little hard to see when you are backing up because the trunk seems higher than other cars I have driven. Overall this is a great car that I will hopefully have for many more years to come.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

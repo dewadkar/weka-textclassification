@@ -1,0 +1,16 @@
+DOC>
+<DOCID> 7078 </DOCID>
+<PRODUCT> Digital_Cameras/485156_Fuji_Film_Fuji_FinePix_4700_Zoom </PRODUCT>
+<URL> http://www.epinions.com/elec-review-6324-10C4FF5B-3A277290-prod4 </URL>
+<TEXT>
+            I bought the Fuji FinePix 4700 because it offers good resolution at a reasonable price. It gets mixed reviews in the magazines, but I think that's because magazine reviewers have limited time. This camera is easy to use, but it does have a lot of features, and I found that you have to be willing to work through the manual to get the most out of it.
+
+I started by using the &quot;automatic&quot; mode, which is like taking snapshots with a conventional camera. In this mode you can also use flash and zoom, and switch to macro mode for close-ups of small objects; focus is automatic too. In manual mode you can override the exposure settings, the automatic focus (you need to override the auto focus if you're taking pictures of small, soft objects like flowers) the &quot;white balance&quot; for different lighting conditions, and the resolution. At the finest resolution, a 16MB memory card can store only about 9 pictures, while at normal resolution it can store over 40. Unless you want to enlarge pictures beyond postcard size, I found the default resolution adequate.
+
+A possible disadvantage of this camera is that all pictures are stored in JPEG form. This makes it nearly impossible for software to compensate for bad pixels in the detector, if any show up in time.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

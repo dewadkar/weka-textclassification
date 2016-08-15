@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 59 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Mercedes_Benz_E_Class </PRODUCT>
+<URL> http://www.epinions.com/auto-review-2FC0-34EEE6-3856E5C2-prod1 </URL>
+<TEXT>
+            This car is a great car.  From the head rests to the steering wheel it is definitely a great piece of art.  The designers at Mercedes did a great job creating this vehicle.  The handling is great on it.  The key is a great help because you can unlock and lock your doors with it.  Also, it can open your trunk and send off a siren.  It has great tracking and suspension.  Although these cars might be a little out of most people's price range they're definitely worth every cent of the money you spend on them.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

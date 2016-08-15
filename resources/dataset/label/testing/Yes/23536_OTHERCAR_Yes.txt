@@ -1,0 +1,66 @@
+DOC>
+<DOCID> 23536 </DOCID>
+<PRODUCT> Digital_Cameras/Canon_PowerShot_G3_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_94374235780 </URL>
+<TEXT>
+            I wanted to take the only digital camera, a Canon S110, for my own use. In order to do this, I need to get my wife another one so she can continue to shoot pictures of my daughter at home. Instead of looking for a model that is comparable to the S110 (a fine camera), I decided to get one that solves most (if not all) of the problems with my S110.
+
+As much as I like my S110 (for its quality and size), it simply refuses to work with external flashes via optical slaves. The automatic settings work beautifully most of the time, but there is no way to specify manual settings when they are necessary.
+
+The G3 is the answer to my problems with the S110, plus many other features!
+
+<b>The Lens</b>
+
+The G3 comes with a 35mm to 140mm (35mm equiv.) lens. Although there are digital cameras with 10x zoom lenses, this 4x lens maintains an aperture of f/2 to f/3 throughout the entire range. f/2 to f/3 is considered fairly fast, especially in the market of prosumer camera equipment. A faster lens allows more shooting indoor without the use of flash for softer more natural color.
+
+Canon has a teleconverter and a wide converter attachment for this camera. I have not ordered or tested either. However, these attachments do not lose light like regular converters.
+
+<b>LCD View Finder</b>
+
+At this price range, some cameras still offer a fixed LCD. The G3 comes with a view finder that swivels (180 degrees) and tilts (270 degrees). While this flexibility may not seem important, it is priceless when one needs to take pictures at odd angles. It is also a valuable feature for taking self-timed or remotely controlled pictures because at least I can tell if everyone, including myself, is in the frame.
+
+The view finder is very sharp, like the one on the S110. The LCD view finder on the G3 also has two levels of backlight intensities. I have yet to use the higher setting.
+
+<b>Hot Shoe</b>
+
+Not too many digital cameras offer a real hot shoe. Although I can normally use an optical slave on my flash(es) instead of using a cord, this option is not possible in a wedding. Having the option to connect any flash (dedicated or otherwise) to the camera means lots of lighting options. I can finally use my professional strobe set up with a digital camera!
+
+Of course, connectivity to external flash is only the beginning. The G3, like most modern SLRs, offer manual and aperture-priority exposure modes. Both of these modes provide the means to expose a picture correctly when an external manual flash is used. Combined with the instant feedback characteristics of a digital camera, one can shoot indoor pictures with directional but soft lighting, as well as balanced back-lit subjects in an outdoor setting.
+
+Note that the G3 allows manual control of its internal flash. There are four settings for the internal flash. I found that the weakest setting is best for triggering an external flash without having to worry about the direct flash overpowering the external bounce flash.
+
+<b>Modes</b>
+
+This is where the G3 shines. Shooting mode is selected by a dial with conventional (Canon) icons. A quick twist to the green mode and the camera operates like any P&S camera.
+
+For better control, in addition to the usual shutter-priority, aperture-priority, automatic and manual modes, Canon also include two custom modes (C1 and C2). You can associate each one to a particular exposure mode with all other options stored in it. 
+
+For example, if you use 1/60 sec. and f/4.5 for indoor pictures with a bounce flash, along with the weakest setting for the internal flash and continous AF, you can store that to C1. Once set, every time you switch to C1, all the settings are restored. 
+
+This feature even remembers focus (in MF mode) and zoom setting! This means you can set the camera on a tripod in a show/concert, select the proper focus and zoom setting, select the aperture and shutter speed and store everything to a custom mode. Instead of waiting for the camera to AF or having to turn off the flash every time you want to shoot a picture, the camera stays in the exact configuration even through cycling power! You can even quickly switch back to green mode, take a snapshot of your family, then switch to the custom mode again to shoot more performance pictures.
+
+<b>Manual Focus</b>
+
+Many prosumer cameras offer manual focusing, but the G3 actually makes it useable. This is because when you are manually focusing, the camera zooms the focusing spot so you can see the details of that spot. The camera also indicates the distance with a scale so you can quickly adjust to the range of focus, then fine tune using the zoomed display.
+
+<b>Flexible Focusing/Exposure Spot</b>
+
+Unlike Canon's prosumer SLRs with multiple AF/exposure spots, the G3 offers the entire frame as possible AF/exposure spots. With one click to unlock the spot and using the cursor keys to move the AF/exposure spot, you can quickly move it to anywhere in the frame. If so desired, you can separate exposure from the focusing spot and use one of evaluative, center-weighted or center spot modes instead.
+
+This flexibility is useful by itself when you need to set the camera on a tripod so the good old focus-and-reframe approach is cumbersome. This feature is even more useful in conjunction with the manual focus feature. Note that when you lock exposure to the moveable AF spot, the TTL flash exposure spot moves with it as well!
+
+<b>Value Selection Dial</b>
+
+As a tradition found on all Canon EOS SLR bodies, there is a value selection dial to the front of the shutter release button. This dial can also click. In manual mode, the same dial is used to switch between aperture and shutter speed. If manual focusing is also enabled, the same dial is also used for that purpose. Clicks on the dial cycle through the various settings to be changed by the dial.
+
+This user interface is flexible and yet intuitive. There is no need to use a menuing system to change settings that may vary on a frame to frame basis.
+
+<b>Other Feature</b>
+
+There are tons of other features on this camera, I am only commenting on the ones that matter to me. 
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

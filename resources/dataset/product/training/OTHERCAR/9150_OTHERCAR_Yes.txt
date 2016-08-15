@@ -1,0 +1,201 @@
+DOC>
+<DOCID> 9150 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Canon_PowerShot_SD10_Digital_IXUS_I_4_Megapixel_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_121881857668 </URL>
+<TEXT>
+            In the spring of 2003 Pentax introduced the tiny Optio S, the smallest 3 megapixel digital camera in the world.  Advertisers (in a masterful marketing move) pictured the ultra compact Optio S nestled in an empty Altoids tin.  For miniaturization mad consumers that image turned a lot of potential Canon digital Elph purchasers into Pentax Optio S buyers. 
+ 
+Just in time for the all-important holiday buying season, Canon introduced the Powershot SD10, the company&#146s answer to Pentax&#146s second generation Optio S4.  The SD10 is the smallest 4 megapixel digicam in the world; smaller than a credit card, less than an inch thick, and weighing in at just 3.5 ounces.  Canon stuffed the SD10 with lots of nifty cutting edge features and a newly designed 39mm (35mm equivalent) f2.8 prime lens.  The SD10 reminded both my friend and I of the snazzy little &#147street&#148 cameras of the sixties and early seventies.  Photographers in those days liked &#147realism&#148 bathed in natural light and street photography was a very popular genre.  Cameras optimized for street photography were fast prime lens compacts like the Rollei 35S and the Olympus Pen E half frame camera. 
+
+The SD10&#146s look and feel harkens back to those &#147good old days&#148 but when it comes to technology the SD10 is all 21st century -- with most of the advanced features of the Powershot S400 and G5.  That&#146s a pretty neat combination and if Henri Cartier-Bresson were still shooting &#147decisive moment&#148 street scenes I think he might trade in his trusty Leica for a snappy little Canon Powershot SD10.
+
+It&#146s unlikely the SD10 will make a big splash with casual photographers and snapshooters, but creative types who like shooting &#147street&#148, environmental portraits, candid people shots, and up-close culture defining travel images are going to love the smallest digital Elph.  Those willing to forego the zoom lens and optical viewfinder of the bigger Elphs will find new inspiration every time they drop the nifty little SD10 in a pocket and head off into the unknown.
+
+<i>NUTS & BOLTS</i> 
+
+<b>LCD</b> 
+
+The SD10 uses the same 1.5" LCD screen (which shows almost 100 per cent of the frame) featured on the S400.  The display is bright and fluid but resolution is a bit lower than the S400's (to better manage power from the SD10&#146s smaller battery).  The LCD is easy to use even in moderately bright outdoor light.  The SD10 has no optical viewfinder.
+
+The SD10&#146s LCD information display can be set to show shooting mode, exposure compensation setting, white balance setting, photo effects mode, ISO setting, flash setting, light meter setting, resolution/compression, and a histogram to help evaluate dynamic range in captured images. 
+
+<b>Lens</b>
+
+Unlike other digital Elph models, the SD10 features a newly developed high-resolution f/2.8/39mm (35mm equivalent) four element high-diffraction low-dispersion all glass prime (fixed focal length) lens.  When the SD10 is powered down the lens is retracted into the camera body and a built in iris style cover closes over the lens. 
+
+<b>Auto Focus</b>
+
+The SD10&#146s auto focus system is a variation of Canon&#146s advanced TTL AiAF (Artificial intelligence Autofocus).  The system provides five AF points and the cameras processor automatically selects the primary subject (closest focus priority) even when it is off-center and then calculates camera to subject distance for quick, quiet, and consistently accurate auto focus.  Users can turn the AiAF off and default to the center AF point for more traditional looking images.   The SD10 provides an AF illumination beam for improved low light focusing.  
+
+<b>Manual Focus</b>
+
+The SD10 has no manual focus capability. 
+
+<b>Flash</b>
+
+The SD10&#146s tiny built-in multi mode flash provides Auto, Red-Eye Reduction, Slow-Synchro, and off settings. Maximum flash range is (according to Canon) 9.8 feet, which is a little bit optimistic---6-8 feet is more accurate and realistically anything beyond six feet is going to be fairly dark, unless you shoot in light colored surroundings and have lots of ambient light. 
+ 
+<b>Memory</b>
+
+The SD10 is the second Canon digital camera to support any memory storage media other than Compact Flash.  The SD10 stores images to SD/MMC cards (SD cards are available in capacities up to 512MB) Canon doesn&#146t support the use of MMC cards with the SD10.  
+
+<b>Power</b>
+
+The SD10 uses the same NB-3L lithium-ion rechargeable battery pack as the Powershot SD100. Improved power management actually allows the smaller and weaker NB-3L battery pack to last longer than many larger batteries. Canon estimates users can expect about 190 exposures with a fully charged NB-3L, which seems fairly accurate, based on my experiences with the camera.  Heavy image review significantly decreases battery life.  
+
+For users who plan on extended travel or daylong shooting sessions, a second battery is a good investment.  Micro cameras use tiny batteries and tiny batteries obviously can&#146t store as much power as larger batteries.  There is no way to get around this limitation except to carry a back up battery. That said, the SD10 does an impressive job in the power management department.  The included CB-2LU rapid charger will fully charge the battery in about two hours.  The charger plugs directly into the wall and charges the NB-3L out of the camera, which is very handy for users with a back-up battery.
+
+<i>EXPOSURE</i> 
+
+<b>DIGIC Image Processor</b> 
+
+Canon&#146s DIGIC Processor (Digital Imaging Integrated Circuit) was developed to combine fast efficient image processing and basic camera operation (resolution/compression, LCD/Video control, gain control, Auto Exposure, Auto Focus, and Auto White Balance) in one chip.  Consumers benefit because DIGIC processing provides faster display and write-times and lower power consumption.  DIGIC technology also enhances auto focusing accuracy and improves processing speed while utilizing complex proprietary imaging algorithms to produce images that are optimized for sharp resolution, balanced contrast, low noise, and accurate color balance. 
+
+<b>Auto mode</b> 
+
+In auto mode the SD10 functions as an auto exposure &#147point&#146n&#146shoot&#148 digital camera. Operation couldn&#146t be simpler and the default evaluative metering system produces consistently accurate exposures.  
+
+<b>Manual Mode</b> 
+
+The SD10&#146s "manual" mode is something of a misnomer since the camera controls aperture and shutter speed at all times, however user&#146s do have some input into the creative process with the ability to enable/disable Quick Shot mode, AiAF, and adjust ISO settings, exposure compensation, white balance, and metering options. 
+
+<b>Macro Mode</b>
+
+The SD10&#146s minimum focusing distance (macro mode) is just over one inch.  Macro images are sharp and color accurate and show good detail.   Flash coverage up close is decent, but (like most micro digicams) the top and center are a little hot and the bottom third of the frame is a tiny bit dark.  Corners are a little soft at the closest focusing distance, but this is a fairly common fault.  The SD10 is more than adequate for shooting bugs and flowers
+up close.
+ 
+<b>Movie Mode</b>
+
+The SD10&#146s movie mode allows users to shoot short video clips of up to 30 seconds with audio at 640X480 @ 15 fps (up to 3 minutes at lower resolutions).  Users can Fast Forward, Rewind and edit in-camera. 
+
+<b>Metering</b>
+
+The SD10&#146s evaluative metering system (the camera divides the frame into zones and separately evaluates each zone to determine the best shutter speed/aperture combination) consistently renders accurate exposures in all but the most difficult lighting situations.  A Spot metering option biases exposure on a small area at the center of the frame (useful for high contrast subjects and portraiture). There's also a Center-Weighted metering option, which bases the exposure on a much larger area at the center of the frame for a more traditional compositional style (for those who want to recreate the  classic "street" look in their images). 
+
+<b>White Balance</b>
+
+The SD10&#146s White balance system is rather conservative but accurate with settings for: Auto, daylight, cloudy, tungsten, and fluorescent and fluorescent H modes.  The SD10 has no manual WB mode.
+
+<b>Sensitivity</b>
+
+TTL Auto, and settings for 50, 100, 200, and 400 ISO (35mm equivalent).
+
+<i> DESIGN, CONTROLS, OPERATION, & ERGONOMICS</i>
+
+For such a tiny camera the SD10 is comfortable to handle for long periods and surprisingly easy to use.  The controls are laid out very well and quickly become intuitive.  The FUNC button calls up a &#147super&#148 menu of the most commonly changed camera settings (exposure compensation, white balance, drive mode, ISO sensitivity, flash options, image size/quality options, and photo effects) so that users can directly and quickly access the specific setting they wish to modify. 
+
+The SD10's user interface is logical and uncomplicated.  Most commonly used camera controls are external and the well-designed menu system is identical to the one used in the S400.  Most shooters will have no problem using the SD10 right out of the box although a brief perusal of the user&#146s manual is a really good idea.  
+
+The stylish ultra-thin little PowerShot SD10 is available in four colors (Black, White, Bronze and Silver) users can choose the color that suits their personality (pro black, modernist white, rugged individualist bronze, and traditionalist silver) and make a fashion statement every time they pull it out of their pocket.    
+
+<b>Creative Photography Options</b>
+
+The <b>Photo Effects</b> mode allows users to select metering (Evaluative, center-weighted, spot), exposure compensation (+2/-2EV in 1/3EV increments), vivid or neutral color saturation, low sharpening, and sepia or B&W effects. You can accomplish the same effects in Paint Shop Pro or Adobe PhotoShop, but in-camera image adjustment is always preferable to post-exposure image manipulation.
+The new <b>Quick Shot</b> mode substantially reduces lag time between pressing the shutter button and capturing the image, noticeably improving the SD10&#146s ability to capture action, sports, and spontaneous moments.
+
+<b>Technical Specifications</b> 
+
+Resolution: 4 megapixels (2272x1704) 
+Lens: fixed f2.8/39mm (35mm equivalent) lens 
+Viewfinder: 1.5" color TFT LCD 
+Auto Focus: TTL AiAF five-point autofocus system 
+Exposure: Program AE automatic and Manual exposure modes 
+Metering: Evaluative, Center-Weighted, or Spot 
+Exposure Compensation: Yes   /- 2EV in 1/3-step increments 
+Flash: Built-in multi mode (Auto, Red-Eye Reduction, Slow-Synchro, and off) 
+White Balance: TTL auto and presets for daylight, cloudy, tungsten, fluorescent, and fluorescent H 
+In-Camera Image Adjustment: Yes (Photo Effects Mode) low sharpening, vivid color, neutral color, Sepia and B&W 
+Low-light focus assist illuminator: Yes 
+Shutter speeds: 15 seconds to 1/1500th of a second 
+Sensitivity: Auto and ISO 50, 100, 200, & 400 (35mm equivalents)
+Memory Storage Media: SD/MMC cards 
+Image File Format: JPEG 
+Connectivity: USB & A/V out 
+Power: Rechargeable Lithium-ion battery (type: NB-3L) 
+Street Price: $349.00 (but this may fall to as low as $299.00 at the end of the holiday buying season) 
+
+<b>Included</b> 
+
+32MB SD card, NB-3L Li-ion battery w/charger, wrist strap, USB & A/V cables, Printed users manual and software manual, Canon Software 
+
+<b>Optional</b> 
+
+Extra NB-3L Li-ion battery, soft case, WP-DC10 waterproof case, and Canon AC adapter
+
+<b>In the Field/Handling & Operation</b>
+
+My friend (who sells new and used digital and analog photographic equipment) and I got together on a recent Saturday afternoon and shot some color tests with Canons new SD10 digital camera.  We use brightly colored children&#146s plastic beach toys set against a white background to check color and white balance accuracy. The SD10 produced images with accurate auto mode white balance, no blooming, and barely noticeable chromatic aberration (purple fringing), an incredible accomplishment considering the cameras tiny size. Color accuracy was very good and resolution was excellent. The lens showed no visible pincushion distortion and barely noticeable barrel distortion.
+
+The weather was really ugly (high twenties, windy, and gloomy with depressing skies) so we decided to check the SD10&#146s street/environmental portrait capabilities at South Louisville&#146s huge Jefferson Mall.  We wandered around inside the mall, shooting  holiday shoppers, a couple of interesting characters, and some neat Christmas displays  (under a combination of muted overhead daylight and fluorescent lighting).  The SD10&#146s auto white balance produced striking images with incredible detail and rich well-saturated colors, although the 39mm lens made it necessary to get pretty close.  After a couple of hours of pseudo &#147street&#148 shooting we called it a day and headed for home.
+
+Sunday Morning everyone in Louisville woke up to two inches of fresh snow.  My friend and I got together early to shoot the white stuff (snow doesn&#146t usually last very long here in the upper south).  We headed for Cherokee Park and spent about an hour shooting sledders at Dog Hill (Louisville&#146s premier sledding venue) and about an hour shooting winter landscapes.  Snow is one of the best tests of white balance and metering systems, because pure white snow often confuses exposure meters and white balance systems (the camera sees all that white and tries to compensate---resulting in under-exposure and muddy colors.  The little SD10 functioned well and delivered consistently excellent results. 
+
+As we headed back toward Bardstown Road we spotted a large American Holly tree and spent some time in ankle deep snow shooting the waxy dark green leaves covered with clumps of snow and bunches of bright red berries.  The flat overcast lighting (there are no reflections and reduced glare under overcast lighting so colors appear more intense) was perfect for shooting the Holly.  The images were vibrant with what my friend referred to as &#147Christmas colors&#148.   By this time both of us were freezing and our shoes were filled with snow so we decided to warm up on the run over to nearby Seneca Park to shoot a small waterfall on Beargrass Creek.  I wanted to get there while the snow was still pristine.  The sky was a nasty shade of gray so we wanted to show as little of it as possible and concentrate about three quarters of the frame on the pool above the small waterfall (with the falls at the center of the image) and the shallow rocky riffles below the falls.  I used the flash to add a little light and add some sparkle to the water in the gloom under the bare branches of the old growth trees.   The Creek was high and running fast with frigid melt water but the quiet pool behind the small falls was still and mirror perfect.  Fresh snow lined both banks of the creek and covered the small rocks that poked above the surface of the water, making for a small scale winter wonderland scene.  
+
+<i>PERFORMANCE</i> 
+
+<b>Image Quality</b>
+
+The SD10&#146s image quality is quite good and the color is consistently accurate and well saturated, but not garish.  Caucasian skin tones are a bit warm (typical for amateur cameras) and reds and blues are slightly over saturated (also typical). White balance is excellent, especially for such a tiny camera. Noise levels are a bit above average in dim light and that is surprising, since the camera has a noise reduction system that is activated on long exposures. Chromatic aberration is very low, showing only faint purple fringing in high contrast dark-light convergences.  
+
+We printed one 5X7 (with an Epson Stylus Photo EPX 785 on Kodak photo paper) of the Holly tree.  Resolution, color, contrast, and the overall look of the print were easily on par with ISO 200/400 color print film images.  I really liked the shot, but my friend said it looked like a Christmas card.  
+
+<b>Timing/Shutter Lag</b>
+
+The PowerShot SD10 has one of the fastest boot-up cycles I&#146ve seen; the camera is ready to go in just over a second.  Autofocus lag is just a bit better than average (about 1 second) and Shutter lag is very short, among the best I&#146ve seen.  The SD10&#146s nifty Quick Shot feature lets users take a picture without having to half-press the shutter button first, without any lag.  Just trip the shutter (and the camera optimizes AF) when all the elements of the composition come together. Shot-to-shot times are also very good: about 1.5 seconds between images.  
+
+<b>A Few Concerns</b>
+
+If purchasers have realistic expectations there shouldn&#146t be any serious concerns about the capabilities and potential of the elegant little SD10 although I do feel it is a bit over priced.  I do have a question for Canon&#146s design team---Why no scene modes? How tough would that have been?  
+
+<b>Who is the SD10 best suited for?</b> 
+
+Canon&#146s new Powershot SD10 is an excellent choice for travelers, gadget freaks, urban cruisers, and serious photographers who value ultra-compact size, point & shoot ease of use, advanced features, and exceptional performance.  Its small profile allows it to be taken (and used) virtually anywhere.
+
+<b>Conclusion</b>
+
+The elegant little Powershot SD10 is a really risky venture  for Canon.  Will consumers go for a tiny feature rich fixed lens digicam designed for serious amateurs?  Most fixed lens digitals are entry level units designed to sell as cheaply as possible, but the SD10 is priced about the same as similarly featured 4 megapixel digicams with 3X zooms and optical viewfinders.  My friend thought the SD10 was like a digital version of Contax&#146s upscale T2 35mm camera. Only time will tell, but I&#146m guessing the SD10 will be selling for about three hundred bucks by early January. 
+
+<b>Links</b>
+
+Check out my review of a bargain priced and very capable photo quality ink-jet printer. 
+
+Epson Stylus Photo 785 EPX ink-jet printer 
+<a href="/content_60776812164">http://www.epinions.com/content_60776812164</a> 
+
+For definitive advice on How to Choose a Digital Camera please see my review: 
+<a href="/elec-review-2E46-17B174E2-39A418E3-prod1">http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+For more information about competitive/comparable micro digital cameras you may find the reviews below useful:
+
+<b>Canon Digital Cameras</b>
+
+Canon Powershot SD100
+<a href="/content_114288463492">http://www.epinions.com/content_114288463492</a>
+
+Canon Powershot S400
+<a href="/content_94761619076">http://www.epinions.com/content_94761619076</a>
+
+Canon Powershot S230
+<a href="/content_78900203140">http://www.epinions.com/content_78900203140</a>  
+
+<b>Minolta Digital Cameras</b>
+
+Minolta Dimage Xt
+<a href="/content_108112285316">http://www.epinions.com/content_108112285316</a> 
+
+<b>Pentax Digital Cameras</b>
+
+Pentax Optio S4
+<a href="/content_121402330756">http://www.epinions.com/content_121402330756</a>
+
+Pentax Optio S
+<a href="/content_102275059332">http://www.epinions.com/content_102275059332</a> 
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

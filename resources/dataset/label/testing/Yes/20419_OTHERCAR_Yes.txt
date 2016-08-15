@@ -1,0 +1,13 @@
+DOC>
+<DOCID> 20419 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Volkswagen_Jetta </PRODUCT>
+<URL> http://www.epinions.com/auto-review-630C-17B33B3-38CEA8BE-prod5 </URL>
+<TEXT>
+            VW might have more luck with its uptown approach in Europe, where it's a powerhouse, than in the United States. VW is strongly associated here with memories of the cheap 1950s-1970s Beetle model, which never got the same acclaim in Europe, but the popular New Beetle is far more upscale than the old Beetle and has the same chassis as the redone 1999 VW Golf. Cars such as the new Jetta and Golf might convince many Americans that VW is a serious contender with upscale models. Jetta prices range from $16,700 for the base four cylinder GL sedan to $23,500 for the GLX V-6. I tested the mid range $19,950 GLS V-6. The Jetta should appeal to a larger number of car buyers because it looks much slicker and has a more expensive driving feel. But many old line VW driving enthusiasts might be disappointed. 
+<br><br>
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

@@ -1,0 +1,26 @@
+DOC>
+<DOCID> 27670 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Sony_MVC-CD1000 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-1AA1-352308AE-39B2F819-prod5 </URL>
+<TEXT>
+            So far this camera is less than expected.  The Sony site leads the customer to believe that there is control over Shutter and Aperture.  This is not strictly true.. one has control over Shutter OR Aperture, meaning that there is no way to control the exposure without the Camera &quot;guessing&quot; the other half of the exposure. There is no way to &quot;lock&quot; an exposure without the image freezing and then it fails to actually lock an exposure - bye bye zone photography.  Other than freezing the image to check framing I see no function at all in freezing the image (since completing the shutter action re-aquires the image and refreezes anyway).
+
+The other thing that is quirky is that there are no install instructions for Windows 2000 (most annoying - shows when the software for this camera was developed and how up-todate Sony isn't with it's drivers), and the Windows 98 drivers don't appear to work dispite a successful installation on a Windows 98 system (checking the Adaptec site, since the Sony site is of no help, it looks like these drivers are well out of date).  What this means is that there is no way to download the images from the Camera to the PC without &quot;Finalizing&quot; a disc and actually dropping the disc into the PC - Now I guess some folk have been successfull at getting the software to install.. two PC's later I still can't get it to work.  Checking the Sony site yields no knowledge base items that relate to this problem.  An hour waiting on the phone for a support rep from Sony also yielded no help - I eventually gave up (trying a subsequent 5 times to call on different occasions), and dispite leaving a contact number on 4 of the 5 occasions, have yet get a call back from a technician.  On the 6th attempt (following a re-attempt after the Sony Support line hung up on me once again) I finaly reached a technician.  Their recomendation, install all the application software (that I don't want).  So I did.. still the problem remained.  Eventually after an hour and fudging the system (like the manual says absolutely NOT to do) we got the disc to read on the Windows 98 system, but fugded the system so much that it will only read from the camera.  Regarding the Windows 2000 system.. they didn't know if or when a Windows 2000 driver will be available.  That's pretty pitiful.
+
+The other thing that is terribly disconcerting, is the 1 second delay between the time you press the shutter release and the time it actually takes the photo.  This makes taking images of moving subjects next to impossible and since the camera locks the image, then waits a second to take the picture, any camera movement at all is not visible until you replay the image.  So for each image you shoot you have to replay to see if you captured what you were meaning to shoot.  This is probably the most problematic issue with the camera, now if the camera allowed you to either hold the image or take the image that would be different, but the 1 second delay puts the camera into the category of a tripod mounted still camera only.. all else is total quesswork.
+
+The quality of the image is extremely grainy - I have seen far better images from their early floppy disc based Mavica's.  Not sure what it up with that.. maybe another call to product support.. yeh right.
+
+Was also curious why, with the extensive use of Memory stick and Flash technology, Sony would choose to produce a product that is such a great idea with no form of Image Buffer, which would be easy to do with Memory stick or Flash.  One might then me able to commit the image to disc rather than having to default ALL exposures to the disc.
+
+So what Sony has created is a camera that is so expensive that only a pro or serious amateur would buy it, with image quality, and image and exposure features that only a non professional would want.  You just have to question what the folk at Sony were thinking when they completed the design for this camera.  The image that springs to mind is the Bradley Fighting Vehicle.
+
+So far I'm thinking of sending the camera back since it does not live up to the hype at all and Sony is less than responsive and informative in it's support of the camera (phone and email - never did get a response from my email).
+
+Now if you can live with all the above, then it's the perfect camera for you.<br><br>
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

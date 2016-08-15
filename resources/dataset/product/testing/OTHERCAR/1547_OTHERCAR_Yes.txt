@@ -1,0 +1,48 @@
+DOC>
+<DOCID> 1547 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Accessories-All-AW_DC300_WATERPROOF_CCASE_POWERSHOT_S30_S40 </PRODUCT>
+<URL> http://www.epinions.com/content_100714778244 </URL>
+<TEXT>
+            Canon Power shot is a small sized camera -  4.4 x 2.3 x 1.7 inches to be precise. Its length and height are quite small but is a little thick. This is because the camera has an optical zoom lenses that reside within the rectangular shape of the body of the camera. Do not underestimate the power and capability of  this camera. Priced at $450 , it is more expensive than the similar other 4 Mega Pixel cameras. There are other professional camera features that justify the price  of this camera. Canon does not provide mail in rebates and all this type of things &#150 so do not look for that.   
+
+<b>Power  :</b> 
+The camera uses 7.4 V  NB-2L  rechargeable Lithium ion battery from canon.  In is 540 mAH that is not quite impressive considering it is not a widely used type of battery. I used chargeable Lithium ion AA  batteries for my earlier Kodak CX4300 camera. The advantage with the AA batteries was that the additional batteries are available for cheap. An additional NB-2L will cost you over $50 from canon and about $25 to $30 ( including shipping and handling ) on ebay. But the battery lasts quite long even with LCD on. The camera must be consuming quite less current. It takes about 150 photos with LCD ON. With Viewfinder it must be taking more pictures. 
+
+<b>Memory :</b> 
+Canon S45 uses  Compact Flash card. The 32 MB compact flash card is included with the package but  it is too small if the pictures are taken at the highest quality. The 32 MB card  will take  about 14 photos if taken in the highest resolution that it calls Large / Superfine. It can hold only 7 or 8 images in RAW format for the 32 MB Card.  It is recommended to take an additional 128 MB or the 256 MB compact Flash card. The 128 MB should be sufficient for most purposes.
+
+<b>LCD Display :</b>  
+The LCD Display quality is quite good for this camera. I used the display of my earlier Kodak CX4300 camera and I could not make out whether the quality of the photo taken is good or bad until I transferred the photos to computer. But the LCD of Canon  S45 is a lot better in that respect. The effective pixels in the canon S45 are 118K pixels with 100% coverage . The LCD Monitor is 1.8&#148 Low Temperature polycrystalline silicon TFT. There is a protective screen that tends to etch out after sometime. 
+
+<b>Movie :</b>  There are two resolutions in which movie can be recorded. The higher resolution is 320 x 240 &#150 91 second of movie can be recorded with a 32 MB card in this resolution. There is  a lower resolution 160 x 120 , 242 sec of movie can be recorded on 32 MB memory cared. Movies are shot at the rate of 15 frame / sec. In the movie mode the camera records both the video and audio. Some cameras do not record audio &#150 so this is an additional feature in this camera. The image data is recorded in motion JPEG format and the audio data is recorded in mono WAV format. The maximum movie time is 3 minutes. It means you can not record movie of length greater than 3 minutes even when you have enough space in your memory card with say, 256 MB.  The DIGIC processor does a wonderful job to create a good quality movie. I expect that the 3 minute limitation will be extended in the future versions of the camera. 
+
+
+
+<b>Pros : </b>
+The 4 Megapixel is an obvious pros. But I am not sure to what extent. For print qualities of smaller sizes of 4X6 the qualities are similar to those of the 3 Megapixel and even 2 Megapixel cameras.  For emails too the 4 Megapixel is more than the required. Higher the megapixels greater is the size of the photos and lesser is the number of photos that can fit into the memory card. Still it is great to see the zoomed portions of the photos. I liked to see some of the &#147minutest&#148 details of the photos I took.
+
+Its compact size impressed me. It is a little thick but it has to be so to accommodate the zoom. The 3X optical zoom is worth mentioning. The 1.8 inch LCD Display is of good quality
+
+<b>Cons :</b>
+Purchasing additional battery is expensive as it is not the one that is widely used. Canon provides only 32 MB Compact flash card that is too small for the sizes of photos that are produced by 4 Megapixel camera. At least 64 MB card would have been comfortable.  
+
+
+<b>Picture Quality :</b> I took a number of photographs both indoor and outdoor. I was especially interested in the indoor quality of photos especially those taken in night. I must mention that the optical zoom does provide a good close up , but using optical zoom has one disadvantage. While taking the photographs from a distance and using the flash will make the flash less effective, The idea is to come close to the subject as close as possible before using the zoom. This camera is tiny and even though the flash is effective it will be less effective when used from far away.  I used the camera with low shutter speeds and night scene and the results have been fairly good. The outdoor photo quality is really very well. I do not see any flaw as far as the quality of the photo , but of course, you need to take some precautions.
+
+<b>References  :</b> You can find some more details in the following websites
+
+http://www.digital-camera-reviews.info/specs/canon-powershot-s45.cfm
+
+http://www.techtronics.com/files/brochure-leaflet/canon-ps-s45-spec.pdf
+
+
+
+
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

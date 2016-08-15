@@ -1,0 +1,300 @@
+DOC>
+<DOCID> 5591 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Olympus_C-750_Ultra_Zoom_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_105993768580 </URL>
+<TEXT>
+            Olympus&#146 new Camedia C 750 is the fourth generation update of the very popular Olympus C 730.  The newest Olympus digital camera builds on the success of its predecessor by substantially enhancing usability while providing  users with an incredible array of creative photography options and excellent SLR like ergonomics and performance.  The C 750 is targeted at more advanced photographers who want a broad range of manual exposure options AND point and shoot simplicity---- all in a compact and stylish package and at a bargain price.
+ 
+<b>What&#146s New?</b>
+
+Olympus wisely retained the 10X super zoom, the  basic control layout, six  Scene modes, and 16 second maximum exposure time of the C 730.  New on the C 750 are a hot shoe for external flash units,  the proven four megapixel CCD imager from the C4040/C4000, and a 3200 x 2400 (interpolated) resolution setting, making this model facelift much more than cosmetic. The improvements  significantly expand the C 750&#146s flexibility and creative potential. 
+
+<b>Nifty Features</b> 
+ 
+The C 750 also features Digital ESP multi-pattern and spot metering, user adjustable white balance, auto bracketing and exposure compensation, proprietary Olympus TruePic technology (which optimizes sharpness, contrast, and color saturation), pixel mapping, and automatic CCD/image processor calibration (which produces sharper resolution, brighter colors, better contrast, and fewer processing errors).
+  
+<b>NUTS & BOLTS</b> 
+
+<b>Viewfinder/LCD</b>
+
+The C 750 features an Electronic Viewfinder (EVF) essentially a miniature (0.44&#148)  version of the 1.5&#148 LCD display.  I&#146ve never liked EVF&#146s, but they are a necessary evil on cameras with zooms that exceed 5X (matching a true zooming optical viewfinder to a 10X zoom lens would be prohibitively expensive).  My major problem with EVF&#146s  is that they just aren&#146t sharp enough for critical focus decisions and they generally can&#146t be refreshed quickly enough to avoid some jerkiness and blur when panning or following rapidly unfolding action.  The C 750&#146s EVF is very good and it does provide a TTL (through the lens) view, which optical viewfinders don&#146t. 
+
+The EVF is active only when the LCD screen is switched off. The C 750&#146s EVF  accommodates eyeglasses wearers with a diopter correction and a relatively  high eyepoint (good for focusing while wearing glasses) but there is some vignetting (darkened corners) when using the C 750&#146s EVF with glasses.  The C 750&#146s EVF seems to be a bit brighter than average, but the  refresh rate appears to be a bit slower than average (evidently a compromise designed to prolong battery life). 
+
+The C 750's 1.5&#148 LCD screen is bright and quite sharp (users can toggle back and forth between the EVF and the LCD by using the Display button).  The LCD also provides a detailed information/status readout that includes, exposure settings, f/stop, shutter speed, and exposure compensation. The LCD permits users to zoom in (up to 4x) when reviewing saved images. 
+
+Select  either Aperture or Shutter Priority mode and the chosen setting (shutter speed or aperture) is displayed on the LCD as a constant and the camera&#146s automatically determined value (aperture or shutter speed) updates continuously to show the metering system&#146s response to changes in  lighting. In Manual mode the LCD display shows both the selected aperture and shutter speed as constants, while a second set of camera selected exposure values updates continuously. For major under or over exposure (more than three EV&#146s) situations the second set of exposure values turn red----a very useful 21st century variation on old time match needle metering.
+
+The C 750 provides a live histogram shows brightness/contrast distribution across the frame (allowing exposures to be fine tuned prior to tripping the shutter) a very useful feature because shooters can immediately spot over or under exposed areas and tweak exposure settings before making the shot.  The C 750 also permits photographers to utilize the LCD to  resize or crop images post-exposure, another well designed and very useful feature, since many  images are strengthened by cropping away extraneous space that doesn&#146t contribute to the composition. 
+
+<b>Lens</b> 
+
+The heart of the new C 750 is the all glass 10X zoom (equivalent to a 38-380mm zoom in 35mm) first seen on the C 730.  This incredibly versatile relatively fast (f/2.8-f/3.7) lens is what really sets this camera apart from every other four megapixel digicam currently available. The long zoom allows the camera to be used for shooting sports, wildlife, concerts, auto racing, and just anything else that requires an extremely long reach.  The C 750&#146s zoom provides a threaded mount that allows the use of auxiliary &#147add-on&#148 lenses and filters. 
+ 
+The C 750 provides a very well thought out and incredibly flexible close up system with two Macro settings (normal covers  2.7&#148 to 2 feet and the Super Macro setting allows focusing as close as 1.2&#148) that permit the use of the spot metering option, virtually guaranteeing correct exposure even in extreme close-ups.  The C 750's lens retracts fully into the camera body, making the camera fairly compact when powered down.  The C 750&#146s 10X zoom is a large and very complex optic, so obviously it won&#146t focus as rapidly as a simpler zoom.  AF Speed issues are going to arise most often in low light situations, but the lens is surprisingly fast when the light is good. 
+ 
+<b>Auto Focus</b>
+
+The C 750 uses Olympus&#146 proven TTL (through the lens) contrast detection system as the default AF mode.  There is also a full time AF mode that adjusts focus continuously (as opposed to only when the shutter button is pressed halfway) and two special AF modes.  In iESP mode, the camera bases focus on the entire frame, automatically determining the primary subject, based on closest focus priority. The Spot AF mode focuses on the AF spot in the center of the frame.  The C 750 also permits users to adjust the AF area (through the Record menu) using the arrow keys to move the AF target anywhere in the frame.  The C 750&#146s AF speed ranges from fairly quick to relatively slow (in low light), but it is usually quite accurate.
+ 
+<b>Manual Focus</b>
+
+The C 750 features a useful manual focus option. Users can manually adjust focus using the up and down arrow keys and the LCD distance scale.  The central portion of the frame is enlarged 2x (to help with focus accuracy) in MF mode. Like most P&S digicams with a manual focus option, the system is neither fast nor convenient, but it does work.
+
+<b>Flash</b>
+
+The C750&#146s on-board multi mode pop-up flash is very versatile (Off, Auto, Red-Eye Reduction, Fill Flash, Night Scene, and Night Scene with Red-Eye Reduction modes).  Users can mimic second curtain flash synch with the Slow Sync mode or adjust flash intensity   /-2 EV. In addition the C 750 features a hot shoe for mounting more powerful external flash units. Users can opt to purchase the  Olympus FL 40 flash or mount third party flash units.
+ 
+<b>EXPOSURE</b>
+
+The C 750 offers a very impressive level of exposure flexibility, including Auto (for point-and-shoot simplicity), Program, and six easy-to-use Scene modes.  The scene modes make shooting stunning images easy by automatically optimizing exposure settings for specific shooting situations like Portrait, Landscape, Night-Low light, and Sports.  The C 750&#146s advanced exposure options include aperture priority, shutter priority, and full manual mode for more experienced photographers who insist on the maximum level of creative control. 
+
+<b>Special Exposure Modes</b>
+
+<i>Movie Mode</i>
+
+The C 750's Movie mode allows users to record short video clips with audio @ 320 x 240 or 160 x 120 at 15 fps.  The maximum length of the video clip is dependent  on the resolution setting and the amount of space available on the xD Picture Card  
+
+<b>Audio Notation</b>
+
+The C 750 permits the user to record short (up to 4 seconds) audio notes post exposure.
+ 
+<i>Panorama Mode</i>
+
+C 750 users can shoot panoramas (but only when using an Olympus branded xD Picture Card) combining up to 10 consecutive images.
+
+<i>2-in-1 Mode</i>
+
+In this mode the C 750 records two vertical half frame images (side by side) as one image file.  Can you say, &#147gimmick?&#148   I can&#146t think of a single logical or reasonable use for this function. 
+ 
+<i>Sequence Mode</i>
+
+The C 750 provides three Sequence modes but users can&#146t record TIFF images in sequence modes.  The  AF Sequence mode (other digicam manufacturers call this AF bracketing)  captures a series of 3 images, varying the focus distance slightly in each case (one exposure slightly behind the camera selected AF distance, one at the camera selected AF distance, and one slightly in front of the camera selected AF distance).  AF Bracketing is a great option when shooting rapidly moving action (like kiddie soccer games) and offers some insurance that users can grab that once in a lifetime 10x zoom shot of Junior driving the ball straight into the net. 
+ 
+<i>My Mode</i>
+
+My Mode allows users save personalized or frequently used exposure settings and access them easily and quickly through the Mode Dial. 
+ 
+<b>Metering</b>
+
+The C 750 provides three metering modes; default Digital ESP metering measures light from multiple points in the image frame to determine the best aperture--shutter speed combination based on brightness and contrast across the entire scene. Spot metering bases exposure on a small area at the center of the frame, allowing photographers to bias exposure toward the most important element in the composition.  This is especially useful when you have a subject that's backlit, or a subject that is either lighter or darker than the background.  Multi spot metering (manual mode) bases exposure on averaged data from up to eight &#147spots&#148 selected by the user. The C 750&#146s flexible metering options virtually guarantees proper exposure, a rare accomplishment for a prosumer digital camera. 
+ 
+<b>White Balance</b>
+
+White balance settings include Auto, Daylight, Overcast, Tungsten, Daylight Fluorescent, Warm White Fluorescent, Cool White Fluorescent, and Custom.  Users can also bias white balance   /-5 steps (plus steps move the color balance toward red.  Minus steps cool the exposure toward blue).  The ability to tweak the color balance is very helpful for advanced photographers and is a feature seldom seen on consumer level digital cameras. 
+  
+<b>In-Camera Image Adjustment</b>
+
+The C 750 allows users to adjust color saturation, contrast, and sharpening &#147in camera&#148  permitting more advanced photographers to fine tune exposures.  For example if you are shooting under bright lighting you can lower contrast to preserve shadow detail or on an overcast day color saturation can be increased to boost the subjective &#147pop&#148 of an image.  The Sharpening function can help shooters avoid the soft look that detracts from images shot at the telephoto end of the C 750&#146s long 10X zoom. Sharpness, contrast, and color saturation can be adjusted in ten incremental (-5/ 5) steps.  This feature coupled with the great range of white balance options provides serious photographers with an almost endless range of creative input. 
+  
+<b>Exposure Compensation and Auto Exposure Bracketing</b>
+
+The C 750 offers photographers the option of biasing exposure   /-2 EV in 1/3 EV increments to compensate for tricky lighting. The Auto Exposure Bracketing (AEB) mode will ensure (by shooting several successive images at slightly different exposure settings) that users will get at least one keeper when getting the exposure just right is critical. 
+ 
+<b>Noise Reduction</b>
+
+The C 750 performs well in low light settings but higher sensitivity (ISO 400) and longer shutter speeds (up to 16 seconds) can produce noise.  The C 750&#146s Noise Reduction mode significantly reduces image noise in long exposures and 400 ISO low light shots.  Noise reduction is automatic on long exposures
+
+<b>Sensitivity</b>
+
+The C750 provides Auto, 100, 200, and 400 ISO (35mm equivalent) settings, an acceptable range, although I would have liked to see an ISO 50 setting.  
+
+<b> DESIGN, CONTROLS, & ERGONOMICS</b> 
+
+<i>Design</i>
+
+The C 750 is a compact and stylish digital camera.  It&#146s a bit too large to  drop in a pocket but slips easily in a backpack, fanny pack, or small purse. 
+ 
+<i>Controls</i> 
+
+The C 750&#146s control layout is virtually identical to the C 730&#146s. The top deck houses the Shutter button, the Mode dial, the built in pop-up flash and the hot shoe. The C 750's rear panel layout is uncluttered and simple with controls arrayed directly above the LCD screen and the Compass style controller to the right of the LCD.  All controls are logically placed and easily accessed.
+  
+<i>Ergonomics</i>
+
+The C 750 is compact and lightweight with a control layout that&#146s superb (unless you&#146re left handed).  The user interface is excellent, continuously tweaked through four generations of C 700 series digicams.  Olympus has always been known for producing menu driven digicams, but with the C 750 most exposure options are managed by traditional buttons and dials.  Where it is required for users to resort to the menu system. the menus are logical and easily navigated once users become familiar with the camera. Kudos to Olympus, the C 750 is the best C 700 yet,  an imminently usable digital camera that will perform like a champ in an exceptionally broad range of picture taking applications. 
+  
+<b>Image Formats & Storage</b>
+
+The C 750 saves images in either uncompressed TIFF or compressed JPEG  formats. Images are stored to the postage stamp sized  xD Picture Card.  The xD picture card is a replacement for Olympus&#146 venerable Smart Media storage cards.  The C 730 allowed either xD or SM cards to used, however the C 750 supports only the xD picture card format. 
+ 
+<b>Power</b>
+
+The C 750&#146s power management is a real credit to Olympus&#146 engineering.  Even with an EVF, a powerful on board flash, and a 10X power zoom the C 750 makes its batteries last.  We used the camera for two days of fairly heavy shooting without exhausting the original set of batteries.
+
+<b>Technical Specifications</b> 
+
+Resolution: Four megapixels (2288 x 1712) or (3200 x 2400) with interpolation 
+Viewfinders: EVF (electronic viewfinder) and 1.5&#148 TFT color LCD
+Exposure Modes: Auto, Program, 6 scene modes (Portrait, Sports, Landscape / Portrait, Landscape, Night Scene,  and Self-Portrait), Shutter priority, Aperture priority, and full Manual.
+Image Formats: Uncompressed TIFF and JPEG (3 compression levels)   
+Metering: iESP TTL and Spot
+Lens: f2.8-f3.7/38-380mm (35mm equivalent) all glass zoom (11 elements in 7 groups with 2 aspherical elements for improved color and clarity)
+Auto Focus: iESP TTL AF and Multi area spot AF 
+Shutter Speed Range: 1/1000th of a second to 16 seconds
+Flash: Built-in Multi Mode Pop-up & hot shoe for external flash units
+Exposure Compensation: Yes   /-2EV in 1/3EV increments
+Auto Exposure Bracketing: Yes   /-2EV for 3 or 5 images in 1/3 EV increments
+Sensitivity: Auto, 100, 200, & 400 ISO equivalents
+White Balance: TTL iESP Auto,  Daylight, Overcast, Tungsten, Daylight Fluorescent, Warm White Fluorescent, Cool White Fluorescent, and Custom
+Image Adjustment: Yes&#151Contrast, Saturation, and Sharpening
+Noise Reduction: Yes&#151Automatic on shutter speeds of one second or longer
+Image Storage: xD Picture Card
+Connectivity: USB 1.1 and A/V out
+Power: four AA or two CR-V3 batteries 
+
+MSRP $599.00   Street Price Range $479.00-$499.00
+ 
+<b>Included</b>
+
+A 16MB xD-Picture Card, Four AA alkaline batteries, USB and A/V cables, software CD-ROM, Neck strap, Lens cap with strap, and printed User manuals 
+
+<b>Optional</b> 
+
+Wide-angle, tele, and macro auxiliary lenses, Olympus lens thread adaptor, Olympus WL-40 Speedlight, RM-1 remote control
+
+<b>In the Field/Handling & Operation</b> 
+
+I have been hearing great things about the Olympus Camedia C 750 for the past few months and wondering why it took Olympus so long to get the camera into stores (Olympus announced the camera back in February, but it wasn&#146t available for purchase until early July). My friend (who sells new and used digital and film photography equipment) was finally able to his hands on a brand new C 750 and we got together on a beautiful Saturday afternoon to check it out.
+
+Our first test was a check for color accuracy. Over the past couple of years we&#146ve developed a simple color test that works very well and allows us to compare results from one digital camera to another. We use a large cardboard box with the front panel cut away and lined with white photographic background paper. We first auto white balance the camera using the white background and then set up and shoot a selection of brightly colored (red, blue, green, and yellow) plastic children&#146s beach toys with the tripod mounted camera under a very simple lighting set-up. 
+
+The C 750 passed the tests with flying colors (no pun intended) and color accuracy was excellent, although both of us thought the reds were just a bit hot. Overall, the C 750&#146s color is fairly neutral---bright, vibrant, and well saturated, but not overly so. 
+
+After we finished our color tests we headed for Seneca Park to shoot one of my favorite nature subjects, a very small waterfall on Beargrass Creek right at the edge of the Seneca Park golf course.  I&#146ve shot the waterfall during all four seasons and in every kind of lighting imaginable.  We parked just past the bridge and walked down to the creek and spent about half an hour shooting the tumbling water and  rocks and branches poking above the surface.  We&#146ve had a lot of rain the past couple of weeks, so the little waterfall was looking pretty good.  We used the C 750&#146s landscape scene mode to soften the tree shaded background and make the little waterfall stand out prominently. 
+
+I like to shoot my favorite locales in various types of lighting and in all four seasons of the year.  This is one of the secrets of famous landscape photographers, choose a few interesting  locales and shoot them year-round under every sort of lighting and in every kind of weather---you&#146ll become more and more familiar with the locale and your images will get stronger and stronger.  
+
+After we finished up we headed for Heine Brothers Coffee shop right across Bardstown Road from the Mid City Mall.  Heine Brothers shares an old Victorian house with Carmichael&#146s Bookstore. It&#146s a great place to watch an eclectic collection of college students, readers (from Carmichael&#146s next door), and shoppers taking a break.  An alert photographer can usually squeeze off a few grab shots without attracting too much attention, however that wasn&#146t practical with the C 750 (the 10x lens and powerful flash really attract attention in a dimly lit place) so we decided to have our cappuccinos on the patio and watch the Saturday afternoon action. 
+
+The Baxter Avenue Theaters, several upscale restaurants, and the Comedy Caravan make Bardstown Road in front of Mid City Mall ground zero for daters.  We spent about an hour sitting at one of the outside tables watching the folks on Bardstown Road and sneaking some candids of their interactions with each other and their trendy environment.  The C 750&#146s 10x zoom made it a snap to surreptitiously grab &#147street shots from fifty to 100 yards away from the action. We shot some images of a few of our local characters and a couple of environmental portrait type shots.  The C 750 did a great job, and none of our subjects was even aware that they were being photographed. 
+
+Here are a couple of tips for shooting people shots in outdoor venues.  Sidewalk cafes make a great base for shooting street and environmental portraits because pedestrian traffic flows by steadily and most folks don&#146t pay any attention to what the caf� patrons are doing.  Sit straight (remember what your mother always said about good posture) with your feet flat on the ground/floor/sidewalk and your back braced against your chair (or in my case against a concrete table). 
+
+Hold the camera as you would normally, but tuck your elbows in as close to your body as possible---you can hold the camera more steadily (especially a camera with a long lens) this way. 
+
+Choose a background (like an interesting storefront) and then select your subject(s) and track them until they pass in front of your chosen background (this will help you avoid having a stop sign or telephone pole protruding from the top of their head) and snap their picture.  
+
+We got together again Sunday morning and my friend wanted to check out the 2nd annual Old Fashioned Ice Cream Social at Riverside (the Farnsley-Moremen Landing). Since I had chosen the locale of our last outing it was my friend&#146s turn to choose where we spent the day playing with the newest Olympus digital camera. 
+
+The Farnsley-Moremen House stands on a gentle slope overlooking the Ohio River, about ten miles south of Downtown Louisville. The Federal style house was built in 1837 and was the heart of the largest farm in Jefferson County. For more than seventy years Steamboats stopped at the Riverside landing to pick up and discharge passengers and load and off-load cargo. The family sold the historic property to Jefferson County in 1988. 
+
+Sunday was absolutely perfect for an old fashioned Ice Cream Social with blue skies, puffy white clouds, and temperatures in the mid eighties.  We were able to shoot pictures of kids riding ponies, kids playing games, kids hanging out at the petting zoo, and kids eating ice cream.  We also shot some close ups of summer flowers and some architectural details at the old house.  The afternoon lighting (golden light) was excellent and we were able to get some landscapes down by the river that looked great.  I do wish the Belle of Louisville turned up for this event, rather than the much newer Spirit of Jefferson---it would be really nice to get some shots of the old red and white sternwheeler steaming down the Ohio River.  The Belle is the oldest steamboat (built in Pittsburgh in 1914) still plying the rivers of the United States. She would make a wonderful photographic subject coasting up to the landing, especially on a bright sunny day.  
+
+<b>Shutter Lag/Timing</b>
+
+The C 750&#146s boot up cycle (camera on and extend the lens) is longer than average, between five and six seconds.  Shutter lag and AF lag with C 750 range from average to a bit slower than average and shot to shot timing runs about two seconds.  Autofocus speed is about average for a long-zoom camera.  Write to card times are about average, except for TIFF images, which are fairly slow.  If you want to use the C 750&#146s monster zoom to shoot action you&#146ll have to practice pre-focusing and learn to anticipate the peak action by about half a second.  Overall, the C 750 a bit slower than average.
+
+<b>Image Quality</b>
+
+After looking at the images we&#146d shot over the course of our weekend with the C 750 we both agreed that the images were well exposed, the color was great, and image quality was nothing short of remarkable.  Superb 8X10 enlargements are virtually guaranteed and very good 11X14 enlargements are a realistic option.  The C 750 consistently produces very good to excellent images with accurate color under virtually all shooting conditions. 
+
+The C 750's auto white balance setting is accurate, but the overall look is a tiny bit warm.  Manual white balance eliminates the warmth and produces remarkably accurate color balance for a prosumer digital camera.  Skin tones are handled very well and portraits look natural.  Overall, the C 750&#146s images are equal or superior to most currently available four megapixel consumer digital cameras.    We printed one 8X10 image of a goth couple waiting for the Bardstown Road Trolley with an Epson 785EPX printer on Kodak photo paper---the image was actually pretty good even though it was shot at about 250mm (equivalent) with the C 750 handheld. 
+ 
+<b>A Few Concerns</b> 
+
+The C 750&#146s 10X zoom lens is actually quite good, however like all complex multi element wide angle to telephoto zooms, this lens suffers from distortion.  Photography has always been about compromises and obviously any compact digital camera with a 10X zoom lens is going to have to make some  compromises.  There is very minor barrel distortion at the wide angle end of the zoom but pincushion distortion at the telephoto end of the range is barely visible. Chromatic aberration (purple fringing) occasionally rears its ugly head at the telephoto end of the zooms range ---especially in strongly backlit situations.  There is also some noticeable corner softness in the super macro mode.  The C 750 suffers from above average image noise in low light/long exposure situations. However, pixel mapping, noise reduction, and post exposure image manipulation will eliminate most of this. 
+ 
+The EVF display doesn&#146t seem to refresh as rapidly as it could and there is some blur when panning, however this really shouldn&#146t cause any problems.  I am still mystified as to why Olympus can&#146t provide an auto focus aid beam for low light shooting and why the C 750&#146s 10X zoom lens isn&#146t stabilized (the two megapixel Olympus C2100 had both a focus aid beam and image stabilization).
+ 
+<b>Conclusion</b> 
+
+My friend and I were both very impressed with the Olympus C 750, but is it worth five hundred bucks?  Yes, for photographers who need the 10X zoom and advanced features.  Both my friend and I are wondering if Olympus has plans to shoehorn the five megapixel CCD from the C50/C5050 into the new C 770 (I&#146m guessing at the model designation, but I wouldn&#146t be surprised to see just such a camera early next year) body at some future date. Boosting the C 750&#146s resolution to five megapixels, the addition of image stabilization, and a focus aid beam would make the C 770  a real contender for the best prosumer digital camera ever.  Are you listening up there on Mount Olympus?  In the meantime the C 750 fills a niche that no other manufacturer has adequately addressed, so I&#146m willing to bet the camera will do quite well in the marketplace.  Here&#146s hoping that Olympus&#146 engineers are already at work on the C 770. 
+
+If you like the C 750's feature set but don't need 4.0-megapixels and a hot shoe, consider the  new C 740 or keep your eyes open for a bargain price on the  C 730 and save yourself a few bucks.
+
+<b> A Final Word</b>
+
+This review effectively marks my fourth anniversary as a member of epinions (the date on my profile page is incorrect).  In July of 1999 (I can&#146t recall the exact date) I got an email from a gentleman named Tom Fallows inviting me to join something called epinions, a soon to be launched consumer advice website, and write camera and photo equipment reviews.  I really liked the idea of consumers sharing their experiences (bad & good) with fellow consumers. So I joined up and penned a couple of reviews and I&#146ve been hopelessly addicted ever since.  I would like to thank the small group of epinionators who read my first reviews and Alex Selkirk for his advice, patience, and encouragement during my early days on the site.
+
+Remember, Epinions is your best source for independent professional quality reviews of the gadgets and gizmos you yearn for. 
+
+<b>Links</b>
+ 
+Check out my review of a bargain priced and very capable photo quality ink-jet printer, the <b>Epson Stylus Photo 785 EPX</b> ink-jet printer 
+<a href="/content_60776812164">http://www.epinions.com/content_60776812164</a> 
+ 
+For definitive advice on <b>How to Choose a Digital Camera</b> please see my review: 
+<a href="/elec-review-2E46-17B174E2-39A418E3-prod1">http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+For more information about other four megapixel digital cameras you may find the reviews  listed below informative: 
+
+<b>Nikon Digital Cameras</b> 
+ 
+Nikon Coolpix 4300 
+<a href="/content_80569470596">http://www.epinions.com/content_80569470596</a>
+ 
+Nikon Coolpix 4500 
+<a href="/content_69311368836">http://www.epinions.com/content_69311368836</a> 
+ 
+<b>Canon Digital Cameras</b> 
+
+Canon Powershot S45
+<a href="/content_84242173572">http://www.epinions.com/content_84242173572</a>
+
+Canon Powershot S400
+<a href="/content_94761619076">http://www.epinions.com/content_94761619076</a> 
+
+Canon Powershot G3 
+<a href="/content_78672989828">http://www.epinions.com/content_78672989828</a>
+
+Canon Powershot G2 
+<a href="/content_47646084740">http://www.epinions.com/content_47646084740</a> 
+ 
+Canon Powershot S40 
+<a href="/content_59617087108">http://www.epinions.com/content_59617087108</a> 
+ 
+<b>Olympus Digital Cameras</b> 
+
+Olympus C 4000 
+<a href="/content_79317208708">http://www.epinions.com/content_79317208708</a> 
+
+<b>Sony Digital Cameras</b> 
+
+Sony DSC S85 
+<a href="/content_51957567108">http://www.epinions.com/content_51957567108</a> 
+ 
+<b>Minolta Digital Cameras</b> 
+ 
+Minolta Dimage F100
+<a href="/content_76963548804">http://www.epinions.com/content_76963548804</a> 
+
+
+ 
+
+ 
+ 
+
+ 
+
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+
+
+ 
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

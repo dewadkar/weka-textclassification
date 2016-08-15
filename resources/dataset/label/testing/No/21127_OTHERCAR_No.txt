@@ -1,0 +1,25 @@
+DOC>
+<DOCID> 21127 </DOCID>
+<PRODUCT> Digital_Cameras/614730_Sony_DSC_F505V_Cyber_Shot_Digital_Still_Camera </PRODUCT>
+<URL> http://www.epinions.com/elec-review-30FF-BEC12E9-39A4C55C-prod6 </URL>
+<TEXT>
+            I was in my local camera shop a few days ago looking for a small carrying case for my new digital camera (I spend more time in photo and electronics stores than the average Canon representative�), and I was chatting with a friendly salesman about digital cameras.  I had barely noticed the middle-aged man standing a few yards away staring blankly into a showcase.  The salesman excused himself from our conversation, and went to proffer assistance to this gentleman.  Our mystery man responded, &quot;No, thanks, but I�d like to talk to YOU, if you don�t mind?&quot;, pointing a friendly finger in my direction.  As it turned out, this stranger (Chris, he introduced himself), had just purchased the new Sony DSC-F505V digital camera, and wanted to pay me $60 to spend 3 hours showing him how to use the camera.  He turned out to be an ex-wedding photographer, turned photo-hobbyist who had just made his first foray into digital photography.  As an avid photographer, I figured it would make for a good Epinions review (plus I can never turn down an offer to play with new technology), so off we went to the streets of New Jersey for a little photographic adventure�  I also took my 3 month old Nikon Coolpix 990 with me to see how it would stand up to Sony�s newest competitor.  
+
+Chris pulled out his manual while I played with the controls, and by the time he had read over the first 3 pages, I had the camera figured out.  This was not completely attributable to my camera skills, I must admit.  Sony has done a nice job laying out the controls with good access to menus and fast access to basic functions.  After spending what turned out to be 5 hours learning, teaching, and photographing with the DSC-F505V, I can say that Sony came pretty close to producing a great camera.
+
+Let�s start with the Sony�s strong points.  The Carl Zeiss lens produces excellent results with great color saturation.  The 5 times optical zoom provides great range (though it operates a little slowly), and makes it much more versatile in telephoto situations (up to the 35mm equivalent of 190mm!!).  This digicam wins points in my book by including a good amount of creative control (and I love the manual-focusing ring at the front of the lens).  
+
+All was going well on our photo shoot�when suddenly the digipoo hit the fan�  Fifty minutes into the afternoon and already the freshly charged lithium-ion battery was dead.  Luckily he had the good sense to spend an additional $50 for a spare battery, but with a two-hour charge time (Sony includes 1 battery and the charger) and less than an hour�s operation, we had encountered the DSC-F505V�s first weakness.  This flaw is worsened by the fact that you cannot use any other types of batteries in the unit, and since there is no viewfinder, there is no way of saving power by turning off the display.  
+
+After another hour�s use, some intense reading (of both the manual and some reviews), and uploading the images to a computer; other flaws began to surface.  The included 8MB MemoryStick filled up very quickly (for $1000, Sony should have included a 16MB card).  The manual is virtually impossible to follow, and the camera is a little too bulky for it�s features.  Flash performance was also a little below average, and I thought Sony should have included a more versatile set of metering options (center-weighted and spot are your only choices). 
+
+I also think that Sony slightly misrepresented the DSC-F505V by advertising it as a 3.7 megapixel camera.  What the camera actually does is use a 3.3 MP (2048x1536) CCD, which is partly blocked from the lens by the camera�s design.  This means the camera is only actually capturing 2.7 megapixels (1856x1392).  What the camera then does (albeit better than some earlier digital cameras), is interpolate the image out to 2240 by 1680, creating a 3.7 megapixel image.  This final image does not produce quite as good a result as true 3.34 megapixel camera.
+
+When the second battery died (55 minutes out of this one), I showed Chris my Coolpix 990 (check out my user page for a complete review).  After an hour or so he had the basic functions down, and he was enamored with the Nikon�s swivel head and control system.  We talked about some of the obvious advantages (true 3.34 megapixel resolution, compact design, pro features, inclusion of a viewfinder, and the ability to use AA batteries), and it was a no-brainer for him.  Right then, we drove to the store where he bought the DSC-F505V, and exchanged it for their second-to-last Nikon 990.  I talked to him again several days later, and he was as thrilled with his new Coolpix as I was.
+<br><br>
+            
+<label> No
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,138 @@
+DOC>
+<DOCID> 14932 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_SonyMCVV-Sony_MVC-FD73 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-16F5-1A22327E-3A3F6B34-prod4 </URL>
+<TEXT>
+            I am not Joe Photographer, but I do take a lot of pictures.  I am one of those people who require a point-and-shoot camera, otherwise I�m guaranteed to get the picture out of focus and your head chopped off.  When it was time for human beings to line up and get the picture-taking gene, apparently I was busy checking out mountain bikes or snow skis or something else of that nature.  Anyhow, I missed out.
+
+But, as I said, I do take a lot of pictures.  I�m an insurance adjustor with a fairly large insurance company.  One of the ways we document damage is to take various photographs and keep them in a file.  This way, if something goes awry in the future, there is always a photograph to look back on and show the extent of the damages.
+
+My company usually provides me with all the equipment that I need to do my job.  However, like many companies, they look at the bottom line and try to figure out a way to do the job in the least expensive manner possible to make the books look better.  While this always looks good on paper, higher ups usually have been out of the field for years and don�t think what would be the best way to get a job done.
+
+For years, I�ve been using a 35mm Sanyo camera.  It is, in all likelihood, the most durable camera in the world.  It�s taken several spills off of two-story roofs, hit concrete, and it still takes pictures.  However, the casing was shot, cracked, split and fractured so that it was the ugliest thing in the world.
+
+And the problem was, I�d not use up an entire roll of film in a single day.  Sometimes, if I had 36 exposures of film on the roll, it might take me a week or two to shoot an entire roll of film.  On top of that, I�d have to get the film developed, and by the time I got it back, matching photos up with files was a difficult task, as most of it would have to be done by memory � my memory � which sometimes doesn�t work as efficient as I would like.  I still have a rather large pile of photos that haven�t been matched up to files.
+
+So, it took a few years, but my company has finally entered the digital age.  They went ahead and purchased Sony Digital Mavica MVC-FD73 digital still cameras for their field adjustors.
+
+<b>Specifications of the Sony Digital Mavica MVC-FD73</b>
+
+System:
+
+Image Device			�-inch CCD
+Lens				f-4.2 � 42mm (40 � 400mm, when converted into a
+				35-mm still camera)  F1.8 � 2.9
+Exposure Control			Automatic Exposure
+White Balance			Automatic
+Data Compression		Standard JPEG
+Memory				Floppy disk: 3.5 inch 2HD MS-DOS format (1.44mb)
+Flash				Recording distance limitations: 1 5/8 � 8 1/3 ft.
+				(0.5 � 2.5 m)
+
+LCD Screen:
+
+Screen Size			2.5 inch
+LCD Panel			TFT
+Total Dot Number		84260 dots
+
+(I took that from the instruction manual)
+
+<b>How the Sony Digital Mavica MVC-FD73 works</b>
+
+Please, remember that I am not an expert when it comes to cameras.  I�m one of those people who still think that those throwaway one-time use cameras are the neatest things on earth.
+
+Saying that, I think this camera is pretty awesome.  What I love most about the digital camera is that I can look at a small screen instead of trying to squint through a tiny peephole and then hope that I don�t move the camera while I�m pressing the button.
+
+Instead, I can see the picture exactly how it will appear on the LCD screen.  All I do it point, press the button, and the camera writes the picture directly to the floppy disk.
+
+And then, when I�m curious if I�ve cut off someone�s head, I simply switch it from camera mode to play mode, and I can see the exact photograph.  If it isn�t what I need, then I delete it and take the photograph again.
+
+A floppy can hold an amazing number of photographs in the basic mode, because the quality is a pretty low JPEG.  This doesn�t mean that the picture is a low-quality photograph; rather, it means that it isn�t taking a high-detail picture.  For my needs, which involve looking at drywall, carpeting and roofs, this is perfectly suitable.
+
+You can bump up the quality of the JPEG by selecting <i>FINE</i> on the quality setting instead of <i>STANDARD</i>.
+
+A <i>STANDARD</i> JPEG-filled disk will hold anywhere from 25-40 photographs in a 640x480 format.  When you use the <i>FINE</i> setting, you�ll be limited to 15-20 photographs of the same size.  If, however, you were able to get more pictures than what is recommended, the camera will never store more than 55 photographs on a single diskette, despite the fact that you may have more room on it.
+
+When the floppy diskette is full, a text message of <i>DISK FULL</i> will appear on the screen.  All that you have to do is pop out your full disk and replace it with a fresh one, and you can continue to take pictures.
+
+Running into a full disk shouldn�t be a surprise, because there is a graphical indicator in the upper right-hand corner.
+
+<b>Other nifty picture modes</b>
+
+You can record an e-mail picture instead of a regular 640x480 JPEG.  The e-mail picture will record in a 320x240 size JPEG and is compressed automatically.  All you have to do is pull the disk, stick it in your computer, and send the picture as an attachment in your e-mail program.
+
+You can also take a BITMAP (.BMP) photograph.  The downside to this is that you can only fit one .BMP picture on a floppy disk because it is so detailed.
+
+Finally, you can take what�s called a Multi-Image Continuous Recording.  It will take a make a single file out of a picture taken every 0.25 seconds.  The plus side to this is that it will be like a movie.  The (highly) negative side to this is that you can only play this format in this camera.  You cannot take the disk out and play it in a regular PC.
+
+<b>Picture Effects</b>
+
+One of the things that Sony brags about is the picture effects.  This is something that is useless for my needs, but serious photographers may find them quite useful (and frankly might understand them).
+
+This is taken directly from the owner�s manual:
+
+Negative Art:		The color and the brightness of the picture is reversed.
+Sepia:			The picture is sephia.
+B&amp;W:			The picture is monochrome (black and white).
+Solarize:		The light intensity is more clear, and the picture looks like an illustration.
+
+<b>Programmed Auto-Exposure (AE) Modes</b>
+
+This camera does allow you to take pictures according to your shooting situation.  It has six different modes available.
+
+<i>Soft Portrait Mode</i> - This feature creates a softer background image and lets you focus more on people instead of what�s in the background.  This is similar to washing out a bit of the background.
+
+<i>Sports Lesson Mode</i> - This feature is used when capturing fast-moving objects, such as people running, bicycling, ball games, etc.
+
+<i>Beach &amp; Ski Mode</i> - When you�ve got too much light out, and it is causing unwanted reflections on people�s faces or the light is too strong, you can use this mode to lower the level of the light.
+
+<i>Sunset &amp; Moon Mode</i> - During dusk, dawn or while taking pictures at night, it is sometimes hard even with a flash to get the picture to take properly.  This mode fixes the situation and sharpens the image.
+
+<i>Landscape Mode</i> - This takes photographs at long distances when your goal is to get the entire effect of the background, such as a mountain scene or �Big Sky� pictures.  It will not wash out the background like it will in the <i>Soft Portrait Mode</i>.
+
+<i>Panfocus Mode</i> - This is actually the mode I use the most.  It is used to record close objects or distant objects without any fancy special effects or help.  This is the mode to use when you are trying to take a picture of something that is difficult to focus on or there is very low light and the flash will have to light up everything.  This mode is closest to taking pictures with a normal 35mm camera.
+
+<b>Ease of Use</b>
+
+To get started, you have to first charge the camera.  It comes with a charging cord that you plug into any standard electrical outlet in your home.  After about six hours, the camera is totally charged.  It will run approximately 120 minutes in camera mode and about 80 minutes in play mode.  There is an indicator on that will always inform you how many minutes you have left of battery life.
+
+Frankly, I find that much more appealing than a graph bar with a + and � sign on it.
+
+The power switch is easy to use and difficult to manipulate on accident.  It has a green center button that must be depressed and then slid down to turn it on.
+
+Next, you have a wide-angle lens or a telephoto lens to work with.  Like many 35mm cameras, this is controlled by a toggle switch.  By looking at the LCD screen, you can tell exactly how the camera is going to take the picture.
+
+Again, as I stated above, I find this much more appealing than squinting through a viewfinder.
+
+While the flash is automatic, if for some reason you don�t want it to come on, or you need to force it to come on, you can control the flash by depressing the <i>flash</i> button.
+
+Then, you simply depress the shutter button and your photograph is taken.
+
+<b>Other comments about the MVC-FD73</b>
+
+The camera does come with a neck strap.  This is nice, because I�d hate to drop this camera off a roof.  I�m sure it won�t hold up in the same fashion as my 35mm camera did.
+
+The camera itself does appear to be rather sturdy.  It is big, but it isn�t what I�d classify as bulky or heavy.  It doesn�t weigh much more than my plastic 35mm camera did.
+
+<b>Downsides to the MVC-FD73</b>
+
+Many digital cameras today use flash-memory cards or can be hooked up to a computer.  This camera will not do either of those functions.  The only way to store pictures is on a floppy disk.  There is no way, even with USB, to hook the camera up to your computer and just download them into the hard drive.
+
+The plus side with this, of course, is that most of us have a jillion floppy disks sitting around.  However, if you have to purchase floppies, they get pretty pricey these days.  I pick up a 50-pack of floppy disks for $19.99 at Office Depot.  You can, of course, look for sales in the Sunday newspaper and get better prices.
+
+<b>Final Considerations</b>
+
+As I stated initially, I�m far from a camera expert.  However, I think that the Sony Digital Mavica MVC-FD73 is a phenomenal piece of technology that is exceedingly easy to use.  I was able to charge it up and start taking pictures without studying the owner�s manual (and that says a lot for complicated electronics these days).
+
+For the money ($250 refurbished from Sony, about $500 new at Best Buy), I think this is a feature-rich camera, and it looks as if it is manufactured in a quality fashion.
+
+You can even hook it up to a tripod if that�s your game.
+
+I�m going to go ahead and give this camera four out of five stars.  While I think the picture clarity is good and that it is easy to use, I dislike the inability to hook it up to my computer and to be regulated to 3.5-inch floppy disks.
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

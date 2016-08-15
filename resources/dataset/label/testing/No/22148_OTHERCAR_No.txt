@@ -1,0 +1,18 @@
+DOC>
+<DOCID> 22148 </DOCID>
+<PRODUCT> Digital_Cameras/pr-D-Link_DSC-350_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/elec-review-76C9-72E9A9A-39D94A54-prod1 </URL>
+<TEXT>
+            This camera is not a good deal. It takes very poor quality, and unreliable pictures. Any little nuance in the lighting will throw the camera, and make it take a very dark picture because of a glint of light on someones jewlery. Medium low light sometimes works. Alot of light makes glares. Low light does not work. The green light which means you are able to take a picture rarely lights up, and when it does it will go away before you can aim the stupid thing. However once taking a series of pictures it seems to be able to take all the pictures it wants.
+
+The driver cd doesn't work right in windows 98. It kept not being able to find files. I had to manually install the twain32 drivers so i could even download the pictures from the camera. Video mode doesn't work. The MGI Photo/Video suite software crashes. There is no way to preview a picture when taking a picture via TWAIN over the USB cable.
+
+The video capture mode of the camera itself when it is going standalone blurs the images. I have not had much practice with that though. JPEG compression is a plus on the camera though. It allows you to store hundreds of dark, unrecognizable images on its 8mb of flash.
+
+All in all, don't buy this camera, spend an extra 50$ and add a flash<br><br>
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

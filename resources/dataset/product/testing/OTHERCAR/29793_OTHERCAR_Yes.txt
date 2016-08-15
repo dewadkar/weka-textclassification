@@ -1,0 +1,35 @@
+DOC>
+<DOCID> 29793 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_KodakDCC-Kodak_DC-260 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-5FD3-D844DFE-38EB328B-prod2 </URL>
+<TEXT>
+            I purchased my Kodak DC-260 digital camera on March 1999, based on a review I read in PC Magazine.  A mega-pixel (1536 x 1024 pixels) camera, this camera takes beautiful pictures in a wide variety of situations.  The controls are easy to use and well positioned on the camera.  When you take a picture, it briefly appears on a color LCD display on the back of the camera, so you can opt to delete the image and shoot again.  
+
+In outdoor conditions or with the flash, colors are bright, accurately rendered, and vibrant.  Image quality is also sharp, particularly with outdoor light.  I have successfully used this camera in low light conditions, although the photo quality becomes grainier and images become blurred in darker conditions without the flash.  Night photography is questionable even with the flash, but no worse than attempting to take an SLR photo with ISO 100 film.   
+
+I have found action pictures to be a little problematic.  Pressing the shutter button causes an up to 1/2 to 3/4 second delay as the camera checks the exposure and focus, and then snaps the picture.  By then your 'Kodak moment' can be long gone.  Catching a spontaneous moment can be a real challenge.  
+
+The 3X zoom is smooth and easy to use.  Shutter speed adjusts automatically from 1/4 to 1/400 second.  Images are stored onto an included 8MB Kodak picture card.  This card holds between 12 and 95 images, depending on your set resolution (I almost exclusively use the high resolution mode).  The camera also comes with a power adapter for when the batteries run down.
+
+And run down they will - this camera, like other digital cameras I have used, eats batteries.  A typical session will take around 50-80 pictures, depending on how judiciously you use the camera's extra features.  While the LCD viewfinder feature is a nice feature on the camera, running it for more than a minute will almost guarantee a low battery warning.  Rechargeable batteries are highly recommended.  
+
+By pressing a 'record' button on the back, the camera allows me to record a voice annotation over each photo.  It is stored as a .WAV file in the camera and transfers with the pictures to my PC.  But I have rarely had a need to use this feature. 
+
+There are several different methods to transfer images from the camera to your PC.  The included USB cable can plug into any USB-compatible computer.  But my favorite method is the PCMCIA adapter (in the accessory kit, see below), which accepts the Kodak picture card, slides into my laptop and allows me to get my pictures in less than a minute.
+
+Purchasing the Kodak accessory set is recommended - it includes a carrying case, a 16 MB picture card, the PCMCIA adapter, 4 rechargeable AA batteries and a charger.   
+
+The camera comes with a lens cap attached to the body of the camera, but it would have been nice to have a cover that opens automatically when you turn the camera on.
+
+The only other annoying feature of this camera is when you press the shutter button, an audible shutter click sound is emitted from the built-in speaker(!).  This helps to give you an idea of the exact instant the picture is taken, but can be a public distraction at weddings or other situations where you want to be quiet.  
+
+The camera is sturdily built, however, I have had to send the camera in for repair on two separate occasions over the past year.  In the first occasion, the camera started behaving inexplicably (out of focus pictures, powering down as soon as it was powered up).  The second time jostling caused the camera to power on while in my computer bag, causing the power zoom to be twisted out of track.  In both circumstances I received my camera back within a week at no charge for the repairs (the camera comes with a one year warranty, which can be extended at purchase time up to 3 years).
+
+Overall, I am more than pleased with this camera.  As a consultant who does extensive travelling, I have used this camera in a variety of situations and venues, and emailed the results to my family so they can see what I'm up to.  And now I have fewer excuses than ever to put up my web site!
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

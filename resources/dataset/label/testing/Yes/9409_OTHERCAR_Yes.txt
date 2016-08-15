@@ -1,0 +1,151 @@
+DOC>
+<DOCID> 9409 </DOCID>
+<PRODUCT> Digital_Cameras/Nikon_Coolpix_4500_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_89476402820 </URL>
+<TEXT>
+            <b>Good Features</b>
+This camera has many fine features and several outstanding features.
+This tempts you to expect that the rest of the features would be
+designed to the same high standard, but the user interface and the USB
+interface are not. This camera can take great pictures. I don't know
+of anything better -- but I am still disappointed and wistful, because
+with a few modest changes this camera could have been made much
+friendlier. Much, much friendlier.
+
+My favorite features include:
+ --  It excels at close-up "macro" shots. Competing brands don't
+come anywhere close.
+ --  It is small enough to take along almost anywhere.
+ --  Although some people mock its swiveling mechanical
+design, likening it to a "transformer" toy, it actually makes sense.
+It can have a long optical path in a small package, without the
+complexity of multi-stage telescoping. This is probably not unrelated
+to the excellent macro performance.
+ --  The optics are good and sharp.
+ --  The LCD viewfinder is well-behaved. This is in marked contrast
+to the more-or-less comparable Canon model, where the LCD isn't bright
+enough and suffers strange color-shifts depending on viewing angle.
+<p>
+The camera has the four basic exposure modes (Programmed-auto,
+Aperture-priority, Shutter-priority, and Manual ... P, A, S, and M,
+respectively). It also has about 16 fancy "scene" modes, such as
+Close-up, Night-portrait, Party/Indoor, et cetera). Most of these
+appear to be variations on Programmed-auto mode, with various tweaks
+and biases applied to the program, but they are so poorly documented
+that one can't be sure.
+
+See reference 1 for a fuller discussion of facts and figures
+on the many, many features of this camera.
+
+<b>Broken Features and Missing Features</b>
+
+ --  The lens isn't the fastest thing you'll ever see.
+ --  The user interface is poorly designed; see discussion below.
+ --  The USB interface is for file-transfer only. No camera control,
+not even shutter release via USB; see discussion below.
+ --  The EXIF header in the .jpg file doesn't contain 
+focus-distance information. Other brands manage to include this.
+ --  The User Guide is superficial. I would have liked to see a lot more
+technical information about what the various features do.
+
+<b>User Interface Deficiencies</b>
+
+ --  In general, there is an overall lack of orthogonality. Features
+that ought to be independent have illogical interactions.
+ --  As a conspicuous example of non-orthogonality, the manual-focus
+feature is only available in the four basic exposure modes (P, S, A,
+and M), not in any of the "scene" modes.
+ --  There is no quantitative information about the focus-distance
+when using manual focus. There is only a low-precision qualitative
+indication, i.e. a thermometer-style bar that goes from "flowers"
+(near focus) to "mountains" (far focus). It is impossible to choose a
+desired focus-distance <i>a priori</i> and dial it in. It is not even
+easy to reproduce a previously-used focus-distance setting. This is
+in contrast to other brands, which manage to display a numerical value
+for the focus-distance. Even some scale of tick-marks against which
+the thermometer bar could be compared would be a step in the right
+direction. Tick-marks plus digits would be ideal.
+ --  The "focus confirmation" feature is useful only on rare
+occasions. It applies a faint "highlighting" effect to the in-focus
+region, but the effect is usually not sufficiently noticeable, even if
+you know exactly what to look for.
+ --  It takes two hands to dial in a manual-focus setting. This is
+in contrast with, say, the exposure-bias setting, which can be dialled
+using only one hand, even while holding the camera in the same hand.
+ --  The battery status indicator does not appear at all unless the
+battery is low. That means you can't just grab the camera and run;
+you don't know whether the battery is almost full or almost low.
+
+If I had been designing this thing, I would have put a few more
+function buttons on top, where there's plenty of room, so that there
+would be 100% orthogonal one-handed control of
+ --  Shutter exposure time (in S and M modes).
+ --  Aperture (in A and M modes).
+ --  Exposure bias (in P, S, and A modes).
+ --  Focus distance (in all exposure modes).
+ --  Zoom.
+ --  Shifting of the "spot" when spot-focus and/or spot-metering
+are being used.
+
+It should go without saying that those six functions should be
+orthogonal to the mode-selection function. I wouldn't mind if
+mode-selection were to require two hands; right now it requires only
+one, which illustrates the poor sense of priorities in the current
+design. Zoom, spot-control, and one other function can be
+conveniently controlled, which means three of the six functions
+cannot.
+
+<b>USB Limitations</b>
+The USB interface is horribly limited. Apparently it can do file
+transfer an nothing else. This is in contrast with other brands, and
+indeed early Coolpix models, where you could at least perform shutter
+release via USB.
+
+The camera ships with a CDROM containing a bunch of Nikon software for
+doing image transfers. I cannot imagine why anybody would install the
+software. The camera appears on the USB bus as a standard
+mass-storage device. This means you can plug it into just about any
+computer (Linux, Macintosh, Microsoft) and transfer the pictures as
+ordinary .jpg files.
+
+Since they went to the trouble of providing a USB interface, I was
+hoping they would provide full USB control of the camera. I would
+have liked to use the camera to take a series of time-lapse photos:
+Using software such as PhotoPC (reference 2) via USB, I would
+like to set the focus and exposure et cetera, release the shutter,
+transfer the .jpg file, wait, and iterate. But no; Nikon wants you to
+just take pictures manually and then transfer the files.
+
+You can't take pictures (manually or otherwise) while the USB cable is
+connected. All camera functions including the LCD display shut down
+when the USB cable is connected.
+
+To perform remote shutter release, Nikon wants you to
+buy an expensive, non-USB, non-computer-compatible widget.
+However, according to reference 3, you can make your own cable
+and control the shutter release from your computer via the serial port
+(not USB). I haven't tried this, and I don't know whether it is
+possible to use the serial channel for file transfer or any purpose other
+than simple shutter release.
+
+<b>Summary</b>
+You can take very good pictures with this camera.
+But in this price range, I would have expected a much better-designed
+user interface and a much more capable USB interface.
+
+<b>References</b>
+
+0. http://www.av8n.net/reviews/coolpix.htm
+
+1. http://www.dpreview.com/reviews/nikoncp4500/ 
+
+2. http://www.math.ualberta.ca/imaging/
+
+3. http://delphys.net/d.holmes/photos/coolpix_e990/e990_usb_cable.html
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

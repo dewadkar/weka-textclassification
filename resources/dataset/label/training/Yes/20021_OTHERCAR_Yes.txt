@@ -1,0 +1,16 @@
+DOC>
+<DOCID> 20021 </DOCID>
+<PRODUCT> Digital_Cameras/514237_Largan_Chameleon_3 </PRODUCT>
+<URL> http://www.epinions.com/content_122190073476 </URL>
+<TEXT>
+            I recently purchased a used one of these on eBay and am pleased with it.  The resolution is true 1.3 MP, unlike some cameras in its price range that are VGA cameras that claim that you can interpolate the pics to 1.3 MP with software.  The photo quality is good, and like most digital cameras is best in the optimal lighting and distance conditions.  The enhanced quality compared to VGA cameras is noticeable.  In low light it still does pretty well.  Low-light photos aren't as grainy as I expected, having tested several VGA cameras in low light recently, but the colors are a bit off in low light, having more orange-yellow tint than they should.  This can be corrected with photo editing software.  It has auto flash, self-timer, and macro mode for taking close-up shots.  I did not test the macro mode.
+
+The camera is easy to use and I found the directions easy to follow.  The included driver works with Windows 98 through XP and don't seem to have any quirks.  It does not have a memory card slot but includes a generous 16 Mb built-in memory, which the manufacturer says will allow you to store 100 photos at 1.3 MP before having to download (or twice as many if you switch to VGA mode).  Photos are saved in JPG format for convenience of using for internet/e-mail.  In addition to still photos it will also take short video clips and will function as a very nice web cam.  
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

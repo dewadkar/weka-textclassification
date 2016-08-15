@@ -1,0 +1,35 @@
+DOC>
+<DOCID> 31981 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_C_730_Ultra_Zoom_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_110897368708 </URL>
+<TEXT>
+            I did not intend to purchase a new camera until there was an affordable camera base with interchangeable lenses designed specifically for the CCD technology.  But, my Olympus 2020 fell to its demise in a canyon in New Mexico and a new camera was required.  Since all of my photography is for record shots destined for an album of 4x6 photos, the 10x zoom was a key decision factor.  
+
+The camera is packed with features and all the features that I&#146ve tried work as expected.   Why one would use many of these features is left to the user, but luckily the camera does just fine without changing any of the options.   I do turn off the noises it makes so I can take photos silently.
+
+The images are clean, colorful and crisp and have enough detail to crop a photo while maintaining a good image.   It appears that the JPEG encoding has improved as there are fewer visual artifacts in the enlarged images than with my 2020.  All my images get reworked with PhotoShop and I like the file size for my application.  It is a good trade-off between Internet upload time and image quality.  I don&#146t think Olympus has a breakthrough in CCD technology, but this camera captures more detail in high contrast situations.  Burning and dodging did not help images captured with the 2020 but the C-730 seems to have a wider range, or perhaps its just that the JPEG encoding is better.
+
+The zoom lens is better than I expected.  The focal length is long enough to get the candid shots of people without getting right into their face and losing the moment.  It is also a huge step up from the 2020 which exhibited very visible barrel distortion at wide angle settings.  The C-730 is so much better that a casual observer will not see the distortion, even of architectural shots.   It&#146s not yet 35mm lens quality but still very good.   
+
+I use the zoom feature for most of my photos.  The lag between asking the lens to change focal length and it actually happening is just a bit slow for action shots.   My reference is the manual zoom in my Nikon SLR.  Also, when reversing direction of the focal change the camera lag is considerable, enough that I have missed important shots.  I&#146d rather have manual zoom.
+
+The C-730 uses both Smart Media and a proprietary card from Olympus.  I&#146m not happy with custom memory cards as the cost curve does not drive the price as would happen with an industry standard media.   I hope Olympus changes their mind about proprietary cards.  I find that the USB interface worked without problem but I do prefer to use my Smart Card reader rather than the camera, especially when I have several cards to upload to the computer.  This is yet another reason for an industry standard memory card.
+
+Battery life seems adequate for the photos I take on a week&#146s vacation or a holiday family gathering.   I use rechargeable batteries and always start with a full charge so I don&#146t know how long the camera could last between charges.   The camera uses volatile memory and loses its configuration after an hour, well before my batteries are fully recharged.   And, the CAMEDIA program does not check the camera date/time setting nor will it update it.  I really miss this feature of the 2020 software and wish that Olympus had not dropped it.
+
+My 2020 came with the RM-1 remote and it works just fine with the C-730.   It allows us to take a family photo with everyone in it.   And, the camera allows enough warning to put the remote down and prepare for a &#147natural&#148 photo.   You can buy the remote separately and it is worth the cost.
+
+All digital cameras have a lag between the button push and image capture.  This lag is close to intolerable and the C-730 did not get better.  I have numerous photos with no subject in the image.    Out of control kids at a birthday party, camera shy relatives, curious Gray Whales, and leaping salmon can be long gone before the camera decides what to do.    I&#146m not sure if the problem is auto focus or auto exposure setting.  I&#146ve tried the continuous AF setting with no improvement. The next time the humpback whales come to Oregon, we&#146ll just have to ask them to stop for a photo!
+
+This camera also has a sleep mode.   When left unused for a period of time (configurable), the camera shuts down most of the circuitry, including the viewfinder.   The lens, however, is still extended and the camera appears to be on.   The first indication of trouble is the lack of an image in the view finder, often detected just at the time you want to take a photo.   The awakening is appears to be just as long as a power-on sequence, an annoyingly long time to capture a candid photo.     Pressing the power button to awaken the camera as one does for a computer is the wrong tactic as it shuts off the camera, leaving you with both the shutdown and the power-on lag before you can take a photo.   They really need a way to defeat the sleep mode or provide an instant on recovery.
+
+I use this camera out of doors and it&#146s been in cold weather, fog, and heavy seas.   It has performed well in all conditions asked of it.   You do have to protect the lens fogging, just as you would any cold surface in a humid environment, but that just means ensuring the camera is at or near the environmental temperature.
+
+If we were to discuss a wish list, I&#146d have wanted the raw data mode as found on the Olympus 5050.  The DSP JPEG coders working in the mines of Mordor have forever fixed the JPEG encoding in the camera.  I&#146d much rather have the conversion done in the PC where one can get updates for the algorithm and lots of computer power.   And, we need the CCD to adopt the 35MM aspect ratio
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

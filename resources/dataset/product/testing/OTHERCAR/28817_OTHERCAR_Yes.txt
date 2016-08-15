@@ -1,0 +1,32 @@
+DOC>
+<DOCID> 28817 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_KodakDCC-Kodak_DC-210 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-75F1-CD1DE27-3881F234-bd1 </URL>
+<TEXT>
+            Reviewed
+Kodak DC210 plus with included software. Came with serial and RF cable. AC adapter, batteries Picture Easy software. 8MB Flashcard
+
+Installation
+Very easy to install. Insert the CD and away you go! Install Picture Easy and mounter software. 
+
+Camera Performance
+Picture taking is a snap, just point and shoot. Fixed focus lens eliminates a step, but this can be a bad thing! Objects at a distance are somewhat fuzzy, this may be due to overly aggressive compression or the fixed focus. Works best indoors with the flash but only at a distance of about 10 feet.
+If you intend to use regular batteries then you may as well buy stock in Duracell. My advice is buy re-chargeable NI-MH or NI-CAD batteries. This camera can eat batteries at the rate of 4AA for 75 pictures depending on use of preview or not.
+
+Quality of Prints
+I have made prints using several Web companies with good success. Beware of anything larger than 5x7, it will look pretty fuzzy with this camera.
+I suggest getting a Nikon Coolpix.
+
+Software
+Included software is ok for basic image manipulation but is no Adobe Photoshop. The twain interface is very slow due to the serial connection and suggest an investment in a good card reader.
+
+Overall
+I would consider this if you are looking for a basic digital camera for occasional use. I have used this for over a year now and am happy with it's performance since I don't demand the highest quality prints.
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

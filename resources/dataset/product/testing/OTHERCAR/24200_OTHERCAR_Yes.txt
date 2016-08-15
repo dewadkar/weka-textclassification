@@ -1,0 +1,28 @@
+DOC>
+<DOCID> 24200 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Sony_DSC-S30 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-481E-1DDC3CF2-3A48F579-prod4 </URL>
+<TEXT>
+            I recently used a Sony DSC-S30, and have the following comments:
+
+Plusses:
+- The camera is relatively inexpensive.
+- Nice inclusion of USB and power adaptor + software in an inexpensive model.
+- Memory stick technology is cool, if you own other sony devices.
+- Takes larger memory sticks (64 meg, for example), which can hold TONS of pictures.
+- Easy to access as a disc drive from Windows (with USB support).  Makes it easy to transfer images to your computer (or even store files on the camera!)
+- Nice slideshow in the camera!
+- Easy to delete pictures you don't want.
+
+Minuses:
+- Only comes with a 4 megabyte memory cartridge.
+- Not a very high resolution (you pay more for that).
+- Not as good lens technology as some other cameras.
+- Battery life could be better; battery is rechargable, but not terribly long lasting.
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

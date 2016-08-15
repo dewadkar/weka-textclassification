@@ -1,0 +1,23 @@
+DOC>
+<DOCID> 29512 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_KodakDCC-Kodak_DC-240 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-486B-11CACA6-398918F6-prod6 </URL>
+<TEXT>
+            I bought my DC240i (blue to match my Mac G3) at the MacWorld Expo in January '2000.   I wanted a digital camera that would be compatible with my G3's USB connection.  Kodak had a booth at the expo and was offering a package for the DC240i including a SanDisk CompactDisk card reader, 2 sets of rechargeable batteries, including recharger, AC adapter, cables for both serial and USB connections, and carrying case.  It came with an 8 Meg chip, but I later ended up buying a 32 Meg chip because I wanted to be able to store a lot of pictures on a single chip.  The 8 meg chip will hold about 22 high quality pictures while the 32 meg chip will hold 77 of the highest quality and over 100 of the medium setting quality.
+Of couse, the chips are re-useable and you don't have to remove them to download the pictures and erase the disk, unless you want to.
+   The camera is easy to use.  If you don't want to think about the settings, the defaults are fine.  Just point and click.  Once the picture appears in the LCD display on the back you can decide if you want to keep the picture or trash it.  I found some of the settings, like the frames for birthdays, totally unnecessary for me, but nice to know that the options can be easily turned off.
+  I quickly found that you are better using the AC adapter when downloading from the camera to your computer.  If you don't use the AC adapter, you will drain your batteries, fast!  Or, you can use the SanDisk to manually download directly from the chip (the user's guide tells you how) but it does not then automatically name the files the way the downloading software does.  The downloading software also deletes the files on the disk unless you tell it not to).  I had to manually download the files once when the downloading crashed on me - it may have been because I change the quality of the pictures between pictures when there were over 100 shots on the chip.  Or maybe I did not allocate enough RAM to the download program prior to downloading that many pictures.  Regardless, it's nice to know that you can download more than one way.  
+  I highly recommend using PhotoShop to edit the pictures after downloading to your computer.  There are details in the pictures I did not notice when taking the pictures which become very apparent when you print them out as 8 x 10's.  An editing program like PhotoShop can really change details quite well.  PhotoShop 5.5 also has a SAVE setting specifically for web publishing - which I highly recommend if you plan on e-mailing your pics or put them into a web page.
+  The ads for this camera described it as &quot;good for 5 x 7s&quot; as if they were not recommending it for 8 x 10s, but I found that if you take picture at the highest settings, they will actually be LARGER than 8 x 10 and I had to set them to 50% printing in PhotoShop to get them down to 8 x 10.  I print 8 x 10s on my Epson 740 printer using high quality photo paper and my friends are quite impressed. The medium quality setting when taking the pictures worked just fine - allowing me to store over 100 pictures on a 32 meg chip and the quality was not noticeable (by me) between the medium and the highest quality setting.
+  For the price it's a great deal for the amateur or the talented hobbyist.  The zoom works really well and I only have one complaint:  
+  Once you push the button to snap the picture, there is a noticeable delay before the picture actually is complete.  This is a problem if you are trying to take a picture of anything moving.  In my case I was trying to take a picture of a whale in San Francisco's Golden Gate Bay and I kept missing it.
+  I would also recommend keeping the extra set of batteries charged and in your pocket because if you take over a dozen pictures the batteries start to run down fast, especially if you review the pictures you've just taken.
+  Overall, very easy to use, great for the computer hobbyist, and is compatible with Macs (as well as PCs).  The user manual has step-by-step instructions for everything, and is close to 100 pages. 
+
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

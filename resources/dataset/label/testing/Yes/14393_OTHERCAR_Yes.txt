@@ -1,0 +1,37 @@
+DOC>
+<DOCID> 14393 </DOCID>
+<PRODUCT> Digital_Cameras/510653_Fuji_Film_FinePix_2300 </PRODUCT>
+<URL> http://www.epinions.com/content_112544288388 </URL>
+<TEXT>
+            I've been using digital camera since 1997 and this is the best digital camera I have so far.
+
+Pulled out from it's box, just put 4x AA batteries and I'm ready to take my memorable moments. I didn't even bother to set date/time. Just shoot!
+
+A set of 4 Sony Alkaline battery can last for more than 100 shots with alternate flash usage.
+
+Thanks to 2.1Megapixel capability, pictures looks sharper and introduce more detail as compared to my previous 1024x768 SVGA resolution Sony Mavica.
+
+However, night shooting was not so fun. The flash is not strong enough and somehow the shutter opening is factory fixed to fast speed. The result is, it will maintain high resolution and sharp details but dark background. Workaround for it is by turning off the flash manually but you must have an iron hand to avoid blur image caused by camera shaking. A good trick to have stable camera handling is utilizing the self timer.
+
+As other Fujifilm digital camera, the 2300 is using SmartMedia card, looks like a floppy with many contact plates on one of it's surface. Compared to Sony Memory Stick, SM card is more economical.
+
+The card came with the camera has very limited storage size, a 16MB card is only good to store 15 pictures in highest resolution mode. I bought extra card 64MB from eBay and managed to squeeze 100 pictures in medium-high resolution (good enough for me).
+
+Placement of the lens is bad because sometimes blocked by my fingers, especially when using viewfinder (not the LCD) in order to save battery life.
+
+This camera has no optical zoom and it was painful to use digital zoom. When using digital zoom the picture looks OK on the LCD screen but disapointing when you see on PC or print it out. 
+
+Transferring image from the card to PC is via a USB cable (included in the package, don't lost the cable, it is difficult to find replacement). Since I'm using Windows 2000, I don't have to install the driver whatsoever. Just plug the cable, turn on the camera, and it will appears as a disk on "My Computer". Subsequently I can just use Windows Explorer to copy or move the image files stored in JPG format. The only inconvenience to do transfer this way is that the camera must be on and there is no auto-off. Even the LCD will be on showing PC connection. This often end up emptying my battery when I forgot to turn the camera off after transfer. Certainly I can easily forgotten about that when you get excited with the pictures I just taken.
+
+Anyway, you can buy third party card reader product that can read SM card without have to connect your camera to your PC.
+
+I wish this camera could have a shutter speed control or at least pre-programmed shutter control like for picturing low light, sport, beach, etc.
+
+Of course for the price you pay, you can't expect much. I should admit that the camera is value for money.
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

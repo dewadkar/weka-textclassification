@@ -1,0 +1,28 @@
+DOC>
+<DOCID> 21027 </DOCID>
+<PRODUCT> Digital_Cameras/Sony_DSC_P5_621065 </PRODUCT>
+<URL> http://www.epinions.com/content_53559070340 </URL>
+<TEXT>
+            I have had this camera since 11/01 and have really enjoyed it.  It is very light, small, easy to use and takes great pictures.
+
+Strengths:
+- High quality sony optics and ccd produce rich, sharp pictures every time.
+- Very versitile use with the 3x optical zoom and macro capabilities.
+- Previous weakness of the DSC-P1 have been addressed and are apparently much improved: The is now a stronger flash and an active auto-focusing system.  Also there is now a night shot mode (but this is more sensitive to motion so use a tripod).
+- The images are very easily transferred to the computer (I use windows xp and dont even need any drivers)
+- The controls are very easy to use.  Images are reviewable and you can get thumbnails of all the shots you have taken.
+- The form factor is very nice with a fully retractable lens and built in metal lens cover.  I can fit this camera in my jeans or coat pocket easily.  The case is all metal and has a very durable feel.
+- Has two types of movie modes which others have commented on.  I haven't played with this much yet.
+
+Weaknesses:
+- The camera can take a second to auto-focus once you press the button to take a shot.  This can cause you to miss your shot unless you half-press before hand, which locks the focus.  This is probably a limitation of all digital cameras.
+- Flash can be a bit strong on close-ups at night.  There is a setting to go to a lower flash strength.
+- The battery life is decent (90-100 min with lcd on all the time) but I would consider a 2nd battery ($60) if you are going to not be able to recharge for a while.  Alternatively, the LCD backlight can be dimmed or even turned off to maximize battery length.
+
+Sony gets a bad rap for using their proprietary memory stick.  The Memory Stick is now licensed to other companies to make and only marginally more expensive than "generic" memory formats.  I use a 128MB stick which gives me 82 of the highest quality 3 megapixel .jpg images.  I would recommend at least a 64MB stick.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

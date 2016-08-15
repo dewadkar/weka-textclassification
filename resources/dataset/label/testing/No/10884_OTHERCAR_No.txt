@@ -1,0 +1,53 @@
+DOC>
+<DOCID> 10884 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital-Panasonic_PanasonicPVProductFamilyily-PV-DC2590_PalmCam </PRODUCT>
+<URL> http://www.epinions.com/elec-review-42E2-14C03335-39600FFD-prod5 </URL>
+<TEXT>
+            <b>HOW I ACQUIRED THE PANASONIC PALM CAM:</b>
+A few months ago, I filled out an online survey form at a manufacturer's web site.  After completing the form, it said I would be entered in a drawing to win 1 of 100 Panasonic digital cameras.  Not knowing that I'd win the camera, I went about my usual day and forgot about the whole thing shortly after.  About three weeks ago, I received an email notifying me of my prize: a Panasonic PC-DC2590.  It totally got me by surprise!  I finally won something!!!
+
+<b>AT FIRST GLANCE:</b>
+This 1.3 mega-pixel digital camera was packed with features.  Before opening the user's manual, I went ahead and powered up the camera.  The batteries (4 Panasonic AA alkaline batteries) were supplied in the packaging.  The camera looked just like a regular point-and-shoot 35mm.  Nothing spectacular until you look at the back.  It's fitted with a 1.8 inch LCD screen along with a viewfinder.  The zoom button also acts as the scroll/option button.  Two things that really makes this digital camera stick out would be the dual CF slots and the ability to send your digital images to a fax machine and/or a computer via phone line.  
+
+<b>EASE OF USE:</b>
+Pretty simple.  Just point and shoot, right?  Sure, but this camera spends a bit too much time thinking before it actually snaps the shutter.  I've missed valuable moments because of this and many of my images came out blurry because I thought the camera had taken the picture, but it was actually in the middle of focusing.  
+
+Viewing your creations is as simple as turning the knob to <i>Play</i>.  The PalmCam gives you the option of viewing your photos individually or in multiples of 9 on a screen.  It also has a slide-show function.  Deleting or reformatting the CF card(s) is as easy as choosing the function on the menu.  There's also a very convenient B/W screen on the top of the camera that tells you how many photos you can take, the flash mode it's in, the recording mode it's in, and the battery level indicator.  
+
+<b>POWER CONSUMPTION:</b>
+Unlike a lot of the digital cameras that are out on the market today, the PalmCam is powered by 4 AA batteries.  You can either use alkaline or rechargeable batteries.  I've gone through several packages of batteries so far.  I don't know whether it's because I've been using the LCD screen a lot or whether the camera just guzzles the juice...  I'm assuming it's both, but it really gets me frustrated when I see that the batteries have been drained after having changed them only a day or two ago.  My advice is to purchase many batteries if you're planning on taking a lot of pictures with this camera.
+
+<b>QUALITY OF PICTURES:</b>
+The quality of all the pictures taken with the PalmCam have been pretty impressive.  I'm still convinced that the picture taken with my friend's Sony DSC-505 is a little better.  The PalmCam's images come out a little darker and gloomier than most.  It's 1.3 megapixel capability allows it to produce very sharp images with resolutions up to 1280 X 960.  With a 3X optical zoom, plus a 2X digital zoom, you have the ability to bring your target closer for a more detailed photo.  The 4 second AVI capture is a cool feature, but most of the time, 4 seconds is hardly enough to record what you want.  
+
+<b>TRANSFERING FILES TO YOUR PC:</b>
+There are a few ways to achieve this.  One is by use of the serial cable that is supplied, along with the TWAIN driver and Adobe Photo Deluxe Home Edition 3.0.  You can easily do a preview of all the images that are stored on the CF card(s) and transfer them to your computer.  It takes a little bit of time and I'm wondering why they didn't utilize USB technology.  Another way to transfer the photos from the PalmCam to your PC is by use of a phone line.  The PalmCam comes with a Panasonic CF modem card that fits into either one of the CF slots.  By combining the use of the supplied communications software, you can set your computer to receive files from your PalmCam anywhere you have access to an open phone line.  Not only can you send your photos to your PC, you can also send them to any fax machine!  Incredible!
+
+<b>DUAL CompactFlash SLOTS:</b>
+Since the PalmCam comes with dual CF slots, it gives the user the flexibility of using two CF memory cards.  It comes with one 8 MB CF card, but purchasing another one is highly recommended.  CF cards are becoming more and more affordable, so a 32 MB CF card would be ideal for capturing a load of images.  If you have many CF cards, the dual slots can also serve the purpose of copying files back and forth from different CF cards.  
+
+<b>PROS:</b>
+<b><i>1)</i></b> The size of the PalmCam is perfect in my opinion.  It's not too small, yet it's not too big.  The 1.8&quot; LCD screen allows you to show off your work to others or to get a better idea of what our shot will look like.  The viewfinder allows you to conserve battery power, as well as giving you the feel of a point-and-shoot 35mm camera.  
+<b><i>2)</i></b> The self-timer lets you get into the picture once in a while, too.  
+<b><i>3)</i></b> The dual CF slots are a definite plus.  This allows you to double your memory.  For example, if you bought two 32 MB CF memory cards, you will be able to use both of them at the same time giving you a total of 64 MB of memory!
+<b><i>4)</i></b> The built-in flash is very useful and provides much needed light for both indoor and outdoor photography.  It also recharges quickly and is ready to go to capture another one of your masterpieces.    
+<b><i>5)</i></b> The B/W status screen on the top of the camera is very helpful in giving you the information you need such as flash status, photo capturing status, photos left, and battery meter.
+<b><i>6)</i></b> Instead of having to purchase a proprietary battery, you can use regular AA batteries.  The PalmCam takes 4 AA batteries, whether you use alkaline or rechargeable.
+
+<b>CONS:</b>
+<b><i>1)</i></b> The major drawback of this camera is that it takes quite a bit of effort to transfer the pictures from the camera to the PC.  I've used a Sony Mavica FD-81 and enjoyed the flexibility of quick shooting and transferring of pictures by use of 3.5&quot; floppy media.  I guess it takes a little getting used to, but I feel that transferring pictures from the camera to the PC should be quick and easy.  
+<b><i>2)</i></b> The PalmCam seems to take more time to focus and adjust before capturing the image.  So, in some cases, you may miss the <i>big</i> moment.  I've missed several key photos because of this.  I read the manual over and over and still haven't found my way around this.  It may just be that I'm not a very good photographer... who knows?    
+<b><i>3)</i></b> Seems like the PalmCam drains the 4 AA batteries as quick as you can put 'em in.  I found myself replacing the batteries every other day.  Keep in mind that using the 1.8&quot; LCD screen drains the battery as well as when you are transferring images to your PC.  When you're using the modem, the battery power is consumed like you wouldn't believe!
+
+<b>SUMMARY:</b>
+The Panasonic PV-DC2590 PalmCam isn't the best camera on the market today, nor is it the cheapest (MSRP of $799 or as low as $469 at Cameraworld.com).  It <b><i>is</i></b> the only digital camera that comes with two CF slots and a CF modem to send files via a phone line.  Although that sounds pretty neat, it's a function that you can surely live without.  If I bought this camera with my own money I would have been very disappointed.  Why?  I believe that there are many other digital cameras that perform much better than the PalmCam for less money.  But in my case, I'd say it's a great camera... considering that I got it for free!
+
+<b>If you're interested in buying this 2-week new camera from me (price is negotiable), please contact me via email: songi@orst.edu</b>
+
+Thanks! <br><br>
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

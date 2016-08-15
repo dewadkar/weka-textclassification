@@ -1,0 +1,50 @@
+DOC>
+<DOCID> 23509 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Audi_S4 </PRODUCT>
+<URL> http://www.epinions.com/auto-review-2F26-B7654A4-3966D0FD-prod3 </URL>
+<TEXT>
+            On the up side:
+
+The Audi 2000 S4 is a tremendous value.  The most notable thing about the car is the torque curve, which is a broad, flat maximum all the way from 2000 to 4000 RPM.  This makes it an excellent all-round vehicle, and a real pleasure to drive in an extremely broad range of conditions.  
+
+This car will hum along without complaining in 5th gear at 1000 RPM, and you can go from toll-booth to 70 without shifting.  The twin turbos have a low moment of inertia (they're light, and they spool up very quickly) so there is very little turbo lag.  The power plant milks 250 bhp out of the 2.7L V6 with twin parallel turbo's (not sequential - one per cylinder bank), 5 valves per cylinder with digitally controlled variable timing (it senses your road-rage level and pumps up the Mojo accordingly), and massive air channels.   The manual transmission is a six-speed that has a nice &quot;snik-snik&quot; feel, althought it locks in a little sloppy (and like some other German cars, Reverse is on the left, requiring a push down on the knob).  The gear ratios are nicely arranged (as if it matters, given the flatness of the torque curve), although 1st seems a little low.
+
+The steering is tight, with well-tuned speed-variability.  The quattro gear feels heavy (more so that other AWD sports I've driven - they all tend to hold their course in a curve as opposed to &quot;spinning back&quot; to straight when coming out of it), but not unpleasantly so.  This makes highway driving easier, but makes slalom-type mountain roads harder.     
+
+Ergonomics are excellent (for a European car).  Automatically dimming mirrors, headlight washers, multiple &quot;comfort zone&quot; temperature sensors, snap-in floor mats, spacious trunk with cargo net, 8-way power seats, 1st aid and road hazard kits, Home-Link, dual lighted vanity mirrors, one-touch up/down windows, side/head airbags, etc.  Lot 's of nifty features standard.  The steering wheel is the most comfortable I've held, and is specifically designed to make both standard hand positions comfortable (the air-bag-safe 9 o'clock / 3 o'clock position, and the 10 o'clock / 2 o'clock position we all learned from Dad or driver's ed).  The seats are firm, but comfortable, although the side bolsters are not adjustable.  The two-tone seats of the sport appearance package are unique and aesthetically appealing to the sport-minded.  
+
+There is a wonderful computer with pretty icons and lots of useful, color-coded functions (intuitive except for the &quot;Washer Fluid Low&quot; icon which happens to look more like a radiator that's boiling over).    Interior noise is low, and the Bose sound system raises volume as road speed increases (this is configurable).  It's a great cross-country car, but you have to put the window down and drive next to a curb to hear the sweetly distinctive whistle-hum of those turbos spooling up with every press on the accelerator.  
+
+There are extensive safety features, including dual front, side, and head curtain airbags.  The headlights are brilliant (eliciting more than the occasional &quot;dim your brights, bonehead&quot; flick from oncoming traffic).  There is a seperately-switched rear fog lamp (red) that warns traffic approaching from the rear in limited visibiity.
+
+On the down side:
+
+These cars tend to eat oil, especially during break-in.  The first service is at 8K mi, so check oil frequently and add as necessary (until the rings seat).   The engine is not the smoothest idling Six I've had (Toyota's comparable in-line six with twin sequential turbos  literally cannot be heard or felt at idle from the driver's seat, when new).  
+
+The suspension and wheel control systems are an engineering trade-off between sport and comfort (which is congruent with the car's overall concept).  It feels tight and responsive, and bumps don't beat your kidneys into your mouth either.  However, I don't think the control systems are acceptably tuned for high-speed driving; although the car is capable speeds in excess of 150 mph, it is digitally governed to 130 (fuel cuts off at 130, back on at 125).  I think there's a reason for this.  The car feels stable aerodynamically (for a sedan) but I suspect the traction control, ABS, and quattro torque distribution systems interact in undesireable ways when braking and turning at high speeds.  (Chaos theory?)  
+
+I applied the brakes moderately at about 115 mph in a gentle turn just after cresting a hill, and felt something totally unexpected - the &quot;smart car&quot; decided for me that this wasn't safe but that going straight was.  It was unnerving for just an instant, but I had to jerk wheel hard over to override the system and force it stay on the road.  The maneuver I was making would have been quite safe in much lesser cars (albeit with tires squeeling minutely).  This reminded me of my first ABS-assisted emergency stop.  It doesn't necessarily behave as expected when you push the envelope (when you break the static coefficient of friction for the tire).  Bottom line - make sure you understand these systems and get a good feel for them before doing anything but interstates at high speeds.  (Okay, some of you are shaking your heads, but hey - if you didn't want to go fast, you wouldn't even be looking at this.)  Based on this experience, I suspect the car could use better tires, as well.  
+
+The brakes themselves are truly exceptional (so much so I would have eaten some steering wheel during my test drive if not for the seat belt.  After shedding a few pounds of brake dust, they feel better.  I think they're not quite as &quot;linear&quot; as they should be (they tend to bind when you approach the stop; you have to let up on them).  When switching back and forth between cars, this can be a hazard.  You can stop fast to enough to cause a pile-up behind you.  
+
+Opening the sunroof only (no windows open) causes an aerodynamic phenomenon (&quot;thrumming&quot; or &quot;constructive interference&quot;, depending on your geekness level).  This can be overcome by closing it a notch or two.  
+
+As noted, the Bose sound system is incredibly accurate, but not at high volume.  If you like loud music, you'll find the base distorts (my salesman quoted a Symphony conductor saying it was the finest stereo he'd ever heard, but I believe my own ears, and I'm telling you the base distorts at more than half volume).  Great for jazz, classical, pop, blues, folk, etc.  It could use larger door speakers in front to get the base needed to handle rock, heavy metal, techno, rap, hip-hop, etc.  The stereo's ergonomics aren't the best.  The controls you use the most (scan, p-scan, track) are flush-mounted and you have to look down to operate it.  It could use a scan button on the steering wheel.  The stereo has a useless RDBS button (toggles on or off the ability to see the station's call letters and music category - why not just build it in and use the space to make the buttons bigger?).  
+
+If you tint your windows (which looks very nice with the metalic silver) you'll find the auto-dimming of external mirrors limits your night-time rear-view capability (this should be adjustable or selectable).  
+
+The AWD seems to &quot;complain&quot; when you make a very tight turn (min turning radius, e.g.: u-turn on a two lane road).  It &quot;groans&quot; (and no, this isn't the steering pump &quot;squeel&quot; most cars make in this scenario).  I suspect the torque distribution to the front wheels needs to be tuned a bit for the extreme turns - it's probably doing nothing but wearing the tires a bit, but it's annoying.  
+
+There are three cup holders, with one (intentionally?) positioned right in front of the center air vents.  This is great for cooling off McDonald's coffee so you don't burn yourself when you spill it in your lap and have to sue them, but the air stream does affect the temperature of whatever is there, good or bad.  This &quot;main&quot; cup holder is positioned in a way that if your cup doesn't fit perfectly, and you slosh liquid out, it will drip right down onto the front of the stereo console and all it's intricate buttons.  Use the Audi travel mug, which fits perfectly.  
+
+The cigarette lighter is rearward of the shifter, which makes use of a radar detector potentially hazardous, as the cord will likely pass close to the shifter.  The owner's manual cautions you not to rest your hand on the shifter, or you risk damaging the transmission (which will dissappoint those who sense revs by touch through the stick).   
+
+The ground clearance is a little lower than the A4, which is a trade-off for increased aerodynamic stability (watch those speed bumps and parking stones).
+
+Overall, a sweet, sweet machine.  It is consistently and smoothly powerful, takes a beating well, and is refined without being &quot;posh&quot;.  The perfect STEALTH luxury sport sedan.  <br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

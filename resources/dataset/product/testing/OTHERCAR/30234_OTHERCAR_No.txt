@@ -1,0 +1,18 @@
+DOC>
+<DOCID> 30234 </DOCID>
+<PRODUCT> Digital_Cameras/elec_AgfaePhotoo-Agfa_ePhoto_Smile </PRODUCT>
+<URL> http://www.epinions.com/elec-review-C15-6D72928-3867E112-prod1 </URL>
+<TEXT>
+               Agfa's new Ephoto Smile is meant to be a sleek and inexpensive digital camera for the masses.  It isn't - it's a big waste of time and money. The maxim &quot;you get what you pay for&quot; is completely true for this product.
+   The Smile has poor resolution (Maximum 640X480), lousy color rendition, and has a CCD chip that works only a little better than Stevie Wonder's retinas.
+   I took some indoor test shots, because I wanted to start selling stuff on Ebay.  I stood back in horror at the results: grainy imagery, sub-par color and atrocious lighting, even with the built-in flash.
+   And that's just the hardware.  The software is huge (tens of megabytes), and is rather difficult to use.  Agfa forces you to use a bizarre nested folder concept - I believe it was an &quot;envelopes and albums&quot; structure (you get back your developed pics from the photoshop and put them in albums - get it??), that only served to obscure the true location of each image.  Knowing where your images is essential to efficiently filing, editing and e-mailing them, but Agfa's software fights you every step of the way.
+   The serial transfer rate is abysmal, but that has more to do with the inherent slowness of the serial interface.  Why aren't more digital camera makers going USB?  
+   This camera might be good as a present for an eight to twelve year old whose photography needs are minimal, and whose tendency to be rough on equipment would make a larger purchase questionable.  I'd recommend the E-Frown (I mean, E-Smile)for learning the rudiments of digital photography, but it might be just as well to put that money toward a better camera.
+   Update: 9/15/2000 - this camera now sells for about $50.00, but even if it were a prize from a Crackerjack box, I'd still consider myself ripped off. <br><br>
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

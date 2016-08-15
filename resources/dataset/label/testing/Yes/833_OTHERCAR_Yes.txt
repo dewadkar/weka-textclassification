@@ -1,0 +1,62 @@
+DOC>
+<DOCID> 833 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Hewlett_Packard_PhotoSmart_C618 </PRODUCT>
+<URL> http://www.epinions.com/content_71032671876 </URL>
+<TEXT>
+            Before I even get started, you need to know that I work for Hewlett-Packard.  I do not work on the digital camera products (unfortunately!), but some people may wish to apply some quantity of salt to what I say based on that information.
+
+Before last July, we used a Canon Rebel 35mm SLR for our photographic needs.  That is an excellent camera, but being film-based, it had a number of drawbacks:
+
+- You had to take up 12 (or 24, or 36) pictures before 
+  you could see how they turned out
+- It cost money to develop the prints
+- Two to three prints out of the whole set were 
+  worth keeping
+- I had to scan the prints in to email them 
+  to grandparents.
+
+It did not take a rocket scientist to look at this list and proclaim, �You need a digital camera!�  But, what one to get?  Being an HP employee meant I could get some products at a discount, particularly refurbished products that had been returned on warranty issues and fixed.  Based entirely on price I chose the 618.
+
+The camera came with a 16 MB memory card, four lithium batteries and a couple disks of software to interface with the camera and provide some manipulation of the images.  I loaded only the camera interface software on my PC, as I already use a different program for image manipulation (more on that later).
+
+Over the year that I have now used this camera, I can state a number of opinions:
+
+1. You must have a bigger memory card.  The 16 MB card 
+   is okay, but at the Better resolution, you can only 
+   get eight or so pictures on the card.  I bought a 64 
+   MB card off eBay and now I rarely am pressed for space.
+
+2. The convenience of a digital camera means you will 
+   take many pictures.  Many, many pictures.  You will
+   probably want a CD-Writer on your PC to archive the 
+   many pictures you will take!
+3. Action photos are �difficult.�  The auto focus on 
+   this camera is not the fastest I have used.  If you 
+   are taking candid shots of kids, this can be a pain.
+   One way around this is to press the shutter halfway 
+   to get the exposure and focus settings taken care of, 
+   then lie in wait for the photographic opportunity to 
+   strike.  This, of course, requires some prior planning;
+   which seems at odds with the whole concept of 
+   �candid,� but I digress.
+4. You must get NiMH rechargeable batteries.  The 
+   Lithium�s last well, but they are expensive.  
+   Alkalines last not at all, and that gets expensive.
+   NiMH batteries charge well, last a long time and have
+   become the juice source of choice in our house.
+5. Red-eye is a pain.  You will have to edit photos to
+   remove it.
+
+The camera comes with a 3x optical zoom and a 2x digital zoom.  Being spoiled by my 28-105 mm telephoto zoom lens on the Canon, I find myself wishing for more.
+
+The lens unit pulls back and disappears behind a little metal curtain to protect it when turned off.  I find this behavior odd and unneeded.  I would prefer it stay at the ready so that I could turn things on faster.
+
+In the end, we are happy with our 618.  I dream of the day that I can get a digital back for my Canon Rebel and once again make use of the wide-angle and telephoto lens that I have for that.  However, for now the convenience of the 618 so far outweighs its challenges that the Canon has not seen the light of day for a year!
+
+I promised to talk about image manipulation.  For my needs I have been very happy with PaintShop Pro version 7.  It has a number of features designed to help you with digital photo manipulation.  You can brighten dark photos; remove red eye and brush out imperfections like a pro.  I very highly recommend it.
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

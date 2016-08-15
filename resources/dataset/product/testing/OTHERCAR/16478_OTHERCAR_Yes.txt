@@ -1,0 +1,152 @@
+DOC>
+<DOCID> 16478 </DOCID>
+<PRODUCT> Digital_Cameras/Canon_Digital_SLR_Camera___Camera_7508A013 </PRODUCT>
+<URL> http://www.epinions.com/content_73529200260 </URL>
+<TEXT>
+            A little more than two years ago Canon introduced the first reasonably priced digital SLR, the EOS D30.  Unlike most of the other digital cameras on the market the D30 was built around a CMOS (Complementary Metal Oxide Semiconductor) imager.  CMOS imagers had been used prior to the D30 in a few cheap digital cameras but had never gained wide acceptance.  Canon�s engineers saw CMOS as a way to conquer one of the major complaints about digital cameras, the fact that they are power hogs.  CMOS imagers use battery power much more efficiently than standard CCD imagers, allowing batteries to last longer.  
+
+The long awaited update for the D30 is now available.  The new D60 doubles the D30�s resolution from 3 to 6 megapixels and adds a few valuable new features while retaining most of the features that endeared the D30 to digital photographers everywhere.  Major improvements, beyond the significant rise in image resolution, are a new Digital Signal Processor (DSP) for faster write times and an improved buffer memory that can hold up to 8 frames (at 3 FPS) even in RAW mode.
+
+Outwardly, the D60 doesn�t look much different than it�s predecessor because Canon wisely enhanced the capabilities of the proven design and components of the D30 rather than beginning from scratch with a new design. Most of the D60�s logical control layout will be quite familiar to D30 owners.  The shutter lag (a common complaint of D30 owners) has been shortened to 100 milliseconds in the new D60, comparable to most mid level film SLR�s.  The D60 retains the default ISO 100 (35mm equivalent) sensitivity setting of the D30, which is twice as fast as the D60�s main competitor, the Nikon D100�s ISO 200 minimum sensitivity. The CMOS sensors small size gives the D60 a magnification factor (digital imagers are smaller than a 35mm film frame so 35mm focal lengths are magnified by a factor of 1.6, which is pretty neat---a 200 mm telephoto becomes a 320 mm telephoto.  But the same magnification factor works against photographers when using wider lenses----a 28 mm wide angle lens becomes a 43 mm normal lens.  
+
+The Canon D60 allows the use of virtually all Canon EF mount lenses, including professional quality �L� series lenses. This capability makes the D60 a solid choice for most professional photographers.  Combat photo-journalists, sports photographers, and nature photographers who work in extreme environments may find the D60�s construction less robust than necessary, but for most wedding, local news/sports, and advertising/glamour photographers the D60 is more than tough enough to meet the daily challenges of professional photography.  If you are a serious film shooter who has been waiting for film and digital cameras to reach rough quality parity, the D60�s six megapixel images come very close, especially if you�ve been shooting color print film.  If you�re a slide shooter then the D60�s enlargements won�t quite match the �look� of a well exposed Velvia of Elitechrome 8X10 custom �R� print. 
+ 
+<b> Features</b> 
+
+The D60's auto focusing is three times as sensitive in low light situations as the AF system in the EOS D30's (EV 0.5 vs. EV 2.0) and the AF focus assist beam works more effectively.  In response to complaints from D30 owners the D60�s active focusing points are now illuminated in red directly on the focusing screen, making it easier to check focusing point selection and AF function.  Canon listened to feedback from D30 users and the top deck LCD is now backlit, making it easier to use in low light.  In addition the D60�s LCD screen is brighter, too. The D60�s new �smart buffer� can hold up to 8 six megapixel unprocessed images, couple this huge buffer capacity with the D60�s new Digital Signal Processor (DSP) which dumps the contents of the buffer to CF (or IBM MicroDrive) much faster, and you have a digital SLR that behaves very much like a mid level film SLR.  The D30 handled noise reduction with dark frame technology (the camera fires a second exposure with the shutter closed and then compares the two frames and subtracts the �hot� pixels automatically) which works well but not quickly.  The D60 doesn�t utilize dark frame technology, the camera records the shot and an on board noise reduction program subtracts the �hot� pixels automatically, twice as fast and the end result is better, virtually noise free.
+
+
+<b>Viewfinder/LCD</b> 
+
+The D60�s eyelevel fixed optical TTL Pentaprism viewfinder shows about 95% of the frame, which is about average for mid level SLR�s---digital or film.  There�s a diopter adjustment for eyeglasses wearers. The inside of the viewfinder shows a partial metering circle and three focusing points (left, center, and right). At the bottom is an illuminated digital read-out showing AE lock / FE lock, flash ready, shutter speed, aperture, focusing point indicators, exposure level and in-focus indicator. 
+
+First time digital SLR users may be surprised to discover that the D60�s LCD can�t be used as a viewfinder. Digital SLR's don't provide a live preview image like consumer digital cameras because of the reflex mirror, mechanical shutter, and sensor design (the sensor can't be used to provide a video feed). The LCD is used for image review (post exposure) and for navigating menus, which significantly lowers power consumption. 
+
+<b>Lens Mount</b>
+
+The D60 uses Canon�s EF lens mount and accepts the over 40 available Canon EF lenses from 14mm wide-angle to 1200mm telephoto. 
+
+<b>Exposure</b> 
+
+The EOS D60 provides really useful range of exposure options including, Program, Aperture priority, Shutter priority, Manual, Automatic Depth-of-Field mode.  The "Image Zone" provides a selection of preset scene modes including, Portrait, Landscape, Macro, Sports, and Night Scenes. I really liked the Automatic Depth-of-Field mode, which uses all three autofocus zones to determine the amount of depth in the image area. Once the D60�s on board programming has determined the range of focusing distances present across the frame, it automatically computes the aperture/shutter speed combination best suited to render all three zones in sharp focus. 
+ 
+<b>Flash</b>
+
+The D60�s built-in speedlite provides pretty much everything a serious photographer could expect in a �pop-up� flash.  In addition the D60 features a dedicated hotshoe for use with Canon E-TTL flash units like the 220EX, 380EX, 420EX, and 550EX, as well as a PC Sync terminal (for use with studio flash systems) a rare and valuable feature on modern cameras. 
+
+<b>Controls, Design,  & Ergonomics</b>  
+
+Those who liked the D30 will love the D60.  For everyone else the design is well thought out with logical placement of controls and superb ergonomics.  The D60 has a metal frame with a tough polycarbonate outer shell.  The camera is well constructed with good weather/dust/moisture seals.  
+
+ <b>Technical Specifications</b> 
+
+Resolution: 6.3 megapixels (3072x2048 pixels) 
+Viewfinder: Fixed optical TTL Pentaprism 
+LCD: 1.8� TFT with 2 level brightness control 
+Lens Mount: Canon EF (AF Electronic) Compatible with all Canon AF lenses 
+Exposure Compensation: yes +2/-2 EV in 1/3 EV steps 
+Exposure Modes: Auto, Program, Intelligent Program AE (shiftable), Shutter priority, Aperture priority, & Manual, plus specialized settings for Depth of field AE, Portrait, Landscape, Close-up, Sports, Night-Scene, E-TTL autoflash program AE , and PIC (Programmed Image Control modes) 
+Metering: TTL full aperture with 35 zone SPC. Evaluative, Spot--Partial metering at center (approx. 9.5% of frame at center of viewfinder), and Centerweighted averaging 
+White Balance: Auto, Daylight, Cloudy, Tungsten, Fluorescent, Flash, Manual, and Custom (no WB Bracketing)
+Exposure compensation: +/- 2 stops in 1/2 or 1/3 stop increments 
+Shutter Speeds: 30 seconds to 1/4000th of a second, plus bulb (unlimited) 
+Flash: Built-in pop-up flash and dedicated Canon Hot Shoe for use with Canon EX-, EZ-, and E-series Speedlites 
+Flash Synch: 1/200th of a second   
+AF Illumination lamp: Yes 
+Noise Reduction: Auto (no separate NR mode)
+Storage Media: CompactFlash (types I&II) and IBM MicroDrives. 
+Image Capture: jpeg or RAW 
+Connectivity: USB (1.1) 
+Sensitivity: Auto, 100, 200, 400, 800, 1000 (35mm ISO equivalents) 
+Power: One Battery Pack BP-511 (lithium ion rechargeable) 
+Battery Life: Canon claims in excess of  600 exposures 
+
+MSRP-$2699.00---------Street Price $2200.00-$2300.00 
+
+<b>Battery life</b> 
+
+The D60 has very good battery life, but it�s not as good as the Nikon D100. Two days of heavy shooting under a wide variety of conditions, with almost continuous flash use didn�t fully deplete the battery.  The optional BG-ED3 grip holds two BP-511 batteries and adds a vertical shutter release, an AE-Lock button, focusing selector button, and Main Dial. It automatically switches to the second battery when the first one is exhausted. With large heavy telephoto lenses or fixed maximum aperture zooms the BG-ED3 provides better balance and an improved control interface. 
+
+<b>Battery Charger / AC Adapter</b>
+
+The included CA-PS400 battery charger (100 - 240 V AC) holds two batteries (but it will only charge one at a time) and automatically switches to the second battery once the first is fully charged. The charger needs about 90 minutes to re-charge each battery.  The unit also provides DC power for the camera.  
+ 
+<b>In the Field/Handling & Operation</b> 
+
+My friend (who sells new and used photographic equipment) picked me up right after lunch on the first Saturday of the Kentucky State Fair.  He had gotten demo D60 for us to test.  He always attends the fair (to check out the results of the photography contest) and he thought the Bluegrass State�s annual end of summer extravaganza would provide us with lots of opportunities to put the D60 through its paces.  We�ve been having rainy dark weather for the past week and Saturday was no different.  The sky was gray and the outdoor light was pretty dreary.  We decided to concentrate on shooting indoors because getting a $2000 digital camera wet is not a good move. The lighting in the exhibit halls at the Kentucky State Fair is all Fluorescent, so we set the D60�s white balance and considered our options.  My friend and I argued for about ten minutes about where to go first.  My friend wanted to go see the Kentucky Pork Producers �Racing Pigs� in this event the Kentucky Derby�s annual Run for the Roses is spoofed by a group of hungry piglets racing for an oreo cookie.  I wanted to visit the Gospel tent and listen to some old time gospel music but my friend was able to win the argument by pointing out that there was probably more happening at the piggie races.  The scurrying swine actually turned out to be a lot of fun in a <i>down home redneck</i> sort of way.  After watching the little piglets lope around the track in a noble effort to be first porker to grab the cookie, we wandered outside just in time for clearing skies and bright sunshine and the opportunity to shoot some images on the bustling midway.
+
+Using the Canon EF 70-200mm f/2.8L IS USM at its 200mm setting really let us zoom in on the action rides and catch a couple of hilarious facial expressions.  The D60�s generous buffer and virtually non-existent shutter lag allowed the D60 to be used just like a 35mm SLR.  We were able to shoot what we wanted and get the timing exactly right, just as if we had been shooting with a film camera.  Canon claims the D60�s shutter lag is 100 Ms, which is right on par with mid level film SLR�s. 
+
+After wandering the mid-way for a while (and shooting a number of �street� type images in the huge crowd) we headed for the livestock exhibition hall (my friend grew up on a farm in Grayson County Kentucky) just in time to see a five-year wrangler do a bucking bronco imitation with an uncooperative goat.  The fearless youngster was attempting to brush the goat (who obviously was not a fan of good grooming) and threw this leg over the small goats back in an attempt to immobilize the beast.  The goat evidently had even less fondness for being restrained and commenced to buck and jump around in an attempt to shake the boy off.  The young rodeo rider did a valiant job and was looking as if  he was going to make the adult rodeo standard of 8 seconds when his Mom ruined his record shot by rescuing him prematurely. His only reward was a hug from Mom and an evil look from the goat.  Canon�s EF 17-35mm f/2.8L USM allowed us to get a couple of good shots the unscheduled junior rodeo event.
+
+The Kentucky State Fair Photo Contest is usually a very upbeat event for both my friend and I, however this year, as my friend and I wandered through the exhibit looking at the photos we couldn�t help but notice the obvious influence of famed nature photographer, climber, environmentalist, and author Galen Rowell in many of the winning pictures.  Rowell (and his wife Barbara) were killed August 11th in a plane crash in California�s Sierra Mountains. Both my friend and I had the opportunity to meet and work briefly with Rowell at a photographic workshop in 1990. 
+
+<b>Image Quality</b>
+
+We printed a couple of 8X10�s from the shots at the fair on an Epson EPX 785 and they were really superb.  Very good color balance and saturation and fine resolution---the D60 is easily capble of professional results. 
+ 
+<b>A Few Concerns</b> 
+
+My friend and I accidentally discovered what I consider to be a real design flaw in the D60.  If you the open the CF compartment while the camera is writing to file, the D60 powers down instantly and the image is lost.  If you turn the power dial off before the camera is finished writing to file the D60 powers down AFTER it completes writing the image. 
+
+Unlike the D30, the D60 doesn�t offer a 1600 ISO sensitivity setting option, a strange omission in a camera with the D60�s excellent low light performance. 
+
+<b>Shutter Lag/Cycle Times</b>
+
+The D60�s start up and shot-to-shot cycle times are quite fast and with the smart buffer the camera�s performance is very close to that of a film SLR.  
+
+<b>Conclusion</b>
+
+If you are looking for a reasonably priced six megapixel digital SLR then the Canon D60 should be close to the top of your short list.  The D60�s only real competition will come from the Nikon D100 which has almost identical features and stats.  As a matter of fact the two cameras are so close in almost every respect that they are like a case of mechanical/electrical/optical convergent evolution.  You can�t really go wrong with either camera.  My friend likes the D60 a bit better and I liked the D100 a bit more.  In the final analysis it comes down to whether you are invested in Nikon lenses and accessories or Canon EF lenses and accessories.  If you are shopping for your very first digital SLR, then spend some quality time with both cameras before you drop two grand.   
+
+Are you considering spreading your imaging wings and setting up a home digital darkroom? Check out my review of a bargain priced and very capable photo quality ink-jet printer. 
+
+<b>Epson Stylus Photo 785 EPX</b> ink-jet printer 
+<a href='/content_60776812164'>http://www.epinions.com/content_60776812164</a>  
+
+For definitive advice on <b>How to Choose a Digital Camera</b> please see my review: 
+<a href='/elec-review-2E46-17B174E2-39A418E3-prod1'>http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+For more information about specific Digital Camera models you may find my Digital Camera reviews informative: 
+
+<b>Nikon Digital Cameras</b> 
+
+Nikon D100
+
+Nikon Coolpix 5700
+
+Nikon Coolpix 4500
+<a href='/content_69311368836'>http://www.epinions.com/content_69311368836</a>
+ 
+ Nikon D1X 
+<a href='/content_36023996036'>http://www.epinions.com/content_36023996036</a> 
+
+<b>Canon Digital Cameras</b> 
+ 
+Canon Powershot S40 
+<a href='/content_59617087108'>http://www.epinions.com/content_59617087108</a> 
+
+ Canon Powershot G2 
+<a href='/content_47646084740'>http://www.epinions.com/content_47646084740</a> 
+ 
+Canon EOS D30 
+<a href='/content_11625991812/tk_~CB003.1.58'>http://www.epinions.com/content_11625991812/tk_~CB003.1.58</a>  
+ 
+<b>Sony Digital Cameras</b> 
+
+Sony DSC-F707 
+<a href='/content_60512439940'>http://www.epinions.com/content_60512439940</a>  
+ 
+<b>Olympus Digital Cameras</b>  
+
+Olymous Camedia E 20N 
+<a href='/content_54953348740'>http://www.epinions.com/content_54953348740</a> 
+
+Just �cut�n�paste� the URL into your browser�s address bar/window 
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

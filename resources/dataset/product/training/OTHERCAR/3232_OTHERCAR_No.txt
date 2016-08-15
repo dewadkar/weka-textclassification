@@ -1,0 +1,67 @@
+DOC>
+<DOCID> 3232 </DOCID>
+<PRODUCT> Digital_Cameras/615430_Polaroid_Corporation_640_SE_PhotoMAX_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_43670015620 </URL>
+<TEXT>
+            <b>What this is</b>
+Polaroid makes a lot of cameras, both digital, and �classic�.  Some might argue that they should have stuck with the classic �Instamatic�� cameras of yesteryear.  Others would sharply disagree.
+
+This camera is an example of when Polaroid should have stayed in with regular �film� cameras.
+
+For some weird reason, epinions calls this the FLASH820.  This camera is actually the Polaroid FunFlash!  (Comes in 640x480 and 320x240 flavors.)
+
+This review is about the 640x480 version.
+
+The Polaroid �Fun Flash� 640 is, by it's name, a �fun� digital camera, with a flash mechanism and 640x480 (real) resolution.  It comes with some pretty advanced features, that some more expensive digital cameras don't come with.
+
+Features such as the self-timer with blink notification (on the front, so you know when your about to get 'shot'), automatic flash mechanism, auto-light adjustments, and an LCD screen to preview your positioning AND preview your shots!
+
+The camera also supports a picture erase feature (linear; only erases the last picture taken), so you can ditch that horrible picture (with the finger in the middle) while on the go.
+
+Pictures are recorded onto the integrated 4MB flash ROM of the camera (not expandable).  Which limits your ability to shoot pictures to about 15 hi-res (640x480), and 32 low-res (320x240).
+
+And yes, you can specify which shooting mode you want to be in (hi/lo).
+
+The camera uses an old-fashion serial hookup to connect to your PC.  Some newer PC owners don't have serial ports anymore.  Don't fret, a version of this camera with USB support is also available. 
+
+<b>Only<i>sounds</i> nice...</b>
+This camera's feature set is quite impressive.  A flash, LCD preview screen, and it's priced under $100 (at most sensible retail outlets).  So, what is wrong with such a nice sounding camera?
+
+You can't make out a damn thing when you finally do hook it up to your PC.
+
+This camera has a lot of problems when it comes to the very thing it was designed for; shooting pictures.  Firstly, the camera has a lousy light sensor.  Certainly the camera does indeed have such a sensor (it adjusts the exposure automatically, depending on the ambient lighting detected while your aiming the thing, you can see this action while aiming the camera with the LCD on). 
+
+Sadly, unless your outdoors, or in studio style lighting, this camera is going to have a nasty problem �sensing� it's way into proper light detection.  What's worse, this camera doesn't have manual lighting adjust (unless you put your finger over the lens, and black everything out).  
+
+With the faulty algorithms driving the �exposure� detection, the flash on the camera (which has substantial power on it), becomes useless.  The camera can't decide how much light to let into itself, and the use of the flash just makes the light sensing even worse. 
+
+The result is, in situations without �perfect light�, images that look like they've overexposed (if they were film based), and someone played with the �hue� feature in Photoshop (you know, shifts red to blue, blue to green, that sort of thing.)  Mildly specular surfaces (shiny things) throw off this camera like nobodies business.  The result can be as bad as a bleach patch where the light shines, to a rainbow of �artifracts� around that shiny patch.
+
+Part of the problem is that this camera compresses ALL the images on the spot in really low quality JPEG format (a �lossy codec�).  When the image is compressed (when you hit the button), aspects of the picture are dropped out to save space.  Some times, those aspects are mixed in with others from the picture (similar color patches blurring together, for example), and that result is stored.
+
+High quality JPEG compression is the standard for most (non-cheapo) cameras. This camera just uses low quality JPEG and moves along. There is no debate, this is a hard-coded feature in this camera. So, that native 640x480 picture you just shot ultimately looks like someone stretched the 320x240 picture to fit.  That's not what happened, but the look is about the same.
+
+<b>An overall icky picture</b>
+There are very few instances that this camera is going to shoot �nice� pictures.  You have little control over what the camera does, with fixed focus (4 meters � infinity), absolutely automatic exposure adjust, and no compression options, your pretty hard pressed to change anything that you might find wrong on this camera.
+
+The good news is that the flash is optional.  It can be shut off (or, maybe the camera might even think the flash may be unnecessary).
+
+So what is one to do?  Good question.  Change the lighting, change your angle.
+
+Get a real camera.
+
+The best picture I've ever taken on this thing was in broad daylight after giving the thing ten second of �look at this, and adjust� (it was a picture of a building), and click the �shoot� button.  The resulting picture was almost indistinguishable from a real digital camera, except the picture was (obviously) heavily compressed.
+
+<b>So what can I use it for?</b>
+I don't know.  Indoor pictures had better be lit like a photography studio, so you can turn off the flash (again, it throws off this poor cameras exposure adjust).  That will prevent the picture from being lit wrong (which is 60% of this cameras problem with shooting things).
+
+As for the ultra-heavy picture compression, I don't know what to do about that.  There isn't anything you can do about that, actually.  
+
+<b>Summary; There are better cameras</b>
+don't be fooled by the dinky price tag, your getting a dinky camera.  Self timer, auto-exposure, true resolution (non-interpolated) be damned, I can barely make out what I'm shooting here.
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

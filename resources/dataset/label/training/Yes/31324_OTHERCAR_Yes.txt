@@ -1,0 +1,40 @@
+DOC>
+<DOCID> 31324 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_SanyoVPCC-Sanyo_VPC-SX500 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-11E8-562DC34-39D4B157-prod1 </URL>
+<TEXT>
+            I bought the camera because DV (and Digital-8) cameras still need that extra amount of lugging about to be convenient. They also have open moving parts which can affect the quality of the work they are put to. This was my first digital camera because I still believe that stills are best digitised from negatives (APS scanners are �100 [subsidised?] in the UK (c. 200 loaves of economy white bread, if you need a currency translation)). 
+
+Digital pictures are easily lost but those negatives and prints always spring back up. Your PC can always revisit a negative with the next generation of digitiser but the CCD (digital-eye) on your digicam (and any mathematical interpolators it or your PC might use) is technology whose capabilities are held in time by the source images properties.
+
+No movie maker would enjoy a maximum of 5 minute clips but I am a poor film person. I take those somewhat pointless panning shots that last a few seconds and have no or little commentary. These prompt my and my companions memories in the form of video-bytes. I put music to them and then archive them for the next time we meet for a meal or something. Random access instead of what a video-cassette can bring is also better for that type of situation.
+
+Another requirement I had was not to draw attention from having the camera in my possession. When you are putting the camera away as you approach a peddler in a third-world country it doesn't really help if you look as if you have something rather expensive about your person. Not that I ever intend to rip them off, but I certainly don't want to encourage the converse. SLRs and some famous name digital cameras look like they belong to rich folk more so than &quot;the wife's jewellery&quot;! The Sanyo feels like a regular 35mm/APS camera.
+
+Movies from the other digicam manufacturers and previous digicams do NOT go beyond 320x240 and even at this resolution don't go higher than 15fps - some do however save storage space by using MPEG (Sony) instead of MJPEG (as per Sanyo). I didn't want an internet camera (&lt;1.5Mbps streams) and did not need a built-in MP3 player (Fuji 40i) escpecially at the expense of not supporting a microdrive. I did need enough storage to get a weeks worth of footage edited into c. 20mins. The 550EX suited me (the 500 appears to be similar but possibly doesn't take the multi-shots as quickly as 0.03sec apart, and is generally remarked as being slower).
+
+My expectations were set low compared with an 8mm or VHS-C camcorder, but the convenience would make up for that. 640 mode was good, a bit slow at 15fps, but that is all the competition can manage (some 10fps max at 320x240 max!). The disc space used in 640 mode is the only reason why I don't go on about it more in the review (approx 9.5 mins on 340MB drive which is too short for a weeks vacational imagery). 
+
+I have found what I believe to be a design short-cut in the Euro model. The movie-clips are captured at 15fps or 30fps (in NTSC VideoCD style sizes). The latter is excellent and playback from the camera's screen or from a 340MB microdrive inside your Quicktime (&gt;4.1 seems good) is excellent. However when the composite-video lead is attached the camera recognises this and appears to change the playback rate (to 25fps (across 50fields-per-second)).
+
+This change affects sync (e.g. lip-sync) by playing the sound at equivalent to realtime but the frames are possibly as slow as 5/6ths of real-time. So within 10 seconds you've noticably lost sync. This isn't good if you are moving video to your camcorder or VCR. I'd have thought the 550EX should have had 25fps (or 12.5fps) capture at 320, or had the option to drive the video connection at pseudo-PAL at 60Hz (30fps). Maybe this can be fixed through a firmware upgrade through some hidden part of the management software and an internet download ? (but where from and when?!)? LISTEN SANYO ENGINEERING - PLEASE!
+
+The stills are excellent, the sequences indicate how much technology is inside the camera, and the video capability is ample. Sound is scratchy and not unlike your old mono compact-cassette tape recorder with in-built condenser microphone, but this is still better than silence.
+
+I'm far from disappointed as I think this is the market leader at the consumer end at this point in time. (Sep 2000)
+
+My wish list for improvements for the next generation of digicams:
+&gt; 1.5M pixel, remote-control, zero-lux, MP3/stereo-audio, moving optical lense, standard lense attachement, better manual (indicating the largest supportable microdrive/compact-flash media, and what to expect when using power-enhanced alkaline from the battery-strength indicator).
+
+Integration opportunities to expect through time:
+The Personal Data Assistant/WindowsCE/Pocket devices can quite easily take on the digital camera market at least through add-on options. GPS/Maps, MP3, TV/AV remote controls, PocketSynth (like Roland PMA-5) and mobile telephony/WAN-data all deserve a single personal device.
+
+If you are waiting for the day when you can put a video camera in your pocket to capture your memories - then you've got it with this machine. If you want to ditch your Hi8/DV/D8/DV-Pro 'prosumer' machine then wait another couple of years(perhaps). Also, you'll not enjoy video playback on your PC if it is a bit behind the times, but you might be content with bouncing the video via your PC onto video-CD to share your antics with the family on their DVD player. Reducing the risk of losing all your documents if you are unfortunate enough to have a fire burn down your home.
+
+In all, I am pleasantly surprised (and now impoverished)<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

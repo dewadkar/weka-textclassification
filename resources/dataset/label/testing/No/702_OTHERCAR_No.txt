@@ -1,0 +1,20 @@
+DOC>
+<DOCID> 702 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_NikonCoolpixx-Nikon_Coolpix_950 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-45FF-335ABFF9-3A09B735-prod6 </URL>
+<TEXT>
+            We purchased the Nikon 950 for our R&amp;D department about 6 months ago as an upgrade to our older Sony digital camera.  We used the camera to take about 40 or 50 pictures a month for users manuals.   
+
+The camera worked very well for the first 5 months before we started to have problems with battery life.  What happened was that the camera would suck the batteries dry within an hour, regardless of whether you actually used the camera to take pictures.  If you actually took pictures, the batteries would die after 2 or 3 pictures or within a few minutes, whichever came first.  
+
+The camera was still within the warranty period so we sent it back to Nikon.  When we got the camera back, believe it or not, it actually had more problems than it did when we sent it.  The battery life was slightly better though: the batteries don't die when the camera is just sitting there and we can now take a whopping 5 or 6 pictures before the battery indicator starts to flash.  Unfortunately, the camera now has problems with the zoom.  When you zoom in and take your finger off of the zoom button, the camera will sometimes continue zooming.  It doesn't do this all of the time, just occasionally.  Another problem is that the camera will flip off and on repeatedly if we zoom in beyond a certain point.  
+
+Based on the large number of good opinions on this site, I'm hoping that our problem is unique.  It used to be a great camera that produced nice pics.  We're now sending it back again to see if they can get it right this time.
+
+Update: Our purchasing department had a lot of trouble trying to get in contact with Nikon's tech support department but they finally got through.  The tech support guy told us that they couldn't guarantee the camera unless we used Lithium batteries (we were using standard AA alkalines).  Our team of electrical engineers is having trouble understanding why the camera would only take a few pics with alkaline batteries but work perfectly with lithium batteries.  We're still going to try to get this thing fixed by Nikon, but our frustration with these people has caused us to shop for another camera - from another company, of course.<br><br>
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

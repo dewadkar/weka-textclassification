@@ -1,0 +1,27 @@
+DOC>
+<DOCID> 4321 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1994_Toyota_Corolla </PRODUCT>
+<URL> http://www.epinions.com/content_20308725380 </URL>
+<TEXT>
+            <b>Options \ Features</b>
+Power Steering, Power Brakes, Automatic Transmission 
+
+<b>Application</b>
+Taxicab
+
+<b>Opinion and Experiences</b>
+This vehicle was purchased used and had 24K miles on it.  After making it a taxi cab it has been in service for 3 years already has over 200K miles now.  The fuel economy is excellent and the car has great pickup and handling.  Besides oil changes the only work that has been done was replacing the axles ($120) at 110k , fuel pump ($120) at 125k, and the transmission ($750) at 130k.  I am very impressed with the way this car is holding up as a taxi, imagine how you would feel 15 years from now when you had 200+K miles on it!!!  Great car for a great value.
+
+<b>Warranty Information</b>
+Varies from dealer to dealer
+
+<b>Our Recommendation</b>
+Great car for students and small families
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

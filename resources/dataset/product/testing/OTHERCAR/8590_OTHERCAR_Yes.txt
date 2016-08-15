@@ -1,0 +1,147 @@
+DOC>
+<DOCID> 8590 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Pentax_ist_D_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_116449250948 </URL>
+<TEXT>
+            After several brief trials during these few months, I finally got my *ist D on the 10th of January. And now, I have already used it to shoot hundreds of wonderful photos. In this review, I shall focus mainly on my personal observations and findings which are summarised below:-
+
+(If you want to know more about the operations, knobs and layout design, etc of the camera, you can go to the some other DC review sites or just simply download the user manual from Pentax USA website. I think it's really not so meaningful for the reviewers here to repeat those factual materials at web places like Epinions where re supposed to be simply *end-user* review/opinion sites)
+
+
+<b><i>I.  The Body</i></b>
+
+<i>1. Body Ergonomics</i>
+
+The body is very small and nice. It is well made but can't give me the special metallic sturdy feeling  which my MZ-S offers. It can't give me the cold metal feel as well. The hand grip is safe to grip but not extremely comfortable to hold and it is not perfectly fit into my right hand (it's already good indeed but just not as perfect as my MZ-S, maybe owing to the thickness required for this DSLR - to put more electronics into it but yet maintain a compact size). All the buttons and dials are well placed and clearly marked plus green color for all the recommended default positions.
+
+By the way, the overall sturdiness and solid feel of the *ist D body is acceptable to good. Unlike the Digital Rebel/EOS 300D, the *ist D looks more sturdy and solid. Actually, when it is held in hands, it feels solid enough. However, the silver plastic shutter release button is particularly prone to scratches. I have found many small scratches already just in a few days of use :-( I even don't know if some scratches already exist or not when I purchased it. Anyway, such plastic release buttons are very common for many digicams, but for an expensive DSLR in this class, I think it's better to use other sturdier material (say, metal)/painting/coating for it. Moreover, for the built-in flash, there is an obvious play even after it is retracted into its housing. For comparison, my MZ-S or even MZ-30 has tight retracted RTF and there is not much play can be found. Similarly, the battery compartment door has also some play there so that I can push or pull it towards or away from the camera front after closed. Nevertheless, the electrical contacts to the batteries are kept tight.
+
+In addition, I suspect there exists some minor QC problems in the factory. Actually, I exchanged the body for once just because of slight mis-alignment of the focusing screen and a wrong painting on the mode dial (just an additional small silver dot on it, it just like that a droplet of the painting was dropped accidentially onto the top of the dial).
+
+<i>2. The Viewfinder</i>
+
+The viewfinder is very bright. It seems to be even a little bit brighter than that of my MZ-S. Meanwhile, the viewfinder of MZ-S is already known as one of the best in the current SLR market. The image quality of the *ist D's viewfinder is indeed the best of many APS-C DSLRs which I have ever seen, say, amongst 10D and D100. It is still impressive even when I mounted the slow FAJ 18-35/4-5.6 lens. Magnification is obviously the largest in the market but still smaller than film SLRs. On spec, it's 0.95X at 50mm. By taking the 1.5X crop factor into account, if one really wants to compare, it just has 0.63X at 50mm 135 equilvalent focal (around 33mm for actual focal length of the lens).
+
+Actually, by comparing the 10D and the D100 which had also been put on my hands before, I can conclude that *ist D viewfinder wins almost all in brightness, magnification, contrast, color and coverage! If you don't believe, you can find a shop which has them all to examine and compare!
+
+(In the past, when I told the advantages of the *ist D over 10D and D100 in various photo forums, some die-hard Canonists and Nikonists would fire me with their machine guns immediately. So, I think sometimes it might be hard for them to believe that Pentax had made a DSLR which knocked out C and N stuff clearly in particular aspects. Therefore, I have made the above advice - Judge by *yourself* hands-on! Anyway, there were also times when I talked about the cons of the *ist D, some Pentaxians would fire me. What a strange world indeed! After all, I think it should be always true that every camera in this world should has its pros and cons, comparatively, i.e. there is simply no perfect camera outthere in this planet!)
+
+The finder's numeric and symbolic displays are very clear, bright and large and thus very easy to see. It's a totally different story when compared with the film *ist. 
+
+But here yet the QC problem appears, the focusing screen is somehow a little bit loose and shift in the focusing/metering marks can be seen after it was mounted. It is possible to adjust the position but I found it to be somehow difficult and also dangerous task, so I exchanged the other one and the alignment for the second body is perfect.
+
+<i>3. The AF</i>
+
+Red illumination will be lit up to confirm a focus point has been chosen and is in-focus. It is a solid red square at each point and is very clear to be seen. The center AF point is a hollow square. It is indeed a clever and great design that Pentax don't follow Canon's craved AF marks in the focusing screen for each point, otherwise the viewfinder will become rather cumsy - the *ist D has 11 AF points of which 9 are with crossed sensors - a very advanced AF system. For the AF marks, 3 brackets are used instead, from small to large ones. The center one is also for spot light metering, a feature which Canon DSLRs lack (except EOS 1DS).
+
+The AF is reasonably fast and decisive, even under the 11 point automatic AF mode and used indoor. Spot AF mode is more responsive, though. If it is compared with the MZ-S on AF responsiveness and sensitivity, the MZ-S still has an edge over the *ist D. I still regard the *ist D's AF system noisy but it is already noticeably slightly quieter than the MZ-S. 
+
+Since some early *ist D owners/users had reported some focusing error problems with fast glasses used on the *ist D. Therefore, I intentionally tested my two bodies with my fast glasses, namely, FA 43/1.9, FA 85/1.4 and F 300/4.5 and not even one mis-focused photo can be found for any object at any distance. The AF system is dead accurate for all these fast lenses! It's even more accuate than my eyes (maybe I ve poor eyesight :-) Just a little bit unfortunately and surprisingly, mis-focusing has been seen when used with my 24-90 for infinity objects under very dim situations with very low contrast objects. But yet fortunately, AF with the 24-90 is still dead accurate under normal situations.
+
+<i>4. The Dials and Buttons</i>
+
+When turning the Tv and Av dials, the click action and sound is not very crisp and it's just simply not as crisp/solid as the feeling of my MZ-S. Anyway, it operates flawlessly and maybe Pentax designed it to be more easy to turn with less effort. It's just my personal taste, though.
+
+The 4 way rocker control plus the Ok button at the back is simply five small switches under the same rigid cover. This design is faster to operate without lifting the thumb each time but it is more likely to be mis-operated. A little more care in pressing will solve the problem mostly but not always. I still prefer my old Olympus prosumer DC's four way plus Ok five-button design. I guess Pentax's design is owing to the limited space on the back panel of the small body.
+
+<i>5. The Unique Hyper Program and Hyper Manual</i>
+
+The Hyper Program means the user can change the Tv and Av at any time by turning the Tv or Av dials and revert back to the P mode by a press of the green button. Hyper manual means the proper exposure setting can always be set simply by a push at the green button. Of course, after that, you can change either Av or Tv or both since it is a true metered manual mode.
+
+In a few words, I think the Hyper Program and Hyper Manual are very practical features for demanding photographers who wish to have creative and full control. The design is very responsive and is much helpful when the timing is critical. You can easily change either the Tv or Av without leaving your eye from the finder and the indication is very clear and easy to follow. There are two underlines under the Av and Tv figures. When you change the Tv or Av, an underline will be displayed - a brilliant design!
+
+I need to highlight that in green mode which is supposed to be fail-safe, there will be no program shift. In the Hyper Program mode, the shift is only allowed to be within proper metering exposure range. Whilst in Tv, Av modes, there is no restriction, i.e. you can still choose any Tv or Av even it is out of the proper exposure range as metered.
+
+<i>6. Another Unique and Useful Feature - Intelligent "Auto ISO Sensitivity Correction"</i>
+
+There is also a special auto ISO custom function which will enable the camera automatically select a higher ISO value when the exposure reach its lower limit. This feature is very useful, especially in low light and hand-held situations. In P mode, the ISO will be adjusted in accordance to lens used, max aperture and the chosen Tv - it is very intelligent indeed. But foolish Pentax don't even mention this in her promotion materials and even not much is mentioned in the user manual!
+
+<i>7. The CF Card Compartment</i>
+
+The CF card slot is not as problematic as most well known reviewers said, IMHO. I think only ppls with larger hands will encounter problems. Still, gravity will help for those users - but be careful if you use microdrive. But I am sure you can adopt to it. If unfortunately no, some users stuck tapes to the memory cards and their problems were completed solved. But be careful not to cover the hole on microdrive when putting tape onto it. The hole has a warning message saying not to cover it!
+
+Many reviewers, include Phil of dpreview, believes this to be a design fault. For me, I discovered how it was designed and how to use it. If you put the *ist D on the table and push the eject level without blocking the memory card, the card will fly out and stop at an appropriate position for picking. This is true even for microdrive or CF. At the end, we can't rely on the edge of most CF card to get the card out as most microdrive I ve seen still don't have this edge.
+
+<i>8. Comprehensive Film Advance Modes, including the Rare DSLR Function - Mulitple Exposure</i>
+
+The consecutive advance mode, when capture in Large 3 stars jpeg mode, slowed down when shooted to around the fifth or fourth frame, instead of 6 in the spec. I  tried this several times. The 2.6 fps seems to be true. It's all about my feeling regarding the actual fps, no scientific measurement was carried out, though.
+
+The self-timer, multiple exposure etc. can also be selected at a touch of the same button on the right side near the top LCD panel. The multiple exposure is an useful and special feature which is *not* commonly available in other current DSLR models.
+
+<i>9. The LCD Panels, Software Menus and User-friendliness</i>
+
+The color 1.8 inch TFT LCD on the camera back is bright, fine and with faithful color. The angle of view is acceptable but not wide. My ancient Olympus C-3000's LCD seems to have a wider angle of view, other than that the *ist D's LCD is much more accurate. Various setting information and playback are very easy to access/start and the *ist D does provide all the essential information needed, including the provision of histogram. The custom setting menu is also very easy to understand and operate. Honestly speaking, I have never read the user manual to find out things and I have already known how to operate the *ist D for almost all functions and use almost all its features. Unfortunately, each time I want to find more in-depth things, the manual couldn't tell me, so I need to test and find the answer by myself, e.g., how auto ISO adjustment is made by the camera.
+
+The top traditional monochrome LCD panel backlight is only from two LEDs installed at the right side gap. The LEDs are green in color. Its advantage against EL type illumination, which no LED can be seen) is to save power (it maybe good since the backlight is now integrated with the DOF preview, so that it will be lit up each time u push the preview level) but the drawback is it is not as even as the higher cost EL LCD screen. But in dark situations, the difference is small and the backlit panel looks beautiful. The DOF preview level is very handy and the level is very easy to locate even in dark (against a separate "lit up LCD" button). I found that I sometimes couldn't find the lamp button of MZ-S in very dark places.
+
+
+<b><i>II.  The Kit Standard Lens - FAJ 18-35/F4-5.6 AL</i></b>
+
+1. The zoom ring is quite smooth and appropriately tight, i.e. not too loose and not too tight - Smoother than my 24-90 and also tighter for the whole range. Of coz, I cannot call it silk smooth but it's already very good. Maybe it's easier to build a better shorter range zoom, in mechanical terms.
+
+2. The coatings are of very high quality, for all the lens elements, from front to the rear and inside! It simply identical to traditional Pentax SMC coatings. I found that the flare resistance of this lens is excellent, even under severe conditions. The color rendition of this lens is superb. I had never seen "kit lens" of other brands has this high level of optical and mechanical quality!
+
+3. MF ring is very smooth and appropriately tight. Again, I must say it has been improved over my 24-90 and revert to the mechanical quality of older FA zooms.
+
+4. This lens is reasonably sharp, just by looking thro the finder. The contrast is not as high as my 24-90 though, but it has another taste. When zoom in 100% on a 15" LCD monitor, softness can be seen. But again, I think it's not practical for us to judge lens performance like this. After all, we shall just view and print photos in normal or normally enlarged size, but not in 100% or more, shan't we?
+
+5. The lens mount is all plastic, something of the mechanical couplers of the old K mount are deleted .
+
+6. The lens build quality is quite high in its class. The plastic lens mount interacts smoothly when mounted and dis-mounted. The lens is very light so I think a metal mount is not required. The plastic mount has even the advantage for not to make scratches on the *ist D metal mount so easily. 
+
+7. The lens do not have front rotating element so it's polarizer friendly. A flower shape lens hood is supplied. There is a door at the bottom of the hood for the user to turn the poloriser if needed - a very thoughtful design.
+
+
+<b><i>III.  The Picture Quality - the Most Important Thing</i></b>
+
+<i>1. General Performance</i>
+
+The picture quality is very high. I can often see good sharpness, color, highlight and shadow details, contrast, etc. I particularly like the colors it reproduces, tone and skin balance are very natural and film like. Noise has been very well controlled up to ISO 800 and still quite acceptable for ISO 1600. Metering is mostly accurate. 
+
+<i>2. Shooting in RAW and the bundled RAW convertor - Pentax Photo Laboratory</i>
+
+If I need to have absolute control on white balance and exposure, etc. I can have the option to shoot RAW pictures. Subsequently, the white balance and exposure or even sharpness, saturation, etc. can be changed at a later stage. 
+
+The bundled Pentax RAW converter, the Pentax Photo Laboratory, produce decent pictures. I have tried the third party Genzo RAW converter (freeware) and SharpRAW (shareware), it's clear that Pentax's own convertor produce better and more natural look pictures. Genzo quite often does more sharpening but some of its converted jpegs do have slight color cast, except you tune each picture with specific settings. In contrast, the Photo Laboratory does have the "Auto White Balance" option so that color cast is less likely to be seen. The SharpRAW I tried is not worth for considering since it produced obviously the worst pictures amongst the three and the fine jpegs produced in camera by *ist D are also far better. As another comparison, whilst Nikon's original RAW converter needed to be purchased separately, it does have more features and options. Despite of the fact that Pentax bundled the Photo Laboratory with the *ist D body, I do hope that she can upload patch of the updated program very soon onto their website, in particular, I think a zoom function in the preview window with histogram display (of the zoomed part) can be added. I believe this is a quite essential and useful function missing. Even worse, for the currently availble 3 setting windows which are popped up by clicking the specific buttons when needed, they are not possible to be displayed within the whole monitor screen area at the same time and this makes the adjustment tasks rather cumsy. Anyway, the exact effects of settings can be viewed by opening a separate picture viewer to open the saved pictures by the Photo Laboratory. Nevertheless, I think the fixed size preview window in the Photo Laboratory still serves you well, if no critical adjustment is required.
+
+<i>3. The Legend of High Quality Long Time Exposure Images with Digital Camera - the *ist D with the Noise Reduction (NR) Feature</i>
+
+The color and intensity response of the *ist D when taking night scene picture is actually quite close to film. Unlike many other (maybe older) DCs, there is no noticeable color loss/shift nor serious light leakage to neighbourhood pixels. 
+
+To make it even better, there is a very useful Noise Reduction (NR) mode for long time exposure which is particularly useful for shooting night scene. It is very effective but without destroying much picture information. Even my Canon 10D friend admired this function much and he thought that the *ist D's night scene pictures were "even better". The working principle of the NR mode is actually to capture two frames at the same time, one at normal time value and the other much shorter, so as to dig out and remove the hot pixels. Of course, addtional processing time will be required. 
+
+In short, the legend of using to shoot night scenes digitally is here - the *ist D.
+
+<i>4. Flash Metering and Flash Exposure Compensation</i>
+
+I haven't tried to use my external Pentax dedicated flash unit on the *ist D yet. However, the intenal flash seems to be quite accurate for the flash photography. Since the *ist D's minimum ISO speed is 200, the built-in flash now has a Guide Number (GN) of 15.6 metres. But it is not as strong as one, who used to shoot negatives, would expect when shooting in jpeg mode and sometimes pictures appear dark when the objects are a little bit too far away. Under such circumstances, the pictures can be made brighter when shooted in the RAW mode which is often referred to be the "digital negative".
+
+By updating the *ist D firmware to version 1.10, I can now use the manual (M) mode which is equipped with the (flash) exposure compensation function. This is achieved by engaging the exposure compensation function in M mode (original firmware version 1.00 do not allow this). I always prefer to use M mode over the others when I need to control precisely both the flash exposure and the background ambient light exposure, usually with the use of flash compensation. I found good results can often be obtained by this technique. I know that other DSLR like 10D has a separate function for the flash exposure compensation, but I found that the new Pentax firmware is just as good or even better since it is easily accessible by just push the exposure compensation button and turn the Tv dial. After all, I think ambient light exposure compensation in M mode is actually meaningless since that the exposure over/under bar should serve the purpose, and the EV compensation is only useful in auto modes, I think.
+
+<i>5. My Sample Photos?</i>
+
+Since I have no method to upload full size sample images onto the net, so I can't let you see them for judging by your own. Anyway, you still can download many of those sample pics elsewhere on the web, just do a web search.
+
+<i>6. FAQ: Soft Jpeg??</i>
+
+Last but not least, I would like to address the so-called soft jpeg problem as discussed on the web so far which should be firstly raised by Phil of dpreview. I found that the problem is non-existent for typical viewing and printing size. And it is truely non-existent for expensive glasses such as FA* and limited lenses or simply primes, except wide opened. Therefore, this is not a problem in my conclusion. I doubt that any other DSLR in this planet can perform better? Of course, I mean DSLRs of 6 megapixels.
+
+<i>7. How About the Dust Problem?</i>
+
+The last thing I want to mention is the dust problem. My advice is to change lenses as few as possible and find a place as clean as possible to change the lenses. But so far I found that the sensor cleaning mode and the method of simply using air blower is very effective to get rid of the dust particles. Just need not to worry when to clean the dusts - when you see them in your recorded pictures, then you will surely know what to do! 
+
+
+<b><i>IV.  My Conclusion</i></b>
+
+The *ist D is actually a very nice and lovely DSLR which is equipped with many unique features as detailed above and its compactness and superb viewfinder can take it from the crowd (a small crowd of available but affordable DSLRs, though). It's not a professional camera like my MZ-S in terms of build quality but it's surely much better than most entry level film SLRs and probably also better than the Digital Rebel/EOS 300D in this aspect (except the minor "problems" which I mentioned near the beginning of this review).
+
+The functions and features it offered are more than adequate for demanding shootings, even for professionals, IMO.
+
+Personally, I found the price of the *ist D is just fairly reasonable, which has the free RAW convertor software bundled. Whilst there is still much room for improvement regarding the user-friendliness and features for the Photo Laboratory, it does produce decent final pictures. Finally, one can of course always wait for a price cut at any time but I would rather spend the money and start shooting and it is really worth each dollar I have spent.
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

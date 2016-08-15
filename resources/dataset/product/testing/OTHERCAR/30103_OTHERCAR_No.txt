@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 30103 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_KodakDCC-Kodak_DC-280 </PRODUCT>
+<URL> http://www.epinions.com/content_7327420036 </URL>
+<TEXT>
+            I have a DC-260, DC-280, and a Sony DSC-F505V.  The DC-280 is the worst of all.  In bright Sun the pictures are totally washed out, we have tried all available metering modes.  Indoors it is difficult to get the auto-focus to lock up.  This camera costs way too much money for the resulting picture quality.  It's best quality is how easy it is to use. There is NO supplied software to manipulate captured images; the USB function works good but it is a Windows Explorer type of interface.  Pictures are saved to a Windows Temp folder and you must copy them out.  Shame on you Kodak. There is an excellent camera control program included. The LCD on the back is a joke unless you have a magnifying glass to read it.
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

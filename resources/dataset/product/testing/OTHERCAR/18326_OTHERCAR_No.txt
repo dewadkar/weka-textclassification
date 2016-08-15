@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 18326 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1995_Mitsubishi_Eclipse </PRODUCT>
+<URL> http://www.epinions.com/auto-review-5FA4-118B35E4-39EA4EC1-prod5 </URL>
+<TEXT>
+            My overall opinion of this car is good.  I like the car, and it performs very well and has a lot of potential.  However, the production of the car was done very poorly.  These cars have a tendency to get something called &quot;crankwalk&quot;, which for those of you who don't know car lingo that well, means that the main crank for the engine begins to move from side to side...which wears out the bearings....the end result is an engine that siezes or doesn't start.  The reason it wouldn't start is because there is a sensor on the crank shaft that is there to tell the ECU (Car Computer) that the crank is moving from side to side...but when the crank moves from side to side....you will hear a clicking noise that your engine is making.  That noise is the sound of the crank rubbing the sensor against the side of the engine...which eventually disables the sensor.  Thus causing the car not to start...since the sensor has to be fully functional with no errors in order for the ECU to allow the car to start.  Other than that, the car is great, but the only true way to fix this problem is to get a new engine.  IF you replace the bearings that wear out, that will get you about another 10,000 miles before it happens agian.<br><br>
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

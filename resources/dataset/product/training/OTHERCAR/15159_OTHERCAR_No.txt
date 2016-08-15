@@ -1,0 +1,27 @@
+DOC>
+<DOCID> 15159 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Toshiba_PDR_M60 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-FE-392F2929-3A4FC923-prod5 </URL>
+<TEXT>
+            My wife and I received a brand new Toshiba PDR-M60 digital camera for 
+Christmas this year. This is our first Digital camera. We were very happy at first, 2.3mega pixel, 2.3x optical zoom and built in lens cap. But then when we got to know our gift a little better things changed.
+
+After installing the batteries which came with the camera I started to take a photo and noticed that the camera has an obstruction in the viewfinder.  When you look through it to take a picture there is a blurry spot in the lower left of the viewfinder not something you would expect in a high quality camera.  I took 3 pictures and the 4mb memory card was FULL. I fiddled with the camera and changed the quality to half 896 x 600 resolution and erasing the first pictures we were able to get approx. 24 pictures from the memory card.  Things were looking up. We took some more festive pictures and went home.
+
+The next day I tried to download the pictures to my computer.  I went to the camera and tried to turn it on yet the batteries were dead. I knew from work to turn off the display while shooting pictures so that should have helped battery life.  In case you are wondering, I did not leave it on overnight.  Anyway, I got some new Duracells and fired it back up.  These lasted about 60 pictures and 3 downloads.  This camera EATS BATTERIES BAD!!!!!
+
+Trying to get the USB to work has been an ongoing hassle.  Instructions for setting up the USB interface are in the Manual.  Not the 10 page hardcopy that comes with the camera, but the full blown copy on the CD which is in .pdf format (103 pages). Not sure if this is a problem with my computer or the camera but I have to reboot every time I want to download images or else I get a communication error.  Every other digital camera I have seen has been able to just hook up and go.  Not this one on my computer. When it works it certainly is fast taking less than a second to download an image.  I know that this contributes to low battery life.  However, Toshiba is not kind enough to include an AC adapter.  I may be a little picky but a $500 camera should have this type of item included. 
+
+I do like the Sierra Image Expert software that comes with the camera. It allows either automatic adjustment of the pictures or if you like you can modify everything manually.
+
+Given the way this camera eats batteries I would like to see the battery door be a little more robust.  It takes a lot of pressure to close it and it seems like it won't last through many battery changes before something breaks.
+
+To sum it up, I would have to say that this camera takes excellent pictures and is relatively easy to use.  However, Obstructions in the viewfinder, poor USB communications, horrible battery life, no ac adapter, and too small smartmedia card make this a gift that we are going to take back.  We will be researching other cameras and hope to find something better.
+
+<br><br>
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

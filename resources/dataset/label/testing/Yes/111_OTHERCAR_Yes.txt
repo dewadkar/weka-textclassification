@@ -1,0 +1,22 @@
+DOC>
+<DOCID> 111 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Fuji_Finepix_MX-1200_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/elec-review-4179-153E26AC-38413D80-bd1 </URL>
+<TEXT>
+            This is a great camera. From it's picture quality and it's form factor to it's price and software, just about everything is great with this digital camera. This is the best camera a less-than professional could buy.
+
+The picture quality is really something stunning. I admit I am somewhat new to digital imaging, but it's pictures seem to give 35mm pictures a run for their money, even at less than optimal quality settings. With this camera, you can choose 6 different quality settings by choosing the size, &quot;1280x960&quot; and &quot;640x480&quot; as well as the quality settings &quot;Fine&quot;, &quot;Normal&quot;, and &quot;Basic&quot;. The 1.3 megapixel quality gives quality photographs even at the 640x480 Normal mode. 1.3 megapixels should be enough for any amateur to intermediate photographer.
+
+The form factor is good-looking too. The square format easily accomodates the 2&quot; color TFT LCD screen and the function dial that is used to select what mode you're in. The viewfinder is strategically positioned to give a quite accurate shot of what you are about to take a picture of, but the viewfinder isn't terribly well defined around the edges when you're looking through it. This isn't a problem, though because you can frame your shots through the color LCD screen.
+
+The flash is of such a quality that it warrants it's own paragraph. Even though it really eats batteries, the flash can easily illuminate an entire room, making it seem like it is broad daylight. The flash options include Slow-Synchro (meaning you can illuminate your subjects but still get the background), Forced Flash, No Flash, Red Eye reduction and Automatic. You can even adjust the shutter speed! Of course, you can always just touch a button to go into full Auto mode where the camera takes care of everything and you just point and click. This is what makes this camera great for everyone from beginners to semi-pros.
+
+The software is quite good, and uses TWAIN compatible software, meaning you can plug in your shots into any image software that uses TWAIN Acquire, something very common. Unfortunately, the transfer cables use a serial port, meaning a very slow transfer speed.
+
+The price, though, set me over the top when I bought this camera. It was $299 - $20 rebate, plus a free 8MB SanDisk SmartMedia card for storing pictures and a FlashPath adapter (which you put the SmartMedia card into the adapter, and put the adapter into your floppy drive) or a USB SmartMedia reader through the mail. You just can't beat that! Your mileage may vary, but this camera is still a bargain even at the full retail of $299. You can find these cameras at Best Buys and other electronics stores around the country.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

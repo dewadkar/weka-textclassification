@@ -1,0 +1,40 @@
+DOC>
+<DOCID> 21545 </DOCID>
+<PRODUCT> Digital_Cameras/Canon_Powershot_S200_Digital_Zoom_Camera__Camera_7646A001 </PRODUCT>
+<URL> http://www.epinions.com/content_82475323012 </URL>
+<TEXT>
+            By the grace of god, I realized I lost my big fat battery eating Kodak DC280 digital camera last summer just as I was about to go on vacation to Europe.  I quickly scanned CNET.com and looked for a decent digital camera that wouldn't break the bank.  This is the one I decided upon after researching it for 30 minutes.  This camera turned out to be the best camera I've ever purchased because it's small, simple, durable, and gets the job done well and in style.  Now for the details...
+
+The camera is very compact and the aluminum shell really makes it feel solid, despite it's compact size.  In terms of memory, 8 MB is not enough and you'll have to shell out $25 or so for a 32 MB card or $50 for a 64 MB card.  Additionally, a small padded nylon camera case should run you around $10 or so from Best Buy.
+
+Here are the basics of what you get when you open the box:
+1) the Camera
+2) an 8 MB CompactFlash card
+3) a USB cable to connect to your computer
+4) a battery charger (it's rectangular and approximately the same size as the camera)
+5) a small proprietary Canon battery
+6) software and manuals
+
+Prior to using the camera for the first time, I charged the battery for approximately 30 minutes.  You charge the battery by dropping it into the charger and then plugging the charger into the wall.  When you plug it in, a red light illuminates indicating the battery is not fully charged.  When the battery is charged, the light on the charger turns green.
+
+The battery is very easy to put into the camera.  Just slide the door on the bottom to the right and lift up.  Then, you drop the battery in and push it gently until a little arm snaps around the corner to hold the battery firmly in place.
+
+The compact flash card is also very easy to insert.  Just slide the switched marked "CF OPEN" on the back of the camera and the door flips open.  Push the CF card in until the little rectangular eject button is even with the back of the CF card.
+
+There are three modes to the camera, once you've pressed the power button.  There is the play mode where you can review your  pictures/videos, the video recording mode, and the picture taking mode.
+
+On the back of the camera, the controls are very well laid out.  I did not need to use the manual to figure out how to set up the camera and operate it.  Without digging through menu after menu, I was able to quickly configure the camera to take great looking pictures.  A single button controls the flash mode and another toggles between regular and close-up mode.  
+
+The screen shows information like how big a picture you're taking (small [640x480], medium [1024x768], large [1600x1200]), the amount of compression of the file, how the flash is set, the orientation of the camera (portrait or landscape), and a few other things.  This information shows up in the outer boundaries of the screen and you can turn it off to focus on the image alone or you can completely turn off the screen and use the optical view finder.
+
+I didn't bother to install Canon's software on my computer, so I won't evaluate that here.  I was able to turn the camera to review mode, connect it to my PC via the supplied USB cable, and download the pictures onto my Windows XP machine.  XP recognized the camera and it was effortless.
+
+I read some of the other reviewers knocking the camera for battery life and I don't understand that criticism.  I took this camera with me to Europe for two weeks, shot loads of pictures on a daily basis, and NEVER ran out of batteries.  The camera turns itself off if you leave it alone for 2 minutes.  I was able to get two days worth of picture taking out of the camera under heavy use, though the flash did not fire often.  As with any battery powered device, you'll need to ensure your batteries are charged.  The only beef I have with this camera is that you're "flying blind" with regard to how much life you have left in the batteries between charging.  Just make sure before you take the camera to an important event that when you put the batteries in the charger, it's green before you pull them out.
+
+So anyway, if you want a digital camera that takes great pictures, doesn't require you to be Albert Einstein to operate, is durable in the field, and light on both the pocketbook as well as in your hand, this is your camera.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

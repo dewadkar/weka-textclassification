@@ -1,0 +1,88 @@
+DOC>
+<DOCID> 858 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_OlympusCC-Olympus__C-3000_Zoom </PRODUCT>
+<URL> http://www.epinions.com/content_38664965764 </URL>
+<TEXT>
+            The following epinion will be a comprehensive review of the Olympus C-3000.  Some epinions are meant to be read like poetry, but this epinion is practical and comprehensive.  So if you aren't shopping for a digital camera, you should skip this epinion.   However, if you are in the market for a digital camera, read on!
+<p>
+<b>My Background</b>
+<p>
+Throughout the years I have used a number of digital cameras.   I have personally owned the Olympus 360L,  Nikon CP800, Toshiba PDR-M4, Nikon CP950, Olympus C-3000, Olympus C-2100 UZ, and the Sony P-50.    
+<p>
+<b>Body & Design</b>
+The Olympus C-3000 is a little larger than the average camera listed as "compact".  It can fit in a pocket, but it bulged out considerably so I never kept it in my pocket.   Plan on carrying it in a camera case.  The body of the camera is made mostly of plastic, however, it feels very durable.   It does not have that cheap feel that entry-level cameras have.   
+ <p>
+
+The biggest flaw in the design of this camera is in the lens barrel.  Because of the design, equipping add-on lenses to the C-3000 is a very complicated task.  When the camera is turned on the inner lens barrel extends out, however there is no thread on the inner lens barrel.  The threads are on the outer lens barrel which does not ever move.  Therefore, to use an add-on lens, you will have to buy a "outer lens barrel extender"(I made that up).  If you don't, the inner lens barrel will extend out and crash into the add-on lens.   I bought one made by Tiffens from my local Circuit City for $10.  Then you screw the add-on lens to the extender.  
+<p>
+The buttons are layed out in convenient spots.   The most commonly used buttons can be accessed with the hand holding the camera.  The menu system is also design very well.   For the functions that can't be accessed by a push of a button, a fast menu system is a real perk.  
+<p>
+A remote control is supplied and can be very useful when you are using a tripod or you are reviewing the pictures on a TV.   You can zoom and take pictures with the remote control in Record Mode.   In Review Mode, you can connect the camera to a TV and sit back on the couch and cycle through pictures with the remote control.   
+<p>
+<b>Image Quality</b>
+<p>
+Of all the cameras I have owned (listed above), this camera has the best image quality.   Its 3.3 megapixel CCD captures an enormous amount of detail.   I was able to print beautiful 8x10 photos with my 2 megapixel CP950, so I am sure this camera can produce even bigger high quality prints.   The colors seem to be very accurate, however, this issue seems to be more of a personal preference.  Some people prefer the colors to be highly saturated.   The Olympus seems to produce photos with accurate colors, which means the photos are not highly saturated, yet the photos are not bland.   
+<p>
+<b> Lens </b>
+<p>
+I have taken at least 400 photos with this camera and I have not seen any obvious barrel distortion.  However, I suspect that there must be a slight barrel distortion in full wide zoom (around 32 mm  focal length).   At full zoom (around 96 mm focal length) the images are still sharp.   
+<p>
+A "bright" lens will allow you to take better low light pictures without the use of a flash.  A flash usually will wash out the colors in a picture, so avoiding the flash is usually preferred.  A bright lens is designated by a low f- number.  This lens is is brightest at f2.8.  It is f2.8 throughout which means that it is also f2.8 even at full telephoto zoom.   While f2.8 is not the brightest lens out in the market now, it is still a little above average (especially at full zoom).  
+<p>
+<b> Exposure Modes </b>
+<p>
+There are four exposure modes: Programmed AE, Aperature priority, Shutter Priority, and Manual.  A novice user can leave the settings on Programmed AE, which essentially makes the camera a point-and-shoot.  However, once you become familiar with the camera, most users will want to explore how to make their pictures just a little bit better and they can do so by using the three other modes.   In shutter priority mode, you choose the shutter speed and the camera will calculate the aperature that is needed.   In aperature priority mode, you choose the aperature and the camera will calculate the appropriate shutter speed.   In manual mode, you have the freedom to select the shutter speed and aperature control.  You can view on the LCD if the picture will be exposed "properly" and by how much EV.  
+<p>
+<b>White Balance</b>
+<p>
+White balance is used by the camera to expose the photo with the correct colors.   There are 4 manual preset settings for white balance.  They are Daylight, Overcast, Tungsten light, and Fluorescent.   I usually leave it on fully automatic white balance, which usually does a good job.   The feature that is noticeable lacking is the "white preset".   This camera does not have it.  With this feature, you can point to a white spot in the frame (eg. white wall) and the camera will expose the picture according to the fact that the spot is white.   Fortunately, I have never felt the need for that feature on this camera.  
+
+<p>
+<b>Movie Mode</b>
+<p>
+I never knew how useful and fun movie mode would be until I got this camera.   I had never factored movie mode in my digital camera purchasing decision until I played with this camera.   Don't expect to make great high quality movies with your digital camera.   However, at the high quality setting,  I was able to capture some footage that would not have been as effective with still photo.  For example I was at Venice beach the other day and I was shooting still photos of the AND1 basketball performances.  These guys put on an amazing display of moves.   After shooting a bunch of still shots, I shot in movie mode.   The movie mode captured the high paced action perfectly.   
+<p>
+Some cameras do not record sound, however, the C-3000 has a built in microphone that does record sound.   In my experience, the subject shouldn't be more than 5 feet away or else they will have to be really loud.   An external microphone can also be connected.  The built in microphone also lets you record 4 seconds of sound after you take a still photo.   This is a very thoughtful addition from the designers.  You can use this feature to describe the location of where the photo was taken.  
+<p>
+There are two quality modes that you can select; HQ or SQ.   I believe, in HQ mode the resolution is 320 x 240 pixels.   In SQ mode the resolution is 160 x 120 pixels.   Sound can be turned off if you want to save space.
+<p>
+<b>Built-In USB</b>
+<p>
+This camera has a built in USB support so you can transfer the photos from your camera to your computer through high-speed USB without buying a separate Smartmedia reader (around $30).  The transfer speed is reasonably fast.   One hundred pictures takes about 2-3 minutes.   The disadvantage of the camera's built-in USB system is that you have to use the supplied software to transfer the images.   If you buy a separate reader, the reader appears as another hard disk on My Computer or Windows Explorer, which is much more convenient.
+<p>
+<b>Flash</b>
+<p>
+The built in flash is relatively powerful compared to other digital cameras.   Of all of the cameras that I have owned(listed above), the only camera that has a more powerful flash is the C-2100.  An external flash can also be connected if you have the right cables.    
+<p>
+<b>Overall </b>
+<p>
+This camera will satisfy almost anyone out there.   It can be used as a point-and-shoot camera, but it can be instantly transformed into a fully manual camera when the need arises.   A camera can not be for everyone though.  Some of the reasons why you might want to pass on this camera are:  you want a compact camera (can fit in your pocket), you would like more zoom on the camera (the C-3000's  zoom is a little above average), or you want a camera that can be equipped with add-on lenses more easily.  
+<p>
+<b>Pros</b>: 3.3 megapixel, great image quality, accurate colors, solid build, auto exposure bracketing, remote control included, movie mode with sound
+<p>
+<b>Cons</b>: Not compact size, attaching add-on lenses is a hassle
+<p>
+<p>
+<b>Other features: </b>
+<p>
++/- 2 step exposure compensation and auto bracketing
+<p>
+6 mode built in flash including TTL automatic flash, red-eye reducing flash, and external flash modes
+<p>  
+files are saved in TIFF or JPEG 
+<p>
+Shutter speeds from 16 seconds to 1/800 seconds
+<p>
+1.8" LCD
+<p>iESP TTL multi pattern autofocus with 160 step manual focus
+
+
+
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

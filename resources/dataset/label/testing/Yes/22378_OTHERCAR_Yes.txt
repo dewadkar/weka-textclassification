@@ -1,0 +1,20 @@
+DOC>
+<DOCID> 22378 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_C_3020_Zoom_Digital_Camera__Camera_225300 </PRODUCT>
+<URL> http://www.epinions.com/content_58241355396 </URL>
+<TEXT>
+            You can specs for the C-3020 anywhere, so I won't bother listing them here. I picked up this camera at my local camera shop. While it was one of the priciest models they had at $499, the pic quality and options are great, and the 16M memory card they give you is twice as good as most others (that give only 8M).
+
+I'm no photographer. My last camera was lost about 17 years ago and was a $20 110 model. However, I was able to get the camera up and running and was downloading pictures to my PC in under an hour (including a 30 minute tech support call - see below). 
+
+The SmartMedia format for memory is a great idea since it is quickly becoming very popular and quite cheap. The camera also comes with a carrying strap that is really nice quality. The built in flash and "real camera" like zoom, autofocus, and color display round out a real nice quality unit.
+
+I had actually considered two other Olympus models - the D-510 and the C-2040, but ended up with the C-3020 because that is what the camera store had in stock. After reviewing a LOT of info online about cameras, I had narrowed it down to these Olympus models.
+
+The only issue I had was a problem with the software that comes with the camera. As it turns out, with Windows 2000 you SHOULD NOT LOAD THE SOFTWARE. Instead, connect the camera to the PC with the included USB cable and turn on the camera. Windows 2000 with automatically find the camera and configure it as a new drive letter in your "My Computer" folder. This took a long time to figure out with tech support - about a half hour, most of it spent on hold while the tech researched the problem and transferred me back to Olympus. Olympus does not provide their own tech support - at least not at tier 1 - it's outsourced.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

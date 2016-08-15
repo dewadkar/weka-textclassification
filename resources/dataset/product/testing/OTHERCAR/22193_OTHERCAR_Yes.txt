@@ -1,0 +1,90 @@
+DOC>
+<DOCID> 22193 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Kodak_DC-3400 </PRODUCT>
+<URL> http://www.epinions.com/content_10558934660 </URL>
+<TEXT>
+            This is my 50th epinion.  Darn, epinions fly when you�re having fun.  I wanted to save this milestone for me for the best toy I have, at least in my opinion.  
+
+The Kodak DC3400 digital camera is a heck of a camera with feature after feature.  One word of caution however, like so many technical toys, the manual needs to be read to learn all of the things you can do with this camera, although it is fairly well intuitive for the basics.
+
+The Quick Set Up fold out gives you a pretty good start in using the camera, but is incomplete.
+
+
+<b>LCD Preview Screen</b>
+This small LCD display is located on the back of the camera and is used to view pictures that have been taken and to view the various menus for setting the operation of the camera. By the way there is a little wheel on the bottom of the camera that will adjust the brightness of the LCD screen.  I found this adjustment is very easily maladjusted by the action of sliding the camera in and out of a fanny pack I use for a camera case.  
+
+<b>Main Camera Controls</b>
+On the back of the camera there are buttons and a selector switch to control the camera operation.  The power button is slid to the right rather than pushing it.  First slide turns the camera on; another will turn the camera off.  There is a menu button, up/down buttons and side to side buttons.  Between the up/down buttons is the DO IT button, as Kodak calls it.  On the top of the camera you will find a focus button, a timer button, a flash control button a T/W zoom control button and the shutter button.  On the left side, looking at the rear, there are the electrical connectors covered with rubber flaps to keep dust out.  The electrical connectors from top to bottom are the DC power in jack, the video output and the computer I/O.  More about these later.  Also on this same side is the slot for the memory card.  The eject button for the memory card is on the bottom of the camera.
+ 
+<b>Resolution Size</b> 
+The camera can take pictures in 2 resolutions: 1760x1168 (High) and 896x592 (Standard) pixels.  The high setting uses more storage.
+
+<b>Picture Quality</b>
+There are three quality settings: Good, Better and Best.  The manual doesn�t tell us what this parameter is for only that as you go up on quality, the more storage the picture will require.
+
+<b>Zoom</b>
+The camera will go up to 2x optical zoom and up to 3x digital zoom.  Without the LCD preview screen turned on, only the optical zoom is allowed.  When you turn on the LCD screen you can add the digital zoom.  The digital zoom may add some distortion, so I recommend snapping a shot without it as well.  You can always use photo editor software to zoom in later. 
+
+<b>Memory Cards</b>
+My camera came standard with 8MB of flash memory.  There are other size cards available, which are 10, 16, 32, 48, 64, 96 and 128MB.  The different sizes allow the storage from 16 to 200 pictures at the highest resolution and quality.
+
+<b>Adjusting Exposure</b>
+This feature allows you to adjust the exposure from �2 somethings to a +2 somethings.  The value can be varied permanently or just for the next picture.  I needed to permanently set this value to �1 for some reason. 
+
+<i><b>UPDATE
+It turns out that the pictures were extra bright on my computer screen and that is why I set the camera to -1 so the pictures would look right on my computer.  When i got some printed, they turned out dark, so I reset the camera back to 0.  I was using a laptop computer with an ultra bright TFT screen and the pictures still look too bright on the computer, but come out just right when printed"</i></b>
+
+<b>Infinity/Close Ups focus</b>
+Pressing the Infinity/Close up button on the top of the camera will toggle first to infinity fixed focusing.  Another press will place the camera into the close up focusing.  In the close up mode the camera has a fixed focus for objects between 0.8 to 1.6 feet.  In the infinity mode the camera flash is turned off and the focus is set to infinity for long distance shots.
+
+<b>Flash Operation</b>
+The camera has a built in flash that starts up in the automatic mode.  The camera will automatically detect the need for a flash in this mode and supply flash if it determined the need.  Pushing the flash button on the top of the camera will toggle the flash operation to OFF. The next push will set the flash to ON, where each shot will have a flash, and a third push will set the flash to the red eye mode, where the flash will fire just prior to the taking of the picture and then again when the picture is taken.  Red eye operation is meant to reduce red eyes in the picture.
+
+
+<b>The Selector Switch on the back of the camera selects the following: </b>
+
+<b>Capture Position & Menu Items</b>
+When the Do It button on the back of the camera is pushed, the LCD will become active and can be used as an electronic viewfinder.  Also when the LCD is active, the digital zoom is enabled and to see what the resulting picture will look like, the LCD will need to be used.
+Also on the back of the camera there is a MENU button that when pushed will bring up the capture menu on the LCD screen.  The first item that appears on this menu is the Adjusting Exposure setup that I have covered earlier.  Next you go through Border, Effects, Quality, Resolution, Date/Time Stamp, Quickview, White Balance, Auto-Exposure Metering, Exposure Lock, Sharpness, and Auto ISO.
+
+<b>Review Position & Menu Items</b>
+In the Review position the pictures currently in the camera can be viewed.  Picture selection is accomplished by pushing the side to side buttons or via the slide show feature.  While the Selector is in this position there is also a Review menu that can be accessed by pressing the MENU button.  The menu items appear as icons along the left side of the display.  The side to side buttons will still select the picture and the up/down buttons will select the menu item.  The menu items available are zoom, delete, enter print order, picture lock/unlock, slide show interval, and picture information.
+
+<b>Connect Position</b>
+This position of the Selector allows the camera to be connected to a computer via a couple of interfaces that are supplied with the camera.  First and my favorite is an USB port cable and the other is the serial cable.  There is software supplied with the camera that allows a PC to retrieve pictures from the camera, and have complete control of all of the camera�s functions via the computer.  All of the initial setup functions can be set via the PC as well.
+
+<b>Camera Setup</b>
+This position of the Selector allows the setting of the camera default, or startup, settings.  You can also enter the Time/Date.  It is also possible to reformat a new memory card in this position.
+
+
+<b>Video Output</b>
+One very handy feature of this camera is the video output.  The connection for the video output is located on the left side of the camera viewed from the rear.  There is a cable supplied with the camera that will allow you to connect the camera to any video device that has video input.  These are usually called the line inputs on most devices.  When connected, the REVIEW position of the selector switch is used and the picture is sent out the video output rather than being sent to the LCD screen.  Your family can sit back and go through the day�s pictures on your TV set.  Slide shows can be made on VHS tapes to send to family and friends to be watched on their TV.  Very handy feature, I think.
+
+<b>Accessories</b>
+Kodak has a fairly complete line of accessories to go with this camera.  I had mentioned the various size memory cards, but there are several more.  In the package with the camera comes a catalog of these accessories, most of which will work with any of their digital cameras.  They are:
+Memory card Wallet
+COMPACTFLASH Card Reader
+------- available as parallel, SCSI or USB
+Close Up Lense Kit
+Telephoto Lens Kit
+Wide Angle Lens Kit
+KODAK Lens Adapters
+--------allows the use of 37 mm lenses
+Various Camera Bags
+Durable Camera Case
+Battery Charger with Batteries
+AC Adapter
+
+<b>Getting Prints</b>
+There are many possibilities for obtaining prints of your pictures.  The first possibility is to print them through your computer printer.  If you have a color printer, this may be just fine, particularly if you get the paper designed for this purpose.  Alternately, you can take your memory card to a KODAK Picture Maker kiosk for professional looking prints.  You can also buy specialized printers for your prints as well.
+
+<b>Summary</b>
+This camera was more than I was expecting.  The batteries seem to last a good while and the pictures are just great.  I particularly like the ability to just delete the pictures that comes out blurred or are just plain bad.  I also like the ability to take multiple pictures of the same shot, just in case, without any incremental cost.
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

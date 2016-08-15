@@ -1,0 +1,25 @@
+DOC>
+<DOCID> 2108 </DOCID>
+<PRODUCT> Digital_Cameras/511636_Olympus_Camedia_Brio_D_100 </PRODUCT>
+<URL> http://www.epinions.com/content_93482028676 </URL>
+<TEXT>
+            This is my 5-year-old's third digital camera.  The first two (JamCam Jr, JamCam 2) were just too darned cheesy and hard to use.  (Who would have thought it, a kidcam being hard to use!)  After those experiences with kidcams, I wanted to get him a low-end real camera, not a toy. He's been using my Canon Powershot S10 since he was 2, and loves it.  A new camera for him didn't have to be quite that good, but it needed to have an LCD display, it needed to have a flash, it needed to take decent pictures, it needed to use replaceable media, and it needed to be relatively cheap.
+
+This camera fills that bill nicely.
+
+When I first got it I tried to feed it alkalines.  Bad move.  Brand new alkalines show dead almost instantly.  I read up on battery characteristics and bought some NiMHs, and their life has been perfectly acceptable.  I haven't tested how long they live - obviously that'll depend on how much you use the LCD and how much you use the flash - but it hasn't been a problem so far.
+
+If you have Windows XP (ME, maybe, not sure), then the software is the best:  none.  Plug it in and Windows recognizes it as a disk drive, sees all those .JPG files, and offers to do picture-type stuff with them.  Cool!  No third party drivers!
+
+I believe it loses its clock setting when you replace the batteries.  Boo hiss.  It resets the picture number when you empty it, so you can't get unique file names for all your pictures from the camera.
+
+It'd be nice if it'd display the estimated remaining number of pictures on a separate low-power LCD like the S10 does, but since media prices have gotten so low I just bought a 64M card and it's usually not an issue.
+
+One of the most telling endorsements is that when I want to take a quick picture of something around the house, if I see this camera before I see the Canon, I'll use it.
+
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

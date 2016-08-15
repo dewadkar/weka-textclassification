@@ -1,0 +1,27 @@
+DOC>
+<DOCID> 35022 </DOCID>
+<PRODUCT> Digital_Cameras/Minolta_DiMAGE_7_Digital_SLR_Camera_Outfit__I___Camera_2766101K </PRODUCT>
+<URL> http://www.epinions.com/content_63582736004 </URL>
+<TEXT>
+            I purchased a DiMage 7 as a Christmas gift to myself in 2001, and for the most part, I am very pleased with it. The image quality is superb.
+
+The 5.2 Megapixel chip will deliver 300dpi 8x10s no problem, and the images that come off the camera usually need very little or no Photoshop correction to get pleasing color. I credit this to the camera's great auto white balance, as well as the fact that you can choose which white balance setting you would like to use (Auto, daylight, clouds, incandescent, fluorescent). Getting a good white balance is the first step in getting pleasing color from a digital camera. The DiMage 7 probably has the best white balancing capabilities as any consumer-level digital camera that I have yet seen.
+
+The camera uses a proprietary RGB color space when capturing its images, and I have found that if you use the Adobe (1998) RGB space when bringing your images into Photoshop, the results you get should be pretty close to true-life. Also be sure you calibrate your monitor using Adobe Gamma in order to insure that what your eye sees on screen is close to what the image really looks like.
+
+The camera's lens is superb. It has the best zoom I have seen on any consumer ditcam (the 135 equivalent of 28-200mm), and the elements are glass. Right after I got the camera, I was walking around outside when I saw a spider on its web, about six feet away and above me. The spider was heavily backlit by the sky, so I zoomed out to 200mm and took advantage of some of the D7's manual capabilities to get a good photo. I overexposed the flash by 2 stops to accommodate for the bright sky, and also dialed the color saturation up 2 notches in order to make sure the subject didn't get washed out. Keeping in mind that the spider was only about an inch in diameter, I'm sure you can understand why I was amazed that not only did the camera capture excellent body detail in the arachnid, but it also captured, sharply, <i>the hairs on the spider's legs!!!</i> These hairs could not have been more than two millimeters long!!!
+
+There are, however, two things about the DiMage 7 that <i>really</i> irk me. One is the fact that the camera does not have a PC terminal for connecting it to studio lights. I am a professional photographer, and a certain amount of my business comes from taking digital product shots. The camera is perfect for this, but only very recently did Minolta come out with a hotshoe-to-PC adapter (PCT-100) which sells for a very pricey $100.00! So, that problem is solved, but it never should have been a problem to begin with.
+
+Also, the autofocus is extremely slow. That's why I say it's great for product shots -- if you try to autofocus while capturing a moving subject, you will likely find yourself cursing the name of Minolta in your sleep for the shot you missed while waiting for the AF system to figure out what it wants to do. I became so frustrated with it while trying to shoot photos of my son hunting Easter eggs that I gave up and picked up my Canon EOS 1V to finish the job.
+
+The battery life is iffy, at best. Buy an extra set of rechargeables and keep them on hand if you are planning to take more than 15 shots at a time. Use the viewfinder instead of the LCD screen, as it uses less juice. Also, when you use the camera for any length of time, the area under the grip can become quite warm. I hear Minolta has fixed this problem on the new DiMage 7i, which has recently been released.
+
+The camera also needs a Firewire port. USB can be quite slow when you are trying to download a full 128MB memory card directly from the camera.
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

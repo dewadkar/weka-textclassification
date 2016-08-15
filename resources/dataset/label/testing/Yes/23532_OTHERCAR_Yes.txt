@@ -1,0 +1,63 @@
+DOC>
+<DOCID> 23532 </DOCID>
+<PRODUCT> Digital_Cameras/Canon_PowerShot_G3_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_113470049924 </URL>
+<TEXT>
+            BACKGROUND
+I have been using an entry-level 2MP camera for a couple of years (Finepix 2400).  It performs admirably for its category, but decided it was time to go for higher resolution (4-5MP) and more control over exposure parameters.  After considerable research, I decided the Canon G3 was the right camera for me.  I have not been disappointed.
+
+PROS
+Lens:  Optical Zoom/Speed&#151I decided that the F2-F3 4x optical zoom was a good compromise.  I was willing to sacrifice more optical zoom for a faster lens.
+
+Shutter Speed Range:  As long as 15 seconds and up to 1/2000 depending upon aperture.
+
+LCD:  The tilt/swivel LCD is a great feature&#151making it possible to frame shots while holding the camera above the head, at waist level or when working near the ground.  It is bright and useable outdoors.
+
+Color/Quality:  I have found the color and sharpness of images at various ISO settings to be fantastic.  Noise becomes noticeable at ISO 400 setting.
+
+Ease of Use:  It is easy to access the important features of the camera without having to navigate the on-screen menu.  The status panel at the top of the camera displays and allows for adjustment of all important exposure settings.  Some may find the number of buttons and dials required to pull this off to be bothersome, but I like the ability to push a button and scroll the settings without having to access the on-screen menu.
+
+Neutral Density Filter:  The lens includes a ND filter that has the affect of reducing the light intensity by three stops.  This enables the use of larger apertures and still stay within the shutter speed limitations of the camera in brightly lit situations.  I didn&#146t think much of this feature when I bought the camera, but have already used it twice with very good results.
+
+MINOR QUIBBLES
+Auto-Focus Problems
+Regarding Reports of Focus Problems:  I noted in some consumer reviews and forums that some users have complained of poor auto-focus lock time and/or poor focus in general.  In my experience, this seems to be a problem when using the &#145continuous&#146 auto-focus mode.  I turned this feature off (requiring the half-press of the shutter release to focus the shot), and am satisfied with the results.
+
+Low Light/Focus Assist:  This feature does not seem to work very well when trying to focus on something that is not flat.
+
+Lens Cap:  Yes, the lens cap does come off easily.  It would be nice if the lens barrel were threaded to accept filters so a UV filter could be used to protect the lens element.
+
+No Sports Scene/Fast Shutter Mode:  The common scene modes (e.g., Portrait (biased toward shallow depth of field), Landscape (biased toward wide depth of field), Night Portrait and so forth) are provided, but not a mode biased toward a fast shutter speed/aperture combination designed for sports action.  Compensate by using shutter priority and manually setting an appropriate fast shutter speed.
+
+Optical viewfinder:  Every review of this camera mentions the limited 83% percent coverage and the lens partially obscuring the optical viewfinder at some focal lengths.  Why should I be any different?
+
+SO WHAT?
+The G3 has a few features of questionable merit.  Among them:
+
+The user has the ability to customize the start-up picture on the LCD screen, and all the sounds for various actions (e.g., the &#145shutter&#146 sound when taking a shot).
+
+Although it may have some application, the Auto-focus bracketing seems to be of limited use.  Auto-exposure bracketing and Auto-focus bracketing are mutually exclusive.  Given a choice of what to bracket, I&#146d rather exposure bracket and use manual focus.
+
+CONS
+The G3 uses the Canon BP-511/512 rechargeable batteries.  They are expensive, and it is not possible to use standard disposable batteries in an emergency.  However, battery life is good.  In the end, I decided I was willing to live with this disadvantage because the performance of the camera was rated superior.
+
+The ability to shot &#145RAW&#146 is somewhat negated by the poor Canon FileViewer utility.  It allows you to adjust the image only by the same exposure/effect modes available on-camera.  It appears that the only tool available that actually allows one to make useful adjustments to the RAW image prior to converting to a standard format is the Adobe Raw Converter for Photoshop.  (I use Photoshop Elements 2.0 and have no experience with the raw converter&#151just going by forums and reviews).
+
+The G3 is probably the largest and heaviest in its class.  I assume this is partially because of the fast 4x optical zoom and partially a design consideration to make it look and feel more like a quality 35mm range finder model.
+
+WHY NOT THE S45/G5?
+The Canon S45 offers many of the same features as the G3 in a smaller package.  It lacks the 4X optical zoom, hot shoe and tilt/swivel LCD&#151features important enough to me to justify the more bulky G3.
+
+The G5 is essentially identical to the G3 except 5MP resolution.  In my research, I found most reviewers found the image quality of the G5 to be disappointing.  Therefore, I didn&#146t see any value in the supposed increased resolution of the 5MP model.  The availability of the G5 has forced the price of the 4MP G3 down&#151making it somewhat of a bargain considering its features and performance.
+
+WHY NOT ANOTHER BRAND?
+The only other model I seriously considered was the Nikon Coolpix 4500, a split body model that has many favorable reviews.  The split body offers many of the same advantages as the Canon tilt/swivel design, but without the advantage of the LCD folding away to protect the screen.  The LCD was also smaller.  4X optical zoom, but only F2.6-F5.1.  Shutter lag and startup times not as good as G3.  No hot-shoe for external flash (uses flash sync terminal).
+
+I discounted offerings from Sony, Fuji and Olympus mainly because I wanted to stick with compact flash media because of its low price per megabyte and higher maximum card capacity compared to the other formats.
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

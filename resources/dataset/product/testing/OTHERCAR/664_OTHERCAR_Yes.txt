@@ -1,0 +1,16 @@
+DOC>
+<DOCID> 664 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_NikonCoolpixx-Nikon_Coolpix_950 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-185F-35F760F-38C682D0-prod7 </URL>
+<TEXT>
+            This is a really great camera, I'm overall impressed and would recommend it in a second if it's in your price range.
+Great features of the camera are the CompactFlash card standard, which I prefer to SmartMedia because of the higher maximum storage and better price.
+The interface of the Coolpix 950 is easy to get used to, the buttons are mostly placed in appropriate positions, and the swiveling body really comes in handy. The camera's built-in flash is great for filling a scene, but the flash does produce bad red-eye, even with the red-eye reduction turned on. The JPEG compression used in file storage shrinks the image to about 1/6-1/18 its TIFF size and has little noticeable loss in quality. Transferring images through the included serial port adapter is painfully slow, it takes about a minute per image which may not seem like a long time, but think that a shot of 24 will probably take a good 15-20 minutes to transfer and the program included to transfer the images likes to take control of the computer so don't expect to perform other tasks in the meantime. However, a $35 CompactFlash reader is a great solution--able to transfer images at a near hard disk rate, which I'd highly recommend for this camera setup.
+There are some shortcomings of this camera, but only minor problems. The camera's tripod adapter is right next to the CompactFlash door, forcing you to unmount the camera to remove the card. This is especially annoying because this camera needs a *very* steady hand, it's very easy to blur images. Also, the camera has a software option called Best Shot Selector (BSS) that takes as many shots it can hold in memory and then saves the best (sharpest) one. It's a great idea, but I've noticed it consistently producing blurrier images than if I just snaped the shot once. It also has problems focusing quickly and in dark environments.
+It's a really great camera, only for the hobby or small business photographer. Not good enough for professionals (there's $2000+ camera for them) and a too expensive/advanced for those just wanting to get some snapshots on the web.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

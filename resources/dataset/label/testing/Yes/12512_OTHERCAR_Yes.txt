@@ -1,0 +1,235 @@
+DOC>
+<DOCID> 12512 </DOCID>
+<PRODUCT> Digital_Cameras/Sony_DSC_F717_Cyber_shot_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_79857684100 </URL>
+<TEXT>
+            The DSC-F717 is the fourth digital camera built around Sony&#146s &#147L&#148 shaped body. There have been a lot of changes to this digital camera platform since the DSC F505 debuted in 1999.  The latest incarnation is an update of Sony&#146s popular DSC F707 five megapixel 5X Zoom from last year.  Clearly Sony has been listening to consumer complaints and while the changes are subtle the new F717 incorporates a number of important and useful improvements.
+
+The most significant improvement for veteran photographers is that the lens ring can now control both focus and zoom, like the lens rings on manual focus 35mm zoom lenses.  Coupled with a major improvement in Autofocus speed and a new five-zone AF system the DSC F717 is a better camera than its predecessor.  Flash options have also been expanded (the DSC F707 limited external flash options to one Sony unit, but the DSC F717 will accept flash units from other manufacturers). 
+
+Two major complaints about the DSC F707 have been addressed in the DSC F717.  Poor color accuracy was the criticism heard most often.  User&#146s complained about the throbbing reds and glowing greens.  The color accuracy problem was exacerbated by a lack of comprehensive white balance options.  Both issues have been addressed in the DSC F717 and images are both saturation and hue accurate, with none of the &#147plasticky&#148 colors that plagued the DSC F707.  
+
+<b>What&#146s New? The DSC F717 vs the DSC F707</b>
+ 
+ISO sensitivity settings----The DSC-F707 had a top ISO of 400 (the DSC-F717 goes to 800 ISO). 
+
+Memory Storage----The DSC-F707 shipped with a 16MB Memory Stick (the DSC-F717 ships with 32 MB). 
+
+External Flash Units --- the DSC-F707 was limited to the Sony HVL-F1000 (the DSC-F717 can use the Sony HVL-F1000 and flashes from other manufacturers) 
+
+Battery Life --- The DSC F707&#146s exceptional battery life is slightly improved with the DSC F717 (both units use the same Sony camcorder battery) 
+ 
+Movie Mode---The DSC F707 was limited to 15 seconds. The DSC F717&#146s video clip duration is limited only by the capacity of the Memory Stick. 
+
+USB 2.0----The DSC F717&#146s image file transfer rate is faster than the USB 1.1 rate of the DSC F707 
+
+Five User Selectable AF areas with the DSC F717 (the DSC F707 had one AF area)  
+
+Histogram---the DSC F717 provides a histogram readout feature that allows users to check images for areas of over and under exposure.  This feature wasn&#146t available with the DSC F707 
+
+Start-up cycle (boot-up time), shutter lag, and shot to shot times are faster with the DSC F717 than they were with the DSC F707.
+
+<b>Viewfinder/LCD</b> 
+
+The F717 features a 1.8&#148 LCD screen and an electronic viewfinder (EVF) in place of a true "optical" viewfinder. The EVF screen is actually a tiny LCD that shows exactly the same view seen on the DSC F717&#146s LCD screen. The information display in the EVF (identical to what&#146s shown on the LCD screen) requires the vision of an eagle to see exposure settings and navigate the menus, it is much simpler (and quicker) to simply use the LCD monitor instead. The high eyepoint EVF has a diopter adjustment for eyeglasses wearers.  A switch on the rear of the camera controls where the view is displayed, either on the larger LCD monitor or in the much smaller EVF.
+
+I don&#146t like EVF&#146s because the tiny two-dimensional screens make it difficult to tell if the image is actually in sharp focus.  EVF&#146s are cheaper to manufacture and their inclusion does help to hold down digital camera costs.  Optical viewfinders become very complex and prohibitively expensive with zooms longer than 5X.  
+
+The information display (for both EVF and LCD screen) provides Flash mode, exposure settings (aperture and shutter speed), focus mode, battery status, image quality/resolution settings, and a histogram display.  The addition of the histogram display is nice, but it would have been more useful if the display &#147blinked&#148 the highlight areas like those in comparable Nikon models. Both the EVF and LCD screen permit brightness adjustments. 
+
+<b>Lens</b> 
+
+The Sony DSC F717 is equipped with a fast f2.0-f2.4/38-190mm (35mm equivalent) Carl Zeiss zoom lens.  The all glass 5Xzoom tilts (making it possible to use the LCD as a waist level or overhead finder) and has a six-blade iris diaphragm (for true depth of field). The lens is not stabilized.  New on the DSC F717 is a dual-purpose zoom/focus ring that controls focusing like the zoom/focus rings on film camera zooms.  
+
+<b>Exposure</b> 
+
+The Sony DSC F717 provides Aperture Priority, Shutter Priority, Manual, a macro setting, a burst mode (3 full size images in two seconds), exposure bracketing, Programmed AE, and Landscape, Twilight, Portrait and NightFraming modes.  The DSC F717&#146s NightShot mode is a neat option adapted from Sony camcorders that allows users to shoot images in total darkness. The images look like the greenish military night vision headset images seen in action movies. NightFraming mode lets shooters use the DSC F717&#146s infrared focus assist to frame the subject and then switches to normal color mode and uses the built-in flash (or an external HVL-1000 Sony flash) to light the scene. 
+
+<b>Auto-Focus</b> 
+
+The DSC F717&#146s Hologram Laser assisted auto focus is very fast (the fastest of any five megapixel digital camera I&#146ve tested) and it&#146s comparable in operation and feel to mid level 35mm SLR&#146s like the Nikon N80 or N65.  The Sony DSC F717 provides five user selectable AF areas and excellent low light AF. 
+
+<b>Manual Focus</b>
+
+The DSC F717&#146s lens can be focused and zoomed manually with one ring like traditional film camera zooms.
+
+<b>Macro Focus</b>
+
+The DSC F717 (like the DSC F707) features excellent close-up capabilities.
+
+<b>Flash</b> 
+
+The DSC-F717's built-in multi-mode flash has very good range (out to about 15 feet). Modes include automatic, red-eye reduction, and fill. The flash automatically pops-up when needed, but the placement is very awkward (top of the lens barrel) since this is right where most people hold the difficult to balance DSC F717.  Plan on a surprise the first few times the flash pops up right under your thumb.  
+
+<b>Battery/Power</b> 
+
+The DSC F717 utilizes a high capacity Sony camcorder battery, which provides absolutely amazing performance, between three and four hours of heavy use with a fully charged battery. The Sony NP-FM50 (7.2v 8Wh) InfoLITHIUM battery&#146s remaining run time is shown in a very accurate LCD/EVF readout.  Kudos to Sony for good engineering and power management and also for creative use of on hand components. 
+
+<b>Controls, Design,  & Ergonomics</b>
+
+Ergonomically the DSC F717 is not an easy camera to use and the fault for that lies with the camera&#146s design. The massive 5X Carl Zeiss Zoom makes up about seventy per cent of the mass of the camera.  That seventy per cent is not balanced, but is all on the left side of the body. Nikon dealt with this problem in their 900 series Coolpix digital cameras (with tilt swivel lenses) by offering the cameras with moderate aperture (read smaller) 3X zooms. The DSC F717 reminds me in many ways of the disappointing Canon Powershot Pro 90IS. 
+ 
+<b>Technical Specifications</b> 
+
+Resolution: 5.2 Megapixel (2560x1920) 
+Viewfinder: Electronic (EVF) 
+LCD: 1.8&#148 TFT color LCD
+Lens: 5X Carl Zeiss F2.0-2.4/38-190mm zoom 
+Auto Focus: TTL 5 area AF with a hologram laser assist
+Exposure Modes: Program AE, Shutter priority, Aperture priority, Manual, and NightShot and NightFrame exposure modes 
+Auto Exposure Bracketing: yes,  /- 0.3, 0.7 or 1.0 EV 
+Burst Mode: yes, 3 shots at 2 fps 
+Shutter Speeds: 30 seconds to 1/2000th of a second.
+Metering: Multi-pattern, Center-weighted, and Spot 
+White Balance: Auto and 5 preset modes
+Sensitivity: Auto, 100, 200, 400, and 800 ISO equivalent 
+Flash: Built-in multi mode with hot shoe for the optional Sony HVL-F1000 or other external flash units 
+In Camera Sharpening: Yes  /- 2 EV
+Color Saturation Adjustment: no
+Contrast Adjustment: no 
+Noise Reduction: Yes (automatic for exposures longer than 2.5 seconds) 
+Image Formats: JPEG and uncompressed TIFF
+Storage Media: Sony Memory Stick
+Connectivity: USB 2.0
+
+<b>Included</b> 
+
+NP-FM50 infolithium rechargeable battery, USB and A/V cable, 32 Mb memory stick, AC adapter, Sony software bundle, lens cap, and shoulder strap 
+
+<b>Optional</b> 
+
+Sony HVL-F1000 flash unit and lens hood LSF-H58 
+ 
+<b>In the Field/Handling & Operation</b> 
+
+Everyone here in Kentucky has been waiting for the fall leaf color peak.  Three seasons of the year (Spring, Summer, & Fall) Kentucky is one of the most beautiful places on the planet. We have dozens of varieties of hardwood trees because Kentucky is the northern most extension of the ancient southern forests and the southern most extension of the northern forests that were re-seeded after the last ice age. 
+
+My friend (who sells new and used digital and traditional film cameras and equipment) has been trying to test as many of the newly introduced digital cameras as possible (more than half of all digital cameras sold every year are purchased during the four months between Labor Day and New Years Day) and that has made life very hectic for him.  I have been spending an inordinate amount of my free time helping him check out an almost dizzying selection of new digital cameras
+
+After taking a little time to run some color tests (we shot colorful children&#146s plastic beach toys against a white background) which showed that the Sony DSC-F717 has excellent color balance (much better than the &#147hot&#148 reds and vibrant greens of the DSC F707) we decided to head for Cherokee Park and wander the area along the scenic loop (which traverses several miles of steep hillsides with old growth woods on both sides of Beargrass Creek) and see what we could find in peak fall color. 
+
+Just about everything here is at or near its color peak, even our rare River Cypresses are starting to turn.  We found one huge old Sugar Maple with gorgeous color and used the Sony DSC F717 to shoot some macro shots of the inches deep accumulation of bright red, dreamsicle orange, and canary yellow leaves around its base. 
+
+It was a cool cloudy day with diffused light so the colors were even more intense.  The leaves overlapped in a rainbow of colors and all were covered with droplets of water (we&#146ve had a lot of rain the last few days and every time the wind blew the old tree would drop a shower of icy water right on top of us).  My friend hates the woods and every time a drop of the icy water hit the back of his neck he would scream bloody murder.  Even with all the noise and distraction I managed to get a couple of good John Shaw style close-up shots of the colorful leaves and water droplets.  The DSC F717 does a very good job in macro mode, however the 5X zoom does show some minor distortion when you get close to the minimum focusing distance.
+
+A bit further up the road we found a small clump of golden brown Cinnamon Fern growing on the steep bank.  I was able to shoot a couple of Eliot Porter style &#147intimate landscapes&#148 with the golden fern highlighted against the dark earth of the creek bank and a small patch of the creek just below.  I couldn&#146t find a position (without getting wet) that showed a reflection of the fern in the water, so I had my friend find and drop bright red leaves (one at a time) in the creek just upstream of the fern.  I would wait until the bright red leaf floated by to snap the picture.  The light was pretty poor but the DSC F717 managed to crank out a couple of good exposures at the ISO 100 setting.
+
+By this time (we had been shooting about an hour and a half) my friend was cold and wet and insisted that we had gotten everything we could in the woods and that we should drive around Louisville&#146s Highlands neighborhood and see what we could find by way of street/people shots. 
+
+On nearby Baxter Avenue we found a teenage boy outfitted in full Goth style regalia (it was Halloween evening) and talked him into leaning against the gigantic concrete coffee pot in front of Lynn&#146s Paradise Caf�.  The kid was a bit of a ham so we were able to shoot a few interesting shots (my friend loves to shoot pictures of strange and different business signs and we often shoot the eclectic collection of weird and colorful concrete statuary that is a hallmark of Lynn&#146s, one of Louisville&#146s most popular restaurants).  By the time we finished at Lynn&#146s it was getting dark and we decided to call it quits for the day and get inside before we both turned blue from the cold.
+ 
+<b>Shutter Lag/Timing</b>
+
+The DSC F717 is a very fast digital camera.  The start up cycle is about two seconds (the fastest I&#146ve seen with any prosumer unit. Shutter lag is quite short and shot to shot times are very short.  The 717 has a large buffer memory (it can hold up to 9 shots in large/fine mode before it flushes images to the Memory Stick).  Writing a full-sized TIFF image to the memory stick requires about 60 seconds.  Overall, the DSC F717 may be the best digital camera available for sports/action shooters.
+
+<b>Image Quality</b>
+
+To paraphrase the old Ford Motor Company commercials, &#147Image Quality is job one&#148 and in this area the DSC F717 does an exceptional job.  We printed a couple of 8X10&#146s with an Epson Stylus Photo EPX 785 printer (on photo paper) and the images were very good, especially when we compared them to enlargements we had shot with the DSC F707 almost a year ago. Colors were much more accurate.  The DSC F717&#146s image quality is equal to any five-megapixel camera currently available. Reds are still a tiny bit over saturated but the overall effect is pleasing (everyone likes red).  The auto white balance setting delivers consistently accurate color.
+
+<b>A Few Concerns</b> 
+
+Sony&#146s new DSC F717&#146s EVF (electronic viewfinder) doesn&#146t provide enough detail for pro/serious amateur level applications. EVF&#146s are a common feature in digital video cameras, but digital still photography is a much different medium. EVF&#146s in digital video cameras are not a problem because the small discrepancies in focus move by so quickly that our minds supply the missing visual data (&#147persistence of vision&#148) and composition is actually more relevant to the unfolding action than tack sharp focus. EVF&#146s are also fine in digital still cameras that will be used for shooting birthday parties, family events, and office picnics since the small size of the 4X6 prints and low-res email JPegs will cover most focusing discrepancies. Five megapixel digital cameras are obviously targeted/marketed toward demanding serious amateur and semi-pro photographers and an optical viewfinder is a minimum requirement in pro level photographic tools. 
+
+Strangely, the DSC F717 fails to provide &#147in camera&#148 image modification options (to adjust color saturation levels, manage contrast, and bias white balance) that are commonplace on cheaper cameras (Olympus&#146 new four megapixel C4000 provides these important creative photography tools in a camera that costs $350).   Couple this puzzling omission with the DSC F717&#146s inability to disable noise reduction, remember user chosen settings, and the lack of a bulb mode for user controlled long exposures and it makes you wonder if Sony had anyone with serious photographic knowledge involved with the design team.  
+
+<b>Carl Zeiss 5X Zoom Lens</b>
+
+The DSC F717&#146s aggressively marketed Carl Zeiss zoom is not made by Carl Zeiss in Germany, the lens is made (under license) by Sony in Japan from a patented Carl Zeiss design.  The 5X Zoom lens isn&#146t stabilized and shots at the telephoto end of the zoom spectrum have a strong tendency to be blurred or out of focus unless a sturdy camera support/tripod is used. There is noticeable barrel distortion at the wide- angle end of the zoom and visible pincushion distortion at the telephoto end, but chromatic aberration is very well controlled. 
+
+<b>1/2000th of a second top shutter speed</b>
+
+Sony claims a 1/2000th of a second top shutter speed with the new DSC F717 but the camera can only utilize the 1/2000th of a second top speed in the Program AE, and Aperture Priority modes (and then only at apertures of f5.6 and smaller).  Like most digital cameras the DSC F717 uses a combined aperture/shutter mechanism (sort of like old fashioned lens-shutter cameras) that limits the maximum shutter speed because the camera can&#146t physically open and close the shutter any quicker than 1/1000th of a second at larger apertures. 
+
+<b>Memory/Storage Media</b>
+
+We&#146ve been hearing about Sony&#146s 512 MB Memory Stick for more than a year---where is it?  Selling a five megapixel digital camera that is limited to 128 MB of digital image storage is like selling a Ferrari with a five-gallon gas tank.
+
+Sony needs to forget the corporate dream of controlling both the device and the storage media it uses. Compact Flash (and the IBM microdrive because of its huge capacity) is the most logical choice for professionals and serious amateurs who need the ability to store massive TIFF and RAW image files. Smart Media is the best choice for amateurs and snap-shooters who need less capacity but want the same level of speed and performance.  The memory stick is a poor third choice and until Sony realizes that its proprietary solution is the ugly red-headed step child of the digital storage media family and gets on board with either (or both) CF or SM they cannot expect to be taken seriously in the digital camera wars. 
+
+Think about it this way, the DSC F717 can easily generate 15 Mb TIFF files and Sony offers a maximum capacity Memory Stick of 128 Mb. That&#146s fewer (TIFF) images than a twelve exposure roll of 35mm film. Factor in Sony&#146s higher price per Mb for image storage media and the dream of &#147free&#148 digital photography disappears completely. You could end up having to buy five or six expensive 128 MB memory sticks for an all day photographic outing or a short vacation. The DSC F717 has a battery that is up to an all day photo outing and memory capacity that is likely to be filled up before you are out of sight of the parking lot. Users are not required to shoot at TIFF resolution, but what is the point of having a digital camera that can shoot images that will compete with 35mm color print film, and then not use that capability?   Fuji was able to provide dual card slots on the $600 Finepix S602 and Sony could have included dual card slots (CF type II & Memory Stick) on the DSC F717 easily. 
+
+<b>Conclusion</b> 
+
+Sony digital cameras have always done well with consumers (due in large part to customer loyalty/crossover from Sony&#146s TV, audio, and camcorder customers) but they have never managed to gain acceptance with pro photographers and serious amateurs. I&#146ve tested several Sony digital cameras and what always amazes me about the Sony Corporation is they&#146re all over the board in terms of design, engineering, and technology. Unlike Nikon, Olympus, Fuji, and Canon, whose digicams have many design/engineering similarities, offerings from Sony don&#146t look much like each other and often perform the same functions in radically different ways. 
+
+The DSC F717 won&#146t change the perception that "Sony isn't really a camera company" and that is too bad because the Sony DSC F717 really had a lot of potential. Sony started with a proven platform (the DSC F505 body) and proven components (the five megapixel imager, 5X Carl Zeiss Zoom, and NP-FM50 battery) and a number of important improvements over the DSC F707.  What Sony&#146s engineers didn&#146t do was go the extra mile and build a serious enthusiasts camera.  It would have been relatively easy for Sony&#146s engineers to push the envelope just a bit and add image adjustment, dual card (CF & Memory Stick) slots, an optical viewfinder, and a stabilized zoom lens. 
+
+In the final analysis, the DSC F717 is a strange combination of pro capabilities, digital camcorder add-ons, and amateur point&#146n&#146shoot features. Image quality is superb and low light options are incredible. Sony&#146s noise control is better than its competition, and the DSC F717&#146s battery life is nothing short of incredible.  That is a pretty impressive list, but Sony could have made the DSC-F717 the best prosumer digital camera on the planet.   The DSC-F717 could have been a legend in the development of digital photography and the clear winner when compared with the Nikon Coolpix 5700, the Olympus E20N, and the Minolta Dimage 7i. I can recommend the Sony DSC-F717, but without much enthusiasm. If you&#146re a serious photographer the DSC F717&#146s minuses are going to eventually equal its pluses.  
+
+<b>My Final Word</b>
+
+Sony&#146s insistence on proprietary storage media for their digital cameras will, in the long run, bring them the same result that staying with betamax in defiance of marketplace reality brought them twenty years ago. During the betamax debacle Sony had a moral leg to stand on, betamax was clearly the higher quality video format.  That&#146s not the case when the memory stick is compared with CF and SM formats. If Sony wants to be a player in the lucrative and still growing high technology revolution they need to move forward on the image storage front. Consumers are becoming leery of buying Sony digital cameras, lest they end up getting stuck with a dead format like their parents who bought betamax video recorders. Are you listening Sony? 
+
+<b>Links</b>
+ 
+Are you considering spreading your imaging wings and setting up a home digital darkroom? Check out my reviews of a pair of bargain priced and very capable photo quality ink-jet printers. 
+
+<b>Epson Stylus Photo 785 EPX</b> ink-jet printer 
+<a href='/content_60776812164'>http://www.epinions.com/content_60776812164</a> 
+
+<b>Epson Stylus Photo 780</b> ink-jet Printer 
+<a href='/content_54223670916'>http://www.epinions.com/content_54223670916</a> 
+
+For definitive advice on <b>How to Choose a Digital Camera</b> please see my review: 
+<a href='/elec-review-2E46-17B174E2-39A418E3-prod1'>http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+For more information about specific Digital Camera models you may find my Digital Camera reviews informative: 
+
+<b>Nikon Digital Cameras</b> 
+
+Nikon D100 
+<a href='/content_72201965188'>http://www.epinions.com/content_72201965188</a> 
+
+Nikon Coolpix 5700 
+<a href='/content_70131814020'>http://www.epinions.com/content_70131814020</a> 
+
+Nikon Coolpix 4500 
+<a href='/content_69311368836'>http://www.epinions.com/content_69311368836</a> 
+
+Nikon Coolpix 2500 
+<a href='/content_65176440452'>http://www.epinions.com/content_65176440452</a> 
+
+<b>Canon Digital Cameras</b> 
+
+Canon Powershot G3 
+<a href='/content_78672989828'>http://www.epinions.com/content_78672989828</a> 
+
+Canon Powershot S230 
+<a href='/content_78900203140'>http://www.epinions.com/content_78900203140</a> 
+
+Canon EOS D60 
+<a href='/content_73529200260'>http://www.epinions.com/content_73529200260</a> 
+
+Canon Powershot S40 
+<a href='/content_59617087108'>http://www.epinions.com/content_59617087108</a> 
+
+Canon Powershot S30 
+<a href='/content_59041746564'>http://www.epinions.com/content_59041746564</a> 
+ 
+<b>Olympus Digital Cameras</b> 
+
+Olympus C 4000
+<a href='/content_79317208708'>http://www.epinions.com/content_79317208708</a>
+
+<b>Fuji Digital Cameras</b> 
+ 
+Fuji Finepix S2 &#147PRO&#148 
+<a href='/content_76963548804'>http://www.epinions.com/content_76963548804</a> 
+
+Fuji Finepix S602 
+<a href='/content_75291266692'>http://www.epinions.com/content_75291266692</a> 
+
+<b>Minolta Digital Cameras</b> 
+
+Minolta Dimage F100 
+<a href='/content_76963548804'>http://www.epinions.com/content_76963548804</a>  
+
+Just &#147cut&#146n&#146paste&#148 the URL into your browser&#146s address bar/window.
+
+
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

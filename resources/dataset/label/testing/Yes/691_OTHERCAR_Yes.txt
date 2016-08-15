@@ -1,0 +1,20 @@
+DOC>
+<DOCID> 691 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_NikonCoolpixx-Nikon_Coolpix_950 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-1C7B-25806FAE-3A392AB0-prod2 </URL>
+<TEXT>
+            The office I worked for decided to get a digital camera so I went shopping around for one. 
+
+In the end it was a choice between the Nikon Coolpix 950 and a Sony digital camera. What made me decide on Nikon was the flash technology (as opposed to the memory stick used by Sony) and its use of AA batteries. 
+
+It was really easy to use and everyone in the office loves taking photos with it. But the problem lies with the transfer speed of those wonderful photos onto a PC. The camera only comes with a serial port cable which is unstable to say the least and draws power from the batteries.  
+
+After some excruciating effort to get the photos transferred (successfully) I decided to do something about it. So I went out and got a compact flash reader using USB port and the transfer speed simply flies thereafter. 
+
+My advice for buyers who would like to get this camera is to get an external USB compact flash reader with the camera so that you don't have to go through what i did. <br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

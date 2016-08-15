@@ -1,0 +1,24 @@
+DOC>
+<DOCID> 2792 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_OlympusDigitall-Olympus__D-400_Zoom </PRODUCT>
+<URL> http://www.epinions.com/elec-review-6A41-6A3EBE2-38604950-prod2 </URL>
+<TEXT>
+            I chose the Olympus D-400Z digital camera because of its 1.31 megapixel CCD and its compact size.  I also liked the Camedia floppy disk adapter that allows you to read the smart media memory card directly in a standard floppy disk drive found on virtually any PC.  This is a plus that partially makes up for the lack of a high speed USB connection that many of the current digital cameras have.  The D-400Z also has a serial adapter for slow poke down load via a RS232 port.  I have never used this feature as the Camedia adapter is much more convenient.  Camedia does require a software driver that resides in the tray in Windows 95/98.  The driver is soon to be released for Mac as well if not already. 
+
+Photos are saved as .jpg images along with date set in the camera.  The camera supports 3.3v Smart Media memory cards up to 32 mb (early used models may only support 16 mb).  The camera ships with a 16 mb card that can store 4 uncompressed images for highest quality, 36 super high quality photos, 72 high quality and 240 standard quality photos.  I use the SHQ mode for important photos and HQ mode for my tourist photos and just playing around. All but standard mode photos are stored at 1280 x 960 pixel with different levels of compression. Standard mode photos are stored at 640 x 480 and are unacceptable except for creating small file size photos for web pages, etc.
+
+Features of the D-400z include a power zoom lens equivalent to 35 - 105 mm on a 35mm telephoto lens.  Exposure is fully automatic with TTL metering.  Exposure can compensate for daylight, overcast, tungsten and fluorescent lights. Video output can be used to display photos to a TV or VCR. Video cable is included. A 1.8&quot; color LCD can be used to monitor photos at high battery consumption, review/edit photos, and for settings.  Mosaic mode allows review of up to 9 photos at once, but they are very small.  A multitude of buttons on the back allow setting functions in a multi-layer menu system.  This part takes some study and is not straight forward at first.  This goes with most electronics that have a number of features.  Keep the manual handy until you memorize the meaning of those tiny symbols above each button.  Macro mode works well with automatic exposure.  The flash has plenty of power up to about 15' and works in macro mode.  The flash is not automatic, you must manually flip it up as it is hidden under a small cover.  An indicator light in the view finder indicates the need for flash.
+
+The downside of the D-400z is the cheap plastic case.  It looks sleek and metallic, but it and the covers are just plastic.  The cover for the serial connection, video and external power jack is only connected by a small piece of plastic and very fragile.  The clear lens cover over the front viewfinder window fell off and I almost lost it.  I tacked it back on with super glue.  A sliding cover protects the main lens.  This cover is also the power switch.  When you pull it back, the camera comes on and the lens extends itself.  When shutting it off you move the cover in until the lens retracts and then close it completely to shut down.
+
+The camera operates on 4 AA batteries and is efficient.  I use nickel metal hydride rechargeables.  One set will last a tourist day, but I carry some alkaline AAs for spare.  The camera comes with the Camedia adapter, serial cable, video cable, wrist strap, manual and software CD.  The software includes the serial cable driver, Camedia driver, and photo editing software.
+
+Overall I am satisfied with the D-400Z from Olympus and would recommend it to a friend.  A new model has been released, the D-450Z which hopefully will take care of some of the short-comings of this model.  If I were buying new, I would look at the features of the new model before purchase.  Prices are falling and it can be had for less than the price I paid for the D-400Z.  Make sure when purchasing that it comes with the Camedia adapter.  This is not always included in the purchase price.
+
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,40 @@
+DOC>
+<DOCID> 868 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_OlympusCC-Olympus__C-3000_Zoom </PRODUCT>
+<URL> http://www.epinions.com/elec-review-5621-A473A29-39451684-prod6 </URL>
+<TEXT>
+            Why do I buy this camera rather than the sibling C3030Z? The answer is price. C3000 costs $200 less than C3030. But does it justify to save $200 at the expense of some features? To me it is YES. The C3000 is identical to C3030 except on 2 main items: 
+1)The internal 32M memory is not included with C3000. 
+2)C3000 comes with only 8M of Smartmedia card while the C3030 comes with 16M.
+The lack of internal memory is not a problem for me but for those who want to take multiple frames for sport events or kid in action it may worth it.
+What I like about this camera:
+- Picture quality: excellent picture quality. Most reviews gave very high score for this, so I guess I don't need to explore any further
+- Flash pictures: I think pictures taken with flash are very good. While all point-n-shoot cameras have problem with red eyes (Fuji MX-1700, Fuji Mx-500, Nikon 950, all have bad problem with red eyes) C3000 seems to have the least problem with red eyes. A hint about red-eye: don't bank on Red-eye reduction feature on ANY camera, to my experience it doesn't help much. For those who interest in external flash I'll post a review pretty soon (I nix the one from Olympus, which costs $250 and bought one from SR Electronics for $99)
+- Flexibility: C-3000Z has many manual features that you may not care in the beginning but after using it for a while you would appreciate it. Changing white balance, changing ISO, manual shutter and speed etc... are a few examples.
+- Remote control: again you may not care about this but I find it very handy. I took close-up pictures of many objects for the web. In the past the settings are sometimes screwed up at the last minute when I press the button to take the picture. Not any more with the remote control.  
+- C3000 uses 4 AA battery. So in case of emergency I can purchase a set anywhere(unlike my previous Fuji MX-1700, I have no choice but recharging the batteries). Speaking about batteries, beware of cameras that accept only proprietary batteries that cost you an extra $100. Cameras like Coolpix 990, C3000Z etc. accept regular AA batteries or any standard rechargeable batteries sold anywhere. You can easily purchase rechargeable batteries for just $8-$12 instead of shelling out 100 to 150 bucks. Make sure to buy lithium batteries, they're lighter and last longer.
+- Accessories: a plus point for C-3000Z is that there is a pretty good selection of accessories available: wide angle, telephoto and external flash. I feel they are either too light (wide angle is only 0.8x, telephoto is only 1.5x), or too expensive (flash is at least $250). However they are there if you need them
+
+What I don't like about this camera:
+There are many things I don't like, probable because I read too many nice reviews and expect too much. However I list them here for you to verify:
+- What bothers me most is the optical viewfinder. Like any other optical viewfinders it does not cover 100% of the real picture. However C3000Z seems to be among the worst. The viewfinder omits too much of the lower part of the picture. The result is that I constantly have to compensate for the top of the picture, or else I have a unbalanced picture (taking a person sitting on a sofa for example would yield a lot of carpet at the lower part).
+- If I forget to remove the cap before powering-on the lens is obstructed. I can hear the motor running, trying to pop the lens out but getting stuck because of the cap. I think Olympus should design the camera in such a way that if the cap is not removed the motor would not run. 
+- Menu in general is cumbersome and rather difficult to use 
+- Olympus does not include rechargeable batteries, I have to spend extra money to buy 4 AA rechargeable batteries and a charger. 
+- I bought 32M of Smartmedia manufactured by Olympus. Olympus says you have to buy Olympus memory card to take advantage of the built-in panoramic feature which I think is useless. So unless Olympus Smartmedia card sells for the same price I wouldn't spend extra for it.
+- Printings of 8x10 pictures while good, are not as excellent as many professional reviews claimed. The reason: 2048x1536 image does not yield a perfect 8x10 picture. It is 8 x 10.68, thus reduces the resolution to 191 ppi. Furthermore, most of the time you have to crop the picture, and this make the resolution go down further to about 180 ppi. To my experience you need at least 200 ppi to have a good print. Thus 3.3M is barely enough to yield a good 8x10. This is not the camera's fault since I only pay for 3.3 megapixels. By the way if you use Epson 750 printer buy Epson Photo paper (S41141), do not buy the Epson Premium Photo paper which is more expensive, thinner and known to have fading problem under some conditions)
+
+- I don't want to mention about lens cap attachment. Too many complaints to Olympus deaf ears. 
+
+Who should buy this camera? 
+- Do you takes pictures for the web and don't care about printing: don't buy this one. Coolpix 800, Olympus C-2020... are your better bet at much cheaper price
+- You do print pictures but you're happy with 5x7: go with Coolpix 800, Olympus C-2020 or even Fuji Mx-1700 if you want a pocket camera
+- If you want to print decent 8x10 pictures, post them to the Web, stich pictures to make a panoramic one, C-3000 is for you. If you like to use a camera in a more sophisticated way such as setting ISO, shutter/aperture priority etc... this camera is definitely for you.
+- If you want to print 11x14 do not bank on this camera, I don't think it has enough resolution yet.
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

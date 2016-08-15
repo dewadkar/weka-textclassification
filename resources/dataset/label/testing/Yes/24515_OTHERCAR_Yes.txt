@@ -1,0 +1,23 @@
+DOC>
+<DOCID> 24515 </DOCID>
+<PRODUCT> Digital_Cameras/_Nikon_CP885__619837 </PRODUCT>
+<URL> http://www.epinions.com/content_65353649796 </URL>
+<TEXT>
+            I just got back from Hong Kong where I picked up the Coolpix 885 from one of the more trusted dealers on Stanley St. so I can't be sure the international version is the same as the U.S. version. My wife had seen several different digital cameras and decided she wanted one, so I bought this in the interim for her while I wait for the release of the Nikon D-100.
+
+Battery life is a big concern for me. The international version came with the dual voltage battery charger with a UK plug and I found that when plugged into 220v the lithium-ion battery will charge in under 2 hours. I bought a second rechargable battery due to previous experience with my older Kodak digital. Battery life has been very good so far and I have yet to run down both batteries during the day. However, that could be because I use my film-based camera also.
+
+I love how compact and lightweight this camera is when you consider how much capability it has. The matrix metering works well except when using the fill flash with backlighting. I tried several different flash modes before I found the right combination (one of the "scene modes") that exposed correctly. Some situations require some experimentation to get the correct exposure, but at least I'm not wasting film in the process. My wife loves the simplicity of the point-and-shoot mode and the controls, especially the one-button playback and the ability to zoom in and check out the details in playback. I also liked that I could use my extensive cache of existing CF cards that I also use for other devices. The macro mode made me realize just how many shots I missed out on with my previous digital camera. And finally, the ability to create and upload an email-sized image was very handy.
+
+I was impressed with the 30-second movie mode until I found out that it records in Quicktime, a format not readily supported and making the movie mode not quite as useful. I also thought that all the various menus became confusing and difficult to remember where to find a particular setting since there are different menus for each mode--scene, CSM and settings. Auto mode doesn't have a menu. And what's with the lens cap? I can't believe a manual lens cap is part of the design of this camera. I was told this provided a threaded mount to accommodate the different lens converters. At least it tells you on the LCD screen when you forget to take the cap off. Finally, why does it take so long for this thing to turn on? By the time this camera is ready for a shot, it could be too late.
+
+Software has always been Nikon's weakest area and this product is no exception. Suffice it to say that once the driver for the USB connection is loaded, I use Windows XP's built-in image transfer and Photoshop for moving and manipulating.
+
+All in all, I like my new toy, err...I mean, my wife's toy. It's easy to use for her and has enough manual controls and technical sophistication to satisfy my needs as well. The cons were not enough to really affect its usability. 
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

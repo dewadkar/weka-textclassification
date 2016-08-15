@@ -1,0 +1,41 @@
+DOC>
+<DOCID> 8781 </DOCID>
+<PRODUCT> Digital_Cameras/Kodak_mc3_Portable_Multimedia_Device_Portable_Audio </PRODUCT>
+<URL> http://www.epinions.com/content_30327606916 </URL>
+<TEXT>
+            The MC3 was probably a good idea at the concept stage. Give the customer the biggest bang for the buck!  Of course, they did not work out the fact that putting all this in such a small package would either mean
+
+1. It would be very expensive.
+2. They would have to skimp on higher end features.
+
+But they skimped on the flash, a basic part of any photography equipment, making it useless in low light, but more on that later.  They also had a poor mechanism for the battery door and that was a great source of frustration for me. 
+
+Camera:
+
+The unit came with a 64 meg flash card and it allowed for more pictures that I could ever throw on it.  The camera allows for only one resolution of pictures.  680 x 480.   This is a fairly poor resolution, but it allows the shots to be sent through E-mail with little worries about download time.  The pictures itself were grainy and had streaks of color running across the picture. With the help of Photoshop, I was able to clean up the picture, but it was never detailed to the point that you could frame a 4x6 printout.
+
+The camera does not have a flash and it was irritating to use in low light.  It did work in brightly lit rooms and was pretty good in definition, but anyone seriously into photography, skip the MC3.
+
+MP3 player.
+
+The 64 Megs allow you to store roughly 90 minutes of music at 32kbits and half that at 64 kbits.  It is a decent sounding MP3 player with the added advantage of the color viewfinder as the guide.  The viewfinder does not have the best contrast but it is better than most MP3 displays out there today.  The sound itself is good, but I have heard better.  There are different soundstages (DSP settings) but most provided little or no improvement in sound.  As with volume control, the MC3 player offers repeat and random settings.
+
+The Video Player.
+
+With 64 megs you can get 3 mintues of video at 30 FPS or 10 minutes at 15 FPS.  The 15 FPS (frames per second) rate provided jerky pictures that were best suited to outdoor shots.  Even with bright lighting, indoor video performance was poor.  What is good is that the MC3 player offers mono sound for the video, though any thing more than 3 feet away cannot be heard.  The 30 FPS picture was noticeably better with little jerkiness however, most internet email systems with the 1.5 MB file limit will mean that video should be limited to 15~25 second clips.  
+
+The Software.
+
+The software itself was good.  The video editor is pretty good, allowing you to sequence your video files and provides some special effects wipes and introductions.  The software itself was very poor to operate and many times, could not find the pictures, MP3 files or videos on my unit.  It also had problems loading MP3 files from my hard drive to the player.  The USB connector did allow for decent (not great transfer rates).  
+
+Quality problem:
+
+My main complaint comes from the battery door.  It was flimsy and could not hold the batteries in, since there was always pressure for the batteries to pop out.  Several times, after taking a picture, the battery door would pop out and force the MC3 to shut off.  A few times the player did not save the magic moment creating a wave of frustration.  This is completely unacceptable and I hope Kodak fixes this problem so other people don't have to experience this issue.
+
+Overall, the unit would have received a recommendation if it did not have quality problems or had a flash. It does many things, but most things it does adequately.  It is a good tool for the low rez qualifications that most public internet email systems have but other than being a trinket for teenagers and college kids(and an expensive one at that), this player has no real place in the adult world.......Rating: C-
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

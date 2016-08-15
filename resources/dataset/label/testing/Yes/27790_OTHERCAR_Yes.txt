@@ -1,0 +1,50 @@
+DOC>
+<DOCID> 27790 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_PowerShot_S100 </PRODUCT>
+<URL> http://www.epinions.com/content_24312647300 </URL>
+<TEXT>
+            This is my third digital camera and I will stick with this much longer! The others were Casio of lower quality and the usage was less fast and easy.
+
+So what are the great advantages of this camera?
+
+Small!
+Yeah, if you have this one at your belt it feels like a pager. I took a lot of photos with my 35mm and missed even more because I was too lazy to take it with me. This camera is so small that you always have it with you!
+
+FAST!
+To get the pictures to your computer is screamin fast! Just buy a USB reader (if you do not get the camera in a promotion package with one) and you'll see what I mean.
+I got it with 8MB (which is a joke) but that's ok. So I bought another 64MB compact flash (which is great as they are cheaper than smartmedia). Got that in a promotion package (Lexar) with a reader and spent $12 for a pcmcia card adapter (sandisk). 
+Now no matter what computer (desktop or laptop) - it appears as a drive and I can send the pictures via email immediately.
+
+Quality!
+The quality is sufficient. Yeah, there are more pixel on the market but you have to decide what you want ... small camera, less expensive, store pictures digitally and send them via email ... this is it!
+
+HELPFUL HINT:
+The pictures you take are already in JPG and with the highest quality you get about 500kB per picture. This is of course too big to send a couple via email. 
+So two things:
+www.irfanview.com - great freeware viewer (you can just use the folders which canon creates)
+http://www.webattack.com/get/imageresizer.shtml
+Mihov image resizer - works great to resize batch jobs!
+
+
+There are only two disadvantages:
+- battery: you need a special battery which cost you $80. I would recommend to buy a second one so that you are more flexible with the recharging. I bought a second one and have both in use for over half a year. None died so far!
+- the lens is fixed and does not operate like on a Ricoh RDC4300 or a Nikon 950. I had a Casio QV100 before and got used to be able to get some great shots because of the lens which could be rotated against the LCD. ... But you get used to not having it ... the size and quality was the argument for me!
+
+USE CASES:
+I use the camera at work for capturing meeting notes from whiteboards or flipcharts, at home for auctions, progess reports to friends and relatives and on trips to capture memories.
+
+
+The only thought which is left:
+Check out the Sony DSC-P1 Cybershot Digital Still Camera before you decide. The main differences: Sony is more pixel, higher price, memory stick technology
+Just check it out !
+
+
+Have fun!
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

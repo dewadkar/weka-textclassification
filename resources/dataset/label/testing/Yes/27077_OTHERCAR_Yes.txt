@@ -1,0 +1,66 @@
+DOC>
+<DOCID> 27077 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2001_Saab_9-3 </PRODUCT>
+<URL> http://www.epinions.com/content_43516989060 </URL>
+<TEXT>
+            I found myself cruising VW dealers for a replacement vehicle after my Golf ticked over 250,000km.  The A/C was shot and summer was approaching, and I could feel the clutch beginning to slip, and the exhaust was making a racket...and a bunch of other stuff.  Anyway, since all my previous cars were VW, I naturally started with the new models.  But you know, I just couldn't find what I was looking for or expecting in a new car.  Then something happened out of the blue that changed my direction entirely: My boss racked up his Saturn wagon and he was given a Saab 9-3 as a loaner while repairs were being made.  And he let me drive it.
+
+I loved the car right off the bat, but it took me a month before I could put together a proper cost/benefit business case for buying a car that was so much more expensive than a new Golf.  Both VW and GM Canada have nice web sites where you can build the car of your dreams, and all of my base data was taken from these sites.  Explaining the case to the wife required a straight face and some shifty Excel spreadsheets.  First, I switched from Golf to Jetta, then I loaded the Jetta with every conceivable option, bringing it up to the appointments of the Saab.  This took the sting out of the comparison.  Then I factored in the standard warranties of 2 years/40,000km for the Jetta and 4 years/80,000km for the Saab.  The finishing touch was the variance in financing: VW was offering 8.9% (�give me a f�n break�) while Saturn/Saab was offering 0.9%.  There was still a difference in the fully-loaded financed cost, but I could cover the difference with the trade-in.  (Assuming a trade-in value against the Saab but not the Jetta really helped the spreadsheets!)  
+
+Of course, none of this mattered much to me since I had already decided that I wanted the Saab.
+
+-Dealer experience
+This was my first and only pleasant dealer experience.  I suspect that Saturn/Saab dealerships train their reps differently.  I was given a tour of the service department and met the manager and was offered a test drive at my leisure.  I took a 9-3 out for a spin and then thanked them and slept on it for a couple of nights.  Later in the week I returned to pick my model and equipment.  Admittedly, the actual negotiations went something like: 
+
+�If I give you all my money, will you let me take a Saab home?�
+�Of course, David!�
+
+Seriously, they were fair and open and quick to the dollar figures, with no hidden costs or add-ons.  A quick negotiation for my trade-in followed, and I had an acceptable monthly payment in under 10 minutes.  (I recall a protracted negotiation at VW a few year back that was hot and heavy for over six hours.) 
+
+Since picking up the car six months ago, I�ve been contacted twice by my sales rep �just checking in� to see if I had any problems and once by the service manager after my first oil change just to make sure I was happy with the service department.  I like that.
+
+-Specifications
+Engine:  Turbocharged 4 cylinder inline with 4 valves per cylinder running from two overhead camshafts.  Output is 185 horsepower at 5500 rpm and torque is a flat 194 foot-pounds between 2100 rpm and 4200 rpm.  There are two counter-rotating balance shafts that smooth out the vibrations.  Sequential multiport fuel injection.  Octane: 87-93.  
+
+Transmission: 5 speed (3.38:1, 1.76:1, 1.18:1, 0.89:1, 0.66:1, with a final drive ratio of 4.05:1). Hydraulic clutch.  Front-wheel drive.
+
+Tires: 195/60 r15 michelins on alloy wheels.
+
+Brakes: 4-wheel discs (rotors are 29cm! and front ones are vented!), ABS, Traction Control
+
+Security: ID chip in ignition key, panic button on key, ignition cutoff, must be in reverse to remove key, mechanically locked in reverse once key is removed, central locking, door/hood/hatch switches and breaking glass sensor, independent alarm battery, OnStar help and stolen vehicle tracking.
+
+Safety: 5 sets of 3-point belts, 4 headrests with the front being active head restraints, front and side airbags, front fog lamps, rear fog light (!), driving lamp washer/wipers, rear window washer/wiper, side mirror defrosters.
+
+Cabin comforts: Telescoping steering wheel, stereo controls on steering wheel, electric windows and sunroof (open, close, tilt), adjustable lumbar support on driver�s seat, heated front seats, cabin air filter, air conditioning, and with the rear seat folded down, an amazing 46 cubic feet of storage.
+
+Fuel Economy: EPA est (US gallons): 22mpg city, 29 mpg highway.  Transport Canada est (Imp.gallons): 25 mpg city, 36 mpg highway on 87 octane.  I calculate my economy with every fillup, and I average 34.5mpg on 87 octane.
+
+-Driving Impressions
+The arrangement of the cockpit is what differentiates a Saab from practically everything else on the road.  You sit upright facing a wall of instruments with generous headroom.  The doors swing wide and its very easy to get in and out.  And you have just got to see where they put the ignition switch!
+
+The A-pillars are designed to keep the roofline from collapsing inward in the event of a rollover.  But if you look at them carefully, they are structurally thick along your line of sight, not across it.  The advantage is strength and safety without compromizing your view out the windshield. 
+
+I�ve had the car now for about 6 months and I�ve packed on almost 30,000 km, so I�ve been able to give it a good workout, both on twisty backroads and lots of highway driving.  The Saab is rock steady on the highways and very little effort needed to keep the car pointed in the right direction or to take clover-leaf ramps at high speed.  There is no play in the steering.   Pickup in 4th is excellent, getting you from 80 to 140 km/h in 11 seconds.  The gearshift �throws� are a bit longer than I am used to, but the shift is light � fingertip light � and the gates are well-defined. But its on the twisty bits that the car shows itself.  I have the pleasure of taking Snake Road every morning on my way to the highway and there are several tight turns.  The car tracks very well with only the expected amount of body sway, and no evidence of either trailing throttle oversteer going into turns or any understeer when coming out when the engine is goosed.  Nor have I felt any appreciable torque steer on jackrabbit launches.  I understand torque steer is significant with the bigger engines.  On the other side of the coin, the disc brakes are big and strong, and on the very few occasions that I�ve had to stop quickly, there was no pulling to one side or the other and the car just stopped, and no brake fade.
+
+-Nifty features
+SID:
+The Saab Information Display (SID) acts as a trip computer, the CD stereo system display, and an alarm and troubleshooting unit.  Standard functions show you the time, the outside temperature, your average speed, distance you have travelled, your current fuel consumption, and your range (distance to empty based on fuel reserves and consumption).  You can also set chimes to go off at a certain time, or if you exceed a certain speed.  An advanced function is Estimated Time of Arrival: You punch in your distance to travel and it updates your ETA based on your speed.  I use all of these functions and they are all very useful, especially the Distance To Empty.  One extra nice thing is that the display switches automatically to outside temperature if you are within 3 degrees of freezing, presumably to warn you about ice conditions.
+
+The SID will display any of the following error conditions if they are encountered upon startup or while driving: BRAKE LIGHT FAILURE, FRONT LIGHT FAILURE, REAR LIGHT FAILURE, FOG LIGHT FAILURE, WASHER FLUID LEVEL LOW, TIGHTEN FUEL FILLER CAP, FILL COOLANT FLUID, KEY NOT ACCPETED, REPLACE KEY BATTERY, SERVICE THEFT ALARM, TRANSMISSION OVERHEATING, and TIME FOR SERVICE.  I haven�t pulled bulbs or anything to test these messages, but I did get the TIME FOR SERVICE warning when I was supposed to.
+
+Night Panel:
+The glow of the instrument cluster, the SID, and all the pretty buttons and dials makes driving at night a real treat.  However, you can shut off almost everything if you are distracted by the glow.  This is especially useful on country roads or highways outside of the city.  When you hit the �Night Panel� button, all the illuminated dials dim, the SID panel shuts off, the tach and odometer shut off, and the coolant/turbo/fuel cluster shuts off, leaving only the Hazard button, the OnStar button, the �Night Panel� button, and the speedometer illuminated up to 140 km/h (88 mph).  If there is ANY reason to show you any gauge or indicator, they will be turned on automatically.  For instance, if you exceed 140 km/h, the rest of the speedometer will illuminate (and will darken again when you drop below 135), or if you are down to your last 15 litres of fuel or your coolant temperature goes above normal, etc.  It will also illuminate the SID if you change the radio channel or switch tracks on your CD.  
+
+OnStar:
+The OnStar Premium service is provided free for the first year and includes all the standard safety features like auto-dispatch of ambulance if the air bags deploy and you don�t answer, voice help and locationing with GPS if you are lost, and voice roadside assistance if you have a flat, or if you locked your keys in the car (hard to do in the Saab).  The microphone is above your head by the cabin light and the stereo system is used for speakers.  I haven�t used this much, but I�m glad it is there.  Go to www.onstar.com to find out more.
+
+-Summary
+I�ve never felt so lucky to own a car before.  Very solid, full of high tech features, and very drivable.
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

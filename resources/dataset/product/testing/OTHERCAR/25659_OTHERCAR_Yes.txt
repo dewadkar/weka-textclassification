@@ -1,0 +1,14 @@
+DOC>
+<DOCID> 25659 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2002_Toyota_Highlander </PRODUCT>
+<URL> http://www.epinions.com/content_52028935812 </URL>
+<TEXT>
+            I�m an admitted automobile safety fanatic.  Although I�ve never been personally involved in a serious automobile accident, I understand that driving to (and from) work is likely to be the most dangerous task many of us perform each day.  To help minimize this risk, I�ve developed a keen interest in (my wife would say passion for) advanced automotive safety systems/features.  This is what led to my interest in the Highlander's Vehicle Skid Control (VSC) system.  The system claims to minimize skids by selectively applying braking (or power reductions) to wheels that are on the leading edge of a skid.  The system is also advertised as being able to sense impending wheel spin and to alert the driver (via a beeping alarm) to the potentially dangerous road conditions.  I was very intrigued by this new safety system so I recently test drove a 2002 Toyota Highlander equipped with VSC to see how the system performed on snowy, icy, Michigan roads. 
+
+Overall, I was impressed with the Highlander�s performance on the slippery road conditions.  However, the performance of the VSC was not as obvious as I had expected.  To test the VSC, I took the vehicle to an empty parking lot (with some fresh snow cover).  I accelerated to about 30 mph, then turned the vehicle sharply to the left.  While the car initially tracked quite well, it was only after the vehicle began to skid that the VSC alarm began to beep.  I repeated the test doing similar maneuvers and had similar results each time.  While it was very difficult to make the car skid, it did skid slightly before the alarm triggered.  This was disconcerting to me since by the time the alarm sounded, it was pretty obvious to me that the vehicle was in a skid.  In other words, the �alarm� feature didn�t give me any advance warning of the skid.  This is very unfortunate since I was quite enthusiastic about the possibility of the car being able to provide advance warning of potential skidding.  In my opinion, the VSC does not provide this benefit.  To be fair to the VSC, this was a very limited test and one that involved relatively low speeds.  In a more serious (i.e. dangerous) situations, the performance of the VSC could be much more profound.  In short, while the VSC is undoubtedly a valuable safety system, it does not seem to effectively provide the �early warning� alarm that I had expected.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,50 @@
+DOC>
+<DOCID> 32327 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Kodak_EZ200 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-1EF4-453AE138-3A4B4823-prod3 </URL>
+<TEXT>
+            <b><i>I decided to update this review two years after I wrote it - see below</i></b>
+
+The main reason I bought this camera was because of the price.  Most digital cameras are priced out of the range of normal cameras, but this was quite affordable.  I paid �75 UKP for it.
+
+The photo quality is quite good.  If the light level is too low, the camera beeps, although it still lets you take a picture.  In low light the pictures still look ok but you have to hold the camera very still to prevent the image from blurring.  The camera automatically adjusts the brightness and exposure to produce a picture under different lighting conditions, but it can sometimes make images too dark or too light if there are strong shadows and reflections.
+
+It is well put together and very compact.  Smaller than most APS cameras.  It comes with a base for webcam use, but this is removable.
+
+It takes 4 AAA batteries (which are supplied).  These look like they will last for ages.  I have taken over 150 pictures and video clips and the battery indicator hasn't moved yet.  An added advantage is that the camera uses the USB ports power supply when it is connected so this saves on batteries.  Uploading the pictures can use up the batteries quickly on some cameras.
+
+It is very easy to use, probably easier than a normal camera.  To use it as a digital camera it is just point-and-click.  There is a mode button which lets you take high quality pictures (640x480), low quality pictures (320x240), there is a 10-second self-timer mode, a 5 pictures in a second "burst" mode, and a video clip mode.
+
+When it is time to upload the pictures to your computer you just plug in the USB lead, and press the shutter button to load the software.  You can also take pictures from this software, which gives you a live preview of the picture on screen.
+
+There is other software supplied for video editing which is quite good and lets you do some impressive scene transitions and effects.
+Unfortunately there is a fault with my CD-ROM so I can't comment on the photo editing software until I receive a replacement.
+
+Video conferencing can be done with Microsoft Netmeeting, and pictures can be captured into standard photo editing software using the TWAIN interface, and video capture can be done from most standard software.  The camera is capable of 320x240 resolution video capture when connected to the computer.
+
+There is a generous amount of memory in the camera, 4mb - although it is not upgradable.  This can store 64 high quality pictures, or 128 low quality pictures.  Video clips are only at 160x120 resolution and each clip can be a maximum of 10 seconds.  There is room for up to 6 video clips.
+
+It is worth considering for someone who was thinking of buying a new camera, but would like the advantage of being able to get there photos as soon as they get home.  It is also handy for people who want a small camera but don't want the extra cost of developing photos that an APS camera has.  It is not really suitable for anyone who wants to take very high quality photos.
+
+I was very impressed, and it is affordable enough to not be too worried about taking it to places that you might want to take photographs!  Overall I am glad I bought it.
+
+
+<b>two years on...</b>
+
+OK, here is the update.  Firstly unbelievable though this sounds, the 4 AAA batteries that came with the camera are still running with all bars lit on the indicator after 2 years and about 1500 photos.  Incredible!
+
+Anyway, I'd probably not recommend this camera so much any more because there are now lots of budget digitals about, when I bought it they were rarer.  If you find this camera cheap somewhere then you might want to consider it though.  It is a pretty good webcam, and it is light, robust, and cheap enough to take anywhere.  I feel that it was worth the money.
+
+I bought a Sony DSC-P31 to replace this camera for about �170 in the summer and I really like it, I'll try to review it soon.  I wouldn't get rid of my EZ200 though because it is still useful occasionally where I wouldn't want to take my better camera.
+
+Here is a sample photo:
+http://www.geocities.com/djpowell.geo/webpics/ez200.html
+
+Dave.
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

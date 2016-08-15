@@ -1,0 +1,24 @@
+DOC>
+<DOCID> 31997 </DOCID>
+<PRODUCT> Digital_Cameras/511597_Hewlett_Packard_PhotoSmart_215 </PRODUCT>
+<URL> http://www.epinions.com/content_83913248388 </URL>
+<TEXT>
+            Okay, first of all, I know there's already a ton of reviews for this camera.  I have a few remarks that are new though, so bear with me:
+
+First off, I got this camera as a gift from my wife who's co-worker's father-in-law found it in the back of a rental car at the Enterprise Car Rental location he owned.  My wife ended up getting it for $50, which was a pretty fair price considering the camera's age and lack of accessories.  The camera actually ended up in my wife's hands with nothing...no batteries, no USB cable, no compactflash card, no manual, nothing.  Just the bare camera!
+
+Now, how the heck was I going to use this thing?  First I needed a compactflash card.  My local Costco has 128MB CF cards for $50, which is a deal to rival even eBay, but I just couldn't afford it (for the record, 128MB is the largest size of CF card the 215 will use, not 64MB like some reviewers have commented).  So, I spent about $20 on a 32MB CF card from BestBuy.  As I have now learned, there's really no need to have much larger than 32 since the batteries will run out long before you run out of memory!  As for the capacity with a 32MB card, it will take 49 high-res 1280x960 JPEG's or about 300 640x480 low-res JPEG's.
+
+The next problem was getting the pictures off the camera/CF card and onto my PowerBook G4.  I read many reviews here and elsewhere on the web that mentioned that the HP 215 is not compatible with Mac OS, not even iPhoto under 10.2.x.  So, getting a USB cable seemed like a bad idea.  However, I came up with a pretty simple solution.  Since the HP writes to the CF card as JPEG's, which are platform universal, I realized all I needed to do was get a CF card reader instead and bypass having to communicate with the camera at all.  
+
+Since I have a laptop, I didn't want the bulk of an external USB card reader, so I found a Dazzle PCMCIA CompactFlash adapter at Circuit City for $15.  It works great!  I just stick the adapter in my G4's PC card slot and pull the CF card out of the camera, pop it in the adapter that's now on the side of my PowerBook and iPhoto automatically launches and lets me import the photos from the card.  It's actually kind of cool since it's sorta like having a little mini-floppy drive slot!  I guess if I ever can afford one of those 1GB IBM Microdrives, I'd have a nifty scratch disk or way to move a lot of data around.
+
+Anyway, back to the HP 215.  Like just about every review has said, the battery life sucks.  Put in a set of four alkaline AA's and you're looking at two days worth of battery life, tops.  I've tried lithium AA's as well, and although they last longer, probably a week or more depending on how often you use the flash, lithium batteries are pretty expensive.  I've found that the best place to get them is Target, where a 4-pack is only $10.  Stock up...you'll need 'em!
+
+As for the camera's resolution, it's good considering it's only 1.3MP, which by today's standards isn't even entry-level.  It's certainly head and shoulders above the quality I got with my last digital camera, an antique Apple QuickTake 150 that had maybe a 0.3MP resolution at best.  However, after using my dad's Canon 3MP cam, it leaves much to be desired.  If all you're using it for is snapshots, though, you're not really going to care.  The camera is easy to use so that's really all it's for, anyway.
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

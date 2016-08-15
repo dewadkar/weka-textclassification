@@ -1,0 +1,31 @@
+DOC>
+<DOCID> 22038 </DOCID>
+<PRODUCT> Digital_Cameras/Kodak_DC215_Zoom_Digital_Camera__Camera_185_3175 </PRODUCT>
+<URL> http://www.epinions.com/content_17975381636 </URL>
+<TEXT>
+             This was my first digital camera. When I first bought it, single Megapixel cameras were the new "thing". I was very pleased with it for a while. Before the digital camera revolution, your only real choice if you wanted instant pictures was Polaroid instant cameras.
+
+ The quality of the pictures from Polaroid cameras wasn't very good and the film packs were quite expensive. So, I was pleased just to be able to get instant results that I could either print or save on my PC for storage or E mail.
+
+ However, as time progressed and I became accustomed to seeing internet images made with 2 and 3 megapixel cameras, I began to see the limitations of my camera. 
+
+<b>The Quality</b>
+ Image quality on this Kodak, from several feet away isn't very good. It even seems blurry, as if the lens is slightly out of focus. Even if it were perfectly focused, it would still look pretty bad compared to images from 2 or 3 Megapixel cameras, which you can buy for a couple hundred dollars more than this camera.
+
+ Colors are not saturated or accurate. The images appear faded and off color. This can be corrected using Adobe PhotoDeluxe which comes bundled with the camera however.
+
+ There is one area where this camera beats my new Kodak DC3400 2 Megapixel camera hands down. Macro pictures. If you're at just the right distance, the close up images from the camera are very good. The close up range is limited though. Anywhere from a few inches away from the subject to about a foot is really the only useful range. Even then, the range where the image is in perfect focus is even smaller still. A few inches too far or too close results in a slightly blurred image. Still, I've taken some stunning close ups with this camera. For this reason, I've kept the camera and still use it. 
+
+<b>Connection</b>
+ The Serial connection is really your only choice with the Kodak DC215. There is no built in USB interface. Even with the relatively small file size of the single Megapixel images, transfers are painfully slow. Transferring 12 images from the 4MB Compact Flash card is a time consuming, tedious process. 
+
+ The only alternative you have is to buy a Compact Flash card reader which connects to your PC via USB. The price for one of these is reasonable. Around $30. However, I purchased one of these a while back and ended up returning it because I was unable to successfully install the software without crashing my computer. It's possible that I had a defective one though.
+
+<b>Conclusion</b>
+ With plenty of affordable 2 and three Megapixel cameras out there, this camera isn't a very good buy for the price it's being sold for. (Saw it at Best Buy yesterday for $290) Unless you can find it on Ebay for less than $50 or something, there are far better choices. For about a hundred more, you can move up to the Kodak DC3400 and get image quality that's much better. Also the DC3400 has USB which transfers images very quickly.
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

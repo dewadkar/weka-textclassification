@@ -1,0 +1,16 @@
+DOC>
+<DOCID> 12005 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Honda_S2000 </PRODUCT>
+<URL> http://www.epinions.com/auto-review-7971-76DFE-3886A316-prod5 </URL>
+<TEXT>
+            Honda almost got it perfect, but not quite.  Having read everything I could get my hands and eyes on, I finally went down to test drive the S2000.  Here are my impressions:
+Exterior/Interior Styling:  The lines are fantastic, angular but not boxy, rounded where they should be.  For those who feel the styling of the BMW Z3 is a little too retro, the S2000 is a welcome sight.  Aggressive stance, with the wheels pushed well out to the corners.  The interior is a true cockpit, making you feel like part of the car.  Everything is within easy reach, no more than 4-5 inches from the steering wheel, including extra stereo controls.  The red engine start button is a nice touch.  The panel could use analog instruments, but I think I could get used to the digital ones.  The power top opens and closes between green lights, and only requires the manual operation of two latches.  I understand a hard top is planned.
+Handling:  I can't say enough about the handing of this car.  The wheel has a tight, centered feel, with no 'play'.  Quite simply, the car goes where you point it while giving fantastic feedback.  You can regulate the amount of understeer/oversteer with the throttle during a turn.  This car can handle more than I'm willing to throw at it.
+Engine:  This, unfortunately, is the reason I have decided not to buy this car.  While much has been made of Honda's amazing achievement of squeezing 240 hp out of a 2.0 L engine, I have to agree with the critics who point to the lack of torque as a major weakness.  The maximum torque is 153 lb.-ft., and that's at 7500 RPM.  That's the type of torque you would expect to see in a 150 hp car, not a 240 hp car.  The engine doesn't seem to come alive until 5,000-6,000 RPM, which is fine if you're doing laps at your local track, but not as useful or fun when you're driving around town like most of us.  At that RPM, you're also starting to attract a lot of attention with the exhaust note and volume.  But get it above 6,000 and it starts to perform the way you expect it to.
+Verdict:  Almost a perfect car, and if you're willing to drive it around in the higher RPM ranges, you will extract some impressive performance out of it.<br><br>
+            
+<label> No
+<rating>  4.0
+
+</DOC>
+<

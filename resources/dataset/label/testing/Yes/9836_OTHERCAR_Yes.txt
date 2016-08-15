@@ -1,0 +1,13 @@
+DOC>
+<DOCID> 9836 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Daewoo_Nubira </PRODUCT>
+<URL> http://www.epinions.com/auto-review-4328-19A3BB9-38CEF82E-prod5 </URL>
+<TEXT>
+            The Nubira looks fairly attractive and comes as a four-door sedan, five-door hatchback and station wagon and costs about $13,500-$15,000. I tested the wagon. The compact Nubira feels bigger than it is, partly because it has a soft all-independent suspension that provides a smooth ride. The steering is vague, but handling is decent despite the soft suspension. The brake pedal is mushy, but the wagon stopped acceptably. Anti-lock brakes are available. Gauges are easily read and controls work smoothly. The interior has large, comfortable front seats... although the driver's seat has an awkward height adjustment and its twist control for the seatback requires too much time to use. The center console has a tiny storage area, and storage compartments in the front doors are small.
+<br><br>
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

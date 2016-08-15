@@ -1,0 +1,185 @@
+DOC>
+<DOCID> 849 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_OlympusCC-Olympus__C-3000_Zoom </PRODUCT>
+<URL> http://www.epinions.com/content_26106105476 </URL>
+<TEXT>
+            Tired of waiting for digital camera prices to drop to a reasonable level? Do you want to join a secret club of avid bargain hunters, a slightly subversive association of determined soccer moms, middle managers, snap-shooters, and value savvy high tech shoppers intent on getting maximum value for every dollar they spend?   I have a good friend who sells and distributes cameras (both digital and traditional film cameras) and he recently shared an amazing phenomenon with me.  Over the last year he has seen a strong �word of mouth� campaign choose a winner from among the dozens of digital camera models in the high tech imaging marketplace.  My friend distributes cameras in three states, and according to him the Olympus C3000 is a sales leader (in all three states) often taking sales away from names like Nikon and Canon.  Why do smart consumers see the Olympus C3000 as the best �all round� digital camera deal in the electronics marketplace?  
+
+<b>Background</b>
+
+Digital photography, like everything in imaging, is a series of compromises; features versus cost, weight versus portability, ease of use versus overall capability, compatibility and function versus resolution and image quality.  In almost every one of these areas the Olympus C3000 out competes its rivals, and in a couple of areas, the C3000 actually goes against much of the current wisdom in the digital camera field, and chooses a less traveled path.  The Olympus uses �smart media� for image storage, while most of the major digital cameras makers (Nikon & Canon) have opted to go with Compact Flash storage media, primarily due to the new IBM micro-drive, and its incredible (up to 1 gigabyte) digital image storage capacity. The Olympus digi-cam is targeted toward the amateur photographer, the family website creator, and part time snap shooters (who make up almost ninety per cent of the digital camera market) while Nikon and Canon are pursuing the professional and serious amateur shooters.    The Olympus C3000 is designed to appeal to people who don�t need a gigabyte of digital image storage, and the millions of people don�t want to pay seven hundred to a thousand bucks for a digital camera.
+
+I was intrigued, and borrowed an Olympus C3000 digital camera from my friend, and set out to test his theory that smart consumers were doing an �end run� around all the hype that the major manufacturers had thrown up to confuse buyers and muddy the digital camera waters.  After carefully checking prices, I discovered that the Olympus C3000 is the cheapest 3+ megapixel camera available today.  The C3000 can be found on line for about four hundred fifty to five hundred bucks, that�s less than many two megapixel digital cameras are selling for.
+
+<b>A Comparison</b>
+
+Let�s compare the Olympus C3000 with another popular digital camera, the Sony DSC-S50.  The Olympus is a 3.34megapixel digital camera, with a 3X zoom, an optical viewfinder, and lots of manual exposure options.  The Sony DSC-S50 is a 2.1 megapixel camera, with a 3X zoom, NO optical viewfinder, and limited manual exposure options.  Doesn�t sound like much of a contest, does it?  Here�s the capper, the Sony averages about six hundred dollars, a hundred and fifty bucks more than the Olympus.  You do the math, if you buy the Sony, you get a fifty per cent reduction in resolution, no optical viewfinder, limited manual exposure options, and it will cost you thirty-five per cent  more.
+
+<b>Nuts and Bolts</b>
+
+
+How was Olympus able to provide a bargain like this, and (most importantly) was it necessary to make serious compromises in quality or durability?  My friend tells me the Olympus C3000 has a very good record for durability, and that few camera owners experience any problem at all with this model.  He did admit that the number one complaint he hears from his customers is that Olympus customer service and post purchase return/repair is slow and somewhat unresponsive. I�ve  heard a couple of interesting customer service horror stories; long phone waits, no opportunity to speak with a live person, endless voice mail loops, and repeated �we are waiting for the parts� stories (evidently Olympus prefers not to do exchanges on this camera, they insist on repairing the units) aside form these �common� problems, the camera appears to enjoy an excellent reputation for being solidly built..  The Olympus C3000 also has a reputation for producing first-rate digital images, with stunning resolution, and superb color balance and saturation. How was Olympus able to produce a camera that performs very well, holds up beautifully, and is competitive with digital cameras costing hundreds of dollars more?  
+
+It appears that Olympus has used some good old American business ingenuity. The Olympus C3000 is based on the much more expensive Olympus C3030 digital camera.  Engineers at Olympus have taken all they learned in the research and development stages of the Olympus C3030 (a faster, more feature rich digital camera) and created a somewhat stripped down little brother, a sibling camera that tries harder. The major differences between the C3030 and the C3000 are the much smaller RAM buffer, a smaller (included) smart media card, and a shorter duration movie feature.   This means that there were no research and development costs to be re-couped on the C3000. 
+
+In addition Olympus engineers have adapted the excellent zoom lens used on the Olympus C2020 and mated it with the body and digital sensor developed for the Olympus C3030, saving more money (by using a components already in inventory) and finally they lightened the software bundled with the C3000 camera, further reducing �in the box� production costs. The C3030 ships with Adobe Photo Shop LE, but this software is subtracted from the bundle included with the C3000.  If you already have a good image editing program, or don�t mind downloading one from the web (or if you are willing to spend an extra $100 for a separate consumer edition of Photo Shop LE) this will not be a problem.  The result is a first rate digital camera for five hundred bucks.  The Olympus Camedia C3000 (based on features, image resolution, and usability) is competitive with the Nikon Coolpix 880 and the Canon G1.  The Olympus C3000 digital camera offers a fantastic feature set for a camera that costs less than five hundred bucks.
+
+<b>Technical Specifications</b>
+
+Resolution: 3.34 megapixel 
+LCD Viewfinder: 1.8� TFT Color LCD
+Optical Viewfinder: Yes (shows approximately 80 per cent of the scene)
+Lens: 3X Zoom (32 to 96mm 35mm equivalent)
+Digital Zoom: 2.5 X
+Apertures: F2.8-F11
+Shutter Speed Range: 1 second to 1/800th of a second in Auto Exposure Mode (16 seconds to 1/800th of a second in Manual Mode)
+ISO: 100, 200, & 400, plus auto
+Exposure Compensation: Yes,  +/- 2EV in 1/3 stop increments
+White Balance: Auto, and five manual settings
+Metering: Digital Matrix (ESP) or Spot
+Exposure Modes: Program AE, Aperture & Shutter Priority AE, and Manual Exposure Mode
+Flash: Built in with auto mode, red eye reduction mode, fill flash mode, slow synch mode, and off
+External Flash: Yes (PC synch)
+Self Timer: Yes (12 second delay)
+Image Capture: JPEG, Uncompressed TIFF, and wave or Quick Time Movie modes
+Image Storage Media: Smart Media (8 Megabyte card included)
+Comp Con: USB and Serial
+
+Included:
+
+Remote Control  
+(2) CR-V3 lithium battery packs  (4) AA batteries can also be used. Battery Charger/AC adapter is NOT included
+USB and Audio/Video (A/V) cables
+Lens Cap
+Carry Strap
+Instruction Manual: over 200 pages, well written, comprehensive, informative, and helpful.  Reading the manual is always a good idea. 
+Software bundle
+
+Additional Features:
+
+Quicktime Movies @ 160x220 or 320x240 resolution, with sound (up to 60 seconds) Remote Control (works at distances up to 15 feet from the camera) You can trip the shutter, set the self timer, or zoom in and out, to list the most important RC options.   Direct Print images with (Optional) Olympus Printer, Continuous shooting, Auto-bracketing, B&W/Sepia and other custom special exposure modes.
+
+<b>An Important Note</b>
+
+The C3000 has one of the lowest power consumption rates of any digital camera I have ever used.  If you use the LCD sparingly, the batteries will last through an entire day of moderate to heavy shooting.   The cycle time (for top resolution images) is about five and a half seconds, much slower than the C3030 with its 32 megabyte internal buffer, but not bad (about average) for most three megapixel digital cameras
+
+<b>In the Field/Operation and Handling</b>
+
+The Olympus C3000 is an attractive, light-weight,  �point and shoot� style digital camera.  Manual exposure is relatively easy, although you will have to wade through a couple of LCD menus to accomplish any really serious creative stuff.  In all modes (except Program) the camera will warn you if your chosen shutter speed/ F-stop combination is likely to produce an image that is under or over exposed.  Flash options are very comprehensive for a camera in this price range, and should cover pretty much anything except maybe what a studio photographer shooting models or product photos would need.  Low light shooting is enhanced by the excellent range of options provided by exposure compensation settings and the variable ISO (equivalent) settings.  By using these features in combination, the serious photographer is going to be able to fine-tune his/her exposures for almost any lighting situation.  The C3000 offers a tremendous amount of manual control for a camera in this price range.
+
+Louisville is fortunate to have one of the most extensive city/county parks systems in the country.  I took the camera to Seneca Park, and chose a small waterfall on Beargrass Creek to see if all the manual exposure options and fill flash would allow me to shoot at a slow shutter speed (in order to �feather� the water) and a small F-stop to provide excellent dept of field and show as much of the Creek in sharp focus, both above and below the small waterfall, as possible.  I wanted to use the fill flash mode to add a little light and some sparkle to the water in the gloom under the old growth trees that almost completely shield the area from sunlight.  I mounted the Olympus C3000 on a forty five year old Leitz �Tilt-All� tripod, adjusted all my settings and started shooting.  The camera worked flawlessly, did exactly what I asked it to do, and produced some super shots that made the water look like flowing milk. We�d just had almost two inches of rain, so the Creek was high, but the still water behind the small falls was mirror perfect and the images showed the reflections and the range from dark to light almost perfectly.
+
+After finishing up at Seneca Park I took the camera to Cave Hill Cemetery and shot an old growth Osage Orange Tree, some Confederate Civil War grave markers, and the beautiful flowers that adorn the grounds of Louisville�s only arboretum.  I spent about half an hour shooting the arched doorway of an old �Moorish� style mausoleum (one of my favorites) the building is pink sandstone and it really glowed in the oblique late afternoon light.  The Olympus C3000 was up to every task, and handled each new lighting challenge easily.  Both the matrix and spot metering are �dead-on� accurate, especially in aperture priority mode.  From Cave Hill I made the short trip to �Dog Hill� (called Sled Hill by some folks) in Cherokee Park and shot people playing with their dogs (Dog Hill is where almost everyone who lives in Louisville�s East End goes to let their dogs run) I also shot some young people throwing a Frisbee back and forth, and some kids wading.  All in all a very productive Friday afternoon spent shooting under a wide and demanding variety of lighting conditions. 
+
+I was able to try several of the camera�s features, including the auto bracketing (which works quite well) and the various white balance modes.  I was a little disappointed in the movie mode, but then I always find the movie mode on Digital cameras lacking.  The ability to add sound is a nice feature, and if all you are going to do is send them to a friend or family member then the Olympus will take care of this chore adequately, however, don�t expect to hear from Hollywood.
+
+The camera is light and feels good in the hands, the controls are well laid out and the superior ergonomic design makes for intuitive handling.   The handgrip, top mounted controls (and information display panel), and large LCD screen (with rear mounted controls logically arrayed around its periphery) make the camera easy to use (after a brief familiarization period) for anyone who has used 35mm or digital cameras in the past.  One word of caution, the wide range of manual options offered by Olympus makes this camera especially attractive for tripod mounted shots, so do be careful, since the tripod mount is plastic and could easily be damaged by the metal screw head of most tripods. 
+
+My one complaint about the Olympus C3000 is the optical viewfinder.  If you have read any of my earlier reviews of point and shoot style digital cameras then you know that I don�t like the optical viewfinders on most digital cameras.  The Olympus is better than most, but it is difficult to use creatively, since you only see 80 per cent of the picture area.  The viewfinder�s optics are quite good and images are clear and sharp.  The viewfinder zooms with the lens, and there is a dioptric correction for those who wear eyeglasses.  The zoom lens on the Olympus C3000 is very good for a camera in this price range, equivalent to (or a bit better than) most digital camera zooms.  The C3000�s shutter lag times seem to be a bit faster than average (especially at the wide angle end of the zoom range) a nice feature for an in-expensive digital camera.
+
+<b>Conclusion</b>
+
+When we checked out the images on my friends monitor, they were beautiful, the color balance was perfect (my friend thought it was just a tiny bit �warm� but that�s his opinion) and resolution was exceptional, as good as anything I have seen from the Nikon Coolpix 990 or the Canon G1.  I was very impressed with the quality of the images, and the performance of the camera.  The Olympus C3000 is a real value, since it is basically a slimmed down version of the Olympus C3030, so the image resolution, handling, and operation are virtually identical to the more expensive �big brother�.  The Olympus C3000 offers the opportunity for digital photographers to enjoy the performance and features of a high-end digital point and shoot (like the Nikon Coolpix 880 or the Canon G1) for hundreds of dollars less.  I highly recommend this digital camera.  As for �bang for your buck� the Olympus Camedia C3000 digital camera is in a class all by itself.  If you�ve been waiting for digital camera prices to drop to a reasonable level, this camera may be as good as it is going to get.
+
+
+If you'd like to read more about any of the cameras mentioned in this review, please check the listings below.
+
+For information on How to Choose a Digital Camera please see my review: 
+
+<a href='/elec-review-2E46-17B174E2-39A418E3-prod1'>http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+For information about specific Digital Camera models, please see my Digital Camera Reviews: 
+
+
+Nikon Digital Cameras 
+
+Nikon Coolpix 5000
+<a href='/content_52720406148'>http://www.epinions.com/content_52720406148</a>
+
+Nikon Coolpix 885 
+<a href='/content_46290931332'>http://www.epinions.com/content_46290931332</a> 
+
+Nikon Coolpix 995 
+<a href='/content_40256769668'>http://www.epinions.com/content_40256769668</a> 
+
+Nikon D1X 
+<a href='/content_36023996036'>http://www.epinions.com/content_36023996036</a> 
+
+Nikon D1 
+<a href='/elec-review-4868-E2433E5-38737CF8-prod2/tk_~CB003.1.78'>http://www.epinions.com/elec-review-4868-E2433E5-38737CF8-prod2/tk_~CB003.1.78</a> 
+
+Nikon Coolpix 880 
+<a href='/elec-review-2DA8-DF21E52-39E118CA-prod5'>http://www.epinions.com/elec-review-2DA8-DF21E52-39E118CA-prod5</a> 
+
+Nikon Coolpix 990 
+<a href='/elec-review-3B78-3C431D90-3A345313-prod3'>http://www.epinions.com/elec-review-3B78-3C431D90-3A345313-prod3</a> 
+
+Canon Digital Cameras 
+
+Canon Powershot G2 
+<a href='/content_47646084740'>http://www.epinions.com/content_47646084740</a> 
+
+Canon Powershot S10 
+<a href='/content_7563808388/tk_~CB003.1.74'>http://www.epinions.com/content_7563808388/tk_~CB003.1.74</a> 
+
+Canon EOS D30 
+<a href='/content_11625991812/tk_~CB003.1.58'>http://www.epinions.com/content_11625991812/tk_~CB003.1.58</a> 
+
+Canon Powershot PRO 90IS 
+<a href='/content_30440001156/tk_~CB005.1.9'>http://www.epinions.com/content_30440001156/tk_~CB005.1.9</a> 
+
+Canon Powershot G1 
+<a href='/content_8768294532/tk_~CB003.1.70'>http://www.epinions.com/content_8768294532/tk_~CB003.1.70</a> 
+
+Canon Powershot PRO 70 
+<a href='/elec-review-6496-25768DA-38C3E01A-prod9/tk_~CB003.1.70'>http://www.epinions.com/elec-review-6496-25768DA-38C3E01A-prod9/tk_~CB003.1.70</a> 
+
+
+Sony Digital Cameras 
+
+Sony DSC S85
+<a href='/content_51957567108'>http://www.epinions.com/content_51957567108</a>
+
+Sony MVC-CD 300 
+<a href='/content_45591793284'>http://www.epinions.com/content_45591793284</a> 
+
+Sony DSC-S50 
+http:<a href='/content_15885897348'>http://www.epinions.com/content_15885897348</a> 
+
+Sony Mavica MVC-CD1000 
+<a href='/elec-review-5F01-365BA12-3980602C-prod3/tk_~CB003.1.14'>http://www.epinions.com/elec-review-5F01-365BA12-3980602C-prod3/tk_~CB003.1.14</a> 
+
+Olympus Digital Cameras 
+
+Olympus Camedia C3040 
+<a href='/content_42675179140'>http://www.epinions.com/content_42675179140</a> 
+
+Olympus Camedia C3000 
+<a href='/content_26106105476/tk_~CB003.1.30'>http://www.epinions.com/content_26106105476/tk_~CB003.1.30</a> 
+
+Olympus Camedia E10 
+<a href='/elec-review-59FB-183DFC73-3A17388F-prod2/tk_~CB003.1.42'>http://www.epinions.com/elec-review-59FB-183DFC73-3A17388F-prod2/tk_~CB003.1.42</a> 
+
+Fuji Digital Cameras 
+
+Fuji Finepix S1 �PRO� 
+<a href='/elec-review-5591-16816C34-39047A87-prod5/tk_~CB003.1.18'>http://www.epinions.com/elec-review-5591-16816C34-39047A87-prod5/tk_~CB003.1.18</a> 
+
+Minolta Digital Cameras 
+
+Minolta Dimage 5 
+<a href='/content_49104522884'>http://www.epinions.com/content_49104522884</a> 
+
+
+Just �cut�n�paste� the URL into your browser�s address window. 
+
+
+
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,40 @@
+DOC>
+<DOCID> 19035 </DOCID>
+<PRODUCT> Digital_Cameras/250399_Olympus_Camedia_C_2020Z_Zoom_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_14330203780 </URL>
+<TEXT>
+            Olympus received a fair amount of acclaim upon the release of the 2020, but with the advent of far superior models by its competitors, there's no reason that Olympus shouldn't improve on this model (or the 3030).   As such, this review will cover mostly the cons of the 2020, which I've agonized over for the past year of my ownership of this camera.  Of course, there are a couple pros too.
+
+<b>CON:  Lens cap must be taken off manually and is not leashed</b>
+One of the worst designs I have ever seen in electronics can be found in the Olympus 2020�s lens cap, which must be removed manually and stowed before taking any pictures.  The lens cap is not leashed either, so it can be lost quite easily.  Worse yet, if you accidentally leave it on when turning on the camera, the lens attempts to extend against this obstacle and makes a scary grinding noise.  How hard would it have been to build an automatic lens cap into such a high-end camera?
+
+This annoyance alone is enough to dissuade purchase.  If you don�t believe me, try picturing a vacation in Hawaii where you throw all your stuff into a bag to tote to the beach.  Now imagine reaching into the bag to grab your camera, and finding the lens cap has fallen off!  Now you are not only worried about having lost the cap, you are also worried about scratching the precious lens and ruining a $600 camera.  I�d like to know what genius came up with this design!
+
+<b>CON:  No USB interface</b>
+Unlike the Canon Powershot series, the Olympus 2020 does not support the lightning-quick USB interface for downloading images from your camera to your home computer.  This is a big problem when you�ve got a 32 MB card filled with high-res images that you need to work with.  The serial interface cable that the camera comes with is super-slow, plus the included Camedia software often has trouble maintaining the connection.  Even if you could keep the connection open long enough, your camera would run out of battery power before the transfer was completed.  Your only other options are to buy a floppy-disk adapter or a SmartMedia card reader separately ($70 and $100 each, respectively).
+
+<b>CON:  Optical viewfinder much too wide</b>
+It�s true that the 2020 comes with 3x optical zoom, which works fine.  But the fact is that the optical viewfinder is so wide, that you�ll need to zoom in for almost every shot you take-- even ones taken from a �normal� range.  What this means is, the outer edges of the shot that you want to get are <i>not</I> accurately represented in the optical viewfinder.  After you snap the picture, you will see that the outer edges are much wider than you had intended, and that the picture looks like it was taken from farther away than it really was.  This was an annoyance I discovered with my previous digital camera, also an Olympus.
+
+<b>CON:  Panorama view only works with Olympus (tm) brand media cards</b>
+Here�s a sneaky little thing Olympus doesn�t tell you until after you buy the camera:  you can�t use the panorama mode unless your camera is using Olympus name brand memory cards.  Of course, the camera comes with 8 MB of this name brand memory, but everyone pretty much knows that 8 MB is too small to be practical (fits about 17 standard quality shots).  I got a 32 MB card separately, but because it�s Viking brand, the panorama mode (in which you can take multiple shots to stitch together into one long panoramic image later) is completely disabled.   What a rip!
+
+<b>CON:  QuickTime movie function does not provide sound</b>
+The 2020 allows you to record either 15 seconds of high-quality or 60 seconds of lower-quality motion video in QuickTime format.  This feature sounds cool, but the videos themselves have no sound, which makes them pretty pointless.  The video files are too large to email to friends or family members.  If you want digital video files with sound, buy a digital video camera.
+
+<b>PRO:  Good image quality</b>
+I say good, not great, but to be fair, I think I would need to look at 3 megapixel or higher resolution photos printed at a high-quality photo processing site (like Ofoto) to be wowed.  Most Olympus cameras particularly excel at capturing vivid colors in outdoor settings, and the 2020 is no exception.
+
+<b>PRO:  Battery life</b>
+The best thing I can say in favor of this camera is that a set of fully charged batteries goes a long way.  I spent a week in Maui and snapped over 80 pictures, with plenty of time devoted to viewing the slideshow, zooming in, and deleting pictures using the LCD screen.  I was a little worried that the batteries would die since I didn�t bring my charger, but they lasted well beyond that vacation.  Another thing to note is that the 2020 comes with a battery charger in the box (but not an AC adapter).
+
+Despite the two pros, all the considerations for the 2020 just don�t add up to a worthwhile purchase. It seems to me that the Canon S series (S10, S20, S100 Digital Elph) would have been a much smarter choice, as it�s  compact, sturdy, and features an automatic lens cap as well as a USB interface.
+
+<i>Note:  the 2020 has been discontinued, the 2040 is the closest equivalent to this product. Also, the Olympus 3030 is the 3 MP equivalent to the 2020, and while certain minor improvements have been made, the darned lenscap remains free-floating!</i>
+
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

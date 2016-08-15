@@ -1,0 +1,20 @@
+DOC>
+<DOCID> 25355 </DOCID>
+<PRODUCT> Digital_Cameras/elec_AgfaePhotoo-Agfa_ePhoto_CL30_Clik_ </PRODUCT>
+<URL> http://www.epinions.com/elec-review-2BDD-247AB93-389713AB-prod2 </URL>
+<TEXT>
+            I was lucky (or stupid) enough to go to Comdex this last year.  There were quite a few different devices this year that really got my attention, the Agfa ePhoto CL30 Clik! was one of them.  I saw this one at both the Iomega and the Agfa booths (no, sorry, wouldn't wear a camera box on my head), and got a chance to see it in action.  Here's my report.
+
+The camera is a nice, lightweight compact model.  Picture taking is a breeze, and it was very easy to operate.  The one difference, and possibly downfall, of this camera is that it uses Iomega Clik! media instead of conventional flash memory.  From what I saw, both companies have tried to overcome this by setting up a very interesting package.
+
+One of the ways they have done this was to make the camera function as a USB drive.  You can plug and play this camera into any USB-controlled computer, and it will be recognized as a removable drive (Iomegaware users see it as a Clik! drive).  This makes file transferring easy, as well as possibilities to use the camera as a portable storage device as well.  I saw a demonstration where several pictures, as well as Word and Excel documents and a .mpeg were transferred onto the camera's Clik! disk.  While this may be a stretch for most users, the possibility exists to store data on Clik! disks and using your camera to transfer data from computer to computer.  Clik! media is also much cheaper than conventional flash memory, and the 40 Meg disks can hold quite a few high-quality pictures as well.
+
+I do have a few concerns for this product as well.  Clik! media is not the most popular media for digital cameras at this time, unless Iomega can get a larger market share, the disks will be useless outside of the camera, or someone who owns a PC Card Clik! drive.  The camera is well-constructed, but some of the components seem like they would wear out fast, like the toggle switches on the back and the rubber USB cover.
+
+Overall, this looks to be a great product, but unless both companies find a way to carve a larger niche into the flash memory market, this camera may not be available in the future.  A great product, with great picture quality.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

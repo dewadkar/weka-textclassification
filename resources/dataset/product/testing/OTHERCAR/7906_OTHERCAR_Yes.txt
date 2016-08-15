@@ -1,0 +1,19 @@
+DOC>
+<DOCID> 7906 </DOCID>
+<PRODUCT> Digital_Cameras/514230_Canon_PowerShot_A20 </PRODUCT>
+<URL> http://www.epinions.com/content_90038111876 </URL>
+<TEXT>
+            My dad bought a Kodak digital camera a few years back which I have borrowed several times. I always hated its speed, when pressing the shutter button it took too long for it to actually take the picture. When it was time for me to buy my own, speed was therefore very important for me. The reviews I found all said that this camera was fast, and I have not been dissapointed!
+Overall I have been very happy with this camera, though there are a couple of things that do irritate me.
+1) As others have mentioned, shipping a camera with an 8 MB compact flash is a waste of resources, I have never used it. Other manufacturers do the same though.
+2) Maybe I should have taken my camera to Canon and asked whether anything was wrong, but I've always found it difficult to take "straight" pictures with this, they are often slightly tilted. I have taken thousands of pictures with other cameras, and I'm very fussy about getting the pictures properly lined up, so I don't think it is my fault entirely.
+3) Power feedback is bad. When power starts getting low, you will get a "Change batteries" message on the LCD display when trying to turn the camera on. If you insist and press the ON button again, it will start though, and there is usually plenty of juice for many more shots. So the power management seems to be too conservative to my liking, and its way of informing me is too restrictive.
+4) Others have also noted the software. I've got a small home network, and all my pictures are stored on a disk on a server. The Canon software supplied with the camera refuses to access pictures stored on a network drive, so using the supplied software would obviously limit you to storing pictures on a local harddisk. Also, the software makes it quite difficult to get the pictures out of the camera. In the end I bought a compact flash reader so now I just take the CF card out and out it into the CF reader. Much easier!
+5) The USB cable supplied is too fiddly
+Other than these gripes, I have been very happy with it, the menus are very easy to use. Here again I'm comparing to my dads Kodak which has many features, they are just so difficult to get at that you usually give up beforehand. Not so with this camera.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

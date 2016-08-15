@@ -1,0 +1,36 @@
+DOC>
+<DOCID> 22423 </DOCID>
+<PRODUCT> Digital_Cameras/Samsung_Digimax_200_Digital_Still_Camera__Camera_digimax200 </PRODUCT>
+<URL> http://www.epinions.com/content_76237540996 </URL>
+<TEXT>
+            On a recent trip over the pond to Chicago (I'm from the North of England) I found myself with some spare cash. Whilst in Circuit City I found the Digimax 200 at $149.00 (an open box price) and proceeded to try it out. Unfortunately it seems like a few too many hands had been playing and the camera was dead! This could lead to questions about the durability of the unit but these were quickly laid to rest by the sales assistant who commented that they had never had one returned and that he himself had one at home. Why would he tell me this you ask? To sell one at a higher price? You'd think, but this branch had none in stock hence the open box price and having already tried another two stores on my travels I knew that the keen pricing was making these things a hot buy.
+
+So a little grumpy at missing a bargain I found the same camera on offer for $169.00 at Wal-Mart with a 90 day cooling off period. Cool.... A $69 trip to best buy hooked me up with 128mb of SmartMedia memory and I was off.
+
+First impressions...The camera is a great unit. It looks good and is amazingly tidy, the buttons are unobtrusive but easy to get at and when packed in the pouch provided the camera hardly caused a lump in the wife's purse and was comfortable enough to wear using the beltstrap. 
+
+In operation the camera is slow. Taking pictures at the best resolution means an 8 second wait between shots. Even when taking a shot there is a half second delay between pressing the button and the picture actually being taken. This took a while to get used to and really annoyed my wife as she attempted to take a picture of a leaping dolphin at the aquarium. It's no worse than some Sony's I've used but for a newbie like my wife who uses her APS all the time it was a bit of a shock. 
+
+The features list is great at the price. The LCD is neat and presents a good image in all but the sunniest of conditions. The zoom and macro modes are great and the ability to hook up to a VCR or a TV make it truly portable.
+
+My biggest gripe about the package are the drivers provided. None of these worked on my PC and I found myself having to wade through a raft of updates on the Samsung site to solve the problem. If you want something plug and play and you have either AMD or VIA chipsets on your PC then you may want to avoid the pain and look elsewhere at a super easy HP camera or something. If you are pretty PC literate though you should be able to sort things out in under 45 minutes. I haven't used the additional imaging software, just the drivers and Digimax viewer so I can't comment on the value there but I guess a free imaging package, no matter how basic, has got to help.
+
+So image quality. I was overwhelmed with the 7x5's my Lexmark churned out with images take using the top resolution of the camera. Almost nearing something costing twice as much.
+
+All in all I am delighted with the camera. A little slow and tricky to setup but follow my tips an you'll have a great camera.
+
+Tips:
+1. Visit the samsung site and read the faq's before installing on an AMD based machine. The updates could save you hours.
+2. Buy 128mb of SmartMedia and take multiple shots of the same image. This may take time but you'll get used to the 'shutter delay' quicker.
+3. You can review your images using the LCD in 'bulk' sessions (using thumbnails) and saving the battery drain of switching on and off. 
+4. Delete the images back at the PC or TV or when you are pushed for space on the card.
+5. Carry spare batteries and get good ones.
+6. Forget the image viewer bundled with it and use Explorer to preview thumbnails and drag the images onto the hard drive.
+
+Enjoy it.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

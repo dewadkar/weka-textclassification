@@ -1,0 +1,24 @@
+DOC>
+<DOCID> 29788 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_KodakDCC-Kodak_DC-260 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-30EC-6B1A3E0-3915F23E-prod3 </URL>
+<TEXT>
+            I provide support for about 50 of these Kodak DC-260 cameras as a part of my job.  I think that this inherently gives me a biased opinion about these cameras. I only hear about problems.  People hardly ever call me to let me know that it is working great.  Our cameras also get used every day, and sustain a lot more abuse than the typical camera user would inflict.  I am writing this opinion for those of you who may be interested in purchasing cameras like these for your company.  These are the kinds of problems that you are likely to encounter.
+
+ Out of the 50 cameras we have in service, 7 of them have needed service.  A couple of these where because the lens extends out when the camera is on, and our users occasionally sit on the lens. Some other cameras have just failed to turn on.  I don't think that this is too bad of a record for as much abuse as they take.  It does seem that most of the problems have cropped up about the time that the warranty was expiring.
+ 
+The quality of the photos is good.  We have had problems when the camera runs out of batteries.  If the user is taking photos while the battery is dead, there have been several cases where the Compact Flash card gets corrupted.  In most cases, I can install the flashcard into the PC and run a chkdsk /f and fix the problem, but I have seen a couple of picture cards go bad and not be fixed.  Our users are not happy when they lose a whole day's worth of pictures.
+
+We run a Windows NT environment, and our machines do not support the USB interface.  The PCMCIA card interface seems to cause some problems for us with our laptops.  Often, our network card gets bumped when the user is trying to insert the card.  Sometimes this causes the user to lose his or her network connection.  NT will not boot up for us with the picture card in, so the user has to pop it out, reboot the machine and try to insert it again without doing the same thing.
+
+We also have a few Mavica cameras, and I think that they seem to be much better suited for our environment.  The lens on our Mavica does not extend out, so it isn't going to be damaged as easily.  The floppy disk interface is much less troublesome than the PCMCIA adapter card.  
+
+Overall, I think this camera is a great camera for the home user, but it is fairly troublesome for an enterprise trying to run an NT 4.0 environment.  Win2000's USB interface will probably make cameras like this easier to support.
+
+<br><br>
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

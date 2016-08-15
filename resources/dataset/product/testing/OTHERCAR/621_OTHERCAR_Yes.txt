@@ -1,0 +1,18 @@
+DOC>
+<DOCID> 621 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_NikonCoolpixx-Nikon_Coolpix_950 </PRODUCT>
+<URL> http://www.epinions.com/content_6703124100 </URL>
+<TEXT>
+            When a friend at work told me he had taken over 5,000 pictures with his Nikon Coolpix 950 (mostly close-ups of watches, of course), and having seen quite a few of them, I decided that this was the way to go for me. My only concern was in transferring the images from the camera to my hard drive as I'm no computer maven. I followed his advice and dispensed with both the NikonView software that came with the camera and the cable to hook it up to the serial port. To get the pictures from the camera to my hard drive I use a Lexar JumpShot USB card reader that came free with my 32M CompactFlash card. This has to be one of the quickest and most trouble free installations for me. Now, to see my pics, all I need do is remove the card from the camera and pop it into the card reader and voila, all my pics are laid out thumbnail style for me. Very easy, and very fast. I know that some people recommend huge megabyte cards, I'm not one of them. I recommend either 32M or 64M cards for two main reasons. At medium resolution you can fit an adequate number of shots onto one card and secondly, the bigger the card, the longer it takes to transfer your images onto your comp. I also don't recommend taking high resolution pictures if all you're going to use them for is the web and to Email them to friends, as they will complain about the long download times. The latter isn't a problem for me, as I have cable, but be mindful of your friends who don't.
+ 
+THE GOOD: Picture quality is excellent. Very sharp with bright colors, excellent contrast and definition. The camera is very easy to use especially to those who are familiar with the Nikon push and rotate set up as in my Nikon N70. Macro is also incredible both in it's usable close up range and the fact that the lens compensates when I put a 10X loupe in front of it for highly magnified close ups. For best white color balance, I highly recommend leaving the camera on the auto adjust setting.
+
+THE BAD: The documentation that came with the camera is very inadequate as the full instructions are on a CDROM. This is exceptionally inconvenient as every time one wants to see something that is not covered in the abbreviated printed version, one has to fire up the comp and insert the CDROM. Even although I have the LCD screen (a big battery killer) set to auto off, the batteries still don't last too long. I don't know if it's all digital cameras in general, or this one in particular, but it's useless for action photography. When you push down the shutter release, whatever you had in the viewfinder will be long gone by the time the camera actually takes the shot. I don't understand why Nikon didn't supply a card reader with the camera instead of the virtually useless cable to hook it up to a comp serial port.
+
+THE UGLY: Although not a pretty camera it is solidly built. The way that the lens head swivels makes it very easy to hold firmly and also minimizes its bulk when not in use. Email me if you have any questions about the camera, Gary.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

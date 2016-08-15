@@ -1,0 +1,38 @@
+DOC>
+<DOCID> 21529 </DOCID>
+<PRODUCT> Digital_Cameras/Canon_Powershot_S200_Digital_Zoom_Camera__Camera_7646A001 </PRODUCT>
+<URL> http://www.epinions.com/content_82082041476 </URL>
+<TEXT>
+            I bought the S200 digital Elph camera two weeks ago, and am very pleased with it so far.  While I am new to the S200, it is my second digital camera, and this purchase was made after much research, and my experiences with my first digital camera, a Toshiba PDR-M21. 
+
+The PDR-M21 was purchased on a whim.  Toshiba settled a class-action law suit in which owners of their laptops reeived a "Gift Card" useable only for Toshiba merchandise.  Since I already had all of the computer and electronic equipment I needed, my wife suggested we use it for something fun, "like a digital camera."  The PDR-M21 was the best camera we could get without breaking into real money.
+
+The toshiba actually takes very nice pictures and is extremely easy to use, however it has a few glaring flaws that prompted me to search for another camera.  First off, the Toshiba is fairly large, and is almost 2 inches 
+thick.  This made it inconvenient to carry in my purse (yeah, I'm a guy, and I carry a purse).  It also did not have a large-apature lens, which made low-light shooting wihtout or beyond range of the flash difficult.  The 
+Toshiba's PC interface was also very slow, taking minutes instead of seconds to transfer the contents of the 32MB Smart Media card to the PC (USB connection, same as the canon).  Finally, the driver to connect to the PC is 
+TWAIN only, rather than the more modern WIA driver that allows Windows XP and ME systems to open the camera as though it was a disk drive.  The WIA driver is important to me because sometimes I like to look at the pictures 
+on my camera and download only one or two, which WIA lets you do, rather than pull them all from the camera as the TWAIN driver requires.
+
+The S200 Digital Elph solved all of these problems, while also introducing some features that I've really come to like and didn't even think I would want.  The USB connection is so much faster than that of the Toshiba that I can download 64MB of photos from the canon in roughly 1/4 the time it took to download 32MB from the Toshiba.  I'm not sure if this is the WIA driver, the camera's architecture or the compact flash v. smart media storage, but whatever it is, it makes a tremendous difference when realy using the camera.
+
+The S200 is really small, under an inch thick, and about as big in other dimensions as a pack of cigarettes.  It fits easily in my BAG, and since the lens hides behind a protective cover when not in use, I don't worry about dirt or scratches.  That lens, by the way, is an F2.8 ~ F4.0, with the larger apature at the wide-angle setting, which is roughly the same focal length as the Toshiba's fixed length (35MM lens equiv. on a film camera).  The Canon is also auto versus fixed focus, and the difference in picture quality is noticeable.  In addition, the Canon has a zoom lens (only 2X), which works well for portraits, and a digital zoom, which while degrading image quality, is fine for photos intended for the web or for email.
+
+I mentioned features that I didn't think about before, and chief among them is software that allows the Canon to be controlled by the computer.  I now can use MSN or AOL messenger to video conference, the Canon becoming a very small, extremely high quality web-cam.  While connected in this way, I can also take snap shots and send them to the person I'm talking to over email.
+
+the Canon camera is really tiny, but the controls are still large and comfortable.  While not as hand-filling as the Toshiba, I don't really worry about dropping it and have no problem manipulating the controls.
+
+Speaking of controls, the menu system and camera controls couldn't be simpler.  Arrow keys make navigation easy, and main modes are available without even going into the menus, such as flash, timer and macro.  There is also a movie mode which I have yet to try.
+
+Complaints?  Well the battery is proprietary, unlike the AA cells the Toshiba used.  Still, the cell lasts a little over 100 exposures with the LCD on, twice that with it off.  Turn off the LCD?  Oh yeah, the optical viewfinder is terrific, with a clear image that corresponds to roughly 85% of the picture area, and zooms with the lens.
+
+Shutter lag is minimal, about a second, which is an improvement over the Toshiba, and focus and exposure metering are also more precise.  The camera even turns on quickly, taking about 2 seconds to boot, which is fast considering the lens has to move into position.  The Toshiba took over 4 seconds, and didn't even move the lens.
+
+In conclusion, this thing is really terrific.  I used to be a serious photographer, and while I am a point and shooter now, I still like using a high-quality camera.  Other digital cameras look and feel like toys, while the S200 feels like a precision instrument, like an old Leica perhaps.  It has limited manual controls, and lacks some of the features of the professional cameras, but for something of this size and price, you won't do any better, except perhaps the 3MP version (S230).
+
+Highly recommended.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

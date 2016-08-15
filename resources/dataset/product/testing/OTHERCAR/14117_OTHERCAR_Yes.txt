@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 14117 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Dodge_Viper </PRODUCT>
+<URL> http://www.epinions.com/auto-review-7AA4-1A73F4CF-384EB952-prod1 </URL>
+<TEXT>
+            This car has it all.  A powerful V-8 that puts out over 350 horsepower.  It'll propell you to 60 mph in under 5 seconds, and has amazing looks.  This car has such an aerodynamic build, that you can do a spin in reverse at speeds of 40 mph, although I don't recommend doing that.  The car is extremely comfortable, and gets decent mileage for a car of it's magnitude.  The engine is a little unreliable, but when working, amazing.  This car is just unbelieveable, because it should be priced with lamborghinis and ferraris, yet it is under 70000 dollars base price.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

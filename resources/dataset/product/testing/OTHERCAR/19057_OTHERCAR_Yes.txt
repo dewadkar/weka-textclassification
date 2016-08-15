@@ -1,0 +1,57 @@
+DOC>
+<DOCID> 19057 </DOCID>
+<PRODUCT> Digital_Cameras/250399_Olympus_Camedia_C_2020Z_Zoom_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/elec-review-43B9-A92F84A-38AC55DA-prod6 </URL>
+<TEXT>
+            I've worked as a professional photographer, and in related areas since 1971, when my first job was as a color printer for a local studio, I was in ninth grade.
+
+My career and passion for photography grew until after getting a degree in the field I worked as an aerial photographer, videographer, imaging instructor, and hyperspectral data acquisition specialist.
+
+Severe eye problems finally made it so I felt inadequate as a creative photographer, and gradually quit shooting in all but the rarest circumstances. 
+
+All that has changed since I bought my Olympus C2020 three weeks ago. I'm selling my old film equipment and shooting digital images everyday. I've completed one professional job, a poster for a local theater group, and look forward to shooting many more.
+
+The transition from film to digital is taking a little getting used to, but with digital imaging equipment, errors are not expensive and are caught right away, with careful editing while on a shoot, every picture you bring back to your computer/printer is a keeper.
+
+The image quality of the C2020 is superb. It surpasses the quality of Kodachrome slides scanned into the PC with my Polaroid SprintScan. HQ jpeg mode will readily suffice for 11X14 inch prints, something I would never try from 35mm.
+
+As a trained film shooter, certain things I had to pay very close attention to are unimportant when shooting digital. For one, with standard photography, especially large and medium format work, depth of field is critical and requires close attention. With the .5 inch sensor chip on the C2020 at normal working distances, most subjects are in very sharp focus no matter what aperture the camera is using. If you feel the need to  illustrate depth with focus, or lack thereof, you just blur the background in post using your image editing program.
+
+I haven't yet decided if some of the cameras' features were a waste of time or not.
+
+I used the B&amp;W feature for my first shoot, on a 16 meg smart media card, using the high quality jpeg mode, I got 51 black and white images that would have made acceptable 11X14s if I were disposed to do so. One flaw with jpeg compression is that a B&amp;W image takes up as much memory as a color RGB image. The reason I got so many images on one small smart card was because headshot portraits against a simple background compress well.
+
+Otherwise, black and white offers no improvement in resolution over color, as it would with film, and offers no great advantage in memory savings. The sepia feature seems silly too, because a image specialist can easily convert to Black and White, and sepia tone an image on the computer in post. Both of these features could  be very handy in the QuickTime Movie Mode, however.
+
+By shooting in color, even if the end result will be B&amp;W, a photographer can take advantage of contrast and tone control, with out having to use filters while shooting, for example, if a photographer wants to enhance the sky in a black and white photograph, he can subtract blue, in the color image before converting the image to black and white using an image processing program like PhotoShop. If one is shooting in black and white, he would need to use a yellow, orange or even a red filter. Another example might be wanting rich texture in a Black and White portrait, simply use the green channel as the channel you convert to grayscale, and discard the red and blue channels, or use the blue channels for the eyes to lighten them. The possibilities are endless.
+
+I just learned that the Olympus C2020, like most Olympus, Nikon, Agfa, and Kodak CCD Digital Cameras, is very sensitive to IR, and Olympus had the consideration not to block the Infra Red from being imaged on the Chip. My #87 filter is on the way from B&amp;H, and I will be out shooting Infra Red Stills, Panarama's, and Quicktime Movies, in near Infra Red, (up to 900nm), within the week. If you have a digital camera with an LCD, you can test it's Infra Red recording ability by flashing an Infra Red television remote at your camera while watching the screen. If you see flashes coming from the diode at the end of your remote, all you need is some sort of IR filter for your lens to start shooting, and even previewing your Infra Red subjects.
+
+Of course, a good image processing program will offer many different ways for enhancing an image after the fact, still the purest in me shoots for the most high quality information possible to be included in the original data.
+
+Another gripe I have about the camera is that for such an expensive piece of hardware, from as experienced a photographic manufacturer as Olympus, it should have some form of rudimentary parallax correction in the viewfinder.
+
+It is very easy when using the optical viewfinder to miscompose an image, when getting in close to the subject. One common sense way to get around this problems is for the shooter to use the 1.8 inch electronic viewfinder, This will give very accurate framing information, but is more awkward for controlling the camera position. It is also difficult to see in bright light.
+
+Another gripe I have about the camera is the placement of the eyelets for attaching a neck strap, with a viewfinder camera, it is easy to have a long heavy strap obscure the main lens, while the picture looks fine through the viewfinder. I think that if the eyelets had both been placed on the right hand side of the camera, the neck strap would be easier to keep out of the way.
+
+I think it is tragic, that although the Olympus C2020 will shoot up to sixty second video sequences, it is unable to record sound. I'm in the market for a high quality but compact digital audio recorder to complement my system, I'm saddened that there will be no simple way to synchronize the audio and video.
+
+The above shortcoming almost led me to purchase a Kodak DC290 camera over the Olympus, but too many objective sources told me that the Kodak's optical qualities would disappoint me, compared to the Olympus.
+
+I purchased my C2020 through the Internet at www.d-store.com, the special d-store package included two extra 16 meg flash cards, (Olympus includes one 8 meg smart media card), and my choice of a Flashpath 3.5 inch Smart media adapter, that allows you to use you floppy drive to read the Smart Media cards at a very high rate of speed, or a USB Smart Media reader.
+
+I had never tried the USB port on my computer, so I opted for the Flashpath adapter, it works great, and with the Flashpath software installed, it can be used on any PC, whether or not the PC has a USB port.
+
+At home, I've purchased an after market high capacity battery that hangs on my belt, that way I don't have to worry about the batteries running low as soon as I start to have fun. I intend to purchase a tele-extension lens to complement the C2020's 3 to 1 optical zoom. A wide angel supplemental lens is unnecessary because the camera comes with panorama stitching software, that works extremely well, and can make an image with as wide a coverage as I will ever need.
+
+As hard as I've been on this camera, I love it. Considering that in two years it will probably be out of date, I still love it, because I'm out shooting with it now, and not sitting on my butt missing the new and amazing world of creative digital photography. 
+
+If I were still shooting film on a regular basis, I would easily spend the thousand dollars I have invested in this camera and it's new accessories on film and processing/printing, without the instant gratification.
+<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

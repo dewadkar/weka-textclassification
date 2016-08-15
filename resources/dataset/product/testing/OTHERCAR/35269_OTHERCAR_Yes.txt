@@ -1,0 +1,51 @@
+DOC>
+<DOCID> 35269 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Canon_PowerShot_G5_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_122504253060 </URL>
+<TEXT>
+            For the last few months, I've been researching a solution to fulfill my needs (more like wants) for a camera that would :
+
+1) produce high-quality still photos
+2) allow me to have the capability to take at least 10 minutes of video
+3) small, mobile and a flexible view-finder 
+
+I'm sure I'm not the only one in search for this solution, because I ran into so many people at the stores looking for the same thing.  
+
+Let me give you some background, and maybe you can relate.  I got a digital camera over 3 years ago, when my Sony 1.3 MP Cybershot was the best thing out there.  My camcorder was a Sony, too, from 1987 and I've been trying to justify whether it's worth spending $500  for a new one.  ("Do I really need a camcorder that bad?!")
+
+So with a 1.3 MP digital camera and an old camcorder I haven't touched since 1990... it's time for an upgrade.  First question I had to ask myself was: how do I plan to share my photos and videos?  This is the hardest question to answer, because the answer kept changing.  My wants and needs conflicted a lot.  At the end, I realize that printing photos was rarely going to happen for me.  (I'm too lazy to go to the photo center or organize all the printed photos in an album.)  However, I would like to make large printouts of some photos to frame if given the opportunity.  Also, I find myself sharing my photos online only.  (Since I'm a web developer, it's easy for me to create & publish photo albums on the web.)  So, definitely, a high-quality digital camera became a part of my priority list.  
+
+The next question is how high?  What's the lowest mega-pixel camera should I get?  To answer that, I figured I'd check what camcorders are out there and find out what's the highest mega-pixel still camera they come with.  To my dismay, the highest I found was the Samsung 2-in-1.  It comes with a 4MP digital camera (not bad!) plus a great zoom.  It was clunky in size, but I kept it on my top list as I came close to a decision.  Canon's highest was a 2MP and Sony was 2MP as well.  So my chart was:
+
+MicroMV Tapes
+  SAMSUNG     : 4 MP     : $1000
+  CANON       : 2 MP     : $1300
+  SONY        : 2 MP     : $1600
+
+I guess I'm too cheap to want to spend that much money on a camcorder with so-so still photo quality.  I don't want a MicroDV tape to store my video because I know I'll end up with a bunch of tapes and would have to lug my camcorder around to show what's in there.  
+
+So I thought I'd get a DVD camcorder!  What an idea!  I can use it to burn other media and won't need to buy myself a DVD burner as well!  Sony's DVD300 was the best I found.  And, hey, I love Sony!  I can just re-use my old camera's memory stick. They have the best zero-light results. (When there's no light, images come out so well in Sony cameras.)  The only problem was... it was going to cost $1200 and the discs can only record 30 minutes of video.  (Not to mention I can only record once on a DVD-R disk, but can record multiple times on a DVD-RW, which is difficult to find and expensive.)  While I don't plan to videotape an entire graduation or wedding (those videos no one really watches), I don't intend taking multiple discs with me when I travel.  (I'd hate to break or scratch one of them during a vacation.)
+
+Back to square 1 for me... until I ran into the CANON G5!  It had everything I wanted:
+   - Digital Camera (so I can easily share my photos on the web)
+   - 5 MP (so I can make high quality poster-size printouts)
+   - Flexible Viewfinder (so I can take photos at even the most awkward angle or can see what's on it even when there's too much sun outside)
+   - Video recording capability (so I can take videos and easily share it on the web or my computer - the only way I can share videos right now anyway)
+   - At least 1 hour of video (so I don't have to keep changing disks).  I picked up the 512 MB ULTRA COMPACTFLASH CARD and I'm able to record at least 1-hour of video in there, too.  Not bad considering the DVDcamcorders only recorded 30-mins.  Plus the shutter speed on the ultra cards are so much faster!  The video is recorded at 320x240 resolution (dimension), which is just enough for me to edit on my computer, encode for web streaming and upload to the server.  I can also burn it to a DVD or VCD... but in reality, I won't have time for that.
+   - Small & compact.  Since it's a photo camera, it's way smaller than any other camcorders out there -- with the battery!  (Some of the small camcorders I saw at the store look small... but once you attach the battery, forget it!)  
+   - CompactFlash Card (so I can easily pop it to my laptop's card slot, put it into a friend's camera that holds compactflash cards, or mail it to a friend easily.  plus, it's not as delicate as a CD.)
+   - 4x digital zoom.  While it would be nice to have zooms like the old SLR cameras, a 4x digital zoom is on the highend of today's digicams.  However, the best part about this Canon G5 is you use your lenses from your old Canon SLR cameras!  If you don't have one, buy them from eBay and get the zoom and all the other gadgets you can put on the lens.  
+   - Fast shutter speed.  One caveat with digital cameras is their shutter speed.  My old 1.3 Sony digicam has a faster shutter speed than many of the new ones, which is odd.  So when searching for a digicam, shutter speed is one of the things I test for.
+   - Cost me less than $1000!  In fact, the total cost was like $700!
+
+So if you're looking for a 2-in-1 (still & photo) camera that's small & compact.... consider the CANON G5 on your list!
+
+If you want to see the video quality, you can check it out here.  http://alcasid.com/pups/video1.wmv    The quality is a little degraded because I've already "encoded" it for the web.  The real quality from the camera is so much better than what you see, but at least you'll see what you, too, can do with your G5!
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

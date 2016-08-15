@@ -1,0 +1,81 @@
+DOC>
+<DOCID> 6420 </DOCID>
+<PRODUCT> Digital_Cameras/Fuji_FinePix_3800_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_121327226500 </URL>
+<TEXT>
+            Back in the old days I was sort of a photography snob. You know the type: color photography was for tourists, autofocus was for kids, and no one serious used film faster than ASA 50. I could develop and print in B/W or color; push my film all the way to ASA 1600 if I wanted to. I could argue the relative merits of Canon and Nikon (Olympus was out of the question), Ilford paper vs. Kodak, Fuji film vs. Kodak. Dodge and burn? Eighteen per cent gray? Hot shoe? Polarizing filter? I had a handle on it all, but that was a while ago. Last time I looked, the cap from my developing tank had gone missing and my enlarger was covered with dust - and that was a couple of moves ago. Sure, I still unlimber the 35mm SLR for vacations and day trips and shoot a couple of rolls of slides, but the sad fact is that I've become your everyday average camera user. That means I'm in the prime market for digital camera makers.
+
+When the Ms bought a digital camera to use at work, we did our research and - based on our findings, her budget, and lots of juggling cameras at the local stores - shelled out $300 for a Fujifilm FinePix 2800. Less than a year later, she wanted her own camera for Christmas, and the choice was a no-brainer. We stepped up to the FinePix 3800 for her (I found one online at DigitalFotoClub.com for $309 last year), and we've been happy with it - so happy that it spends as much time in her office as it does at home! Here's my take on a year with the FinePix 3800.
+
+
+<b>Physical Properties</b>
+
+The FinePix 3800 is shaped vaguely like a conventional 35mm SLR that my mom shrank in the dryer. When viewed from above, the unit is shaped like a fat letter "L." A prominent bulge on the right side of the body (the "bottom of the L") provides a secure grip with non-slip rubberized surfaces for the fingers and thumbs. When held in this position, most controls are within easy reach of the thumb and forefinger.
+
+From the rear, the camera is dominated by a 24mm x 35mm LCD screen. A viewfinder with a rubber cup sits above the LCD and the control buttons for menus and the like are arrayed along the right side of the LCD. On the left side of the body you'll find receptacles for the AC adapter and USB cable, memory chip access, a speaker, and a button to release the popup flash. On the bottom are battery access and a socket for mounting on a tripod. The front view is mostly of the Fujinon zoom lens (36mm, f2.8, 6x optical zoom) and the flash when opened; there's also a tiny microphone for recording memos or sound when in movie mode. 
+
+As delivered, the camera includes a fabric strap, a screw-on hood, and a lens cap, with keeper, that fits either the hood or the naked lens. A useful feature of the hood is that it's threaded to accept standard 55mm filters, a must-have for those of us who think we're still using SLRs. It doubles as a converter - you can screw on lens converters that change the wide angle to a 30mm lens or extend the telephoto to a 340mm focal length (a pair of converters is, however, rather expensive).
+
+<i>Dimensions (approximate):</i> 4" wide, 3.25" deep, 3.25" tall; with hood, 4.5" deep, with flash extended, 3.75" tall. Total weight including hood and strap is about 13 ounces.
+
+<b>Pluses:</b> Secure grip, viewfinder with eyecup (especially useful for those who wear glasses), threaded hood/converter.
+<b>Minuses:</b> Too large to slip into your pocket, heavier that most point-and-shoot models, shape is pretty useless for lefties.
+
+
+<b>Photography</b>
+
+The FinePix 3800 can be run in one of three modes, which is set on one of the dials atop the body: manual, full automatic, or "scene selection." In <b>full automatic</b>, all camera settings are electronically controlled. The camera focuses and sets shutter speed and aperture for an "optimal" picture - the very definition of <b>point-and-shoot.</b> In <b>scene mode</b>, you can choose from four options: portrait, landscape, sports, or night shots. In<i>portrait mode</i>, the software "softens" the focus and adjusts for warmer skin tones; in <i>night shot mode </i>the software maximizes aperture and allows long exposures; in <i>sports mode </i>the camera minimizes exposure length. You can set for "continuous," which forces the camera to keep shooting at the chosen setting. As with most digital (and many SLR) cameras, you can "fool" the autofocus by centering the subject, pressing the shutter button halfway, and then re-centering - after all, you <i>do</i> want to use the "rule of thirds," don't you?
+
+<b>Manual</b> mode (actually "semi-manual") allows you to force the FinePix 3800 to use one of three specified f-stops (2.8 to 8.2) instead of full automatic. Instead of full autofocus, you focus the lens with the TTL viewfinder. You can also alter the "white balance" (color warmth) setting to allow for different light sources (incandescent, fluorescent, natural), and set exposure compensation for subjects that are much brighter or dimmer than the background. Other than choosing "night scene" or "sports," the user has no control over shutter speed (it's a nominal 1/125th second, I believe).
+
+In all modes you can set the picture quality to one of four settings; these yield images ranging from 640x480 (0.3 megapixel) to 2048x1536 (3.2 megapixel) pixels. You can also toggle on a self-timer (ten seconds), adjust the brightness of the LCD, or enter setup mode. Navigation through the menus uses a long, bar-shaped menu/OK button located under the right thumb (marked with a nipple) and four small rocker switches just above the menu button. One of the rockers switches the camera into Macro mode, which allows extreme close-ups - useful for nature photography, etc. In Macro mode, the focal length ranges from 10 to 80 centimeters (4 to 32 inches). Onscreen menus are displayed in the viewfinder or on the LCD, whichever is active. 
+
+The onboard flash is fully automatic, though if you're in manual you can override flash "color" and also fire a double flash for red-eye reduction. One limitation to the flash is its short "reach," only about eleven feet.
+
+<b>Pluses:</b> night scenes and portrait modes, redeye reduction, auto flash, easy-to-use interface, fast start-up (about 2.5 seconds), TTL viewfinder and menuing. 
+<b>Minuses:</b> Navigation of manual menus, short flash range, limited LCD brightness.
+
+
+<b>Movies and Sound</b>
+
+You can record 60-second movies with the FinePix, including sound. They're recorded at the lowest resolution with the lens locked in the shortest focal length (wide-angle). Sound quality is pretty laughable... In truth, I've only used the movie setting once or twice to test it out, so haven't much to say about it. You can also record sound memos to accompany a photo - can't remember where or who? Just record it. They eat up a lot of memory, though; it's probably better to scribble notes and photograph 'em.
+
+
+<b>Post-Photo</b>
+
+Like any good digital camera, you can see your photos instantly and discard bad ones just as fast. That way you save on chip space by keeping only the pictures and tossing accidents (or hideously ugly stuff). During playback, you can erase any pictures you want or protect certain pictures and then erase the rest in one fell swoop. This is useful but can be scary the first couple of times. You also have access to 3.2x digital zoom with full-image pan, and can save the image after you've done what amounts to in-camera cropping.
+
+When it comes time to upload, use the supplied USB cable to upload to any post-Win98 Windows machine or to a Mac running OS 8 or later. The FinePix 3800 comes with two pieces of software: the proprietary FinePix Viewer and a copy of Adobe Photoshop Elements. The viewer is used for uploading, renaming, and organizing; you can run slide shows and resize photos or upload them to the web if needed. Photoshop Elements is a lightweight version of Adobe's Photoshop. I don't bother with it - I use Corel's competing product, Photo-Paint (I detest Adobe on general principles).
+
+
+<b>Batteries and Storage</b>
+
+In theory you can take about 250-300 pictures with four alkaline AA batteries; in fact using the LCD screen eats batteries like a defensive tackle at the training table. By all means, buy a set (or two) of NiMH rechargeables and get an AC adapter (universals are available for about $10-15). 
+
+The camera comes with a 16MB XD chip installed - a very compact storage medium that's been adopted by a couple of camera makers (Olympus, too, I believe). They're widely available - the Ms bought a pair in the middle of the Caribbean while on a cruise - and available in larger sizes, up to at least 64MB. An extra chip or two is a good idea if you're planning on using the camera away from your home base. 
+
+
+<b>Ordinary Use</b>
+
+Ours rarely gets taken out of full automatic mode, I'm ashamed to say (ashamed as a photo-snob can be, I guess). We've shot up hundreds of photos with it over the past year, ranging from action photos of the dogs (see my profile photo) to wide-angle views of mountain landscapes. While in automatic mode, we've found that the FinePix is not very good at capturing pictures in low-light settings, though it's far better when set in night scene mode. We've never used manual mode, other than testing it out to see what the various buttons do.
+
+Picture quality has been consistently very good, whether viewed on-screen or printed (we've used a commercial printer a couple of times). There's no appreciable distortion or chromatic aberration - the lens has proven as accurate as the old Canon FD lenses I've bought over the years for the SLR. 
+
+
+<b>Recommendations</b>
+
+This is a good camera for SLR buffs who are turned off by the tiny size of the point-and-shoot varieties of digitals. Although 3.2 megapixels is now at the middle of the resolution range, the FinePix 3800 produces good quality prints. It has an easy-to-use interface (at least once you figure out what the icons mean) and allows some manual override so that experienced photographers can adjust the image at least a little bit.
+
+The FinePix 3800 is no substitute for a high-end SLR or a large format camera, nor is it even a substitute for a 6-megapixel high-end digital. Professional photographers and dedicated amateurs (read that "photography snobs") will find this camera better than using a disposable film camera, but definitely not in the same league as even a low-end SLR. Still and all, it's a very good camera for its intended audience.
+
+
+<i><b>Previously reviewed topic mentioned in text:</b></i>
+
+<a href="/content_86390836868">DigitalFotoCLub.com</a>
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

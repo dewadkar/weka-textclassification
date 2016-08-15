@@ -1,0 +1,34 @@
+DOC>
+<DOCID> 24197 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Sony_DSC-S30 </PRODUCT>
+<URL> http://www.epinions.com/content_48538160772 </URL>
+<TEXT>
+            This is my second digital camera. Coming from a purely point-and-shoot model with no creative controls whatsoever, this was a welcome change.
+
+In addition to a point-and-shoot mode, there are two programmed AE modes: aperture priority and shutter priority. In shutter priority mode up to 8-second long exposure times are possible. I took some star shots with this camera of the Orion constellation and while the resulting pictures weren't fantastic, they're acceptable for a digital camera. A pure point-and-shoot digital camera has difficulty with nighttime street lighting, let alone the night sky.
+
+The Sony lens is quite good, and although it's not the Carl Zeiss found on higher-end (DSC-S75, DSC-S85) Sony cameras, it still exhibits low barrel and pincushion distortion. The lens is fairly "fast" -- f/2.8 maximum aperture -- and has a 3X optical zoom, equivalent to 39-117mm. You can buy a wide-angle adapter with a 0.7X magnification, which changes the lens focal length to approximately 28-80mm, which might be a more interesting zoom range.
+
+The camera has 37mm threads so you can attach either the wide-angle adapter, a 2X teleconverter (which doubles the zoom magnification but halves the aperture in the process), or any number of camcorder-style filters.
+
+The DSC-S30 uses Sony's excellent InfoLithium Li-Ion battery system, and I've gotten 200+ minutes of runtime out of one charge (battery and charger are included). The main problem really is the lack of an optical viewfinder and the small 4MB memory stick.
+
+Lack of an optical viewfinder means increased power drain. More telling, when it's really dark the viewfinder shows almost nothing, so you can't frame your images properly. On the plus side, the viewfinder is through-the-lens (TTL) but that's a minor advantage.
+
+The 4MB memory stick is laughably small. It can't hold even a single uncompressed (TIFF) image, and only 7 JPEG images in the high-quality mode.
+
+Autofocus lag is in the 1-second range, rather high, although you can capture fast-moving action by
+
+1) setting focus to the "panfocus" range so that the autofocus mechanism is disabled;
+
+2) using shutter priority and setting the shutter speed to 1/500 second or so;
+
+3) pressing the shutter button halfway before taking the shot, so that the camera pre-calculates exposure settings.
+
+The shutter button has a very pronounced two-step detent, so doing (3) above is fairly easy.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

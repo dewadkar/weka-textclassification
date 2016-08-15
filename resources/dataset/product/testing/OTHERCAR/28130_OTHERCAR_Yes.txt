@@ -1,0 +1,15 @@
+DOC>
+<DOCID> 28130 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_PolaroidPDCC-Polaroid_PhotoMax_PDC-700 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-65C1-13AD5997-3A0B88BC-prod2 </URL>
+<TEXT>
+              I purchased this item after a few days with the funflash. The little camera just couldn't keep up with this 700. I've got more storage (4MB internal memory)and better definition(1024 by 768), but best of all, it came with a memory storage card slot. To be quite honest I don't even know all of it's capabilities yet. I know how to flip through the pictures, use the timer, delete and save. The things I haven't done are send a live signal or had a slide show, both of which look quite easy. 
+ If your into camera settings it has an adjustable shutter speed from 1/10-1/10,000 an f3.5 lens. Flash modes include auto,flash,flash fill, and flash off.
+  I's IBM compatible, Win 95-98, works just fine. You'll need 16 meg on board or more and 100MB Hard drive space. It formats it's own pictures using one of he following:.bmp,.tiff,.pcx,.tga,.jpeg,and.pcd. It also comes with Polaroid PhotoMAX Image maker Software, and PhotoMAX Pro.
+  The only thing I dislike really is that I have to restart the computer every time I download pictures. This let's me use my serial port for the camera feed. It works well enough using mouse keys, but it is quite annoying.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

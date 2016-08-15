@@ -1,0 +1,35 @@
+DOC>
+<DOCID> 34035 </DOCID>
+<PRODUCT> Digital_Cameras/Canon_PowerShot_S30_Digital_Camera_7299A001AA__Camera_7299A001AA </PRODUCT>
+<URL> http://www.epinions.com/content_58645712516 </URL>
+<TEXT>
+            PROS:
+
+1) great picture quality 
+2) fast start-up (much faster than the Coolpix series ... I owned one of them)
+3) Lots of options (more than I will ever use)
+4) compact, strong metal case
+5) bright LCD
+6) RAW picture option to allow you to do post processing yourself
+7) bright flash for indoors
+8) Will take Type I, Type II and Microdrive media
+9) Excellent stitching software. I Just did a 360 degree view of my living room in low light (10 picts all together. Once downloaded on the computer the software did the stitching and Voila! I could not even make out the seams between each frame. I was very impressed.
+10) Under water case is available for this camera (it's on my Christmas list already). 
+
+CONS
+1) battery life (less than 60 picts and 1 movie on my first time). But it may be hte way I am using it. I have read some posts where users claim to have shot over 100 picts with a single charge)
+2) flimsy rubber port for interface (should have been metal like rest of the case). This will probably break soon exposing the USB and A/V port. 
+3) They should have provided a 64 MB CF instead of the 16 MB card
+4) The battery lock (a small brown colored clip which holds the battery in place when the CF slot/battery cover is opened) failed after a month. This is not critical since the the main cover of the compartment will hold the battery in place when closed. The battery lock just prevents the battery from pooping out when removing the CF card (which is located in the same compartment as the battery)
+
+Review:
+
+This camera has convinced me to go digital all the way. Being a user of fully automatic camera, I found this camera to be a valuable tool to learn the art of picture taking. You can play with the aperature settings,  the shutter speed and numerous other camera parameters and see your results instantly (no need to spend 10$ on developing your pictures to find out if your picture came out OK). This is a newly discoverd advantage with a digital camera I never thought about until I got this camera.
+
+PS: I had to return the first camera when I spotted 2 prominent "hot pixels" in the pictures. Hot pixels appear in the same location of your pitures as bright dots (usually only noticeable in darker pictures). This bothered me (especially when one of the hot pixels was smack in the middle of the image). To be frank, if I hadn't run a special software on the images to identify these bad pixels, I would have probably not noticed them. But since I new of their existance, I constantly searched for their existance on each pictures I took (a very bad habit of mine). So I contacted Canon who said that they would fix it but I had to pay for shipping (no thanks). I asked for an exchange from the vendor who had just sold me the camera. When I got my second S30, sure enough I had the impulsive urge to run the software test on a black picture to look for hot pixels. To my dismay I found 1 (at least that's better than 2 hot pixels ;) in the lower corner of the image. I quickly realized that this was not noticeable in most of my pictures and soon forgot about it. So if you get your new camera, don't go looking for bad pixels, it may provoke an unpleasant compulsive behavior :)
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

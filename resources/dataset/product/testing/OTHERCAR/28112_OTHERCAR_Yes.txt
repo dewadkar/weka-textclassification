@@ -1,0 +1,217 @@
+DOC>
+<DOCID> 28112 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_PolaroidPDCC-Polaroid_PhotoMax_PDC-700 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-486C-1E115C5-39CBB6F3-prod1 </URL>
+<TEXT>
+               Minor Update/Corrections
+
+This unit has 4 meg NOT 2 internal memory. Also another reviewer reported slightly fuxxy images.  This is likely a fluke. I did not experience this.
+
+The problem with size is not so much a problem as is the flash being right where you want you fingers to go.  So if anything you sometimes get whited out when the flash reflects off of yourfinger. (keep em clear)
+
+Also his problem with the CF card is a fluke (older model maybe?) Mine has a USB port that is OPEN and usable.  Also the camera does save directly to the CF card when one is inserted. it will not use the internal memory as long as a Card is inserted.
+
+Manual says 32meg max.  I have successfully used a 48meg card and have heard upto 96 will work (untested)
+
+I image it would be fine as long as the resolution you choose did not exceed 999 images.  I figures this will likely cause a File Name Problem.
+
+
+   Original Review
+
+I needed a &quot;decent&quot; resolution digital camera for a very decent price.  I was at walmart and saw the PDC-700 for $218
+
+It is just under a megapixel with a res of 1024*768 and 3 compression levels (all jpg)
+
+It had Macro Flash and Compact Flash compatibility and a wonderful price meaning it met my initial requirements.
+
+The camera later proceeded to far exceed my expectations.
+
+I give extremely factual and blunt reviews.  I will tear apart every aspect I have discovered with this camera.  It may not look good but trust me it is just me being very thourough.
+
+First Dissapointment was NO MANUAL. I like written manuals.  I had to download the PDF manual from there site to figure out how to use the thing.  I later discovered this manual was also on the CD but since I never use the &quot;packaged&quot; software unless I need to I did not discover this.
+
+There are not so much a large number of buttons as there are a large number of functions assigned to these buttons.
+
+For instant point and shoot the camera is very simple.
+
+Another dissapointment I have come to live with is that it takes a LONG time for this camera to turn on.  Takes about 8 or 9 seconds from Power On to ready to shoot.
+
+At this point it is very easy.  Simply push the shutter.  There is ZERO lag in the shutter (assuming no flash)  This is very nice.  I am able to capture Model Rocket Lift Off's with this camera.  This is rare for a digital camera of less than stellar quality (IE expensive :-)
+
+Lag time between shots is about 6 seconds.
+
+A nice feature this camera has is when you take a picture it places a preview of the image you just took up on the LCD  This give you the option to delete the image right away or keep it by doing nothing.  I very much like this feature! Saves a lot of time and battery power.
+
+As for instant usage the camera is simply to operate with three selections.
+
+You have the Power slide on/off
+Shutter
+And a slide switch for Macro or Normal.
+
+It has both an Optical Viewfinder and a LCD viewfinder.
+
+This is nice since you can turn the LCD off (off by default) anduse the optical.  A word of caution though. The alignment here is horrible at closer ranges.  What you see in the viewfinder is far from what the lens see's  Even at average Can I take your picture distance.  You need to learn and account for this effect.  THis is one area that Polaroid should have done more work.  FOr farther objects this is not a factor.
+
+Also the LCD is not even perfect.  The camera actual captures a tiny bit more than what you see in the LCD and also there is a down shift. What I mean is that if you have it set so some object is RIGHT on the bottom edge of the LCD when you shoot the actual picture will be just a tiny hair below the LCD edge.  THis is only important when you are doing close max screen MACRO shooting.  It is not much of a hinderance and you adjust as if by second nature very quickly.  Unlike the Optical Viewfinder difference which is aggravating.
+
+More on the LCD I would spend time tweaking the LCD to a PRINT OUT (unmodified with software) from the camera.  It is very easy to misadjust the LCD so the picture looks fine onscreen but ends up either way to bright or dark in the actual file.
+
+to do this make a NICE print out of a picture from camera. (say of your house or car)
+
+Now hold the camera next to the picture with the SAME picture on the camera's screen.
+
+Now at the bottom of the camera you will find a Brightness Wheel.  Adjust till they are close in match.  Now what you see is what you will get.
+
+On the back of the camera is the rest of the controls.
+
+4 buttons above the screen and 3 below.
+
+the buttons all serve 2 functios each except the 3 top row button and the first bottom row button which have single functions (well designed)
+
+the first top row button in record modem controls Exposure Value.  This feature although sometimes annoying is your friend !! it allows you to capture far greater picture with proper control of it in dicey situations.
+
+The flash on this camera is very strong short range (can actually bleach out objects that are close) but weak for large volumes of space.  Using the EV you can turn off flash and increase the exposure to capture a dimmly lit room or object very effectively.  After a few experimentations you will become adept at adjusting this.
+
+This is also how you correct the bleaching.  If you are shooting SMALL macro objects indoors it is best to actually turn the flash ON and Fully close the EX value to -2
+
+This will result in an extremely crisp PROPERLY colored image.  Much better than a no flash EV open image.
+
+In Play mode THis button allows you to view 9 images at a time instead of just one.
+
+The Next button in record mode allows you to select which quality level you desire.  I always without question use s or highest quality.
+
+Sadly to my dismay the camera always turns on defaulted to the middle quality settings.  This is annoying to me since I NEVER use this setting if I aware it is on.  For the average user this should not matter much and will allow many more pictures to be stored on the camera.
+
+This is also the button you press when the camera give you the preview and choice to keep it or delete it.  If you want to delete it just press this button while the image is on the screen (about 5 seconds)
+
+In play mode this button is also for Deleting images and does bring up a confirmation to delete it or not.
+
+the third button serves one purpose regardless of mode.  It brings up the advanced options menu.  they are extensive and will be discussed later.
+
+The last button in the top row. Actually only serves one purpose and that is to toggle between Record mode or Play mode.
+
+Bottom Row
+
+the first button is seperate and larger.  This turns the LCD on or off in record mode.
+
+The next 2 button are mode select buttons.
+
+the left button is - (used for selected down or no very clearly defined on screen) and also to set flash mode. Auto, on always, or off always.
+
+The other button is to select up or yes OR in record mode it turns the self timer on.  Once on you press shutter and you ten seconds.  I advise turning the flash on in this mode for ALL pictures unless it really will inhibit the picture so that you have some visual cue as the WHEN the picture is taken or not.
+
+Now for the Advanced Options Menu
+
+First lets go over the camera's memory.  This camera has a feature unique in its area.  It uses Compact Flash AND it has internal Memory.  This is NICE since you don't need to go out and buy a CF card right away to use.
+
+It has 2megs of internal memory which will store 12 25 and 49 images respectively in the 3 quality modes.
+
+a 48meg CF card will hold 150 high resolution images. and a LOT in the other resolutions.
+
+THis internal memory is a nice backup.  Once you fill your CF cards you know at least that you can take 12 to 49 more picture on the internal memory.  I have had to use this feature a lot.  Well done polaroid.
+
+Another nice feature. in the menu the ARROW and CFC option (screen says Copy to Card) will allow you later to copy the camera's internal memory to the CF card. (once you download the CF card) This is very nice since I use an external CF Reader.
+
+there are 10 options in the Advanced options menu.
+
+the first row are 
+
+XGA Mode  - this allows you to switch between XGA (1024*768) or VGA mode (640*480)  if you do not need the higher quality you can DRASTICALLY increase the numbers of pictures storable in memory.
+
+Next is an Erase all option to delete all pictures.
+
+Next is Copy to card explained above.
+
+Next is Adjusting Auto White balance.
+
+Next is format camera memory (or CF memory if a CF is installed)
+
+Bottom row
+
+Allows you to set the time a date.
+
+Next allows you to set the Auto Off timer (VERY NICE feature !!)
+
+This option should be IN the playmode but better than nothing.
+In manual when you switch to play you can go from image to image as you see fit.  in auto as soon as you switch to play mode it will automatically start a slide show feature.  Sadly if you hit the button at say an image you want to go back to or stay at it goes back to record mode.  To stop at animage you have to reset to manual play and toggle to it.  (slow refresh from image to image but not that bad)
+
+Next is information on or off.  Basically info about the picture Number Date time etc..  I prefer leaving this off.
+
+Last is exit from Advanced Options Menu
+
+Now onto more meat.
+
+Battery Life
+
+HAH  Image turning on the camera and hearing this deafening ever increase to climax SLURPING sound that Finalies in a POP and your camera saying Batteries DEAD.
+
+Yes it is a SEVERE battery HOG !!! I mean NASTY !!! Sluuuuurrrrrrrpppp Ahhh more batteries please.
+
+Lithiums ?? Forget it no better and MUCH more expensive.
+
+There is HOPE !!!  I jsut started using 1500 mah ($10 for 4 at Radio Shack) Nickel Metal Hydride Rechargables.
+
+WOW what a difference.  Not only are they rechargable but they last MANY times longer than Alkalines.  and they are CHEAP so I bought enough for 3 sets !! (camera takes 4 AA batteries)
+
+The Flash also has a large impact onhow long it lasts so if you know you are going to be taking a large number of NON flash images TURN IT OFF so it does not have to keep it charged.
+
+It does have an External power port (and comes with AC power adaptor) so even an external waist pouch battery pack would be viable but I have seen no need witha  few sets of NIMH batteries handy.
+
+The LCD is not all that bad.  Obviously it dies in direct sun but not too badly.  Where is really and seriously lack is in resolution.
+
+It is VERY easy to take a picture accidentally in Macro mode (which will BLUR normal distance pictures) and not know it !! the LCD image will look SHARP.  ALSO if you jar it slightly (blurr) during slow shutter speeds the blurr may NOT be noticable ont he screen.  and lacking a play mode digital zoom feature you will not know till it is to late (downladed to machine)
+
+This is a nasty shortcoming.  It is not too bad but can be very aggrivating for that image you really wanted and can NEVER get again.  so be careful
+
+The camers also has a small calculator style LCD on top of that shows basic info such as flash status Battery status and picture Number or Picture available.
+
+Once you learn the ropes of the button commands and there quirks this is a (not counting boot up time) very effecient camera.  Imformation is right there on site and easy to manipulate quicky and easily. (except macro mode accidents etc.. due to low res LCD)
+
+Now how about the real verdict.  HOW GOOD ARE THE PICTURES !!!
+
+This is where I was really surprised by this camera.
+
+the pictures are really (considering resolution and price) NOT bad at all !!!  I have printed 8x10 on my HP 932C that come out VERY respectably
+
+On close inspection obviously not a photograph but on the wall or at arms length to the normal person extremely IMPRESSIVE !!!!!  I wsa blown away by it.  I did not expect anything even near that good !!
+
+Using one of those neato dye sub photo printer to make a 4x6 would probably result in a very respectable picture.
+
+Now to the nitty gritty.
+
+At high res the image size is about 200-300k
+
+At first I was annoyed that the camera make TWO of every image.  the image and a thumbnail.
+
+Later I have come to like this.  It makes it MUCH easier to make HTML based Libraries of your images andallows extremely RAPID viewing of directories using the View as Web page in Later windows enviroments.  These thunbnails load instantly verse the several seconds for each full size image.
+
+Cudo's Polaroid.
+
+Now for the bad part.  This really applies to VERY few users such as me.  I have yet tofigure out a way to put picture back INTO the camera that did not originally COME from the camera.  I like to do this for presentations and my old but very low res CASIO QV-100 let me do this.
+
+This is a very minor nit thought so don't fret it.
+
+Color can sometimes be goofy.  Indoor picture with outside light coming in can sometimes have a BLUE shifted hue to them and outdoor or indoor no outside light(sun light) tend to be more red shifted.  VERY easily and painlessly corrected via software (photoshop autolevels for this)
+
+Also I sometimes see some MINOR rainbow shifting in skin tones that would drive a pro crazy but usually have NO effect on average user printouts andis rarely noticed unless you hunt for it.
+
+Overall I am EXTREMELY impressed with this camera.  Since it uses standard JPG images formats I simply plug into a USB CF reader and copy the images over tomy computer FAST and EASY.  I prefer this method.
+
+I would rate this camera a Must buy if you are looking for a very good decent quality camera that you do not want to spend a fortune on.
+
+With a few minor upgrade would make an incredible budget level camera !!
+
+Great job Polaroid
+
+Other note.  the camera comes with lots of software that I did not use and therfore can not review.  It also has a serial download cable (Grr yeah right) and a USB connection prot but NO cable although this is available from polaroid.
+
+It can also connect to a TV to show off your Photographic skills or lack thereof :-)
+
+Chris
+http://www.nerys.com/<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

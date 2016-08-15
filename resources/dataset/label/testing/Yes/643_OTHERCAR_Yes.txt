@@ -1,0 +1,20 @@
+DOC>
+<DOCID> 643 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_NikonCoolpixx-Nikon_Coolpix_950 </PRODUCT>
+<URL> http://www.epinions.com/content_13466898052 </URL>
+<TEXT>
+            I've been using my CP 950 for about a year now, and have no complaints to speak of (aside from the 2 mentioned in Pros & Cons). I've used this camera in all kinds of weather, from hot August sun, to cold February blizzard.
+
+I'm very happy with the quality of the images I get from this camera, although I have noticed a couple of images (of the hundreds I've taken) that had noticable defects in them (like a very slight color fringing in one of the corners).
+
+My main problem with this camera is the way the battery level indicator works. It seems to go from "full" to "nearly empty" far to late, almost when the batteries are about to die. Also, when I put my eye to the optical viewfinder, I tend to get some oil from my face on the LCD.
+
+A second, minor problem is the lens cap. Nikon provides no way to secure the cap when the camera is in use, and it is easy to lose due to its size. I just bought a small elastic band with a sticky bit on one end, which you wrap around some part of the camera (like the wrist strap mount) and stick the sticky end to the cap itself. When the camera is in use, the cap dangles below the camera. It's never been a problem for me.
+
+I can't comment on the serial connection or the provided Nikon software, since I use a USB Compactflash reader to transfer pics to my PC.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

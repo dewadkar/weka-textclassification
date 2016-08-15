@@ -1,0 +1,24 @@
+DOC>
+<DOCID> 19299 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Fuji_FinePix_1400 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-DDC-10747598-3A0348EE-prod2 </URL>
+<TEXT>
+            I have had the Fuji FinePix 1400 digital camera for only one day, and I already like it. My prior experience with digital cameras was the Apple Quicktake 100/150 model, an early entry into the market. (The QuickTake, which requires MacOS GeoPort serial drivers, won't run under MacOS9 since GeoPort is no longer supported.)
+
+The FinePix 1400 takes very good pictures in 640x480 or 1280x960; photos are 24-bit JPEG (.jpg) format. You can elect to store photos in three qualities, depending on image compression. On a 4MB SmartMedia memory card, you can store 6,12, or 23 1280x960 images depending on compression; by switching to low-resolution 640x480, the storage capacities increase to 23,44, and 69 photos respectively. The camera provides for internal image resizing; three levels of reduction convert from 1280x960 to 640x480 to 320x240. Other options like Erase Frame, Erase All, Protect Frame, Protect All, and Format Card are self-explanatory. The camera also provides for full manual exposure, red-eye compensation, forced flash, macro focus, 2x digital telephoto, 4x playback zoom, 3x optical zoom lens, and self-timer operation.
+
+I immediately installed a 32MB SmartMedia card rather than bother with the 4MB card.
+
+On a MacOS system, uploading the photos is as simple as plugging the USB cable between camera and computer. In a few seconds, the camera appears on the desktop as if it were another disk drive. Each photo appears as an individual file, accessible either for copying or editing (though you can't save back to the camera from the computer). A drag-copy of about 25 1280x960 &quot;fine&quot; photos to hard disk too probably 1 second per file on a 333MHz PowerBook. This is about ten times faster than the old serial-port transfer of the QuickTake.
+
+Software installation on a Macintosh is a snap: you copy two extensions to the System Folder and restart. If you wish, you can also install the included &quot;Exif Viewer&quot; and Adobe PhotoDeluxe applications. I find I prefer using other programs to manipulate the JPEG images, though the Exif Viewer does provide a thumbnail display and handy copy-to-disk operations. For Windows 98 users (95 isn't supported), the installation instructions appear complete, but they're certainly more involved than those for a Mac.
+
+The four alkaline AA batteries supplied with the unit lasted for about 15 photos; I haven't yet found out how long the (optional) rechargeable Ni-Hy batteries will last.
+
+Overall, I enjoy the camera and the easy software installation.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

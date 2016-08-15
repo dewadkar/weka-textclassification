@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 36198 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Ford_Focus </PRODUCT>
+<URL> http://www.epinions.com/auto-review-301C-38119B3-3980A63F-prod3 </URL>
+<TEXT>
+            When looking for a new car, I test drove the Ford Focus. The car has some neat features such as the removable back seat and adjustable steering wheel and seats. It is very roomy too. I am not too keen on the 3 door or the wagon models, but the sportier sedan is a descent looking car. As far as handling goes, this car rides very smoothly and comfortably. Basically, this is a well built fun car with a reasonable price tag. I found out from the dealer that, although the marketing is aimed at the college aged crowd, most of the buyers are not in this target market.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

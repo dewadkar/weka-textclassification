@@ -1,0 +1,25 @@
+DOC>
+<DOCID> 6214 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2003_Mazda_Mazdaspeed_Protege </PRODUCT>
+<URL> http://www.epinions.com/content_110700826244 </URL>
+<TEXT>
+            I've had this car for two weeks, and have put over 1000 miles on it. Here are my impressions:
+
+This car is fairly quick. There's plenty of low-end torque for day-to-day driving, and plenty of power for the highway. Clutch is easy to learn and is extremely light, so it's not too hard on your leg stuck in traffic. But compared to its competitors, it lacks some power. For instance, 0-60 time for the Mazdaspeed is just under 7 seconds, while the Neon SRT-4 is in the mid-5 second range.
+
+But this car makes up for its straight-line deficiencies in the twisties. The Mazdaspeed Protege is an amazingly good handling car that can take almost anything you throw at it. It's hard to believe that this car is front-wheel drive; it has an almost perfectly neutral feel to it, with minimal understeer. The suspension lets in the perfect amount of feedback from the road, but the ride is still comfortable. Steering is lightning-quick, and laser-precise. The handling alone is the main reason I bought this car.
+
+Stereo is excellent, it's a Kenwood 7-speaker system, with 200 watts going to 6 speakers, and 250 watts going to an 8" sub in the trunk attached to the rear deck. The head unit plays MP3-encoded CD-R/RW's.
+
+Things I would change:
+The stock intake and exhaust are a joke. It uses a stock-style airbox that's restrictive. And the exhaust is even worse. It's 2.25", but has two catalytic converters, as well as a horrible S-bend in the downpipe from the turbo. There's no cruise control, and only one intermittent wiper setting. An optional sunroof would have been a nice touch. The car also runs way too rich, causing some hesitation in some gears at certain RPMs. But don't let this turn you away from the car, Mazda has just finished testing a new prototype ECU that fixes this problem. It should be available through Mazda dealers as a TSB sometime in September. There is an aftermarket fuel pressure regulator that sells for $25 that offers a quick fix to the problem until the ECU flash is available.
+
+This car is easily modified. There are several intake and full exhaust systems already available. Plus the boost is low from the factory (under 7psi), and the engine can handle up to 12 psi on pump gas with stock internals.
+
+Overall, I'm extremely happy with my purchase.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

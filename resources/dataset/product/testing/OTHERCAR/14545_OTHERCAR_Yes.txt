@@ -1,0 +1,48 @@
+DOC>
+<DOCID> 14545 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Digital-Accessories-All-Aiptek_PocketDV2_PocketCam_DV_2 </PRODUCT>
+<URL> http://www.epinions.com/content_97573179012 </URL>
+<TEXT>
+            ------<i>Overview</i>------
+
+Aiptek is a relatively new company specializing in ultra portable digital devices. The Pocket DV2 is one of their latest and greatest products to date, and has spawned an entirely new market segment for digital video cameras. Bigger name brands better take note.
+ 
+------<i>Performance</i>------
+
+<b>Photos:</b> As a tiny digital camera, the photo quality is surprisingly good. It offers true 1.3 megapixel resolution and quality comes very close to my 1.3mb Olympus D-360L. However, picture quality is highly sensitive to lighting conditions. Since there's no flash feature (or zoom), any conditions dimmer than a cloudy afternoon or the inside a well-lit store will start to degrade performance fast. Another annoyance is if there's too much sunlight in the foreground, colors will look washed out or other undesirable effects will happen. It gives you the choice of three resoloutions: VGA/1.3mb/2.0mb afterwhich you choose between "normal" or "high" quality. The default setting of 1.3mb along with "high" quality works best. The 2mb mode just stretches the 1.3mb setting to make it larger, not clearer. The lower quality settings of VGA and "Normal" allow a lot more pictures to be stored in the camera's 16mb of memory storage. After you hit the button, you'll have to wait about 3 seconds (2.5 on the lowest setting) before taking another picture. One nice feature they included is a self-timer that will shoot a picture after a 10 seconds countdown. *Camera does not remember the time/date you took pictures* 
+
+<b>Video:</b> The feature that makes this little thing a true wonder is it's digital video ability. It offers one resolution of 320x240 at 10 frames per second in AVI format. Yes, compared to any normal-size camcorder (analog or digital) you will get pathetic-looking video with the DV2! That's the one compromise you'll have to live with. The good part though is that the files are small enough to share over the internet. After hitting the "VIDEO" button you sometimes must wait 3 seconds for the video sensor to adjust to lighting conditions and focus properly. Once again, don't expect to get good results when the sun goes down or in a dim room. Because it's so small and only records 10 frames-per-second, it is very sensitive to movement too. If you have shaky hands or record while walking around, you'll probably become dizzy after viewing the recording. Overall, the video is OK for basic use. Sound quality is poor. Sounds (especially voices) are hard to understand if over a few feet away. It picks up more sounds coming from me holding it than anything else. *The DV2 softly beeps whenever you turn it on/off, take pictures/videos or adjust settings and beeping cannot be disabled*
+
+<b>Webcam and Voice Recorder:</b> I've never used the webcam, but the software says it will broadcast at 640x480 VGA at 10fps and 320x240 at 24FPS. They packaged the DV2 with a slick looking tripod that works well. The voice recorder performs no better than the sound from recording a video (32kbps at 8khz). It will play back loudly with no way of turning the volume down, or you can upload it as a .wav file to your computer.
+
+------<i>Samples</i>--------
+
+<b>See for yourself!</b> Check out the following links to check out some real-life pictures and videos taken with the DV2. The first link has samples I took myself. The second link has many pictures and videos from other users.
+ 
+http://home.attbi.com/~b_q/dv2samples 
+
+http://www.firebox.com/index.html?dir=firebox&action=product&pid=437
+
+------<i>Other</i>------
+
+<b>Size and Durability:</b> The DV2 is very light and is less than the size of my palm! Just lightly grip it with your fingers and your ready to go. It easily fits inside a pocket, but it's abnormal shape may feel awkward for some. 
+
+It's basically all plastic and for it's size I want to say it can break easily but it doesn't. I've kept it in my pocket almost daily for the last 2 months and there are only minor cosmetic scratches to the surface. However, the buttons on the DV2 feel cheap and wobbly. I fear if I push down too hard or at a wrong angle they could eventually break off. It also doesn't come with a protective case to keep dust off the lense and enhance longevity. You have to buy one from Aiptek's website or make your own. New DV2's come with a 1-year warranty, refurbished come with 30 days.
+
+<b>LCD Screen:</b> The 1.4" LCD is somewhat useful as a viewfinder but the backlighting is pathetic and makes things hard to see. I've practiced enough to be able to shoot video and pictures without it. Your forced to flip through the LCD menu using a scroll button to select any options including: Picture/video playback, resolution settings, TV-out, battery life indicator, CompactFlash card formating. 
+
+<b>Battery Life/Storage:</b> Aiptek gives the estimate of only 30 minutes of battery life with constant video recording (2 AA's). I think this is an optimistic estimate after getting a low-battery symbol after just 4 days of normal use with generic batteries. The camera annoyingly turns off after 1 minute of inactivity whether you like it or not. It's highly recommended to use rechargeable batteries (1800+ mah) in the DV2. Buying a rechargeable battery kit for $40 I've gone over 3 weeks with normal to heavy use before needing to recharge. 
+
+The 16mb of built in storage is only good enough to hold about 1min 50sec of video or 12 high quality pictures (24 in normal mode) at 1.3megapixels. If the batteries are taken out or die, all memory will be erased. So if you use the camera a lot, it's almost a necessity to buy a CompactFlash card for extra storage (there's a slot in the back of the camera for one). I bought a 128mb CF card for $35 and can hold an hour of video. You won't lose your recordings when the batteries die if saved to a CF card.
+   
+<b>Software/Connectivity:</b> Comes with a big software bundle, including the useful ULead Photoexpress. I take a lot of pictures that end up being too dark with this camera so having some photo editing software is helpful to brighten the picture. VideoLive Mail compresses video files and makes your videos smaller and easier to email. 
+
+The camera connects quickly to your computer with the supplied USB cord (compatibility with Macintosh is very limited). Just connect the USB to your computer and a windows folder pops up with all your recordings. Its very easy to share your recordings with friends and family. It also has TV out connections if you want to see video on a bigger screen.
+
+<b>Final Thoughts</b> I'm very impressed with what I got for well under $100. It looks a lot more expensive than it really is. There's the hidden costs of upgrading storage and battery-life but the DV2 still turns out to be a heck of a deal. It <i>cannot</i> replace your regular camera for capturing important memories but will be ready for everything else. I was recently involved in an accident not too long ago and was able to document the crash site for future reference with pictures and video. This little DV2 has become a valuable backup camera I can take everywhere for those unexpected times.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

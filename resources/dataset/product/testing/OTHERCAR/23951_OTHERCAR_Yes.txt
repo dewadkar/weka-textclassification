@@ -1,0 +1,38 @@
+DOC>
+<DOCID> 23951 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Nikon_Coolpix_3100 </PRODUCT>
+<URL> http://www.epinions.com/content_95618633348 </URL>
+<TEXT>
+            After seeing Best Buy's 12 months 0% interest on Digital Cameras over $299 this week, I decided now would be a good time to upgrade from my current 1.3 megapixel Olympus D-460 camera.
+
+My initial visit to Best Buy was to see which digital cameras were available through Best Buy.  I went there with several requirements:
+1. The camera must have a 3 megapixel CCD or higher
+2. The camera must have a 3x Optical zoom or higher
+3. I needed something that could take good macro shots for capturing the fine details of small objects
+4. I wanted to spend under $400.
+
+Although the size of the camera was not an important factor, my eyes quickly spotted out the new Nikon line.  Nikon has had a good reputation for manufacturing quality SLR cameras and lenses for the professional to amateur photographers for a long time.
+
+There were three models at Best Buy in this new Nikon series:  2100 (2MP), 3100 (3.2MP), and 4300 (4MP).  Physically, the 2100 and 3100 looked identical whereas the 4300 was slightly bulkier.  However, the 3100 seemed to have everything I was looking for: price, zoom, CCD, and most importantly, its amazing Macro function.
+
+So before I made my purchase, I went home and researched the 3100 camera and read some good stuff about it.  After charging $492 to my Best Buy card ($349.99 camera, $59.99 4 year performance guarantee, and $49.99 128MB CF card   tax), I took it home and learned all the functions of this camera.
+
+After learning the functions of the camera (and snapping away some test shots), I decided to take an up-close picture of my watch.  I've tried to take this same up-close picture on my older Olympus camera and it never came out very clear (well, not to my satisfaction, anyways).  Using one of the 14 scene modes, I put the camera into macro scene mode.  One of the interesting things about this camera is that in macro mode, the autofocus is continuous (similar to a camcorder).  In other words, as you move the camera further or closer to your object, it will try to focus on the object on the fly (without you having to push the shutter half-way).  Additionally, I was taking this picture at night with a standard Philips 100 watt bulb mounted on a torche-style lamp.  If you're familiar with lighting, you'll know that this type of incandescent lighting is not good for taking pictures as it produces a yellowish quality.  Surprisingly though, with the flash turned off, the image was flawless!  I had the camera less than 2" away from the watch (with my olympus, i could not get closer than 8" from the object) and it was still able to properly auto focus on the watch.
+
+The macro mode is only one of 14 possible scene/assist modes this camera offers to automatically optimize image settings.  There are settings for indoors, beach/snow, backlight, dusk/dawn, sunrise, night landscape, museum, fireworks show, even a copy mode -- which allows you to use it to capture a document (e.g. newspaper, pages within books, printed material, etc.) into the camera if you lack an actual scanner.  The reason I focused so much in talking about the macro mode is because most digital cameras out there do not take clear indoor macro shots under artificial lighting (i've tried olympus, canon, and sony with mediocre results).  Of course, if you are a little more advanced in your photography skills, there is a manual mode where you can adjust the various settings on this camera such as white balance, exposure control, etc.
+
+The zoom lens on this camera is a 3x Optical (35mm equivalence of 38-115mm) -- which is minimally what you'd want to get if you're looking for an all-purpose digital camera.  The Coolpix 3100 also incorporates a 4x Digital Zoom (to total your zooming power to 12x) although I never use digital zooming.  Digital Zoom is merely software interpolation.  Basically, what it's doing is taking the center portion of the frame, removing the rest, and then increasing the size.  This of course, is taking one pixel and interpolating it into 4 pixels (at the full 4x digital zoom) -- resulting in an image which will be grainier and not crisp.
+
+The CoolPix 3100 is a small, very compact camera (although not as small as 2 or 3 other digital camera models -- however, those smaller don't have as much to offer as the 3100) measuring 3.44"w x 2.56"h x 1.5"d.  However, albeit it's small size, this camera is very easy to position in your hand thanks to its ergonomic design.  Images can be viewed on the built in 1.5" active matrix LCD screen, downloaded to your computer via the included USB cable, or displayed on your TV (3100 can display on both NTSC and PAL standards -- good for international travelers) via the included video cable (your TV must have a composite video input jack).  A time/date stamp feature will help you identify when an image was taken but can be turned on or off.  Images are stored on a CompactFlash (CF) card.  A 16MB card is supplied to get you started but you'll definitely want to buy a higher capacity card as you'll only be able to store 10 images in the highest resolution with the included card (more information on this below).  Power is supplied to the 3100 through either 2 AA batteries, a CRV3 lithium battery (included), or an optional AC adapter.  I would highly recommend investing in some rechargeable NiMH AA batteries (try to find some rated at 1600mAH or higher) as digital cameras really drain batteries fast when you use the LCD screen.  The Nikon 3100, in particular, seems to suck the life out of batteries faster than some other digital cameras I have used.
+
+With it's 3.2 megapixel CCD (effective pixels), the 3100 will capture your memories at a 2048 x 1536 resolution -- perfect for printing out an 8" x 10" photo without quality distortion.  The 2048 x 1536 resolution can be captured in one of two quality modes, normal and fine.  Fine mode compresses the image file half (1:4 compression) of normal mode (1:8 compression) at the cost of roughly twice the storage space.  The other resolution settings supported are 1600 x 1200, 1024 x 768, and 640 x 480 -- all of which have only a normal quality mode option that uses a 1:8 compression ratio.  There is a parallel trade-off when it comes to image size versus storage space -- the higher the resolution, the more the storage space required.  For each 16MB of memory space available, you can take 10 images at the high quality setting of the 2048 x 1536 resolution.  So a 128MB card (most common size available and best value when comparing price per MB, at time of this writing) will be able to store about 80 images at this highest resolution setting.  The normal quality setting at 2048 x 1536 will store 19-20 images per 16MB; 1600 x 1200 produces 31 per 16MB; 1024 x 768 gives you 69 for every 16MB; and 640 x 480 does 144 per 16MB.
+
+With such a large selection of digital cameras to choose from these days, choosing the right digital camera can be an overwhelming process.  The Nikon Coolpix 3100 is the one I'd highly recommend for exceptional picture quality, features, and ease of use if your budget is in the $300 - $400 range.
+
+If you found this review useful, please rate this review or leave your comments.  Thanks!
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

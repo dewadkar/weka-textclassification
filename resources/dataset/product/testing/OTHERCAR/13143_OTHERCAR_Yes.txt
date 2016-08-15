@@ -1,0 +1,89 @@
+DOC>
+<DOCID> 13143 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_C_5050_Zoom_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_128843353732 </URL>
+<TEXT>
+            This review covers the use of the Olympus Camedia C5050 camera and the Olympus PT-015 underwater housing in an Underwater environment only. 
+
+This camera and housing combination is as good as it gets. See http://www.chimmy.com/Bali for example images.
+
+I already had a decent digital camera, but it did not have an underwater housing, or at least one that I trusted. For the kind of diving I do, a water-tight ziplock would not suffice. My first impulse was to buy a very different camera than my current, too-big-to-fit-in-a-pocket camera. To that end I chose the <a href="/content_97330040452">Canon PowerShot Digital Elph S400</a> since it was the smallest camera that had an underwater housing. I was willing to live with minimal to nonexistent options and manual settings in the name of size; but one setting I could not abide by was the difficulty in controlling the flash output.
+
+<a href="/content_97330040452">You can read my review of the S400 here.</a>
+
+Everything else about the S400 impressed me, especially the picture quality, so my next purchase was also a Canon brand. I bought the <a href="/content_98327039620">Canon PowerShot S50</a>. While it did have more than adequate control and manual settings, it's overall quality, especially picture quality, was lacking. It also became apparent that when this camera was in it's underwater housing (Canon WP-DC300) accessing many of the frequently used controls and settings became almost impossible.
+
+<a href="/content_98327039620">You can read my review of the S50 here.</a>
+
+I was somewhat piqued at Canon for the lack of quality for the S50, so my next, and last, purchase was an Olympus Camedia C5050 Zoom and Olympus PT-015 housing. For the underwater photographer, I cannot recommend this camera highly enough.
+
+
+
+<b>Special consideration for underwater camera use (short version):</b>
+
+<b>Colors at depth: </b>
+The deeper underwater one goes, the more the longer wavelength colors are filtered out. First red is lost, then orange, then yellow, until all you're left with is blue. To compensate for the loss of color most photo situations require their own light source. 
+
+<b>Position of light source: </b>
+If the flash it too close to the lens (not the subject) underwater, the light from the flash will illuminate the particulate matter that is suspended in the water. This is called "backscatter." For this reason, most underwater cameras have a light source, normally a strobe (flash) that is positioned somewhat away from the lens. Synchronizing the external strobe with the camera's shutter, in the case of most digital cameras where the camera is encased in a thick plastic housing, requires that the external strobe is triggered by a light sensor which watches the cameras built-in or internal strobe. Because the camera's internal strobe will cause backscatter it is usually blacked out with fabric except for where the external strobe's sensor attaches. This is not an optimal system, but with the C5050, it is a workable solution.
+
+The C5050 has exceptional control over the flash, including allowing the user to manually set the strobe to -2 stops power. Such a low powered flash does not cause internal reflections within the housing and does not drain the battery. This overcomes all the problems encountered with the <a href="/content_97330040452">Canon S400</a> flash. This is the biggest reason I switched from an S400 to the S50. Other flash features include adjustable slow sync and early and late strobe triggering (first, opening, shutter and second, closing, shutter).
+
+<b>Resolution and sharpness:</b>
+As usual, the first thing I did with the new toy was run an optical resolution test. The Canon S400 (4 megapixel) had a respectable 1200 dpi. The Canon S50 (5 megapixel) had a disappointing 1050 dpi. The Olympus C5050 (also 5 megapixel) had a respectable 1350 dpi.
+
+<b>Lens:</b>
+35mm film equivalent: 35 to 105mm (f/1.8 at 35mm to f/3.5 at 105mm)
+
+Underwater, the ideal lens is 24 to 28mm. Having the minimal zoom at 35 mm means you will need to get farther back from your subject to get the whole thing in the frame. Since you're farther back, you'll need a more powerful flash and there will be more water and particulate matter to illuminate. But almost every digital camera has a 35mm or worse minimum focal length, so mute point (the newer Olympus C5060 being an exception). The minimum focus range in super macro is 1 inch; much more than adequate for most underwater macro work. At about 3 inches, you can no longer position the strobe to evenly light the subject, but if you've got enough ambient light, you can take pictures of Anemone shrimp the size of a grain of sand.
+
+At f/1.8, the lens is outstandingly fast. This speeds up focusing in lower light conditions as well as allowing you to use less flash power. However, I find myself shooting at f/8 most of the time to help compensate for the camera frequently focusing on things other than the subject. I have a comparatively weak strobe (GN of 20 @ 10') but it's more than enough. I normally shoot at -4 to -5 stops strobe power. If I could improve the C5050, it would be a smaller f/stop.
+
+<b>LCD view screen:</b>
+The LCD is a big 1.8 inches.  Underwater, you cannot use the viewfinder as it's embedded in a plastic housing and you're wearing a mask. All you've got is the LCD; so the bigger the better. The LCD display doesn't quite cover the entire resulting image. The resulting image is about 3 to 5% larger than what is seen in the LCD. This is a minor problem as it effectively reduces you real pixel resolution by 3 to 5%. The viewfinder is slightly out of alignment and proportion with the finished product; as would be expected with parallax-prone viewfinders. The settings information is somewhat clearly displayed on the LCD.
+
+<b>Size & Weight:</b>
+The C5050 is no lightweight. It weights in at 13.4 oz. (without batteries) and measures 4.5 x 3.0 x 2.7 in. (a pretty big 36.45 cu. in total.) It is four and a half times the size and over 200% heavier than the S400. The PT-015 housing is only a bit bigger than the WP-DC800.
+
+<b>Housing:</b>
+The PT-015 housing was specifically made for the C5050 and fits tightly. All the features are available and accessible. The only element that is not a direct analog to the unhoused camera are the zoom lever and the adjustment dial. Because both functions are directly geared, you will need to get used to their "normal" behavior being reversed. For example, if you want to zoom out, when the camera is in the housing, you will need to push the zoom lever in towards the lens, rather than out as it would be outside the housing.
+
+<b>Auto focus: </b>
+The C5050 is not a particularly speedy focus, and there is a noticeable lag between pressing the shutter release and it taking the picture. Keeping the camera set on manual focus and f/8.0 will significantly speed things up, but when you're shooting macro, that doesn't work. Setting the camera to macro and super macro slows the camera even more. Overall, I would rate the lag to be a little better than average for the digital cameras I have tried.
+
+<b>Manual Adjustments:</b>
+Almost everything in the camera is easy to adjust manually. There is a "My Mode" with allows you to pre-set a specific setting array. I can never remember how to set it up or activate it, but it's there if you want to geek out. There's a setting somewhere deep in some menu that tells the camera to always return to default settings upon shutting off. This setting drove me nuts until I figured out how to turn it off (it's turned on in Factory Default.) 
+
+<b>Movie mode:</b>
+The camera can record 320 x 240 movies as long as you have space on your memory card. Most other cameras are limited to around 1 to 3 minutes. Neat for the shallows or shooting kids cannonball, but would require a video light to be useful underwater.
+
+<b>Memory cards:</b>
+One really great thing about the C5050 is that it can accept xD-Picture cards (highly recommended), SmartMedia cards, CompactFlash (type I or II) as well as IBM microdrives. You can put a 512 MB xD card as well as a 1 GB CompactFlash card in at the same time. You can copy files between the cards even in the housing. This generally means you can go for a week or more shooting prolifically without needing to offload or click through page after page of older images to see the newest stuff. The xD cards are a lot faster than SmartMedia and somewhat faster than CompactFlash, so I use the xD for shooting and the CompactFlash for storage.
+
+<b>Batteries</b>
+A very important feature the C5050 has over most other digital cameras is that it uses regular NiMH AA batteries. In a pinch, you can even use AA alkaloids (though they wont last more than a few shots). The new Olympus C5060, as well as the Canon S400 and the Canon S50 use a proprietary battery that is only available online or at a well-stocked camera store. If you're on an island with a population of 500 and you need a replacement battery, good luck. On live-aboards; where I'm diving five times a day, I carry seven sets of 4 AA batteries as well as two quick chargers. This would be prohibitively expensive to set up with proprietary batteries.
+
+<b>Power:</b>
+The C5050 does not have the facility for in-camera charging. There is an AC adapter available (a standard plug) but it will only power the camera. The Olympus batteries that ship with the C5050 are 1800 milliamp/hour and are good for about 35 to 45 shots with LCD and in-camera strobe depending on usage. That's typically one dive for me. MAHA energy makes a 2200 milliamp/hour batteries as well as quick chargers that are good for about 55 to 65 shots with LCD and in-camera strobe. The MAHA's allow me to go for two dives without opening the housing.
+
+<b>Other notes:</b>
+The LCD can be flipped out and angled either up or down so you can use the camera like an old Rolliflex (belly-button perspective) or overhead (with the camera held upsidedown.) The housing, however, pushed the LCD back into it's home position.
+
+There is a hot shoe and the camera can be set to fire external TTL-metered strobe only, but you would need an Ikelite or other housing than the PT-015 to allow this.
+
+The sensor switch that tells the camera that the card cover is open has a history of malfunction. When the switch malfunctions, the camera refuses to take a picture. However, this is an in-warrenty repair (in my case.) So be careful when changing media and don't "snap" the media door closed.
+
+<b>Conclusion:</b>
+To date, this is, in my opinion, the best digital camera for advanced amateur underwater use.
+
+<i>
+* The test was preformed on a calibrated copy stand shooting a planar image-set 4800 dpi resolution test page. Measurements where made with both line and checker test patterns. 
+
+For the purpose of this review, the term, "resolution" and "sharpness" mean, "indicator of spatial resolution" or "the ability to delineate lines or dots" not accutance, i.e the ability to resolve gray levels.
+</i>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

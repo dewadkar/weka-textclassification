@@ -1,0 +1,42 @@
+DOC>
+<DOCID> 30134 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1995_Saab_900 </PRODUCT>
+<URL> http://www.epinions.com/content_24572825220 </URL>
+<TEXT>
+            I bought this car because its a hatchback, because of its European handling, reputation for safety and because it was a good highway cruiser.  
+
+It is a comfortable car, with reasonable handling (compared to a VW Scirocco) and with a wonderful trunk/hatch that swallows huge home projects, recyclables, outlet mall shopping trips, etc.  At 24 cubic feet, its trunk is actually larger than many SUV's (and its 48ft^3 when you lay down the back seats).
+
+That's the good stuff.
+
+The downside is that it has simply had too many petty mechanical failures.  I say "petty" because most of them are ultimately tracked back to shoddy engineering and corners being cut in production and design.
+
+I'm not even including a defective battery, three broken sun visors, a broken headlight switch, two mufflers, poor fit/finish, a defective radio/control panel, etc.  Relatively speaking, these are relegated to minor nuisance items..."small stuff", even though they run a couple of hundred bucks a pop.
+
+Philisophically, I expect any car these days to be able to run to 100K miles with a minimal number of unexpected repairs.  If I have one major problem, that's part of the statistical luck of the draw and that's acceptable.  I honestly expect to need replace an old battery, do brakes, an exhaust system, etc.  What gets me riled up is when there's "big problems" again and again, particularly if they're for the same problem.  
+
+For example, I learned early on that Saabs are notorious for eating mufflers.  I've had both my middle & rear replaced before the car was 3 years old.  They're getting due again; it won't be cheap.  While I don't particularly appreciate this, I can live with it, if this was the only problem with the car.
+
+But the Saab 900S has two other major design flaws that I've become acutely aware of.  Between them, over $5,000 has been spent repairing them on this car just these items, and the sum of it all is that it is simply "too much" to tolerate.
+
+The first flaw is the manual transmission.  The clutch system has been redesigned a couple of times.  The primary problem appears to be a problemmatic clutch throwout bearing, which apparently corrodes and siezes.  The most common symptom is a broken clutch cable.  I experienced this failure in its catastrophic failure mode at 36K miles.  And at 47K miles, it began to recur and it was also replaced (with design #3 that I'm aware of).  Clutch repairs at the dealership will run around $1K each and are not covered by the Standard Warranty:  read the fine print ("wear items" only covered for 1 year).  While I agree with excluding ablative parts, to use this excuse to cover a bearing/bushing design failure is simply wrong.  Keep in mind that this is not the clutch plate which is a wear item whose life is determined by driver habits.  
+
+Any preventative measures?  Nothing really that the owner/operator can do, except to pay attention to the feel of the clutch ("sticking") and upon having a problem, to lean very heavily on Saab's customer 800# to pay for at least part of the repair.  
+
+The other major flaw is in the engine's lubrication.  A loss of lubrication to the timing chains & counter-rotating balance shafts on the right side can occur and this will cause some "metallic" noise and will be a $2.5-3K repair, depending on how soon you catch it (if you don't catch it, double this number).  Note: you will *NOT* get a "oil pressure" warning light.  This was my surprise at my 45K mile checkup.
+
+Preventative measures are to not follow the 10K oil service interval in the owner's manual:  run ~5K (7K max); to use a high quality synthetic oil and finally, to use a better-than-OEM quality oil filter (compare respective diameters!) and reduce the odds of this problem from occurring.  Note also that the automatic display in the dashboard that's supposed to remind you for oil service is highly prone to failure and cannot be trusted.
+
+
+All in all, I would love to keep this car, or buy another one just like it.  But I have to have reliable transportation and I have to have local service that I can trust.  In checking with independent garages, it turns out that both of these problems are significantly more common that Saab and its dealerships will let on.
+
+
+Finally, I should mention that Saab Customer Service did reduce my out-of-pocket costs for my repairs.  But this compensation was because I initiated the request and I was very firm.  I do not feel that I can freely give them all that much credit because the entire experience was like "pulling teeth".  
+
+
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

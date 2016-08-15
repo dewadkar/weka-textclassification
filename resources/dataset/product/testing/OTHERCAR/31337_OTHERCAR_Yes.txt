@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 31337 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1994_Chrysler_LHS </PRODUCT>
+<URL> http://www.epinions.com/content_40603913860 </URL>
+<TEXT>
+            My car now has 155,000 miles on it.  I always change the oil and have it maintained regularly.  I don't beat this car to death.  Other people seem to have problems however I have had few, mostly items I would expect.  The battery needed replacing twice, tires three times, brakes four times, changed timing belt and other belts.  These are normal for wear and tear.  It has never left me stranded anywhere.  I would drive it cross country today.  Air conditioning went out at 80k miles.  Other than that it has been a great car.  My wife owned a 1996 Intrepid with 25K miles and I got a company vehicle.  We decided to sell the Intrepid and kept the LHS for the wife.  She loves it.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

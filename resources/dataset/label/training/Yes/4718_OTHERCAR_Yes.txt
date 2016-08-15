@@ -1,0 +1,266 @@
+DOC>
+<DOCID> 4718 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Canon_PowerShot_A80_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_114912956036 </URL>
+<TEXT>
+            For the past few years Canon's entry level &#147A&#148 series digital cameras have been one of the best choices for consumers because of their incredible durability, creative capabilities, ease of use, and bargain prices.  Canon&#146s exciting new A80 further enhances that winning tradition by stuffing many of the advanced features and prosumer capabilities, first seen on Canon&#146s very popular &#147G&#148 and &#147S&#148 series models, into the &#147A&#148 family&#146s compact &#147plain Jane&#148 body. 
+
+This innovative approach to product development reminds me of what happened forty years ago when Pontiac built the first performance car for the masses and changed the way Detroit marketed automobiles by dropping a 6.5 litre tri-power V-8 and a &#147Muncie&#148 four-speed gearbox into a compact &#147plain Jane&#148 Tempest body ---giving birth to the GTO, one of the most popular marques of the muscle car era. 
+
+Like the GTO, the A80 combines innovative engineering and  creative use of proven components to create a new product designed to meet the needs of a broad spectrum of users.  The snazzy little A80 is likely to redefine competitive parameters and force rival manufacturers to adapt to new marketplace realities and introduce similar products. Last year it would have cost about seven hundred dollars to buy a digital camera equivalent to the A80, thanks to competition,  the tab for the A80 is only four hundred bucks. 
+
+<b>How do they compare----Powershot A70 vs Powershot A80</b>
+
+Canon&#146s very popular three megapixel A70 provides the base for the new A80. Should consumers choose the A80 over the A70? The PowerShot A80 provides a twenty five per cent increase in resolution (four megapixels).  The A70 features a fixed 1.5&#148 LCD screen, but the A80 sports a newly designed camcorder style tilt-swivel LCD screen.  The A80&#146s 3X zoom has just a tiny bit more reach than the A70&#146s.  The A80 sells for about $100 more than the A70. 
+ 
+<i>FEATURES</i>
+
+<b>DIGIC Image Processor</b> 
+
+Canon&#146s DIGIC Processor (Digital Imaging Integrated Circuit) was developed for the groundbreaking Canon G3 and enhances auto focusing accuracy and increases processing speed while utilizing complex proprietary imaging algorithms to produce images that are optimized for sharp resolution, excellent contrast, low noise, and accurate color. 
+
+<b>9 AF Point AiAF</b> 
+
+In all automatic exposure modes the A80 defaults to a 9 focus point AiAF (Advanced intelligent Auto Focus) system that covers a much larger part of the image area. Nine focus points makes it quicker for the A80&#146s auto focus system to determine and lock focus on the primary target (closest subject priority), even if it is not centered in the viewfinder. 
+ 
+<b>iSAPS</b>
+
+Canon&#146s exclusive iSAPS (Intelligent Scene Analysis based on Photographic Space) technology produces consistently exceptional exposures in all scene modes. The camera instantly matches the scene in front of the camera with an on board database of known scene types and then compares that information with the specific scene&#146s subject distance, white balance, contrast range, lighting, and color (just before the image is recorded) to determine the correct exposure. The ISAPS system works hand in hand with Canon&#146s DIGIC chip and AiAF auto focus system to quickly create consistently exceptional images. 
+
+<i>Histogram</i>
+
+The A80 provides an LCD display that shows a graphic representation of the image allowing users to spot under/over exposure and fine tune settings for more precise creative control. 
+
+<i>NUTS & BOLTS</i> 
+
+<b>Viewfinder/LCD</b> 
+
+The A80&#146s Galilean (tunnel style) real image zooming optical viewfinder is bright and color correct.  There is no diopter correction for eyeglasses wearers.  The optical viewfinder (typically) only shows about eighty per cent of the image area. 
+
+The A80&#146s most striking new feature is its&#146 camcorder style flip out tilt-swivel (180 degrees horizontal and 270 degrees vertical) 1.5&#148 LCD screen.  Many digital camera buyers worry about scratching the delicate surface of the LCD screen, but this won&#146t be a concern with the A80 because the LCD opens like a book when in use and then folds securely back into the camera  when not in use.  LCD images are bright, color accurate, and fluid.
+
+<b>Lens</b>
+
+Canon&#146s optical engineers had to redesign the A80&#146s 3X zoom so that it could still be retracted fully despite the shallower body depth caused by the new tilt-swivel LCD screen (which is nested into the camera body when not in use).  The &#147compressed&#148 rear focus f2.8-f4.9/38-114mm (35mm equivalent) all glass zoom actually has a bit more reach than the &#147A&#148 family zoom used on the A40, A60,  and A70.  Canon&#146s optical engineers added two aspherical elements to insure crisp images with sharp corners.  The new lens does an exceptional job, it actually seems a bit sharper than the excellent lens featured on earlier &#147A&#148 family digicams.  
+
+When the A80 is powered up the lens extends automatically and when the camera is powered down the 3X zoom is fully retracted into the camera and a built in lens cover closes to protect it. The A80&#146s zoom is relatively fast (it travels from wide angle to telephoto in less than two seconds) and operates smoothly (and fairly quietly). 
+
+The 3X zoom displayed some very minor softness in the corners of the frame, especially at f2.8 and there is some minor barrel distortion at the 38mm end of the zoom range, but virtually no pincushion distortion at the telephoto end.   Noise in longer exposures is well controlled, even at the ISO 400 setting. 
+
+<b>Auto Focus</b> 
+
+The A80&#146s 9 focus point TTL AiAF Auto Focus system covers a much larger portion of the image area than the AF systems featured on earlier &#147A&#148 series cameras. The AiAF system analyzes the scene in front of the camera and accurately calculates camera to subject distance to determine which AF point is closest to the primary subject and then automatically locks focus on that AF point even when the subject is not centered in the viewfinder.  User&#146s can allow the AiAF system to automatically select the focus point, or select a specific AF point, or  turn off AiAF (via the A80&#146s menu) and default to the center focus point for portraits or traditional landscapes. In low light the focus assist beam helps to illuminate the subject for more accurate focusing. The A80's autofocus is fast and precise, with well above average performance, in virtually all lighting. 
+
+<b>Manual Focus</b> 
+
+The A80&#146s manual focus system is a bit cumbersome, but it does provide users a bit more control and creative input.  All P&S digital camera MF systems (with the exception of the Sony DSC F717) work differently (distance scale focusing) than SLR MF systems.
+
+<b>Macro Focus</b>
+
+The A80&#146s macro performance is very good with excellent close-up resolution (minimum focusing distance in macro mode is 2 inches) and fairly even flash coverage.
+
+<b>Flash</b> 
+
+The A80&#146s built in multi mode flash offers a fairly standard selection of flash options including; Auto (fires when the camera believes it&#146s needed), On (fill flash mode), Red-Eye Reduction, Slow-synch (in Night Scene Mode), and off (no flash). Canon claims the maximum flash range is about 15 feet and this seems to be a fairly accurate (at the high output setting). The A80 also provides (limited) flash compensation via the flash output setting (low, medium, or high). Overall, the A80&#146s built-in flash does a better job than most built-in point and shoot flash units. The A80 has no hot shoe and does not support the use of external flash units.
+
+<b>Image Storage Media</b>
+
+CompactFlash (CF) Type I
+
+<b>Connectivity</b> 
+
+USB 1.1 and A/V out
+
+<b>Power</b>
+
+The A80 draws its&#146 juice from four AA batteries. Canon&#146s design engineers have improved power management to the point that even Alkaline AA&#146s from the supermarket will power the camera (according to Canon) for up to 250 (continuous LCD and occasional flash use) exposures. NiMH re-chargeables will power the A80 through up to 350 (continuous LCD and occasional flash use) exposures. My friend and I used 4 Duracell Alkaline AA&#146s to keep the A80 running through two full days of demanding (continuous LCD, heavy fill flash, and regular image review) use. 
+
+<i>EXPOSURE</i>
+
+<b>Auto Modes</b>
+
+The A80 has a remarkably simple and highly sophisticated auto exposure system  that efficiently places image capture, basic camera operation, auto white balance, image compression, the AF system, gain control, power management, and most other important camera functions under the control of the powerful high speed  DIGIC processor.  
+
+The A80 provides a wide range of exposure options for a mid priced digicam, including Auto (Point and Shoot mode), Program (Auto exposure with user input), Scene mode (Auto exposure optimized for specific types of images), Aperture priority (users select the lens aperture and the camera chooses the best corresponding shutter speed), Shutter priority (users select the shutter speed and the camera chooses the best corresponding lens aperture), Manual mode (users select both lens aperture and shutter speed), Movie mode, and Stitch Assist mode. 
+ 
+<b>Manual Mode</b> 
+
+Unlike most entry-level digital cameras, the A80 provides a full range of manual controls. Users can set shutter speed, lens aperture, ISO sensitivity, bias exposure (exposure compensation), manually adjust color saturation, contrast, and sharpening, and manually fine tune white balance. 
+
+<b>Movie Mode</b>
+
+One of the few areas where the A80 fails to measure up to the A70 is the movie mode.  The A70 has a very impressive movie mode for an entry level digicam, allowing users to record video clips for up to 30 seconds at 640x380 @ 15 frames per second.
+
+The A80&#146s video mode allows only 320X240 maximum resolution clips of up to 30 seconds @ 15 frames per second and up to 3 minute clips at 160x120.  If the video function is a very important consideration, the A70 may be a better choice.
+
+Both cameras record video clips with (mono) audio and the Photo Effects mode can be used with the video feature.
+
+The A80 also provides a voice-notation mode so users can add audio notes to their still pictures.
+
+<b>Metering</b> 
+
+The A80 features Evaluative (default) and two user selected metering modes (Center-Weighted Average, and Spot). All three metering options produce consistently well exposed images in all but the most difficult lighting situations. Neophyte photographers won&#146t have to worry about metering at all and more experienced photographers can opt for either Spot or Center-weighted metering for more demanding compositions. 
+
+<b>White Balance</b>
+
+Auto and pre-set modes optimized for Daylight, Cloudy, Tungsten, Fluorescent, Fluorescent H, and a Custom (manual) mode.
+
+<b>Sensitivity</b>
+
+Auto, 50, 100, 200, & 400 ISO (35mm equivalent) 
+
+<i>CONTROLS, DESIGN, ERGONOMICS & OPERATION</i> 
+
+The A80 is an attractive and well balanced digital camera.  The compact light weight (8.8 ounces) body is constructed of a durable combination of metal and polycarbonate. The A80&#146s top deck is logical and uncluttered.  There&#146s a comfortable grip on the right hand side of the cameras front making the camera comfortable to hold and use during extended shooting sessions.  On the rear of the A80 is the 1.5 inch fold out tilt-swivel LCD screen, a 4 way compass switch, and the FUNC button. Most of the A70&#146s shooting functions can be easily accessed via traditional buttons and switches, but when users need to employ the menu the FUNC button provides an overlay that takes photographers directly to the function they wish to modify. 
+
+Experienced photographers will have no problem using the camera right out of the box and beginners will be able to shoot super images after quickly scanning the user&#146s manual.  Video camera fans will have no trouble adapting to the flip out LCD, however some photographers may need a couple of minutes to adjust to looking away from the rear of the camera (the LCD screen folds out of the camera body like opening a book) when composing a shot.  
+
+<b>Creative Photography Options</b> 
+
+The A80&#146s Custom WB mode, the Photo Effects mode (allows users to manually adjust color saturation and image sharpening), the continuous shooting mode (2.4 fps) is great for following (and capturing) rapidly unfolding action, and the customizable &#147My Camera&#148 function.  
+ 
+<b>Technical Specifications</b>
+
+Resolution: 4 Megapixels (2272X1704)
+Viewfinders: 1.5&#148 fold out camcorder style tilt-swivel TFT LCD and Real Image zooming optical viewfinder 
+Lens: f2.8-f4.9/38-114mm (35mm equivalent) all glass zoom
+Auto Focus: 9 AF point AiAF
+Manual Focus: Yes 
+Macro: Minimum focusing distance 2 inches
+Flash: Built-in Multi-mode  
+Exposure: Auto, Program, Scene modes, Aperture priority, Shutter priority, Manual mode, Movie mode, and Stitch Assist mode. 
+Metering: Evaluative, Center-weighted, & Spot 
+Exposure compensation: Yes  /- 2 EV in 1/3 EV increments 
+Shutter Speed: 1/2000th of a second to 15 seconds 
+White balance: Auto, Daylight, Cloudy, Tungsten, Fluorescent, Fluorescent H, Flash, & Custom 
+Sensitivity: Auto, 50, 100, 200, & 400 ISO (35mm equivalent) 
+In-Camera Image Adjustment: Yes 
+Noise Reduction: Yes-- automatic on exposures longer than 1 second 
+Image Storage Media: CompactFlash type I 
+Connectivity: USB & AV/out 
+Power: 4 AA batteries 
+
+MSRP $499.00 Street Price Range $399.00-$499.00 
+
+<b>Included</b> 
+
+32MB CF card, four AA Alkaline batteries, wrist strap, USB & AV cables, software CD&#146s, user&#146s and software manuals. 
+
+<b>Optional</b> 
+
+Canon CBK100 (4 NiMH) batteries and charger kit, LA-DC52C Lens adapter, Canon WC-DC52 0.7x Wide Converter lens, TC-DC52 2.4x Tele-converter lens, 250D Close-up Lens, WP-DC700 Waterproof Case, ACK600 AC adapter, and Canon soft camera case. 
+
+<b>In the Field/Handling & Operation</b>
+ 
+I have an old friend who sells new and used (digital and film) cameras.  He and I both enjoy playing with new digital cameras so as soon as he got his hands on Canon&#146s nifty new four megapixel A80 digital camera he swung by to see if I would like to go along on a photographic outing to check it out.  I loved the three megapixel A70 and its&#146 two megapixel sibling, the A60, so this camera junkie was totally hooked by the opportunity to put the A80 through its&#146 paces.  
+
+The first Saturday in October started out cold and overcast, but skies quickly cleared and we ended up with an absolutely gorgeous warm fall afternoon with azure blue skies and puffy white clouds.  The first weekend in October in Louisville, Kentucky is always reserved for the St. James Court Art Fair. The three day SJCAF is one of the top ten art shows in the country and usually draws about 300,000 spectators, art fans, and shoppers looking for unique and special holiday gifts. My friend and I both enjoy it because it is one of the best "people" shows in Louisville. The crowd is an eclectic mixture of young and old and hip and square; and everything in between. Many unknown photographers sell their wares on the art show circuit so it is interesting to see images from fellow shutterbugs and it&#146s always possible that we&#146ll discover a budding Henri Cartier-Bresson, Ansel Adams, or Eliot Porter. 
+ 
+The truly horrible thing about the St. James Court Art Fair is that there is absolutely no place to park. We usually park just off Burnett Street and walk the half a mile back to St. James Court. I grew up in old Louisville so I always enjoy visiting the old neighborhood.  After a quick stop at Juanita&#146s Burger Boy so my friend could appease his cholesterol Jones, we stopped to shoot some environmental portraits and &#147street&#148 style images at the Un-Fair, a protest counter art show staged each year by young local artists who feel they&#146ve been frozen out of the upscale St. James Court Art Fair. The Un-Fair is held at the Old Louisville landmark Magnolia Bar & Grill, a popular neighborhood hangout usually filled with  young artists and musicians.  We spent about half an hour shooting the local hipsters and checking out the unconventional artwork. 
+
+St. James Court is an opulent collection of Victorian Mansions built in the late 1890s on the site of the 1883-1887 Southern Exposition. The block square neighborhood was designed to look like Victorian London and consists on three interlocked courts; St. James, Belgravia, and Fountain Courts, and is one of Louisville&#146s most recognizable architectural landmarks. The tree-shaded courts are lined with dozens of magnificent old homes that rival New Orleans Garden District. We spent a couple of hours shooting some of the more interesting patrons.  It was too crowded to shoot the lovely old Victorian houses as anything more than backgrounds, but we were able to do close-up shots of some of the colorful fall blooming floral displays. The warm oblique afternoon light worked really well and the A80 did a really great job on everything we tried.  When the morning&#146s dark clouds returned and the light started to fail in the early evening we headed home.
+
+We returned to the Art Fair Sunday morning and managed to shoot some architectural details at one of the Moorish influenced mansions and some interesting shots of the crowd around the bronze centerpiece fountain.  We spent most of the day at St. James Court, just walking around shooting whatever caught our attention and enjoying the festive atmosphere and gorgeous fall weather.  The A80 performed like a champ all weekend no matter what we tried with it, but when the Sunday evening shadows started getting long we called it a day and took off to review everything we&#146d shot and print up a couple of enlargements.
+
+<i>PERFORMANCE</i> 
+
+The A80 is an excellent general-use digital camera that offers users just about all the manual exposure controls a serious photographer might want.  The A80 also works great for neophyte photographers who want put the camera in auto mode and shoot high quality digital images without the need to learn basic photography skills. 
+
+<b>Image Quality</b>
+
+We printed two 8x10&#146s with an Epson Stylus Photo EPX785 and Kodak photo paper and then carefully inspected the prints using a Mamiya 4X loupe designed for checking medium format prints.  The enlargements were as good as the images we&#146d printed from the Canon G3.  Color, contrast, and the subjective &#147look&#148 were comparable to any four megapixel digital camera currently available.  Shadow detail was quite good, and resolution (while not on par with slow speed slide or fine grain B&W 35mm film) was roughly equal to ISO 100 35mm color print film. 
+
+The A80 consistently produces well-exposed images with very good dynamic range. Color accuracy and white balance are excellent under most lighting conditions. Images are sharp and the AiAF auto focus is accurate even when shooting close-ups.  Our fall flower shots looked natural with well-saturated colors and balanced gradations between shades.  Most compact digicams have some red-eye issues, but since we didn&#146t shoot any indoor people shots I can&#146t address this.  
+
+Overall, the A80 creates better images than any camera in its class. Skin tones looked natural (based on our environmental portraits from St. James Court) with none of the ruddiness usually associated with P&S digicam image interpolation algorithms.  Images shot at ISO 50 looked best, with extremely low noise levels.  At the ISO 200 setting noise levels rise a bit, but not objectionably so. There was some noticeable chromatic aberration in the transition areas between  brightly colored areas and dark backgrounds in a couple of our shots, but most of our  images showed very little or no need for post exposure correction.  
+
+<b>Shutter Lag/Timing</b> 
+
+The A80 is noticeably faster in almost every operational area than the G3, which costs twice as much.  Start up time is about two seconds, which is pretty snappy. Shutter lag wasn&#146t a problem for us (less than one second and in &#147real time&#148 with pre-focus) and shot-to-shot times are quicker than average due to the A80&#146s speedy image processor and an ample buffer. AF speed is impressive, typically less than one second, and &#147real time&#148 if you pre-focus. 
+
+<b>A Few Concerns</b> 
+
+This is probably nitpicking, but I would have liked to see a slightly larger LCD screen (1.8&#148 instead of 1.5&#148) and a contrast (low-normal-high) adjustment option. The A80&#146s 3X zoom exhibits minor barrel distortion at the wide angle end of the zoom range, but no visible pincushion distortion at the telephoto end. My friend thinks that Canon&#146s engineers gave up a tiny bit of sharpness in order to ameliorate graininess in higher ISO images, but it wasn&#146t visible to me. 
+
+<b>Conclusion</b> 
+
+In the final analysis the A80 is probably (at this moment in time, anyway) the ideal digital camera, so if you&#146ve been searching for a champagne digital camera with a beer budget, the Canon PowerShot 80 is as good as it is going to get (at least for a while).  Canon&#146s top of the line G3 weighs almost twice as much, costs almost twice as much, is noticeably slower in operation and its images aren&#146t noticeably better than the A80&#146s.
+  
+<b>Who is the A80 best suited for?</b>
+ 
+The Canon Powershot A80 is the perfect choice for demanding cost conscious consumers who want a feature rich and capable digital camera that will work well for novices and experienced photographers.  It&#146s an excellent choice for a first digital camera because casual photographers will be happy with its versatile and easy to use Auto, Program, and Scene modes.  More serious shooters, especially those on a budget, will love its flexibility, manual exposure capabilities, and advanced features.  
+
+<b>A Final Note</b>
+
+Insider buzz suggests that Canon will further discount the A60 and A70 models for the 2003 holiday buying season. If you can live without the A80&#146s tilt-swivel LCD and four megapixel resolution, then the very similar 3 megapixel A70 and 2 megapixel A60 should be great choices, especially during the holiday clearance sales after Christmas.  
+
+<b>Links</b>
+ 
+Check out my reviews of a bargain priced and very capable photo quality ink-jet printer. 
+
+Epson Stylus Photo 785 EPX ink-jet printer 
+<a href="/content_60776812164">http://www.epinions.com/content_60776812164</a> 
+
+For definitive advice on How to Choose a Digital Camera please see my review: 
+<a href="/elec-review-2E46-17B174E2-39A418E3-prod1">http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+For information on other 4 megapixel digital cameras you may find the reviews below enlightening: 
+
+<b>Canon Digital Cameras</b> 
+
+Canon Powershot S400
+<a href="/content_94761619076">http://www.epinions.com/content_94761619076</a>
+
+Canon Powershot S45
+<a href="/content_84242173572">http://www.epinions.com/content_84242173572</a>
+
+Canon Powershot G3
+<a href="/content_78672989828">http://www.epinions.com/content_78672989828</a> 
+
+<b>Nikon Digital Cameras</b> 
+
+Nikon Coolpix 4300
+<a href="/content_80569470596">http://www.epinions.com/content_80569470596</a>
+
+Nikon Coolpix 4500
+<a href="/content_69311368836">http://www.epinions.com/content_69311368836</a>
+
+<b>Olympus Digital Cameras</b> 
+
+Olympus Camedia C 750
+<a href="/content_105993768580">http://www.epinions.com/content_105993768580</a>
+
+Olympus Camedia C 4000
+<a href="/content_79317208708">http://www.epinions.com/content_79317208708</a>
+
+Olympus Stylus 400
+<a href="/content_113517825668">http://www.epinions.com/content_113517825668</a>
+ 
+<b>Minolta Digital Cameras</b> 
+
+Minolta Dimage F100
+<a href="/content_76963548804">http://www.epinions.com/content_76963548804</a>
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

@@ -1,0 +1,224 @@
+DOC>
+<DOCID> 23527 </DOCID>
+<PRODUCT> Digital_Cameras/Canon_PowerShot_G3_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_78672989828 </URL>
+<TEXT>
+            Photography, whether film or digital, starts with the camera.  Cameras are really nothing more than a light tight box with some sort of light sensitive material or device behind an orifice designed to allow light into the box for measured increments of time through a lens that gathers and focuses the light.  The ways in which this light tight box accomplishes its simple task expands exponentially when photographers demand more complex features, improved ease of use, and higher quality images. 
+
+There really has never been a better time to buy a digital camera.  Prices are at an all time low with four and even five megapixel digital cameras available for what consumers were shelling out for two megapixel digital cameras just three years ago. Digital cameras are designed and marketed to appeal to specific consumer target audience. Prosumer Point & Shoot cameras like the Nikon Coolpix 4500 and 5700 models and Canon&#146s new G3 are targeted toward more demanding photographers who insist on a high level of user input, more sophisticated features, better metering, and excellent optics.  Canon&#146s update of the immensely popular Powershot G2 is a worthy warrior in the ongoing digital camera wars.
+
+The new Powershot G3 is more the next logical stage in development of the &#147GEE&#148 family than a radical departure from Canon&#146s earlier models.  That&#146s not to say that there aren&#146t lots of new features to distinguish Canon&#146s third generation &#147GEE&#148 from its siblings.  Clearly Canon has been listening to consumers (who universally complained about the &#147decorative&#148 grip on the G1 and the only slightly improved version on the G2) and demanded at least a 4X zoom (as opposed to the 3X zoom featured on both the G1 and G2). 
+
+<b>How is the G3 different from the G2?</b>
+
+ 
+The G3 has a larger and much improved grip and a newly designed 4X zoom and    
+a 15% improvement in battery life. Canon&#146s proprietary iSAPS scene-analysis technology provides more accurate exposures in tricky lighting situations and the G3 is faster than the G2 in every category (shutter lag/Boot-up Cycle/write to card times/AF speed).  The G3&#146s control layout has been improved (the new layout more closely mirrors the EOS model) and Canon&#146s new DIGIC image processor offers improved image quality and noticeably faster performance.  
+
+<b>Viewfinder/LCD</b> 
+
+The new G3 features the same innovative and super functional tilt-swivel LCD that Canon introduced on the Pro 70.  This nifty viewfinder allows easy waist level, over the heads of the crowd, and ground level shooting.  All &#147GEE&#148 cameras have featured this excellent composition tool.  Canon&#146s fully articulating viewfinder was such an incredible creative tool that Nikon added an almost identical version to their CP 5000 and CP 5700 models.  Obviously, imitation is truly the sincerest form of flattery.  The G3 also features a real-image optical viewfinder that zooms with the lens.  The optical viewfinder has a diopter adjustment for eyeglasses wearers and two LED&#146s to indicate camera operational status. 
+
+<b>Exposure</b> 
+
+The G3 offers Auto, Program, Shutter Priority, Aperture Priority, and Manual exposure modes and a selection of pre-set scene modes (exposure settings are maximized for specific shooting situations such as portrait or night scene). In the manual exposure mode aperture-shutter speed settings are interlocked, meaning you can only select balanced shutter speed/aperture combinations. For instance, if you choose a small aperture you can&#146t select the G3&#146s highest shutter speeds.  
+
+The G3 allows the user to select (after the image is shot) whether an image will be saved as a Jpeg or RAW file.  This is a really great option.  Suppose you shoot a picture under less than ideal conditions, you can opt to save the image as a RAW file (after you&#146ve reviewed it) to maximize the amount of image data you'll have to work with in PhotoShop.  Exposure compensation can be adjusted i/+2 EV (in one-third-step increments). 
+
+The G3&#146s metering system offers three options-- Evaluative (new on the G3), Center-Weighted Averaging, and Spot Metering (users can link the Spot Metering area ---through the record menu--- to a FlexiZone AF point).  The G3&#146s Auto Exposure Bracketing mode will automatically capture a series of three images, each at a slightly different exposure setting. Users can manually set the exposure step size in one-third-step increments from i/+2 EV. The G3 shoots all three exposures with one press of the shutter button. The G3&#146s Movie mode records AVI / Motion JPEG files at 320 x 240 @ 15 FPS (up to a maximum of 3 minutes) with sound. Video clips can be edited &#147in camera&#148 and saved as a separate file. 
+ 
+<b>Lens</b> 
+
+The G3 has a newly designed 4X f2.0-f3.0/35-140mm (35mm equiv) optical zoom lens with a built-in neutral density filter.  
+
+<b>Auto Focus</b>
+
+The G3&#146s Auto Focus is very fast and quite accurate. The G2 featured three focus areas, but the G3 significantly increases user input with "FlexiZone Autofocus" (the focus point can be moved around and positioned anywhere within the central sixty per cent of the frame). The G3&#146s Auto Focus Bracketing will capture three exposures in rapid succession, shifting the focus slightly with each shot. The camera makes all three exposures with one press of the Shutter button. 
+
+
+<b>Manual Focus</b>
+
+The G3&#146s manual focus is triggered d by depressing the MF button on the rear of the camera. When the MF button is pressed a distance scale appears on the LCD monitor and the center of the LCD image is magnified 2x making it easier to determine precise focus. 
+
+<b>Macro Focus</b> 
+
+The G3&#146s Macro mode minimum focus distance is 1.5 inches 
+
+<b>Flash</b>
+
+The G3's built-in flash is a full function multi mode unit that provides a wide range of on-board lighting options.  The G3 also features a hot shoe for mounting more powerful Canon Speedlights (220EX, 380EX, 420EX, and 550EX).  Flash sync with Canon Speedlights is 1/250th of a second. Third party flash units may only be used in Manual Mode and flash synch with non-Canon units is limited to 1/125th of a second. The G2 had compatibility issues with some Canon Speedlights but these problems have supposedly been eliminated with the G3.  
+
+<b>Controls, Design,  & Ergonomics</b> 
+
+My friend didn&#146t like the G3&#146s new enlarged grip, but I found it very useful.  It adds an extra level of stability that is always welcome.  Ergonomically the G3 is comfortable to use and unlikely to cause fatigue except for those with really tiny hands. I prefer the ability to change as many settings as possible without using the LCD menus and the G3 permits a good level of external control. The new FUNC button provides easy access to simplified menus with multiple functions when menu use is unavoidable.  The improved control layout is logical and intuitive.  
+
+<b>Power</b>
+
+The G3 uses one rechargeable Lithium-ion BP-511 or BP-512 battery. Battery life is quite good (over 400 exposures with moderate use of the LCD and Flash) 
+
+<b>Technical Specifications</b> 
+
+Resolution: 4 megapixels (2272 x 1704)
+Viewfinders: Optical True Image Zoom and fully articulating 1.8&#148 LCD
+Lens: 4X f2.0-f3.0/35-140mm (35mm equiv) optical zoom lens
+Exposure: Auto, Program AE, Shutter Priority, Aperture Priority, and Manual exposure modes, three preset exposure modes, & two user-programmable modes.
+Exposure Bracketing: Yes
+Metering: Evaluative, center-weighted, & spot
+Shutter speeds:  15 seconds to 1/2000th of a second
+White Balance: TTL Auto, Pre-sets for Daylight, Cloudy, Tungsten, Fluorescent, Fluorescent H or Flash, and Custom 
+Flash: Built-in multi mode and hotshoe for external flash units
+Sensitivity: Auto, ISO (equiv) 50, 100, 200, & 400
+Image Format:	JPEG & RAW
+Creative Control: Contrast, Sharpness, and Saturation adjustments
+Image Storage: CompactFlash (type I&II) including IBM MicroDrives
+Connectivity: USB 1.1
+Power: 1 BP 511 or BP 512 Li-ion battery
+
+<b>Included</b>
+ 
+32MB CompactFlash card, BP-511 Li-ion rechargeable battery, AC Adapter / battery charger, Neck strap, Lens cap, Wireless remote control, USB and A/V cables, CD-ROM, and printed users manual 
+
+<b>Optional</b>
+
+WC-DC58N wide-angle converter, TC-DC58N tele converter, 58mm close-up lens. Macro Ring Lite MR-14EX, and Macro Twin Lite MT-24EX
+
+<b>In the Field/Handling & Operation</b> 
+
+I have an old friend who sells new and used cameras and photographic equipment. He is a former professional photographer who worked in advertising, wedding, and portrait photography. He still shoots several weddings every summer and he occasionally takes on a commercial job when he has the time, just to keep his hand in. He has always been somewhat negative toward digital cameras (he doesn&#146t really like 35mm much either) and he and I often argue about the merits of digital and 35mm photography compared to medium and large format photography. He feels that nothing smaller than a medium format camera is capable of producing quality negatives. 
+
+Last fall my friend bought his first digital camera, a Canon G2 and he loves it (he feels it is the digital equivalent of his beloved Contax TVS) and he&#146s carried the G2 daily for almost a year.  This is high praise from a guy who believes that the negatives from his Pentax 645 Medium Format rig are just barely big enough (he prefers 6X7 negatives).  He has been talking about upgrading from his G2 to something with a 4X zoom and I thought he was probably going to buy the Nikon Coolpix 4500 (we tested the CP4500 earlier this year and both of us loved it).  I was very surprised when he turned up with a brand new Canon G3 from the model&#146s first production run (the G3 will be available at the end of October 2002).  We often don&#146t get the opportunity to test new digital cameras until several weeks after their release, but since my friend is seriously considering buying a G3 to replace his G2, he was able to borrow the camera for an extended test run.
+
+Louisville&#146s had three weeks of rain and gloomy weather, but last Sunday turned out to be a truly beautiful fall day with blue skies and puffy white clouds.  The temperature was a bit cool, just chilly enough for my epinions windbreaker.  We took the camera to the Belknap Neighborhood Fall Festival.  The Belknap neighborhood is one of Louisville&#146s most eclectic, almost like a small country town at the edge of the larger Highlands neighborhood.  The area is clustered around the Douglas Loop, which was a stage stop in the mid nineteenth century on the road to Nashville.  Belknap has an interesting collection of restaurants, a bakery, a Graeter&#146s Ice Cream shop, an excellent neighborhood tavern, and a genuine old-fashioned neighborhood hardware store.  Booths promoting individual artists, exotic gift and household items, and Kentucky crafts lined the narrow streets.  The turnout is always good and the mixed crowd makes for a large group of very interesting photographic subjects.  In addition, this year there was an interactive art booth sponsored by Artopia (part of the Louisville Visual Arts Association) that provided neighborhood children with the opportunity to try some hands on mural painting and pottery throwing.  The kids loved it and their intense facial expressions and paint and clay smeared hands made for some great &#147street&#148 photography. 
+
+The following Saturday we got together again to continue our test of the G3 (which my friend had been carrying around for a week). The weather was really gray and gloomy so we decided that we would check out some of the monuments in the older section of Cave Hill Cemetery.  We had tested the G2 almost a year ago under similar conditions at Cave Hill so we felt it would make it easier to compare the images we shot with the G2 and images from the G3.   We brought along a Nikon N55 (with a 28-80 zoom) loaded with Kodak Gold 200 print film for comparison purposes.  Because there is no reflected light when it is overcast (making colors more intense) we wanted to try and find some fall color to use as a backdrop for the atmospheric nineteenth century monuments in Louisville&#146s oldest cemetery and only arboretum.  It is still a little early for fall color (we are about two weeks from our peak here in the Ohio Valley) but we did find some Sweet Gums, Dogwoods, Sassafras, and a couple of Hickory&#146s with brightly colored leaves. We shot some images with the fall leaves and a couple of old native limestone grave markers (the intermittent rain had turned the porous limestone a dull dark gray making the scenes look kind of gothic). 
+ 
+Cave Hill was almost deserted and we pretty much had the place to ourselves.  During most of the nineteenth century children often died during their first few years. Hand carved white marble angels and small limestone lambs were popular grave markers for young children&#146s graves. The marble angels are a bit more difficult to shoot, especially with flash, because they tend to reflect hot spots (even more so when they get rain slick) with much of the detail washed out. Without the flash it was easy to get a &#147dark&#148 somber look with the rain darkened hand-carved native limestone lambs.  We left when the light started to go and drove over to the Heine Brothers Coffee Shop on Bardstown Road.  A steaming cappucino helped to cut the damp and chill and the dark old coffee shop was about half filled with other foul weather fugitives.  The G3&#146s fast f2.0 lens (at 35mm) did a pretty good job shooting a few of the patrons reading paperback books and magazines (Heine Brothers is connected to Carmichael&#146s) as they sipped their lattes.  One guy even came over and sat down with us so he could check out the G3 and discuss photography.  
+ 
+<b>Shutter Lag/Timing</b>
+
+The G3&#146s shutter lag is considerably better than average for cameras in its class.  Shot to shot times are also very fast.  The G3&#146s start-up times are about average for four megapixel digital cameras.  This is an improvement over the G2 which had start-up times that were noticeably slower than average.  Both my friend and I felt that the start-up times (boot-up cycle) were still too slow for an eight hundred dollar camera.  Canon has improved this &#147GEE&#148 family fault, but there is still room for improvement.  Hopefully, the G4 will address and this shortcoming with even more success. Overall, the G3 is noticeably faster than the G2. 
+
+<b>A Few Concerns</b> 
+
+Very minor barrel distortion at the wide-angle end and virtually undetectable pincushion distortion at the telephoto end of the new 4X zoom. The Manual mode is a bit limiting due to interlocked shutter speed/aperture constraint.
+
+<b>Image Quality</b>
+
+Noticeably better than the excellent image quality of the G2, due primarily to the G3&#146s proprietary DIGIC image processor and the exceptional new 4X zoom.  Canon decided to skip boosting the G2 to five megapixels (which is what almost everyone expected them to do).  It was a risky move to field a four megapixel G3 to compete with Nikon&#146s superb new CP 4500 and price the G3 two hundred dollars higher, but Canon&#146s digital engineers felt the pace of development was too rapid and that many of the new five megapixel prosumer Point & Shoot models suffer from color and digital noise issues that degrade image quality.  The Canon design team decided to stick with the excellent four megapixel CCD from the G2 and boost image quality by designing a new high performance zoom lens. 
+
+Did it work?  We printed two 8X10 images (with an Epson Stylus Photo 785EPX) and the images compared very favorably with 8X10 enlargements we had printed earlier with Nikon&#146s new CP5700 and Sony&#146s DSC F707.  The G3&#146s resolution is exceptional, color balance and contrast are right on the money, and digital noise appears to have been almost completely banished----basically the G3&#146s four megapixel digital images are almost equal to the five megapixel images from the Nikon Coolpix 5700 and equal to those we shot with the Sony DSC F707.  
+
+We got together Sunday afternoon to look at the images from the Nikon N55 (overnight C41 processing) and compare them with the images from the G3.  Colors were well saturated, shadow detail is quite good, and resolution (while not on par with 35mm slide or fine grain B&W film) is equal to 35mm color print film. Canon&#146s engineers have done an excellent job with the updated G3 and the images are the best I have seen to date from a sub five-megapixel camera. Both my friend and I were amazed that our printed digital images were virtually indistinguishable from the ISO 200 color print film images shot with the Nikon N55. 
+ 
+<b>Conclusion</b>
+
+Canon has obviously been paying attention to the suggestions of G2 owners. The excellent battery life, fast 4 X zoom lens, much improved metering, sophisticated exposure and focus options, and excellent image quality add up to a photographic tool designed to do a great job while providing serious photographers with the most input and the least possible fuss. My considered opinion is that the G3 is able to compete favorably with five megapixel digital cameras from other manufacturers.
+
+<b>A Final Word</b>
+
+The G3 provides some significant and important improvements over the G2.  The real question for consumers----- with G2&#146s selling at their lowest price ever (around $500)--- is the G3 worth an additional $300?  Personally, I believe the G3 is worth $800. Until I tested the G3 my unconditional recommendation in the four megapixel class was the excellent Nikon Coolpix 4500---now I would recommend that purchasers looking for a four megapixel digital camera carefully compare features, price, and handling/usability with both the G3 and the CP4500 before making a purchasing decision.  You can&#146t go wrong (however you decide) with these two---both are exceptional digital cameras.
+
+My friend decided against replacing his G2, he thinks the new G3&#146s larger lens and expanded grip ruin the sexy lines that made the G2 such a stylish camera.  I completely disagree with him, which provided the two of us with the basis for a weeklong argument about aesthetics and function.  If style is very important to you then wait a month or so and pick up a reduced price G2. You may be able to save quite a bit over the $800 dollar purchase price of the G3, but you&#146ll miss out on some really neat new features and capabilities.  
+
+<b>Links</b>
+ 
+Check out my reviews of a pair of bargain priced and very capable photo quality ink-jet printers. 
+
+Epson Stylus Photo 785 EPX ink-jet printer 
+<a href='/content_60776812164'>http://www.epinions.com/content_60776812164</a> 
+
+Epson Stylus Photo 780 ink-jet Printer 
+<a href='/content_54223670916'>http://www.epinions.com/content_54223670916</a> 
+
+For definitive advice on <b>How to Choose a Digital Camera</b> please see my review: 
+<a href='/elec-review-2E46-17B174E2-39A418E3-prod1'>http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+For more information about specific Digital Camera models you may find my Digital Camera reviews informative: 
+
+<b>Nikon Digital Cameras</b> 
+
+Nikon D100 
+<a href='/content_72201965188'>http://www.epinions.com/content_72201965188</a> 
+
+Nikon Coolpix 5700 
+<a href='/content_70131814020'>http://www.epinions.com/content_70131814020</a> 
+
+Nikon Coolpix 4500 
+<a href='/content_69311368836'>http://www.epinions.com/content_69311368836</a> 
+
+Nikon Coolpix 2500 
+<a href='/content_65176440452'>http://www.epinions.com/content_65176440452</a> 
+
+<b>Canon Digital Cameras</b> 
+
+Canon Powershot G2 
+<a href='/content_47646084740'>http://www.epinions.com/content_47646084740</a> 
+
+Canon EOS D60 
+<a href='/content_73529200260'>http://www.epinions.com/content_73529200260</a>
+
+Canon Powershot S40 
+<a href='/content_59617087108'>http://www.epinions.com/content_59617087108</a> 
+
+Canon Powershot S30 
+<a href='/content_59041746564'>http://www.epinions.com/content_59041746564</a> 
+
+Canon Powershot A40 
+<a href='/content_65832652420'>http://www.epinions.com/content_65832652420</a>
+
+Canon Powershot G2 
+<a href='/content_47646084740'>http://www.epinions.com/content_47646084740</a> 
+
+<b>Sony Digital Cameras</b> 
+
+Sony DSC-F707 
+<a href='/content_60512439940'>http://www.epinions.com/content_60512439940</a> 
+
+Sony DSC S85 
+<a href='/content_51957567108'>http://www.epinions.com/content_51957567108</a> 
+
+Sony MVC-CD 300 
+<a href='/content_45591793284'>http://www.epinions.com/content_45591793284</a> 
+
+<b>Olympus Digital Cameras</b> 
+
+Olympus Camedia C3020 
+<a href='/content_57190944388'>http://www.epinions.com/content_57190944388</a> 
+
+Olymous Camedia E 20N 
+<a href='/content_54953348740'>http://www.epinions.com/content_54953348740</a> 
+
+Olympus Camedia C3040 
+<a href='/content_42675179140'>http://www.epinions.com/content_42675179140</a> 
+
+Olympus Camedia C3000 
+<a href='/content_26106105476/tk_~CB003.1.30'>http://www.epinions.com/content_26106105476/tk_~CB003.1.30</a> 
+
+<b>Fuji Digital Cameras</b> 
+
+Fuji Finepix 2600 Zoom 
+<a href='/content_58485149316'>http://www.epinions.com/content_58485149316</a> 
+
+Fuji Finepix S2 &#147PRO&#148 
+<a href='/content_76963548804'>http://www.epinions.com/content_76963548804</a>
+
+Fuji Finepix S602 
+<a href='/content_75291266692'>http://www.epinions.com/content_75291266692</a>
+
+<b>Minolta Digital Cameras</b> 
+
+Minolta Dimage F100 
+<a href='/content_76963548804'>http://www.epinions.com/content_76963548804</a>
+
+Minolta Dimage 5 
+<a href='/content_49104522884'>http://www.epinions.com/content_49104522884</a> 
+
+Just &#147cut&#146n&#146paste&#148 the URL into your browser&#146s address bar/window.
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

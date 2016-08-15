@@ -1,0 +1,39 @@
+DOC>
+<DOCID> 19627 </DOCID>
+<PRODUCT> Digital_Cameras/613490_Olympus_D_150_Brio </PRODUCT>
+<URL> http://www.epinions.com/content_50315103876 </URL>
+<TEXT>
+            First: <b>Do not buy this camera if you plan to use it under Linux</b>.  It does not conform to the USB specification, and will not work without you doing some kernel hacking.
+
+That said, I'm happy with the camera.  I've had it one month, and apart from two wasted days trying to get it to work on my system (I only run professional software, nothing from Redmond) it has performed flawlessly.
+
+<b>My use for the camera</b>: snapshots for sending to friends and family.  Will probably never print, or maybe only rarely.  No intention of using it for anything professional.
+
+<b>Quick blurb about the USB drive mechanism</b>: this is really nifty.  It allows you to plug the camera into your computer's USB port, and the camera appears as a disk drive with JPEG images in a standard subdirectory.  It was trivial to write a hotplug script which detects the camera being plugged in, mounts it, transfers all the pictures to local disk, deletes the pictures from the camera, and unmounts the camera with a suitable alert sound.  No need for me to unlock my screen; I can just snap pictures, upload them, repeat, then look at the pictures later.
+
+PROS: What I like about it
+
+<b>Excellent human factors</b>.  The Olympus engineers outdid themselves.  All controls are simple, easy to find (even for a fumblefingers like me), and easy to use.  The most frequently changed settings (flash, and macro mode) are accessible via hotkeys, without having to navigate menus.  If you do have to use the menus, they are mostly clear (just two or three obscure icons).
+
+<b>Excellent picture quality</b>.  Very sharp, clear pictures.  Much better than I had hoped for... but bear in mind, I'm a simpleton, and not as picky as some true digital photography mavens.
+
+<b>The USB drive mechanism</b> mentioned above.  No need for cumbersome clicky-GUI nonsense or special software.
+
+<b>Excellent Zoom and macro</b>.  The 3x optical zoom is fantastic, at least for this newbie unaccustomed to such fancy features.  The macro operation takes very clear pictures.
+
+<b>Lots more features</b> such as the LCD viewscreen, ability to expand way past the 8M card, long battery life (102 pictures so far, most with flash, and battery is still going strong), goodly 1280x960 resolution.  But all of this information and more is available form the product literature, and you don't need to read about it here.  Suffice it to say that I'm happy with <i>all</i> the features.
+
+CONS: The bad news
+
+<b>Does not conform to the USB specification</b>.  There's a checksum that's implemented incorrectly.  Wintendoze doesn't check this value (unsurprisingly), which is why the camera works under that OS.
+
+<b>Awkward lens cover</b>.  The lens cover slider is a little hard to open, especially when wearing gloves.  It can also be jarred unintentionally when taking pictures, drawing the lens in.  This just takes some getting used to.
+
+
+In short: what a fantastic little camera. If only the Olympus firmware developers had been a little more professional about testing, I would be unhesitating in my glowing recommendation of this unit.  As is, the fact that they blundered something so obvious makes me question what else they may have screwed up...
+            
+<label> No
+<rating>  5.0
+
+</DOC>
+<

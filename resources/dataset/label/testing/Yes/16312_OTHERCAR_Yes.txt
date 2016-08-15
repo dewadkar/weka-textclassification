@@ -1,0 +1,84 @@
+DOC>
+<DOCID> 16312 </DOCID>
+<PRODUCT> Digital_Cameras/188278_Hewlett_Packard_PhotoSmart_C200xi </PRODUCT>
+<URL> http://www.epinions.com/elec-review-404D-194ECBE-39173C75-prod1 </URL>
+<TEXT>
+            OK now, just between you and me, the C200xi wasn't my first choice in a digital camera.  Or my second, for that matter.  Actually, it wasn't even on my list originally.  I wanted a camera made by a REAL camera company, like the Nikon CoolPix 950 or the Olympus C-2500.
+
+Boy, did I almost miss the boat!
+
+The camera was a gift from my Dad.  Frugal man that he is, there was no way he was paying close to $1,000 for a digital camera.  He had a more $99 approach in mind.  One day, pretty much at his wit's end, he asked me to look at the C200xi.
+
+From HP!?!  The printer company!?! 
+
+Forget it!  I want at least 1 MegaPixel in resolution.  
+Got it. 
+
+Red eye reduction and auto focus.  
+Yep, it's there.  
+
+View screen?  
+Check.
+
+Zoom?
+Affirmative.
+
+CompactFlash?
+Right here.  8MB card in fact.
+
+Grrrr.
+
+So I decided to give it a tumble (especially since it sat firmly at the top end of what my Dad was prepared to spend).  I have to say, the camera is wonderful!  I ordered it from outpost.com so that I'd have it the next day, and was running around the house shooting my kids, my wife, the furniture, the yard, absolutely anything I could think of to test the camera's limits.
+
+Every picture was crisp and in focus, the colors vibrant and photo quality (I shot at the FINE resolution).  Storage is determined by CompactFlash card size and image resolution.  Below is a an idea of just how many pictures you can expect to store on a single card:
+
+4 MB CompactFlash Card 
+Basic - 40	
+Fine - 20	
+Super-fine - 8
+
+8 MB CompactFlash Card 
+Basic - 80	
+Fine - 40
+Super-fine - 17
+
+16 MB CompactFlash Card 
+Basic - 160
+Fine - 80	160
+Super-fine - 34
+
+32 MB CompactFlash Card 
+Basic - 320
+Fine - 160
+Super-fine - 70
+
+Resoultions:
+BASIC: 576 x 436 pixels
+FINE: 1152 x 872 pixels, medium JPEG compression
+SUPER-FINE: 1152 x 872 pixels, low JPEG compression
+
+Now, like I said, we're friends, so I'll admit that maybe the camera has a few flaws.  Actually, two really.
+
+First off, it only has a digital zoom.  I really would have liked an optical zoom as well, because it you can get closer pictures.  It wasn't a deal breaker, but it would have been nice.
+
+Secondly, the camera doesn't come with an AC adapter.  Now, you may be asking yourself why this matters; I know I certainly did.  It's not like I'm going to run around the great outdoors with a REALLY long extension cord, trying to avoid buying batteries over an over again, right?
+
+Well, the camera transfers pictures from the camera to the PC with HP proprietary software and a serial connection.  Honestly, I've seen paint dry faster than the transfer takes when the card is full.  And since it downloads every picture every time you download (providing a HUGE disincentive to store pictures on the card after you've downloaded them) you burn through batteries pretty darn quick.
+
+Fortunately, neither of these quirks is insurmountable.  
+
+You can buy additional lenses and an adapter to take care of the zoom issue.  It will probably set you back about $150, but the good news is you can get a wide range of zooms for that price, more than you would be able to get if you had just bought a slightly better camera for the combined price of the C200xi and additional lenses.
+
+And you can buy an AC adapter, but I actually wouldn't recommend it.  The adapter runs about $40; for the $30, you can purchase a CompactFlash card reader, which I think is the better option.
+
+For starters, the reader plugs into a standard USB port (go greased lightning!), enabling much faster image transfers.  Additionally, the card pops out of your camera and into the reader, which means that the camera doesn't even have to be turned on to transfer pictures.  Lastly, the reader basically emulates a disk drive, so it supports drag and drop between the CompactFlash card and any drive on your PC.  No more long downloads or special software.
+
+One final point: the only difference between the C200x and C200xi is that the C200xi comes with a licensed copy of Adobe PhotoDeluxe Business Edition v.1.1, which is a pretty cool photo editing package.  Yet for some reason, they cost the same price, so I suggest you get the one with the software.
+
+I really do think that the C200xi is an excellent camera, so much so, in fact, that I will definetely purchase another HP when I am finally ready to upgrade.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

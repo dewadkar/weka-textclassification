@@ -1,0 +1,29 @@
+DOC>
+<DOCID> 2059 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Agfa_ePhoto_CL20 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-19BA-1D8F6DA4-3A4830D9-prod4 </URL>
+<TEXT>
+            It was time for my first digital camera.  After many hours of research, clicking through web sites, I took a chance on the Agfa ePhoto CL20.  Like many just getting into digital photography, I simply wanted decent pictures at a decent price.  This pocket sized, affordable number sounded like it would provide me with a good introduction.  BINGO and more!
+
+I've just finished up my first couple of days of testing out the camera, and I'm very impressed with the quality of the photos.  For the ones that didn't turn out well, I've seen trends that small adjustments in my &quot;shooting&quot; should correct.
+
+The camera shoots at three different levels of resolution.  512x384, 1024x768, and (with software) 1280x960.  I couldn't see a lot of difference between the 1024 and the 1280, so to conserve the memory space and processing power (batteries), I stayed at 1024x768 for the full round.
+Also, with the internal memory, the camera holds 6 to 30 images, depending upon the resolution used.  I bought a 16MB Compact Flash memory card that boosted that up in the neighborhood of 92 - 325 images.  At least that's what the LCD said when I powered it up.  After taking 64 images at 1024x768, it still reads memory available for 53, 79, or 186 additional images, depending upon the resolution used.
+
+The results were much better than I expected from an entry level camera.  Most of the pictures were indoors, and I used the Automatic Flash function with 95% of them.  I've found that if I'm closer than 5 ft. or so to the subject, that there is a little &quot;wash out&quot;.  However, it wasn't so serious that a little image editing software couldn't correct it once downloaded to my computer.  As long as I stayed the correct distance from the subject while using the flash, it turned out great.  Too far away, though, and you begin to lose the detail.  For the most part, the results were clear with good color.  Of course the flash loses its effectivness after several feet, and background objects begin to darken.  I tried a few photos indoors without the flash, and unless there was very good lighting, the image turned out a little to a lot dark and would be &quot;grainy&quot;.  The few photos I took outdoors were during blue skies with plenty of sunshine, and the images turned out very well.  Crisp and colorful.
+
+The camera takes two AA batteries.  They do drain pretty quickly.  I expected this, so I bought a couple of sets of rechargable batteries before hand.  Each set would last about 30 - 35 pictures (at the 1024x768 resolution with flash) before I would begin to get the low battery level display on the LCD.  At that point, I could still take pictures for a while longer, but it wouldn't charge up the flash.  I changed them out before they were completely dead, so they may have lasted a few more pics without the flash.  I'm sure the batteries would have lasted longer if I weren't using the flash and using the processing power that the higher resolution images required.
+
+The software setup went very smoothly.  And the USB connection is a breeze.  Once it's plugged in, just power up the camera, and it automatically boots up the software for transferring your photos.  The software included seems easy to use so far.  I've transferred photos, did a little image manipulation (to correct brightness, for example), and made a little slideshow and video of my images.
+
+I've printed off a couple of my photos with a 720 dpi printer on glossy paper.  Looking closely, you can see a slight grainy, digitized effect, but at a foot or so away, they begin to look like photos that just came back from the lab.
+
+There are drawbacks, of course.  When using the higher resolution with flash, it takes several seconds after snapping a photo before it's ready for another.  Part of it is the processing of the image, the other part is the recharging of the flash.  At Low Resolution without the flash, it only took a couple of seconds before it was ready for another.  Another negative is the lack of a video output for viewing images on a TV, which would be nice when away from the computer.  Also, no LCD on the camera for viewing your photos.  That wasn't a big concern for me.  It would eat batteries faster, and with the 16MB memory upgrade, I can shoot a lot of pictures, increasing the chance that there will be more that I like.
+
+I paid around $145 for the camera, which included Overnight Shipping.  Paying more would likely yield better results, but the image quality is much better than I expected it to be for an entry level camera.  It fits easily into my pocket and is easy to use.  I haven't used other digital cameras, but I'm very happy with the results.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

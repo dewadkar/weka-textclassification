@@ -1,0 +1,36 @@
+DOC>
+<DOCID> 33245 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Olympus_E_10 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-48E-3D3A7DC2-3A22FE17-prod6 </URL>
+<TEXT>
+            Releasing Camedia E-10, Olympus have once again upped the ante on what consumers could get, and soon would demand, from a high quality SLR digicam in the sub-$2K price range.
+
+First, the good news.
+
+<b>The look and feel:</b> The camera has a very pleasant tactile feel. The zoom and focusing rings are grippy, comfortable, very solid and precise; excellent damping, no play. The finish looks attractive without being gimmicky (like those sparks on Sigma EX lenses).
+
+<b>The sensor technology:</b> 4 megapixels for $2K - can't beat that. This year, that is. I hear, off the shelf 4 megapixel consumer priced sensors may become available in digital cameras by mid-2001. In a market where pixel count is still the name of the game, there's a lot of pressure on the manufacturers to deliver. So this camera looks great in that department for now, but other, cheaper, 4MP cameras, will show up in months. A word of advice: megapixels do not tell the whole story. Things like sensor noise / low light performance / lens quality / etc. affect the resulting image quite a bit, and don't overlook other camera performance aspects and features as those let you take or miss that great shot in the first place.
+
+<b>The LCD (liquid crystal display on the back of the camera):</b> The 1.8&quot; LCD can tilt, and, besides the usual things on any digicam, shows image histogram, which is conveniently accessible via the Info button. The LCD also shows a live image preview which is unusual for an SLR whose mirror diverts the light to the optical viewfinder. Actually this camera does not have a mirror - it has a beam splitter, which directs part of the light to the optical viewfinder, and part to the CCD, thus making the image preview possible. Lack of the moving mirror also reduces to nil the amount of vibration in the body during the exposure.
+
+<b>The accessories:</b> Olympus makes available what looks like a very comprehensive list of optional add-ons to expand the capability of this camera: wide and tele converters, a macro converter, a remote, a vertical grip, and a flash. More on the grip in the following section :-)
+
+Now, the not so good news:
+
+<b>The viewfinder:</b> Because of the previous point, it gets only part of the light it would have, from the mirror. Consequently it is not nearly as bright as it could have been (and neither is the CCD getting all the light it could have, had there been a mirror, by the way). But it is not that bad actually unless one is shooting in low light - where every bit of light counts, both to the viewfinder, when composing, and to the sensor, when capturing. In normal light level conditions, the beam splitter works out great and is more of an asset than a liability. This is similar in principle to &quot;pellicle mirror&quot; SLR's that Nikon and Canon have released at various times.
+
+<b>The AF:</b> There's only one AF sensor. Enough said. I expect more on a prosumer oriented digital AF SLR in this day and age.
+
+<b>The optional vertical grip:</b> Look at it. I mean look at it. It seems Olympus have gotten all the best engineers and designers to work on the body, and interns / temps, on the unnecessary accessory a.k.a. the vertical grip. It is very uncomfortable to use as it is intended to be used, in a vertical position. It's simply far too short. Olympus have, evidently, taken a cue from Minolta Maxxum 9 vertical grip design, and placed the shutter release button in a deep &quot;dent&quot; in the middle of the grip. Well Maxxum 9 is a pretty large camera and this design works OK there. NOT on this much, much smaller Olympus. I think Oly should have instead look at Maxxum 700si / 800si / Nikon F5 / Canon N1 and some other SLR's for the better grip design.
+
+<b>The lens:</b> A common trend in many digicams since the 2+ megapixel level, as the sensor and other electronics designers succeed to increase the sensor pixel count in a prosumer price range, the optical designers struggle to keep up. The lenses just aren't sharp enough to make the full use of all those megapixels. As a result of that (and color pixel element interpolation in these 1 CCD cameras - but that's another story), the images produced by the digital cameras have this almost always present air of fuzziness that won't go away at any sharpening levels that don't produce visible artifacts. If your lens only resolves say 800 line pairs across the image, moving from 3 magepixels to 4 megapixels is not going to make a dramatic improvement in the amount of actual detail captured. Anyway, this camera's lens is no exception. It is a very good lens, considering its high zoom range, but it is not a great lens. And adding the auxiliary wide and tele converters are of course not going to make it better, either. I am hoping the deterioration is not significant though I have not tried them myself.
+
+Olympus have cited sensor dust accumulation as an argument against providing the interchangeable lens system with this otherwise high-end body. B.S.!! The sensor is protected by that beam splitter and there isn't a deep body cavity with a fragile mirror in it to present a maintenance challenge. I think Olympus weren't convinced enough they could sell not just a stand-alone body but the whole lens system as well, given that those lenses might not work with any future digital cameras if their sensors will be a different size. Pity. I would have loved a shift lens and a few sharp fixed focal lenses - a very wide angle, a very fast (wide aperture) normal, and a fast telephoto.
+
+<i>Nonetheless, despite the above mentioned quirks (and which camera does not have any), this is an excellent camera that is a milestone in digicam design and a pace setter for Olympus's competitors.</i><br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

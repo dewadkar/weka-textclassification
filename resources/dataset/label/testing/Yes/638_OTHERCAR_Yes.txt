@@ -1,0 +1,19 @@
+DOC>
+<DOCID> 638 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_NikonCoolpixx-Nikon_Coolpix_950 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-3D40-AD58699-3867F9D9-prod4 </URL>
+<TEXT>
+            I'm an illustrator at a major research laboratory and I need a digital camera for quick turnaround posters, publication images, multimedia presentations, and sometimes just documenting an experiment. I share my camera with a fellow illustrator who came from a traditional photography background. She helped me select the CoolPix 950 based on the features which she would want in a camera. I trusted her judgement and have never been sorry about our choice.
+
+I've had my Nikon CoolPix 950 for about 6 months now and can attest to the quality of images and &quot;ease of use&quot; capabilities. I've used the camera in auto mode under a number of different lighting situations, and have almost always found the images to be very satisfactory. I upgraded the memory to 96 megabytes and have plenty of room for lots of high resolution images. 
+
+One downside would be if you relied on the serial port for downloading images. I found the speed of the transfers to be painfully slow. But this is a problem with transfer rates of the serial bus and not the camera. I use a Microtech PC Card reader which downloads the images very fast (more like copying from a hard drive). I also use a Macintosh Powerbook G3/400 which I can download the files (using a flash card adapter) to my hard drive and immediately display and perform any image corrections at the site. 
+
+If I could wish for one improvement for the 950, I would like to see a Firewire port for quick and easy transfers of images. Currently the only way to battle the fatigue of file transfer is to buy expensive hardware.
+<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 747 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1994_Nissan_Altima </PRODUCT>
+<URL> http://www.epinions.com/auto-review-AD8-2789EDA-3855B997-prod2 </URL>
+<TEXT>
+            My 1994 Nissan Altima is the best car I've ever owned. I bought it because it was a nice looking car at an affordable price, but almost 6 years later, it's still in excellent shape, running great and has needed minor maintenance. I didn't realize when I bought it that it would stay this good for this long. Even the paint and interior looks incredible. The inside is roomy and comfortable, and the ride is smooth. All in all, it's a great car! I've considered purchasing a new car for the past few months, but I just can't seem to part with my reliable, great-looking, smooth driving Nissan Altima! <br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

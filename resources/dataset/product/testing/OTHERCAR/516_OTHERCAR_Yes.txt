@@ -1,0 +1,24 @@
+DOC>
+<DOCID> 516 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Olympus_C-2100_Ultra_Zoom </PRODUCT>
+<URL> http://www.epinions.com/content_17756163716 </URL>
+<TEXT>
+            The very first opinion up there about this camera made a zoom comparison between the Fuji 4900 and this Olympus.  The comparison was ill-informed, because the person simply did not do their math.  To correctly compare the zoom ranges in digital you have to take into consideration both the optical telephoto AND the resolution of the camera.
+
+For instance, this Olympus has a 10x zoom.  That's pretty good.  But it has only 2.1 MP resolution.
+
+The Fuji 4900 has a 6x zoom.  Note it is just over half the zoom of the C-2100.  BUT it has just over TWICE the resolution of the C-2100: giving the Fuji an effective 12x zoom relative to the Olympus.  By simply using your computers digital zoom and crop software you can get just a little more zoom out of the Fuji.
+
+The only zoom advantage the Olympus has is the image stabilization.  Which is pretty cool.  But not really necessary, since an optical 6x zoom has little need for one, but a 10x zoom definitely benefits from it.
+
+On the other hand, maybe you don't feel like cropping in Photoshop every time you want to zoom in on something.  Could get tedious.
+
+One more little detail that Olympus seems to have overlooked in this camera in particular is the grip.  It is just flat out hard to hold this camera.  I have larger than average hands and I find this camera cumbersome.  A person with small hands would probably not like to use this camera for that reason alone.  The afore mentioned Fuji 4900 on the other hand, feels great in whatever size hand.  
+
+I sell both cameras and get feedback from lots of different people.  The grip is often the deciding factor between these two.  The Fuji 4900 outsells the C-2100 about 3 to 1 in my store.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

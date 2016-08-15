@@ -1,0 +1,30 @@
+DOC>
+<DOCID> 34676 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Minolta_Dimage_E223_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_106709683844 </URL>
+<TEXT>
+            The Minolta E223 is a very average entry-level two-megapixel digital camera with a low price to match.
+
+Image quality is a mixed bag: Bright, vibrant, colours marred by a mediocre lens and the resulting softness such a lens delivers. Poor low-light capability; weak flash.
+
+Most annoying is the length of time the camera takes to power up, power down, or get ready for the next shot.
+
+It's somewhat battery-hungry, but with careful shot choices and keeping the power switched off when not shooting pics, you can actually get a whole day's picture-taking with good-quality (i.e. expensive) "AA" alkaline batteries.
+
+The E223 is oriented to budget-conscious, novice users. Consequently you might reasonably expect driver installation to be automatic, or at least straightforward, with help from the manual and other documentation supplied with the camera. Sadly, installation of the USB driver (needed to move images from camera to PC) is anything but.
+
+Minolta's documentation for, and implementation of the USB driver is very poor. You have to browse through the CD-ROM and hunt for the .inf file which acts as the USB driver, then install it by using your mouse to 'right-click' on the file.
+
+If you are an advanced computer user, the process should be easy. Novices and others may give up in frustration.
+
+In short, the E223 is an OK, but not great camera suitable for people with modest picture-taking requirements, lots of patience and a tight budget. Better choices exist.
+
+
+
+
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

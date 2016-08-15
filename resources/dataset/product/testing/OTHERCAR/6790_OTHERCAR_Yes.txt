@@ -1,0 +1,30 @@
+DOC>
+<DOCID> 6790 </DOCID>
+<PRODUCT> Digital_Cameras/Hawking_Technologies_DC320_565188 </PRODUCT>
+<URL> http://www.epinions.com/content_103260589700 </URL>
+<TEXT>
+            After searching across the web for a decent compact digital camera, I saw the Hawking dc-320 3-in-1 camera. Not only did it look compact, but it came bundled with other features as well, such as movie recording. Moreover, it had a price tag of only $47! Immediately, I decided that I wanted to get my hands on this....and so I ordered it. Here's my story...
+
+After a prompt delivery from Amazon, I inspected my new acquisition. It was packed securely in a rugged cardboard box...and indeed, it looked really small....kind of like the one James Bond should have.
+
+I had it set up immediately on my PC (running Windows Me), and took some instant shots around the house (in the evening)....by the way, it came bundled with 2 AAA batteries, a 2m long USB cable, a camera strap, a cradle and a software CD. The results did not delight me by any means. 
+
+Picture quality was (strictly) decent. After all, it was only about 0.4 Mega pixels. However, during the daytime when I repeated my actions, the results were much, much better. Since this camera comes without flash, I strongly recommend not taking any pictures without "proper" lighting (at night only) as the results are bad...pictures come out grainy. "Proper" lighting indicates that light should, ofcourse, not be from a point source i.e. a bulb, but from say, a tubelight. When taking pictures at night, I also recommend not having the object in front of the lens as the resulting image will be total disaster. Instead, position yourself with the camera in front of the light. If provided insufficient light, the camera simply beeps and refuses to take any images...but the "continuous timer" mode is a workaround. 
+
+During the daytime, shots completely transform in to really nice images and picture quality too, is wonderful, even though the focal lengh is only 5.6mm. For modifications, I even have options for adjusting the sharpness, brightness, gamma etc. included in the PC Driver. This camera, like I mentioned earlier, comes with many handy features. 
+
+User-friendly features on the camera such as the "self-timer" mode allow a picture to be captured after several seconds. The twin 7 segment LCD panel shows the pictures counter and modes supported. Also, when untethered, the "continuous mode" allows capture of image sequences for storage in memory and subsequent download to PC. I also found the Piezo buzzer handy, for it indicates a number of useful events to the user, e.g whether enough light is present for picture capture and whether the memory is full etc. Moreover this camera even has a unique power management system that takes control after 30 sec. on no user activity.
+
+With the PC driver installed, I liked the high speed picture upload to my PC over the USB interface. The camera chipset operates automatic exposure and gain control, which improves picture quality and minimises any flicker. With the onboard 64MBit memory, I can store upto 27 VGA images or 80 CIF images in "High Resolution" or 107 VGA images or 322 QCIF images in "Low Resolution." The "continuous mode," I mentioned above, allows a capture rate of 13 fps maximum in CIF mode.
+But the best part of this whole deal is the size....picture this 2" x 3" x 1" (H x W x D)...its really, really small. Moreover, I also liked the sleek design of the camera and its "see-through" icy blue colour. 
+
+The camera is extremely easy to configure and use (there are only two buttons to control it!). The included software bundle is excellent, featuring Ulead Cool, PhotoExpress SE and more. After reading the manual, I was somewhat disappointed to learn that it can only record short movies (video only) of upto 15sec. using the bundled software. However, there is a workaround. Using Windows Movie Maker (and with the camera attached to my system), I recorded really good quality clips of over 15 minutes (it's true), with sound! The latter is only possible with a microphone. Video quality is best at 320 x 240 QVGA (upto 30fps). There is even a zoom in feature that allows me to capture my videos up close. That's why I emphasize that this is really a good deal (even though the manual is a bit misleading). 
+
+In short, this is one amazing and affordable camera. If you are into cameras and like creating your own movies, I strongly recommend you to buy it!
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

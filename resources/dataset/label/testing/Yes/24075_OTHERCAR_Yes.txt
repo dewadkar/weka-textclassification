@@ -1,0 +1,26 @@
+DOC>
+<DOCID> 24075 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital-Relisys_RelisysDimeraProductFamilyily-Relisys_Dimera_3500 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-2C70-1FDF4B03-39EBA5BE-prod3 </URL>
+<TEXT>
+            I like Dimera 3500. A lot of cameras have not the resolution that they promise. Dimera have 640x480! And it is not &quot;just scaled up&quot;. With IrfanView free(http://www.irfanview.com/english.htm), I easy scale it to much better resolution, using the &quot;Lanczos filter&quot; in IrfanView's scale. Without much quality loose, it seem to. However, this only scaled.
+
+With Agfa's ePhoto Smile, I guess the internal resolution is much less than 320x240, and even a 320x240 photo, may be scaled to much higher quality with the IrfanView &quot;Lanczos filter option&quot;. Dimera 3500 could easy be scaled to 1280x960, or better, if the quality only need to be as Agfa's ePhoto Smile. I believe that even people considering a 1280x960 camera, should test if it is better than the Dimera 640x480 pixels scaled to twice! (Using Lanczos filter!)
+
+But, it is a big problem with Dimera 3500! It uses the power. The Camera use about 400uA when the camera have been turned off! Less than 1000 hours, or one month on the battery, when TURNED OFF. Then no more current on the battery. Only way to handle it, is to remove the battery total, or to plug in the power supply adaptor plug to disconnect the battery total. When the plug have been plugged into the camera, it uses no current at all. Some adaptors have separate plugs, and plugging it in, even without adapter makes battery keep longer in. There is no reason for the adapter, only the plug is needed! Then, it turns off the battery as when removing. If I not use camera, battery works for lot of years now! (without use)
+
+However, when the camera is turned on, it only works for 80 minutes. That makes it possible to take a few pictures. Then you will need to buy the batteries again. Try to calculate pay per picture!
+
+The lithium battery is not rechargeable. And it is a bit expensive too. 
+
+But compared to price, is Dimera good enough. (Sure that better cameras will come.) But it seem to held, or better, all specifications: 640x480 pixels. And 3W, 3V, 1A as DC power. And with a Lithium battery too with 1.2AH. And a small bag for the camera. Software, wrist strap, etc. But if you buy another camera, as Agfa's, do not trust any specifications. They are not held for Agfa's ePhoto Smile, and I don't trust Agfa at all. Just look at pictures from Agfa's ePhoto Smile on web: You will need to scale them down to 80x60 pixels before you get any reasonable result.
+
+I am sure, that Agfa's ePhoto Smile have less than 320x240 inside. And any higher resolution are just made by the driver software, or something build in the camera to fool the user. And I am sure, that some 1280x960 camera's may even be made in exact same way. Check the quality before you buy. Dimera 3500 is ok. But it uses not less current than specified in its technical specifications. And it is a bit to much. And the battery gets flat too, even if the camera have been turned off for months.
+
+The camera held about 7 pictures in the 2MB flash, at 640x480.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

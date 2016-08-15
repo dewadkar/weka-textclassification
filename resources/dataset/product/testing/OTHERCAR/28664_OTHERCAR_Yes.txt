@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 28664 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_KodakDCC-Kodak_DC-200 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-7124-256A8D5-38529E99-bd4 </URL>
+<TEXT>
+            I purchased the Kodak DC200 to see what all the fuss was about. I was instantly amazed at what it could do. No film, no developing, and instant photos for printing. This is definitely a camera for first timers to see if they like the technology. I had no trouble installing it and the  complimentary firmware I downloaded from the Kodak web site was very useful as it extends the battery life, which is quite short.  I hooked up a power supply and keep it by my computer ready to go. I only leave the batteries in if I'm on the road, as they do run down. The user inter face is quite easy to grasp. The pictures are not professional quality but for a fun camera, or to test one out, this is a good buy. The self timer and the ability to delete photos on the spot add extra functionality to it.  When you run in preview mode make sure you are using a power supply if at all possible as it really drains the batteries, but is a handy feature to have.  Most graphics programs use the Twain inter face to download directly into the program. Downloading is a bit slow on the serial port. You might want to check out your favorite graphics program to see if it supports the Twain inter face. I am glad I got it.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,16 @@
+DOC>
+<DOCID> 20005 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1999_Lexus_ES_300 </PRODUCT>
+<URL> http://www.epinions.com/auto-review-5BFE-932D4A5-3961056A-prod4 </URL>
+<TEXT>
+            I bought the Lexus ES 300 because I needed a new car.  I wanted a nice car with style.  I also felt that the Lexus ES 300 was reasonably priced.  I also needed a car with four wheel drive because I live in New Jersey where it snows often.  The ES 300 is the only Lexus with four wheel drive.  
+I love this car because it handles extremely well.  This car has a smooth ride and compares to no other in its category.  
+I have had this car for a year and a half and have had no problems.
+This car also has a great alarm system.  I work in a city and no one has broken into it.
+I feel that anyone should buy this car.  It is great and I have had no problems.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

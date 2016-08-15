@@ -1,0 +1,39 @@
+DOC>
+<DOCID> 34206 </DOCID>
+<PRODUCT> Digital_Cameras/613421_Epson_PhotoPC_3100Z_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_57580293764 </URL>
+<TEXT>
+            Why get a digital camera anyway? For me it was two main reasons, my need for instant gratification that was whetted by Polaroid then one-hour photo operations and my desire to have more creative control of what I shot than film gave me.
+
+I have been taking pictures since I started with a Kodak Brownie shooting 620 film as cub scout. I moved to 35mm as a young adult and to SLR in my mid years. What I always missed was the ability to fudge the film after I saw the print. Even with good composition (which, by the way, the Epson won't do for you) I wished I could just tweak the colors a little toward what I remembered when I took it. With any digital camera and a computer, the opportunity to fix moxt aspects is available to the amateur photographer.
+
+That explains why digital, but why Epson? The 3100Z met my requirements for pixel count (enough for 8X10 prints), ease of use, ability to control the shot like I was used to with my Minolta 35mm, good feel when taking pictures, reasonable zoom range (3X optical and 6X with digital zoom on) for a fixed lens, tripod socket, easily replaceable memory cartridges, and an external flash capability along with the snapshot level internal flash.
+
+The camera comes with alkaline batteries, a 16mb memory card, a nice fitted camera case and strap, a lens cover, good manuals, a one year typical warranty, and decent software for the computer. My first upgrade was to a 64mb memory card that gives me over a 1,000 shots at the lowest resolution and nearly 50 at the highest. My second upgrade was to nickel metal hydride AA batteries.
+
+For a guy who loved his SLR this camera feels right when I pick it up. The shutter button is easy to find without looking and far enough away from other controls so you won't inadvertently change something.
+
+The top of the body has a hot shoe for external flash, a selector switch for picking special kinds of shots like short video clips or panorama shots, normal shots using the nice size LCD screen, shots with the screen off using the coupled viewfinder, a position to view the pictures in the memory, a position to download those pictures through a USB port (cable included), and a position to do camera setup from the extensive menu choices available. Hidden in the center of this selector is the power switch. You would have to work at it to hit it accidentally. There is also a button that lets you toggle flash on, auto, off, or red-eye minimizing and a 10 second self-timer to allow you to get into a group picture for instance. Then there is the button that lets you select the number of pixels of resolution you want to record. It ranges from 640X480 up to 2048X1536 in the highest native mode. HyPict interpolation allows 2544X1904 pixels, affording blowups on prints up to 11X17 ". This high resolution comes at a price of significant memory usage and 20-30 seconds processing time before you can shoot the next picture. I find this setting most useful when I know I will want to heavily crop the picture I'm taking before I print it.
+
+The back of the camera looks more like the business side of PDA (portable data assistant). The center portion is taken up with the LCD display which works quite well even in high ambient light. Surrounding it on two sides are a series of buttons whose functions vary based on what menu you are using. The coupled viewfinder gives you a good view of over 90% of what you will see on the stored picture.
+
+I won't go into all the various options this camera has. In full automatic mode it has very few. It is, in effect, a point and shoot camera with zoom. In program mode it has limited creative control. In practice I can't see much difference in pictures from one mode to the other. In manual mode, it very well emulates a pro-sumer 35mm SLR with computer control. In this mode you have full creative control. For more details on what this camera can do, go to the Epson web site where all the manuals are available for free download.
+
+I was disappointed in the quality of the pictures in automatic mode where flash was needed. The shutter speed drops too fast and you get blurring of motion even with flash. Sometimes the pictures come out muddy. I find that if I push the shutter release half down and let the camera set up before I shoot, this problem is much less. It doesn't seem to help the blurring, however, which is caused by camera or subject movement during the 1/30 second it is open.
+
+Program mode is a little better. There is a sports (action) mode which holds the shutter open only 1/50 second. That helps some. If you want the best pictures from this excellent product, use the manual mode and take the time to learn its tricks. Another advantage of digital over film cameras will become apparent when you just erase the test shots instead of paying for processing and more film.
+
+A brief review can't cover all the features that come with this camera. Now that I understand its quirks and with the capability to overcome many of them in subsequent image processing steps, I love it. With the right printer, you don't even need a computer to get pictures as good as you would with a good film camera and one-hour processing. You can mark which images you want to print while they are in the camera, then plug the memory card into a compatible printer (I use the Epson 785EPX) and print them. My wife loves this feature since she is a little computer phobic.
+
+If you want to show what you've just shot to a group of friends and have a TV with A/V jacks available, you can hook the camera up with the included cable and show them on TV. You can erase pictures in the camera. While viewing pictures in the camera you can zoom in and mark them for printing. You can record brief notes when you take each picture. In short, you can do more than you can remember for the first year. I keep discovering and rediscovering new things every time I pick up the well written manual that accompanies it.
+
+If you can see good compositions, understand a little of the physics of photography, and have a steady hand, this camera can take pictures every bit as breathtaking as the best SLR. With the control allowed even through the somewhat low-end (but pretty easy to use) software you can almost turn the proverbial sow's ear into a silk purse.
+
+In a price range that fields a number of good cameras, this one stands out as one of the best. 
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

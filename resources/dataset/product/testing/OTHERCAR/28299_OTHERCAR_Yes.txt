@@ -1,0 +1,43 @@
+DOC>
+<DOCID> 28299 </DOCID>
+<PRODUCT> Digital_Cameras/Canon_S230_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_80767782532 </URL>
+<TEXT>
+            With the release of the Powershot S230, Canon finally introduces a 3-megapixel camera to their popular "Digital Elph" line.  The biggest draw for Canon's entire Elph series, of course, has always been the small and attractive stainless steel body which they all possess.  The S230 improves on the 2-megapixel S200, one of the best-selling cameras of 2002, while retaining its predecessor's compact size.
+<p>
+<b>Vital statistics:</b><br>
+Let's cut to the chase.  The first thing people will notice about the Powershot S230 is its size.  When the camera is turned off and its lens retracted, the S230 measures just 3.4 x 2.2 x 1.1 inches.  To put it in more concrete terms, that's about the size of a deck of playing cards, though somewhat thicker.  Its body is almost entirely stainless steel, giving it an elegant look and a very sturdy feel.  With the battery and memory card loaded, it weighs a mere 6.4 ounces, making it one of the most portable cameras on the market today.
+<p>
+The S230 features a 2x optical (35-70mm) f/2.8-4.0 zoom lens and a 3.0 megapixel CCD sensor.  The camera is also capable of a 6.4x digital zoom, although most consumers find this quite useless as it detracts from the resolution of your photos.  The same thing can be accomplished with any photo editing program after the fact.
+<p>
+The S230 captures images up to 2048x1536 pixels or you can select 1600x1200, 1024x768 or 640x480 resolutions for more storage capacity.  For the more serious hobbyist, the S230 also features a Photo Effects mode (which consists of vivid, neutral, low sharpening, sepia and B&W modes); a shutter speed range of 15 seconds to 1/1500 second; spot metering; and manually adjustable ISO settings from 50 to 400.  You can also record movie clips with audio at 20 frames per second at resolutions of 640x480 (30 sec limit), 320x240 or 160x120 (3 min limit).
+<p>
+All images/movie clips are stored on a CompactFlash card.  The camera comes with a 16MB CF card which is enough to get started with, but you'll probably want to get a larger card.  These come in sizes up to 512MB which is enough to hold 256 images at maximum resolution with minimum compression.
+<p>
+The S230 uses a proprietary rechargeable lithium-ion battery.  Canon estimates that you'll be able to take about 295 shots with 50% LCD usage or spend 130 minutes in playback mode.  I haven't been able to corroborate this personally since I typically just charge the battery up each night.  Two hours is all that's needed for a full charge.
+<p>
+<b>Using the camera:</b><br>
+Using the S230 is simply a breeze!  Of course when the camera first arrived in the mail, I wasn't inclined to spend an hour going over the manual first.  After charging the battery briefly, I was out snapping photos, and I have to say that basic operation is quite self-explanatory.
+<p>
+Those who have played with lots of other digital cameras will notice that the S230 has a pretty snappy startup time.  It takes under two seconds to power up.  Regular point-and-shoot operation works just like that of any other camera.  Push the shutter release button halfway to focus (which takes about a second) and then the rest of the way to take the photo.  Shutter lag in the S230 is minimal!  This is in contrast to other cameras where it may take one to two seconds before the shot is actually taken.  It's still difficult to take action shots, however, but this is more a result of having to use the auto-focus.  I've never had much luck taking action shots with an autofocus camera.
+<p>
+Shot to shot speed is pretty decent as well.  The S230 is ready for the next shot within about 2 or 3 seconds.  If you want rapid sequence photographs, however, under continuous shooting mode, you can take about 2 photos per second by holding down the shutter release button.  Once you've gotten the hang of basic operation, you can start experimenting with the manual mode in which you can adjust ISO speed and shutter speed.
+<p>
+The results have been quite remarkable so far.  Photos have accurate color with no chromatic aberrations that I have seen so far, although as with any camera, colors do tend to get washed out when using a flash.  Even with long exposure shots, there is very little noise.  The one thing that I do notice is that even with the "red-eye reduction" flash mode, "red-eye" is a significant problem.  As you probably know, the closer a flash is to the lens, the more of a problem this tends to be, so it's to be expected with a camera of this size.  This is easily corrected with Photoshop after the fact, but somewhat of an annoyance nonetheless.
+<p>
+Movie mode is nice, although something I rarely use.  The S230 records sound with the movie clips, and this is done through the built-in microphone which can be found just under the flash.  As with all other cameras that include audio, the zoom function is not available during recording.  Rather than being limited by the size of the memory card, you are limited to a 30 sec. clip at the highest resolution (640 x 480), and up to 3 full minutes at lower resolutions.  Movement is a tad jerky, so it certainly won't replace a real digital video camera, but it's more than adequate for recording little clips to email to friends or to put on your website.
+<p>
+<b>Computer interface:</b><br>
+The Canon S230 comes with some pretty respectable software.  The included CD contains something called the Digital Camera Solutions software, as well as ArcSoft's Camera Suite.  The Digital Camera Solutions include an image browser for both Mac and PC, a photostitch for making panorama shots or Quicktime VR files, and a remote capture program which lets you control your camera through your computer using the USB connection.  I'm told these are quite functional and easy to use.  However, the BEST part of the S230 is that it is plug-and-play in both Windows XP and Mac OS X environments.
+<p>
+To be honest, I never even removed the included CD from the package.  Without even needing to install drivers, the S230 can be connected to either a Mac (running OS X) or a PC (running Windows XP) and the computer will open its native digital camera browser allowing you to download the photos to your harddrive.  If you have a CompactFlash reader, it is even simpler!  Just pop the CF card out of your camera and into your PC and browse its contents as you please!
+<p>
+
+<b>Conclusions:</b><br>
+Quite honestly, I've been researching digital cameras for the last two years, and when I heard the S230 was coming out, I jumped on it.  Unless you plan on making prints any larger than an 8x10, a 3 megapixel camera is probably as much as most people will need.  The Canon S230 is a perfect blend of compactness, "pixel power", and zoom on the market today.  There's a reason why the Elph/Digital Elph series has been among the best-selling cameras on an annual basis.  The S230 deserves serious consideration from anyone looking to buy a digital camera.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

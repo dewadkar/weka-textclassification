@@ -1,0 +1,59 @@
+DOC>
+<DOCID> 21535 </DOCID>
+<PRODUCT> Digital_Cameras/Canon_Powershot_S200_Digital_Zoom_Camera__Camera_7646A001 </PRODUCT>
+<URL> http://www.epinions.com/content_64507514500 </URL>
+<TEXT>
+            I�ve had my <b>Canon PowerShot S200 Digital Elph</b> for about 2 weeks and love it.  It is the first digital camera I�ve purchased, and in comparison to the digital cameras that my friends have (Sony DSC-P1 Cybershot, Nikon CoolPix 775), the <b>Canon S200</b> is just as good but smaller.  If you haven�t thought much about the size of a camera, think about the convenience in carrying it around.  If you own a wireless phone, PDA, or any other consumer electronics product, being bulky is not a good quality.  Would you buy a desktop that takes up lots of space or spend a little bit more and get a laptop?  Everything is getting smaller to be more convenient.  
+
+Unless you�re a professional photographer, you might not need the best technology in your digital camera.  For the occasional photographer, the 2.0 megapixel, tiny <b>Canon S200</b> is a perfect fit.  It�s a powerful camera that�s <b>smaller than a bar of soap</b> (ok, maybe not the hotel variety).  The design is very appealing, and the buttons are big enough to make it simple to navigate the camera�s many features.  Being so small, it�s easy to take anywhere.  If you�ve lugged around a regular camera, you know that it�s a little bulky to drag around.  The <b>S200 </b>is small enough to fit comfortably in a pocket.  Even though it�s small, it still has a decent weight so it doesn�t feel like a toy.  I purchased it off amazon.com thanks to a gift certificate.  As a bonus, when you purchase a digital camera on amazon, you get a <b>$25 coupon</b> on flash memory cards, so I bought a 256MB card, definitely a good investment especially if you may want to use the flash card for transferring other data files.  
+
+<b>The Basics</b>
+<b>Megapixels:</b> 2.0
+<b>Lens:</b> 5.4 (W) � 10.8 (T) mm (35 mm equivalent 35-70); F2.8 (W) � 4 (T)
+<b>Digital zoom:</b> 2.5x; 5x optical
+<b>LCD Monitor:</b> 1.5-inch color LCD, 120,000 pixels
+<b>Dimensions (w x h x d):</b> 3.4 x 2.2 x 1.1 in
+<b>Weight:</b> 6.4 ounces
+<b>Image Quality:</b>  
+   <i>Still (JPEG):</i> Large (1600 x 1200); Medium (1024 x 768); Small (640 x 480)
+   <i>Video (AVI):</i> 4 sec (640 x 480); 10 sec (320 � 240); 30 sec (160 x 120)
+
+<b>Shooting Modes:</b> <i>Auto, Manual, Stitch Assist, Movie</i>
+For most pictures, you�ll likely use the <i>Auto Mode</i>.  It�s the no nonsense way to take photos.  Most neophytes like me will use this mode and be happy with the camera.
+
+With the <i>Manual Mode</i>, you can let your artistic side loose shooting in black and white, use sepia tones, adjust the white balance or exposure compensation to get the right photo.  
+
+With the <i>Stitch Assist Mode</i>, you can create awesome <b>panoramic shots</b>.  Simply take a photo, move to the left or right to shoot the next photo keeping about 20-40% of each subsequent photo in common with the previous.  As you take each photo, the display will show you the last the photo you last took so you can line up the next one just right: a very nice little touch that makes this mode extra user-friendly.  When you�re done, the included software will stitch them into one photo.  One note: if you take photos of people and they are in the overlapping zone, just be sure that they stay relatively still while you take the photos otherwise, they�ll look blurry as the software dissolves the similar sections together.  But it�s a cool effect to have someone looking to the left and right at the same time, kinda like the Matrix.  
+
+One of my favorite features of the <b>S200</b> is the <i>Movie Mode</i>.  Like most people looking at digital cameras and camcorders, the price of the latter is still a little too steep, so having a movie feature in a digital camera is a nice bonus that will tide you over till camcorders drop in price.  The movie mode takes <b>20 frames/sec with sound</b> (AVI, Quicktime included in software bundle).  With my 256MB flash card, I can take about <b>8 second</b> movies at the highest quality and around <b>30 seconds</b> at the lowest.  There�s no speaker in the camera (the Canon S330 includes a speaker, essentially a bigger camera with a 2.5 optical zoom), so you won�t hear the sound in replay mode, but fear not it�s there and is of decent quality.  Unlike the Nikkon Coolpix, you can�t zoom while shooting, but then again the Coolpix doesn�t have a microphone.  The only way this mode could have been better is if it recorded in MPEG instead of AVI.
+
+<b>Rechargeable Lithium-Ion Battery
+Battery Life:</b>
+<i>LCD monitor on:</i> 150 images
+<i>LCD off:</i> 420 images
+<i>Replay:</i> 100 minutes
+Like most digital camera, the <b>S200</b> also drains a battery pretty quickly.  But <b>for the most out of the battery, turn the LCD monitor off to take pictures</b> and use the LCD just to review shots occasionally.  You can�t turn off the LCD for movies, but you�ll notice a much longer battery life with the LCD off otherwise.  If you prefer to keep the LCD on, you�ll need to consider buying an additional battery ($40-50), handy to have when your on vacation.  
+
+<b>Flash Memory</b>
+The standard 8MB is fine just to get you started and to use while you�re learning the different features.  But when you�re ready to take more than a few pictures at a time, you�ll have to <b>purchase a larger memory card</b>.  With 256MB, I�m more concerned with my battery running out than filling up my memory card.  
+
+<b>Display Modes</b>
+With the <b>S200</b>, you have the flexibility to view your images in multiple forms.  You can also protect pictures from accidental deletion.  
+
+<i>Single image view:</i> the standard way to view your pictures
+<i>Index view (9 thumbnails):</i>  very convenient to scroll quickly through the many pictures you�ll take; not sure if other cameras offer this feature
+<i>Zoom view (up to 10 x):</i> consider this an addition to the single image view to see the finest detail of the photos you take
+<i>Slide show:</i> a nice feature to have to showcase your photos; you can set the timing from 3-10, 15 or 30 seconds.  
+
+<b>Software</b>
+The only one that I�ve used is Canon PhotoStitch 3.1 for making panoramic shots.  It�s very easy to use.  Just open the files, put them in order and the application does the rest.  I use ACDSee to organize and fix photos and also have Photoshop so I wasn�t in need of more software.  The others are: ZoomBrowser EX 3.3 (organizing photos), PhotoRecord 1.4.2 (add backgrounds, borders, comments to print images), RemoteCapture 2.4 (allows camera�s shutter to be controlled by CPU when connected), RAW Image Converter 2.0 (if you have RAW images taken with another camera and need to convert to JPEG or TIFF), Camera TWAIN Driver 4.3, Camera WIA Driver 4.3, CP-10 Printer Driver 1.0, and QuickTime 5.0
+
+<b>The Verdict</b>
+There is no other camera the size of the <b>Canon S200</b>.  It's the smallest camera on the market next to another Digital Elph.  It also has competitive features relative to other 2.0 megapixel cameras, but the size is what makes the <b>Canon S200</b> stand apart from the rest.  Why would you buy a large camera when a smaller one can do just as well?
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

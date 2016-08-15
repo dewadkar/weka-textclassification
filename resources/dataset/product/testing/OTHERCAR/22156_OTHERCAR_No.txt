@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 22156 </DOCID>
+<PRODUCT> Digital_Cameras/pr-D-Link_DSC-350_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_11958193796 </URL>
+<TEXT>
+            I bought this several months ago and never use it anymore.  It takes very poor pictures in indoor light, and there is no provision for a flash, which could help.  I keep meaning to carry it around in the car for quick outdoor snapshots, as sunlit pictures turn out much better than indoor ones.  From the manufacturer's Web site, I thought it would be possible to record continuous video when the camera was plugged in, but it seems that the video capability is limited to what can be stored on the internal RAM.  There is 8MB of internal RAM, which can hold quite a few pictures even in the highest resolution.  Pictures transfer from the camera to the PC well enough.  The software that comes with the camera includes MGI VideoWave III, which works fairly well.  All in all, though, a disappointment.
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

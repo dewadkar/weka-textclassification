@@ -1,0 +1,74 @@
+DOC>
+<DOCID> 32856 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_NikonCoolpixx-Nikon_Coolpix_880 </PRODUCT>
+<URL> http://www.epinions.com/content_16376303236 </URL>
+<TEXT>
+            Update after 1 year: the battery cover is held by a tiny plastic hinge that broke after 1  year. Since the warranty is only 1 year, the camera is unusable unless I tape it up after every battery change. Very disappointed at the poor quality.
+
+Get beyond the specifications...here are the best features and worst flaws from a real life experience of using the Coolpix 880 after taking 1000 photos around the world. There are excellent reviews covering all the features and specifications of the Coolpix 880 at http://www.dpreview.com or at Nikon's website, so I don't intend to repeat them. Rather, this is about the actual experience of using the Coolpix 880 and the nuances/eccentricities of this camera. 
+
+I have used Nikon's SLR cameras for many years. My foray into digital photography is primarily for leisure, travel and simple website production, so my criteria for a digital camera is in the order of convenience, quality, and features. I have yet to find the perfect digital camera, considering this is my fifth in one year. The Coolpix 880 comes closer, but not yet.
+
+<B>BODY</B>
+As in other Nikon cameras, the body is well constructed and robust. I've dropped it once or twice from the shoulder strap with no damages. 
+
+The body is compact and very light, making it very handy to carry. The drawback is that it is difficult to hold comfortably, even for the smaller lady's hands. Camera shake as a result is quite common. After several hours with the camera however, you can probably find the best position for yourself.
+
+<B>CONTROLS</B>
+The placement of control buttons are a great improvement from the Coolpix 800. Everything is accessible from the back panel and buttons have the correct 'feel'. However, the overwhelming features of the camera makes it too complicated to use. For example, to change the exposure compensation, you have to press and hold one button, then toggle the up/down buttons. In Manual exposure mode, press and hold one button, then toggle the up/down for shutter speed, or the left/right for aperture. There are a dozen such combinations that are almost impossible to remember!
+
+<B>EXPOSURE</B>
+The 256-segment matrix metering, also found in Nikon's SLR, works very well in most situations. In most cases, all I need to do is to adjust the exposure compensation slightly. In special circumstances, the Scenes modes came in quite handily (see below).
+
+My main complain is the manual exposure mode. Designing the light meter display into the main LCD display makes it difficult to read against the background picture. The meter appears for only 10 seconds after you start adjusting the shutter speed/aperture. Couple this with the annoying shutter speed and aperture controls, it is almost impossible to manually expose a picture!
+
+Another feature that is over-rated is the Aperture mode. This would have been a great compensation for the Manual mode, if not for the limited settings. In fact, there are only 2 aperture settings. At the widest zoom, it's either F2.8 or F7.8, nothing in between.
+
+I usually stick to Program mode (and use Exposure compensation) or Scenes mode for most situations.
+
+<B>SCENES</B>
+The Scenes modes are pre-set exposure settings for situations such as Sunset, Landscape, Copy, etc. It seemed gimmicky initially, but is actually quite useful. Consider it as a quick way to change several settings at once. For example, to take a picture of a landscape, you would have to press up to 10 buttons to turn off the flash, choose the smallest aperture and set infinity focusing. In Scenes mode, just press the Menu button and select the appropriate scene.
+
+<B>QUICK-PLAYBACK</B>
+This nifty button lets you preview the picture you've just taken without having to switch to 'Play' mode. Press once to get a small thumbnail, press twice to get a full preview, press a third time to cancel the preview. Great feature and I use it all the time. 
+
+The only complain is, why the hassle of pressing so many times for every picture?! The thumbnail is almost useless when considering how small the LCD screen already is.
+
+<B>AUTO-FOCUS</B>
+The 4096-steps auto-focusing system is one of the best in class, but it also results in slow focusing times. That is the main complaint I've seen on the Coolpix 880 forums. To overcome this, I usually pre-focus (half-pressing shutter button) before composing. This works pretty well.
+
+The 5 selectable focusing region is useful when handing the camera to someone on the street to take your picture. I usually show the person how I want the picture composed, which often doesn't have the main subject in the center. This would usually result in blurred subjects if the auto-focusing system doesn't correctly 'guess' the main subject region. To get around this, I usually set the focusing region to manual, compose the picture and select the region that corresponds to my main subject. 
+
+<B>FLASH</B>
+The flash is only marginally adequate, covering up to 3.7m or 12'2". Anyway, I usually turn off the flash even for indoor shots as the colors are much more natural. This is definitely an area where digital photography is so great at. Take a picture, preview, change the appropriate settings and re-take the picture. And the Coolpix 880 has many feature in this area, including white balance (which I use most frequently), contrast, brightness, and sharpness. Now if only these features were not buried in menus and be more easily accessible.
+
+<B>ISO SETTING</B>
+The ISO setting is a great feature that's frequently overlooked. The Coolpix 880 has these settings: Auto, 100, 200, 400. When taking indoor shots without flash, change it manually to 400 to get a faster shutter speed (in return for a little bit more noise). The Auto setting doesn't always choose the best setting. I only wish the Coolpix 880 had higher ISO settings of 800 and 1600.
+
+<B>SAVING OPTIONS</B>
+The Coolpix 880 has 4 controls that can be saved and remain in effect when the camera is turned off. These are flash setting, focusing mode (macro/infinity/normal), exposure compensation, and digital zoom. Since I usually want the flash to be off, so this is a great feature. I have the exposure compensation and focusing mode turned off as I had the experience of taking several underexposed pictures when I forgot to reset the saved settings.
+
+<B>SHOT CONFIRM</B>
+This is a useful feature that is not highlighted. Unlike an SLR, the Coolpix is silent when taking a picture. To let your subject know when the shutter has been released, turn on the shot confirm feature. When the shutter is released, the red-eye reduction lamp is flashed once. To find this feature, turn dial to Setup, scroll to the menu Pic Data/Confirm and Shot Confirm.
+
+<B>PIC DATA</B>
+The Coolpix 880 lets you see detailed information about the picture you've taken, including all exposure settings, focus regions, date, time, and even a graph showing intensity levels. These are stored as metadata together with the JPG file which can be viewed in certain applications.
+
+The only problem is that not all applications support metadata. If you modify your picture in PhotoShop for example, the metadata is lost. You can however turn on the Picture Data feature which stores the information into a text file in the same folder as the JPG file.
+
+<B>BATTERY</B>
+Short battery life (and the hefty cost of the not-included battery and charger) is the number 1 complaint about the Coolpix 880. The battery is rated at only 90-110 minutes in the manual. 
+
+For my uses, the battery life is manageable. I use it like a cell-phone and recharge the battery every night. And I usually carry a spare 2CR5 lithium battery, which is easily available at camera and electronic shops. The charger, though large, is fortunately quite light.
+
+<B>REBATE</B>
+Nikon has been listening to the tide of complains about the battery and charger. They are now offering a $50 rebate if you buy a batter/charger set together with the camera. Rebate is on till May 2001...check out www.NikonUSA.com
+
+<B>SYSTEM ERROR!</B>
+This is an update...I've just encountered the dreaded 'System Error' that's much like the error you see so often on Microsoft Windows. I turned on the camera on 'Setup' mode, adjusted the time, date and other settings, then turned it to 'Program' mode. The lens extended out as usual, but at the end of the extension, something wrong happened and after some whirring sound, the lens retracted. The image appearing in the LCD is all blurred, otherwise the camera seems to think it's working. When I tried to turn it off, it would shut off and the message 'System Error' came on. Nothing would fix the camera. So I took out the battery and left it overnight. Next morning, it was fine again. Obviously, the camera software is very sensitive, especially with regards to the Mode dial.
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

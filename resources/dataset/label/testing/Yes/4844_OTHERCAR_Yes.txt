@@ -1,0 +1,102 @@
+DOC>
+<DOCID> 4844 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Canon_Digital_Rebel_EOS-300D_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_125186117252 </URL>
+<TEXT>
+            <b>Introduction</b>
+I've been involved in photography for about twenty years. It all began when I was a kid and my mother bought my father a Minolta X-700 SLR camera with an external flash. Dad hates to read manuals, and so the camera went mostly unused until I picked it up and started playing with it. Soon I became the photo editor for our school magazine, and a contributor to the school yearbook, the standard stuff for a photography geek.
+
+Fast forward a dozen or so years, when I got my hands on my first <i>real</i> digital camera, a 3+ megapixel Olympus with full manual capabilities. But I still found myself sticking mostly in "Automatic" mode because moving through the other modes was cumbersome. And I longed for real zoom capabilities and multiple lenses.
+
+When digital SLRs first came out, I wanted one in the worst way. But the first ones carried price tags of several thousand dollars. Finally digital SLR camera bodies came down in price to around $1500, a strong prosumer level. But I told myself I would wait until they were under $1000.
+
+Apparently, Canon knew there were people like me out there. A <i>lot</i> of us. Because they were the first to release a camera body that not only came in under $1,000, but came in at $899, $100 less! And not only that, but for that magical extra $100, they would sell you that camera body in a kit with a lens!
+
+It was a poor digital photographer's dream come true.
+
+<b>Buying the Camera</b>
+It didn't take much research for me to realize that this was the camera for me. I went to a local Ritz camera and purchased the <b>Canon Digital Rebel</b> kit for $999.
+
+The kit includes almost everything you need to get started right out of the box. All that you need to provide is a Compact Flash memory card (I'd recommend 256MB or above). Unlike most cameras which were sold with only the body, Canon includes an 18-55mm lens specifically designed to work with the digital SLR's 1.6 crop factor (more on that later).
+
+In addition to the camera body and lens, the kit also comes with the following:
+- Battery and battery charger
+- Neck strap (a rather sturdy one, in fact)
+- Manual and Quick Reference guide
+- EOS Digital solutions CD
+- Adobe Photoshop Elements 2
+- USB cable for downloads
+- Video cable
+
+All of the contents are packed in one compact box. I purchased mine on my lunch hour and brought it back to the office. I rooted through the box for the battery and battery charger and set them up at my desk to charge fully before using the camera for the first time.
+
+<b>Using the Camera</b>
+After charging the battery I pulled out the body and the lens, attached the two, inserted the battery and my CF card, and took a few test shots of my coworkers at work. Immediately I was impressed with how solid the camera felt. I had read criticisms of the lighter body that Canon used to bring the price of this camera down a little, but I didn't think the camera was "flimsy" or too light at all.
+
+There was no noticeable shutter delay and in automatic mode, the Canon fired quickly and reliably, flipping up the on-board flash in low-light conditions. This camera has a 7 point auto-focus system so most photos can be composed and shot without having to focus in the center, recompose, and then take the shot. It's good to note however that if you're extremely used to focusing in the center and then recomposing, you can turn off the 7 point AF and just set the center focus point as active.
+
+After taking a photo, the image flashes up momentarily on the LCD display for viewing. You can set multiple display times for each image. The moment you hit the shutter button, the display disappears and the camera is ready to instantly take another shot. If you are concerned about exposure levels, you can set the display method to "Info" for all shots, which displays a smaller version of the image along with all of the shot information and a histogram of the shot. You can also display the histogram for any given shot on a picture-by-picture basis by simply pressing the "Info" button while reviewing your photos.
+
+Reviewing photos is also extremely easy. Once you've taken several shots, simply press the review button (a small "play" symbol) on the back of the camera. You can scroll through shots, see multiple shots, and zoom in and out to check for sharpness. This is a great improvement over old point-and-shoot digital cameras which require you to enter a special mode to review your photos. And if you want to take a picture suddenly while you're reviewing your photos, it's as simple as aiming the camera and pressing the shutter button. The display disappears and the camera is ready to take another shot instantly.
+
+The Digital Rebel is also capable of taking multiple photos. The camera does exposure bracketing (which requires 3 shots) and white balance bracketing (requiring one shot). The continuous shooting mode will let you take up to four shots, one instantly after the other. It's perfect for sports and other fast action situations.
+
+In case it's not obvious by now, in my opinion the Digital Rebel is an absolute joy to use. It's intuitive, highly responsive and versatile. 
+
+<b>Technical Specifications</b>
+The Digital Rebel supports several camera modes and zones. The following zones may be used on the camera:
+
+<b>- Basic Zone:</b> This is the fully automatic mode. If you're looking for point-and-shoot action, this is the mode to use.
+
+<b>- Image Zone:</b> The camera still performs functions automatically, but it makes some ISO, shutter speed and aperture modifications to suit the condition you've selected. The available Image Zone modes are: <b>Portrait, Landscape, Close-up, Sports, Night portrait, No Flash</b>.
+
+<b>- Creative Zone:</b> This is the most customizable set of modes. You can control some things, or everything, depending on what you want. The Creative Zone includes these modes: <b>(P) Program, (Tv) Shutter-Priority, (Av) Aperture-Priority, (M) Manual Exposure, <b>A-DEP</b> Automatic Depth of Field.</b>
+
+Switching between these modes is as easy on the Digital Rebel as it is on any standard 35mm SLR. The dial is very simple to use and switch between shots.
+
+<b>Technical Hangups</b>
+As much as I love the Digital Rebel, there are a few things that are less than perfect. 
+
+<i>Crop Factor</i>
+The first item is something that is the same across most, if not all, digital SLR's. The Digital Rebel has a "1.6 crop factor". What this means is that because the size of the sensor recording the image inside the camera is smaller than a 35mm film sensor, all lenses that you put on the camera are not <b>strictly</b> the same "factor" that they indicate. For instance, the 18-55mm lens that comes standard with the Digital Rebel is really more like roughly a 28-85mm lens. A 300mm zoom lens is roughly 450mm. 
+
+It is for this reason that Canon built the specific 18-55mm lens for this camera. They developed this lens just for the Digital Rebel so that photographers could capture wider angles with the Rebel without having to go out and buy an expensive wide-angle lens. The kit lens, while not perfect and "serious glass" as the pros like to call it, is great for a starter lens. From there you can purchase other lenses and while the 1.6 crop factor may be one downside of digital SLR's, the upshot of it is that you can buy 70-200 or 300mm lenses and get even <i>more</i> zoom capabilities than you would with a film camera. When a camera store let me demo a 300mm telephoto lens using their Digital Rebel, I could see the keyhole on an SUV in the parking lot. The extra magnification makes the camera an excellent choice for using with a telephoto lens to take photos of wildlife from a distance, in good lighting conditions.
+
+<i>Lack of onboard FEC (flash exposure compensation)</i>
+Another drawback of the Digital Rebel is that unlike it's higher end Canon counterparts, there is no ability to set FEC on the camera itself. FEC allows you to increase or decrease the lighting from the flash, especially external flashes that you attach to the camera. It's particularly useful if you know that you are photographing dark subjects. If the camera had FEC built-in, you would be able to boost it in order to improve the exposure.
+
+There are two ways around this problem. It's interesting to note that the Digital Rebel is technically capable of having the FEC modified, but Canon did not allow the functionality in the firmware of the camera, presumably to encourage higher end camera users to purchase one of their higher end digital cameras, not the Digital Rebel.
+
+The first way to tackle this problem is to buy the 550EX Speedlite flash from Canon. This flash attaches to the Digital Rebel body and you can set your flash exposure directly on the flash unit, rather than having to set it on the camera.
+
+The second way to manage this issue is a little less flexible; a few software programs have been written to alter the FEC setting on the Digital Rebel. I downloaded one of these programs and boosted my FEC to +2/3 for general use. This is a less flexible alternative because your camera must be connected to your computer via its USB cable in order to make this change. When you're out in the field taking shots, you can't alter your FEC.
+
+<b>Downloading Images</b>
+Downloading images from the Digital Rebel is simple. You have one of two options: The first option is not ideal. You attach the camera to your computer via the included USB cable. I don't know for certain the specs of this cable, but I'm presuming that it's USB 1.1 given how <i>incredibly slow</i> picture downloads from this method are. Alternatively, you can purchase a CF card reader with a USB 2.0 or Firewire interface and just put your CF card into the card reader to download your images. This is a much faster way of downloading images from the Digital Rebel, and it's how I do it currently.
+
+<b>Picture Quality</b>
+The picture quality from the Digital Rebel is superb. At 6 megapixels, you certainly get enough <i>information</i> captured in the photo to enhance and make all the adjustments you could possibly want to it. The camera will allow you to capture in RAW and JPG simultaneously, meaning that you can even adjust white balance and exposure dramatically after the fact on your computer.
+
+Thanks to Canon's continuous photo numbering system, I can say that I have taken more than 2,000 photos with my camera. Even if my composition isn't great, or the lighting isn't perfect, the quality of the pictures that I get is terrific.
+
+There are criticisms out there that the Digital Rebel produces "soft" photos, ones that are not as sharp as some of the other digital cameras. The Digital Rebel is slightly softer than other cameras in image sharpness, but not enough to detract from the quality of the photo, in my opinion.
+
+What I like to do with all of the photos that I take off of the Rebel is to run a Photoshop batch job on them that does auto-levels, auto-contrast, auto-color correction and a small amount of sharpening. I find that with this batch job, the resulting photographs are stunning in their quality. Additionally, I have printed 8x10's from these images and personally, I cannot discern the quality from a good quality 8x10 produced from a 35mm film camera.
+
+In short, I love the pictures this camera produces. They require a minimum of processing and the colors and saturation are simply gorgeous.
+
+<b>Warranty and Customer Support</b>
+The Digital Rebel comes with a one year limited warranty. 
+
+<b>Warranty and Registration Information:</b> http://www.powershot.com/ciw/ppg/EOSDigitalRebel.html
+<b>Customer Service Number:</b> 1-800-828-4040
+<b>Full Digital Rebel Manual:</b> http://www.canoneos.com/digitalrebel/download/manual.pdf
+
+<b>Summary</b>
+What's to summarize, really? In case it's not obvious by now, I absolutely adore my Digital Rebel. I would rank this camera as the single best purchase that I have made in the past ten years. Is it perfect? Absolutely not, it definitely has a few shortcomings. Is it a great value? Absolutely. In my opinion, you will not find a better digital camera out there for the money. 
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

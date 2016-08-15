@@ -1,0 +1,56 @@
+DOC>
+<DOCID> 13076 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Sony_DSC-V1_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_118534475396 </URL>
+<TEXT>
+            I did a great deal of research before buying this camera.  My primary requirements were size, image quality, and style (yes, it has to look cool). I am coming from an SLR background, and my primary competition for this camera was the Canon G3 or G5.
+
+After reading reviews on http://www.dpreview.com and other review sites, I finally went with the Sony SDC-V1.
+
+I purchased my camera from a Sony Canada store; they were able to price match with a great price I found on the web.  Talk about a surprise!
+
+The V1 has an excellent set of features:
+- 5 Megapixel 
+- 4X Optical Zoom Carl Zeiss Lens (F2.8 - F4.0)
+- Sony's first hot-shoe for external flash
+- Support for Memory Stick Pro (up to 1 GB)
+- 'Hologram AF' laser based low-light AF assist
+- Five-area auto focus
+- Night Shot and Night Framing
+- USB 2.0 connectivity 
+- Full control of sharpening, tone and color saturation
+
+I was very pleased with the weight and feel of this camera.  I dislike very light electronics; I like my stuff to feel like they're solid.  The magnesium alloy body on the V1 provides that.  It feels nice and solid without being too heavy.  There are a large number of controls on the camera, but that is welcome to be as I'd rather take the time to learn what they do rather than having to scroll through menu after menu just to change one setting.
+
+The camera is easy to point and shoot, though a movable LCD (like the Canon G3) would be a welcome addition.  Not many cameras have this though.  
+
+Battery life is ok, but this is my first digital camera so my expectations may be a bit off.  I ordered extra batteries off eBay for a great price.  They never showed up however (that's a long story), but I have yet to run into a situation where I have run the battery dry, even on a trip to L.A. to see Disneyland and Universal Studios.  It does require some thought however, and since the batteries are VERY small and light, an extra one is a wise investment.
+
+Much has been said about the Memory Stick format and its relative cost.  I was able to find a Lexar 256MB Memory Stick select (not Pro) for $90 Canadian without too much trouble.  That's 100 full resolution pictures.  
+
+The Memory Stick Pro prices are somewhat higher, but the advantages of the Pro aren't that great.  The advertised data transfer rates on the Memory Stick Pro are much much higher than Memory Stick, but in practice it doesn't translate into a real world advantage; I suspect that the V1 simply isn't able to process the image fast enough to really see a difference.  Of course this depends on what you are using the camera for.  Several posts on forums I read put the image storage speed increase at maybe 20% faster.  For most people, that's not going to make a big difference.  The other advantage of the Pro is the larger sizes; 1GB sticks are available.  The cost is much too high at this point..  I would rather invest in a portable hard drive based image storage device and have a single memory stick if I need that much storage (a 4 week trip to Europe for example).
+
+PC connection is a snap.  I have Windows XP, and plugging in the camera simply gives me another drive to navigate to and copy images off of.
+
+The zoom lens is a great quality lens, but is slower than the lens on the G5 (F2.8 - F4.0 as opposed to F2.0 - F3.0). If you are expecting to take lots of indoor low light pictures, the Canon might be a better choice.
+
+There's a neat "Nightshot" feature where the IR filter is removed and IR lights are activated, allowing photography in pitch black. (Green Sepia B&W shots result).  This is fun to play with.
+
+The LCD looks very nice, though it did take some getting used to frame shots with.  Also, judging proper exposure with the LCD takes some experience; I'm still learning.
+
+At a recent wedding I found that the small built in flash is exactly that; small.  It isn't intended to operate over any great distance or in very low light conditions.  I will be investing in a larger flash soon.
+
+One problem that I have experienced and that has been remarked on on numerous photography forums is the white balance of the camera.  White balance is always a challenge for digital cameras, and there are some circumstances where the camera can be "fooled".  Some shots I took in Disneyland, for example, turned out with a noticeable bluish tint to them.  After some research I found that cloudy days, or taking pictures of shadowed subjects while standing in the sun, can result in this blue tint.  Fortunately it is easily fixed in Photoshop, or you can take a manual white balance measurement with the proper equipment (I can't recall what they are called, it's a card that is grey and if measured with the camera will result in the proper white balance setting).
+
+I've also played with the macro functionality and was quite happy with the results, though the built in macro capability isn't near as good as the Canon G3/G5.
+
+There are a large number of accessories available from Sony, including macro and telephoto lenses.
+
+Overall I'm very happy with this camera, and would recommend it.  As I mentioned though, if your subject matter is lower light or if you want lots of macro shots, the Canon G3/G5 might be a better choice.  Do your homework and you'll end up with a great camera! :-)
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

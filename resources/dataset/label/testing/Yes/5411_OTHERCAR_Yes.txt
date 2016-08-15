@@ -1,0 +1,22 @@
+DOC>
+<DOCID> 5411 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_CanonPowerShott-Canon_PowerShot_A5 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-C2E-365B2E-385FD372-bd4 </URL>
+<TEXT>
+            Recently I purchased a Canon Powershot A5, and I couldn't be happier with it.  It's sufficiently portable, comes with an 8 MB flashcard that stores up to 40 high-resolution (1024 x 768) images, and it's also easy to use.  I paid about $400 for it several months ago, and have taken hundreds of photos with it so far.  Very good quality, as good as (if not better than) anything I've seen in the $350-$600 range.
+
+It's also extremely well made -- durable and heavy, not at all flimsy.  I've dropped it onto concrete a number of times and it's held up perfectly, not a single problem.  As far as construction goes, it's a tough little piece of equipment.
+
+The package I purchased is, I believe, the standard one -- comes with an 8 MB flashcard, a serial-port cable that plugs right into the back of all computers made within the last couple of decades, and all the appropriate software.  The Adobe software included is powerful and sufficient for most applications, though I use Photoshop to touch up my own snapshots.  (Photoshop's TWAIN32 interface automatically recognizes the camera when it's plugged in, so you don't even have to use the packaged software if you don't want to.)
+
+All in all, I couldn't be more pleased.  The only gripe I have is that there's a bit of a lag between the moment when I press the shutter button and the time the camera takes the photo; this can take a little while to get used to, but it's nothing significant -- at least for me.  Oh, and like all digital cameras, the LCD -- which is awesome -- kills batteries.  Go easy on it and you'll save a few bucks for sure.
+
+Thumb's up from me.
+
+Chris<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

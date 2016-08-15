@@ -1,0 +1,244 @@
+DOC>
+<DOCID> 35264 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Canon_PowerShot_G5_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_104580419204 </URL>
+<TEXT>
+            Digital camera evolution has been truly impressive and pro-sumer models are one of the hottest segments of that high tech revolution.  The  new Canon Powershot G5 could be the poster boy for hot pro-sumer digital cameras.  The stylish little G5 is aimed at demanding advanced amateur photographers who want a full slate of pro features, loads of creative input, compact size, lots of accessories, SLR like performance, excellent ergonomics and usability, and five megapixel resolution.  The snazzy little G5 delivers across the board.
+
+Canon came late to the five megapixel party because the company&#146s camera design folks felt the standard 1/1.8&#148 CCD imager maxed out at about four million pixels. All Canon&#146s professional dSLR&#146s (D30, D60, EOS 1D. and EOS 1Ds) utilize advanced CMOS imagers and many industry insiders speculated that Canon would skip the five megapixel race entirely and drop the CMOS imager from the EOS 10D into the G3&#146s successor.  Instead, Canon&#146s product development folks surprised everyone by tweaking the standard 1/1.8&#148 CCD up to five megapixels without any noticeable rise in image noise levels, a very impressive accomplishment. 
+
+<b>What&#146s New?</b>
+ 
+The only obvious difference between the G3 and the G5 is the body color (the G3 is silver and the G5 is black).  Under the hood, the G5 is essentially a black G3 with the five megapixel CCD imager from the Powershot S50.
+  
+<i>FEATURES</i>
+
+The G5 features twelve EOS film camera style shooting modes, a new Wide-Area FlexiZone AF/AE system,  a Direct Print function, a built in Neutral Density (ND) filter, three metering modes, the ability to use Canon Speedlights,  two new Custom mode settings (allowing shooters to store personalized shooting parameters for enhanced creative input),  manual exposure and focus capability,  and an incredibly wide selection of accessories, all of which allow the G5 to be specially customized to fit each user&#146s personal and creative style.
+
+<i>DIGIC Processor</i>
+ 
+Canon&#146s DIGIC Processor (Digital Imaging Integrated Circuit) enhances auto focusing accuracy and improves processing speed while utilizing complex proprietary imaging algorithms to produce images that are optimized for sharp detailed resolution, accurate contrast, low noise, and realistic color balance.  The DiGiC processor also reduces power consumption by approximately fifteen per cent, noticeably improving battery life.
+  
+<i>iSAPS</i>
+ 
+The G5 utilizes Canon&#146s proprietary iSAPS (Intelligent Scene Analysis based on Photographic Space) technology to produce exceptional exposures in all scene modes.  The camera instantly matches the scene in front of the camera with an on board database of known scene types and then compares that information with the specific subject&#146s contrast range, lighting, color, and focusing distance to automatically determine the correct exposure. 
+ 
+<b>FUNC button</b>
+ 
+Canon&#146s engineers designed the G5&#146s user interface so that most shooting functions can be accessed through external controls (for improved usability). When users  need to resort to the menu system the FUNC button provides a menu overlay that permits users to go directly to the function they wish to modify or change.   This enhances creative control by allowing photographers to quickly, logically, and easily access the most commonly changed camera settings like exposure compensation, white balance, drive mode, ISO setting,  focus/exposure bracketing, flash options, photo effects options, and image size/quality selection.  The difference is subtle but once users are comfortable with the FUNC button, usability and speed are noticeably improved.
+
+<i>Photo Effects</i>
+ 
+The Photo Effects mode allows users to select spot metering and adjust exposure compensation.  You can also make in camera image adjustments (select vivid or neutral color saturation, adjust the contrast level, enhance sharpness, and choose sepia or B&W tonal effects). Shooters can opt to use the custom effect feature to manually adjust the contrast, sharpness, and saturation in 3 step increments (low, normal, or high).  Users can enable  photo effects in any mode, including movie mode.  Photographers can accomplish many of the same functions Adobe PhotoShop, but in-camera image adjustments are always more convenient than post-exposure image manipulation. 
+
+<b>Auto Focus bracketing</b>
+
+This feature (first seen on the G3) allows the G5 to shoot three exposures in rapid succession; one focused slightly in front of the subject, one at the camera chosen AF focus distance, and one focused slightly behind the subject.  This greatly increases the likelihood of capturing at least one exposure with precise focusing in rapidly unfolding action situations (you can&#146t use flash when focus bracketing is enabled).
+ 
+<b>Exposure Bracketing</b>
+
+Enable the G5&#146s exposure bracketing function and it behaves much the same as the focus bracketing function described above; one exposure is made at the camera&#146s chosen exposure setting and then one exposure slightly over the median and one exposure slightly under (for example  1/3EV, base exposure, and -1/3EV) selections are shown graphically on the LCD so that users can continually tweak exposures. Users can manually set the exposure increment size in one-third-step increments from &#1502;/ 2 EV.
+ 
+<b>Saving Jpeg images as RAW files after exposure</b> 
+
+Sometimes experienced photographers elect to shoot an image in JPEG format and then wish they had chosen to record it as a RAW file (RAW files are a lossless compressed format).  Users can record an image as a JPEG file, review the image, and decide AFTER Exposure that the image provides lots of room for post exposure manipulation and tweaking in PaintShop Pro or Adobe PhotoShop.  With the G5 users have three options; delete the image, save the images as a Jpeg file, or press the FUNC button and convert the image to a RAW file before saving it to the CF card.  This is a great option for serious photographers, especially those who spend a lot of time manipulating images.
+
+<b>Other neat features</b>
+   
+Enable the G5&#146s  Histogram (a graphic LCD display of the image showing areas of over exposure) feature and users can check the image post exposure with the   histogram display to verify correct exposure and re-shoot (if necessary) using information from the histogram to fine-tune exposure settings.
+ 
+An Intervalometer for time-lapse photography (with exposure intervals from one to 60 minutes and for two to 100 exposures) this function requires the use of the  AC adapter.
+
+A built-in Neutral Density (ND) filter which permits users to use slower shutter speeds or larger apertures, that normally wouldn't be possible in bright outdoor lighting. 
+The G5&#146s &#147My Camera&#148 menu permits shooters to customize the startup screen and add warning beeps and virtual shutter sounds (it always cracks me up to hear a digital camera make a shutter sound like an old manual SLR) if you like that sort of thing. 
+
+Audio notations (up to 60 seconds) can be added to still image files 
+
+<i>Exposure</i> 
+
+The G5 provides lots of exposure options including: Auto, Program, Shutter Priority, Aperture Priority, and Manual exposure modes and a selection of pre-set scene modes (exposure settings are automatically optimized for specific shooting situations like portrait or night scene). 
+The G5&#146s metering system provides three options&#151Evaluative, Center-Weighted Averaging, and Spot Metering (users can link the Spot Metering area ---through the record menu--- to a specific FlexiZone AF point).
+  
+<b>Movie Mode</b>
+ 
+The PowerShot G5 has the same movie mode as the G3.  Users can record video clips up to 3 minutes in duration (with audio) at 320 x 240 @ 15 FPS.  Video clips can be edited &#147in camera&#148. 
+ 
+<i>NUTS & BOLTS</i> 
+
+<b>Viewfinder/LCD</b> 
+
+The G5 features the same tilt-swivel 1.8" LCD as its predecessors (Pro 70, G1, G2, & G3). The LCD can be positioned below and behind the camera for over the crowd shots,  above and behind the camera for ground level shots or as a waist level finder, to the side for around the corner shots, and turned toward the front for self-portraits.  The G5&#146s LCD is bright and fluid with great color and the resolution is a bit sharper than the G3.  If imitation truly is the sincerest form of flattery then Canon should be very flattered indeed, the innovative tilt swivel LCD is such an incredible creative tool that Nikon added an almost identical version to their CP 5000, CP 5700 models, and new CP5400 models.  
+
+The G5 also provides a slightly larger than normal tunnel style optical viewfinder that zooms with lens. The eyelevel finder shows approximately 85% of the frame. Some shooters will be bothered by the fact that you can see the lens at the bottom of the optical viewfinder frame.  The optical viewfinder provides diopter correction for eyeglasses wearers, but I didn&#146t like the tiny difficult to use adjustment knob. 
+
+<b>Lens</b> 
+
+The G5 uses the proven f2.0-f3.0/35-140mm (35mm equivalent) all glass 4X zoom developed for the G3.   The lens features a built in Neutral Density filter, a useful feature especially when shooting in brightly lit outdoor settings where you may want to use a large f-stop to create a blurred background (for professional looking portraits). 
+The lens isn't threaded for screw in filters or add on lenses, but remove the  protective plastic lens surround ring, attach the optional adapter, and you can use Canon&#146s optional auxiliary wide angle, telephoto, and close-up lenses and inexpensive 58mm filters. 
+
+<b>Auto Focus</b>
+
+The G5&#146s Auto Focus is very fast and consistently accurate, but I would have liked to see Canon's 9 AF point AiAF (advanced intelligent auto focus) added to the G5's arsenal. It's disapointing that Canon's product design folks didn't choose to include the more advanced AF system from the S45 and S50.
+
+The G5&#146s Focus Bracketing function is a nifty feature that virtually guarantees sharp focus even in shots where the action is moving quickly.  The distance range between each exposure can be set to large, medium or small, allowing accurate focus based on prevailing conditions (like macro or sports) an especially useful feature when precise focusing is critical. 
+
+<b>Manual Focus</b>
+
+The G5&#146s manual focus mode is triggered by depressing the MF button on the rear of the camera. When user&#146s enable manual focus a small distance scale appears on the right hand side of the LCD.  The center of the LCD image is enlarged (2X) to make precise focusing easier. 
+
+<b>Macro Focus</b> 
+
+In macro mode, The G5&#146s minimum focusing distance is 1.5 inches, more than close enough for tight close-ups of bugs and flowers.  
+
+<b>Flash</b>
+
+The G5's built-in multi mode flash is a powerful and well designed unit that provides a wide range of flash options.  The G5 also features a hot shoe for mounting external Canon Speedlights (220EX, 380EX, 420EX, and 550EX).  Flash sync with Canon Speedlights is @1/250th of a second. Third party flash units may be used, but only in Manual Mode (flash synch with third party units is @1/125th of a second).  In manual mode, flash output can be adjusted incrementally (1/3, 2/3 or full power). Mount a Canon Speedlight and you&#146ll get a wider compensation range.  The G5&#146s flash exposure compensation works (dependent on mode) very much like normal exposure compensation, so it&#146s easy to use and very versatile.
+
+<b>Controls, Design,  & Ergonomics</b> 
+
+The G5 is identical, in terms of ergonomics, to the G3.  I really like the large grip since it adds an extra level of stability and that is always welcome.  The G5 is comfortable to use and all controls are logically placed and quickly become intuitive in use.  I&#146m a veteran photographer, so I prefer the ability to change/modify as much as possible with traditional controls.  The G5 (and the G3 before it) were designed by people who understand photographers.  Most camera operations can be managed with traditional &#147SLR&#148 type controls, but when it is necessary to resort to the menu, the G5&#146s FUNC button provides easy access to a simplified overlay with multiple options. 
+ 
+<b>Power</b>
+
+The G5 uses the same BP-511 Li-ion battery as its predecessor, the G3.   Power management is one of the areas where the G5 shines brightest.  Canon&#146s cutting edge exposure, auto focus, and image processing technology (iSAPS, AiAF, and DIGIC) were designed with battery conservation in mind, and that forethought paid off big time for consumers.  The G5 (and the G3 before it) use 15 per cent less energy than the G2 did, and they use that energy more efficiently.  The bottom line here is that the G5&#146 battery puts the enegizer bunny to shame when it comes to hangin&#146 in there for the long count.  A fully charged BP-511 Li-ion battery is (according to Canon) is good for 400 plus exposures with moderate LCD use and occasional flash use.  My friend and I put the G5 through two days of heavy shooting, reviewing images, lots of macro/close-up shots with flash, and lots of action shots of skateboarders with flash, and finished the weekend on the same battery we started with. 
+
+If you buy a G5, you may not need to purchase an extra BP-511 Li-ion battery unless you use the LCD full time or plan on taking the G5 on long trips. A back up battery (about $50.00) is always a good idea, but in the case of the G5 it may not be a necessity (that&#146s the first time I&#146ve ever said that in a digital camera review). The battery is can be fully charged in less than ninety minutes. 
+
+<b>Technical Specifications</b>
+ 
+Resolution: 5 megapixels (2592 x 1944)
+Viewfinders: Optical True Image Zooming and fully articulating 1.8&#148color LCD
+Lens:  f2.0-f3.0/35-140mm (35mm equiv) all glass optical zoom lens with 7 elements in 8 groups 
+Exposure: Auto, Program AE, Shutter Priority, Aperture Priority, and Manual exposure modes, three preset exposure modes, & two user-programmable modes.
+Auto Exposure Bracketing: Yes
+Exposure Compensation: Yes  2/-2EV in 1/3-stop increments
+Auto Focus: AiAF (9 AF point) with FlexiZone AF point placement
+Auto Focus Bracketing: Yes
+Manual Focus: Yes
+Metering: evaluative, center-weighted, & spot
+Shutter speeds:  15 seconds to 1/2000th of a second
+White Balance: TTL Auto, Daylight, Cloudy, Tungsten, Fluorescent, Fluorescent H or Flash, and Custom 1 & 2 
+Flash: Built-in multi mode (Auto, Red-eye reduction auto, Red-eye reduction on, Red-eye reduction off, slow synch, first curtain synch or second curtain synch effect, and off) with hotshoe for external Canon (220EX, 380EX, 420EX, 550EX, Macro Ring Lite MR-14EX and Macro Twin Lite MT-24EX) Speedlights.  Flash exposure compensation  2/-2EV in 1/3EV increments.  
+Sensitivity: Auto, ISO (equiv) 50, 100, 200, & 400
+Image Formats: JPEG & RAW
+In-Camera Image Adjustment: Yes---Contrast, Sharpness, and Saturation 
+Noise Reduction: Yes (automatic on exposures longer than 1 second)
+Image Storage: CompactFlash (type I&II) including IBM MicroDrives
+Connectivity: USB 1.1 & A/V out
+Power: 1 BP 511 or BP 512 Li-ion battery
+MSRP $899.00 Street Price $799.00
+
+<b>Included</b>
+
+32MB CompactFlash Card, BP-511 Lithium-Ion rechargeable battery, charger, Compact Power Adapter CA-56, USB & A/V cables, Wireless Remote Control, Neck Strap, Lens Cap, Software CD-ROM, and printed software and User&#146s manuals.
+
+<b>Optional</b>
+
+The G5 has an absolutely incredible variety of accessories including auxiliary wide angle, telephoto, and macro lenses, a car battery charger, a soft case, and several Canon Speedlites and macro flash units.
+
+<b>In the Field/Handling and Operation</b>
+ 
+Summer is finally here and our rainy Spring seems to be a thing of the past.  The past week has been absolutely gorgeous (especially after two months of rain) with azure blue skies, puffy white clouds, and highs in the eighties. 
+ 
+My friend (who sells new and used digital and analog cameras and photographic equipment) managed to get his hands on a brand new Canon Powershot G5 digital camera for us to play with.  He bought a G2 almost two years ago and he has been trying to talk himself into moving up to the G5.  We shot some color tests using a home-made macro stage and a selection of brightly colored (red, green, yellow, blue, and purple) plastic children&#146s beach toys against a white background.  This test allows us to check for color accuracy and the accuracy of the camera&#146s white balance function.  The G5 (like the G3) did an absolutely outstanding job---all colors were bright, well saturated, and dead on accurate. The G3/G5&#146s white balance system is one of the best I&#146ve seen in any prosumer digital camera to date. 
+
+After finishing our color tests we headed downtown to shoot the colorful cast iron storefronts along East Main Street.  Louisville is lucky to have one of the best-preserved nineteenth century business areas in the United States.  East Main Street was the heart of the Louisville&#146s business district during the mid and late nineteenth centuries.  The area is filled with three and four story warehouses where riverboat cargo was stored after being off loaded from the thousands of steamboats that used to ply the Ohio, Mississippi, and Missouri Rivers.  Louisville&#146s profitable Bourbon Whiskey industry created hundreds of prosperous merchants who commissioned ornate and highly decorative cast iron fronts for their East Main Street buildings.  Most of these cast iron building fronts were cast just up the river in Madison Indiana.
+
+The whole area was sort of forgotten after World War Two and allowed to fall into a state of genteel down at the heels neglect.  Recently the area has been rediscovered and many of the old buildings lovingly restored.  We spent a couple of hours shooting architectural details and close ups of the brightly painted cast iron work.  The G5 did yeoman work, rising to whatever challenge we threw at it.  Simply put, this is a superb prosumer digital camera, and it&#146s fun to use, too. 
+ 
+After we finished on East Main Street we headed for Louisville&#146s new Extreme Sports Park to see how well the G5 would do at catching the absolutely fearless skateboard jockeys in mid air.  Louisville&#146s Extreme Sports Park is regarded by many fans and experts (including Tony Hawk) as one of the very best skateboarding venues in the country.  It is open 24/7 and there is always something going on.  Some of the best skateboarders spend hours each day perfecting their moves and fine-tuning their skills---and many of them are just awesome to watch.
+
+As the icing on the cake they are all a bit &#147hammy&#148 and love having their pictures taken---so they make very cooperative photographic subjects.  We spent about two hours shooting some genuinely talented young athletes (and a few who really should find a less dangerous hobby) and some  blazingly fast action.  The G5&#146s auto focus is very fast and if you hold the shutter button down partway and anticipate the action, there is virtually no shutter lag so exposures are almost SLR like.   It was so tiring just watching those kids zoom around like they were rocket propelled that we called it a day and headed for Chek&#146s Caf� on Burnett Street to get a beer and relax for a few minutes while we discussed our impressions of Canon&#146s newest Powershot.
+
+My friend is a former professional photographer (he worked in advertising, wedding, architectural, and portrait photography). He still shoots a couple of  weddings every summer and occasionally takes on a commercial job when he has the time, just to keep his hand in. He has always been somewhat negative toward digital cameras (he doesn&#146t really like 35mm much either) and he and I often argue about the merits of digital and 35mm photography compared to medium and large format photography. He feels that nothing smaller than a medium format camera is capable of producing quality negatives.  My friend loves his G2 but he has been itching to move up to five megapixels since we spent a couple of days last winter with the Olympus C5050.  He really liked the G5 (this is high praise from a guy who believes that the negatives from his Pentax 645 Medium Format rig are just barely big enough) and I think he has pretty much decided to ebay his G2 and buy a G5.  I really liked the G5, too.
+
+Sunday was another gorgeous day when we got together just after 10:00 am. We headed for Cherokee Park to shoot summer wildflowers along Beargrass Creek.  We got a couple of really good Eliot Porter style &#147intimate landscapes&#148 of the creek and a nice stand of giant purple cone flower.  The G5 does an excellent job in macro mode and as a landscape camera.  If you are looking for a &#147does it all&#148 camera, the G5 just might be your best option.
+
+<b>Image Quality</b> 
+
+Resolution is clearly a major factor in just how good the images from any given digital camera will be, but image quality doesn&#146t rely solely on resolution.  Two other important considerations; the optical quality of the lens and how well the camera&#146s image processor handles its job, will ultimately have just as much impact on the finished product as the resolution.  The G5&#146s excellent 4X zoom and 9 point AiAF system, DIGIC processor, and five megapixel CCD imager work together to produce absolutely stunning digital images.  Colors are well saturated (but not garish) and resolution is sharp with consistently good shadow detail.
+
+Gorgeous enlargements (up to 8X12) are easy and decent 11X14 enlargements shouldn&#146t  be a problem.  We printed two 8X10 enlargements with an HP 1215 printer on Kodak photo paper (one shot of a purple and yellow cast iron architectural detail and one picture of a clump of backlit giant purple coneflowers  and both were sharp as a tack with excellent color and very good detail. The G5&#146s five megapixel images are excellent. Color balance and contrast are right on the money, and digital noise appears to have been banished from the visible spectrum, at least in ISO 50/100 images.  
+
+<b>Shutter Lag/Timing</b>
+
+The G5 takes about four seconds to &#147boot up&#148 and extend the lens, exactly the same as the G3. AF lag is virtually non-existent in good lighting and faster than average in lower light.  When you depress the shutter halfway, the camera focuses quickly, usually in under a second. It may take a little longer if the AF- has to "hunt" a bit.  My friend said he&#146d heard that the AF speed on the G5 was improved over the G3, but I didn&#146t notice any appreciable difference.  Write to card and shot to shot times (about 1-1.5 seconds) are equally impressive, even in RAW mode. Shutter lag (from almost instantaneous when pre-focusing is utilized to about one second in low light)  is noticeably faster than the average for 5 megapixel cameras. 
+   
+<b>A Few Concerns</b> 
+
+Both my friend and I were very impressed with the G5, however the newest member of the &#147G&#148 family isn&#146t perfect, there are couple of annoying faults.  First, the G5 has slightly above average chromatic aberration (purple fringing) in high contrast images.  Chromatic aberration is a fact of digital camera life, especially at larger apertures in bright or high contrast scenes.  Most digital camera lenses lose the purple fringing as soon as you stop down one f-stop from the maximum aperture, but the G5 still showed some purple fringing at f4.0. 
+ 
+My second problem with the G5 is the higher than average red-eye, several of our skateboarder shots showed visible red-eye.  Both these problems can be managed by anticipating the problems and shooting around them or with post exposure image manipulation. Those two issues are my only serious complaints with the G5.
+ 
+ISO 400 images showed visible noise and chromatic aberration (purple haloes around point light sources) in a couple of night/low light images my friend shot with the G5. The G5&#146s lens shows very minor barrel distortion at the wide angle end of its range but there&#146s no vignetting or pincushion distortion visible at the telephoto end of the range. 
+
+The G5&#146s Manual mode is a bit limiting because of the interlocked shutter speed/aperture restriction.
+
+<b>Conclusion</b>
+ 
+Photography, whether film or digital, begins with the camera and a  well designed and capable camera makes a photographers life easier.  The G5 is an excellent photographic tool and the next logical stage in development of the &#147G&#148 series.  Clearly Canon has been listening to consumers; the excellent battery life,  fast 4 X zoom lens, five megapixel resolution, versatile metering, flexible exposure, and sophisticated focus options were all requested by consumers who purchased G1, G2, and G3 cameras.  Canon&#146s design folks have improved on a winner and introduced a photographic tool designed to do a great job while providing serious photographers with the most input and the least possible fuss. Using the G5 is a real joy, I can recommend it without reservation. 
+
+<b>A Final Word</b>
+
+The real question for consumers----- with G3 prices certain to drop --- is the G5 worth the additional dough?  I&#146d say if you&#146ll need enlargements bigger than 8x10 or you can&#146t live without the newest techno toy go for the G5---if not there&#146s never been a better time to buy a G3.  
+Plan on Spending a Little Extra------ a 32MB CF card is really a starter card or a decent back-up--- 256MB is is a lot more realistic for most shooters.  
+
+Remember, Epinions is always your best source for independent and unbiased electronics reviews.
+
+<b>Links</b>
+ 
+Check out my review of a  bargain priced and very capable photo quality ink-jet printer. 
+
+Epson Stylus Photo 785 EPX ink-jet printer 
+<a href="/content_60776812164">http://www.epinions.com/content_60776812164</a> 
+
+For definitive advice on <b>How to Choose a Digital Camera</b> please see my review: 
+<a href="/elec-review-2E46-17B174E2-39A418E3-prod1">http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+For comparative information about some other hot five megapixel &#147prosumer  Digital Cameras you may find my reviews (listed below) informative: 
+
+<b>Nikon Digital Cameras</b>
+
+Nikon Coolpix 5700
+<a href="/content_70131814020">http://www.epinions.com/content_70131814020</a>
+
+Nikon Coolpix 5000
+<a href="/content_52720406148">http://www.epinions.com/content_52720406148</a> 
+
+<b>Canon Digital Cameras</b>
+ 
+Canon Powershot S50
+<a href="/content_93226503812">http://www.epinions.com/content_93226503812</a>
+
+<b>Sony Digital Cameras</b>
+
+Sony DSC F717 
+<a href="/content_79857684100">http://www.epinions.com/content_79857684100</a>
+
+Sony DSC-F707 
+<a href="/content_60512439940">http://www.epinions.com/content_60512439940</a> 
+ 
+<b>Olympus Digital Cameras</b> 
+
+Olympus C 5050 
+<a href="/content_82693164676">http://www.epinions.com/content_82693164676</a> 
+
+Olympus C 50 
+<a href="/content_81891724932">http://www.epinions.com/content_81891724932</a> 
+ 
+Olymous Camedia E 20N 
+
+<a href="/content_54953348740">http://www.epinions.com/content_54953348740</a> 
+  
+<b>Minolta Digital Cameras</b> 
+
+Minolta Dimage F300
+<a href="/content_92347993732">http://www.epinions.com/content_92347993732</a>   
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

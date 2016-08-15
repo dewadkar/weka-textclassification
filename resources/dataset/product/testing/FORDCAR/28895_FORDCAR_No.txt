@@ -1,0 +1,16 @@
+DOC>
+<DOCID> 28895 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Ford_Explorer_4WD </PRODUCT>
+<URL> http://www.epinions.com/auto-review-D1A-70676B5-3916CB75-prod4 </URL>
+<TEXT>
+            Entering this vehicle without a key is easy.  On some models, keyless entry systems are in use.  This consists of a number pad on the driver door.  The owner simply punches a combination to enter the vehicle.
+
+  &quot;What's so bad about that?&quot; you say.  Well the problem is this.  If the correct combination is entered by itself or within ANY STRING OF NUMBERS, the door unlocks.  A thief could find one of these vehicles in a dark parking lot and just sit next to it and punch random numbers untill the door opens.  There is no time delay, and no maximum number of tries.  I tried this myself, and was able to enter the vehicle after about 3 minutes of random number punching.  
+
+Also, a permanant &quot;backup&quot; code is in the system in case you forget your personal code.  This cuts the time it takes to punch the correct random number considerably.  I would strongly caution anyone buying this vehicle to inquire with the car dealer as to whether or not this problem has been fixed on new models.  As for those who already own one, I would consider disabling the keyless entry system.<br><br>
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

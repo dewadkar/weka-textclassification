@@ -1,0 +1,21 @@
+DOC>
+<DOCID> 32547 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Kodak_EasyShare_DX6490_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_124113424004 </URL>
+<TEXT>
+            This camera has a lot going for it starting with the 10x optical zoom.  This comes in very handy when capturing outdoor events and for producing candid shots.  Battery life is excellent as well, and that combined with the comfortable form factor make this a really good package.
+The program modes work well, and you can shift into aperature or shutter priority for more creative control when desired.
+
+Unfortunately the amount of time between shots seems VERY long when you're trying to capture action.  There is a burst mode which can capture up to four successive frames, but it's very difficult to follow even slow movement without using burst.  The fact that the display blacks out until the camera is ready for the next picture adds to the frustration.
+
+The auto focus did not always perform well, and unfortunately there is no manual focus capability beyond the 'infinity' focus preset.
+
+Lack of threads on the lens for filter adaptors is an annoyance.  Also annoying is a lack of raw capture mode; the built-in jpeg compression seems too aggressive and produces lots of artifacts.
+
+Most annoying of all was the loss of several pictures.  3 individual frames were corrupted (and the pictures were lost), and at one point the entire external memory (a San Disk 128MB card) became corrupted.  The only choices at that point were to re-format the card or bring the card to a reclamation service to see if the ~15 photos could be read.  Fortunately these were pictures that I didn't mind losing too much, but I ended up returning the camera because of this.  I hope it was a defective camera or memory chip, but I didn't have the time to find out before my return warranty expired.
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

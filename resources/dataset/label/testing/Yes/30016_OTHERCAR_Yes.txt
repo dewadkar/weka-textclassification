@@ -1,0 +1,55 @@
+DOC>
+<DOCID> 30016 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_KodakDCC-Kodak_DC-280 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-6EDE-4341BEA5-3A463B03-prod3 </URL>
+<TEXT>
+            Digital cameras are fast becoming the camera of choice for the average consumer.  They have many benefits over film based cameras, but also some draw backs.
+<i>Benefits</i>
+- no recurring film costs
+- no development costs
+- easier to archive images
+- easier to send images to family/friends
+- no wasted film on bad shots
+- instant viewing of photos
+- more images in less space (great for vacation)
+
+<i>Draw backs</i>
+- high initial cost
+- still have to pay for development if you want a &quot;real picture&quot;
+- drains batteries fast (not as big of a problem as you think)
+
+The DC-280 was my choice when I bought a digital camera.  I have been quite happy with it.  It is quite simple to use.  The on screen menus shown on the LCD on the back of the camera are surprisingly colorful and easy to read.  It takes a few minutes to learn what the icons stand for, but once you have that down, it is easy to use.  I don't care for the placement of the LCD however.  It is placed off to the side and gets lots of fingerprints on it when people pick up the camera.  They don't expect the LCD to be off to the side.  If Kodak moved it towards the center another centimeter or two, everything would be fine.  The buttons to scroll through your pictures are easy to push and &quot;just make sense&quot;.  There is also a task-based selection wheel.  The 4 tasks are 
+* capture (Set to this to take pictures)
+* review (Set to this to look at your pictures, either on the camera or through the TV-out connection)
+* connect (for transferring your pictures to your PC)
+* camera setup (more settings than you probably care to use)
+
+The only other physical problem I have with the camera is that the lens cap doesn't stay on very well.  If you bump the cap while putting the camera in a bag, it usually falls off.
+
+If you buy this camera you <b>will</b> need to buy a larger memory card.  Kodak seems to ship their cameras with different size memory cards, but most likely you will only get an 8 meg card with your camera.  This is simply not enough.  If you shoot on the highest quality/highest resolution, you will get about 12 pictures on an 8 meg card.  Whether or not you need to shoot at these quality settings is a matter of personal preference.  I recommend getting at least a 48 meg card, which will cost another $70-$110.  I normally shoot with this camera set to highest quality and standard resolution and I easily get 170 pictures on the 48 meg card. 
+The interesting thing about digital cameras is that if you have 50 pictures left, you really have at least 50 pictures left.  Depending on how well the pictures compress into .jpeg images, you may have 60 pictures left or even more.  If you are taking pictures of the sky or people skiing, the pictures will compress well and you will get lots more pictures onto your memory card.  Don't think that the compression will leave you with blocky images though.  I took pictures with this camera from a mountain side in Colorado.  In a single picture you can see the crisp needles of pine trees that were close to me and the finest wisps of clouds hanging around the mountain peak in the distance I was photographing.
+
+As mentioned in some other reviews, close ups with this camera are not good.  When I say close up, I mean trying to take pictures of items within 1 foot of the camera.  Those images always end up blurry.  There is a close up lens kit that you can buy for this camera and I am eager to try it.
+
+I mentioned earlier that this camera drains batteries pretty quickly.  I have found that I can take about 100 pictures per charge of the included rechargeable batteries.  I have quite a few different brands of rechargeable batteries and the Ni-Mh batteries that Kodak included with this camera are by far the best.  They last quite a while and they charge in just a couple of hours.  The charger they give you even has LED lights that go out when the batteries are charged so you know when to take them out.  What I usually do is keep a set of regular AA batteries in my camera bag.  If I do find that my rechargeables have gone dead, I use the regular AAs until I can charge up the rechargeables.  I am still using the regular AAs that Kodak also included with the camera as my &quot;backup&quot; batteries, so it can't eat batteries that quickly :)  
+
+The software you load onto your computer for this camera is great.  Once loaded, your camera shows up as another drive under Windows Explorer.  So, all you have to do is drag your pictures from the camera into a folder on your hard drive.  There is even a preview mode where you can look at your pictures while they are still on the camera in case you don't have a lot of hard drive space.
+There have been a couple of times where an image on the camera was corrupted for whatever reason and it refused to transfer from the camera.  In this case, you simply delete it using the controls on the camera.  Don't worry though, I have never had a picture get corrupted after I took it.  If you see the picture show up on the LCD after you take it, it was probably stored just fine.  In relation to this, you can't take more than a handful of pictures consecutively.  It takes a bit of time to write the pictures to the compact flash card.  The camera seems to be able to buffer a few pictures, but you will sometimes try and take a picture and it simply won't let you for a few more seconds until there is room in the buffers.
+
+Be warned, you can use the LCD on the back for your viewfinder, but it isn't the greatest.  I was expecting it to be just like video cameras these days, but the processor in the camera must not be able to handle full motion color video, which is understandable.
+
+And now for the best feature of this camera, the TV-out.  This feature of the camera is absolutely amazing.  Wherever I take my camera, we always end up hooking it up to the TV and reviewing the days activities.  After all of the food and presents on Christmas day, you can hook a single cable up to your TV and the whole family can look at the pictures together.  This is especially stunning when you have a large TV.  Compare holding a 4&quot;x6&quot; photograph 1 week later to instantly viewing your photos on a 36&quot; television.  
+
+Finally, a couple of words about the Kodak DC-3400.  The DC-3400 seems to be the replacement for the DC-280.  The DC-280 has been out for quite awhile, but I still think it is better than the DC-3400.  My parents purchased the DC-3400 because they knew how much I liked my DC-280.  After using the DC-3400 I found the following differences:
+- Different color.  The DC-3400 is a brighter silver with light gray grips
+- Longer lens cap cord.  I think this is to allow the lens to extend when the camera is turned on, without pulling the lens cap off
+- The lens cap seems to stay on better
+- No rechargeable batteries included.  This is a major minus for the DC-3400.  The batteries and charger are around $40 if purchased separately.
+
+Other than these few things, the cameras seem identical.  They have the same menus, same resolution and quality settings, and the same physical layout.  You may be able to find a DC-280 on clearance now that the DC-3400 is out.  I think I would still buy the DC-280 over the DC-3400 if given the choice.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,22 @@
+DOC>
+<DOCID> 34202 </DOCID>
+<PRODUCT> Digital_Cameras/Sony_Cyber_Shot_DSC_P9_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_108943019652 </URL>
+<TEXT>
+            Overall, I don't have any complaints with this digital camera (except one which I will expound on later). I have owned a Canon Digital Elph which I got rid of within months to be replaced by this camera. I am a surgeon and do take pictures of interesting pathology that I encounter in my line of work. I've noticed that with the Elph, it doesn't take good shots inside people's mouths or in areas where there is a great variation in depth when taking near shots (ie, inside wounds). P9 did take much better shots of these areas. Also, it is quite portable with its case which is quite convenient as I'm able to loop the strap around my cell phone or belt. 
+
+In regards to picture quality, it is of high enough quality that I have used it to publish within scientific journals without any complaints throughout the review process and actual publication.
+
+It is a very study, solid feeling camera which I've also taken on trips to Utah Canyonlands in sandstorms, rock-climbing, and rappelling and though sand got into the zoom mechanism, still worked without a hitch. Funny, but for a time, the zoom mechanism gave a gravelly sounding noise due to sand caught inside it, but within a month, the camera worked the sand out and now sounds like new.
+
+A user recently commented that there has been no problems with downloading pics directly from camera to iPhoto (see comment below). Though that is a method I haven't tried (I like to review pics one final time using Apple's Preview application and delete those I don't like before importing into iPhoto), it may be something to consider.
+
+For me (and it may be a software glitch/incompatibility with something I have on my computer), the camera "crashes" my PowerBook when attempting to directly download pics into the computer. The only way I found to be able to download pics to my Mac without a hitch was by purchasing Lexar USB Multi-Card Reader (RW017) and using the memory stick slot.
+
+When the camera "crashes" my Mac. I would have to unplug the camera from the computer and reinitialize the memory stick. The camera works fine after a crash. My mac on the other hand requires a hard reboot (holding the power button down for several seconds).
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

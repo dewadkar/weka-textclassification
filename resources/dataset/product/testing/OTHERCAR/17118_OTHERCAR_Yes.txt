@@ -1,0 +1,23 @@
+DOC>
+<DOCID> 17118 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Veo_Disney_Magic_Artist_Click-N-Go_Photo_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_122195971716 </URL>
+<TEXT>
+            I'm 23 and looking for a good webcam deal for myself. From slickdeals.net, I found the $45 Veo Disney camera with a $40 mail in rebate and free shipping at buy.com. So that's a good quality webcam for $5!!! Just looks odd having a Mickey mouse car on my office desk (more to come).
+
+Installation:
+You need to put in the CD, install the software, then plug in the camera. Everything works and is very simple. But their bundled disney software takes up the whole screen and has way to many pictures of mickey for me. I downloaded another webcam software and it works just as well without all the mice.
+
+Video Quality:
+I bought a Logitech Pro 4000 the same day and tested it side by side. The Disney video quality is only slightly lower than the Logitech (retails at $100). At a quick glance you can't even see the difference. The Logitech has slightly better colors and faster, more accurate contrast and white balance adjusts. Both are manually focused. It lacks a built-in mic and snap shot button, but for $5, I'm not complaining. The quality at 320px is very good. The framerate is not bad but I don't have a figure. There is sometimes a 1-2 second delay between real life movement and what's captured, but framerate is always 10+. Neither bundled or my downloaded software displayed the 640px resolution but I think that's the software's fault.
+
+Banish Mickey:
+If you're like me and don't want Mickey on your office desk, you can remove it. Hold the cam upside down, remove the 4 black screws on the bottom, lift the rear of the base out, and nodge around and lift the whole base out of the mickey car shell. There are some wires that light mickey's headlights but just rip them forcefully out of the base. I might try to take the base apart too to get it more compact, but that's another project.
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

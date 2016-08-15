@@ -1,0 +1,47 @@
+DOC>
+<DOCID> 18200 </DOCID>
+<PRODUCT> Digital_Cameras/Sony_DSC_P3_621170 </PRODUCT>
+<URL> http://www.epinions.com/content_62622109316 </URL>
+<TEXT>
+            Having used many borrowed digital cameras in the past few years, and having a video camera that sports a very poor "snapshot" mode, I have been in the market for a digital camera for some time.  I've been reading reviews and waiting for the day that I had the spare $400 to spend.  Every few months, a new camera caught my attention, with better reviews and prices than the last.  When the spare $400 came to me, the DSC-P3 was the camera of the day.
+
+I purchased this camera after the birth of our second child, and began taking pictures minutes after getting it.  While I did not need to read the directions to get great shots from the start, I did learn a few things quickly:
+
+The flash should be turned to the "always flash" setting.  Even with moderate ambient light, the picture quality falls off fast without flash.  This seems to be true of all digital cameras though.  
+
+The next thing I learned is that the "red-eye reduction" mode is NOT easily switched on and off, requiring that you go from photo mode to the setup menu mode, click several buttons, and then switch back to photo mode.  This is especially odd since the rest of the flash settings are controlled with one of the buttons on the back of the camera.
+
+Finally, I learned NOT to use the digital zoom.  The picture quality falls off dramatically when you do that.  This isn't a surprise to me, though, as I had read that optical zooms are the only way to go, digital zooms suck.  Luckily, I've been able to get close enough on the 500  pictures I've taken so far, that the pictures all come out great.  A word of advice though:  when getting VERY close, make use of the "low" setting on the flash intensity option, otherwise your subjects get washed out.
+
+This camera offers a "twilight" setting, which in theory allows you to take shots in low-light without flash.  I've used this setting with flash in low-light, and gotten good results, but you need a tripod (or something to hold the camera perfectly still) to make use of this without flash.  It does seem to live up to it's billing, though, as the few test shots I've taken in dark rooms seem to have come out well.
+
+Another feature of the camera is a movie mode.  This mode does not make use of the flash, nor can it be combined with the twilight mode, so it is of little use indoors.  In daylight situations, though, this is a fabulous little camera to use for quick videos.  These videos can go right onto your PC, making it perfect for emailing or using on a website.  The length of the video is determined by the amount of memory in the stick.
+
+Speaking of which, the amount of memory that this camera comes with is pitiful.  You'll need to purchase at least a 64 meg stick with it.  With the 8MB stick, you will get (maybe) 8 high quality images, or very little video (not together, mind you).
+
+There are other features that this camera has that I rarely use, but a quick review of a couple of those:
+  - picture effects, such as sepia, black & white, solarized, negative
+  - various picture size settings, such as "email" (a copy of the image at 320 x 240 pixels - this is a copy, so the full size is recorded too.  The net effect is that this uses MORE space, not less.  These kind of things can be done with Windows XP very easily, so I ignore them.)
+  - "burst" shots, where multiple frames are taken within a short time.  You can take 2 shots in a row, or even set the movie mode to take multiple GIFs, making an animated GIF (no sound).
+
+That just about covers everything I've found about this camera.  For the money, I'm very happy.  Once I have a spare $700, I'll probably upgrade to a nicer model, but from the experience I've had so far, it will be a Sony!
+
+<b>After nearly a year of ownership, updated thoughts...</b>
+
+So it's been almost a year, and little has changed, but I've noticed a few things that I'm not real excited about.  
+
+For one, it seems that the camera has developed a delay between pictures.  Strangely enough, the delay seems to be worst when taking outdoor pictures.  The delay can be so bad that you miss picture taking opportunities, in fact.  After I've taken a picture, it sometimes just plain old won't take a picture, no matter what.  After about 10 seconds, then you can get another one to take.  I've actually clicked the button, waited, clicked it again, waited, and given up, only to have it finally snap a picture of the ground, having put the camera down to my side.
+
+Battery life seems to be an issue too.  I use the LCD primarily, and I find the battery is depleted from fully charged long before I've filled up my 64MB chip.
+
+Lastly (on the negative side), I've noticed that you can take 3 pictures of the same exact scene, with no changes to settings, and all three will be totally different.  The lighting on one might be great, but overexposed on the next, and terribly underexposed on the next.  The camera seems to have trouble deciding which settings to use on any given picture.  Luckily, since it's digital, you can just take pictures til it's right (though with the delay that this camera has developed, that is sometimes a challenge...)
+
+On the bright side, the pictures that do get taken, and that do have good exposure, are great.  Printouts are awesome (I use an Epson 785EPX), and on-screen images are more than impressive.
+
+So, one year later, would I still buy this camera?  Given the financial state I'm in, yes, but now more than ever, I'd love to have a larger budget.  If you can afford it, I'd look at the more expensive cameras out there, but if money is an object, I'd still look at the Sony Cybershot series.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

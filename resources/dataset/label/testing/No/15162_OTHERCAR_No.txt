@@ -1,0 +1,32 @@
+DOC>
+<DOCID> 15162 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Toshiba_PDR_M60 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-33B3-319E642C-3A583000-prod2 </URL>
+<TEXT>
+            I purchased a Toshiba PDR-M60 after being impressed with some photos a co-worker had taken with the same camera.  Having researched the camera on the web, I also purchased an additional 32MB Smart Media flash card to provide some decent capacity.
+
+Like others, my attention was drawn immediately to the flimsy, poorly designed battery holder.  The cover to this holder is locked in place with 3 small plastic tabs and has the full pressure of four spring tensioned AA batteries pushing against it.  The cover would not sit flush with the camera body even when properly locked.  I'd expect this piece to break within months of normal usage.  This is not a minor issue as any out of warranty self-repair job would likely be difficult to perform properly.
+The rest of the camera is about as robust as a typical 35mm plastic-bodied camera.  Barring any accidental drops it should last for years.
+
+As I mentioned earlier, I was VERY impressed with the picture quality.  Having used digital cameras in the &gt;$10K range a few years back, I'd have to say that the Toshiba makes those cameras look sick.  The PDR-M60 is very versatile with:
+- multiple image size &amp; quality formats
+- bulb and variable ISO selections
+- EV adjustment
+- multiple flash modes, including red-eye elimination
+- zoom &amp; macro capabilities
+- a range of photo review and adjustment options, etc.
+
+On the issue of battery life, I believe these cameras have a bug in the battery charge indicator circuitry.  I exchanged my first PDR-M60 after I loaded a fresh set of batteries and the indicator displayed the fully discharged symbol.  Since then my co-worker has confirmed that his indicator also displays the charge level erroneously from time to time.  Apparently the indicator can be reset by removing the batteries for a few minutes and re-inserting them although I haven't confirmed this.  Be careful - you may be throwing out perfectly good batteries.
+
+The USB interface and Image Expert software worked fine and intuitively.
+
+I am currently PDR-M60-less as my second camera had an intermittent problem with the LCD display (and a long length of mystery fiber in the viewfinder).  I decided against replacing it a second time as I had developed serious concerns regarding product quality.
+
+I have noticed that the price has fallen from $750CDN to $600CDN to $500CDN in the space of two months.  So this might still be the camera for you if you're looking for something relatively inexpensive and are willing to accept a few problems.
+<br><br>
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

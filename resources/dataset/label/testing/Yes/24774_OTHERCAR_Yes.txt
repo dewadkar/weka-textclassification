@@ -1,0 +1,30 @@
+DOC>
+<DOCID> 24774 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_Stylus_300_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_102162927236 </URL>
+<TEXT>
+            This is my third Olympus digital camera. I started with their 1.2 Megapixel, moved to their 2.1 MP D-490 (<a href="/content_6654824068">review here</a>), and have finally found point and shoot digital photography nirvana. 
+
+My first two cams left me doubting digital camera quality. Grainy pictures, with washed out colors plagued my hard drive. Things got so bad that we even bought a new 35mm camera so we could take good pictures when we knew it counted, and when we could sacrifice the convenience of the digital cam. I am glad to report that the 35mm cam is now in the junk drawer.
+
+The true test is whether or not my wife approves of the print quality. We got our first set of prints back from this camera and were shocked at how good they looked. Close enough to film that we're not looking back.
+
+Color is beautifully represented, and edges are well defined; even when printed to large format paper (8x10 for example). So, suffice it to say, the picture quality is amazing.
+
+Olympus must have read my review of the 490 because they fixed the <b>highly</b> annoying sliding lens cover problem: pushing the cover into the lens in order to close the cover. This camera's lens cover slides close to the lens, but stops before it hits it, and allows the lens a chance to retract before you close it the whole way. This was a horrible oversight in previous Olympus cameras; I was glad to see they rectified it.
+
+The complaints I have about this camera are the same complaints I have with nearly all digital cameras, and they are no fault of this one in particular. The time it takes for the camera to save the image to memory, then prepare for the next shot still takes too long (pesky physics getting in the way again). This is an issue when you're trying to take several stills in rapid succession. The <b>first</b> time you press the button, the picture is taken almost immediately; <b>much</b> faster than an other digital cams I've had.
+
+Also, we've found that taking pictures without the flash on often results in blurry images; probably due to higher default exposure settings when the flash is turned off. This isn't a big deal, as we just keep the flash on, but sometimes we think the flash is being used when it shouldn't be when in auto mode.
+
+I would have really liked to see USB 2.0 support, rather than the USB 1.1 support built in. As memory cards gain capacity, the need to transfer from the camera to the PC more quickly increases. It would have been really nice if Bluetooth support was provided as well, but that is yet another standard that needs time to catch on.
+
+The user interface has been nicely streamlined, and access to various shooting modes (from fully auto, to "sports" and "portrait" mode) is a breeze. Because auto mode often produces inferior images, quick and easy access to the more specific modes is great.
+
+We are enamored with this little gem, and have taken thousands of pictures of our new child with it.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

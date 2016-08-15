@@ -1,0 +1,41 @@
+DOC>
+<DOCID> 18950 </DOCID>
+<PRODUCT> Digital_Cameras/Nikon_D100_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_70971920004 </URL>
+<TEXT>
+            It's strange having the distinction of being the first to review this particular camera on this site. I usually don't consider myself to be a leading-edge sort of guy, but I really got tired of dealing with my film cameras and slow point-and-shoot digital cameras and the inherent problems of each. Ever since the D1 came out, I've been hoping that Nikon would think of us photographers who couldn't afford to second-mortgage their house just to have all the same features as their film-based cameras. I think most of my desires have now been fulfilled.
+
+I read for months about the speculation and debate over which body the D100 is based upon. After using it a while and comparing it to the N80 and my F100, I'd have to say that it's both but also neither. It's kind of a hybrid of both combining some of the neat features of the N80--LCD focus indicators, selectable viewfinder grid lines, pop-up flash, light weight--with some of the great features of the F100--Five area focus tracking, 3D matrix metering, 24 custom settings, magnesium alloy body--and new technology derived from the D1 series--new CCD the same size as the D1 series, enhanced auto white balance and high speed image processing.
+
+The camera is more compact than my F100 and significantly lighter. I guess film winding mechanisms are heavier than image processing electronics. I usually associate heft with durability but I was assured by the Nikon rep that the new alloys and plastics used in the D100 are just as durable as my F100, if not more. But that's not the only difference. Immediately apparent is the image size in the viewfinder which is due to the CCD being about 1/3 smaller than 35mm film size. And now the back of the camera is totally cluttered with buttons, LCD screen and opening compartments for the CF card. This ain't your mom's point and shoot. I like that most of the controls are similar to my F100 and those that are different seem quite intuitive. Another quality that I appreciate is the speed of startup and no firing delay when I press the shutter release. Important when trying to shoot action. 
+
+The 6.1 megapixel image is great for enlarging to 15 x 10 inches at 200 dpi. At 10 x 8 size, it's virtually indistinguishable from film. The camera can record at three resolutions (vs. 2 for the D1X) and will buffer 6 shots into its memory buffer before locking the shutter and saving to the CF card. Depending on size and quality, this can take from 5 to 30 seconds to save. 
+
+Of course, there are RAW NEF and TIFF settings but that halves your buffer capacity, increases file sizes by 3 to 5 times and any time saved in not processing the image is used to save a huge file. For most casual use, JPEG compression looks fine. However, if you want an image straight from the CCD without any compression or sharpening, then use NEF. This allows the user to apply their own transformations. Kind of like the difference between negatives and prints. The RAW NEF formats are like negatives, JPEG is like a print from the neg with adjustments made.
+
+At the large size with normal 1:8 JPEG compression, I can get nearly 120 images on my 256Mb CF card. At fine (1:4) compression, the capacity is cut in half. In RAW mode I get less than 28 shots and in TIFF mode it's a meager 15 shots. A 1Gb microdrive would probably hold the equivalent of 15 rolls of 36-exp film. That would be enough for me for a one week vacation if you factor in that I can review and delete unwanted shots. The reason I use the vacation example is because one of the reasons I decided to move to digital from film is airport X-rays and the hassle of traveling with film. NO MORE! An IBM microdrive and a couple extra 256Mb cards are certainly more compact, lighter and easier to handle than a Propack of 35mm film and a lead bag.
+
+But if the D100 is this great, then why would anyone buy a D1-series camera? Several reasons:
+
+1) Speed. Focusing on the D100 is derived from the N80 versus focusing from the F5 on the D1 series. A significant focusing speed advantage for the D1 series if you don't use AFS lenses. The D1H can shoot at 5 fps and buffer up to 40 shots, the D100 does 3 fps and 6 shots. Flash sync on the D1X is 1/500, on the D100, 1/180. Top shutter speed for the D1x is 1/16,000, the D100 is 1/4000. Why should this be a concern? Because the D100 has ISO equivalencies of 200-1600 (up to 6400 if you're not picky about image quality) which means you'll have some limitations in bright light situations. Be sure to invest in some ND filters. 
+
+2) Connections. The D1 series includes an IEEE-1394 firewire interface so that downloading to your PC is fast. The D100 uses the older USB 1.1 spec. even though USB 2.0 has been around for over a year. The D1 series has a 10-pin connector for remote cords and a PC-sync external flash connection. Adding the MB-D100 grip to the D100 will give you not only a 10-pin connector but also audio notes.
+
+3) Battery life. I'm told that the EN-4 battery on the D1 series lasts much longer that the EN-EL3 on the D100. But that also comes at a cost of extra weight. Just how many shots is that. According to Nikon, if you use the default settings of the D100 with an AF-S 24-85mm f/3.5-4.5 G lens, allow for 5 seconds of depressing the shutter release halfway for each shot, allow one focus cycle from min-infinity for each shot, allow full power built-in flash for every other shot using AF-assist illumination and turning off the camera for one minute after every ten shots, you should be able to get about 370 shots at room temperature.
+
+4) Versatility. The D1 series works with all Nikon lenses. With non-CPU lenses, such as an older Nikkor AI lens, aperture priority and manual metering still work. Attaching the same lens to a D100 provides only manual functions but the built-in metering doesn't work. This could be a big issue if you have a lot of older Nikkor lenses. Personally, it's a big disappointment for me.
+
+5) Durability. The D1 series is a professional camera designed to withstand the abuse of photojournalists and other professionals. The D100 was designed for the serious amateur who probably wouldn't put it through the same duties as a professional. The shutter itself on the D100 was design for fewer cycles than the D1 series.
+
+Are these factors enough to justify an additional $1,600-$2,600? You'll have to weight your needs and decide that for yourself.
+
+My final minor complaint is that unlike the Contax 35 mm digital which uses a full-frame CCD, the D100 uses a CCD that is smaller than standard 35mm film which effectively increases the apparent focal length by 1.5X. On the downside, your 20mm lens becomes a 30mm. But the upside is that your 200mm now is a 300mm. But since the image in the viewfinder is small and the magnification is 0.8X it's hard to see the difference immediately. It becomes more clear once you realize that the picture angle has been reduced.
+
+Now we come to price and availability. Since being introduced in mid-July, the D100 has been difficult to buy, much less look at. I pre-ordered mine a couple of weeks ago and had to wait for the second shipment to receive it. Expect full retail price until another model is introduced. If you pay less, be sure you're getting everything that comes with it. Surprisingly, Nikon includes a Li-ion battery and charger, an actual BF-1A body cap, an LCD cover and even a Nikon neckstrap. I guess they're learning.
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

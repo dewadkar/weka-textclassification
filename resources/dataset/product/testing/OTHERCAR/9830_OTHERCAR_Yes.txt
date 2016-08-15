@@ -1,0 +1,25 @@
+DOC>
+<DOCID> 9830 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Ricoh_Caplio_G3_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_122136333956 </URL>
+<TEXT>
+            I bought this camera (in Italy). This is my first digital camera. I spent 199 euros: two AA alkaline batteries were included, you absolutely have to buy rechargeable NiMH batteries or the proprietary super durable lithium battery (see below). It comes with 8 MB of internal RAM, insufficient for a normal use with high resolution, so you have to take into account you must buy also a Secure-digital card with at least 64 MB. 
+I've chosen this camera because of two main reasons: it is very cheap in comparison with other 3 Megapixel cameras with optical zoom, and offered an excellent macro mode, so you can take photos at 1 cm near the subject (other more expensive 3M-pixels cameras didn't offered such a macro mode). The manufacturer says it is very fast to take snapshots, having 0.14-second shutter response time. I've found this is true mainly when you set the focus fixed to infinity or to the 'snap' mode (i.e. fixed at 2.5 meters). If you have to use the auto-focus, it may take much more time, because of focusing, depending on the light conditions. With poor light, the auto-focus takes a lot of time, and is not very reliable. 
+
+This camera is very good for macro-photography and close-up portraits. Not so good in conditions of poor light (unless you use a tripod): the built-in flash is not very powerful (it covers distances not greater than 2.5 meters, but, on the other hand, it doesn't consume batteries too much, and this fact is very good for me). 
+Summing up, the G3 camera is very good when you have a lot of light and don't use flash. 
+
+I didn't found the ability to set diaphragm versus shutter time priorities (that was important for me), but this is a cheap camera and I understand that one cannot have everything for 199 euros...
+
+The batteries last an incredible amount of time, especially if you use the economy mode (without LCD display and flash, using the optical viewfinder only). Ricoh sells a special lithium battery which allows to take 3500 (!) snapshots with a single charge in econo-mode. I haven't tried it yet, because I'm using standard AA NiMH rechargeable batteries, that behaves quite well.
+
+I highly recommend optical viewfinders instead LCD ones, because are more reliable, the view is more clear, and consumes less battery. Fortunately, this camera has an optical one: it is very little, but accomplishes well its job, because it is linked with the zoom, so when zooming, you have a quite true view of the area you are covering with the snapshots. 
+
+The body (G3 model-M) is in black metal (magnesium) and gives an impression of solidity, which is very good.
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

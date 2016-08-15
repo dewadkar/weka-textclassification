@@ -1,0 +1,22 @@
+DOC>
+<DOCID> 25297 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_NikonCoolpixx-Nikon_Coolpix_700 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-2CA1-11713BCB-3802BF6B-bd4 </URL>
+<TEXT>
+            After a fair amount of research on digital cameras, and realizing the CoolPix 950 was out of my price range, I finally decided on the 700 and I've been very happy with it. The controls are easy to use, the on-camera functions and menus are straightforward, and the image quality is the best I've seen from any camera in this price range. The LCD is bright and sharp.
+
+The cons:
+
+It eats alkaline batteries quickly, as I hear all digicams do. However, I picked up two sets of rechargeable nickel-hydride batteries, and they last many times longer. With one set in the camera and the other in the charger I've been fine. I bought the AC adapter, but I haven't used it at all since getting the rechargeables.
+
+Using the serial interface to transfer the images to my Mac was unacceptably slow, so I picked up a SCSI PCMCIA card reader. Pop the flash card from the camera into the reader and it mounts on the desktop like a disk. Copying the images this way is much faster, and I highly recommend it.
+
+I sometimes find myself wishing for an optical zoom, despite the camera's 1600 x 1200 resolution.
+
+I've spent a good portion of this review citing the camera's negative aspects, so I feel compelled to emphasize that I really like this camera. I'm very happy with it overall, and recommend it to anyone in need of a point-and-shoot digital camera.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

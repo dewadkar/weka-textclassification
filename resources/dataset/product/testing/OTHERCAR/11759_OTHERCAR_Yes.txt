@@ -1,0 +1,26 @@
+DOC>
+<DOCID> 11759 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Kodak_DC3200 </PRODUCT>
+<URL> http://www.epinions.com/content_25231658628 </URL>
+<TEXT>
+            <b>Kodak's</b> DC3200 is a low-cost 1 megapixel camera, which is to say that it represents the least expensive class of camera with enough resolution (1152 X 864 pixels) for acceptable photo-realistic printed output.  I paid $150 for mine, then saved $30 with a MIR from Kodak.
+
+<b>Features</b> are thin on this product.  A clear 1.6"LCD screen for preview or review, an optical viewfinder, a serial cable, 2MB of built-in memory, 4 AA batteries, a Compact Flash slot, auto flash capability and auto exposure are pretty much it.  The standard serial interface means that downloads are very, very slow compared to USB cameras or Compact Flash card readers.  
+
+<b>What</b> is really remarkable is what you don't get; no self-timer, no tripod mount and no provision to add one (what could adding this feature possibly cost the manufacturer?  Ten cents?), no A/C adapter (no digicam manufacturer, seemingly, can resist the temptation of being able to sell you a $5 A/C adapter for $50), no video cable for connecting to a TV or VCR, no soft carry case, not even a lens cap (although Kodak will be pleased to sell you one for about $8, plus tax and shipping).  You can get a nice soft case at WalMart for about six bucks, and the Radio Shack 273-176 AC adapter will set you back $13 but is widely available and works just fine. 
+
+<b>Included</b> software is skimpy at best.  You get Kodak's camera management software for downloading images to your PC, and you get flat beer from rusty pipes in the form of Kodak's Pictures Now! software.  This particular beer likes to think of itself as champagne, so it is glitzy and slick with splash screens, graphics, and performance killing (on my PIII-600, at least) Macromedia Flash logo screens.  Unforgivably, the Macromedia blurb stays on your screen for five full seconds after you exit the program.  
+
+<b>You</b> can adjust brightness and contrast, resize, add black and white or sepia tones, edit out "red-eye", or apply a generic "enhance" filter.  This is, by any standard, pitiful.  A much better choice, without the high cost of PhotoShop or a similar product, is Lexar Media's Shoot & Share, a fast, full featured, very easy to use photo editor, in a tiny (less than 2MB) download.  Best of all, if you search the Web carefully, you will find an outdated promotion offering download and registration of Shoot & Share for free, and yes, as of 5/1/01, it still works.  It is a terrific add-on for the DC3200, and absolutely eats Pictures Now!'s lunch.
+
+<b>Pictures</b> are surprisingly good in quality with very little enhancement needed to produce beautiful Web or email images, or crisp, colorful prints (up to 5 X 7") on glossy photo paper.  Compressing the resulting JPEG images (a snap with Shoot & Share) can crunch your 1152 X 864 snapshot down to well under 100k with very little loss of quality.  Or you can shoot in "Medium" quality mode and let the camera do the compression for you.  "Low Quality" mode is 576 X 432 resolution, just fine for Web or email use.
+
+<b>Flash</b> photos are where the DC3200 really shines.  This is important to me because my first digicam, the venerable Casio QV-10, had no flash at all, and my trusty Agfa CL18, otherwise just fine, was completely useless for flash photography.  No ghostly white faces surrounded by a field of blackness on the DC3200.  The flash images are as sharp and clear as those taken in natural sunlight, with a full range of contrast and rich colors.  
+ 
+<b>Suggestions?</b>  Low price in a digicam means a slow processor.  Some of you would be frustrated with the delay between pressing the shutter and actually taking the picture.  I'm not trying to capture eagles in flight or the Indy 500, so the DC3200 works just fine for me, I use rechargeable NiMh AA 1600 batteries, and the service life between charges is excellent, even running the display and flash.  Kodak has made some progress toward power conservation and the battery technology has improved as well.  Do yourself a favor and pick up some NiMh batteries and a charger.
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

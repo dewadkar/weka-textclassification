@@ -1,0 +1,18 @@
+DOC>
+<DOCID> 11943 </DOCID>
+<PRODUCT> Digital_Cameras/509166_Agfa_ePhoto_780 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-5693-69EEFFC-39242499-prod1 </URL>
+<TEXT>
+            Last year, I purchased the Agfa ePhoto 780c.  I wanted a good, basic digital camera that I could use for my website.  So far, the camera has met most of my needs.  It was inexpensive, takes decent pictures, and uses regular AA batteries instead of lithium batteries.  However, I have the following complaints:
+
+-Lack of Windows2000 Drivers:  Before I bought the camera, I asked Agfa customer support if they would be supporting Windows2000 when it was released.  My company planned to be an early adopter of Windows2000.  So, I wanted to purchase a camera to accomodate that.  Agfa assured me they would be releasing drivers.  I am still waiting for them!  The camera just does not work with Windows2000.  To accommodate this, I have kept Windows NT 4.0 on my clunkier box so I can use the camera.  Very, very inconvenient.
+
+-No Zoom
+
+-Blurry pictures in dark settings: I've noticed that my pictures come out blurry in dark settings even when I use the flash.  Daylight pictures are no problem.<br><br>
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

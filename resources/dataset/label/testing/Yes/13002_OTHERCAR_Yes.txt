@@ -1,0 +1,179 @@
+DOC>
+<DOCID> 13002 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Canon_PowerShot_A60 </PRODUCT>
+<URL> http://www.epinions.com/content_100978364036 </URL>
+<TEXT>
+            The new Canon Powershot A60 is aimed at photographers who are looking for an entry level digicam that  will allow even absolute beginners to shoot spectacular images. Canon&#146s engineers stuffed a raft load of fully automatic program and scene modes into the A60&#146s compact and stylish body, making it possible to use the camera right out of the box, without reading the instructions.
+
+More advanced photographers can experiment with a range of  creative options (a real manual mode, manual focusing, and a pro level manual white balance mode) unheard of in a budget digital camera making the A60 capable of stunning images that are not just better than every other camera in its class, but are equal to those of more expensive cameras.
+ 
+Canon&#146s design team started with the venerable A20/A40 platform and completely reinvented what had been considered by many industry insiders to be the best entry level digital camera on the market.  The folks at Canon carefully reviewed consumer complaints, suggestions, and expectations and then combined proven components from the A20 (and the A40, it&#146s second generation update) with  cutting edge new digital technology (like the new DIGIC processor, Advanced intelligent Auto Focus, and iSAPs technology pioneered for the G3, S45, S50, and S400 models) to create a pair of bargain priced digicams with advanced features, exceptional ergonomics, superb ease of use, and lots of manual  photography options.
+
+The A60 and A70 are virtually identical except for maximum resolution (the A60 is a two megapixel camera and the A70 is three megapixels) and minor cosmetics (the A60 has a gun metal blue grip and the A70&#146s grip is slate gray). Both cameras are remarkably capable image makers and together they better meet the needs of a much broader spectrum of users than a single model.
+
+Consumers benefit when R&D costs are reduced (lower Point Of Sale prices) and manufacturers benefit because using proven  components is cheaper (and results in fewer returns and fewer unhappy customers) and sharing (expensive to develop) new technology across model lines allows all the company&#146s cameras to be sold at a lower and more competitive price. 
+
+ 
+<b>Nuts & Bolts</b>
+  
+<b>Viewfinder/LCD</b>
+ 
+The A60 (like the A70) features the same 1.5" LCD screen as the Powershot A40.  LCD images are bright, sharp, and movement is fluid, however the brightness level can&#146t be adjusted. The A60&#146s real image zooming optical viewfinder (also from the A40) is bright and clear and shows about eighty per cent of the frame, but there is no diopter adjustment for eyeglasses wearers.
+
+<b>EXPOSURE</b>
+
+The A60 provides an incredibly wide range of exposure options for a bargain priced digicam including; Auto (Point and Shoot mode), Program (Auto exposure with user input), Scene mode (Portrait, Landscape, Night Scene, Fast Shutter, and Slow Shutter), Aperture priority, Shutter-speed priority, Manual mode, Movie mode, and Stitch Assist mode.
+
+Like its cousins (the G3, S50, S45, S400, S230, and A70) the A60 features Canon&#146s DIGIC Processor (Digital Imaging Integrated Circuit) which efficiently combines image processing and basic camera control in a single chip that handles Auto Exposure,  Auto White Balance, image compression, gain control, and most other important camera functions.  The DIGIC processor also enhances auto focusing accuracy and improves power management (battery life).  The DIGIC processor works hand in hand with the A60&#146s Program, Auto, and Scene  modes (utilizing complex imaging algorithms) to produce images that are optimized for beautiful contrast, accurate color balance, and low noise levels.
+ 
+Canon&#146s exclusive iSAPS (Intelligent Scene Analysis based on Photographic Space) technology produces consistently exceptional exposures in all scene modes. The camera instantly matches the scene in front of the camera with an on board database of known scene types (just before the image is recorded) and then compares that information with the specific scene&#146s subject distance, white balance, contrast range, lighting, and color to determine the correct exposure. 
+ 
+<b>Manual Mode</b>
+ 
+Unlike other entry-level digital cameras, the A60 provides a full range of manual controls.  Users can set shutter speed, lens aperture, and ISO sensitivity, and fine tune white balance.
+
+<b>Movie Mode</b>
+
+modes on still image digital cameras are gimmicks,  however consumers love this feature and the A60 does a very good job of capturing life&#146s important little moments in short video clips that are easy to share with friends and family.
+  
+<b>Metering</b>
+
+The A60&#146s default Center Weighted metering system is accurate in all but the most difficult lighting situations.  More experienced photographers can opt for  Spot metering for trickier lighting, portraiture, or for more demanding compositions. 
+ 
+<b>Lens</b> 
+
+The A60 uses the proven f2.8-4.8/35-105 (35mm equivalent) all glass 3X optical zoom lens from the A20 & A40. When the A60 is powered up the lens extends automatically.  When the camera is powered down the 3X zoom is fully retracted into the camera and a built in lens cover closes to protect it. The A60&#146s 3X zoom lens travels from wide angle to telephoto in less than two seconds and accepts a full range of auxiliary lenses and or 52mm filters. 
+
+<b>Auto Focus</b>
+
+The A60&#146s 5 focus point TTL AiAF (Advanced intelligent Auto Focus) system covers a much larger part of the image area than the AF systems featured on the A20 and A40.  The AiAF system analyzes the scene in front of the camera and accurately calculates camera to subject distance to determine which AF point is closest to the primary subject and then automatically locks focus on that AF point (users cannot select a specific focus point) even when the subject is not centered in the viewfinder.  User&#146s can turn off AiAF and default to the center focus point for portraits or traditional landscapes via the A60&#146s menu.   In low light the AF assist beam helps to illuminate the subject for more accurate focusing. The A60's autofocus is fast and precise, with above average performance. 
+
+<b>Manual Focus</b>
+
+Entry-level digital cameras don&#146t generally feature a manual focus option.  User&#146s can enable manual focus with the four-way switch and then use the left/right buttons to adjust focus incrementally.  A scale is displayed on the LCD to indicate approximate distances, but the center of the image isn't enlarged (like it is on many prosumer cameras). The A70&#146s manual focus system is a bit awkward, but it does provide users with more control and creative input than comparable 2 megapixel digicams.
+  
+<b>Flash</b>
+
+The A60&#146s built in flash provides a fairly standard range of flash options including; Auto (fires when needed), On (fill mode), Red-Eye Reduction, Slow-synch in Night Scene Mode (useful for night/low light pictures where you want to illuminate a foreground subject and retain some detail in the background), and off.  Canon claims the flash range is about 15 feet and (after extensive use) this seems to be an accurate assessment.   Overall, the A60&#146s built-in flash does a better job than most point and shoot flash units, but red eye will be a fairly consistent problem, even when using the red eye reduction mode.
+  
+<b>Controls, Design,  & Ergonomics</b>
+ 
+The A60 is comfortable to hold and all controls are logically placed.  The body is constructed of a durable combination of metal and polycarbonate.  Experienced photographers will have no problem using the camera right out of the box and beginners will be able to shoot stunning images after quickly scanning the user&#146s manual. The A60&#146s top deck <b>Mode Dial</b>  has settings for Aperture Priority, Shutter-Speed Priority, Program AE, Portrait Mode, Landscape Mode, Night Scene Mode, Fast Shutter, Slow Shutter, Movie mode, and Stitch-Assist mode allowing users to quickly shift between modes without resorting to the menu.
+ 
+On the rear of the camera is the <b>FUNC button</b>, a nifty feature imported from Canon&#146s more expensive prosumer models.  Most of the A60&#146s shooting functions can be accessed via traditional buttons and switches, but when users need to use the menu, hitting the FUNC button pulls up an overlay that allows shooters to directly access the function they wish to change or modify. 
+
+<b>Creative Photography Options</b> 
+
+The A60 has more white balance options than any other entry level 2 megapixel digicam currently available, including a professional custom mode that allows users to  shoot a white card for perfect  white balance.  The Photo Effects mode allows users to  quickly and easily adjust color saturation levels and image sharpening.
+
+<b>Power</b>
+
+The A60 is powered by four cheap and readily available AA batteries.  Canon&#146s engineers have improved power management to the point where Alkaline AA&#146s from the corner convenience store will power the camera (according to Canon) for up to 250 (continuous LCD and occasional flash use) exposures.  NiMH re-chargeables (highly recommended) will power the A60 through up to 350 (continuous LCD and occasional flash use) exposures.  What this means for  consumers is that  AA Alkaline batteries can be used in the field (as backup) if you don&#146t want to buy spare batteries.  My friend and I used four Duracell Alkaline AA&#146s to power the A60 through a full day of shooting with continuous flash and LCD use and never ran dry.
+
+<b>Technical Specifications</b>
+
+Resolution: 2 Megapixels (1600x1200)
+Viewfinders: 1.5&#148 Polycrystalline silicon TFT LCD and Real Image zooming optical viewfinder
+Exposure: Auto, Program, Scene mode, Aperture priority, Shutter-speed priority, Manual mode, Movie mode, and Stitch Assist mode.
+Metering: Center-weighted & Spot 
+Exposure compensation: Yes +/- 2 EV in 1/3 EV increments
+Lens: f2.8-4.8/35-105 (35mm equivalent) all glass optical zoom
+Auto Focus: 5 AF point AiAF
+Manual Focus: Yes
+Macro: Minimum focusing distance-- 2&#148
+Shutter Speed: 1/2000th of a second to 15 seconds
+White balance: Auto, Daylight, Cloudy, Tungsten, Fluorescent, Fluorescent H, Flash, & Custom 
+Sensitivity: Auto, 50, 100, 200, & 400 ISO (35mm equivalent)
+In-Camera Image Adjustment: Yes 
+Noise Reduction: Yes-- automatic on exposures longer than 1 second 
+Flash:	Auto on, auto off, red-eye reduction on, red-eye reduction off, and slow synch (in night scene mode only).  There is no provision for using external flash units
+Image Storage Media: CompactFlash type I  
+Connectivity: USB & AV/out 
+Power: 4  AA batteries 
+
+MSRP $349.00 Street Price Range $249.00--$199.00
+ 
+<b>Included </b> 
+ 
+16MB CF card, four AA Alkaline batteries, wrist strap, USB & AV cables, 2 software CD&#146s, printed user&#146s and software manuals
+
+<b>Optional</b>
+ 
+CBK100 (4 NiMH) batteries and charger kit, LA-DC52C Lens adapter, Canon WC-DC52 0.7x Wide Converter lens, TC-DC52 2.4x Tele-converter lens, 250D Close-up Lens, WP-DC700 Waterproof Case, ACK600 AC adapter, and soft camera case
+
+<b>In the Field/Handling & Operation</b>
+
+I recently got a request from one of my long time readers (artdeco73) to review Canon&#146s new A70 and A60 digital cameras.  I asked my friend (who sells digital and analog cameras and photographic equipment) to see if he could round up one or both of them for us to play with.  We tested the A70 first and I&#146d been looking forward to the opportunity to compare it to the A60.  My friend turned up on a really nasty Saturday (cold and gloomy with blowing rain, gray skies, and gusty winds) with a brand new A60 and we drove out to Jefferson Mall with our friend Ivan to shoot interior shots. We&#146ve both heard a lot of commentary about how prevalent red eye problems are with the A60/A70 and because we weren&#146t able to test the A70 for red eye we wanted to heavily weight our tests of the A60 toward the areas we had skipped with the A70 (the two cameras are virtually identical) and use the flash as much as possible.
+  
+Once at the mall we wandered around inside, posing Ivan in front of light and dark backgrounds (half our shots were in auto flash mode and the other half in red eye reduction mode).  We also did some sneaky grab shots of interesting looking shoppers and mall cruisers.  After we finished up at the mall we decided to take Ivan to Mazzoni&#146s Caf� for a late lunch. 
+  
+The original Mazzoni's Cafe opened in 1884 at Third and Market in  downtown Louisville.  During the mid sixties I worked downtown and loved going to Mazzoni's for lunch.  The white and black tile floors, small tables with ice cream parlor chairs, twenty seven foot solid walnut bar, high stamped tin ceilings, smoky atmosphere, eclectic crowd, and aura of tradition made the place absolutely fascinating; like a setting from a Raymond Chandler or Dashiell Hammett mystery novel.   Tommy Long, the "sizzling Southpaw" a famous Louisville baseball player (best known for striking out Babe Ruth three times in one day) was still managing the caf� when I first started eating there. 
+Mazzoni&#146s moved (2804 Taylorsville Road, right across from Bowman Field) in 1974 after urban renewal forced the original cafe to close.  The old walnut bar survived the move and adds some character to the new location.  Mazzoni's is most famous for their rolled oysters, a unique Louisville comfort food made with four or five Chesapeake Bay oysters rolled in cracker crumb batter and deep fried. The outside of this fist sized ball of dough turns a pretty golden brown while the oysters inside are bursting from the heat and permeating the breading with the taste and smell of fresh oysters.
+  
+We sat down and ordered a rolled oyster and a coke for each of us.  I was able to sneak a few shots of our fellow diners while we waited for our food, making this a &#147serious business&#148 lunch.  Ivan really liked the place and he loved the rolled oysters, too.  After we finished eating we drove him over to Bardstown Road to do some shopping at Hawley-Cooke Booksellers while my friend and I headed for the Bambi Bar to get some bar shots with the A60, the ultimate test of a digital camera&#146s low light ability. The Bambi Bar opened in 1940 and is named for Walt Disney&#146s cartoon classic &#147Bambi&#148 which opened downtown at the Palace Theater the same year.  The Bambi Bar is one of Louisville&#146s neatest neighborhood bars, a funky little roadside tavern with food (including the &#147World Famous Bambi Burger&#148 one of Louisville&#146s best cheeseburgers), pool, and a truly eclectic cast of local characters.
+
+We got a table and two bottles of Corona and surreptitiously photographed a couple of the patrons shooting pool.  It is important to note that digital cameras, as a class, don&#146t do well in low light. Like most compact digital cameras, the A60&#146s zoom is on the same axis as its flash and that almost guarantees red eye in dimly lit shooting environments.   The A60&#146s built in flash has a range of about fifteen feet (just about right for shooting a small table of friends at the wide angle end of the 3X zoom&#146s range).  The red eye reduction mode helps a little, but not enough to overcome the problem.  If you&#146re curious about how the A60 is likely to perform in outdoor settings and for close-up work check out the &#147In The Field/Handling and Operation&#148 section of my A70 review. 
+   
+<b>Image Quality</b>
+
+The A60&#146s Images are very good, measurably better than its predecessor (the Powershot A40).  The A60 consistently produces well exposed images with good dynamic range. Skin tones are rendered naturally and color accuracy and white balance are excellent under most lighting conditions, even under difficult indoor lighting. 
+   
+Reds are just a tiny bit flat (we noticed the same problem with the A70) but the vivid saturation effect should fix this in most cases.  The ISO 50 setting produces the best images, with extremely low noise levels.  The ISO 100 setting is almost as good, with a barely perceptible rise in noise levels, however, there's a surprising level of noise at ISO 400.  We didn&#146t notice any chromatic aberration in our A60 images, but we did note very minor chromatic aberration in our A70 test and the A60&#146s 3X zoom lens is identical to one in the A70.  We didn&#146t shoot any close-ups with the A60, however our close-ups with the A70 were excellent. 
+
+We printed two 5x7&#146s with an Epson Stylus Photo EPX785 (a flash shot of Ivan at Jefferson Mall and a flash shot from the Bambi Bar) and both were excellent.  If you&#146ll need an occasional 8x10 enlargement, then the A70 is probably a better choice.  Acceptable quality 8X10&#146s are possible with the A60, but users should consider 5X7 the maximum enlargement size for important images.  The A60&#146s images are consistently and dependably very good, especially so for a bargain priced digital camera and little or no post exposure correction or adjustment will be required.  Both my friend and I agreed that the A60&#146s images were equal or superior to those we&#146d shot with more expensive cameras.
+
+<b>Shutter Lag/Timing</b>
+
+The A60 is faster than any other two megapixel digital camera I&#146ve used to date.   Canon&#146s DIGIC processor really kicks the A60 into overdrive in terms of operational speed.  Start up time is between two and three seconds and shutter lag wasn&#146t a problem except in very dim light.  Shot-to-shot times are quicker  (typically between one and two seconds) than average for 2 megapixel digicams.  AF speed is very good, especially if you pre-focus (press the shutter button halfway) before you compose the shot.  Low light images take a bit longer, but they&#146re still shorter than with comparable digital cameras. 
+ 
+<b>A Few Concerns</b>
+ 
+The A60&#146s 3X zoom exhibits minor barrel distortion at the wide angle end of the zoom&#146s range, but no visible pincushion distortion at the telephoto end of the range.  The CompactFlash card cover is flimsy and the tripod mount is plastic, rather than metal.  Images are a tiny bit soft, however not objectionably so.  My friend says that Canon&#146s engineers gave up a little sharpness in order to ameliorate graininess in higher ISO images.  If the softness bothers you it can be easily corrected, post exposure. 
+
+The A60&#146s only major shortfall is a fairly consistent problem with red eye in flash pictures.  Red eye is a problem with all compact and ultra compact digital cameras because the lens and flash are too close to each other and the A60 fares no better in this department than its competitors.  If you like the camera, then the red eye problem should not be a deal breaker (since any similar digicam will exhibit the same fault), just plan on fixing &#147devil eye&#148 post exposure. 
+ 
+<b>Conclusion</b> 
+
+Most consumers don&#146t really need a 4 or 5 megapixel digital camera?  If you&#146ve been using amateur 35 mm SLR or &#147Point&#146n&#146Shoot&#148 cameras to shoot color print film you probably won&#146t need anything more than a very good 2 megapixel digital camera, like the Canon Powershot A60. The A60 is an excellent choice for a first digital camera.  Snap shooters and casual photographers just making the jump to digital imaging will be happy with the with the A60&#146s versatile and easy to use Auto, Program, and Scene modes.   For more serious shooters the A60&#146s flexibility and advanced features will allow it to keep pace with shooters as their photographic skills develop. 
+   
+The three megapixel Powershot A70 is almost identical to the  A60, so serious amateur photographers who want to all the latest features and need top quality 8x10 enlargements can kick up a hundred bucks extra and opt for the A70 instead.  My friend says if the U. S. economy remains stagnant or worsens Canon will deeply discount the A60 and A70 for the 2003 holiday buying season, buyers should be able to find the A60 online for as low as $180.00 and the A70 for around $250.00, once the snow starts to fall.  
+
+<b>Links</b>
+
+For definitive advice on <b>How to Choose a Digital Camera</b> please see my review.
+ 
+<a href="/elec-review-2E46-17B174E2-39A418E3-prod1">http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a>
+
+Looking for a capable photo printer at an amazing price?  Check out my review of the <b>Epson Stylus Photo 785 EPX</b> ink-jet printer. 
+
+<a href="/content_60776812164">http://www.epinions.com/content_60776812164</a>
+
+Still searching?  Here are my reviews of some comparable digital cameras.
+
+Canon Powershot A70
+<a href="/content_99985034884">http://www.epinions.com/content_99985034884</a> 
+
+Canon Powershot S230
+<a href="/content_78900203140">http://www.epinions.com/content_78900203140</a>
+ 
+Canon Powershot S30
+<a href="/content_59041746564">http://www.epinions.com/content_59041746564</a>
+ 
+Olympus Camedia C730UZ
+<a href="/content_86851030660">http://www.epinions.com/content_86851030660</a>
+
+Olympus Camedia D550
+<a href="/content_85994606212">http://www.epinions.com/content_85994606212</a>
+
+Nikon Coolpix 2500
+<a href="/content_65176440452">http://www.epinions.com/content_65176440452</a> 
+
+Nikon Coolpix 3500
+<a href="/content_88242491012">http://www.epinions.com/content_88242491012</a>
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,26 @@
+DOC>
+<DOCID> 27680 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Sony_MVC-CD1000 </PRODUCT>
+<URL> http://www.epinions.com/content_28274691716 </URL>
+<TEXT>
+            In a camera Mavica MVC-CD 1000 is used mini CD-R disk by a diameter 8 mm. And the name Mavica (Magnetic Video Camera) has got to it by right of succession from MVC-FD95. It is same power and big camera with 10 optical zoom, system of stabilization of an image Super Steady Shot and 2,1 megapixel matrix.
+
+The main feature of the camera is CD-R. On the disk "for Mavica" it is possible to save 156 Mb of data and to receive after shooting ready and durable photo-archive. With price in $4 for disk even the usual photographic film can not compete with it on cost of a frame. On CD for the camera the single saving is possible only. 
+
+For first setting disk in the camera the procedure of initialization by duration some minutes happens, then it is possible to shoot. To look through ready material on the computer with the help of usual CD drive without special software the disk should be "finales". Each finalization required some vacant place (for first - more than 10 Mb, for next - less). The initialization and finalization is better to making with power from an external power supply or completely charged batteries. With the help of enclosed to the camera of a software DirectCD (Adaptec) "non-finales" disk will be read on CD drive of your computer. Unfortunately, version Direct CD should be special for Mavica and get it free from Internet is impossible.
+
+With the camera is possible to work and through USB. Except for doubtless pluses, which are given by CD-R technology, the camera has minuses. Saving on CD does shooting slower (for JPEG 1600*1200 an interval is 5-6 seconds, for TIFF 600*1200 - 30-40 seconds). Available time of the camera for shooting after turn is considerable - 10-20 seconds. For CD-R device in the digital camera it is necessary the additional capacious buffer, but it still "has lifted" the price for this uncheap camera.
+
+Optical zoom 6 - 60 mm (39-390 mm for 35 mm film) allow to shoot not descending with one places both architectural ensemble and fragment of its structure. When shooting on a "long focus", you not do without a system of stabilization of an image Super Steady Shot. To shoot by the camera on a "long focus" it is not so convenient. The camera slowly "is prepared" for shooting and it is necessary to hurry, that the object "has not left". The second attempt, most likely, will not be.
+
+The noises of the camera in shadows and lights are insignificant, but are appreciable in all a luminance range. For insufficient illumination the auto focussing of the camera works well. The camera has "art" processing of an image: normal, negative, black and white, sepia and solarization.
+
+The camera has two subject modes of shooting in twilight "Twilight" and "Twilight+". These modes are traditional for Sony and differ by endurance, on which the shooting is made. In a mode "Panfocus" it is good to shoot a landscape, the subjects from 2 � ad infinitum on a shot will be "sharp".
+
+Despite of "bulky" and "weight", camera it is convenient to shoot. The camera easily works with the TV set, but rather is intelligible for connection to the computer. Drivers and programs for work with it hard to find in Internet.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

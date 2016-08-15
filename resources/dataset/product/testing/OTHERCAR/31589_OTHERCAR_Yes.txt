@@ -1,0 +1,20 @@
+DOC>
+<DOCID> 31589 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_NikonCoolpixx-Nikon_Coolpix_800 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-760C-2A0CAC12-39969609-prod5 </URL>
+<TEXT>
+            I received my 800 for Christmas last year, and it's my first venture into digital photography.  I took tons of practice pictures in anticipation of using this camera exclusively on a Disney vacation.  
+
+I bought a bigger memory card (48M vs the 8M it comes with) and several sets of rechargeable batteries.  The rechargeables are really necessary; I was only getting about 50 pictures per set of batteries.  However, I use the LCD viewfinder exclusively and you could probably get several times that number of shots using the optical viewfinder instead.
+
+The camera is very easy to use, and most pictures (75%) taken in the simplest automatic mode come out great.  Most of the failures are caused by a too-weak flash, but retaking a picture with the flash disabled usually has a good outcome.  The colors are generally true and vibrant, the focus is excellent, and it only takes a couple of seconds between shots.  A frequent problem is red-eye, but this is easily editable with the included software, or other image editing package.
+
+While on vacation, I'd upload the pictures from the camera to a laptop via the serial interface.  It's a very slow process (1-2 hours to download the 30-50 pictures I'd take each day) - I'd have liked a faster USB interface.  At home, I have a PC Card drive that gets the images off the memory card in seconds.
+
+Good camera, fun to use, and takes great pictures!  <br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

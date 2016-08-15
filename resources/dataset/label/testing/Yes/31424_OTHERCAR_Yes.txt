@@ -1,0 +1,226 @@
+DOC>
+<DOCID> 31424 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Canon_PowerShot_S50 </PRODUCT>
+<URL> http://www.epinions.com/content_93226503812 </URL>
+<TEXT>
+            Canon&#146s new Powershot S50 is a stylish little digicam that updates Canon&#146s recently introduced S45.  The snazzy black (in the U.S.) S50 is aimed at serious amateur photographers who want a full slate of advanced features, lots of creative input, compact size, and five megapixel resolution. The new S50 provides almost  the same level of creative photography capabilities as the superb G3, but with a twenty five per cent increase in resolution and it&#146s smaller, lighter, cheaper, and easier to use. 
+
+The S50 is Canon&#146s first five megapixel digital camera.  Canon was late to the five megapixel party because the company&#146s engineers felt the standard 1/1.8&#148 CCD imager maxed out at around four million pixels with image noise rising to unacceptable levels at higher resolutions. All of Canon&#146s professional dSLR&#146s (D30, D60, EOS 1D. and EOS 1Ds) utilize advanced CMOS imagers which manage noise better than CCD imagers, so it was assumed that Canon would introduce the first five megapixel digital camera with a CMOS imager. Instead, Canon&#146s product development folks surprised everyone by tweaking the standard 1/1.8&#148 CCD&#146s performance to overcome the noise problem.  
+  
+<b>FEATURES</b> 
+
+<b>FUNC button</b> 
+
+Canon&#146s engineers designed the S50&#146s user interface so that most shooting functions are accessed through external controls (for improved usability). When you  need to use the menu system the FUNC button takes you directly to the function you wish to modify or change.   This enhances the S50&#146s creative control by allowing photographers to quickly, logically, and easily access many of the most commonly changed camera settings like exposure compensation, white balance, drive mode, ISO setting,  focus/exposure bracketing, flash options, photo effects options, and image size/quality selection.  The difference is subtle but once users are comfortable with the FUNC button, usability and composition speed are noticeably improved.
+
+<b>DIGIC Image Processor</b> 
+
+Canon&#146s DIGIC Processor (Digital Imaging Integrated Circuit) was developed for the groundbreaking Canon G3 (the S45 and S230 also feature DIGIC technology). DIGIC technology enhances auto focusing accuracy and improves processing speed while utilizing complex algorithms to produce images that are optimized for detailed resolution, excellent contrast, low noise, and accurate color balance.  The DiGiC processor also reduces power consumption by approximately fifteen per cent noticeably improving battery life. 
+ 
+<b>Focus bracketing</b>
+
+This feature (first seen on the G3) allows the S50 to shoot three exposures in rapid succession; one focused slightly in front of the subject distance, one at the camera chosen AF focus distance, and one focused slightly behind the subject distance.  This greatly increases the likelihood of capturing at least one exposure with precise focusing in rapidly unfolding action situations (you can&#146t use flash when focus bracketing is enabled) 
+
+<b>iSAPS</b> 
+
+The S50 utilizes Canon&#146s proprietary Intelligent Scene Analysis based on Photographic Space (iSAPS) technology to produce exceptional exposures in scene modes. The camera matches the scene in front of the camera to an on board database of known scene types and then compares that information with contrast range, lighting, color, and focusing distance to determine correct exposure. 
+
+<b>RAW Settings After Exposure</b> 
+
+Ever shoot a JPEG image and suddenly wish you had chosen to record it as a RAW file (RAW images files are a loss-less compression option that requires just sixty per cent of the space of an uncompressed TIFF image with no apparent loss in quality)? The S50 allows a captured JPEG image to be saved as a RAW file, after it is recorded. This is a great option for serious photographers, especially those who spend a lot of time manipulating images in PhotoShop. Users can record an image as a JPEG file, review the image, and decide AFTER Exposure that the image provides lots of room for post exposure manipulation.
+ 
+<b>Other neat features</b> 
+
+<i>Audio notations</i> (up to 60 seconds) can be added to still image files 
+
+<i>Histogram</i> (a graphic LCD display of the image showing areas of over exposure) The S50 doesn't show a live histogram so it can&#146t be used as an aid to exposure, but you can check the image post exposure and re-shoot (if necessary) using information from the histogram display to fine-tune settings. 
+
+<i>Intervalometer</i> for time-lapse photography with exposure intervals from one to 60 minutes and for two to 100 exposures.
+ 
+<b>NUTS & BOLTS</b> 
+
+<b>Viewfinder/LCD</b> 
+
+The S50 features a standard optical viewfinder that covers about 85 per cent of the image area. The viewfinder zooms with the lens, but provides no parallax correction lines (making close-up and macro shooting a bit more difficult). There&#146s no diopter correction (for eyeglasses wearers)
+
+The S50's 1.8" LCD screen is bright and sharp and the display provides all the data you could possibly need. The LCD&#146s brightness level can be adjusted in the setup menu. 
+
+<b>Exposure</b> 
+
+The S50&#146s exposure modes mimic those found on some Canon EOS film cameras.  Select from Program AE, Aperture Priority, Shutter Priority, and Manual exposure modes.  The S50&#146s exposure options include Scene modes: Portrait, Landscape, and Night Scene optimized for simplified shooting in a variety of specific exposure situations.  The S50 also provides specialized exposure options with Stitch Assist (panorama) mode, Movie mode, and a new Custom mode. 
+The S50's PhotoEffects Mode (in-camera image adjustment) is accessed through the FUNC button&#151select from six pre-exposure image adjustment options: Vivid color, Neutral color, Low Sharpening, Sepia, Black-and-White, and Custom "mode.
+
+<b>Movie Mode</b> 
+
+The S50 can record short video clips (with audio) at 320x240 @ 15fps (up to 3 minutes).  The zoom cannot be used during video filming.
+
+<b>Lens</b> 
+
+The S50 features the same lens as the S45/S40/S30, a relatively fast f2.8-f4.9/35-105mm (35mm equivalent) fully retractable 3X zoom with two aspherical elements (for color accuracy and improved resolution). The front element is protected by a sliding lens cover that doubles as the camera&#146s on/off switch. There is no provision for using filers or add on wide/tele/macro lenses with the S50. 
+
+<b>Flash</b> 
+
+The S50&#146s built-in flash does a good job, considering its tiny size. Flash exposure can be adjusted from +2/-2 EV (in one-third-step increments). The S50&#146s Flexible Flash Options allow users to manually select flash output levels of 1/3 power, 2/3 power, or full power which is an especially nice feature for balancing ambient light with flash lighting. 
+
+Users can also select first or second curtain sync effect (the S50 like most digital cameras has a combined iris/shutter rather than a focal place shutter---so there are no shutter curtains) allowing the S50 to mimic SLR flash timing (firing the flash immediately after the shutter opens ---first curtain synch--or immediately before the second shutter curtain closes---second curtain sync). Second curtain synch is great for showing a sense of motion (blurred areas of runners, race cars, bicycles---for instance--- are behind the subject). 
+
+The S50&#146s Focus Assist projects a beam of patterned white light that helps the auto focus system to get a lock on subjects in low light. When red-eye reduction is enabled the Focus Assist beam remains lit (as long as you half-press the shutter button) which will reduce the size of your subject&#146s pupils (just ask them to stare at the beam) and help reduce redeye in low light portraits. In Manual flash mode the S50's on board flash fires only a single burst of light (there's no pre-flash), so standard slave triggers will synchronize properly with the opening of the S50's shutter, making it possible (but cumbersome) to use external flash units.
+
+<b>Focus</b>
+
+In all automatic exposure modes the S50 defaults to a nine focus point AiAF (Advanced intelligent Auto Focus) system that covers a much larger part of the image area than previous Canon AF systems-- making it faster for the camera to select and lock focus on the primary subject, even when it is not centered in the viewfinder.
+
+In aperture priority, shutter priority, and manual modes, the S50 provides Flexizone AF, which permits users to select a single focusing point and manually shift that AF  point around in the frame for maximum creative control. 
+In manual exposure modes the S50 offers a manual focus option with a reference scale (displayed on the LCD and marked in meters or feet) for focusing accuracy.  Like other high-end cameras, the S50 enlarges the center of the LCD frame in manual focus mode, so you can make sure focus is sharp. 
+ 
+<b>Metering</b> 
+
+The S50 provides three user selected metering modes (Evaluative, Center-Weighted Average, and Spot). When Spot metering is enabled, the metering spot can be set for the center of the frame or linked to the active Flexizone AF point, allowing the photographer to meter on the &#147spot&#148 location that coincides with the most important element of the composition and link the camera&#146s AF system to that same spot.  This feature offers a high level of individual creative input. 
+
+<b>White Balance</b> 
+
+In the auto white balance mode the S50 splits the image area into segments and then evaluates the overall color balance for maximum accuracy even in tricky lighting situations. Users can select the Custom White Balance mode and then point the camera at a white wall or ceiling or a 3x5 white index card and store the reading. The custom white balance mode can store two different (custom 1 & custom 2) lighting situations, making switching between indoor and outdoor shooting environments simple and highly accurate. The S50 also provides six pre-set (Daylight, Cloudy, Tungsten, Fluorescent, Fluorescent High, and Flash) white balance modes.
+
+<b>Controls, Design, & Ergonomics</b> 
+
+The S50 is surprisingly comfortable to handle and easy to use.  The controls are logically placed and quickly become intuitive in operation. The new FUNC button allows direct access to the Photo Effects Mode for in camera image adjustments.  The pro black color  is attractive and stands out nicely against the ubiquitous sliver/brushed aluminum look that is currently so popular. 
+ 
+<b>Power</b> 
+
+The S50 uses Canon&#146s proprietary NB-2L Li-ion rechargeable battery. Like all compact cameras (compact cameras, because of their size, must utilize smaller batteries) battery life is shorter than with a full sized digital camera. Overall, we were both impressed with the S50&#146s power management. The battery duration seems to be about 20 percent better than that of the S40 (approximately 10-15 minutes of extra shooting time with moderate LCD and occasional flash use).  Power duration covers more than 200 images with full time LCD (and moderate flash use) and over 400 images using the optical viewfinder (with light flash use). These numbers are based on best-case scenarios so your results may vary. 
+
+<b>Technical Specifications</b> 
+
+Resolution: 5.3 Megapixels (2592 x 1944) 
+LCD: 1.8-inch TFT Color LCD 
+Viewfinder: Real-image Optical (zooms with lens) 
+Lens: 3x optical zoom f/2.8-4.9/35-105 (35mm equivalent) all glass 7 elements in 5 groups including 2 aspherical elements for improved image resolution and more accurate color (no diopter correction for eyeglasses wearers) 
+Exposure Modes: Auto, program, shutter priority, aperture priority, manual, and Custom, Programmed Image Control Zone (Portrait, Landscape, Night Scene, Fast Shutter, Slow Shutter, Stitch assist and Movie). 
+Metering: Evaluative, Center Weighted Averaging, or Spot 
+White Balance: Auto and 6 presets (Daylight, Cloudy, Tungsten, Fluorescent, Fluorescent Hi, Flash, and Custom 1 & 2) 
+Auto Focus: TTL FlexiZone AF or 9 point AiAF 
+Exposure Compensation: Yes (+ /- 2EV in 1/3 stop increments) 
+Auto Exposure Bracketing (AEB): Yes 
+Shutter Speeds: 1/1500th of a second to 15 seconds 
+Continuous Mode: 9 frames at 1.5 frames/sec 
+Sensitivity: Auto, 50, 100, 200, and 400 ISO equivalent 
+Flash: Built-in multi mode-- Flash Exposure Compensation +/- 2.0EV (in 1/3 stop increments) and manual flash output (1/3, 2/3, or full power) adjustment 
+File Formats: JPEG and RAW 
+Image Storage Media: CompactFlash Type I or II (32MB CF card included) 
+Connectivity: USB and A/V out 
+Noise Reduction: Yes 
+Power: Canon NB-2L 
+
+Price (MSRP) $699.00-----Street Price Range $549.00--$599.00 
+
+<b>Included</b> 
+
+NB-2L Lithium-Ion battery, CB-2LT battery charger, 32 MB CF card, Wrist strap, USB & AV cables, CD-ROM, ARCsoft software, User&#146s Manual and software manual 
+
+<b>Optional</b> 
+
+WP-DC300 Underwater Housing, AC Adapter Kit ACK700, Car Battery Charger CBC-NB2, Soft leather Case PSC30, and SP-PS900 soft case 
+
+<b>In the Field/Handling and Operation</b> 
+
+My Friend (who sells new and used digital and analog photographic equipment) showed up with a brand new Canon Powershot S50 on a recent Saturday morning. We started out by setting up a home-made macro stage and (after manually white balancing the camera) shooting brightly colored red, green, blue, and yellow plastic children&#146s beach toys arrayed against a white background. The S50&#146s color is well saturated and very accurate. When we tested the S40 we both noticed a very slight warm cast with the Auto white balance setting. The S50&#146s improved white balance system handled this test much better than its predecessor, serious proof that Canon listens to consumer complaints. The Manual white balance setting produced almost perfect results. The S50 (like the S40 and S45) had some difficulty with incandescent (yellow) lighting but when the on board flash was used, the incandescent setting achieved nearly neutral results. The S50&#146s white balance performance was virtually identical to similar tests we did with the G3 and S45. 
+
+After we ran our color tests we wanted to check out the S50 in the field.  Spring has finally arrived in the Bluegrass State.  We had our first really pretty day, the sky was blue (with gorgeous white clouds) and the temperature was in the high sixties. The weather here in Kentucky has been cold and wet since October so both of us were anxious to test the new S50 in an outdoor setting so that we could take advantage of the lovely &#147shirt-sleeves&#148 weather.  We headed straight for Cave Hill Cemetery to shoot a pink Sandstone Moorish mausoleum that both my friend and I really like. The old Moorish mausoleum was just the beautiful against a cloud filled blue sky. We shot the mausoleum when we tested the S45 a few months back, so we wanted to have some similar shots to enlarge for comparison.  Cave Hill is Louisville&#146s unofficial arboretum and the old cemetery is filled with rare plants, trees, and bushes---it&#146s the first place in Louisville where signs of spring appear.  The grounds crews are just starting to put in their Spring plantings so photography options are still pretty slim, but we should be seeing crocuses, daffodils, tulips, Japanese Magnolia, and a selection of early wildflowers over the next two or three weeks. 
+
+After spending about an hour at Cave Hill we left for Bashford Manor Mall to shoot the annual Kentucky Orchid Society display.  My friend recently saw <b>Adaptation</b> (based on Susan Orlean&#146s book <b>The Orchid Thief</b>) and wanted to check out the show to see if there were any rare or endangered native orchids on display.  Both of us have read <b>Orchid Fever&#151A Horticultural Tale of Love, Lust, and Lunacy</b> by Eric Hansen, so we wanted to investigate whether Orchid collectors/growers really were as strange as Hansen made them out to be.  We were able to shoot some great close ups of absolutely gorgeous orchids (no endangered native orchids were on display) and the folks from the Kentucky Orchid Society were just as nice as they could be (although our Russian friend, Ivan, thought it was strange that some of them keep Lizards and Tree Frogs in their greenhouses to control bugs). 
+
+After finishing up at Bashford Manor Mall we stopped at the Twig And Leaf Restaurant (Bardstown Rd and Douglas Blvd) for coffee.  We also wanted to (sneakily) check out the S50&#146s low light performance.  The Twig & Leaf has been a Highlands neighborhood institution for decades and it is always fun to visit the funky little Grill.  We shot the painted plates of fried eggs and bacon and other comfort food dishes covering the front windows before going inside.  Once you step through the door the restaurant is just dim enough to provide a challenge for the S50&#146s low light capabilities.  There&#146s a counter with revolving stools and half a dozen booths.  We took a booth in back and ordered coffee. 
+
+The Twig & Leaf is always packed with an eclectic crowd of shoppers, workmen, and young artists, musicians, and students. This past summer the Twig & Leaf was a shooting location for a home-grown independent film. 
+We sipped our coffee and took turns sneakily shooting our fellow diners.  Ivan shot a couple of giggling teen-aged girls with multiple piercings and flamboyantly dyed hair with his Olympus C4000, so that we would have some comparison shots. The S50 (at ISO 400) --no flash--- did a good job of capturing detail and color even in the fairly dim lighting of the tiny restaurant. Ivan&#146s images were just a bit brighter, but the differences were minor enough to be almost meaningless.
+
+<b>Timing/Shutter Lag</b> 
+
+The S50 is a very quick camera, noticeably faster than the S40. Start-up time (boot-up cycle) is about four-five seconds (same as the S40) but everything else is quicker. The auto focus is more responsive and shot to shot times are (due to the S50&#146s large buffer) about 2 seconds, even in RAW mode, which is fairly quick. Shutter lag times are about average (for compact digital cameras) but if you pre-focus first (press the shutter release halfway) response time is very fast. 
+
+<b>Image Quality</b>
+ 
+We got together on Sunday morning and printed two 5X7 Orchid close-ups and then carefully inspected them using a Mamiya 4X loupe designed for checking medium format prints. The enlargements were as good as any five megapixel images I&#146ve seen to date.  We also printed one of the Moorish Mausoleum images at 8X10 (all enlargements were printed on an Epson Stylus Photo 785 EPX inkjet printer on Kodak photo paper) and compared the S50 image to the 8X10 of the same structure we had shot with the S45.  The S50 enlargement was better, although the only significant difference between the two was the slightly increased detail in the S50 print.  Both enlargements were as sharp as a tack and when viewed with the Mamiya 4X loupe, there was no discernible distortion and no color fringing. The pink sandstone and Moorish arches of the old mausoleum with cobalt blue skies and puffy white clouds, was picture postcard perfect. 
+ 
+Throughout our test the S50 produced consistently excellent color images. Optical distortion from the 3X zoom was lower than average at the wide-angle end (but there was some noticeable barrel distortion). The telephoto end of the range produced distortion free images. Chromatic aberration (purple fringing) was virtually non-existent and low light performance was above average. The lens displayed some very minor softness in the corners of the frame, especially at f2.8. Noise in longer exposures is well controlled, even at the ISO 400 setting. Macro performance is good, but the position of the S50&#146s flash and the lack of any parallax compensation marks makes macro shooting more difficult than it needs to be. Overall, the S50&#146s images are sharp, the color is accurate and well saturated, and the camera's white balance system does an excellent job under a wide variety of lighting conditions.
+
+<b>A Few Concerns</b> 
+
+The S50&#146s 3X zoom lens is not threaded for use with add on lens adapters or filters, a standard shortcoming in compact digicams.  The built-in flash is positioned so close to the lens that red-eye is a recurrent problem (another standard complaint with compact digicams). Battery life is decent, but not exceptional. We averaged a bit more than two hours of heavy use from a fully charged battery (light to moderate LCD use). 
+
+Macro performance could have been better with the simple addition of parallax correction marks in the optical viewfinder (you can obviously use the LCD viewfinder for your macro work, but critical focus is more difficult).  Buyers should be aware that the S50's default sharpening is slightly lower than average, which is great if you plan to shoot a lot of RAW images and do your sharpening post exposure, in PhotoShop. 
+
+The S50&#146s most irritating shortcoming is the four-way Multicontroller which is &#147fiddly&#148 and difficult to use, but I suspect most users will quickly learn to apply just the right touch.  
+
+<b>Conclusion</b>
+ 
+When Canon introduced the G3 many consumers were disappointed that the camera didn&#146t feature five megapixel resolution.  Lots of potential purchasers saw the five megapixel mark as the next natural evolutionary stage for the G3 (the G1 was 3 megapixels and the G2 was four megapixels) but Canon&#146s engineers took a more conservative approach and the G3 featured the same four megapixel resolution as the G2.   With the introduction of the S45 earlier this year Canon combined the ease of use of the ultra compact digital elf family with the creative photography options and advanced digital engineering features of the &#147G&#148 family, the new S50 takes that evolution one step further by increasing the resolution to five megapixels.  If Canon had managed to include the G3&#146s tilt swivel LCD and 4X zoom, the S50 might have been the ultimate compact digital camera. 
+ 
+The S50 is an excellent general-use digital camera that offers users just about all the manual exposure controls they might need.  The camera also works beautifully for neophyte photographers who want to shoot high quality digital images without learning complex photography skills. The final question for many consumers is going to be----S45 or S50?  For most photographers, the S45 will be more than sufficient.  If you plan on printing enlargements bigger than 8X10 or you really like the snazzy &#147pro look&#148 black body then spring for the extra dough.   Either camera is an excellent choice, I can recommend both enthusiastically and without reservation.  Look for Canon to introduce a five megapixel G4 (just in time for the holiday buying season) late this summer or early in the fall.
+
+<b>Links</b> 
+
+Are you planning to set up a home digital darkroom? Check out my review of a bargain priced and very capable photo quality ink-jet printer. 
+<b>Epson Stylus Photo 785 EPX</b> ink-jet printer 
+<a href="/content_60776812164">http://www.epinions.com/content_60776812164</a> 
+
+For definitive advice on <b>How to Choose a Digital Camera</b> please see my review: 
+<a href="/elec-review-2E46-17B174E2-39A418E3-prod1">http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+My review of the Canon Powershot S45
+<a href="/content_84242173572">http://www.epinions.com/content_84242173572</a>
+
+My review of the Canon G3
+<a href="/content_78672989828">http://www.epinions.com/content_78672989828</a>
+
+For information about other five megapixel digital cameras you may find the reviews listed below informative: 
+
+<b>Nikon Digital Cameras</b>
+ 
+Nikon Coolpix 5700 
+<a href="/content_70131814020">http://www.epinions.com/content_70131814020</a> 
+
+Nikon Coolpix 5000 
+<a href="/content_52720406148">http://www.epinions.com/content_52720406148</a>
+ 
+<b>Olympus Digital Cameras</b> 
+ 
+Olympus C 5050 
+<a href="/content_82693164676">http://www.epinions.com/content_82693164676</a> 
+
+Olympus C 50 
+<a href="/content_81891724932">http://www.epinions.com/content_81891724932</a> 
+ 
+<b>Sony Digital Cameras</b>
+Sony DSC F717 
+<a href="/content_79857684100">http://www.epinions.com/content_79857684100</a> 
+ 
+<b>Minolta Digital Cameras</b> 
+
+Minolta Dimage F300
+<a href="/content_92347993732">http://www.epinions.com/content_92347993732</a> 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

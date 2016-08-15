@@ -1,0 +1,61 @@
+DOC>
+<DOCID> 7795 </DOCID>
+<PRODUCT> Digital_Cameras/Fuji_FinePix_S2_Pro_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_85548306052 </URL>
+<TEXT>
+            Select which camera to buy is a very hard decision to made especially for the camera in this price. Yes, it is "cheap" if you compare to the price that Kodak offered a year ago. But still, it is a big parches for me. I am always want to have a SLR camera myself, the only thing keep dragging me back is that I don't have too much time to do the darkroom work, and the cost of the finishing is another thing. My Dad is a pro, so I did know a lot about photography and had many chances work with him when he busy. I do have a point and shot camera (my wife bought it), but I don't really like it, then the Kodak digital cam (still point and shot), I love the digital since I can say good-bye to film and dark room, but those consumer level digital cameras did not give me the same level of picture quality, flexible and the control I need than a SLR will offer. So, I said to myself "I want a Digital SLR".
+In year 2000, a professional 2MP digital SLR from Kodak was priced at US$16000, so I had to wait. The good news came out early 2002, Canon D60, Nikon D100 and Fuji S2pro came out almost at the same time, and priced at around US$2000 ~ US$2500 range.
+So, the hunting started.
+
+The choice I have is basically in those threes because those cameras are aimed at the market that mostly advanced amateurs and some pros that don't need the power of a $10000 camera or simply can't afford it. 
+
+First, I read the Spec. I am not going to go through the Spec here, but if you read them through, you will find the features on the threes are very similar. Than the first decision I made is "Canon is out". This does not mean Canon isn't good, the only reason is that my dad had a lot of Nikon gear, so I think I should get a body that can use all Nikon lens. 
+
+Now my choice is between Nikon D100 and Fuji S2.
+
+Than I went to web and did a lot of reading, there is a web site I did recommended if you are shopping for a digital camera http://www.dpreview.com. I got a lot of information and there are lots of pictures taken by S2 in the Fuji forum really impressed me. So I decided go for S2.
+
+After using S2 for 6 month, I think I made the right decision and the following are some highlights:
+
+1. The size of the S2 is just about right, not too big not too small. I feel much comfortable holding a S2 than a Nikon D100, especially if you have a big hand, D100 is a bit too small.
+
+2. The control layout on the back is very easy to use. The function button with a small LCD screen is very handy. It allows you to quickly change some of the settings (most likely you will change very often) without go through the main menu through the main LCD screen. The basic camera control is almost the same as Nikon N80 (The S2 camera body part is made by Nikon based on N80), so if you used Nikon gear before, there is almost no learning curve.
+3. S2 has the third generation super CCD. The physical resolution is 6.17 Mega Pixel and the final image can go up to 12 Mega Pixel after processed in the camera. So if you want to make a large print, 12 Mega Pixel helps a lot.
+
+4. The image quality, most important part for a camera. The picture came right off the camera in JPEG always impress me, the color is accurate, sharp, noise free up to ISO400. 
+S2 has the progressive noise reduction system that keeps noise low even at higher sensitivities. The picture is very clean in the long exposure mode. Good thing I didn&#146t get the Nikon, since I&#146ve heard lots of people say that D100 requires a lot of post-processing in the Photoshop.
+
+5. You can still use the old Nikon Speedlight doing true TTL on Fuji. Since I had a SB25 already (Dad give to me after he get the new SB80), I am very happy with that. This is also an other reason made me choose Fuji, Nikon D100 only supports DTTL instead the true TTL, that means I have to get those DX version new Speedlight($$$).
+
+6. S2 supports smart media and CF, good news if you have some left over smart media card. It also has both IEEE1394 and USB connection.
+
+7. The battery system. Fuji takes 4 AAs (for digital processing) and 2 CR123s (for camera body operation). The camera will work without CR123 but the build in flash will not work, and of course will take less pictures. At first I didn&#146t like it, I thought a Lithium-ion battery system like Nikon D100 would be nice. But after I used it several times all day long in the middle of nowhere I think this battery solution is actually a smart design. The way I look at this is if you are in the middle of the shooting and out of battery, on a S2 you can just replace them with new AAs, but on system like Nikon you have to wait for an hour for the charging and what if there is no AC power at all? Sure you can buy more Lithium-ion and fully charge them, but for the price of a special Nikon Lithium-ion battery you can buy several packs of NIMH rechargeable battery for S2($$$). And you can pickup AAs at any corner store to feed the camera if you really need them. Two month after I had S2, I bought a MB16 (Extra battery pack design for Nikon N80), spend 5 minutes for little modification, then NO MORE CR123! It adds some extra length on the camera but actually feels even better when I hold it because it adds extra grip.
+
+8. S2 is the only camera that can use regular cable release. The others need the special remote cable($$$).
+
+You may ask if there are any Cons, the answer is yes. But most of them does not bother me too much, and here are them.
+
+1.	The camera body based on N80. So needless to say, it does not have the same durability those real pro level camera (like F5) has. But it is very well build for sure. One guy on the web call it "plastic tank" after he dropped the camera twice on the concrete floor without causing any problem; then when third time he "tried again" with a 80-200 2.8 and a tripod attached to it, the camera finally dead. But I think most of the people spend $2000 for a camera will treat it as a $2000 camera and take care of it.
+
+2.	The Exposure compensation has only in 0.5 EV steps, which is a bit limited but I can live with it.
+
+3.	The shot speed is 2fps, if you do lots of sports shooting, you may consider a D100 (3 fps) or even a Nikon D1H.
+
+4.	Does not have the optional battery grip, so I have to make my own (modified a MB16 which is originally design for N80). 
+
+5.	If you are using Micro Drive, you have to wait 1 ~2 seconds before you can start to shot when you turn on your camera or switch from the power save mode to the operational mode. My solution is turn on the camera most of the time and set the power save timer to 5 minutes in stead of default 15 seconds. And of course carry enough fully charged batteries with you.
+
+
+
+I think after 6 month use of camera, I loves this camera more and more, and my dad is thinking about get back to business again using digital. I think this camera is not only for the advanced amateurs and pros, but also for the people who serious thinking about learning photograph (If you willing to pay for the price).
+
+One thing you may also think about when you decide to get a DSLR is that you only buy a body. And for the final imaging quality, what kind of optical you put on will take a great effect. You can easily tell the difference between a picture captured by a $100 lens and other one captured by $1000 lens. So invest some money on you optical before complain about the image quality. 
+
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

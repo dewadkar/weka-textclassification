@@ -1,0 +1,52 @@
+DOC>
+<DOCID> 31606 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_NikonCoolpixx-Nikon_Coolpix_800 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-49EC-D3329EA-39283006-prod5 </URL>
+<TEXT>
+            I used an Olympus D-400Z for about six months, but never cared for the colors. They were too blue-green, and I could never seem to get them right, even after lots of tweaking in Photoshop. Also, the controls were difficult, and the picture review times were very slow. 
+
+I've used many of the Kodak digital cameras, and loved the color and controls, but they were too big.
+
+I've been intrigued by the Nikon 900 series, but they were too expensive.
+
+Then I found the Nikon 800 Coolpix. 
+
+I won't bore you with all the features here; if you want to read about the features go to the Nikon site and read them there. Here's the direct link:
+
+http://www.nikonusa.com/products/detailb.cfm?id=274
+
+I'll keep it simple. Here are the things I like, and those I don't:
+
+<b>Things I Like</b>
+
+<i>Great color</i>. Lots of digital cameras get the flesh tones all wrong. I've already noted the blue-green cast from my Olympus D400-Z. The Kodak cameras at times are too warm (i.e., too reddish-yellow). The Nikon 800 gets the flesh tones right almost every time.
+
+<i>Good exposure control</i>. If you haven't used digital cameras much, you need to be aware that they are almost as sensitive to incorrect exposure as Kodachrome slide film. Under- and over-exposure tend to produce color shifts that can be very difficult to remove. The Nikno 800 has a very effective matrix metering system that does an excellent job at getting good exposures under many lighting conditions.
+
+<i>Fast picture review</i>. Many reviews of digital cameras spend time talking about how quickly you can take one picture after having taken the previous picture. This is extremely important, and for the record, the Nikon 800 can take several pictures VERY quickly. However, another speed-related issue is how quickly you can go from picture to picture when reviewing them in the camera. One of the obvious advantages of a digital camera is that you can delete bad shots on the spot if you don't like them. However, you won't do much of this if it takes 5-10 seconds for each picture to appear on the screen, as it did on my old Olympus D-400Z. The Nikon 800 displays pictures virtually instantaneously.
+
+<i>Good menu and button organization</i>. Any hand-held computerized device always has a problem making all the features available through the limited number of buttons and knobs that can be squeezed into a small space. I found the Nikon menus and buttons very easy to understand and use.
+
+<b>Things I don't like</b>
+
+<i>Limited zoom</i>. My Olympus D-400Z had a 3x zoom. The Nikon is only 2X, and only gets you out to about a 70mm (35mm equivalent) telephoto in the full zoomed position. This is my only serious complaint. There is a tele-extender available from Nikon, but it costs $150, way too much.
+
+<i>Difficult to extract the memory card</i>. I guess I must have fat fingers, but I find it nearly impossible to push the card release button because it is recessed into a little tiny opening. Also, the button release doesn't push the card out quite far enough and I therefore have a tough time getting it out without a small tool (a key from my pocket works fine).
+
+<i>8MB card is too small</i>. The camera only comes with an 8MB card. This only gives you 16 pictures in the Normal compression mode, and 8 pictures in the Fine compression mode (you can get 32 in the Basic compression mode, but the artifacts get pretty noticeable). I immediately bought a 32MB card and found that this works just fine. However, this was another $74.
+
+<i>Tiny lens cap just begs to be lost</i>. I've already ordered a 28mm UV filter from CKC Power (800-300-6610). It was $7, plus S&amp;H. I'll use that to protect the lens instead of the cap.
+
+<i>Serial connection</i>. The camera only has a serial connection for transferring photos. You can speed this up by using the CAME photo software instead of the software that comes with the Nikon camera (see 
+http://www.steves-digicams.com/came08.zip). It has instructions for installing a modification to the serial driver that can increase the speed of your serial port to 230,400 kbs. Better yet, you can buy a USB card reader from BUY.COM for about $25. This will go about 20x faster than the serial connection.&lt;/i&gt;
+
+<b>Summary</b>
+
+I like this camera a lot. 
+<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

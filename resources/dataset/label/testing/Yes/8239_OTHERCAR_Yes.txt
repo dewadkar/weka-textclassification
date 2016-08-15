@@ -1,0 +1,31 @@
+DOC>
+<DOCID> 8239 </DOCID>
+<PRODUCT> Digital_Cameras/Fuji_FinePix_2800_Zoom_Digital_Camera__Camera_43860738 </PRODUCT>
+<URL> http://www.epinions.com/content_68850781828 </URL>
+<TEXT>
+            I've wanted a digital camera for a couple of years, but my budget and the state-of-the-art never quite lined up.  I've used several digital cameras before, but always borrowed.  So with a trip to Brazil and others in the near future, I decided to finally sink in and get my first camera.  I only had it for a week, but I'm quite pleased in my early tinkering.
+
+First, the big issues:
+- The media is a SmartMedia card, which is available up to 128MB.  I bought a 128 right away from a non-Fuji source for $50.  It ships with a 16MB card, which is big enough to get started.  I used to be a fan of the simplicity of floppy-drive cameras, but the USB connection is so simple and fast I really don't know what I was thinking.  Floppy disks are unreliable, subject to contamination, and really small when you can take 750kB JPG photos.
+
+- The picture quality and resolution is very good (2 Megapixel gives you 1600x1200 pics).  A full resolution, fine quality pic comes out to a 750kB JPG file and looks good at 100% zoom.  There is a significant delay until the picture is taken, so hold the camera steady for a good 2-3 seconds.  I've botched a few photos by not holding still long enough, and the viewfinder goes blank for a moment before the shot is taken, which can make it hard to keep the subject in the frame.
+
+- The 6x optical zoom is very good.  Remember, a digital camera isn't all about the electronic and computer-related specs, and this packs a good zoom into a very small package.  I'm very glad I chose this model over another type that has 2x optical zoom, or worse, digital only.  IMO, digital zoom is useless - you acheive the exact same results by cropping your photo in a editing program.
+
+- The viewfinder and LCD work pretty well.  The LCD is dim in broad daylight, but in those cases the viewfinder still works very well.  The LCD has a brightness adjustment that helps, but it's buried a bit in the menus.
+
+- The shape of the camera is robust, like a smashed-down 35mm, but it really is small.  However, the boxy shape doesn't fit pockets.  
+  Update: after my Brazil trip, I decided to splurge on another digicam, the Kodak LS420, because this camera is too risky and difficult to carry and keep concealed in theft-prone areas like Sao Paulo.  This is nothing against the camera; I simply didn't anticipate wanting an ultraportable design.  The Kodak will be ideal for point-and-shoot situations, where I can carry it in my pocket until I want to use it.
+
+- It also does motion video with sound, at 320x240@10fps for up to 60s.  I played with the feature and it works as advertised.  Just don't confuse any camera with video for a digital video camera.  They don't work in dim light.  It's worked well for capturing golf swings (not many frames, but still useful), clips of funny stuff, etc, but no zoom.  Taking video also chews the battery life quickly - filling a 128MB memory card with videos used up a freshly recharged set.
+
+- I haven't installed any included software.  I simply plugged it into my USB port, and Windows XP automatically recognized it and made a 'Removable Disk' drive.  I just open this drive and open/edit/copy/delete the files directly from the media.  The USB/Smartmedia is very fast and easy.  I'm not worried about battery usage during this operation since I can copy all the files to my hard drive in seconds and disconnect the camera.
+
+Random discussion:
+The battery requirements are a little heavy - 4AAs, but it doesn't seem like much of a burden.  I bought 2 sets of 1800mAh NiMH cells, but the included alkalines have gone a few days of tinkering so that case is still open.  At least the battery isn't proprietary ... I took a couple of shots in low light yesterday evening, and I got great results without the flash - just keep the camera good and still because the shutter automatically slows down ... Finding a fitting camera case will be tricky, and it seems finding any of the Fuji-supplied accessories is also difficult ... It weighs in a bit heavy for one of my intended uses - backpacking, but I think it will be worth it considering how well it shoots and how many shots I can get on a 128MB card.  I may buy 4 AA Lithium cells to put in just for my backpacking trips (better low-temp and lighter weight) ... Everyone should budget for at least a bigger memory card ($50), NiMH batteries and charger ($35), and a case ... Real photographers might be disappointed with fewer manual camera controls, but I don't mind ... I'm going to go around my apartment sometime and take pictures of all of my stuff as a record for my renter's insurance ... All buttons are marked with symbols that are intuitive and understandable ... a bit pricey for a beginner but has lots of additional features that beginners can easily use ... NiMH batteries have great performance specs but require a forethought to get a good charge and the charge doesn't have much shelf life ...
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

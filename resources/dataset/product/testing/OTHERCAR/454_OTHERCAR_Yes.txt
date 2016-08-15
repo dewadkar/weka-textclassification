@@ -1,0 +1,52 @@
+DOC>
+<DOCID> 454 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Kodak_EasyShare_CX6330_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_124430618244 </URL>
+<TEXT>
+            As I planned my visit to England and France last fall, I decided that my existing camera, a cheap Kodak Advantix unit, wouldn't do it. As much as I loved the APS film's ability to size shots at will, I was tired of wasting film on bad shots, and the camera's inability to force the flash off made it inappropriate for taking photos in museums and other light-sensitive areas. I decided to leap into the 21st Century by purchasing a digital camera, and Kodak EasyShare CX6330 was my choice.
+
+<b>Pricing</b>
+
+The camera cost me about $250 at Circuit City in early October 2003; the price later dropped to about $200 in time for Christmas. The $250 included a set of AA batteries, a USB cable, an audio/video output cable, photo paper samples, and EasyShare software; the camera's internal memory had space for about 16 shots.
+
+I spent an additional $40 for a Travel Kit, which included a rechargeable battery, a charger, and international power adapters for the charger, as well as a travel bag to hold everything. A 256MB SD memory card, which expands photo capacity to about 270 shots, cost me another $70 at Dell.com.
+
+There also are $80 computer docks with built-in charger and $180 printing docks, but I chose to skip those.
+
+<b>Features</b>
+
+This camera's resolution is 3.1 megapixels, less than the latest models' 4-5 megapixels but still acceptable; the digital camera help sections at various retailers said that I could make enlargements up to 8" x 10" - about the capabilities of my printer. Under bright lights I have had crystal-clear photos that put my old APS - and 35mm - cameras to shame.
+
+The camera's power switch gives me six different modes: <b>auto, sports, night, landscape, close-up</b>, and <b>video</b>. Most shots use the auto mode. Sports is for fast actions that require short exposures. Night shots expose longer to collect more light. Landscape and close-up adjust the focus needed for distant and close-up shots respectively. The video mode is for making a short video up to 8 minutes long; flash cannot be used. I used mostly the <b>auto</b> and the <b>night</b> modes for my shots during my trip; I found that the night mode, due to its long exposure, required a very steady grip or a tripod to get acceptable picture quality - and I had neither, ensuring that most of my indoors (especially museum) shots would end up with various degrees of blur; but at least I could take night shots of the London skyline - something that would require super-expensive film, camera, and lens if I were using a film camera. On the other hand, bright daytime shots, such as those from Kew Gardens, were crystal-clear.
+
+As is usual in all auto-focus cameras, I can push the shutter halfway to lock the focus, then press all the way to take the photo.
+
+The camera can zoom 3.3x optically and another 3.3x digitally, for a total of 10x. Upgrading from a no-zoom camera, I found that the optical zoom alone was more than adequate for my photos; besides, at high digital zooms, picture quality suffers, from digital zoom's interent degradation and from any shaking of the camera. To use the digital zoom requires that I use the camera's LCD screen as the viewfinder, as opposed to the optical viewfinder; it is a power-hungry affair I skipped altogether.
+
+The camera has an intuitive menu system which I can scroll through, using a round 4-direction button and the camera's LCD screen. Using it I can choose to date-stamp my shots, change the resolution of my photos, or change from color to black and white shots. For an artistic touch, it is even possible to take photos in sepia - the brownish color seen in old, faded B&W photos - but I chose to skip this option for my trip.
+
+Above the LCD screen are buttons to adjust the flash settings, put a time delay so that I can put myself into the photograph (I sadly did not attempt this during my trip), or take a quick sequence of four shots. The flash options are the ones any good camera ought to have: auto, always on, always off (required at many museums), and red-eye.
+
+There is even a quickly accessed Delete button to the left of the LCD screen. When I take a photo, its thumbnail is displayed on the screen for a few seconds, during which time I can press the Delete button to delete the shot, if it is a mistake. I found this feature handy, especially as I fumbled through dark museum corridors and attempted to get a blur-free shot of that exotic artifact. Even hours (or days) after taking the photo, I can review all photos in the memory and selectively use the Delete button to take out unnecessary shots.
+
+As I take my photos, the LCD screen will also display the approximate number of shots remaining on the memory card, the current flash mode, and the battery low warning. Unfortunately, I have to wait until the battery is almost dead before I get the warning; I need to carry a spare set of batteries at all times. To save power, the camera turns itself off it left on for too long.
+
+<b>The EasyShare software</b>
+
+Many people have complained of numerous bugs in Kodak's EasyShare software, but I have had little trouble using it. The software includes a camera driver which can recognize the camera (actually, its memory) as a new drive, a program that automatically transfers all photos to the hard disk (automatic transfer can be turned off), and a utility to organize photos into different albums.
+
+The software is powerful enough to let me organize pictures into albums - even before I take them. First, I define the album names in the software, then load them into the camera. If I use the red Share button on the back of my camera right after I take a photo, I can send the photo into one of the albums. When the photos are uploaded back to the computer, they are automatically sorted into the assigned albums.
+
+I don't like too many automatic bells and whistles though, and so far I have limited the use of the software to the driver function. After copying the photos to my computer, I simply go to C:\Kodak Pictures\2004-01-03 (or whenever I copied the pictures, in YYYY-MM-DD format) to work with them directly using Paint Shop Pro.
+
+<b>Afterthoughts</b>
+
+Using just one memory card, I took more shots than I would have been able to fit into 6 rolls of APS film during my trip. Although many of the shots ended up being blurry, I was glad that I could take those shots at all; now I have some high-quality shots that can be used as my desktop wallpaper or stored in a compact disc. I had so much fun taking, deleting, and re-taking that perfect photo that I left myself completely out of the picture - literally.
+
+Now that the price is even lower, I don't see an excuse not to enter the digital era, using this versatile camera. I will look forward to thousands more of great travel photos using this camera.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

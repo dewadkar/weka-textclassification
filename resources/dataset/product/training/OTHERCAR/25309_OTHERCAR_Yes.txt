@@ -1,0 +1,26 @@
+DOC>
+<DOCID> 25309 </DOCID>
+<PRODUCT> Digital_Cameras/Nikon_Coolpix_5700_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_72071810692 </URL>
+<TEXT>
+             Until recently I had been using a Nikon CP-5000 and had been quite satisfied. Recently, I was presented with the opportunity to pick up the CP-5700 for my camera and $200. Curiosity got the best of me.
+
+ The 5700 incorporate several improvements over the CP-5000. The new 8X zoom lens offers a 35mm to 280mm zoom capabilities (zoom range expressed in 35mm equivalent range). I have never been a fan of wide ranging zoom lenses but must admit that Nikon has done an excellent job with this one! The 5700 offers its users the ability to shoot in RAW mode in addition to TIFF and JPEG formats. The supplied software bundle was supposed to contain the necessary support for Nikons RAW images to be viewed on the PC and transferred into Photoshop for manipulation. This was not to be with the CD bundle I received. Mine did not contain Nikon Viewer 5.1.1. It is available for free download at the following site;
+
+http://www.nikonusa.com/usa_tech_center/dtc_download.jsp?cat=1&grp=2&productNr=25504&pos=2&os=win
+
+ If you need to download this file, I hope you have a high-speed internet connection, as it is almost 13MB a file. Even if you do not have Photoshop, this program will permit you to view and save your RAW images in a different format. One big plus is that exposure value compensation is available. Other improvements include repositioning the light sensor away from untrained and intruding fingers, (if you have used a CP-5000 with the flash, you know what I am referring to) fewer blown highlights at the preset default setting (if you have a CP-5000 and are frustrated with its tendency to �blow out� highlights try adjusting the EV down), the built-in flash on the 5700 also seems to do a better job of illuminating subjects, although for best results I do use an external flash. Another slight improvement is that the lens cap on the 5700 extends with the lens which means it does not need to be removed prior to powering up and can be used with the lens in its extended position.
+
+ After owning and using both the CP-5000 and the CP-5700 I can tell you that not all of the changes are improvements. The electronic viewfinder has its merits (97%frame coverage etc.) but in poor lighting the optical viewfinder on the CP-5000 was superior. I have difficulty framing a shot in very low lighting conditions. To my untrained eye, the bright colors on the 5700 can be more �vivid� than with the 5000 at their preset defaults. This is something you may or may not like, either way it is easily adjusted. As far as prefocus shutter lag is concerned, this is not a problem for me with either model. I would be hard pressed to tell you which is more responsive.
+
+ Opportunities for improvement are still plentiful with this model. It�s hard for me to imagine why Nikon still does not fully support their line of external flash units. If you own a Nikon speedlight i.e. SB-50DX the zoom, auto focus assist and red eye reduction features are not supported. Some type of auto-focus assist would also be a welcome addition. While I appreciate the ability to utilize an off the shelf disposable battery in a pinch, the EN-EL1 powering the CP-5700 is only adequate. I average about 70 minutes of shooting time on a full charge. An additional EN-EL1 is not what I would truly call an optional accessory. Some type of built in filter adapter would be a welcome change as well or at least the optional adapter could be included in the bundle. If you wish to use a UV or polarizer plan on also purchasing an adapter (UR-E8). 
+
+
+ Results with this model are incredible. To my untrained eye, I cannot tell the difference in professionally developed prints from this camera to color print film up to the 8x10 print size. This is based on images captured using the fine setting on the 5700. The fine setting is the highest quality JPEG file. While I appreciate the ability to capture TIFF images, the file sizes are huge and take up a lot of memory on CF cards. RAW file sizes are not as big but still wind up to be close to 8MB. I have a hard time finding a difference in the image quality when comparing the �fine� JPEG to either a TIFF or RAW image.  Larger prints are possible with a 5-megapixel camera but I have not had the need to have one made as of yet. When working near or at full telephoto zoom ranges I do achieve better results with tripod. If you are looking for a digital camera with a wide-ranging zoom and excellent user control, this model may be just what you have been looking for.  
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

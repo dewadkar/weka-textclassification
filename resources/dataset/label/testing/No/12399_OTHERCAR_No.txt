@@ -1,0 +1,28 @@
+DOC>
+<DOCID> 12399 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1990_Volkswagen_Golf </PRODUCT>
+<URL> http://www.epinions.com/content_11870572164 </URL>
+<TEXT>
+            Just to let you know in advance:  I am a VW fan.  Much of this is due to the fact that my father survived two brutal front-to-front collisions in VWs -- one time in a Passat and once in an Audi A3 (which is essentially a VW Golf - it is sold on the European market).  Both time he walked out of the wrecks completely unscathed, without the slightest scratch.
+
+Any ways, I was very excited when my wife and I finally purchased our first Volkswagen about a year ago -- a 1990 Golf GL.   It seemed the perfect car for us.  We are very active people, so we appreciate the versatility of a hatchback.  At the flick of a finger you can fold down or even remove the backseat, which gives you ample space to transport bikes or whatever you feel that you need to haul.  The Golf also has a surprising amount of ground clearance (more than some Subaru 4WDs, I have noticed!).  You can take it on some pretty rough back-country roads without having to worry about bottoming it out.  
+
+But sadly, our excitement did not last very long.  Very soon we ran into a long string of problems, which is still ongoing. . . 
+
+As it turned out, the automatic version of the Golf was maldesigned.  Basically, what Volkswagen did was take the standard version being sold in Europe and elsewhere and simply slapped a manual transmission into it for the American market.  But the engineers did not consider all the problems this could cause with the rest of the car, which are:
+
+Problem 1.  The automatic has much more wiring from the battery to the starter.  This is because the wiring not only has to go through the ignition but also through the gear shifter (so you can only start the car in "Park".)  Furthermore, to satisfy American insurance companies, VW also send the wiring through the seat belt buckles (so you have to buckle up before driving).   All this caused one big problem -- the starter just barely receives enough juice to start.  Over time this inevitably causes the starter to wear out and fail.   Some cars were later equipped with a starter relay which was supposed to cure the problem, but it didn't always, due to Problem 2.  I would only consider buying manual a Golf that was built before 1993 if I was sure it was upgraded with a relay but probably not even then.
+
+Problem 2.   The starter is located right behind the engine, cradled tightly between the engine block and the exhaust manifold.    Receiving little cooling wind but tons of heat,  it is slowly but surely fried to death, as a VW mechanic explained it to me.   This engineering mistake couldn't be higher up on the knuckle-head scale.   VW realized this mistake and redesigned all models after 1993.   
+
+If you add problem one to problem two you get a big mess.  We have been to the shop 10 or more times in the last 10 months.  We had two new starters put in before we became aware of the wiring problem.  Even after we had the starter relay put in, we still don't dare take the car on longer trips, because the starter tends to overheat, and we have to let the car cool down for an hour before it can start again.  
+
+Ergo, we are  a little peeved with our little car.  I would definitely stay away from any pre-1993 VW with automatic transmission.  Or probably any VW built before 1993 for that matter.   But as I said, the problems described were all cured in 1993.  
+
+But otherwise, I do not want to discourage anybody buying from a Volkswagen.   I think they are great looking cars and probably the safest vehicles you can buy for under $20,000.   In fact, VW sells the only car for under $25,000 in North America that has standard side air-bags, anti-lock brakes, and pyrotechnically-activated seat belts.  
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

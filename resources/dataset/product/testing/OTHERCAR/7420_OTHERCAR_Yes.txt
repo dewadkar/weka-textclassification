@@ -1,0 +1,33 @@
+DOC>
+<DOCID> 7420 </DOCID>
+<PRODUCT> Digital_Cameras/Casio_EX_Z3_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_105999535748 </URL>
+<TEXT>
+            I had been wanting a digital camera, researching all the sites, reading reviews, and had decided on the Casio Exilim series.  The old Advantix died in May, so, my camera purchase was forced.  I ordered the Exilim Z3 from CDW in May 2003, but, after waiting 4 weeks with no known due date, I cancelled the order.  I started looking elsewhere and couldn't find this camera anywhere.  I contacted Casio for help.  They told me to try Radio Shack.  I couldn't image they would have such a high tech toy as I hadn't been in a Radio Shack for years.  Was I shocked.  I took my boss with me, of who was also going to buy one.  Our local Radio Shack had one, so, he called around.  There was no Radio Shack within a 3 hour radius that had one, they were all sold out.  Radio Shack had a promotion with which I received a free carrying case, static LCD screen protectors and a cleaning kit.  This seems to be a hot item to say the least.
+This camera is great.  It has a best shot feature that sets the exposure, white balance, focus, etc. for you based on what you are taking photos of.  This best shot feature shows you a sample picture of these settings and describes what the setting does.  There are 21 preset settings and you have the option to make your own.  I use Sunset, Portrait, and Portrait with Scenery most often.  It is really easy to use.  It will also allow you to set these items yourself, which I'm sure the pros would love.  
+Another interesting setting is the White Balance.  On auto, the camera compensates well, however, I have found the under fluorescent lighting, you need to set White Balance to fluorescent.  There are six settings, Auto, full sun, shade, incandescent, fluorescent, and manual.
+The camera also allows you to take 30 second live video with sound.  The sound is pretty good as long as there is no wind to ruffle the sound.  The video is better than video I have seen on a lot of cameras.
+The camera has 3X optical zoom and 9X digital zoom, giving you a total of 12X zoom.  
+I have Windows XP on my computer, so, when I hooked the base up to my USB port, XP immediately recognized it, installed the drivers and asked me what I wanted to do.  You can browse the file system on the camera as it is docked just like it was another hard drive.  I didn't need to install any software and transferring the pictures is as simple as copying and pasting.
+I contacted support once more to be sure there were no issues with the 128MB SD memory card.  I contacted them via e-mail and I had an answer in two hours.  You get a 'real' person at customer service, you get their 'personal' e-mail address, and they are really friendly.
+With the 128MB SD memory card I can take the following:
+31 - 30 second videos
+68 - 2048X1536 FINE pictures
+105 - 1600X1200 FINE pictures
+163 - 1280X960 FINE pictures
+584 - 640X480 FINE pictures
+767 - 640X480 NORMAL pictures
+1227 - 640X480 ECONOMY pictures
+Each quality setting allows for any resolution, I just didn't list all of them here.
+I have yet to run the battery dead, after a week at the beach and around 300 pictures/videos, so, I'm not sure of the available battery time.
+The time between shots is around 2 seconds and the time between actually pushing the record button and getting the picture can sometimes lag around a second.  It really seems to depend on the situation, which I assume is related to auto focus.  However, this is still much better than our Advantix was so, no complaints here on that subject.
+There are several features that we still haven't played with and after downloading the PDF for full documentation, we still haven't read through all 100+ pages.
+Two features we find to be the coolest are, on screen cropping of photos, and the 3X timer feature.  The on screen cropping feature will allow you to center shots.  The 3X timer feature will take the first photo after 10 seconds, the second photo after 1 second, and then the last photo after another 1 second.  This proved very good for the latest family picture of 38 people, the last picture being the best.
+The red eye reduction feature is also interesting in that upon snapping the picture the camera flashes several times.  So, if the cool camera wasn't drawing enough attention the flash sure will.  The most common comments, &#147What was that?&#148, &#147Can I see it?&#148, &#147How does that zoom work?&#148.
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

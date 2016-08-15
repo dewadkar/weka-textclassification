@@ -1,0 +1,22 @@
+DOC>
+<DOCID> 24135 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Hewlett_Packard_Photosmart_620_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_108466966148 </URL>
+<TEXT>
+            I received the HP Photosmart 620 as a Christmas gift; I told my parents I would like a camera with at least 2 megapixels and 3x optical zoom and they decided on this camera, easily the best deal on the market for those qualifications. Its 2.1 megapixels and 12x total zoom (3x optical, 4x digital) suit most common applications.
+
+<b>Durability</b> I take the photosmart everywhere I go; while not as compact as some of the more expensive cameras, it's small enough to fit inside my 6"x4"x2" purse and leave room for everything else I normally carry around. It has been dropped onto hard floors, squashed against sharp objects, sunk into sand, splashed with water and otherwise abused more times than I can count, but its performance has not been affected.
+
+<b>Photo Quality</b> Photos taken on the lowest quality setting of this camera are somewhat useless for printing, except at small sizes, but come in handy if you need a low-res, quick-loading graphic for a website. Photos taken on the highest setting are suitable for printing; I have printed as large as 8.5"x11". I have never used the medium setting. Samples of the high and low quality settings can be found here: 
+
+http://www.geocities.com/wellpaidscientist9//photosmart.html
+
+<b>Battery Life and Computer Connectivity</b> Loading photos onto a computer using the provided USB cables is slow and drains the batteries quickly. If you do not own a photo printer, you may want to purchase one of HP's photosmart printer series to go with your camera; your camera's memory card (sold separately; a 64MB card holds about 70 photos) can be inserted directly into the printer in order to print or to save onto the computer. Otherwise, the batteries last for a reasonable length of time.
+
+<b>Video Clips</b> The Photosmart 620 also features the capacity to take silent video clips up to 30 seconds long. These are fun--I have used them to take videos of my friends dancing, for example, and once had a friend take a video of me blocking out a scene for a play so I could get a quick idea of how the stage movement worked for the scene--but serve little practical purpose. Annoyingly, they are saved in the .avi format, which the recent versions of Windows Media player don't seem to work well with.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

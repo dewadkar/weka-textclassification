@@ -1,0 +1,20 @@
+DOC>
+<DOCID> 31237 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1995_Pontiac_Grand_Am </PRODUCT>
+<URL> http://www.epinions.com/auto-review-62E0-14C38C3B-384003A4-bd1 </URL>
+<TEXT>
+            This car has a serious problem with the design of the gas gauge.  Never in my life have I run out of gas more often than when driving this car.
+
+First of all, there is no warning signal of any kind when gas is running low.  Is it really that difficult or expensive to install a warning light?  Every other car I've ever driven has had a low gas warning light in the dash... it's just a basic feature!
+
+Second, the gas gauge movement is not linear... it's exponential.  There are five markers on the gauge as expected... lines that mark empty, 1/4 full, 1/2 full, 3/4 full, and full.  They don't mean what they should mean.  When the indicator reaches 3/4 full, you are really about 1/2 full.  When it reaches 1/4 full, watch out!
+
+I'll be driving to work in the morning and I'll notice that the gauge reads 1/4 full... in any other car this would be no problem, I'll get some gas when I leave work in the evening.  Five minutes later, I'm at work.  After work, I get in the car and start to drive home.  After about 5 minutes I see the gauge is below empty and I'm about to stall!  This p*sses me off every single time it happens and it happens a lot.
+
+I just can't get used to an exponential gas gauge.  And a simple low gas warning light would have saved me many miles of walking with a gas can in hand.<br><br>
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

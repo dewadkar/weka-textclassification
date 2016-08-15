@@ -1,0 +1,38 @@
+DOC>
+<DOCID> 671 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_NikonCoolpixx-Nikon_Coolpix_950 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-44D7-2C868D8-37F24484-bd1 </URL>
+<TEXT>
+            I love toys, but no piece of consumer electronics has given me a rush like the Coolpix 950.
+
+The revolution of digital photography is clearly well on its way.  There is nothing like the discovery that you can suddenly shoot thousands of images without spending one cent on film, and view them almost immediately without spending one cent on developing.
+
+The revolution ends quickly with el-cheapo digicams.  Once you seriously need to capture a beautiful scene, an important event, or a moment in time, you realize that the limitations of the medium are (at least as of this writing, late 1999) great limitations indeed.  I learned this while trying to shoot a lecture indoors, with low light and distant flash, with an older Sony model.  (And for the purposes of digital photography, &quot;older&quot; is two years old.)
+
+The older camera got me a few images, but the low resolution, lousy contrast, and tiny image size left me nothing to work with.  I quickly learned that I'd need something better if I was ever to do serious photography, even if the images were to be used on websites.
+
+Then I was offered the chance to shoot pro football... from the sidelines of actual games.  And I knew I'd have to invest in something serious.  After tons of research, I bought the 950.
+
+The 950 offers 1600x1200 images, as well as 1024x768 and 800x600 in three different quality modes.  It also offers an uncompressed BMP mode, in which one image will eat up the entire 8MB of compact flash memory that comes with the camera.
+
+The camera has two modes, an automatic mode where the unit makes decisions for you and a manual mode where you have to step in with decisions of your own.  In manual mode, you can do limited aperture-priority or shutter-priority shooting, which gives you the flexibility you need to get good images in low light or to stop action in sunlight.  (For pro football, I needed the latter, and I got it.)
+
+You can let the autofocus do its work, or you can focus yourself and skip the inherent delay.  The camera's metering allows you to use the entire image, center-weighted, or spot metering to get exactly the exposure you want.
+
+There are a few other &quot;oh wow&quot; features.  &quot;Best Shot Selection&quot; allows you to take a number of consecutive images and let the camera decide which is the least affected by shaky hands.  A timer lets you get into the shot yourself.  You can take consecutive images in a row in one mode to build (by hand) a little animation.  White balancing adjusts your shots for different types of light.
+
+The swivel design of the camera allows you to frame with the LCD while the lens is pointing at a different angle.  This gives you the flexibility to hold the camera overhead in crowds, shoot a candid shot over your shoulder, or hold the camera at waist level while framing.  Now that I have this feature, I can't live without it; I use it all the time.
+
+But by far the best feature is the image quality.  There is nothing quite like looking at a huge 1600x1200 image -- larger than my 1024x768 17&quot; monitor -- and seeing the beauty you've captured.  The highest quality setting captures enough image detail to be stunning.  The macro capability is incredible.  And it's great for website building, because it saves enough detail to crop and reduce image sizes.  While shooting football I quickly found that I wasn't experienced enough to frame action, but I got plenty of great images by cropping whatever action I actually shot.
+
+There are a few glitches.  The door for the compact flash cards is flimsy and likely to break.  The compact size of the camera makes red-eye very likely when shooting people with the built-in flash in low light.  The infinite focus at 1600x1200 mode is a tad fuzzy.  No matter; the glitches outweigh the pros of this beast by far, and no consumer-level digicam is without glitches.
+
+Be forewarned: you'll want to invest in several add-ons, so the high price of the camera doesn't mean the end of your spending.  You'll want Nickel Metal Hydride batteries; alkalines are eaten by the high drain of the digicam ($25 for the charger, $24 for two sets of four cells).  You'll want a compact flash card reader ($50), or, if you have a PC Card (as in a laptop), an adapter ($10).  The serial connection and Nikon software takes quite a long while to retrieve images from the camera.  You'll want extra compact flash cards; to shoot football, I bought one 48MB ($100) and one 30MB card ($80), and managed to fill them both.  You might want a teleconverter ($149) or external flash ($varies).  And then there's the extra storage you'll want for your images, Adobe Photoshop to process them, a CD-ROM burner to send them to friends and family... when will it stop?
+
+Hopefully never.  The Nikon CP950 makes photography fun again.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

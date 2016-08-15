@@ -1,0 +1,43 @@
+DOC>
+<DOCID> 22627 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2003_Honda_Civic_Hybrid </PRODUCT>
+<URL> http://www.epinions.com/content_96609406596 </URL>
+<TEXT>
+            <p>We've had our Hybrid for just over half a year now and are definitely enjoying it.  Many other reviewers have covered the bases already, so there's no need for me to rehash what's been written; I love this car just as much.  With this in mind, I'll focus on what's different in my situation.
+<p>We live up here in Ottawa, Canada, and we have this little thing called winter!  Having bought our Hybrid in October, we had it just in time to test it in the poorer weather our region has to offer.
+<p><b>Handling:</b>  It's one smooth ride.  With the Continuously Variable Transmission (CVT) you don't feel the shifting that a manual or regular automatic vehicle has.  It does take a while to get used to seeing all the other cars around you bouncing forward as they shift.  There is a definite psychological feeling that your car is the one surging because every other car but yours is doing it.
+
+[<i>winter handling</i>] This is our first car with ABS - our other car is a '99 Honda Civic Hatchback (CX) - so it took some getting used to the feel of it kicking in. Next winter I think we'll invest in a set of proper winter tires so it doesn't kick in quite as readily.  That said, the lesser-powered gas engine played in its favour when stopping.  I didn't experience the same degree of gyroscopic pull off to one side in slippery conditions.  Some of this could also be attributed to the added weight of the Integrated Motor Assist (IMA) battery packs in the rear.
+
+<p><b>Performance:</b>  Let's face it, most cars don't perform so well in winter.  The Hybrid was no exception.  In the few weeks before the temperature dropped I was averaging  500-600km to a tank of gas - a full tank on the Canadian model is 50L.  Once winter kicked in I was getting 400-500km per tank.  When you have the internal heat and/or defrosters on, the gas engine doesn't turn off at full-stops so you don't get the same degree of city-driving fuel savings.  Once the engine has warmed up enough, if you turn off all the internal heat, then it will work.  It can take a good 15-20 minutes of driving before the engine is that warm on the cooler days though. 
+
+Now that the weather is warming up I've been getting close to 700km to a tank on the last couple of fill-ups!
+
+See http://www.plumb.org/tekmage/hybrid/HybridMileage_20030331.htm for a L/100km table as of our last fill-up on 2003/03/31.
+
+Acceleration from a stop is more constant than a 100% gas car, so you don't get as powerful a surge when you step on the gas pedal.  The electric assist combined with CVT does keep you moving forward, so you eventually catch up with even the most lead-footed in short order.
+
+...This is where the <i>Zen</i> nature of driving a Hybrid starts to take over.  Your goal is no longer to be first-off-the-block, it's to accelerate up and over the speed limit to take advantage of the IMA mechanism, then you coast.  You apply just enough gas to keep at a roughly constant speed, to squeeze out better mileage (lower L/100km) from this newer generation of gas engine technology - there's a special meter on the dash that tells you how you're doing at a given instant in time.
+
+They did an excellent job of managing the amount of external noise that gets in.  Driving on highways is quiet (unless you have the stereo cranked) and when you've come to a full stop and the engine has turned off you can hear the other cars' engines and wheels roll by.  At highway speeds you trade off some of the low-pitch gas engine rumble for a very faint, high-pitch whine when the IMA is helping you accelerate.  Being a bass player, I can <i>finally</i> enjoy an less-polluted low end in my listening music. :-)
+
+When you have to slow down, or you know a stop is coming up, you take advantage of the situation.  You take your foot off the gas and let the charging of the IMA batteries slow you down.  If you gently pressure the brake pedal then the IMA will charge faster without the mechanical brakes kicking in.  The goal is to use as little of the mechanical brake for as long as possible so you're not wasting any energy heating your brake pads.
+
+If you have to stop fast, the brakes do that too. :-)
+
+<p><b>Cold-Weather Quirks:</b>  As I mentioned in the <i>Cons</i>, the IMA has some trouble waking up when the temperature gets down below -20C.  The primary symptom is that on a cold start, the IMA battery charge shows its charge for a moment, then goes blank, then the Check Engine light goes on.  Fortunately, in this case that light's bark is worse than its bite.  If you keep the engine running, let the engine warm up for a few minutes then turn it off and on again, the IMA will engage and stay active.  The Check Engine light will stay on for about a day after, then go off by itself; if you're in a multi-day cold snap then it may stay on for longer.
+
+My one-and-only gripe with the design of the Hybrid is where they put the rear windshield defroster button.  Some brilliant designer decided to hide it down low, to the left behind the steering wheel, as though it were an afterthought.  When it switches off you can't tell at a glance.  This is a problem when it's cold outside because the rear window fogs up quickly and takes a while to clear again.
+<p><b>Summary:</b>  The purpose of this little review is to share my winter-specific experiences and make you aware of some problems and solutions, unique to the Hybrid in this climate.  I wouldn't consider any of them to be a deal-killer, just quirks of a bleeding-edge technology.  This is a fantastic, practical car and a pleasure to drive.  Yes, I'd buy a second if I needed it.
+
+<p><b>Review update history:</b>
+ 2003/04/19: - added link to L/100km table; page is off-epinion site (and tables aren't supported HTML) so you'll have to Copy'n'Paste it into your browser.
+- added more comments about general feel behind the wheel at <a href="/user-pvreditor">pvreditor</a>'s request.
+ 2003/04/22: - added full tank is 50L info.  The Canadian specs are at:  http://www.honda.ca/HondaEng/Models/CivicHybrid/features.asp
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

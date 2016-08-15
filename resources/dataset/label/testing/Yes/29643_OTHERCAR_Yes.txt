@@ -1,0 +1,18 @@
+DOC>
+<DOCID> 29643 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_EOS_D30 </PRODUCT>
+<URL> http://www.epinions.com/content_24291872388 </URL>
+<TEXT>
+            A very expensive digital camera, but well worth the money for someone who already has experience with SLR cameras (and has Canon EF lenses).  I've shot over a thousand images with this camera already and I have gotten some superb shots.  There is no comparison between this camera and other non-SLR digital cameras.  The ability to interchange lenses and control the shutter speed/aperature/metering mode/focus is incredible.  It takes a little bit to get used to it, and it requires a decent amount of light to get good pictures.
+
+The LCD panel on the back is good for checking color balance and compsure, but not if the image is in-focus.  The images produced by the camera are about 1.5MB (large size, fine quality settings) JPEG's.  Another really nice feature is that the camera records what settings (shutter speed, aperature, etc.) you used for each image and saves them in the JPEG, using the EXIF "standard."  You can view this information, along with a histogram on the back of the camera; or, you can also view some of the settings using GraphicConverter for Mac.   Missing is the ability to export to a text file, which could then be processed and loaded into a webpage.
+
+Overall, this is an incredible digital camera, even for an amateur photographer.  I originally used it to get instant feedback about lighting conditions, but I found the quality to be so awesome that I use it more than my 35mm.
+
+If you purchase this camera, I would highly recommend a larger CF card (say around 128MB), a laptop to download the images to, and an extra battery.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

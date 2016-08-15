@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 27036 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_OlympusDigitall-Olympus_D-450_Zoom </PRODUCT>
+<URL> http://www.epinions.com/elec-review-445A-1601952-3859E398-prod1 </URL>
+<TEXT>
+            This is a great Point &amp; Shoot digital camera. One of the best features is the ability to take a burst of full resolution photos about 1/2 a second apart thanks to a cache of on board memory it uses before writing to the smart media. The camera takes great photos in limited lighting, I find it hardly necessary to use the flash. When I do use the flash, it does seem a bit harsh sometimes so I put a bit of fogged up clear tape over the flash to lower the intensity of the flash. The camera comes equipped to transfer files over a serial port, don't waste your time. If you buy this camera, be sure to get some sort of smart card reader at the same time, either parallel, USB, or floppy disk based. A PC serial port is just too slow for the photos on this camera. The software that comes with the  camera is easy to use and works well. The only complaint is the somewhat painstakingly slow picture rendition on the LCD panel used to review your shots.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

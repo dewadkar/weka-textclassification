@@ -1,0 +1,26 @@
+DOC>
+<DOCID> 23660 </DOCID>
+<PRODUCT> Digital_Cameras/Fuji_FinePix_2650_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_107478748804 </URL>
+<TEXT>
+            I received this compact, though not very lightweight and rather chunky digital camera as a gift, and it's not very far off from what I would have chosen myself.  It's fairly close to the price range of what I am willing to spend on little gewgaws such as this, although I would have been delighted to own one of the many digital cameras that now come with an instant download/print base station, or a camera that took up less space in one's pocket.
+
+Getting the driver software to work with a Macintosh was problematic, but Mac OS X Jaguar will automatically find digital images through a USB port and either import them to the onboard iPhoto software or simply recognize them as files on an untitled external drive [and this usually works just fine for me -- I'm happy to do my own image filing, thanks] so this is a relatively moot point.  I almost always rework my images in Adobe Photoshop 7&#153 for optimal color balance and file size after downloading, so the limitations of the proprietary software may frustrate you more than it did me [for instance, its download preferences menu is a little confusing, although it does offer a rather primitive image browsing capability]. 
+
+The camcorder-like digital viewfinder is somewhat helpful, although greatly dependent on available light sources, and sometimes not quite accurate in terms of the frame of the shot.  In other words, in a dark room, you're just going to have to guess, unless you have a lamp or a flood handy.
+
+The menu display is very helpful and designed for the idiot-end-user, such as myself; it is relatively easy to delete bad pictures with a few quick button selections, for example, or switch to macro, or set image sizes to maximum or minimum [see specs].  I'm not sure why, but sometimes it will keep the current time/date stamp through a battery change [it takes 2 AA's, which is a plus] and sometimes it won't.  I'm not sure why it was necessary to combine the zoom function with the AVI movie and menu select functions on one button, but in any case it's a little annoying, a hard-to-reach and hard-to-control flat toggle switch wedged between two miniscule image select buttons.  It's not what I would call ergonomically designed.
+
+Speaking of AVIs, they're 14 seconds long, they eat up a great deal of memory, and they're in a format I have the dickens of a time trying to edit or work with in any way on my computer.  It would be nice to be able to take MPEGS instead.  But when I want a digital camcorder, I will go out and get one; consider this one of those non-critical thrown-in fun features.
+
+My three major disappointments regarding this camera are the inexplicable time lag between pressing the shutter button while in flash mode and actually getting the camera to take a picture, the interminable lag time between image storing and powering up to be able to take another picture, and the rather silly manual-slide lens protector.  I think anyone shelling out the money for a battery-powered digital camera, in addition to a compact design, should be able to expect a simple enough feature like an automatic motorized lens cover built inside the case.  But perhaps this is a minor point.  That small frustration pales alongside my frequent anguish at missing a very fleeting "moment" waiting for the camera to figure out that I have indeed pressed the button before it decides to take a picture.  My preferred photographic style is of the on-the-fly pseudo-journalistic "candid" shot, which are pretty much impossible with this camera unless you have no need of a flash, and in such an instance one must content with an awful lot of motion blur.
+
+The flash function also offers red-eye protection in the form of a preliminary flash, on the theory that the first flash causes people's pupils to contract so that they do not reflect light back as red in the actual shot.  Again, inexplicably, this works sometimes, and sometimes it doesn't.  Maybe most of my friends are really vampires and werewolves and haven't told me, or are simply just stoned.
+
+The camera was free, and when all is said and done, it offers a much higher-quality image than the disposable cameras that offer development on CD-ROM.  Still, if you really want to enjoy the alleged improvement a digital camera is supposed to offer over a film camera, spend a little more money and get one that takes pictures faster.
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

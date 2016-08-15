@@ -1,0 +1,20 @@
+DOC>
+<DOCID> 25383 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1991_Ford_Explorer_2_Door </PRODUCT>
+<URL> http://www.epinions.com/content_100813147780 </URL>
+<TEXT>
+            I've had my 1991 Ford Explorer (2-Door 4WD, XL) for about six months now.  I've put over ten thousand miles on the truck, and have not had to make a single repair.  The only things that I've done is change the oil, rotate the tires, and clean the MAF sensor.
+
+There are two downfalls to this vehicle.  The first is poor fuel economy.  I currently get about 16 miles to the gallon. This is with a 5-speed automatic.  For the size of the vehicle it could be a lot worse though.  Besides, who buys a SUV and expects great gas mileage?
+
+The second downfall is the MAF sensor.  Twice the truck has started running rough and idling poorly.  Both times I removed the filament from the MAF sensor and cleaned it with intake cleaner.  The problem went away both times.  This could also be worse. The technique for cleaning the MAF can be found at http://www.explorer4x4.com/tips.htm#mas
+
+I've made two modifications to the vehicle.  The first was the installation of a K&N Filter Charger.  This didn't make a noticeable difference.  Next I added a module from http://www.speedmodules.com  This made a noticeable improvement in power and throttle response.
+
+All things considered I'm quite happy with the Explorer.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

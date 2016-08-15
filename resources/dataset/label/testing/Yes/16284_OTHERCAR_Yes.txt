@@ -1,0 +1,30 @@
+DOC>
+<DOCID> 16284 </DOCID>
+<PRODUCT> Digital_Cameras/188278_Hewlett_Packard_PhotoSmart_C200xi </PRODUCT>
+<URL> http://www.epinions.com/content_13252660868 </URL>
+<TEXT>
+            Well, to be perfectly honest, I still need film. I have yet to work with a digital camera that even approaches the resolution currently offered by 35mm film. But the Hewlett-Packard PhotoSmart C200 certainly outperforms the old "snapshot" cameras.
+
+I currently have three cameras in my arsenal - my trusted old Olympus OM-G, my newer Olympus OM-2000, and the HP C200. The last was a gift from my parents during the holidays, and I've been using it quite a bit.
+
+The camera comes with a rather tiny Compact Flash card - 16MB. By upgrading that (for about $50) to a 48MB CF card, I've got room for over 100 photos in "high" resolution, about 250 in "medium," and about 500 in "low" mode.
+
+I've found that the easiest way to transfer images from the camera to the computer is via a SanDisk USB Compact Flash Card Reader. The pictures appear as if they were on a *really* large floppy disk, and I can open, copy, edit, and delete them just the same. This is a considerable improvement over a serial connection, as the USB interface is much faster.
+
+The images are stored on the Flash card as JPEG graphic files - any decent graphic editor will work with them, or they can be placed "as is" on a website. I don't recommend that, though, as the camera doesn't quite do as much compression as I prefer for JPEGs to be placed on web pages...
+
+Controls are simple. You have the option of autofocus or not, auto-flash or not, red-eye reduction or not, digital 2x zoom, and the ability to view or delete your pictures directly on the camera. There's a built-in self-timer so that you can take pictures automatically ten seconds after pressing the button.
+
+Color reproduction is *much* better on the HP C200 than on the Casio QV100 (reviewed here). I've taken good indoor pictures, better outdoor pictures, and some nice pictures of my dogs. The red-eye reduction doesn't work on dogs or cats, though...
+
+On regular alkaline batteries, I was able to get about 100 or so "high resolution" pictures before the batteries died. Now, I simply use NIMH rechargeables, and carry an extra set of them with me. This has saved me a *lot* of money on batteries so far!
+
+The camera is slightly larger than I'd like, but is still smaller than my "real" cameras. It pauses for a second or two after pressing the button before taking the picture. Image blurring is sometimes a problem if your subject moves after you've pressed the button.
+
+Digital cameras are getting better and cheaper, but they still have a *long* way to go to catch up with film!
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

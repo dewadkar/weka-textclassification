@@ -1,0 +1,48 @@
+DOC>
+<DOCID> 10728 </DOCID>
+<PRODUCT> Digital_Cameras/Argus_DC_3300_Digital_Camera_w__Voice_Video_Recorder__Camera_DC_3300 </PRODUCT>
+<URL> http://www.epinions.com/content_75095969412 </URL>
+<TEXT>
+            Hello again, been a while since I have written a review here, then again, I haven't had anything new to review *smiles* I have (or will have soon) 3 new cameras to add to my list of camera reviews this is the first of the 3..
+  In the past, Argus was known for making good cameras, then things changed, nowadays, they are more known for making 'cheap, inexpensive, almost throwaway cameras (some actually ARE throwaway cameras, those one time use cameras)
+and more receintly, they came out with a line of digital cameras, again, not the top line quality items you see from the likes of Fuji,Nikon,Olympus and the like, more budget line cameras. loaded with nice features, but again, not the best image quality.
+  Well, as those of you who read my earlier reviews know, I am (was) the owner of a Fuji 1400Zoom 1.3 MP digital camera, well, making a long story short, I no longer have it (was traded to a friend of my wife, in exchange for some excersize equipment,we got the better of that deal *smiles). Anyway, as part of that agreement, I was allowed to purchase a new cam, and since my birthday was also comming, I decided to get 2 new ones, one was the Kodak MC3 (still waiting for it to arrive) and the other I decided on was the Argus DC-3300, after reading the specs on it, and talking to Argus on the phone, and reading the (very few) reviews online, I decided to take a chance on it, I haven't regretted it yet.
+   it is a multi function device, it takes still pics at either 1.3 MP high mode (no compression), 1.3 Normal mode (high compression), and a 640x480 mode (good for web pics and such), now as a still cam, it is ok, not as good as my old Fuji was, but still usable (for my needs). I can print the pics taken (it has good low light sensitivity, better than I thought it would), but pics taken outdoors in good light are still best. The only gripe here is that the pics take on this "hazy" look when transfered to the PC (they look wonderful and clear and sharp on the viewscreen)so I run the pics through a program I use called DCEnhance, clears the haziness away *smiles*.
+ The cam has a manual focus wheel, as opposed to autofocus or no focus, a bit hard to use sometimes, but it does work (in spite of what another review I read said). I found a little trick that helps focusing, I use another feature this cam has, it also has a 3x digital zoom, so I zoom in 2x, focus that way, then either zoom back out, or just take the pic zoomed in, I try to stay away from the 3x setting, as it get's very pixely (not a very good zoom system) but it still helps sometimes. 
+The pics do come out sharp (when you focus correctly) albeit a bit grainy, but not bad really, still printable, but not 1st class (this isn't the cam to use to take important family photos, more a higher resolution, handy cam, or pen cam type as it's small)
+  It seems Argus is aiming this cam at certain users.. someone who wants a multi-function device, easy to carry (comes with a nice carrying case with belt clip), also they are targeting real estate and insurance people (very easy to carry around, and with it's voice recorder, you can take voice notes when looking at a new house to sell, or doing an insurance appraisal), plus you can attach voice notes to pictures, which can be handy.
+  the camera takes SmartMedia cards, I have tried a few I have here from the Fuji, I have a 4mb, a 32 mb, and a 64 mb, all work great!. this cam doesn't need extra memory though, as it has 32 mb built-in allready, which is enough for "up to 250 still images, 4 hours of voice recording, and 5 min of video" (that from the back of the box the cam came in). 
+  As a voice recorder, the device is good, the voice at the SP setting (best quality) is decent (not as clear as my iPaq, but usable).. when set to the LP setting, you can record longer, but it doesn't sound as nice.
+  the last function on this device is one of the most fun I have found so far, it records video.. smooth video also (when viewed on the computer anyway, when viewed on the cam it looks kinda choppy), one Tech I talked to at Argus claimed it recorded at 20 fps, every video I have done so far is at 12 fps however, still not bad and the videos have sound! (in fact, it's cleaner sound than the voice recorder has (or so it seems))The only drawback is the placement of the mic.. it's on the back of the unit, at the top center, above the screen.. which means it doesn't pick up sounds well from the front, but will pick up your own voice while shooting, granted it does pick up the sounds all over, but weighted towards the shooter, not the subject being shot.
+  Still, I enjoy this part of the cam, it's nice to have this at my side in it's case, for a quick snapshot, or video, when needed.
+  Now for some specs of the cam
+  1.3M Pixel CMOS sensor
+  focusable lens from 150mm to infinity
+  minimum Ilumination is 3 Lux
+  32 MB flash ram
+  it has a USB port and also an RCA cable to go to TV or VCR
+  it has a 1.5" TFT screen
+  takes 250 pics at 1280x1024
+  300 seconds of 320x240 video
+  4 hours voice recording time
+  and 2 hours battery life contunious
+
+Now for the negatives on the DC-3300
+  First off, is the battery life, it is, in a word, horrible! I used very good quality (everready Titanium E2 batteries) and it killed them in less than a days use (light use), so I bought some NiMH AAA's and a set of rechargeable Alkalines, so far so good, I charge them at night, all's well *smiles*
+  Next is, there's no counter on this cam telling you how much memory you have left,  you have to keep track in your head of how many things you did, so make sure you have a few extra memory cards with you, just in case (and batteries *smiles*)
+  The cam isn't the most intuitave to use (unless you like reading manuals, or are good with gadgets) took me a few min to get all the buttons down.. taking a quick pic is easy enough, just turn it on, then press the snap button once you have the shot lined up, now, to turn off the screen, you quickly press the power button, that shuts off the screen (to save batteries), hold the power button down about 3-5 secs to turn the cam off.  Want to change resolution or quality mode? quickly tap the button marked erase/res , if you are in preview mode, this will erase the current pic or video or voice file, holding this button will bring up a menu to format the memory! *smiles* like I said, not the most intuitive, but once you get used to it, it's easy to use.
+  Another thing, this thing get's very warm when using it, Argus says it's the screen (they also blame it for the short battery life)it also get's warm when hooked to the computer through USB, when hooked to the computer, it's off the batteries however, using the USB port to supply power
+  Speaking of being hooked to the computer, that is a snap to do, the system sees the cam as a USB Mass Storage device, letting you open the memory like you would a floppy or HD (if comes up under My Computer as a removeable drive, one BIG drawback, you HAVE to use the included software to download the pics off the cam (to be able to see them anyway), then looked at through my computer, the pics ar ethe right file size, but are only 0x0 resolution.. when you open them in the included software (Picture Station III) you can view them, and also then save them to the HD, one pic at a time!, then they come up at the right resolution (I use the DCEnhance software I mentioned earlier, as it also will open the pics correctly (they must use a slightly modified .jpg format)
+as for the rest, Videos are in .AVI format, and are easily transfered off to the HD, voice files are saved on cam in .voc format, and the software (Picture Station III) will save them as .wav files.
+  not the easiest to work with, but it's not too bad once you get used to it.
+  The cam itself seems rather well built very sturdy, with rubberized grips along the sides from about 1/2 way point, to the bottom, helping you keep your grip on the cam. it's also easy to use one handed, once you get used to it, as all the controls are on the back, or right side of the cam (easy to use if you are a righty that is, sorry to all the lefties out there)
+  The cam includes the camera, the case, instruction manual, the a/v cable, an earbud for listening to voice/video files and a USB cable, no batteries however.
+  
+ Well, that's about all for now, if anyone has any comments or questions, feel free to post them here, or e-mail me at jbach37@yahoo.com
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

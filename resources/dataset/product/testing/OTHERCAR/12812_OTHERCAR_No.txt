@@ -1,0 +1,20 @@
+DOC>
+<DOCID> 12812 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_CanonPowerShott-Canon_PowerShot_S20 </PRODUCT>
+<URL> http://www.epinions.com/content_6787403396 </URL>
+<TEXT>
+            I bought this camera several months ago to replace my Canon Elph (not digital, just a normal Elph) with. We took it on vacation with us and snapped quiet a few photos. We also took it to several events, including a friend's wedding.
+
+All of the photos were very clear and sharp, which was nice. Unfortunately, all of the people in the photos were washed out unless they were in incredibly bright light. Another friend took the same pictures under the same lighting conditions at the wedding with a Nikon digital camera (2.1 megapixel), and his photos were noticeably better.
+
+In checking around the Internet, this is apparently a known issue on the Canon S20. The blue balance is off.
+
+Canon has not yet released a firmware update to address this, though there has been some talk that they might. Several people have released Adobe Photoshop plug-ins to correct for the S20 problems, but my advice is to just go for one of their newer models that doesn't have the same problem.
+
+The Canon Powershot G1 (also on Epinions) does not have the same problem, and is only slightly more expensive.
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

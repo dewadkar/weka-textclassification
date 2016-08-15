@@ -1,0 +1,92 @@
+DOC>
+<DOCID> 22983 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_PolaroidPDCC-Polaroid_PhotoMax_PDC-640 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-4A6F-EC02D43-38EE5DC8-prod4 </URL>
+<TEXT>
+            I try to keep the more read epinions updated. The Polaroid 640 digital camera is one of those frequently read opinions. But what I want to address here is updated information with direct impact on the following comments of my reviews.
+
+[Comment 1] 
+
+an extra bonus, � by joopyjen (Thu Dec 9, 8:46 pm PST)  
+I highly agree with you on your opinion of this camera. I myself own this model and am very pleased with it. I also found that when you plug it in to your VCR, it will let you see and take pictures of what is on the TV screen. It will also let you record silent (movies) of what ever you are filming and putting on the screen. It is a little sketchy and blurred if you moved too fast. But, if you want to make amateur home movies and you don't care that your VCR tape only picks up what the TV (music or whatever) is playing then it great for beginners. Just thought I would mention the extra option. It was cool to figure out how to do that since I do not own a video camera. joopyjen  
+
+[My Response]
+
+I was aware of this feature joopyjen. But I did not mention it because I did not feel many people would consider this camera for that purpose. It is apparent I was wrong. You were not the only one to point this out. Therefore, I will state a few items that will allow you to add sound to your digital still motion VCR short shorts.
+
+Should you desire to narrate your digital mini movies. You can use a tape player as a go between for the audio. To set the audio up  - should you not have an adopter cable - you may pick one up at Radio Shack. This cable will have a mini plug for the recorder on one end and a RCA composite plug on the other. Attach your microphone to the record. (You know how to attach your digital camera). Your voice will not be in  sync with the video footage due to the time delays. But this is an inexpensive way to add voice.
+
+If you want to add music. You should be able to use the same adopter cord and attach your CD player. Drop in your favorite CD and press play. Or you may just record the various rambles off the television set.
+
+Now let your creative take hold and start recording those mini movies.
+
+[Comment 2]
+
+additional info, � by bryant.t1 (Tue Dec 28, 1:34 pm PST)  
+I agree with GaryD, the 640 is an easy to use digital camera that gives good quality prints. But watch out when down loading the Photomax software. I didn't care for it. I wanted to use the camera with my MGI Photosuite software, and it works find, but somewhere in the download I have lost use of my Mustek scanner. I've emailed both Polaroid &amp; Mustek, but as of now have received no reply from either. Guess the holidays may be causing them to be slower. I'll try the 800 number in GaryD's opinion.  
+
+
+[My Response]
+
+This is a common situation that most people are not aware of. When you install new software on your PC. That new software generally installs itself as the default.
+
+bryant.t1 has experienced this result first hand. How to correct it is rather simple. Though the easiest is to check your favorite software program. Most of the good programs and many of the inexpensive programs allow you to select the capture device driver prior to capturing the image.
+
+bryant.t1 scanner twain device driver is still located on his PC. However, when he installed the Polaroid PhotoMax software. It made the Polaroid digital camera twain driver the default. It should not conflict with his scanner driver in the least.
+
+When using his favorite graphic program he will need to select the correct device drive before trying to use the scanner or his digital camera. Most programs capable of utilizing the twain device drivers will set the last device.
+
+I hope bryant.t1  was able to reach Polaroid customer care and everything is working great for him now.
+
+[Comment 3]
+
+Re: additional info, � by breathmynt (Tue Jan 11, 5:01 pm PST)  
+I also have the same scanner and had the same problem myself.
+If you do not hear from Mustek, e-mail me and I can send you the directions that they sent me.
+Are you experiencing the scanner looking as if it will start to scan and then it hangs and goes no where? It is a TWAIN driver problem, real easy fix but too long to write here.
+My e-mail is BreathMynt@hotmail.com , Use Epinions in the subject line so I know you are not spam.
+Sheryl 
+
+[My Response]
+
+Sheryl, the problem you mentioned above regarding a lock up problem is very typical of old PCs. Old computers and software can not accept multiable twain device drivers on the same system. However, the newer machines and software manage this much better.
+
+
+[Comment 4]
+
+Great Review..one thing though, � by my3lilmen (Sat Mar 25, 5:24 am PST)  
+Gary, 
+Great Review. You did a wonderful job! However, I did want to let you know something. I purchased this camera after borrowing my mother in laws this past weekend and I love the camera as well as the software, but there was one thing I thought you might like to know. In your review you said &quot;This camera can only accept a Smart Media Card as large as 8 MB. This was a disappointment because i had planned a purchase for larger Memory size&quot;
+This is not the case as my father in law went and bought a 16MB and it works in the Polaroid just fine. No problems and it holds many pictures. About to write my own review and will include that information if you would like to find out more. Again, Great review but I thought you might like to know that it will work a 16MB.
+Chelle 
+
+
+[My Response]
+
+Chelle, thanks for the information. I tried a 16 MB smart card prior to writing my review. It does not work in my camera. It should have but does not. I'm glad it is working for you though.
+
+The reason for this can be one of two things. The first one being - the 16 MB smart card was not factory formatted. My camera will not format the smart card. I tried.
+
+The second item is the manufacture may have made changes at a later date on the production line. Though we have the same camera - your unit may have some updates that mine don't have. This is very common with manufactures. 
+
+Thanks for the advice though. I'm going to drop by Wal-mart and pick up a smart card that's pre formatted. If it works - I'll come back and verify this was the problem or not.
+
+I hope that by reading these comments and my responses - you are able to resolve some of your issues. When I received my Polaroid 640 digital camera the unit sold for $299. Now the price is down to $199. And it may be even lower now in your area. The prices have steadily started to drop with the new multi-mega-pixel cameras taking the market.
+
+You'll find this camera very suitable for young and old alike. Very easy to use and the included PhotoMax software is actually pretty good. Though I prefer the Adobe Photo Shop and IE Express software.
+
+With very like manipulation. I have been able to get prints as large as 8&quot;x10&quot; that come out great. Check out Ofoto.com. They do a wonderful job developing digital images from your digital camera. Photos that rival those taken with a high end 35 MM camera.
+
+Copy and paste this link into your web browser. It will take you to my review of Ofoto.com. 
+
+           <a href='/cmd-review-387E-15CBB3C-38C15D50-prod8'>http://www.epinions.com/cmd-review-387E-15CBB3C-38C15D50-prod8</a>
+
+Ofoto.com is now offering 50 free 4&quot;x6&quot; prints now.
+
+*If Epinions has a problem with this link - Please contact me - I'll remove it. I believe I'm within the guidelines of the Epinions.com site.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

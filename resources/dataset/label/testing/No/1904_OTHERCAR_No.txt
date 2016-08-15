@@ -1,0 +1,17 @@
+DOC>
+<DOCID> 1904 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Agfa_ePhoto_CL18 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-7D47-48D30356-3A547BA4-prod3 </URL>
+<TEXT>
+            We bought the CL 18 for a family Christmas present this year and my 16 year old took it upon herself to install the software provided with it.  Unfortunately she didn't follow the correct installation order and we can only view the photo's on our TV set.
+  When trying to download the images from camera to PC, an error message appears indicating the USB cable is not connected or the camera is not turned on. The cable is connected (because the camera receives power from the USB).
+
+    It took 4 days to get through to Agfa on-line support and now is going on 4 days without hearing back from them.
+
+   This is probably the biggest purchasing mistake we've made in regards to our computer system. <br><br>
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

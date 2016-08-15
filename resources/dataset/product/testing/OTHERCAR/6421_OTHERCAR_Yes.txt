@@ -1,0 +1,32 @@
+DOC>
+<DOCID> 6421 </DOCID>
+<PRODUCT> Digital_Cameras/Fuji_FinePix_3800_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_82047176324 </URL>
+<TEXT>
+            The Fujifilm 3800 is the replacement for my Canon A20.  I was very satisfied with the A20 so I was expecting alot from the 3800.  I chose the 3800 because despite it's SLR-like look, it's a point and shoot camera with some great features.  Overall, i'm happy with the camera but it does have it' s weaknesses.  Once you learn to get around them, you'll be thoroughly rewarded with a great camera at a budget prices.
+
+When holding the 3800's box in your hand, you'll probably be wondering, "where's the rest of it?".  It's smaller than you'd imagine if you have only read about it.  Once you take it out of the box, you'll realize how light it is too.  It feels lighter than my A20.  It also has a very plastic feel to it.  The build quality isn't as solid as other digital cameras I've used in the past.  Once the batteries are in place, it makes it more comfortable to hold because of the added weight.  It comes with 4 alkalines to get you started.  
+
+The electronic viewfinder and LCD display are adequate in good lighting but horrid in low light.  When taking outdoor shots, I had no trouble at all with either.  I used the EVF rather than the LCD display to compose my shots because the EVF has an eye cover to eliminate glare and is also higher resolution than the LCD display.  The 3800 lacks an AF lamp so your viewfinder and LCD display will be very dark and pretty much useless for anything other than framing your shot.  In even darker situations such as at restaurants the viewfinders won't even be able to do that.  The only solution I have found (excluding changing my environment), is to move 6 inches or so away from the EVF and look at my subject and through the EVF at the same time.  That way I can use the yellow bracket in the viewfinder as a crosshair to target my subject and pray the shots come out well.  Fortunately, it does.
+
+The 3800 takes great pictures, in daytime or at low light situations that are within the range of the flash.  The colors are very true to life.  Most of the people who have compared my shots with the actual objects say it's flawless.  Though at closer inspection you might see a slight disparagement but nothing you would notice unless you were specifically looking for it (as I was).  With the flash, the images are equally good.  The red eye reduction actually works, unlike my Canon A20.  You may still notice some redeye but it is negligeble, apparent only when inspected closely.  The flipup flash seems a bit flimsy though, as much of a toy as the rest of the camera.  Previewing images is a bit painful due to the low res displays.
+
+Installing the drivers and software was a cinch.  I use both Windows XP and Windows 2000.  With Windows XP, you just plug it into your USB port and everything is done for you.  It recognizes the 3800 as 3 things: a removable storage device, a digital camera, and a PC camera.  I didn't need to install drivers at anytime during the installation under XP.  Transferring pictures is just a matter of dragging through windows explorer or a few clicks of "next" using Windows XP's camera wizard.  I highly recommend using the camera wizard.  It's very simple to use, it does everything you'd normally want to do when transferring pics, and you don't have to install any shoddy programs by Fuji or any other camera manufacturer to slow down your computer.  On Windows 2000 it's just a matter of following the directions prompted to you, easy as pie.  There's nothing special about Fuji's software, I just drag the pictures over using explorer.
+
+As a PC cam, the 3800 works about as well as any other mid priced webcam.  The drivers for the 3800 as a PC cam aren't very good.  You can download some free PC cam software to setup a website for your 3800 if you wanted to, but that means you'll have to purchase the AC adapter because it'll drain your batteries.  It's nice feature to have around though, in case you really needed a webcam for those spontaneous urges.  
+
+The zoom on the camera is very fast and adds a whole new level of fun to picture taking.  It allows you much more freedom to compose shots compared to your average point and shoot camera.  I had a blast the first day of using the 3800, mostly because of the zoom.  It also comes with an adapter so you can add lens adapters and filters in the future.  I recently purchased a few filters for it and I credit them for helping me take great outdoor pictures during my vacation in Florida.
+
+The battery life is excellent, though I may have to credit my set of NiMH batteries for that.  I took 386 pictures at full resolution without flash before they died on me.  With flash, approximately 240.  The xd-picture card supposedly is less demanding of your batteries, I can believe that.  Although some people like rechargeable camera batteries that can be recharged through the AC adapter, I prefer NiMH batteries.  They are cheap so I can carry about 3 sets with me if I go on a trip.  
+
+There's something wonderful about the combination of the zoom and ease of use that makes me just want to snap pictures.  The camera also makes an imitation camera noise when you press the shutter release, maybe that adds to the affect of it too.  Or perhaps I didn't want to put it away for fear of dealing with the lens cap again.  The lens cap fits loosely on the 3800 without the filter on.  It'll stay on but not well.  The lens cap is made to go over the adapter as well but there is no chance it'll stay on once you put your camera back in the bag.  One solution that I have heard had success is to call or e-mail Fuji and let them know the lens cap is defective.  They will send you a replacement (although I'm not sure if those were better or not).  My local photo shop gave me a 55mm lens cap for free (i'm a good customer) and it fits perfectly.  Still, Fuji should have better quality control.
+
+The menu system for the camera is what you would expect from a digital camera, nothing special to note about it.
+
+If you want to take great out door pictures and good indoor pictures that can be printed up to 8 x 11 for an excellent price, this camera is for you.  It's few shortcomings are overlooked once you see the final result.  
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

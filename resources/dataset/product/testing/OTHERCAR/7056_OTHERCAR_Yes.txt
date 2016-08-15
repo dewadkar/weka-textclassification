@@ -1,0 +1,27 @@
+DOC>
+<DOCID> 7056 </DOCID>
+<PRODUCT> Digital_Cameras/485156_Fuji_Film_Fuji_FinePix_4700_Zoom </PRODUCT>
+<URL> http://www.epinions.com/elec-review-19B1-33410E36-3A409AD8-prod5 </URL>
+<TEXT>
+            The IT industry is littered with claims that a new piece of technology will sweep all before it, creating a revolution in its wake. But both history and testing tend to show that these claims often fall short of their ambitious marks. With all this in mind, it was with some well-earned cynicism that we approached Fujifilm�s new FinePix 4700 Zoom. The FinePix�s centrepiece technology is its Super CCD. If we�re to believe the hyperbole, this technology will do for digital technology what the invention of the parachute did for skydiving. 
+
+Here's the theory, More conventional charge coupled devices have their photodiodes arranged in a regular square pattern. The problem is that adding photodiodes produces diminishing returns, particularly when you�re dealing with super megapixels CCDs.
+
+
+Fujifilm has adopted a different approach arranging its octagonal photodiodes in a density packed honeycomb pattern. This, it claims. Increases the camera�s sensitivity to colour and light, therefore producing better-quality digital images. What's more, it's claimed that the Super CCD is more efficient than its conventional counterpart. Fujifilm claims that a Super CCD with 1.3 million pixels will give picture quality that is on a par with a camera boasting 2 million. Indeed, with the comparatively lowly total of 2.47 million cells on its CD, the FinePix 4700 Zoom can generate an output resolution of 4.3 million pixels (2400x1800). These brave claims � so now for the reality. 
+
+Straight out of the box, the FinePix 4700 announces itself as a serious contender and looks like it�s benefited from a wealth of inspired design. Both ergonomically and in terms of functionality, the FinePix 4700 has many noteworthy features. To hold and operate the unit is naturally comfortable. It has both a digital and optical viewfinder - a combination that�s always a welcome addition to any camera. Fingers fall easily around the controls and quality important that the design of the camera doesn�t encourage you to plaster your fingers over the lens or viewfinder when taking a snap.
+
+Switching on the FinePix 4700 Zoom invokes the slider disk covering the retracted lens to slip down allowing the camera�s zoom optics to unfurl. It�s great to watch such excellent engineering. 
+
+Round the back of the camera, you�ll find a 2in low-temperature polysilicon TFT LCD screen and a circular monochrome LCD Panel the latter being roughly the size of a penny. Setup, is managed by a selector wheel that�s sits on top of the camera. Move it to your desired mode and the two displays will adapt accordingly. For example, move the mode selector to Standard Photography mode and the circular with its surrounding buttons becomes a means of controlling the digital zoom. All these plus points and the new technologies will be worth little or nothing if the FinePix 4700 were to produce poor images. Under natural light the colours did appear somewhat synthetic, particularly when compared with the highly naturalistic results generate by an Olympus Camedia C-3030. Under the same conditions, I examined the FinePix 4700�s ability to capture delicate detail. Again, the results were in the shadow of the Olympus C-3030. Close examination revealed that the FinePix 4700, in fixed testing conditions lacked the ability to resolve clearly the sharp thorns of a stem. 
+
+Next I took the camera for a trip around town to test its ability to work in real working conditions. It worked reasonably well. It�s CCD and image-encoding algorithms were able to generate reds, greens and blues that were true to those found in the sun-drenched Sydney logjam. Indeed, the FinePix 4700 results were very similar to the Olympus C-3030. I particularly liked the Preview feature of the camera. When you�re out snapping, the camera generates a collection of thumbnails as you shoot. By using the intuitive controls you can elect to store or discard slots, thus saving media space. This is certainly faster than the more traditional digital camera storing a picture and reviewing it then deleting it.
+
+So, is Super CCD technology an electronic revolution? In all honesty, I have to say no. The FinePix 4700 is an excellent camera and, thanks to its slick design, will keep the keen, well-healed amateur user happy. <br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

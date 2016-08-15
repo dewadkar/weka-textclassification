@@ -1,0 +1,36 @@
+DOC>
+<DOCID> 25352 </DOCID>
+<PRODUCT> Digital_Cameras/elec_AgfaePhotoo-Agfa_ePhoto_CL30_Clik_ </PRODUCT>
+<URL> http://www.epinions.com/elec-review-598E-392F7E00-39BD5560-prod5 </URL>
+<TEXT>
+            There's nothing special about this camera that makes me "got to have it!" This camera needs some pizzaz! Of course, that pizzaz is the Agfa ePhoto CL30 Clik! See my related review for a discussion of that camera:
+
+<a href='/elec-review-66C-F6F123E-398EF350-prod1'>http://www.epinions.com/elec-review-66C-F6F123E-398EF350-prod1</a>
+
+The Agfa ePhoto CL30 is an entry-level digital camera. It has the standard features of most cameras and you can get a discussion of its basic features on nearly any online PC or Camera magazine web site. I have a few comments about the camera that may not appear in standard discussions.
+
+The CL30 and the CL30 Clik! are so similar, it�s hard to discuss one without comparing it to the other. Why did Agfa name the CL30 and the CL30 Clik! with such similar names? Even Agfa got confused and sent me the wrong camera when they replaced a CL30 Clik! under a warranty claim. They are basically the same camera with different media. But since there are a few other differences, perhaps a more unique name would help distinguish the products better. They could have called them something like the CL30 and the CL35 and people would have understood the connection!
+
+The camera uses a CompactFlash memory card. I�m not sure why Agfa keeps changing the memory devices in its line of cameras. The ePhoto 1280 and 1680 use SmartMedia, although the 1280�s maximum card size is 8 megabytes and the 1680�s maximum is 16 megabytes. The CL30�s maximum memory size is 96 megabytes. It comes with a 4 megabyte card, which holds just 6 photos at the camera�s maximum resolution. The CompactFlash card slot is under a door that also conceals the ports. The slot has cutouts on either side of the slot to facilitate pulling out the card. However, since there is not eject mechanism, you almost break a fingernail trying to grab the card. Agfa has supplied an extraction tool that is attached to the camera strap. The tool is not mentioned in the User�s Guide, but does appear in a drawing in the one page �Getting Started� pamphlet! This tool seems like an �oops� added later to fix a glitch in the camera design.
+
+The camera has four ports below the CompactFlash card slot: a USB port, a video out jack, a serial jack, and the AC adapter jack. The Agfa ePhoto CL30 Clik! inexplicably omits the serial jack. So, if you move from a Windows 98 platform to a Windows NT4 system, you�re out of luck with the CL30 Clik! The serial port on the CL30 at least gives you an option if you change computer platforms. It�s not much of an option, since the serial port moves data more than 12 times slower than the USB port!
+
+The one good thing about this camera is that it shipped with Photowise 1.7.1 software. I recommended in my review of the ePhoto CL30 Clik!, that users of that camera should abandon it�s version of Photowise, version 2.1, in favor of Photowise version 1.5 that comes with the Agfa ePhoto 1280. The literature states that Photowise version 1.7.1 is for both the CL30 and the CL30 Clik! So, it appears that this is the best version to use with the CL30 Clik! � it has the same compatibility as version 1.5, but with USB support.
+
+You might be wondering why even bother with Photowise. Why not download the photos and just use Photoshop to do image editing and management. Well, you could, and you should if you�re doing extensive photo manipulation. Photowise is a product of Sierra Imaging, Inc. who also makes a digital camera chipset called the Raptor. Although it doesn�t say it explicitly, I suspect that the CL30 camera is based on the Raptor chipset. So Photowise is tightly bound with the hardware and firmware of the camera. That�s why, I suppose, there�s a different version of Photowise with each camera model. Photowise can also be used to control the camera, such as changing the shutter speed. Unfortunately, the settings only remain in effect as long as the camera is attached to the computer. So, if you want to shoot a waterfall with a slow shutter speed to blur the water, you�ll have to drag along your laptop computer, as well!
+
+Note that the CL30s manufactured before 2000 are not Y2K compatible! So you�ll need to download a firmware patch from http://support.agfa.com/swPubDTP
+
+The User Guide states that the camera should only use �high-drain� Alkaline batteries, such as Duracell Ultra, and others. However, the camera ships with standard Alkaline batteries. Go figure!
+
+<b>IMPORTANT!</b> The optional AC adapter for the Agfa ePhoto CL30 has been recalled! The adapter may cause your batteries to overheat, leak, and explode. The adapter will be replaced for free. See the following link for more information:
+http://news.agfa.com/corporate/news.nsf/news/97A28C68047D6D7D4125697E005C5C7A?opendocument
+
+This camera doesn�t quite make it. If you want one that clicks, get the Clik!
+
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

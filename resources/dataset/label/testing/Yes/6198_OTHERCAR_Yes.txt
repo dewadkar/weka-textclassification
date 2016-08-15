@@ -1,0 +1,28 @@
+DOC>
+<DOCID> 6198 </DOCID>
+<PRODUCT> Digital_Cameras/Kodak_DX4900_Digital_Camera__Camera_DX4900 </PRODUCT>
+<URL> http://www.epinions.com/content_63813226116 </URL>
+<TEXT>
+            NOTE: My original review is below. I've added this paragraph to make folks alert to an annoyance with the DX4900. I've continued to use my DX4900, and overall it is well worth the money compared to other more expensive cameras. I've found an annoying bugaboo though. If you try to make settings too fast thru the menu, or delete photos and try to do something else too soon the camera freezes up. Nothing works, no buttons, the power switch, nothing. This IS in the Kodak FAQ on their home page, and is noted as a problem. To unfreeze the camera you need to open then close the battery compartment. In one evening while I was experimenting, the camera froze up on me 5 times. It was QUITE annoying!! Other than that, its been a wonderful camera, and I still love the ease of use and crisp photos. Just don't do the menu options too fast.
+
+*******
+
+I've just purchased my DX4900, and honestly I am still learning about how to fine tune some things, but I've done enough testing to give a decent evaluation.
+
+The camera is good looking, compact, and easy to handle. It incorporates almost all of the more popular features except the Movie Mode. If you want to do movies, take advantage of the 20 picture Burst Mode then take those sequence of photos into Movie Maker, and make a GIF out of them. Same difference. You can download to PC directly with any TWAIN compliant software if you did not want to drop the extra $80 on the Docking Station, or you can hook up to your TV, all cables are included. I got the Docking Station because it comes with a rechargeable battery pack and charger, and it enables the instant download feature.
+
+My main concern was with crisp clear close up shots, especially having lettering come up crisp and readable. This camera fit that bill perfectly. Night shots are excellent as well. I am still working on some of the regular shots in the living room. They are very good, but to me seem they could be a tad better. I think I need to work on my lighting. The camera is loaded with features such as setting ISO, Flash, Shutter Speed etc, and they are fairly easy to set and use once you do it the first time to get a feel for the menu system.
+
+The software gave me troubles after installing, and hung my PC. I re-booted, set up the Docking Station and enabled the instant download. This works beautifully, although the first time it failed to immediately launch the Kodak Photo software and hung the PC. Since that first try however, its worked flawlessly. Downloading is super simple. Just put the camera in the Docking Station, does not have to be turned on, and press the button. It opens a screen immediately with a 5 second timer. Once that cycles, ZIP!, your pictures are loaded onto your PC in their own folder. Kodak's software will create a folder for each day you are downloading photos. The only annoyance was that after the pictures are downloaded the green indicator on the Docking Station continues to flash. I needed to remove then replace the camera to get it back into charge mode. It would be perfect if it would snap back into charge mode immediately after the download finished. 
+
+The software is good for basic photo manipulations, but if your going to do any serious photo enhancing, get a bigger, better package like Adobe, or I Photo Plus 4 which I love. Software shortcomings include the inability to rotate the photo, so if your off a little you cannot make that correction. Cropping is limited to pre-set sizes, and you cannot do any free lance cropping.
+
+Overall I am very pleased with the camera, its operation, and especially photo image quality. Zoom in closeups are incredible. Besides the few software querks, I'd recommend this camera to anyone who is looking for a great 4 megapixel 6X zoom camera for under $400 (Docking Station an extra $80)
+
+I paid $311 for the camera, and $63 for the Docking Station in a price match guarantee deal at a local major electronics chain store, so I legally stole this thing! :O)
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

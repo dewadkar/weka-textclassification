@@ -1,0 +1,50 @@
+DOC>
+<DOCID> 11443 </DOCID>
+<PRODUCT> Digital_Cameras/612909_Sony_MVC_CD200 </PRODUCT>
+<URL> http://www.epinions.com/content_68948299396 </URL>
+<TEXT>
+            I won't try to cover what has been covered already in the several very good reviews already here; but to note other points not previously mentioned.
+
+The movie mode (with sound) is very slick.  It is limited to the capacity of the cameras built-in RAM, however.  
+Low res is 160X112 and gives you a maximum four minute clip.  320X240 gives you a one minute clip, and 320X240 'HQ' mode gives you a 15 second clip.  It takes several seconds to then record your movie clip to the drive, so don't expect to do any continuous movies... but if you want to do that, you should be buying a digital camcorder.
+
+You must charge the battery IN the camera.  This makes it much less practical to try to have two batteries and swap them as you run them down.  The battery life is excellent however (more than two hours) and there is a guage that estimates remaining battery life in minutes -so no surprises.
+
+The difference between the CD200 and its considerably more expensive sibling, the CD300, (besides the resolution: 2.1MP for the CD200, 3.3MP for the CD300) is the lens.  Zoom range is the same, it's just that the CD300 uses a Zeiss lens (a "Mercedes" brand, well known to us film photographers) instead of a Sony lens, and it's a somewhat "faster" lens -meaning that you can take pictures in slightly dimmer light without needing the flash.
+
+But we're talking digital camera here.  Zeiss are certainly excellent lenses, but I can't imagine it could be possible to discern the quality difference between it and the Sony lens, considering the digital recording media.
+
+In actual practise, I don't think the slightly 'faster' Zeiss lens would make any noticeable difference in low light capability either.
+
+A fresh CD must be "initialized" (formatted) before use.  Then when you are done taking pictures, it must be "finalized".  I had hoped that my CD burner drive would read the unfinalized disk, but no dice.  That means that in order to read the disk, you must finalize it.  In the case of a CD/RW it's only a matter of taking a minute to finalize the disk, then to 'unfinalize' it if you want to take more pictures on the disk.
+In the case of a CD/R though, that means you close out the disk and cannot take any more pictures on it.
+
+If you have USB though, you CAN use the USB interface to review and/or offload the pictures -even on an unfinalized disk- using the camera as an external CD drive.
+
+My one frustration with the camera is that the formatted CD won't read reliably in any of the CD-ROM drives that I've tried to read it in.  In some drives, it will work sometimes, in other drives, not at all.  It reads OK in a CD burner drive.
+
+I've found to get a reliable disk (for a CD-ROM drive), I have to load the pictures off onto my hard drive, then burn them back onto another CD. 
+
+Even though memory media has dropped alot in price, it's still not as cheap as the CD/R or even the CD/RW mini disks that this Mavica uses.
+If you're going on vacation, film cameras have always had an advantage over digital, in that you could take as many pictures as you wanted, and you could figure on getting film while you were there -or at least, taking along plenty of film with you.
+But that gets very pricey with traditional digital camera memory media.
+
+Remember that a digital camera is useless once you fill up your recording media -and do you really want to buy another flash card, smartcard, or memory stick in some tourist trap -if you can even find one- when you know you wouldn't need it... if only you could offload your first days' pictures?
+
+Buy a whole stack of mini CD's, -for way less than a single Memory Stick or SmartCard or CompactFlash- and shoot away.  And no worries of x-rays or magnetic fields scrambling your data.
+
+Controls IMHO are obvious, intuitive, and readily operable; you really don't even need to look at the instructions.  The camera reports back to you with icons or plain text on the LCD screen, making it obvious what you just did.  Macro mode works very nicely.  
+
+As you change modes, the camera reports remaining disk capacity in how many more pictures or minutes of film clips you can take at that resolution.
+
+Resolution: 1600X1200, something called 1600 3:2, 1024X768, and 640X480.  In 1024X768, you can take more than 400 pictures on one mini CD! (185Mb)
+
+Has a good solid feel to it -things that might feel flimsy, like the large hinged door over the CD compartment- are well built and have a substantial feeling.
+
+It is a little bulkier and heavier than some of the memory card type cameras, but much lighter and smaller than a 35mm SLR!
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

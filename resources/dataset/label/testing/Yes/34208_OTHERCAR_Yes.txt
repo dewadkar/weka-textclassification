@@ -1,0 +1,18 @@
+DOC>
+<DOCID> 34208 </DOCID>
+<PRODUCT> Digital_Cameras/613421_Epson_PhotoPC_3100Z_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_47318601348 </URL>
+<TEXT>
+                 I researched buying a digital camera for over one year.  At the outset, certain criteria came to mind.  I wanted something that would take a standard battery and a standard flash memory as I did not want a problem in years to come obtaining supplies.  After all, a camera that takes good pictures will never go out of date.  I wanted a camera that could take at least 3+ megapixels of data, as that is what is needed for an 8 x 10 printout.  It had to have a reasonable size and weight, and optical zoom and a built in flash so it could be easily carried and used in most situations.  (These are the limitations of my first camera, a Nikon F (c. 1967)that still works well, but weighs a ton even without the telephoto lens mounted).
+     With these criteria in mind when the price dropped recently to $599, it was time to buy.  The out of box experience was excellent.  It included the camera, a nice strap, a soft case, 4 alkaline batteries, cables to hook up to the TV and to the computer, the CD with the drivers and software, and the manual.
+     For the last few days, I have been putting the camera through its paces.  It has 3 modes auto, manual, and a program mode with presets for portraits, sports, landscapes and normal.  The auto mode is so good that there's little reason to go to manual in most situations.  The optical zoom is 3x and works smoothly.  The Macro capability works well.  Even pictures at night turned out well.  The colors are well saturated and details sharp.  The included Compact Flash card is 16 MB, enough for 29 pictures at the full 3.3 megapixel, compressed at standard JPEG setting.  A low JPEG compression, 
+TIFF mode and HYPICT which interpolates to 4.8 as well as 2 lower resolutions are available.
+     I am happy to report, that unlike many other computer peripherals I purchased, this one worked very well with my computer (Compaq Presario 5441, running Win 98SE).  The software installed easily and quickly.  The camera links USB and the pictures are transferred quickly without fanfare to the hard drive.  They can then be used with the included Sierra imaging which has basic archiving and editing capabilities or any other program.  A panorama stitcher is included that worked well, I figured it out within 5 minutes on the first try.
+     Two downsides.  I found 2 stuck pixels in the sensor (not bad I guess out of 3 million), but not noticeable in the picture (I had to hunt for them) and the camera will need NIMH's although alkaline could be used in a pinch. 
+     In short, it is an attractive package with well rounded capabilities, that competes with other 3 megapixel models, at a very competitive price point!  
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

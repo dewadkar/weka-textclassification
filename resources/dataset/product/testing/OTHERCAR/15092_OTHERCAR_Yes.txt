@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 15092 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1999_Lincoln_Continental </PRODUCT>
+<URL> http://www.epinions.com/auto-review-5873-18170CCF-3848ACC8-prod1 </URL>
+<TEXT>
+            The 1999 Lincoln Continental is a beautiful masterpiece of American ingenuity.  From the wood to the leather, the heated seats, the greatest blend of pure performance with a nearly god-like composition.  My mother bought this vehicle for pure luxury.  She got more than she bargained for.  I love the plush interior and the great handling.  The Continental provides the smoothest ride that you can ever possibly imagine.  A person who can afford a more expensive car with the greatest luxury on earth should buy this car.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

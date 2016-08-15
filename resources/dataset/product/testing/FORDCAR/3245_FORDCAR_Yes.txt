@@ -1,0 +1,16 @@
+DOC>
+<DOCID> 3245 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1995_Ford_F150_Styleside_Supercab </PRODUCT>
+<URL> http://www.epinions.com/auto-review-4F8B-653D9B1-386690ED-prod1 </URL>
+<TEXT>
+            Ford pickups before redesign in 1999 were not built for heavy use.  The four wheel drive trucks with automatic locking hubs were especially not made for heavy duty off-road use.  The truck in question is a 1995 F-150 Regular Cab Flareside 4x4 Off-Road.  With somewhat regular use of the four wheel drive, the transmission and locking hubs took a real beating.  The automatic hubs are locked by three miniscule cast-iron teeth that tend to break very easily when put under much strain.  Additionally, the hydraulic clutch mechanism is very weak, specifically the slave cylinder.  
+
+In the late 1980's or early 1990's, Ford started attaching the slave cylinder inside the transmission housing instead of outside.  The slave cylinder breaks early and often under heavy driving conditions and requires the entire transmission and transfer case to be removed in order to replace the slave cylinder.  Also, the transmission started developing severe gear noise around 90,000 miles.  This required a transmission rebuild costing around $1,500.00.  
+
+The 300 ci in-line six cylinder motor has it's good points and bad points.  Because of the in-line cylinder configuration, the truck produces very good low-end torque, which is beneficial for pulling heavy loads at low speeds or climbing steep inclines.  However, the truck gets very bad mileage for a six cylinder motor -- 13-14 highway versus 17-18 EPA estimated on the sticker.  The truck also does not pull very well in mountainous or hilly areas and does not pull very fast on flat ground.  However, the truck is very dependable and long running for the most part.    <br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

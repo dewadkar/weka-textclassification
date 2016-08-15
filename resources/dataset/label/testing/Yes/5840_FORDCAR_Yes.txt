@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 5840 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1992_Ford_Taurus_Sedan </PRODUCT>
+<URL> http://www.epinions.com/auto-review-3DE1-17BE48B-385A2ABE-prod1 </URL>
+<TEXT>
+            If you're looking for a reliable and safe family sedan, then look no further than the Taurus.  I've had mine for nearly eight years and it still performs like the day I drove it off the dealer's lot.  The car handles extremely well and has plenty of passenger and storage space to accommodate a family of four.  The gas mileage is adequate, I'd prefer it to be higher, but the ride is comfortable and the design is appealing to the eye.  Price-wise, there are few cars that can offer you what the Taurus does at its price.  Overall, I have been extremely satisfied with my purchase and expect to keep this car for at least another 5 years!<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

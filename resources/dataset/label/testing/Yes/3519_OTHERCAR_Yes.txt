@@ -1,0 +1,63 @@
+DOC>
+<DOCID> 3519 </DOCID>
+<PRODUCT> Digital_Cameras/509295_Hewlett_Packard_Photosmart_C315xi </PRODUCT>
+<URL> http://www.epinions.com/content_6706597508 </URL>
+<TEXT>
+            There are so many digital cameras available today that when I decided I needed one it was hard to figure out where to begin.  But I decided on the features I wanted in a digital camera and went with that.  I think that other average consumers would also share these wants:
+
+- 1.3 Megapixel or better
+- 8MB or more flash memory standard
+- Self-timer (for posed pictures)
+- 1.8-in LCD or bigger
+- Some zoom feature
+- USB connect for PC uploads
+- Under $300 total
+
+So armed with this info, I eventually came across the HP 315 Photosmart digital camera.  I immediately decided it was what I was looking for as it met or exceeded all of my "wants".  So for a little background bio, here is what you get with this camera in the box, retail:
+
+Camera features:
+- 2.1 Megapixel max resolution (three settings, 640x480, 1200x1600 mid-quality JPG, 1200x1600 high quality JPG)
+- Self timer
+- 1.8-in LCD
+- 2.5X digital zoom (no optical zoom)
+- USB interconnection
+Accessories included:
+- 8MB Compact Flash Type I card
+- USB cable
+- Four e2 energizer batteries
+- HP Photosmart digital imaging software and Arcsoft Photoimpression & Photomontage software
+- Retails for $299.00 (At Circuit City, Best Buy, etc...)
+
+Now that I have had a chance to try out this baby, I can say that it is definitely worth the $300.  This camera is not an advanced one, doesn't have a bunch of extra features like a telephoto lens, optical zoom, large memory capacity, or most of the other frills that drive a digital camera up past the $600 mark.  However, if you are looking for a quality, reliable digital camera and don't want to spend a lot and hope you are not getting ripped off, this is the one for you.
+
+The 315 allows you to set the picture resolution as you go with three settings.  The low-res mode is a 640x480, 24bpp picture and I have had very good luck capturing excellent pictures with this setting.  The "fine" and "super-fine" modes are both 1200x1600 resolution, 24bpp photos, however the super-fine mode produces a higher quality JPG file by using a higher JPG "quality factor".  Here's the breakdown on the number of pics you can shoot at each resolution setting with the default 8MB flash card:
+
+Low-res: 80 pictures
+Fine: 20 pictures
+Super-Fine: 10 pictures
+
+The camera allows you to change the flash settings as well. You can choose from standard flash, auto flash, no flash, and auto + red-eye reduction.  Additionally the menu will allow you to change the LCD brightness, zoom, and allow you to browse, rotate & delete images in a thumbnail view.  
+
+A handy and useful feature of this camera is it's ability to judge the quality of the photo before you take it.  When you are prepared to take a photo, you can depress the shutter button only half-way and an LED will indicate to you if the picture will come out good or not.  It evaluates it's ability to focus and adjust the exposure and will do so each time you depress the shutter button half way and warn you if you need more lighting, need to back away from the subject, etc.
+
+The included software is easy to use and intuitive.  Downloading your pictures can be done either by using Windows explorer (w/HP software sees the flash card as an 8MB drive) or you can use the Camera Unload software to preview and dump all of the photos on the flashcard.
+The camera will support any size flash card (Type I) and seems in my opinion to have a decent battery life.  Additionally, HP allows you to upgrade the camera's firmware at your leisure by using the included software to check on the web and then download it to the camera.  I think this is a great way to fix future problems or potentially add features to the camera menus without inconveniencing the user.
+
+The only feature of the camera that I have encountered difficulty with is that at times when the subject is moving too much the delay between when you depress the shutter and when the picture is actually stored can cause either blurring or the subject to no longer be centered in the photo.  There were several times when I tried photographing my children only to get half a kid in the shot or the back of their head.  But I do not think this is a serious problem as it happens with most all digital imaging devices.  And I'm sure when my kids are older and stop moving around so darn much I can photograph them all I want. 
+
+Once again, if you are looking for a digital camera that you won't regret buying because the photos suck rocks, and has all of the baseline features in a great package for $300, then I think this is your camera.  An easy way to prove this camera's superiority, go see what you can get for $300.  Usually you will come up short compared to the Photosmart 315.
+
+
+*** Update, 1/22/2001 ***
+
+I have recently discovered that almost all of the blurry pictures I have seen can be attributed to my own motion when the camera is taking the picture.  The delay between the shutter press and the picture actually being taken took me a little while to get used to, but now I can tell when the moment is that I have to be still.  Now pretty much every picture I take comes out wonderful.  Additionally, outdoor pictures without the flash are incredibly clear and crisp - almost amazing.  And indoor pictures taken with this camera look orders of magnitude better when using the flash with red-eye reduction.  Just in case anyone is wondering or has this problem.
+
+I would also recommend that you pick up one of those alkaline rechargeable battery packs at Wal-Mart or some similar store.  I was able to get a 4-AA Rayovac battery charger for $10 and a 4-pack of rechargeable Rayovac alkaline batteries for $6.  To me $16 is much better than the $55 that HP charges for the AC adapter.  And this way I can just plug the charger in when I need it and I don't have to be close to an outlet to use the 315.  Keep a second set charged and you are good to go!
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

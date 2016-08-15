@@ -1,0 +1,48 @@
+DOC>
+<DOCID> 10695 </DOCID>
+<PRODUCT> Digital_Cameras/615104_Fuji_Film_FinePix_6900_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_72822132356 </URL>
+<TEXT>
+            bad timing, bad pick. i bought this FinePix 6900 this spring during my trip to Japan, largely because of its look (also because i was quite happy with the FinePix 1400, my first camera). turned out to be quite a disappointment, but let's look at its good sides.
+
+FinePix 6900 comes with loads of powerful and useful features. after all, it was Fujifilm's second best camera, until S602 came out 2 months ago. you can choose from ISO 100, 200, or 400 (though ISO 800 would be nice, since i take lots of photos under low-light environments), aperture ranges from f/2.8 to f/11 (but i want f/2.0, for the reason above), shutter speed goes from 1/1000 second to 3 seconds, 5 consecutive shots at once, auto bracketing, a ring for manual focus (too bad it doesn't have a barrel for zooming), a hot shoe for an external flash gun, self-timer (choose from 2 and 10 seconds), macro (essential for ultra closeups). though the lens isn't interchangeable, with an adapter ring, you can add a wideangle lens or telephoto lens. as an extra, it even lets you take short video clips of up to 160 seconds (but at 10fps, 320x240 size, in motion-JPEG format, which means no sound and you can't compress into MPEG). fuji also brag about their use of Honeycomb SuperCCD on FinePix 6900 but to be honest, i could care less about it.
+
+controls are almost second nature to me. there're 2 pairs of zoom buttons, one pair at the back (which feels like a point-and-shoot camera) and one pair on the left side (which feels like a video camera). the buttons are well laid-out, so with little practice, i was able to control everything with three fingers, without looking like a nerd. the LCD screen is about one third the size of a business card, so that's not bad at all.
+
+now here are things i hate about this camera.
+
+<b>complaint number one: battery.</b> FinePix 6900 uses fuji's proprietary NP-80 1300mAh lithium ion battery, which costs US$40 each, rather than standard AA batteries. that's bad because when it's running out of power, you're stuck, you just can't go buy batteries at a convenience store nearby. it runs out of power quite quickly too. i haven't done a formal test, but for 1-megapixel photos, it lasts about 30 shots, give or take a few. lithium ion?! feels more like batteries from dollar stores. therefore i always keep 2 spare batteries in my pocket. by the way, it takes 3 hours to fully charge the battery, though it can be shortened to 75 minutes if you buy a separate recharger. i did. FinePix 6900's successor, S602, uses AA batteries, so i bet Fuji realised that it was a bad idea to use proprietary batteries.
+
+<b>complaint number two: speed.</b> it takes 5 seconds to start the camera; about a second to focus (if you use autofocus); and about 4 seconds to record a 1-megapixel photo into the SmartMedia card (or 6 seconds for a 3-megapixel photo). what's that mean to me? pathetically sluggish. i'm aware that the bootup time and record time are inevitable, but the one-second focus time drives me nuts.
+
+<b>complaint number three: viewfinder.</b> WHY, OH WHY, didn't fuji use an optical viewfinder?!? what's wrong with an optical viewfinder? and what's so great about an electronic one? it drains battery, and doesn't help a friggin' bit in dark environments!
+
+aside from its delays and short battery life, it does take "pretty good" photos, and that's from an amateur like me. ahead are a couple of sample photos, taken by [*points at self] me.
+
+indoor -- well-lit hall with candescent lights:
+http://pirateship.dhs.org/images/photos2002/0519-cherith_retreat-junie3.jpg
+(ISO 400, f/2.8, 1/20 sec shutter, no flash)
+
+outdoor -- morning:
+http://pirateship.dhs.org/images/photos2002/0717-garden16.jpg
+(ISO 100, f/2.8, 1/500 sec shutter, no flash)
+
+self portrait. indoor -- barely-lit room with tungsten light:
+http://pirateship.dhs.org/images/photos2002/0603-fb5.jpg
+(ISO 200, f/2.8, 1/5 sec shutter, no flash)
+
+indoor -- dark dance club:
+http://pirateship.dhs.org/images/photos2002/0630-guvernment_23.45-swinger.jpg
+(ISO 200, f/2.8, 1.62 sec shutter, with built-in flash)
+
+outdoor -- afternoon:
+http://pirateship.dhs.org/images/photos2002/0630-dead_bird8.jpg
+(ISO 200, f/3.2, 1/400 sec shutter, no flash)
+
+like i said in the bottom line, S602 is everything 6900 should have been. so if you got US$700 to spare, go get S602, which accepts SmartMedia or Compact Flash II cards, and saves photos in JPEG or TIFF formats. but if somehow you must buy this (maybe there's a good deal in second-hand markets), make sure you at least get one spare battery.
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

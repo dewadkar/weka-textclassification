@@ -1,0 +1,32 @@
+DOC>
+<DOCID> 26342 </DOCID>
+<PRODUCT> Digital_Cameras/Sony_Cybershot_DSC_P71_Digital_Camera__Camera_DSC_P71 </PRODUCT>
+<URL> http://www.epinions.com/content_82417389188 </URL>
+<TEXT>
+            When it's time to upgrade my bare bone Kodak 1 megapixel cam, I decided that this time it'd better be something decent. My criteria are 3 MP, 3x optical zoom and good quality pictures. Which is not a lot to ask for these days. For a while, I ponder between the P71, the Olympus D550, the Kodak 4330 and the Fuji 303.
+
+At last, I follow everyone's hype and settled on the Sony's. Under normal circumstances, this would not have been economical, because at all the shops I went to, the Sony's always cost $50 more than the rest of competition. Something to attest to the good name I guess. So when the chance came for a good eBay deal, I just grabbed it.
+
+The camera did come new, clean and shiny as expected. I wanted to test drive right away, but couldn't, obviously because of the 13 hours waiting required to charge the battery. In the mean time, I figured I just need to go ahead and look through the QuickStart guide for some introduction. There's no QuickStart guide to be found. Instead, there's a 100-page booklet with small fonts and lots of referencing numbers, and which was probably designed to confuse the heck out of users. This booklet reminds me of the old-fashioned kid-style detective book, where at the end of each page, you have a choice between two other pages to continue. Here, you have things like "choose [...] in SETUP1 (page xx), then proceed from step 3". And when you turn to page xx, there will be a lot of page numbers to choose from. Not to mention the huge array of information/technical details that I'm sure are very helpful to the pro, but do not tell you where to start.
+
+Anyway, I did manage to digest all the necessary details after a while, and was eager to apply the knowledge. No battery? No problem, I just put some Kodak PhotoLife batteries in (the kind "recommended for digital camera" by Kodak). Maybe because of the P71's distrust of alkaline, or of Kodak, or maybe it's just my bad luck, the camera refuses to continue after just a few pix. Which is weird, because everything else still functions, even the LCD still powers up. Just that when you swich to the picture-taking mode, the camera stops.
+
+A little disappointed, but still somewhat relieved that the USB transfer still can work on the (supposedly) empty pair of Kodak batteries, I proceeded to transfer my pictures to the PC. Alas, the USB connector currently on my computer cannot plug in. This may not a problem for those who have some free USB slots or a USB hub, but for me it is. My PC has only 2 slots, and one is already permanently used by the mouse. The other has been used by the scanner, and I was hoping the new cam can share the same USB cable. No way, says Sony. Even on something standard like USB, they still have to turn to something their own. They have their own USB cable and connector-type (which is smaller usual). That means from now on, I'll have to dig behind my PC everytime I want to switch between the two devices. A lot more work for a supposedly great camera, huh?
+
+But that's not it. I've been using an AC adapter for my Kodak cam for a while, and was hoping I can reuse it instead of the batteries. This is where the Sony-proprietary mindset bites the hardest. Where all other camera makers have their standard DC IN socket, Sony "invents" a rectangular socket that nothing else can fit in but Sony's! Even a trip to Radio Shack doesn't help. So, unless you're willing to part with another $50 of your cash to buy another Sony's block, you can't use adapters. Another hidden cost of ownership, I have to say.
+
+I'm also very unimpressed with the Memory Stick, which seems to be used by nobody else but Sony. Granted, the mess in the memory format market wasn't caused by Sony alone, but I do think Sony's go-it-alone attitude is one reason behind Memory Stick being the most expensive type around (excluding the newer xD format, of which I admit I don't know much).
+
+Anyway, after long last, I got to see the pictures in my PC's screen. They're better than those taken from my old Kodak, but I doubt that the Olympus or Kodak 4330 will do any worse. Maybe my skills still have a lot to improve, or that there are some controls or menu options that I need to set right. Which is not too surprising because, frankly, I didn't feel like twisting the menu one bit. The buttons are tiny, especially the little one in the middle of the 4 directional arrows. (It's actually just a big button, in which 5 areas are dedicated for 5 different functions). I had a hard time trying to press the "middle dot" without pressing one of the arrows at the same time. Mind you, my fingers are not even that big.
+
+So, to top of it off, I think the hype is a little too much, and even if the product bears the name Sony, there are still things to desire. Well, quite a few of them, actually. It's disappointing that on the way to make more (cheap) money, they forgo standards at great inconvenience cost to the users. No wonder, Sony's made great partner with M$. Sony may be a respectable name, but if this proprietary trend continues, I'd rather be with the competition. The world's had enough empires.
+
+PS. There's one comment that all DC IN sockets are generally of different sizes. That's true. What I meant is, all of them (except Sony's) share a general (or should I say, standard) design: round, with contacts at base and tip. (Please check your device's DC IN to make sure). I've actually tried the entire Adaptaplug sets from RadioShack, and yet none of them (or anything from any store I know) could fit in the _rectangular_ Sony socket. Furthermore, the nominal DC voltage (4.2V) is also an odd number. If these are not to force you to buy Sony's overpriced AC adapter, I don't know what is. (A curious observation: the cam could run on 2 NiMH batteries, which provides only 2.4V. Why, then, is the nominal DC IN voltage requirement is 4.2V, which is equivalent to 3 AA batteries?)
+
+Also, regarding USB, the fine print on the box says "If two or more USB devices are connected... this unit may fail to operate properly", and "We do not guarantee proper operation when connecting through a USB hub". May just be some cautious disclaimer, but I thought it's worth mentioning nonetheless.
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

@@ -1,0 +1,50 @@
+DOC>
+<DOCID> 11323 </DOCID>
+<PRODUCT> Digital_Cameras/Concord_Camera_EyeQ_3X_SLR_Zoom_Digital_Camera__Camera_EYEQ_3X </PRODUCT>
+<URL> http://www.epinions.com/content_71543131780 </URL>
+<TEXT>
+            Here's what I like about the camera:
+
+The camera itself is small and pretty sweet. It comes with a carrying case, wrist strap, and USB cable. These are very nice additions. 
+
+The LCD screen is INSIDE the viewfinder. I've never seen another camera that has this way cool feature.
+
+Battery life is exceptional. It runs on a standard 3 volt photo lithium cell.
+
+Controls are intuitive and easy to use.
+
+
+Here's my beef with this camera: 
+
+It takes mediocre pictures in good light. In low light conditions the pictures are often washed out if your subject isn't within 3 feet or so of the camera. Taking pictures across a room with the flash result in grainy, crappy-looking pictures.
+
+No lens cover. I am constantly putting my fingers on the lens.
+
+Zoom is a hit-or-miss feature. It's nice to have, but often results in blurry pictures. If the subject is reasonably far away the picture will turn out fine. But if you're trying to zoom in on a person across the room it's useless because the picture will be blurred. The camera has an adjustable viewfinder that you can use to focus a zoomed-in image... but this only affects what you see, and has no bearing on how the camera takes the picture.
+
+The flash is either Auto or off. There is no way to turn the flash ON to take pictures of objects or people that have the sun behind them. These images always turn out excessively dark.
+
+Taking pictures is a very slow process. There is a second or so delay from the moment you press the button and when the picture is actually taken. In this interim the viewfinder turns black and you cant' see what you're shooting. After a picture is taken, the camera switches into preview mode. It takes FOREVER AND A DAY to switch back to camera mode. Only after it finishes switching does it finally bother to recharge the flash. Arrg.
+
+Low resolution. The packaging states that this is a megapixel camera. This is incorrect. The sensor is only capable of 640x480 resolution, but the "superfine" mode merely interpolates to 1290x960 resolution. These images are generally blurry. The medium quality 640x480 mode is sharper.
+
+The software is buggy and doesn't always recognize the camera under Windows 98. Always recognizes under 2k, though. The software occasonally crashes, but only if you try and use the video capture feature. Luckily, the camera uses a standard Twain driver, so you can acquire from your favorite image program like Paint Shop Pro.
+
+Overall, the camera is worth the $45 I paid for it. I'm no longer excited about it, though. Spend a little bit more and get a Polaroid PDC-640 digital camera. The Polaroid is only 640x480, and eats batteries for lunch, but the image quality is superb. It also has removable SmartMedia flash (comes with a 2MB card, takes up to 16MB), a LARGE LCD screen, intuitive controls, TV out, and more.
+
+Polaroid's site:
+http://www.polaroid.com
+
+Epinion's on the PDC-640:
+<a href='/elec_Cameras-Digital_PolaroidPDCC-Polaroid_PhotoMax_PDC-640'>http://www.epinions.com/elec_Cameras-Digital_PolaroidPDCC-Polaroid_PhotoMax_PDC-640</a>
+
+Charles.
+
+
+
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

@@ -1,0 +1,30 @@
+DOC>
+<DOCID> 27718 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_PowerShot_S100 </PRODUCT>
+<URL> http://www.epinions.com/content_29813739140 </URL>
+<TEXT>
+            Summary � I like the camera a lot.  It is very small, takes good quality photos, perfect for vacations and general snapshot work.  The downside is that it has a very limited zoom and the memory card that comes with the camera is so small (8 megs) as to be useless.  Add another 70 dollars for a 64 meg card to the price to make the camera really useful.
+
+I used to be an avid photographer, but got tired of lugging around all the equipment and got less interested in the art of photography.  I had sworn off photography until the APS cameras came out and my girlfriend bought me one.  At this point, digital cameras were just becoming available but were way to expensive for a humble grad student.  The APS seemed like just the ticket.  It was small, and good for snapshots.  I then went to Vegas and, by accident, spent 50 dollars having one roll of film developed (although that was at the high end, developing APS is kind of expensive).  That was that.  APS was also too expensive for a humble grad student.  I swore that the next camera I was going to own would be both small and digital.
+
+Fast forward a year.  Although no longer a grad student, I was ready to buy a digital camera.  A couple of criteria were important to me.  Small, easy to use, auto-focus, built in flash, at least 2.1 mega-pixels, and rugged.  There are a number of cameras that fit the bill, but I started looking seriously at the Canon Powershot S-10.  The only issue with that camera is that it uses double A batteries.  That means carrying around spares and/or a recharger in order to keep the camera powered.  I travel all the time and am very resistant to anything that increased the amount of stuff I would have to carry and keep track of.
+
+Enter the S-100.  The camera is about 150 dollars more expensive that the S-10, but it has a rechargeable lithium ion battery.  The battery is good for about 80 photos (while using the LCD screen).  I don�t take 80 pictures a week and leave the recharger at home to juice up.  I was going to buy a second battery, but have not needed it.  
+Just like the S-10, the S-100 comes with an 8 meg memory card.  For me, the 8 meg card is not big enough.  An 8 meg card can hold about 14 pictures on the medium resolution mode, and only 7 on the high res mode.  I tend to use the medium mode, as the resolution is more than high enough to look good on the web.  I tend to take about 40 pictures on a one week vacation.  In order to use the 8 meg card, I would have to bring my computer along to download pictures from the camera to the pc.  I already mentioned how much I hate carrying stuff.  Instead, I bought a 128 meg card for 90 bucks (120 plus rebate) from Outpost.com.  I would have been happy with a 64 meg card (over 100 pictures in medium resolution) but figured it was worth the extra 20 smackers to double the amount of memory and minimizing downloads.  BTW, you need to have a computer (either PC or Mac) with a USB port to download.
+
+As I mentioned above, the zoom is not very zoomy.  Many of the digital cameras specify 2 times or three times zoom.  This means that the camera will magnify up to x times its minimum zoom.  You see the problem?  In the S-100, the minimum is a wide angle lens.  Say approximately 28 mm.  This is a good lens for landscapes, but not good for close-ups.  With the zoom, you can get something like a normal 50mm lens, but still kind of small.  If you want to do telephoto work (sport photography), find another camera.  On the upside, the camera does have a macro feature that lets you get close to your subject.  The macro mode (you have to push a button to focus that closes) allows you to take pictures from about four inches away from your subject.  There is also a digital zoom, but that requires some button pushing and manual reading to use.  Oh!  Key point.  If you do not pre-focus (press the shutter down half way), it takes about two seconds to get a picture off.  As I said before, it is not a great camera for sports photography.  Or action of any kind, for that matter.  This is a problem with all point and shoot cameras.  Just be prepared.
+
+The flash works well and has an anti-redeye mode.  That does not mean that you won�t get pictures with redeye, only that under the right conditions (subject looking directly at the camera) it is minimized.  I just touch-up redeye in the software.  
+
+On the software, the camera comes with Adobe Photoshop for photo editing and some Canon software that allows you to download and manage your pictures.  There is also a product that allows you to stitch photos together and make one large photo out of several smaller ones.  I have only installed the Cannon products, and they work fine.  I have MSFT photo editor installed on my machine and use it instead of Adobe.  I read somewhere that Photoshop could make your PC unstable, so I stuck with the MSFT product.  I have no direct experience with Photoshop, but seemed like installing it was an unnecessary risk.
+
+In terms of ruggedness, this camera fits the bill.  I don�t even have the carrying case.  I am not very careful with my things. I figure of they break because I am too rough, they should have been built better.  The S-100 is well built.  I have dropped it a couple of times and it has not even scratched or dented.  Still works great.
+
+Overall, I am very happy with the camera and would recommend it to anyone with a couple of caveats.  First, you should be prepared to add more memory.  Second, it is intended for the casual photographer and is not versatile in terms of the choice of lenses.  Third, as with other point and shoot cameras, the S-100 does not do well with action photography.  However, if you want a camera that is rugged, small, and great for the quick picture, I would buy the S-100.
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

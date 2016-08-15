@@ -1,0 +1,34 @@
+DOC>
+<DOCID> 29684 </DOCID>
+<PRODUCT> Digital_Cameras/Aiptek_4_in_1_Pocket_DV_PKDV_Webcams </PRODUCT>
+<URL> http://www.epinions.com/content_79860895364 </URL>
+<TEXT>
+            <b>What You Get</b>
+
+At first glance in the box, you're quite impressed with the Pocket DV II by Aiptek.  The cam itself has a nice silvery look to it, and you get all the goodies and more:  Transfer cable for photo downloading to your computer, a video cable for viewing on a television, wrist strap, software, and even a mini tripod.  
+
+Upon picking up the Pocket DV, you immediately realize the build quality is pretty poor.  You should expect plastic at this price point (under $150) but upon inspection, the buttons, switches, and controls just feel a bit too "cheap" even for a device like this.
+
+<b>In Use</b>
+
+The Pocket DV II can take "video" at about 10 frames per second (camcorders average 30 frames per second, F.Y.I.).  So, it's a bit jerky, and "pixely" but it does record sound, so for web use, it's ok.  It is not however, going to replace a camcorder.  Still images are at 1.3 megapixels but the cam uses a "CMOS" sensor to take images unlike a "CCD" that most more expensive digital cameras use.. a CMOS is the same thing web cams use, so, the quality won't be as good as a CCD camera.
+
+You can flip the side panel out to reveal the tiny "color" LCD.  The video quality is VERY poor however, and faint.  It's hard to see anything through it, and though there's a glass optical viewfinder above it, looking through that only shows blurry images.  So, plan on squinting and using the LCD at all times.  The camera uses 2 AA batteries to power it, so plan on using several during a long day - the LCD eats up the battery power quite quickly.  If you insert a Compact Flash memory card, you can take video until the card is full, and basic sound is recorded as well.  If you do not have a memory card, the camera uses it's 8 megs of internal memory.  The sound recorded with the video is basic but you can understand what's being said or heard in playback.
+
+To take a still shot, you simply press a separate shutter button on top of the camera.  You hear no click or beep to confirm a photo has been taken, however. The LCD blanks out for 3-6 seconds while the image is stored.  You can adjust the quality of the still shots and their size, up to a maximum of 1280x1024 pixels.  Overall the image quality wasn't the worst I've ever seen out there, but it's not something you'll use to make many prints off of however.  The focus is fixed, but you can dial a ring around the lens to adjust for closeup (macro) shots, though I never got a clear image in this mode at the specified distance.  Shots from about 7  feet away were clearer no matter what the setting, than those closer than that distance.
+
+I did not try uploading images via the cable and software supplied, but instead used a memory card and card reader.  The memory card slides into the back of the camera.  When done, you use a "release" switch on the camera side to pop out the card.  This switch is stiff, and feels very cheap.  I do have to wonder how long it would last if used frequently.  The camera is powered by 2 AA batteries, and I did notice a trend for it to "freeze up" once the battery indicator reached half-full, instead of empty.  A glitch?
+
+<b>Opinion</b>
+
+The Pocket DV II is "neat" in some ways.  It does a lot of things, but none of them very well.  Still images are really not that bad, but though it record sound with video, the video quality was poorer than I have seen in most other digital cameras with a video clip mode.  I actually would still keep this unit regardless of the video and LCD screen quality being poor, however, the build quality is so bad I'm taking the unit back to the store while I still can, as I simply do not feel this will hold up under moderate use.  
+
+If you want someting super tiny, Aiptek does many a 1.3 megapixel pen cam that does have the same chip in it this one does, so the image quality is "ok".. it just feels sturdier, and costs less.  Your pick, but in this case, I don't pick the Pocket DV II.
+
+
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

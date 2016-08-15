@@ -1,0 +1,36 @@
+DOC>
+<DOCID> 31582 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_NikonCoolpixx-Nikon_Coolpix_800 </PRODUCT>
+<URL> http://www.epinions.com/content_33568427652 </URL>
+<TEXT>
+            Camera images are excellent, and it allows manual focusing, useful primarily in low light levels, when the automatic focus mechanism doesn't work as well due to the low contrast.
+2X optical zoom works quietly and does the job. Digital zoom is usually not all that useful, because image quality suffers from the camera throwing away a portion of the available pixels to "zoom" in.
+
+The flash is only usable within a short range unless the camera is put into the manual mode, and the ISO setting is bumped up. If you put in on ISO 400, the flash range effectively extends out across the room. Naturally, this does increase the noise of the image a bit, but it's acceptable, since the alternative would be the 'black cat in a coal bin' shot.
+
+The lens cap comes with an eyelet to enable you to attach a cord to it, tethering it to the camera so it doesn't get lost, as others had problems with.  The cord is not included, but it should be easy to find something suitable. I generally just remove the cap and let it drop when I'm ready to take pictures, and haven't lost it yet.
+
+It has the Nikon BSS feature, which is useful for handheld shots at low light levels; it really works- Generally for single shots, the motion of depressing the shutter introduces some camera shake; with the BSS, it'll continue taking shots while the shutter is held depressed (until the buffer is filled). Subsequent shots generally are steadier, because you can settle down into a fixed position. Surprisingly decent shots can be made at shutter speeds usually calling for a tripod.
+
+The macro is better than most, (except Nikon's own 99x series of cameras), going down to 2.8 inches, and works very well.
+
+The CF cover on the bottom is fragile feeling, relying on the flexing of the plastic as a hinge, but with reasonable care, shouldn't be a problem. It would have been nice if the designers realized the CF has a lip on the card on one side only, and put it on the side away from the hinge. The orientation selected forces you to open the lid a tad more than would have been necessary.
+
+The major shortcoming of this camera is the inability of the display to be panned around when zoomed in, on playback mode.  It can only zoom in on the direct center portion of the image.  I couldn't believe it when I found this wasn't possible, but that's how it is.  If you need to inspect the picture in any area other than the very center, you'll need to download it and view it on the computer.
+
+The lack of the USB is of no great import if you have a laptop; a PC Card adapter will let you simply remove the card from the camera and pop it into the adapter, where it shows up on the computer as another drive.  Transfer of all the images is virtually instantaneous, relative to serial and even USB.  If USB is all you have, card readers are available anyway, so the serial-port-only still shouldn't be any problem.
+
+Form factor of the camera is larger than ideal, especially with the latest crop of sub mini's coming out, but the ergonomics of the body and controls are very good.
+
+Some aspects of the menu item selections could be better, such as if it didn't go back out of the menu selection each time one item was selected, but it's generally easy to navigate.
+
+Camera could be more rugged, however; a hard bump to mine on a carpet disabled it, and prompted a test of Nikon's service center.  Service was prompt with the walk in center at Melville, NY, but it did require a return visit for a subsequent focus adjustment.  The case provided with the camera has relatively thin padding; it's more for dust protection than shock protection.  The relatively bulky size makes it hard to find a form fitting padded case.
+
+Conservative battery usage; if you were to turn off the lcd monitor and just use the optical viewfinder, you can pretty much leave it on all day. (but the lcd display is half the fun, giving valuable feedback on the image). 
+It should be noted that this is with NiMH batteries, NOT ALKALINES. As with ALL digicams, alkalines are essentially useless except for emergency cases. Any decent rechargeable battery lasts FAR FAR FAR longer than any alkaline- all those concerned with battery life on this camera should immediately go out and get a set of NiMH and a quick charger- your complaints will be solved right away...
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

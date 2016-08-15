@@ -1,0 +1,27 @@
+DOC>
+<DOCID> 18209 </DOCID>
+<PRODUCT> Digital_Cameras/Samsung_Digimax_330_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_107614277252 </URL>
+<TEXT>
+            It took Samsung awhile, but their lineup is slowly starting to mature in both size and capability.
+   
+The first-entry digital camera is Digimax 800K, not quite enough, and the more useful Digimax 220SE wasn't quite as successful. Now Samsung completes its line-up with the new Digimax 330, deciding, apparently, to make an affordable camera with a solid, if modest, range of options for the novice.
+  
+The new Digimax 330 has a 3.21 Megapixel CCD, manufactured by Sony. This will result in a resolution of 2048x1536 in large format, 1024x768 in Medium format and 640x480 pixels in Small format. Not bad for a beginner at all.
+
+The camera has a 3x optical zoom and a 2x digital zoom. The optical zoom is equiv. to 34-102mm in 35mm format. For image compression there's Super Fine (1/6) and Normal (1/25) compression. Again--solid, if modest.
+
+It is possible to focus automatically and manually with a minimal focus distance of 40cm in normal mode and 8 - 40cm in macro mode, supplying the fundamentals for adapting to various mediums while sacrificing the flexibility that an experienced professional will demand. Still, quite needed for a camera of this type given Samsung's previous lineup.
+    
+The ISO is fixed at 100 with a shutter speed range of 2 - 1/500 seconds, not bad at all. The burst rate of the Digimax 330 is 2 large size images, 6 medium size images or 12 small size images. The images are stored on a CompactFlash card; a 8MB comes with the camera. Something bigger could have been supplied, but it suffices when not on longer excursions.
+
+In terms of image quality, I noticed no grain on Superfine and very moderate grain on Normal, under all lighting conditions, which, for an entry-level camera, is very good. I also did not notice any real colour distortion, although reds did seem to be (very) slightly brighter than in actuality. Nonetheless, in most cases red, and all other colours were accurate and vivid.
+
+
+The Digimax 330 needs 4x AA batteries for power or can get its power from a 6V AC adaptor (my choice) which lasts for a surprisingly good period of time. (Also a good thing for a novice without complete, quick control of the camera).
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

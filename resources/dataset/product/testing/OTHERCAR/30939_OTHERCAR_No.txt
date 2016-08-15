@@ -1,0 +1,25 @@
+DOC>
+<DOCID> 30939 </DOCID>
+<PRODUCT> Digital_Cameras/SIPIX_SC_2300_Deluxe_Digital_Camera__Camera_D083Y0 </PRODUCT>
+<URL> http://www.epinions.com/content_85704740484 </URL>
+<TEXT>
+            For Christmas my Sis decided to purchase a digital camera for herself.  Knowing that I knew more about techs than she does, she asked me to search for a decent digital camera under $150.  I narrowed my search between Sipix&#146s SC-2300 and HP&#146s PS320.  Both had the same retail price of $150 with similar specs, except Sipix had a larger LCD (HP: 1.5, Sipix 1.8), double the memory to 16MB, and a slightly larger mega pixel by 0.1 (HP has a 2.0 mega pixel).  After comparing the specs I opted for the Sipix camera, so when I saw the camera being sold for 30 dollars less at Amazon for $129 (as of 12/19/02) I bought it.
+
+I surely thought I had made the right decision, but I was absolutely disappointed the first day I used it.  First of all the driver that came with the box did not work properly with Windows XP.  After being frustrated trying to figure out why it did not work properly with my Sis notebook, and after numerous attempts to reinstall the driver, I visited Sipix&#146s poorly-made website.  There, Sipix explained that there is a problem with the old driver running under WinXP, and said that downloading the new version would resolve it.  Windows XP has been out in the market since October 2001, so for Sipix to not have caught this major bug is absolutely appalling.  After I installed the driver the camera finally started to work with my notebook.  
+
+Another gripe I have about this camera is that the picture quality of the LCD is terrible.  The LCD is dark even in bright conditions.  It would have been better to have not included the LCD feature, not only is it useless it also drains the battery life significantly; so it&#146s wise to shut the LCD feature off.
+
+The camera came with 4 AA batteries that quickly died-out in less than two hours of use with LCD use. The camera does not include an electric cord to connect to the outlet, and because I did not have any 4 AA batteries around me I couldn&#146t use it until the next day when I bought a new set of battery.  Unless you want to keep on driving to the store for batteries every other day, I recommend you purchase 4 AA NiHM rechargeable batteries with recharger; that&#146s another $40.00 out from your wallet.
+
+Despite the measly battery life, bad driver, and dark LCD, it does produce acceptable pictures.  But after all these troubles even if the pictures were life-like, I wouldn&#146t recommend this camera.
+
+I don&#146t think HP&#146s PS320 digital camera would fair any better either.  Aside from having inferior spec, it&#146s also powered by 4 AA batteries and has an LCD, so expect to have the same problems. 
+
+If you&#146re in the market for a digital camera opt for one that includes rechargeable batteries and better Quality LCD.   Unfortunately these are pricier, so if your budget is limited it&#146s probably best to wait for prices to go down and for the technology to get better.  This is certainly not the right time for to purchase high-quality, low priced digital cameras at this time.
+
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

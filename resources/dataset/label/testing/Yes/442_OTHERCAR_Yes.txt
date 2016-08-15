@@ -1,0 +1,222 @@
+DOC>
+<DOCID> 442 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Panasonic_Lumix_DMC-LC33_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_118143749764 </URL>
+<TEXT>
+            Two years ago entry-level digicams were generally two megapixel units with relatively pedestrian features.  Competition and a continuous stream of technical advances have raised the bar substantially since then.  Entry-level digicams now usually provide 3 megapixel resolution, a generous feature set, and 3X zoom lenses.  There&#146s never been a better time to buy a digital camera because there is currently a real glut in the entry-level segment of the digital camera market.  Consumers benefit because competition and oversupply have driven 3 megapixel digicam prices down to about half what they were two years ago. 
+ 
+Panasonic was a bit slow jumping into the digital camera wars, but the company has waded into the fray ready for battle with the recent introduction of the 3 megapixel Lumix DMC-LC33.  What makes the LC33 competitive in a glutted market?  Panasonic&#146s user friendly new digicam features a zoom lens from optics legend Leica and a proprietary new high speed/high performance processor that unlike conventional LSI systems (which generate a luminance signal using only the green component of the image) uses all three color components (red, green, and blue) resulting in improved color and better resolution.
+  
+<i>NUTS & BOLTS</i> 
+
+<b>Optical Viewfinder/LCD</b> 
+
+The rear deck of the LC33 is actually rather Spartan (which is a refreshing change after the busy and often unintuitive back panels of many current digicams) with a clean and logical control layout.  The eyelevel optical viewfinder is a real image (zooming) Galilean (tunnel) type.  The LC33 does not provide any dioptric correction adjustment for eyeglasses wearers.  
+
+Directly below the optical viewfinder is a 1.5&#148 LCD screen.  The display is bright and color correct.  Images are fluid with good resolution and the brightness level can be adjusted via the setup menu.  
+
+<b>Lens</b>
+
+The DMC LC33&#146s greatest claim to fame may be its Leica f2.8-f4.9/35-105mm (35mm equivalent) DC Vario-Elmarit all-glass 3x optical zoom lens. Leica is justly famous for creating extraordinary optics.  The DMC LC33&#146s zoom incorporates 3 aspherical elements (for increased sharpness) and Leica&#146s famous multi-coating technology (for improved color transmission and reduced glare) for consistently exceptional optical performance.  The lens is not threaded for add-on auxiliary lenses or filters. 
+
+Distortion is very well controlled (especially for a camera in this price range) but very minor barrel distortion can be seen at the wide angle end of the zoom.  Pincushion distortion at the telephoto end of the zoom range is virtually non-existent. 
+
+Images are consistently sharp with excellent color.  Detail (even in shadow areas) is rendered clearly.  I didn&#146t notice any vignetting (dark corners) but there is some very minor chromatic aberration (purple fringing) in high contrast color transition areas. Noise levels are a bit higher than average (often the case with aggressive in-camera sharpening algorithms) but this is the fault of the processing system rather than the lens.  Image quality is more reliant on optics than any other factor and the DMC LC33&#146s Leica Vario-Elmarit zoom delivers consistently excellent images in a virtually all lighting conditions.
+  
+<b>Auto Focus</b>
+
+The Panasonic DMC LC33 is an auto everything point and shoot digicam with a basic TTL contrast detection auto focus system.  AF is accurate and very quick, which is good for beginners who don&#146t want to worry about fuzzy pictures, however more advanced users might feel constrained by not having any input.  This simple AF system is brilliantly integrated with the DMC LC33&#146s excellent Leica zoom and first-rate image processing system to produce rapid focusing, tack sharp images, and vibrant colors. Kudos to Panasonic.
+
+<b>Manual Focus</b>
+
+The Panasonic DMC LC33 operates in full time AF mode and provides no manual focus option.
+
+<b>Macro Focus</b>
+
+Minimum focusing distance (in macro mode) is 3.9 inches, close enough for bugs and flowers.  The DMC LC33&#146s Leica f2.8-f4.9/35-105mm (35mm equivalent) DC Vario-Elmarit will render absolutely stunning natural light macro and close-up images, however flash coverage at the minimum focusing distance (wide angle setting) is uneven (due to the off center positioning of the flash).  
+
+<b>Flash</b>
+
+The Panasonic DMC LC33&#146s built in multi mode (Auto, red-eye reduction, slow-synch w/red-eye reduction, Fill, and off) flash has a maximum effective range of 5-7 feet (due to the unit&#146s small size).  The puny flash may be the camera&#146s Achilles heel since amateur and casual photographers traditionally shoot lots of flash portraits.  To exacerbate the problem there&#146s no AF illumination beam to facilitate Auto Focus in low light situations (like bars, parties, and indoor settings).  Red eye appears to be fairly well controlled (due largely to the off center positioning of the flash) which sort of balances the limited range and low output power. Flash Recharge time is about 2-3 seconds.
+
+<b>Image Storage/Image File Format</b>
+
+The LC33 saves images to SD and MMC memory cards.  SD cards are the better choice (faster read/write times) and are currently available in sizes up to 512 MB.  Panasonic includes a 16MB SD starter card with the camera.
+
+Like most point and shoot digicams, the LC33 saves images in JPEG compressed format (Fine or Standard).  No uncompressed or loseless compression format is provided.
+
+<b>Connectivity</b>
+
+Camera to computer transfers are handled through a USB (1.1) connection.  In addition the DMC LC33 features an A/V out connection so that images may be viewed on a TV.  The A/V out signal can be set to NTSC or PAL via the Setup menu making slide shows a snap no matter where users live.  The DMC LC33 also features a DC-IN jack allowing the optional Panasonic AC-DC adapter (DMW-AC1) to be used.
+  
+<b>Power</b>
+
+The Panasonic DMC LC33 is powered by two standard AA batteries.  Purchasers should factor in the cost of at least two (four is better) 1850-2000 mah NiMH rechargeable batteries and a charger.  During my tests the DMC LC33 was good for about 75-80 minutes (about 150 exposures) in heavy use (full time LCD and moderate flash use) with a fully charged pair of 1850 NiMH batteries.
+
+<i>EXPOSURE</i>
+
+The Panasonic DMC LC33 is an auto exposure only camera with very limited user input.  In Normal (program) mode users can set sensitivity, white balance, metering, color effects, Picture Effects, scene modes (Portrait, Landscape, Night), exposure compensation, auto bracketing, and continuous shooting mode which functions as a de facto sports scene mode and permits the camera to capture five images in 1.4 seconds (at the highest quality setting). This feature is great for parents who want to document their child&#146s first steps or their son&#146s/daughter&#146s decisive play during youth soccer games. 
+ 
+Simple mode --- the LC33 does it all---(user&#146s can adjust white balance and select image size, quality setting, and spot metering mode) just point the camera, compose the image, and push the shutter button. 
+
+Macro Mode --- Close focusing to 3.9 inches.  The LC33 does an exceptionally good job (due in large part to the superb Leica lens) in macro mode, especially in natural light close ups.  Images are sharp as a tack with good dynamic range, excellent color, accurate contrast, and very good shadow detail. 
+  
+Movie Mode --- the LC33&#146s movie mode allows users to record short video clips at 320x240 @ 10 fps with audio (there is no audio during camera playback because the LC33 doesn&#146t have an on board speaker).  The only limitation on video clip length is the capacity of the installed SD/MMC card. 
+  
+Audio Notations --- The LC33 permits users to record short (10 seconds) audio notes to accompany still images.
+
+Manual Mode---The Panasonic DMC LC33 has no manual exposure capabilities.
+
+<b>Metering</b>
+
+The Panasonic DMC LC33&#146s default evaluative metering system is quite accurate and renders consistently well exposed images in a broad range of lighting conditions.  The LC33 also provides a spot metering option (for more precise exposure control) as a menu option.
+
+<i>CONTROLS, DESIGN, & ERGONOMICS</i>
+
+The Panasonic DMC LC33 is an attractive silver camera with a slate gray grip and a classic traditional look that hints broadly that more than the lens may have come from Leica.  In this case looks are not deceiving, Panasonic and Leica have a symbiotic relationship with Leica bringing eight decades of camera building experience and world-class optical excellence to the table and Panasonic matching that offering with almost fifty years of experience in the development, manufacture, and distribution of consumer electronics.  The end result of this unique partnership is a series of digital cameras designed by the best engineers from both companies featuring Leica optics and Panasonic image capture, image processing, and AF systems.
+  
+The Panasonic DMC LC33&#146s minimal control layout is reminiscent of Leica&#146s famous 35mm rangefinder cameras, operation is simple and intuitive. The camera is comfortable to handle with all controls logically placed and easily accessed.  Most users won&#146t even need to check the manual before using the camera.  Menus are simple, straightforward, and easy to navigate.
+  
+The camera is small enough to drop in a large pocket or small purse. The built-in grip is useful and improves handling and stability when shooting. The LC33 feels well built and the polycarbonate body should be tough enough for everything except extreme sports and travel in hostile climates.
+  
+<b>Technical Specifications</b> 
+
+Resolution: 3 megapixels (2048x1536)
+Viewfinders: True image zooming Optical and 1.5&#148 TFT Color LCD
+Lens: Leica f2.8-f4.9/35-105mm (35mm equivalent) DC Vario-Elmarit (7 elements in 6 groups including 3 aspherical elements) zoom lens. 
+Lens Thread: No
+Exposure: Automatic
+Exposure Compensation: Yes -- +2/-2 EV in 1/3 EV increments
+AE Bracketing: Yes -- 1/3 EV to 1 EV increments for 3 images 
+Auto Focus: Contrast detection (wide area AF or selectable spot AF)
+Metering: Evaluative (default) and spot
+Flash: Built-in multi-mode -- Auto, Red Eye Reduction, Slow Synch w/Red Eye Reduction,  Forced (fill), Off  
+Shutter Speeds: 1/8th of a second (in Program mode) 8 seconds (in the Night Portrait Scene mode)) to 1/2000th of a second.
+White Balance: TTL Auto, Daylight, Cloudy, Halogen, & White Set (custom) modes
+Sensitivity: Auto, 50, 100, 200, 400 ISO (35mm equivalent)
+In Camera Image Adjustment: Yes color saturation (Natural, Standard, Vivid) 
+ and color effects (Cool, Warm, Black & White) 
+Image Storage Media: SD & MMC cards
+Image file format: JPEG
+Connectivity: USB 1.1 & AV out
+Power: 2 AA batteries 
+
+Street Price Range $229.00---- $269.00
+ 
+<b>Included</b>
+
+16MB Secure Digital card, 2 AA alkaline batteries, Wrist strap, USB/AV cables, Software CD-ROM, 103 page (printed) manual.
+
+<b>In the Field/Handling & Operation</b>
+
+My friend (who sells new and used digital and film cameras) has been trying to test as many newly introduced digital cameras (more than half of all digital cameras sold every year are purchased during the four months between Labor Day and the end of January) as possible and that has made life very hectic for him.  I have been spending an inordinate amount of my free time helping him.  My friend brought the snazzy little Panasonic Lumix DMC LC33 by to show me recently and I was quite impressed.  The LC33 has the same &#147retro&#148 classic minimalist good looks that have made Leica rangefinders instantly identifiable for the last eighty years. 
+
+The first thing we did was to run some color tests (we shot colorful children&#146s plastic beach toys against a white background). The Panasonic Lumix DMC LC33 has excellent (and accurate) color balance.   We are deep into autumn here in Kentucky but we&#146ve never actually gotten our fall leaf color peak this year. We have dozens of varieties of hardwood trees (Kentucky is the northern most extension of the ancient southern forests and the southern most extension of the northern forests that flowed south after the glaciers melted) but we didn&#146t get the expansive displays that often draw leaf peepers from all over the lower mid west and upper south.  We did get small pockets of nice color and lots of individual trees with spectacular color displays.
+ 
+Our first outing with the LC33 was a Saturday afternoon trip to Cave Hill Cemetery.  The weather was absolutely beautiful (mid seventies, blue skies, and puffy white clouds) as we drove through Louisville&#146s oldest graveyard.  The grounds are abundantly planted with ancient trees, seasonal flowers, and decorative bushes.  There&#146s a small lake with hundreds of geese and ducks in residence year round.  There are also thousands of 19th century native limestone grave markers and dozens of grandiose mausoleums so there is always something to photograph. 
+
+We spent about an hour photographing folks feeding the ducks and geese and got several interesting interactions between small children and the hungry waterfowl.  Children feeding ducks/geese/swans are virtually guaranteed to provide a couple of excellent (if clich�d) images and the LC33 is perfect for shooting kids---it&#146s quick enough to capture the action and small enough to be unobtrusive.
+
+After we finished up at Cave Hill we headed for Cherokee Park and followed the scenic loop (which winds through a couple miles of steep hillsides covered with old growth trees on both sides of Beargrass Creek).  The area along the creek was packed with runners, bikers, and dog walkers.  It looked like everyone was out to enjoy the beautiful fall weather.  We spent about an hour just circling around and stopping whenever anything interesting caught our attention. 
+
+The LC33 is fantastic in good light and does a great job of rendering virtually any outdoor scene beautifully.  We shot people having fun, dogs having fun, and a couple of striking old trees in full fall color before the light started to fade and we called it a day. 
+
+We got together the next morning (a cool and overcast Sunday) and headed for nearby Seneca Park to shoot one of my favorite nature subjects, a very small waterfall on Beargrass Creek at the edge of the golf course.  One of the secrets of famous landscape photographers is to choose a couple interesting local subjects and shoot them year-round under every sort of lighting and in every kind of weather. 
+
+We&#146ve had some rain over the past couple of weeks so my little waterfall was looking pretty good and under the overcast sky (there&#146s less glare in overcast weather)  colors were intensified.  The creek widens out into a small pool just behind the falls (which is only about three feet high) and huge old trees surround the area.  Our timing was perfect and all the trees were in full fall color.  I set up a small Slik Sport 444 tripod and mounted the LC33 just below the base of the falls and spent about half an hour shooting the water tumbling over the rocks, branches, and piles of fallen leaves at the base of the falls. 
+
+The Panasonic Lumix DMC LC33 is an auto exposure camera so I didn&#146t have the option of setting a slow shutter speed to feather the water and a small lens aperture to pull in the bottom branches of the old trees covered with yellow and orange leaves drooping almost to the waters surface. I tried everything I could think of to trick the camera&#146s exposure system into giving me the settings I wanted, but I finally had to give up in defeat and frustration.  
+
+We got together again the following Saturday and drove across the river to the Falls of the Ohio State Park in Clarksville, Indiana. The Park is the only place where you can actually see the 380 million-year-old Devonian fossil beds (the remains of an ancient reef) that used to impede navigation on the Ohio River.  It was necessary to pull boats out of the river above the falls and &#147portage&#148 them (and their cargoes) to a site below the falls where they could be put back into the water.  
+
+Revolutionary War hero General George Rogers Clark built a fort on a small island to protect Kentucky (then a county in Virginia) and control river traffic at the falls. That primitive little fort eventually became the city of Louisville.  The expedition to explore the Louisiana Purchase commenced its journey to the Pacific from the Falls of the Ohio River.  Neither of us had been to the Falls since earlier this summer so we wandered around for a couple of hours taking photos of fossil fans, kids, dogs, hikers, and even a couple of fishermen.  We got some nice shots of the Louisville skyline from the Indiana side of the river.
+
+After we finished up at the Falls of the Ohio we headed back across the river toward Iroquois Park in Louisville&#146s south end.  The park covers a large heavily forested hill and once you are inside the park, it is hard to believe that you are completely surrounded by a large metropolitan area; it actually feels more like you are out in the country. There&#146s a small meadow at the top of the hill that is home to native Kentucky plants, wildflowers, prairie grasses, and old growth trees.  We spent a couple of hours shooting small tight &#147nature&#148 compositions and close-ups in the meadow.  When it started to drizzle we packed everything up and called it a day.
+
+Even complete beginners should be able to shoot beautiful and creative pictures with the LC33.  Colors are well saturated (but not garish) and resolution is sharp with consistently good shadow detail.  Gorgeous enlargements (up to 8X10) are easy.  We printed two 8X10 enlargements (with an HP 1215 and Kodak photo paper) and both were bright and sharp with very good color and excellent detail, even in shadow areas.  The Panasonic Lumix DMC LC33&#146s capabilities are impressive, especially for a bargain priced digital camera.  Colors looked consistently natural and skin tones (based on outdoor shots in Cherokee Park) were excellent. 
+
+<i>PERFORMANCE</i>
+
+<b>Timing/Shutter Lag</b>
+
+The Panasonic Lumix DMC LC33 is a very quick digital camera, due in large part to the new high speed/high performance Venus Engine LSI processor.  Start up time (the boot-up cycle) is about 4 seconds.  AF lag is very short---focus is quick and accurate in good light but the camera does &#147hunt&#148 a bit in lower light situations.  Pre-focusing will speed capture time, especially in low light.
+
+Shutter lag is virtually non-existent due to the high speed Venus Engine LSI processor, especially with pre-focusing.  Shot to shot time is relatively quick (1- 2 seconds) as well because of the LC33&#146s large buffer.  The LC33&#146s continuous shooting mode, which permits the camera to capture five images in 1.4 seconds (at the highest quality setting)is a great feature in situations where it is important to stay on top of rapidly unfolding action.  
+
+<b>Image Quality</b>
+
+Image quality should be the single most important consideration for digital camera shoppers, and in this arena the Panasonic DMC LC33 delivers the goods.  The LC33&#146s Leica lens produces images that are consistently excellent, very impressive for a camera designed for beginning and casual photographers.   Colors are accurate but a tiny bit more vivid than average, which will appeal to the LC33&#146s target audience.   The LC33's images, based on our admittedly small sampling, seem to print very well.
+ 
+The Picture Adjustment and Color Effects settings allow more advanced photographers to fine tune exposures to get just the &#147look&#148 they want, but be advised that the Color Effects cool setting pulls images too far toward blue and (in my opinion) will be useful only for shooting moody fog pictures).  The warm setting is much more useful and will compliment sunrise/sunset images or perk up dull images shot on cloudy or overcast days. I really liked the Picture Effects &#147Natural&#148 setting, which slightly softens contrast and slightly decreases color saturation which makes for excellent portraits and environmental portraits.  The Picture Effects &#147Vivid&#148 setting enhances both color and contrast which is great for shooting landscapes and travel/architecture images.
+
+<b>A Few Concerns</b>
+
+My primary complaints against the Panasonic DMC LC33 are the weak flash and higher than average noise level in ISO 200/400 images. Overall, I really liked the LC33.
+
+<b>Who is the Panasonic DMC LC33 best suited for?</b> 
+
+The LC33 is perfect for amateur/beginner/casual photographers who are style conscious and want a camera that will take stunning pictures with virtually no effort required of the  person behind the camera.  The LC 33 is also a natural choice for traditional film photographers who want a carry along P&S digital, for travelers, and for parents who want a responsive user friendly family camera (as long as flash capability is not a major concern) 
+ 
+<b>Conclusion</b>
+
+So, how well does Panasonic&#146s little LC33 stack up against the competition?  It&#146s an almost perfect choice as a first digital camera.  Snapshooters, weight conscious travelers, and family photographers want an easy to use digital camera that will consistently deliver excellent images even if the person behind the camera knows virtually nothing about photographic technique.  The LC33&#146s Simple Mode makes it possible for absolute beginners to shoot stunning 3 megapixel digital images right out of the box.  Add Scene modes, Color Effects, Picture Adjustments, user selectable ISO sensitivity settings, and high-speed Mega Burst mode and you have a camera with just enough versatility to allow creativity without all the &#147gee whiz&#148 complexity that often causes intimidation in tyros and non-techies------and at a street price that&#146s well under $300.  Consumers who want a digital camera with lots of manual exposure options, add on accessories, and the capability to adapt to the user as his/her imaging skills grow will probably be happier with Canon&#146s superb Powershot A70.
+  
+<b>Links</b>
+
+Check out my review of a tough, bargain priced, and very capable photo quality ink-jet printer. 
+
+Epson Stylus Photo 785 EPX ink-jet printer 
+<a href="/content_60776812164">http://www.epinions.com/content_60776812164</a> 
+
+For definitive advice on How to Choose a Digital Camera please see my review: 
+<a href="/elec-review-2E46-17B174E2-39A418E3-prod1">http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+For more information about other three megapixel Digital Cameras you may find the list below informative: 
+
+<b>Nikon Digital Cameras</b>
+
+Nikon Coolpix 3100
+<a href="/content_108112285316">http://www.epinions.com/content_108112285316</a> 
+
+Nikon Coolpix 3500
+<a href="/content_88242491012">http://www.epinions.com/content_88242491012</a>
+
+
+<b>Canon Digital Cameras</b> 
+
+Canon Powershot A70
+<a href="/content_99985034884">http://www.epinions.com/content_99985034884</a>
+
+Canon Powershot SD100
+<a href="/content_114288463492">http://www.epinions.com/content_114288463492</a>
+
+Canon Powershot S230
+<a href="/content_78900203140">http://www.epinions.com/content_78900203140</a>
+ 
+ <b>Olympus Digital Cameras</b>
+
+Olympus Camedia C740
+<a href="/content_111133363844">http://www.epinions.com/content_111133363844</a>
+
+Olympus Camedia D560Z
+<a href="/content_108798971524">http://www.epinions.com/content_108798971524</a>
+
+<b>Minolta Digital Cameras</b>
+
+Minolta Dimage Xt
+<a href="/content_106698870404">http://www.epinions.com/content_106698870404</a> 
+
+<b>Pentax Digital Cameras</b>
+
+Pentax Optio S
+<a href="/content_102275059332">http://www.epinions.com/content_102275059332</a> 
+
+
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

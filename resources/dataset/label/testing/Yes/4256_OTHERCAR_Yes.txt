@@ -1,0 +1,29 @@
+DOC>
+<DOCID> 4256 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1998_BMW_318 </PRODUCT>
+<URL> http://www.epinions.com/auto-review-793A-9A7EEA-3907F108-prod5 </URL>
+<TEXT>
+            After trashing my old Honda Civic for 10 years, I decided
+to get another hatchback to replace my old one.  I kinda
+stumbled on the BMW 318ti by accident, after having looked
+at Honda, Acura, VW golf, etc.  This is an amazing car.
+It has plenty of power, the rear seats have good leg room,
+the stereo/cd changer is awesome, and it's fun to drive.
+Rear-wheel drive is great on the dry roads, probably not
+a lot of fun in the snow.?
+
+It amazes me how well BMW pays attention to the details,
+the tiniest things show up even after two years of owning it,
+like how the lights dim ~10 seconds after taking the key out,
+or how you can roll the windows up after taking the key out
+but before opening the door.  Good gas mileage, good service
+at the place I got it (Allison BMW, Mountain View, CA).
+This is a well-built car that will last a long time if you
+take care of it.
+<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

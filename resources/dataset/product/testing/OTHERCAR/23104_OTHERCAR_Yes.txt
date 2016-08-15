@@ -1,0 +1,19 @@
+DOC>
+<DOCID> 23104 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_PolaroidPDCC-Polaroid_PhotoMax_PDC-640 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-153B-2EF1EA0-385DE10C-prod1 </URL>
+<TEXT>
+            We originally bought the Polaroid PDC 640 for work.  We already had a Ricoh RDC 4200 and needed another camera.  While it has a resolution of only 640x480, compared to the Ricoh's megapixel resolution, it quickly became the office favorite.  We liked the fact that we had an actual viewfinder to look through to center each shot.  In bright sunlight it is nearly impossible to see the screens on cameras equipped with only a LCD screen.  The camera felt very natural in the hand and was easy to use.  The buttons were easy to use fairly intuitive.
+
+An often overlooked problem of digital cameras is battery life.  Our Ricoh devours alkaline batteries.  We were pleasantly surprised to find the Polaroid had a very long battery life compared to the Ricoh.  This is important whether taking pictures for business or out for the weekend with the family.
+
+The Photomax software that is included acts as a driver and photo editor.  We were a bit disappointed with Polaroid that we could not just load a driver and use or existing photo editor (thus saving some serious disk space).  Another consideration is that the Photomax software only works on Windows 95/98 machines and will not work on Windows NT (which may eliminate it from some businesses with networks).
+
+For serious photographers the low 640x480 resolution will most likely prove a disappointment.  For the business user or homeowner who wants an easy to use camera that is ready at a moments notice I would highly recommend the PDC 640
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

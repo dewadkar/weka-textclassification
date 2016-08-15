@@ -1,0 +1,60 @@
+DOC>
+<DOCID> 211 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_Powershot_G1 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-1A7-2F6027B2-3A5271E6-prod2 </URL>
+<TEXT>
+            As of early 2001, the G1 is the best sub-$1000 (actually the best sub-$2000 also) digital camera on the market.
+
+Why ? Some reasons:
+
+1. Battery---digital cameras of today are power hungry. However many
+cameras either have a small battery (presumably to save weight and cost),
+or are not supplied with rechargeable batteries (you need to use rechargeables). The G1 comes with a good sized LiIon battery which is also
+used by some Canon camcorders, so it is fairly inexpensive and you 
+can get 3rd party replacements from the likes of www.batterybarn.com.
+
+2. IBM microdrive support. If you need to shoot more than a few tens of
+pictures in one session (I took 109 on christmas day), a microdrive is
+the practical storage option. Nikon cameras do not support the microdrive.
+
+3. RAW file format. While the low compression JPEG files the camera
+produces are fine for snapshots, for serious work where you will edit
+the image on computer, some kind of raw image format is a must.
+Canon use a proprietary lossless compression scheme to achieve a sub-3Mb
+raw file size---not much larger than the superfine jpeg files.
+Other vendors produce TIFF files which are much, much larger (and hence
+use valuable CF storage space and take longer to download).
+
+4. Hot shoe for flash. The G1 supports Canon's excellent EX flashes,
+with all the features. Significantly better than the competition.
+I have the 420EX---simply amazing compared to on-camera flashes, and
+with digital you get to see the picture you took with flash---not 
+possible with film so flash flexibility is even more important here.
+
+5. The Lens has a maximum aperture of f2.0 --- the largest of
+any camera in this class. There are other cameras using the same
+lens (Sony and Epson, I believe), but those have other shortcomings.
+The larger aperture is useful for low light shots and to reduce the
+depth of field for portraits. 
+
+6. 50 ISO speed. I don't know of another digital camera in this class
+which has a 50 speed. Great for low noise pictures, and also to allow
+wider apertures to be used in bright conditions.
+
+Cons, not many: the optical viewfinder is rather lame, but I find myself
+composing with the LCD and eyeballing the scene directly rather than
+using the viewfinder. The software is a little clunky (it takes rather
+too long to convert RAW to TIFF, for example). Hopefully the software will
+improve in time since it is also used for the high-end Canon D30.
+Due to the shutter/iris design, the camera stops down to f8 if
+a shutter speed higher than 1/320 is used. I thought this might be 
+inconvenient for brightly lit portrait shots, but haven't yet seen 
+this happen in the field.
+
+<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

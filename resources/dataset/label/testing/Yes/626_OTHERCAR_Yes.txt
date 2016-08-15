@@ -1,0 +1,46 @@
+DOC>
+<DOCID> 626 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_NikonCoolpixx-Nikon_Coolpix_950 </PRODUCT>
+<URL> http://www.epinions.com/content_22985281156 </URL>
+<TEXT>
+            The <b>Nikon</b> CoolPix 950 is a superb camera for its target audience which is those wanting features similar to a SLR camera but want the portability of the digital format.
+
+I purchased my 950 back on July of '00 so I have had ample time to experience its ups and downs, and unlike most reviews I am going to start with the negatives :
+
+<b> Serial connection </b>
+I do not know what Nikon was thinking, when this camera was under development USB was already out and picking up popularity but never the less they went with a serial interface which to me is the biggest drawback of the camera virtually forcing you to buy an addon usb card reader.  With a 32mb flash card full of photos it took me 37 minutes to download to my PC, completely unacceptable.
+
+<b> Software </b>
+Nikon again defies explanation with some of the most horid interface software on the market, the camera is just so good you think they would have spared some money for software engineers, their interface looks, feels, and responds like a win 95 app written 5 years ago.  There is no real convient way to mass view or categorize your pictures, and all to often even after "downloading" your photos you will find you have accidently wiped the buffer clean and need to go eat another meal while it redownloads your pictures.
+
+Another comment of note on this topic is Nikons lack of true Twain compliant drivers.  This causes problems with things like Adobe Activeshare and other apps.
+
+<b> Price point </b>
+
+Its current price of ~ $550 is pretty good, but it is already aging in terms of technology.
+
+<B><i> The good stuff </b></i>
+
+<b> Form Factor </b>
+Bottom line this camera is pleant to hold, the buttons are laid out well, and it is easy to shoot all day with unlike many of the flat rectangular cameras that are very difficult for those with large hands to use.
+
+<b> Picture Quality </b>
+
+The picture quality is absolutely superb.  The colors are very vivid, and the overall pictures are incrediably sharp.  Pictures taken in HQ fine mode you will be able to pick out the finest detail many that you wouldn't even have seen with the naked eye.
+
+<b> Zoom </b>
+
+Not a whole lot to say on this other then it is above average, functions well and does not distort the photos.
+
+<b> Features </b>
+
+Aww the meat of the camera.  This camera has so many multi-shot photo options that you will likely never use them all.  "Best shot" mode is super for those with a jittery hand, for a description of the other modes check out Nikons site they all work as advertised.
+
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

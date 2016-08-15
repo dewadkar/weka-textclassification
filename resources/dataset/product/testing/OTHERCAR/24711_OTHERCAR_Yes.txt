@@ -1,0 +1,24 @@
+DOC>
+<DOCID> 24711 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Sony_DSC-S70 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-11BD-10E036B5-393E676C-prod1 </URL>
+<TEXT>
+            If you've been thinking consumer-grade digital cameras weren't quite up to your standards or good enough for producing fairly large prints on your color inkjet, well, you've been right. However, Sony has just released a new digital camera that will probably impress as well as amaze you. Named the DSC-S70 (ok, it sounds like a Volvo), this little wonder packs amazing power. With a top resolution of 2048x1536, the S70 captures 3.3 million pixels. Of course, you might not want to capture at that rate very often. Those are very large images. I tend to shoot everything at 1280x960 and the images produced by the S70 are sharp and vivid. In fact, I also have a Mavica FD-91. But with only a 1024x768 maximum resolution I found myself quickly hitting the wall in terms of image quality. The S70 only has 6X zoom (3X optically with the rest provided digitally) compared to the FD-91's 14X, but the lens on the newer S70 is a Zeiss. If you've been around photography for a while you'll recognize the name. Carl Zeiss is world famous for high quality microscope and camera lenses. And the results of pairing a superior lens with a camera capable of capturing higher resolution images is startling.
+
+Some of the other great features of the S70 include features found in other Sony digital cameras including the ability to capture short MPEG movies and annotate stills with sound. The new S70 UI (yes, digital cameras actually have a user interface!), is really quite good and definitely an improvement over the Mavica series. It's very easy to setup and control. The color LCD panel on the back of the S70 is bright and crisp.
+
+One of the features I like best about the S70 is its use of memory sticks. Now I've long been a fan of the Mavica's floppy-based storage, but there's no questioning the value of a memory stick solution: greater storage and faster access. The S70 comes with a single 8MB stick. I bought an extra 32MB stick and use that day-to-day. You might be wondering how you'll get your images and movies from the S70 into your computer. There are a few options. Sony now makes a floppy adaptor that lets you insert a memory stick into a holder and read them through your PCs floppy drives. They also have a USB memory stick reader that attaches to your computer. What's better than both of those, though, is that the S70 has a USB interface built-in, and comes with a USB cable. So, using drivers supplied with your camera, you can attach the S70 directly to your PC and see the S70's memory stick as a removable drive in Explorer under Windows 95/98 (I didn't test to see if it worked with Windows 2000). That's right - you see the memory stick as part of your file system. Copy files over to your PC simply by dragging and dropping. Delete files on the camera like you would any other file. Unplug the camera when done and the file system disappears. It's a very elegant solution that works as well as it sounds.
+
+The S70 has great resolution, is easy to use and interfaces well with PCs. Charging the battery is done &quot;in the camera&quot; by attaching the supplied charging cube to the camera. If you've been thinking digital cameras weren't of sufficient quality to merit attention it's time you re-explore the latest crop of 3.3 megapixel products. Sony isn't the only vendor to offer products in this space, but the S70 appears to be a great product at a fair price. I picked mine up for $749 at Good Guys in LA. I think the real price is $799, but the store had a $50 off promotion. The extra 32MB memory stick cost me $79. I'm planning a trip to Italy in a few weeks and will pick up a 64MB or large stick before I go.
+
+Here are some samples to view:
+
+http://www.arta.com/photos/misc/carrot_cake.jpg
+
+http://www.arta.com/photos/misc/sam.jpg<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

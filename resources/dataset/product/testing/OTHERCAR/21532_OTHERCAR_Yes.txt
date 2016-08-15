@@ -1,0 +1,83 @@
+DOC>
+<DOCID> 21532 </DOCID>
+<PRODUCT> Digital_Cameras/Canon_Powershot_S200_Digital_Zoom_Camera__Camera_7646A001 </PRODUCT>
+<URL> http://www.epinions.com/content_105308589700 </URL>
+<TEXT>
+            I bought this camera because of its small size, relatively low price, and good reviews from other Epinions.com members.
+
+<b> Specifications: </b>
+
+Res: Up to 2 Megapixels, three settings for size and compression
+Zoom: 2X optical, 5x total.
+LCD screen: 1.5 inch
+Video capture and review mode
+Transfer: USB
+Digital A/V out
+Included battery, charger, and 8MB CF card.
+
+<b> Included: </b>
+
+Powershot S200 Digital Elph Camera
+Hand-strap
+8 MB CompactFlash card and case
+NB-1LH Li-ion rechargeable battery and AC wall outlet charger
+USB cable
+A/V cable 
+Extensive manuals in both English and Spanish
+Quick start poster and item tree
+CD-ROM including:
+ZoomBroswer EX 3.3
+PhotoRecord 1.4.2
+Photostitch 3.1
+RemoteCapture 2.4
+RAW IMage Converter 2.0
+Camera TWAIN Driver 4.3
+Camera WIA Driver 4.3
+CP-10 Printer Driver 1.0
+ArcSoft Camera Suite 1.1
+
+<b> Taking Pictures </b>
+
+The S200 is designed to be a point-and-shoot automatic camera, although there is a manual exposure option. The method for taking pictures is extremely simple. One can use the viewfinder or the LCD screen to frame the picture. Then, hold the shutter release button halfway down and the camera will auto-focus and determine if the flash is needed. The camera will notify you by using a light when it is ready. The entire focusing procedure typically takes about 1-2 seconds. After that, click the button all the way down and the picture will be taken. So far, I have received nothing but superbly focused pictures. If you choose to use the digital zoom, picture quality will decrease slightly. Also, you have to use the LCD as a viewfinder if you decide to use digital zoom. Thankfully, the process for switching the LCD on and off is very simple. 
+The process for taking videos is equally simple: Click once down to start the movie, and click again to end the movie. Movies must be taken with the LCD on; it will tell you how long the movie you are taking is. 
+<b>**UPDATE** </b> 
+Much to my surprise, I just found out that the camera DOES support audio capture during movie mode 
+
+<b> Picture Quality </b>
+
+The quality of the pictures taken with this camera are excellent. While they don&#146t quite compare to professional cameras, it is much better than the quality that can be achieved by cameras in the same price range, or even slightly higher. The maximum resolution allows for 1600x1200 jpeg pictures. Medium will make it 1024x768 (about desktop size for 17&#148 monitors) and small will make it 640x480, or slightly lower than broadcast TV quality. The color fidelity is also excellent, a trait common in all Canon digital cameras. Colors looked more realistic on this camera than pictures taken with some more expensive cameras. 
+
+<b> The Camera </b>
+
+The camera is about the size of a deck of cards. It&#146s solidly built, made with stainless steel. I&#146ve subjected it to quite a bit of beating, yet, no dents or scratches have shown yet. The on/off switch is a small button on top of the camera. You have to hold the button for a few switches to turn it on. This prevents the camera from accidentally being switched on by, for instance, other objects in your bag. However, it will turn off the moment it is pressed. The shutter release button is also on top and is circumscribed by the zoom control. On one side of the camera is the USB / A/V out port, and on the other is the slot for the CompactFlash card. There is also a mount for an included handstrap. On the back, there is a switch for changing between the Capture/Video/Review modes. There are also four buttons for navigation and manual control, and menu and display buttons. Finally, on the bottom is the slot for the battery and a mount for a tripod.
+
+<b> What I Liked </b>
+
+The camera is extremely compact. I&#146ve had no trouble at all fitting it rather discreetly into pants or shirt pockets. I find that the dimensions are also much more practical for pocket fitting than a longer or thicker camera may be.
+The camera worked extremely well for me as a on-the-go point and shoot camera. I can, literally, whip it out of my pocket and take a picture within five seconds, as there is no warm-up process or long wait for it to fire up. The camera did a good job of focusing in such a short time.
+Unlike some other cameras I&#146ve worked with, this writes and reads to the CF card very quickly. One doesn&#146t have to wait long between shots, even if its at the highest resolution. This also comes in handy for the review mode, as there is very little lag between pictures.
+The LCD, which is about standard size for compact cameras, provided decent detail and vibrant colors, although a bit too bright on the whites. 
+The USB connection to the computer is plenty fast. Generally, one wouldn&#146t benefit much from a USB 2.0 connection anyway unless you were working with payloads larger than 100 MB.
+
+<b> What I Disliked </b>
+
+The included 8 MB CF card is a bit small. On medium resolution and compression, One can fit about as many pictures as one could on a roll of film. However, if you up the resolution, don&#146t even think about taking more than a dozen pictures before transferring to the computer. When I bought my camera, Amazon.com had a special offer free 64 MB CF card. I recommend buying at least an additional 64 MB card, 128 MB if you go on a long trip and plan on taking many pictures.
+The battery life is rather short, although Canon the battery that is shipped with this camera is slightly better than ones from previous Canon models. The battery started to ware down after about � of a day of constant on/off picture taking and review. Canon uses a special battery for this camera to save space which you cannot buy at normal stores. I recommend buying an additional one if you plan on going on a long trip. Charging though, is a relatively quick process: about 2 hours using the included charger. Its extremely puzzling to me why they made the charger the EXACT same size as the camera. If anyone knows, please feel encouraged to share that information with me.  
+The CompactFlash card ejector is a bit overzealous. The first time I pushed the eject button, I shot the card a good 4 feet across my desk. 
+
+<i> Addendum 9/20/03</i>
+
+After using this camera for two months, I have found a few more minor quibbles, and some things just make me smile. Lets get to the bad news first.
+-The viewfinder does not line up the pictures exactly right. Although not as bad as some cameras which take pictures of people's feet, this tends to take a wider picture then you frame in the viewfinder, with much of the addition towards the bottom. After moderate use, I got use to zooming slightly in if I wanted to cut certain elements out of the edge of the picture. Another easy fix would be to use the LCD viewfinder.
+-Occasionally, I would have problems connecting the camera to the computer, and had to disconnect/reconnect one, two, three....more times.
+-The amount that the flash does to help the picture variates. It isn't a particularly strong flash, a characteristic shared by most cameras of this size. In mixed / dim lighting, the flash really cleaned up the picture compared to when I turned it off. However, in darker settings, the flash casted a very noticible intensity onto the picture, resulting in the subject of the picture being pretty washed out. Taking a picture more than two meters away in twilight is out of the question.
+
+Now for the "good stuff". Usually, I find what I like in a product long before I find the problems. So although I have not much to say here, this still is a great camera
+-The extremely short boot up time on this camera is incredibly useful. In three seconds, I can whip this baby out of my pocket, have it on, and snap a quick picture. For compact cameras, this is key.
+-Unfortunatly, I have dropped this camera a few times. I was shocked to see that it worked completly fine after the fall (but please don't try with your own). And even better, there was no dents or scratches on the sleek enclosure. Sweeeet.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

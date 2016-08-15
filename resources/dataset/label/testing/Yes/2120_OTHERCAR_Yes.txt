@@ -1,0 +1,37 @@
+DOC>
+<DOCID> 2120 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1990_Jeep_Cherokee_Limited </PRODUCT>
+<URL> http://www.epinions.com/content_74061942404 </URL>
+<TEXT>
+            I will start with the single most important thing there is to know about the 1990 Cherokee, the ABS system is big time faulty.  It will stop you when working, and from my knowledge will at least give you a warning when it is  starting to fail.  But the repair bill is likely to give you fits anyway.
+
+In short, the ABS Actuator and Pump/Motor Assembly has a design problem.  Sooner or later it develops an internal leak causing constant pressure loss within the ABS system.  This causing the booster pump to run more than it needs to, eventually to the point where it runs constantly.  It will then burn out, leaving you with you with... well, just don't let it get to that point.  Luckily this isn't an overnight issue.  If you pay attention you will hear the booster running more than it should.  ( the booster is what you hear for 30 secs to a minute each time you start it up )  When it is all working properly, it shouldn't run more than once or twice every few minutes depending on how often and hard you are braking.  When I bought mine, I was SOMEWHAT aware of the problem, I heard it running all the time and knew the booster would fail if it were to keep doing it.  Unfortunately I wasn't aware that the vast majority of mechanics in my area wouldn't touch it, quite a few people including parts houses even claimed that there is no such monster as ABS in a 1990 Cherokee.  I was quoted prices for a master upwards from $250 to over $400.  The mechanic at my work, who was a former Jeep dealership mechanic told me that when he was working there they wouldn't replace it under warrenty but instead "rebuilt" them with new seals.  Needless to say, there are no easy swaps that could be made with a non defective model part.
+
+I eventually had to take it to a Jeep Dealership, the recall ( which they didn't issue until 1997, extended the warrenty to 10 years or 100,000 miles.  I bought it at 11 years and 111,000 miles.  They have subsequently extended certain parts to unlimited, although not the labor.  Still all in all, the repair ( without the booster pump which had been replaced by the previous owner 6 months earlier, by a mechanic who wasn't aware, or didn't care that it was the Master that was the actual problem and that the booster was really just a symptom. ) Totalled over $1000.  
+
+That said, the vehicle was still worth the cost to me, it's in nice shape overall.  The motor is still strong with over 117,000 miles.  This is due to the inline 6, possibly the most durable motor design of all time.  Also the prior owner sold it to me for about half book.
+
+I am not going to list all the options, because my model came with just about everything including a compass/temp guage built into an overhead display.  So it's up to you to check that all the bells and whistles on the one your looking at yourself.  I will mention though that the window and lock switches are also notorious for failure, but they are super easy to replace yourself.  If a window won't roll down or up as quickly as the other or at all, check the physical switch, as they fail and don't let the proper voltage to pass. ( they are cheap and easy to find replacements for, and made by ford ).  
+
+The full-time 4 wheel drive is a fantastic feature, this was one of the first vehicles that had the option.  It's very helpful because most conventional systems eat themselves up when used in normal driving conditions.  Remember that 4 wheel drive means nothing if it's not engaged. I have known plenty of people who had 4 wheel drives that lost traction in rain or light snow, that hadn't switched into 4 wheel drive out of laziness or overconfidence.  I do switch it out to 2 wheel occasionally, but after years of driving conventional 4wd with hub locks, I am very aware of when I am or am not using it.  Some people simply forget, so your better off forgeting with it in FULL time 4 wheel drive.  Outstanding option.
+
+The size of a Cherokee and it's agility make it very easy to drive, it's really not much larger than most cars so you can still fit into tight parking spots.  Something a lot of SUV's can't do anymore.  
+
+I could go on about it's offroad capabilities and onroad handling, but to be honest with a model that is 12 years old I think that is going to be more a product of the prior owners useage and current condition.  So it's kind of speculative, but I will say that in my opinion for a stock vehicle it can do just about anything you might ask of it.
+
+One note I will make that is overlooked, is the radio.  I changed out my factory radio for an external CD changer and controller.( which I built a small locking box for and mounting in the rear.  Both for theft deterrence and so it doens't get banged up by the misc. cargo I throw back there ).
+The dashboard is small and tight.  There isn't much room at all for routing the wires for the external changer.  It was probably the most difficult install I have ever done in a car.  The speakers are easy to change out though, but if your not REALLY confident in your installation skills, this Cherokee might be a good idea to have radios professionally installed, it would be worth the money.
+
+Overall, I love this model.  If given the choice I would buy a newer model such as a 93 or 94 for not too much more money, or even go for the lower end sport model and get the newer model for around the same cash.
+
+There were other recalls, such as the front brake rotors and a shift interlock for the brake pedal.  But most of them have been taken care of already, and none are recurring as is the ABS issue.
+
+Best of luck.
+
+
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

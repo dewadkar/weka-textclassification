@@ -1,0 +1,33 @@
+DOC>
+<DOCID> 34029 </DOCID>
+<PRODUCT> Digital_Cameras/Canon_PowerShot_S30_Digital_Camera_7299A001AA__Camera_7299A001AA </PRODUCT>
+<URL> http://www.epinions.com/content_86687256196 </URL>
+<TEXT>
+            I got my canon for mid-ranged use (taking photos of products and artwork, mostly manual settings), and have found its performance quite good.  It has a fairly low aperture setting (F 2.8 at minimum zoom), and a good zoom lens.  No problems with optics, etc. The pixel depth is not bad;  I can take a photo at the highest setting and print a full sheet on inkjet without any pixelation.  
+
+It is good basically for jpegs, which it does well.  It has a RAW format setting, a basically Canon-only format which ostensibly takes 16 bit professional level photos without any compression, but these require extensive editing in photoshop before they are legible (they import extremely dark), and the canon software is slow, quirky, and competes with other software.  My mac has iphoto, however, which does most of what the Canon software does (iphoto does not import RAW or mpeg files yet), and much faster and simpler.
+
+Remote Capture, Canon's remote shutter software, is stupid.  It does not support manual controls, and since it is computer based, you can not use it without a cable to your camera.  The only good thing about it is that you can see your images on a larger screen as you shoot.  Maybe Canon's higher end models have physical accomodations for this.
+
+The camera works fine, and I basically have had no problems with it.  I've used it in below zero temperatures, dropped it, I rarely use any sort of case, and it has proved rugged.  The screen is clear and accurate (unlike Olympus cameras, your final picture usually looks just like it did on the screen as you pressed the shutter button).  It has a macro setting, a good white balance function, and decent menu screens.  You can customize the look and feel of the interface to a certain degree, and upload more options if you want.  On-camera file browsing is fast and intuitive.  
+
+I had one small issue with the latch holding the battery in place, but this is minor, since I can just close the battery door to the same effect.
+
+Compact Flash cards are great.  Fast, highly compatible, and easy to use.  They can be expensive however, and the 16 MB card that comes with the camera is a pretty paltry amount of storage... only like a dozen high quality shots.  I bought a 64 MB card and it has proved worth the investment.
+
+I bought an extra battery, and this too has proved a good investment.  They charge fast, but tend to run out fairly quickly too, so I can swap when one dies and recharge it.  ButI also tend to leave my camera on a lot with the screen brightly lit... you can improve battery life by just turning off the display between shots (easy to do).
+
+I have barely used any of the auto-exposure settings or red eye, so I cannot attest to these.  The Auto-focus is quick and quiet.
+
+I have never used Canon customer service.  This speaks volumes, perhaps.
+
+The Canon website is convoluted, gigantic and basically terrible.  Hard to find software updates.
+
+Canon has been doing cameras for a long time, and electronics for a long time too;  a digital camera is a natural product for them, and you can see this experience all over the camera.  I've used Sony and Olympus cameras, and find the Canon to be superior in every respect.
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

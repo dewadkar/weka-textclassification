@@ -1,0 +1,22 @@
+DOC>
+<DOCID> 2065 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Agfa_ePhoto_CL20 </PRODUCT>
+<URL> http://www.epinions.com/content_14672432772 </URL>
+<TEXT>
+            I bought this camera to use it as a webcam with the additional option of taking some quick shots and get them immediately to the PC to email them. I bought it online from a German web site, www.alternate.de. I live in Belgium, the camera's price was about 170 US$ plus shipment fares in the order of 15 US$.
+When the package arrived, I noticed a fold-out cardboard on the box, opened it and inside there was a crispy, sharp picture of a smiling little girl. Under the picture, it reads: �Photo captured with ePhoto CL20 and printed by Agfanet Print Service�. 
+I had not considered at all the agfanet "print" feature while purchasing the camera but it is indeed impressive. With one click on the "Print" button you will get your pictures printed and ready at your front door. However, there is no mention of prices for this service on the box. I will probably not use this feature a lot but still I think it is a plus for this product. As I opened the box I was eager to test it and see if I could get results as good as the picture on the box. 
+The camera is capable of resolutions of 1280*960, 1024*768, 650*480 (VGA). The one megabyte of RAM on board can store about 6 pictures at the highest resolution, about 30 at the lowest. Not much for a digital camera to use it far from a PC, so my advice is that if you intend to use it seriously as a digital camera you have to get a compact flash memory expansion. 
+I started testing it with pictures inside the house. You can get good results in this area, but here there are a few pieces of advice: In good light conditions (daylight or bright lights) no flash is needed. However, when the artificial light is weak, the pictures will be too dark. Turn the flash on and they will be too bright. Therefore, use the flash while keeping the lights dim and make sure to take pictures from a distance of at least 2 metres when using the flash. This, to my experience, will help getting the best results. 
+On the back of the camera, the LCD screen has the tendency of displaying the �battery low� warning far too early for my personal taste. This happened after 22  shots, with 5 or 6 of them taken with the flash. They where enough to kiss-goodbye the two supplied AA alkaline batteries. 
+In the open, the camera behaves fairly well, but I haven�t had the chance of testing it in a bright day yet. In fact, for what I can say up to now, the results will be incredibly good for a camera at this price. I also believe that in the USA it is possible to find it much cheaper than what I paid for it over here.   
+Another good point is the software bundle, you get a software to create albums/slide shows (Photowise 3.0), Agfa Quickfix to adjust images, Video Impression to capture videos, MS Netmeeting (but that�s everywhere today), and VideoMail. The drivers are very stable too (not the same I can say for my previous webcam from Creative). Using it as a webcam is also a pleasant experience, the quality is really good although you have less control over the image parameters than what you usually have with a traditional webcam (again I am thinking of Creative products). This could be a good thing as well, because the image quality is already good. 
+I have not mentioned that the time between the shots can be fairly long (up to 5 seconds), depending on the resolution. This does not annoy me too much, but someone else could think differently. 
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

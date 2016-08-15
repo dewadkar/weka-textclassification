@@ -1,0 +1,24 @@
+DOC>
+<DOCID> 30039 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_KodakDCC-Kodak_DC-280 </PRODUCT>
+<URL> http://www.epinions.com/content_19541102212 </URL>
+<TEXT>
+            First, I found the DC280 to be very easy to learn and use. It basically operates just like a point-and-click regular camera. To learn the features of the digital camera, there includes a very easy to understand intruction booklet.  Within minutes of opening the box I was snapping away pictures all around the house.  
+
+The images quality can be set to a maximum 1700x1200. There are two resolution modes (high and medium) with three compression levels (Best, better, good).  What this translates to is a 10x12 in picture for print-out for maximum resolution or a 3x5 in picture for the lowest resolution. I typically choose high resolution with better compression which gives me about 40-50 pictures for the 8mb compact flash memory card that came with my camera.  Images can be previewed on the camera in the 2megapixel flat panel monitor on the back of the camera.  The other ways to get the images are: (1) camera monitor, (2) attach flash memory card to a PCMCIA adapter card (~$10), (3) USB port, (4) serial port, (5) cable to view on a TV screen.  The camera comes with all the necessary cables to do this except the PCMCIA card adapter.
+
+The camera has a 2x optical zoom and a 3x digital zoom. 2x zoom works like a regular camera, then point and click.  The 3x digital zoom requires using the display to view what you are going to take. Then by increasing zoom, 3x max is possible. Resolution, however is degraded by this data manipulation.  There is also a wide-field mode (I can't see exactly what this does) and a close-up mode. Close up mode is good for taking pictures of flowers and such. Just stand about 1 foot away from the object and results should be good. A drawback is that sometimes if I move, the image can be blurry. The preview the monitor can not discern this blurriness, I basically have to view the image on my computer screen to tell.  
+
+Some additional features include data stamping, border frames, and auto-timer.  Flash conditions, ISO, Sharpness can have multi-settings digitally, but for the everyday person this camera offers "default" mode that I use that result in very good picture quality anyway. 
+
+Some reviews I read complain about battery life for this camera. This camera comes with 4 Ni-MH digital camera batteries and a recharger.  I have not had much complaint over the battery life. I can fill up two 8 mb memory cards per day on a vacation for about 1 week before my battery life becomes low.  I typically turn it on when in use and turn the power off between times I take pictures.  Maybe some people that complain about battery life always leave the power on.
+
+Also, I can take very good pictures with brilliant colors in outdoor lighting and indoor lighting. This camera has proved to be very good for scenery, people, housing, animals, etc.  I read from a www.pcphotoreview.com that the Kodak 280 is the best overall outdoor/indoor camera where other cameras can be good in one but not the other (ever notice the pixelation of blue skies with some cameras?). I definitely recommend this camera for it's reasonable price, excellent photograph quality, and ease of use. Check www.pcphotoreview.com for sample pictures taken using this camera for more reference.
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

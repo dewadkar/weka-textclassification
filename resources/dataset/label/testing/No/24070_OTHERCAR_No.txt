@@ -1,0 +1,39 @@
+DOC>
+<DOCID> 24070 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital-Relisys_RelisysDimeraProductFamilyily-Relisys_Dimera_3500 </PRODUCT>
+<URL> http://www.epinions.com/content_77001952900 </URL>
+<TEXT>
+            I bought this camera off ebay for approx $30USD to take pictures of items to sell on ebay.  When it arrived, I installed the software (worked on my Win NT machine).  The camera initially worked fine.  There is a flash which goes off every picture, even if you don't need it, which is a battery waste(sometimes it doesn't in sunlight).  There is an erase button, which you hold down(lights flash three times to confirm all pictures on camera deleted).  There is a memory 2mb card which can be taken out of the camera.  There is a cord for downloading to your computer.  Downloads take a long time each.  There is a time release feature, you press down the button to take a picture, and hold it for three seconds the camera acts as though it took a picture (which can trick you) but it will take the actual picture in approx 10 seconds.  
+
+I took my pictures in the high 640 X 480 mode, there is also a lower mode which you could store more pictures, but I never used that as the 640x480 was just barely good enough quality for what I needed, so I wasn't going to go any lower in quality. 
+
+The camera itself looked very low quality, very light not much to it.  The camera I purchased (as most that are being sold)had no adapter, shopping around I found that the adapters are quite pricey (CDN $35-46), so you should look into trying to get a camera with an adapter, and work that into the pricing.  The batteries themselves are also quite expensive (in Canada two batteries cost $15.99 for the name brand).  One battery would take and download approx 30 pictures or a bit more.  That becomes very pricey, especially when you have to retake a lot of the pictures, which is my next point.
+
+I personally didn't mind having to take extra time to get the picture to look right, sometimes I would have to try 3-4 different backgrounds to try to get the picture I was taking look correctly.  I could only take good pictures when natural sunlight was streaming into the house, if I tried to take a picture at night it absolutely did not work (picture not usable at all).  But I was still willing to work with this.
+
+Then came the problems, camera started going nuts a few days into it.  Not taking pictures at all, turning itself off, taking pictures all of a sudden, flash going off for no reason, not shutting off, etc.  Then the next day the camera would work perfectly.  Then a couple hours later the same thing.  VERY STRANGE.  Camera started only being able to save four pictures to memory, then three.  I was still willing to work with a camera working only a few hours a day....but now it won't work at all.....
+
+There is very little help on internet for this camera, as the company no longer sells these cameras.  If you check the newsgroups, you will find many people having problems and asking questions.
+
+If you still decide to buy this camera, here are some hints for use:
+
+Try to take pictures in sunlight.
+
+If flash is ruining your pictures, hold your finger over half of the flash.
+
+Use an adapter to save batteries.
+
+Always use high 640 X 480 mode.
+
+Try different backgrounds.
+
+
+So I've bought a new camera, better brand name, same picture quality though (640 X 480), because when I could get the dimera to work correctly, the picture was ok. quality. 
+
+
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

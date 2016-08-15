@@ -1,0 +1,28 @@
+DOC>
+<DOCID> 30092 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_KodakDCC-Kodak_DC-280 </PRODUCT>
+<URL> http://www.epinions.com/content_28190346884 </URL>
+<TEXT>
+            The Kodak DC280 Zoom is a great camera. You will be happy with the photographs if you respect its limitations. The sharpness and detail is excellent, but be careful when photographing subjects close to the lens. In portrait (vertical) format, it will make the subject's head (close to the edge of the frame) appear tiny while magnifying their midsection or appendages. The result is not flattering at all.
+
+Color rendition is excellent, even indoors with the flash.
+
+Photo sharpness is also excellent. The sharpness level can be adjusted through the camera menu.
+
+The most severe limitation with this camera is the time it takes to save photos to flash memory. It has a high-speed internal cache that will allow you to take 4 photos (at highest resolution) in quick succession, but once that buffer is full, it can take as long as 15 seconds to empty enough to allow another photo. If you're taking an occasional snapshot here or there, this is not a problem. But if you are trying to take a lot of photos quickly, this camera will be a real frustration for you.
+
+The overall camera quality is very high. The menu is well-designed and aesthetically pleasing. The menus are intuitive enough to allow you to figure out how to access most of the functions without having to pore over the manual in great detail.
+
+The camera is too large and heavy to carry in a pocket. If you're planning on bringing this on a day trip, I strongly suggest a fanny pack.
+
+Battery life is perfectly acceptable, as is flash recycle time. The camera runs off of 4 AA batteries, and is supplied with a set of rechargeable 1600mAH NiMHs. These provide plenty of current for the flash, and enough juice to power the camera for a day. Just the same, bring an extra set of fully-charged batts with you.
+
+The firmware in the camera is updateable, but the current revision is only v1.01. That means either that Kodak got it all right the first time, or that they've given up on improving it and have moved on. While there aren't too many things about the camera that I find annoying, I believe that there is always room for improvement. Maybe there's some tweaking Kodak could do to improve the image save time? I keep checking their support site hoping that v2.0 will show up one day, and that it will add some neat features to the camera.
+
+Of the few different models of 2.1 megapixel cameras, I'd have to say that this one is the all-around best. I'm sure that there are models that are as good or better, but not in this price range.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,27 @@
+DOC>
+<DOCID> 22062 </DOCID>
+<PRODUCT> Digital_Cameras/Kodak_DC215_Zoom_Digital_Camera__Camera_185_3175 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-95E-162B22DC-3A3544BB-prod4 </URL>
+<TEXT>
+            I know there's a lot of choice in the digital camera market, and if you're reading this, you probably know why you need to get one.  They're light, they're easy to use, you don't have to scan photos, and you can take 400 shots of your trip to the zoo instead of 24.  But you can do that with any digital camera: I'm going to do my best to talk about the Kodak specifically, and not the paradigm-shifting capacity that's present among all digital cameras.
+
+<b>Still feels like a 35mm camera</b>
+While the revolution is nearly over as far as digital imaging is concerned, you couldn't tell it from the outside.  The Kodak looks and feels exactly like a 35mm model, with the same width, depth, weight, and button-on-top design.  The only eye-catching aspect is the lens, which is shifted way over to the right.  While long-fingered people like myself might grub the lens up, a cap is included, and should be used.
+
+<b>Battery life: not an issue</b>
+The batteries live for a while, about 200 snaps with flash.  The camera tracks how many photos you've taken, so this is an okay benchmark.  The indicator of battery life on the LCD screen is useless: it has a little battery icon that can be full, half-full, or out.  Mine died on half-full.  An indicator of half-full can just as easily mean the camera is cold.
+
+<b>Flash cards: film of the future</b>
+I think the standard model of this camera just comes with a 4MB Compact Flash memory card.  The Millennium 2000 edition has a 4MB card and a USB card reader, which is practically required for anyone that's going to fill the card up.  For those who don't understand that last sentence, you can connect the camera to the back of your computer through a serial port.  That's <i>really</i> slow.  I mean it.  The other option is a USB card reader, which takes your compact flash card as a disk, and you can cut of copy the files right off, Explorer style.  You can even take photos in JPG format, which means nothing needs to be converted or resized or anything.  Your photos come off the card ready to share.
+
+<b>Camera features</b>
+There's a lot to talk about here, but since I'm not a huge photography guy, I'll just say that the combination of flash options, close up focus, self-timer, optical zoom, and pseudo-GUI menus are more than enough for me.  The camera &quot;does&quot; four different modes, and it can be confusing if you're not in &quot;Capture&quot; mode, which is the mode that makes it act like a camera.  The other three are review (look at the pictures in the camera), connect (used for connecting the super-slow way to your PC), and preferences (which brings up the somewhat confusing menu of options).  
+
+<b>Recommended with few reservations</b>
+I only wish I could tell you more about other cameras on the market.  My suspicion is that for $300 you aren't going to get optical zoom, auto-flash, a big color LCD screen, 1024x768 *and* 640x480 resolution, JPG formatted pictures and a USB card reader anywhere else, but I could be wrong.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

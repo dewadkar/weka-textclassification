@@ -1,0 +1,24 @@
+DOC>
+<DOCID> 30038 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_KodakDCC-Kodak_DC-280 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-29-11701671-39EA0952-prod5 </URL>
+<TEXT>
+            I bought my DC-280 as a hoped for replacement for my old stolen SLR, but also because digital seemed cool.  I wanted a camera to take snapshots of my family and friends, but also wanted a camera that could really get a great picture.  I am so-so about both, although I will say that some of the unexpected benefits of digital have made me take a lot more pictures.
+
+My main issue with the DC-280 is that it is slow -- there's an annoying lag between when you hit the button and when the exposure is taken.  According to other sources, this is due both to the time to focus and to set up the exposure.  I have taken a lot of pictures of the back of my three-year old's head :-)  They say you can press the button down a little to preset the focus and exposure, but I haven't had luck.  Two things would improve this: 1) there is no click when the button is in this preset position, and 2) there is no audible feedback that the exposure has been taken so it's hard even to anticipate.  The camera is also slow in the shutter-speed area; almost any motion comes out as a blur.  I almost always shoot at full resolution (2 mega-pixel); maybe I should see if it does better at a lower resolution...  Even so, the optics are nothing great, and you can't cure that.
+
+For real photographs, the camera doesn't cut it.  The zoom and other controls are not really enough to get the kind of fuzzy-background portrait shots you can get with a longer SLR lens and an open aperture.  The focusing seems poor to me; in many cases the pictures are just simply not focused.  While the software does have some ability to control these settings, you have to use an on-screen menu -- not exactly the tactile and instant-feedback I was used to from my old SLR.  Perhaps my complaint is that the camera is completely automatic, but some simple ergonomics could help overcome these shortcomings.
+
+Nevertheless, I will say that the benefits of digital have made me take a lot more pictures than I had in the past.  I love the ability to instantly see the shot you got in the little screen.  Maybe I am cheap (ok, I *am* cheap) but the fact that I can take 5 shots and choose the best without paying for film or printing is awesome.  For closeup shots, you can put it in auto-preview and frame your shot exactly.
+
+The USB connection made downloads tolerably fast (serial was way too slow).  It's almost as fun and a lot cheaper (there I go again) to edit photos on the PC as it is to use a darkroom.  You can correct for a lot of other flaws in the camera itself by editing.  I use Ofoto (there are several other similar services) and just upload the prints I want; this is probably the single biggest reason that I use the camera.
+
+The camera eats batteries, but it comes with a set of rechargables and a charger.  I bought another set and an AC adapter for when I am downloading pictures to the computer; this leaves me fully satisfied with the battery issue.  The flash memory that comes with the camera is enough to hold about 30 full-res pictures.  But the cool thing is that this means you can probably take 90 and just delete the bad ones right then and there.  I would definitely want to have a couple more memory cards or a laptop to download to for a vacation (although I am sure my wife would divorce me if I actually brought my laptop :-).
+
+So these comments may apply to digital photography in general as much as they apply to the camera itself.  It's a reasonable point and shoot camera, and I am glad I have it.  It's fun to edit on the PC.  I suspect that since it came out in late 1999, they have upgraded versions that address many of these issues.<br><br>
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

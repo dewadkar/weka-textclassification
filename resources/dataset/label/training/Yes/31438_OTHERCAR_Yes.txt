@@ -1,0 +1,52 @@
+DOC>
+<DOCID> 31438 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Canon_PowerShot_S50 </PRODUCT>
+<URL> http://www.epinions.com/content_109745704580 </URL>
+<TEXT>
+            this is a full-featured 5MP compact camera that will work for a wide range of users. i compared this with the sony DSC-P10 and the minolta DiMAGE F100 and concluded that this had the best feature set in its class. 
+
+the S50 is essentially a 'shrunk' PowerShot G5. there are some differences: the G5 has a flip-out LCD which is very cool and quite practical, a 4x zoom lens, and a flash attachment. otherwise, the S50 provides almost the same level of manual control as the G5 in a smaller package. if you want point and shoot capability but want the flexibility to be more creative when you want, this camera should be on your short list.
+
+pros: 
+- excellent resolution from a small lens - 5MP power!
+- 3x optical zoom, 4x digital
+- good metering and good tonal balance - maintains shadow detail 
+- good natural light white balance, strong and balanced colours 
+- allows control over cameras internal processing algorithms - saturation, tone, sharpness
+- low noise at ISO 50 (keep in mind that ISO 50 for this camera is actually ISO 100 for everyone else; likewise, ISO 100 is in reality closer to ISO 200, etc)
+- compact and lightweight, considering this camera's capabilities (4.4 x 2.3 x 1.7 in, 11.1 oz)
+- excellent build quality - solid 'brick like' feel - no creaks or rattles and a good positive feel to external controls
+- nice metallic black finish - i definitely prefer this to the silver finish of other compact cameras
+- the LCD monitor is also big (1.8") for this class of camera - gives good live preview and review even in well lit situations
+- shooting priority play mode (a half-press of the shutter release always returns to shooting) 
+- excellent range of manual controls 
+- fast shot-to-shot times
+- fairly good startup time, especially for an extending lens camera
+- the manual focus has magnified loupe and ruler readout 
+- flexible continuous shooting modes (buffer after processing) 
+- RAW file format maintains 12-bits of data 
+- ability to turn JPEG shot into RAW during record review 
+- Compact Flash Type I/II and official Microdrive support 
+- voice annotation feature 
+- invervalometer (time lapse capability) 
+- AF assist lamp works well 
+- USB connectivity 
+
+cons:
+- average macro performance 
+- vignetting at wide angle and maximum aperture 
+- nine-point AiAF not available in P, TV, AV, M or C exposure modes 
+- average flash performance 
+- the four-way jog dial is not easy to use - pressing "SET" takes practice
+- you'll need to remove from tripod to open the battery/CF compartment 
+- lens slow at telephoto (F4.9) 
+- AF Assist lamp doesn't have enough power at telephoto zoom 
+- limited apertures at telephoto 
+- zoom controller does not have enough steps / multiple zoom speed 
+- some barrel distortion at wide angle 
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

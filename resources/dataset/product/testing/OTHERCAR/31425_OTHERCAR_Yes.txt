@@ -1,0 +1,116 @@
+DOC>
+<DOCID> 31425 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Canon_PowerShot_S50 </PRODUCT>
+<URL> http://www.epinions.com/content_99194015364 </URL>
+<TEXT>
+            Funny... I had been playing on and off with a friend's S50 for the better part of the past one to one and a half months.  I had been rather impressed with it from my limited exposure.  An interesting opportunity came up to buy the S50 for $400!  An opportunity that if I passed on, I wouldn't be able to obtain again.  With that, I sold my S45 with a 256MB card for $425 and purchased the S50.  The S50 and S45 are functionally similar cameras when you look at the specs except for the color of the camera and the effective Megapixels of the two cameras.  When I played with my friend's S50, I used it in mostly daylight and good lighting conditions.  Now that I have the S50 in my hands, the camera has a number of differences mostly in low light and nighttime performance from the S45!
+
+Regardless, I purchased another S45 again at a ludricous price point that I doubt I would be able to pull off anytime in the near future.  Now my personal digital camera collection which had a Nikon CoolPix 995, Canon PowerShot S400, and a Pentax Optio S before the S50 and repurchase of the S45.  My parents have the Canon G3 (not that they finally learned how to use this camera... letting me take back my S230 and sell that off for the S400) and the offices have a CoolPix 5000 and a 4500.
+
+<i><b>The Short Take</b>
+
+Well, you can call the S50 a black S45... but that doesn't tell you the whole story about this camera.  Retaining most of the strengths and weaknesses of the S45 camera, the S50 starts from pretty solid ground.  As I write this, the S50 is probably the best Compact 5 MegaPixel digital camera currently... but that not saying much since the field for the compact 5 MP cameras is extremely small still.  I can only think of two other cameras that fit the compact 5MP camera field, the Minolta F300 and the Olympus C-50.  Sony DSC-P92 and DSC-P10 should be coming out soon to add to this list.
+
+The S50 is reasonably priced for a 5 MP camera with an abundant feature set as well as an excellent automatic setting for the point and shoot crowd.  However, if you're not going to print greater than 5x7 photos, the S50 is complete overkill for you.  This being the case, the S50 will be most enjoyed by users printing large photos and desiring high quality images.
+
+The major downsides are that the S50 has a weak flash, limited zoom capability (only 3x while I think 4x should have been the maximum zoom for the S50), inability to syncronize with an external flash, no ability to add lenses to the camera, and high noise level at full resolution in low light shots especially at higher ISO settings.
+
+Personally, I preferred my S45 over the S50 because I felt that my low light and nighttime shots came out significantly better on the S45 than on the S50!
+
+<b>Pros:</b>
+
+1) 5 MP Camera
+2) 3x Optical Zoom
+3) Excellent user interface
+4) Multiple manual exposure settings
+5) Compact Flash media support and Microdrive support
+6) Some accessories like the underwater case
+7) Extensive feature set
+8) 1.8 inch color LCD
+9) Multilevel focus system (300 selectable points)
+10) 9 point AiAF system
+11) iSAPS technology (Intelligent Scene Analysis based on Photographic Space) for improved camera focusing and white balancing
+12) Improved Movie Mode recording
+13) DPOF direct print capable
+14) Pants pocketable
+15) Slick black color
+
+<b>Cons:</b>
+
+1) Expensive
+2) Propriatary lithium-ion battery
+3) Small included CompactFlash card with package (32 Megs)
+4) Weak built-in flash
+5) Only 3x Optical Zoom
+6) No hot shoe or external flash capability
+7) poor to moderate low light and nighttime photo capturing capabilities.
+
+</i><b>Design</b>
+
+The S50 is mainly similar to the S30/40 cameras and in reality a metalic black version of the S45.  The black color definitely oozes that ultra-cool feeling... almost Matrix like to a point.  Most of the design description is about the same as the S45.
+
+The LCD is on the left side of the back of the camera with the optical viewfinder right over it. There are two lights next to the viewfinder indicating option/activities such as AutoFocus Lock, accessing the CF Card, Macro focus, AutoFocus problems, and a few other problems. as well. These two lights flash green, yellow, or orange to indicate those options and activities... however, in the S45, the LCD also shows the same color in the focus brackets. The LCD is the now standard 1.8 inch color LCD but Canon didn't add the anti-reflective coating on top... the same way they didn't add it to the S30/40/S45 models. The LCD displays 118,000 pixel so you'll get an idea of what your image looks like but don't count on figuring out how detailed your shot is until after you've viewed it on a computer with a decent monitor on it. 
+
+The bottom right (from the rear of the camera) houses both the battery and the Compact Flash card. You get the battery with the camera though as well as the battery charger. The battery from the S30/40/S45 is kept... so you are still using the NB-2L battery. All of the S45 accessories are usable with the S50. Another interesting thing to note is the tripod mount is about centered on the lens... making it easier to make those continuous panoramic shots! Hey, that's something the G3, S230, and S400 don't have! 
+
+On the left side of the camera (back of the camera facing you), you have a rubber cover protecting the A/V port and USB 1.1 port. The USB 1.1 port also provides a direct connection to the Canon portable CP-10/CP-100/CP-200/CP-300 printers and also Canon's newer S820D/S825D inkjet printer. However with RAW 5 MP pictures, I wished that Canon allowed USB 2.0 compatibility on the camera instead... especially with the file sizes of multiple 5 megapixel shots being what they are (averaging 3.5-5 MB each!). On the right side, nothing to really note... just the little spring loaded door if you use the optional AC adapter and dummy battery unit (I think it costs about $60-70 now...). 
+
+The front of the camera also houses the thin flash, the AutoFocus assist lamp, and not much else. Since the lens retracts fully into the body of the camera when it is turned off (and the lens cover closes over it, you cannot use any add-on lens with the S50 (juke like the S30/40/45). The S30/40/45/50 models were never built with that in mind. The flash is decent for photos up to 8 feet in my use... slightly better than the S45. Pictures looked okay on the LCD screen in near pitch black conditions with the flash at close range (subject within 5-6 feet) and dependent on the ISO setting used... in automatic mode, the pictures were good, in ISO 400 mode, pictures were acceptable but not as good as the S45 at ISO 400 at maximum resolution settings in RAW mode.  Note that using any resolution below the maximum resolution of either the S45 or the S50 result in nearly identical results!
+
+The top of the camera houses the speaker (on the far left), the microphone, shutter button, mode dial, the zoom controls, and the multi-controller (4 way pad that can be depressed for the SET button) that some may find a bit loose for their liking but I thought it was just right. All of the top panel controls are on the right side of the camera. 
+
+The back of the camera also has 7 buttons around the LCD... the most notable is the new FUNC button (one of the old buttons was reassigned to become the FUNC button). There is the same recessed instant playback switch like the S30/40/45.
+
+<b>Image Quality... Taking Shots</b>
+
+The strength of the S50 over other PowerShot models is the ability to capture photos at 5 MP... the S50 really shows off this strength in bright lighting and medium lighting situations.  I felt that using the S50 without additional lighting in extremely low lighting and nighttime settings at medium (greater than 11-12 feet) and long distances obtained photos that were worse than the S45 at the maximum resolution capable for each respective camera.
+
+In daylight settings, taking portraits shots showed off details I didn't pick up with the S45.  Little folds in a person's clothes... a small design on the collar of a shirt.  The level of detail in most shots was unbelievable!  I could make out the creases in a curtain from 20 feet away when blowing up the shot where the S45 blurred out the creases.  Details on landscaping shots were significantly clearer than the same shot with the S45!  Consider that I hold the S45 as one of the best consumer cameras currently out and I think this much of the S50 photos!  Color reproduction was excellent in my opinion with a slight tendency towards a red hue (warmer hue).  To me, the S50 photos had a more natural look than other digital cameras I've played with.  As long as there was a decent light source, the S50 showed off its 5 MP power in spades!
+
+However, in low light conditions and nighttime conditions the story changed.  Photos within 12 feet and sometimes up to 15 feet were still very good.  I felt the quality was as good as the S45 or slightly better.  Now beyond that range, shots at the maximum resolution of 5 MP lost quite a bit of clarity, a bit of color accurracy, and acquired a significant amount of image noise.  I felt that the S50 under these conditions captured images that were worse than the S45.  The differences became more apparent when using higher ISO settings (ISO 400 I felt was especially glaring between the S45 and S50).  Bringing the resolution down to a lower setting showed similar performance between the S45 and the S50.
+
+Automatic mode in the S50 performed admirably.  Rarely did I get a bad shot.  However, the shutter lag in automatic mode was about 2-3 seconds unless you performed an auto-focus lock by first depressing the shutter button half way down.  The delay in that situation was less than a minute.  Turning off the autofocus gave you a shutter lag delay of about 1 second or so.  Overall, the camera seemed slightly faster than the S45 camera with the 9 point autofocus (AiAF) on... Canon probably tweaked the DiGiC processor slightly.
+
+Printing 8x10 and 8.5x11 photos showed no discernable losses in image quality.  I wasn't able to print larger pictures from the equipment in my house (I don't have tabloid sized printers to try).
+
+The flash is still pretty weak considering the capabilities of the camera.  This is likely an inherent weakness of a compact camera these days.  I was comfortable taking shots within 12 feet in nighttime situations... beyond that, I really needed to find other ambient sources of light to take photos that I would be happy with.
+
+Movies can be recorded only in 320x240 and 160x120 resolution. Like the G3 and S45, you still do not get the 640x480 mode found on the Canon PowerShot S230 and A70! Movies can be up to 180 secs in length at 15 fps. The DiGiC image processor delivers much cleaner looking movies than previous Canon cameras. Some people may find the movie mode useful... 3 minutes isn't a whole lot of time and the quality of the movie is decent overall but wouldn't beat a decent digital camcorder (like Canon's own ZR65MC and ZR70MC camcorders).
+
+Like previous PowerShots, continuous shot mode was still affected by whether the LCD was on or off when taking the shots. With the LCD off, the continuous shot speed came closer to Canon's rated numbers. With the LCD on, the camera was considerably slower! Also turning off the 9 point AiAF system sped up the continuous shoot mode. Performance was close to the S45.
+
+<b>Improving the Ease of Use</b>
+
+The addition of the FUNC button has greatly improved the functionality of the camera. Now you can access many of the photo settings in auto or manual mode! No more fiddling with menu and submenu and subsubmenus... the FUNC button gives you quick access to features like Exposure compensation, White balance, Drive mode, Sensitivity, Photo effect, Bracketing, Flash output, and Image size and quality! I can tell you enough of how this one little button has made the camera so much easier and fun to use! 
+
+<b>Batteries</b>
+
+The S50 accepts the NB-2L rechargable lithium ion battery pack from Canon. This is the same battery pack used in the S30/40/45 and it is still a rather weak battery! I still got about 220 or so shots with the LCD on... a slight improvement over the S45! With the LCD off, the camera achieved over 500 shots before the low battery indicator starting flashing. Note that moderate to heavy flash use will drastically change these numbers and that the numbers above assume very little use of the playback mode! Note that Canon's low battery indictors usually tend to go off when you have power enough for 10 or less shots (often flashes when you have enough power for 3 shots with the LCD on and the flash on!)! 
+
+<b>Photo File Sizes and Options</b>
+
+You technically have a 5 MP limit on the S50.  The same four compression modes from most of the other PowerShot cameras are still available... Normal (best compression but worst picture), Fine, SuperFine (worse compression), and RAW (no compression but best picture). There are still 4 resolution choices... Small (640x480), Medium 1 (1024x768), Medium 2 (1600x1200 S200 maximum), and Large (2592x1944). You cannot set the S50 to capture images at the S45's maximum resolution of 2,272 x 1,704 (Note that my S45 manual from my first run production of the S45 states a max resolution of 2048x1536 resulting in 3.8 MP capture which is close to 4 MP, my repurchase of a new S45 states the current number of 2272x1704 which is a 4-4.1 MP capture)!  Using Large and SuperFine settings obtains gorgeous photos but at a file size of 2.5 MB up to 3.5 MB per shot! RAW setting eat up more MB per shot... sometimes it isn't surprising to have a complicated photo in RAW mode take 4.5 or more MB of file space! This is why I would have liked to see USB 2.0 on this camera. Transferring several RAW captures can be nightmarish! Note that the RAW capture on the S45 and S50 create similarly sized files.  The S50 making slightly larger files.
+
+Note that there has been some speculation (rumors) that the S50 doesn't perform a true 5 MP image capture.  Canon claims a 1/1.8 inch LCD capable of capturing a total of 5.3 MP although the camera utilizes only 5.0 MP.  Overall the improved image quality seems to support Canon's claim but I guess I need to see the white papers on the S50 to really know.
+
+<b>What's in the package</b>
+
+Canon has always included excellent manuals and documentation for the camera and software included in all their camera packages. The S50 continues this tradition. A good sized camera and software manual is included detailing basic and advanced functions for the camera. A wrist strap is included in the package as well as a Lithium-Ion battery (same one used in the S30/40/45). The NB-2L carries 540 mAh at 7.4 V. The battery charger is also included in the package. You get a 32 MB High Speed CF card (hey better than the old 16 MB)... so you need to purchase a bigger one, at least 256MB in my opinion but 512 preferred! Two CDs are included with the software for the camera. 
+
+I would definitely recommend buying a larger CF card, an additional battery, and a small camera carry case especially Canon's own PowerShot S30/40/45/50 leather case (I think it is the best looking and fits the camera absolutely perfectly!). The AC adapter kit might be helpful too although not necessary (but if you plan on printing directly from the camera to the supported Canon printers (CP-10, CP-100, S820D, S830D, and S530D are currently supported) I would get the AC adapter!). I would highly consider at least a seperate CF reader so you don't have to drain the batteries on the camera transferring images to the computer. 
+
+<b>My Price</b>
+
+I was able to pull this camera off at $380 after using a ebates.com and a huge pricematch.  I am unable to pull off this price again... and the best I could muster after a pricematch for friends was about $430.  Read my article <a href="/content_3087507588">The Art of Buying... Getting your money's worth!</a> to see the methods I use to save money on purchases.
+
+<b>The S45?</b>
+
+<a href="/content_84748766852">Read my S45 review here</a>
+
+I use the S45 over the S50 especially when nighttime photo taking is an issue.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

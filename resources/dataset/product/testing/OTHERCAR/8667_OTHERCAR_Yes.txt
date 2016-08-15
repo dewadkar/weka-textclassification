@@ -1,0 +1,30 @@
+DOC>
+<DOCID> 8667 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_225285_I_630705 </PRODUCT>
+<URL> http://www.epinions.com/content_93579021956 </URL>
+<TEXT>
+            Will try to avoid repeating stuff already covered by other reviewers...
+- 10x zoom is marvelous, but be prepared to use a tripod if you are going to get full value out of that much power.
+- The camera will remember the settings you've selected for all of the different program modes, so long as you don't shut it down when it is in auto mode.  The only solution I could find was to never use auto, use P instead.
+- Battery life, using 1600 ma.hr batteries, is excellent.  Much better than I'd expected.  I can fill a 128 mb card using one set of rechargeable batteries.  What more could one want?
+- The Olympus panorama stitching software, included on the Olympus SmartMedia card (only) is exceptionally good.  It does a lot better job of dealing with distortion than any of the other stitching software that I have.
+- The flash has good power, but red-eye is a problem that even the red-eye reduction does not fully cure.
+- The lense cap has to be properly oriented when installed on the lense, or there won't be enough slack in the leash to avoid having the cord pull tight when the camera is turned on.  I haven't done any damage yet, but it looks like the leash would put some nasty off-centre strain on the lense when it extends.
+- This is far more camera than a point-and-shoot user would get any value from.  Even a technically-inclined user will find that he needs to use it fairly frequently if he is going to remember what all the various buttons and settings will do.  It took me at least 3 enjoyable weeks to really become comfortable with this camera.
+- Picture quality has been excellent.  Light meter gets fooled when reading from snow and ice - but it is easy to bump the exposure settings up a notch to compensate.
+- No parallax concerns when composing a shot.
+- Shutter lag is good, once you learn to set the focus in advance (push the shutter release part way down).  Without that trick, the photo op. is lost before the picture gets taken.
+- Ease of use could be rated between 3 and 5.  5 if you want to use it as a point and shoot, but why buy this fancy a camera if that's all you want to use it for?
+- I can't imagine any camera would be rated as solid, unbreakable, or lasting forever.  But this one does appear to be on the high end of the durability scale.
+- Still haven't figured out how to get the best use out of the user-controllable ISO settings.  This is a camera who's finer points can involve many happy hours of tinkering and experimentation.
+- Picture quality is great, and the file size does not overload my pc.  JPEG's are strange to work with...when you edit a photo, the file size may increase tremendously.  But can't blame the camera for that.
+- The 15 second movie clips are ok, but there are lots of other cameras on the market now that take much longer clips, and their image quality is as good, or better.
+- Limited on-board memory restricts the number of photos you can bang off sequentially.  I'd like to see improvement in this area.  At maximum quality, I can get only 3 or 4 shots before it has to pause to write to the card.
+- The lack of an AC power adapter is no big deal.
+- USB connection is fast enough for most down-loading jobs.  Windows XP talks to the camera just fine.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

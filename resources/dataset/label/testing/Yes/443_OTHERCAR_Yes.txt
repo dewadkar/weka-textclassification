@@ -1,0 +1,36 @@
+DOC>
+<DOCID> 443 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Panasonic_Lumix_DMC-LC33_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_105019969156 </URL>
+<TEXT>
+            A bit of background about my skills/slant - I'm an advanced amateur photographer with a 35mm SLR camera (Canon Elan IIe with 28-80mm USM and 100-300 USM) and a Windows software engineer.  I tell you this so you know that I'm a bit picky and more knowledgeable than the average computer/photo consumer (but I certainly don't know it all :-).
+
+My last digital camera was a 1MP hand-me down Kodak and I wanted something that was simple for pointing-and-shooting for our upcoming first child.  I wanted a LITTLE bit of control over exposure/depth of field.  If I want to do anything really fancy, then I'd pick up my film camera.  
+
+SIZE - The camera feels quite solid and small.  It's just shy of being as small as the Canon Elphs.  I can put it in the pocket of my khaki pants or shorts and it's no larger than my wallet!  
+
+VIEWFINDER - bright and easy to read.  Will actually play back movies (without sound - no speaker on the camera).  One nice feature is that you can zoom in up to 8x on a pic that you're previewing on the viewfinder.  Handy to see if someone had their eyes closed for the pic.  Deleting is quick and easy.
+
+CONTROLS - Controls are intuitively obvious.  You don't even need the manual to operate this camera effectively!  The menu system is very intuitive.  There's even a 'simple' mode that you can put the camera in (useful for when I want my mom to take a pic :-)  There are modes for portrait (shallow depth of field) and landscape (deep depth of field).  There's a 2 and 10 second timer.
+
+LENS - This camera has a Leica lens.  This is a big deal.  Leica makes extremely high quality, expensive cameras, and they're known for their lens quality (on par with Zeiss, I'd say, which you can find on some Sonys).  The optical zoom is 3x with a 3x digital zoom.  One feature I really like is that you can set an option so that when you zoom in, it will zoom to the optical maximum, then pause before it starts to get in to the digital zoom range.  This is handy if you want to stay out of the digital zoom range most of the time, but still want it readily available (digital zoom decreases quality).  The lens retracts completely inside the camera when turned off.  Makes for a smaller profile.
+
+BURST SHOOTING - There is a button on top of the camera that will toggle the setting to take either 2 or 4 pictures in ONE second.  As the manual states, this feature won't really work if you're inside using a flash (the flash can't recharge quick enough).  Recharge time in between pics is about 2 seconds. 
+
+DOWNLOADING - I run Windows XP Pro.  I didn't even have to install any software for Windows to read the SD card in the camera when I plug it into a USB port.  Transfer is plenty fast.  
+
+BUNDLED SOFTWARE - nothing too high-end, but it'll work.  Interesting software ("SD viewer for DSC") that will preview and catalog the images on the SC card and on your hard drive.  One kool feature is that when you preview the pics in this tool, it tells you the date and exposure setting.
+
+EXPOSURE - Fine by me.  Flash works well up to about 15 feet, as advertised.  Has red-eye reduction.  What's really handy are settings for color tone = 'warm' makes skin tones look very nice, similar to using a warm/soft effects filter on my 35mm SLR.  Has a spot-metering selection.  Very handy.  
+
+MOVIE - records in QuickTime format.  Haven't really looked for a way to save/change into another format.  res. is 320x320 - good enough to put small clips on the internet.  My 128 MB card will hold about 10 minutes of video.  
+
+BATTERY LIFE - takes AA's.  I bought Kodak NiMH rechargables and get lots of life from them.  Got them online for about $23 for 4 AA's and a charger.
+
+I've been very very pleased with this camera.  There's no need to have more than 3MP unless you want to print larger than an 8x10 photo.  Definitely buy the NiMH batteries.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

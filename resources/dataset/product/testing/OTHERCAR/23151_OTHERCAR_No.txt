@@ -1,0 +1,18 @@
+DOC>
+<DOCID> 23151 </DOCID>
+<PRODUCT> Digital_Cameras/511623_Samsung_SDC_80_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_92956429956 </URL>
+<TEXT>
+            The Samsung SDC-80 is basically an low-end camera with more features than other comparable products. To list its features, it has a fixed-focus lens, which like the term suggests, means that the lens can not focus to get sharp, detailed images like a higher end camera. For close shots however, there is a dial in the front of the camera for some limited focusing ability, enabling the user to take clear photos of objects at a close distance. The camera has a flash although it isn't very strong - it would only help to take a good, bright photo if there is already some dim lighting. The camera also has exposure controls which may help in low light conditions. 
+<p>
+The SDC-80 has a few different picture taking modes, including a timer mode, and 'interval,' which makes the camera take several photos in succession, with a variable amount of time in between (1-5 seconds). The purpose of this mode is to take several photos of a fast moving object and to keep the best looking shot. There is also a multi-picture taking mode, where 4 or 9 pictures are taken in succession, with a variable amount of time in between (0.7-35 seconds). All 4 or 9 shots are placed in a collage format stored on one photo. The camera can take photos in black and white, at 640x480, or at 1024x768 resolutions. The shots are stored in 'high quality' or 'standard' mode - the difference being the amount of jpg compression used. Photos are stored using the Smartmedia format.
+<p>
+One of the drawbacks with the SDC-80 is that it does not save the settings after shutting it off. So if you want to always take photos in 'high quality' mode, you have to set it each time you turn it on. However, the biggest weakness is the battery life. It uses a proprietary Lithium-Ion battery which will last at most an hour, and less if the LCD and flash are used. Spare batteries cost $50-60 from the distributor, so for the cost of one or two extra batteries, you can just buy a better camera.
+<p>
+Regardless of the poor battery life, the SDC-80 is a decent entry-level camera that is easy to use and has a fair amount of convenient features.
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

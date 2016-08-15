@@ -1,0 +1,26 @@
+DOC>
+<DOCID> 33382 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1999_Volkswagen_New_Jetta </PRODUCT>
+<URL> http://www.epinions.com/auto-review-4437-CA37DB6-39E7427F-prod1 </URL>
+<TEXT>
+            
+
+          Hi:
+          I bought my 1999 new Jetta GLS (Black) in May'99. It's features seemed like a good value for the money. I was debating between Diesel model and gasoline one. In the end I caved in and got 4 cyl. 5-speed gasoline model. The problems begun immediately. 
+First I noticed oil consumption. I was going through 1 Qt. of oil per 1000 miles (ON A NEW CAR!!!) I brought that to the attention of the Donaldson's         VW Service Department. To my surprise , immediately they pulled VW technical bulletin about the oil consumption, which read &quot;... up to 1.5Qt/1000miles on new vehicles (with less that 7500 miles) and up to .8Qt/1000miles after that is a normal oil consumption...&quot; . This is    common knowledge among all the dealers and the VW factory but the customers can learn about it ONLY after they purchase the vehicle. In addition, VW service departments will vary these numbers.
+          Second, the 4 cyl. engine has been in production since 1983. It is a very reliable engine but it is terribly underpowered for the new design Jetta. The new vehicle is about 500 lbs. heavier that 1983 model, so to compensate for the weight increase VW engineers dropped the gear ratio down. That allows the car to still have a reasonable acceleration but also increases its RPM. This in turn will have an effect on the mileage and wear of the engine. In essence, by using oil the friction is dissipated and heat produced by higher rpm of parts burns the oil clean!
+          IMPORTANT! Check the oil level religiosly every 2 weeks, if you want this car to last. 
+          Third, my driver's seat rocks and clunks. It has been taken out and put back 5 times by the dealer. They simply refuse to acknowledge the existance of the problem.
+          Forth, front speakers are cutting out, which would indicate problem with the channel control of the amplifier. Dealer ran the continuity tests 3 times and cannot find the problem.
+          The paint is pealing on the front bumper due to poor surface preparation in the factory but the dealer refuse to acknowledge the problem.
+          The tires wear out very quickly, because this car is to heavy for front wheel drive. Combined this car has been serviced 9 times in 16 months.
+          I brought this to VW Corp. attention and received absolutelly no cooperation.
+          Extended warranty is useless because there is a great chance the dealer will refuse to acknowledge the existance of a problem.
+          SO, this car shows major quality control problems and engineering ignorance problems. The changing of the body style and changing the interior serves to draw attention of the customers from the real problems.
+<br><br>
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

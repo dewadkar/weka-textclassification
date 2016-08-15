@@ -1,0 +1,36 @@
+DOC>
+<DOCID> 27745 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_PowerShot_S100 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-48E6-25EDD06C-3A1E7E31-prod5 </URL>
+<TEXT>
+            The S100 is actually the second digital camera that I've owned.  And I've only owned a digital camera for 8 months now.  I had originally owned the Canon Powershot S10 which is the S100's predecessor.  It was a very nice camera but two months after I got it, Canon came out with the S100 and I was immediately hooked.  For all intents and purposes, the S100 has the same specs as the S10 but at 2/3s the size.  They're both 2.1 megapixel cameras and they both have the same form factor.  But that's where the similarities end.
+
+The S100, with its smaller size, lacks a bunch of buttons that the S10 has.  This is good cause it makes the S100 easier to use and not as confusing for the beginner.  However, the S10 does have its advantages.
+
+The most glaring advantage is the S10's LCD display.  It's slightly larger and more importantly, a lot clearer.  When I first got the S100, I thought the unit was broken because the LCD display showed visible, flickering horizontal bands when viewing dark images in shoot mode.  The S10 to my recollection didn't have this.  Those lines disappear when you're previewing your pictures on the LCD though.  After contacting Canon online, they told me this was normal so I've learned to get used to it.  It's not that big of a deal since those lines aren't apparent when shooting in lighted areas and they don't affect the shot taken anyway.
+
+Secondly, the S10 has 3 levels of picture quality (Medium, Fine, Super-Fine) and size (Small 640x480, Medium 800x600, Large 1024x768) for you to choose from, giving you 27 different combinations that you can set your pictures to.  The S100 combines the picture quality and size to give you only 3 settings:  Super-Fine/Large 1600x1200, Fine/Large 1600x1200, and Fine/Small 640x480.  Not that this necessarily is a bad thing since you tend to not change these settings once you find one that's acceptable for you and your Compact Flash card.
+
+Speaking of which, the 8MB CF that comes with the camera is good for only about a dozen shots in Fine/Large mode.  That's not nearly good enough for a good photo or vacation outing.  So unless you plan on bringing a laptop computer with you on your outings as well, look to invest in a higher-capacity CF card.  I managed to get a 48MB CF card at a decent price for around $120.  That gives me about 70 shots in Fine/Large mode and 31 shots in Super-Fine/Large mode which isn't too shabby.
+
+And on a sidenote to that sidenote, if you own a laptop computer, make sure you get a PCMCIA card adapter for your CF card.  It makes transferring the pictures to your laptop _so_ much faster and more convenient than if you used the USB or serial cords that come with the camera.  Plus if you have more than one laptop, you can use the CF card to transfer any type of computer file (not just pictures) from one to the other.  Since the CF card is unrestricted by computer platform, I've transferred all kinds of files from my Mac Powerbook to my Sony laptop and vice versa on a pinch without a hitch.  The adapter should cost you about $10 but it's a good investment.
+
+Moving back to the camera, the S100 has fewer built-in setting features than the S10.  But at least it has the ones the average user will use the most.  The one setting that I miss from the S10 is the very slow shutter mode which lets you create those amusing motion trail photographs.  If anyone knows how to do this with the S100, please let me know.
+
+And for those of you who actually develop the photos from your digital camera, I haven't printed any taken in the Small/Fine mode but the Large/Fine mode is pretty much picture-perfect.  Although developing photos from digital cameras tend to be more expensive.
+
+The S100's battery is pretty nice as well.  If you use the LCD display for shooting, you'll usually get about 85 shots before the battery dies, 270 if you just use the normal viewfinder.  Or 50 minutes if you just like reviewing your shots in the camera.  With the S10, you could actually use non-rechargeable lithium batteries that you can pick up from any electronics store in case your rechargeable ran out while on a long excursion.  But, the S100, because of its smaller size, doesn't let you do this.  At least the recharger is small and light.
+
+As for the camera itself, it's great.  It's small but _very_ solid.  Not exactly sure what material it's made of but the brushed aluminum look is classy and very slick although it requires you to go over it with a cloth every now and then to get rid of your fingerprints.  The leather belt pouch that comes with it serves its function decently although I wouldn't exactly go around dropping the camera all over.
+
+Taking a picture with the camera is easy enough although having others (who haven't used a digital camera before) take a picture for you requires a quick explanation.  Basically because they're expecting to hear the typical &quot;click-whirr.....&quot; of a normal camera but a digital is practically silent so a lot of people don't know if they've actually taken the picture or not and sometimes wind up taking 2 or 3 before asking, &quot;Uh, does this thing work?&quot;  But that'll change in time.
+
+And your women friends will probably love this camera.  I think my girlfriend uses this camera more than I do.  She'll just grab it, toss it into her purse, and I won't see it for days.  And everyone who has seen it will always pick it up and play around with it for awhile.  Seems to be irresistible.
+
+So overall, this is a great camera for the non-professional photographer.  Heck at $600 it better be.  ;-p  Professionals might not like its limited zoom (2x) and features but for the person who's always running around, this one's perfect.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

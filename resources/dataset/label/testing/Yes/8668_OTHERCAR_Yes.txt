@@ -1,0 +1,31 @@
+DOC>
+<DOCID> 8668 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_225285_I_630705 </PRODUCT>
+<URL> http://www.epinions.com/content_54894366340 </URL>
+<TEXT>
+            After doing research about digital cameras online, I went to Best Buy to try out cameras.  My top two choices were a Nikon Coolpix 995 and a Canon Digital Elph.  But when I saw the Olympus, I was hooked.  I went home, read up on its features, and bought it the same day.
+
+And what features convinced me?  The 10X optical zoom is unparalleled in a camera of the C700's size and cost.  Serious photographers can override any automatic setting: aperture, shutter speed, focus, white balance, and emulated ISO setting.  And it works with Linux.
+
+But nothing's perfect.  My biggest complaints are that I had to spend an extra $55 to buy 4 NiMH AA batteries and a 128MB SmartMedia card.  The bundled 8MB card only stores 16 pictures at the default settings.  Some people may also lament the 2.11 megapixel CCD; many cameras in this price range now have 3.3 mp.
+
+.....Some more details.....
+
+This camera is great for anyone from a novice up to a serious amateur.  Novices can use the camera as a simple point-and-shoot and get reasonably good pictures.  Serious hobbyists can tinker with the lighting, focus, and white balance and get more interesting pictures in a variety of settings.  This is a "having your cake and eating it, too" situation.  If you need to take a picture quickly, just hit the shutter button.  If you want to get artistic or shoot in unusual lighting, everything's adjustable.
+
+The user interface makes everything easy to get to.  Changing the aperture and shutter speed can be done with one button.  Changing the focus takes two.  Everything else is in a well laid-out two-level menu.  You can pick three menu settings for top-level access.
+
+The camera takes AA batteries, giving me the choice of 
+Lithium (included), rechargeable, or alkaline in a pinch.  I have two sets of rechargeables that I rotate; each lasts several days of normal use.
+
+The C700 acts as a "USB mass storage" device, which means that it can run with any USB-capable OS, including Win98+, MacOS, and Linux.  The computer treats the camera as an external hard disk and can download 8 MB (16-25 pictures) in about 8 seconds.
+
+I would very strongly recommend this camera to anyone who wants the flexibility of a digital SLR in a $400, 11-oz package.
+
+One caveat: many of the cheaper vendors are selling either imported grey-market cameras (which have no warranty and may not have English-language menus) or are selling "bare" cameras without software, cables, batteries, or the 8MB smart card.  Make sure you buy the U.S. retail box.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

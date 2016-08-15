@@ -1,0 +1,67 @@
+DOC>
+<DOCID> 29634 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_EOS_D30 </PRODUCT>
+<URL> http://www.epinions.com/content_31042408068 </URL>
+<TEXT>
+            When it comes to Digital Cameras, i've been around the block. One of my more recent purchases was the Canon G1, which I was happy with on the whole. One of the things Digital cameras kept me from doing though was using my film-based SLR. While the SLR I have (a Nikon N50) is very basic as far as SLR's go, I was able to really enjoy taking pictures with it by having full manual control. 
+
+After a morning of shooting with the good ole N50 again, I finally decided it was time for me to stick my nuts out and go for a Digital SLR. I really mulled over the specs of the current crop of them out there. I spent oodles of time at Steve's Digicams and other camera sites taking a look at sample photos and what not. The other camera that was competing for my business was the Fuji S1 pro, but that one quickly fell behind when I saw that the pictures it produced were somewhat lackluster, and even slightly grainy.
+
+The camera itself
+-----------------
+
+The first $2500+ you'll spend is for the EOS-D30 body. The D30 itself is capable of 3.25 megapixels (2160x1440 effective resolution) utilizing a CMOS (Complementary Metal-oxide semiconductor) sensor. This is a pretty significant point, before this camera I have never heard of a digital SLR with interchangable lenses EVERY having used a CMOS sensor. CMOS sensors are usually the underdog to CCD (charged coupled Device) because of some issues with grainyness and noise in photos. I was a little leery of this, but after seeing the photos on various websites, I was rather convinced it wouldn't be a problem. One thing of note though, since the CMOS imager in the camera is smaller than a standard 35mm frame, your focal length is increased by a factor of 1.6, therefore a 28mm lens becomes a 45mm, etc. 
+
+The body itself is rugged, though I wouldn't want to drop it for any distance or take pictures in the rain. I've read that it's not as "war zone friendly" as the Nikon D1, but i'm not a professional. I'm a hobbyist photographer. I purchased a 28-200mm zoom lens (Canon Ultrasonic, hobbyist quality, not professional), and this combination seems sturdy and feels great in your hands, albeit a little bulky. It's quite light actually, allowing me to hold up the camera for long bouts of shot-taking. 
+
+The controls are a little odd at first. The on/off switch is in an odd spot, and there's also another on/off switch that controls the jog dial on the back of the camera (to prevent changing settings with your face or what not while shooting). Also, you'll have to know your way around an SLR camera if you want to be familiarized with the controls without readin the manual. The top of the camera has an LCD screen that shows the amount of pictures remaining, various camera settings such as flash state, drive state, shutter speed, etc. The back of the camera has the same LCD that's found on most other Canon digicams. Most of the stuff applicable to a digital camera happens on the LCD menus, such as picture quality among other things (I stick to RAW for what it's worth). 
+
+The viewfinder is pretty much standard fare for an SLR. Since it's an SLR, it's TTL (through-the-lens) viewing, so you don't have to concern yourself with any framing errors from non-TTL viewfinders. Another thing of note, you're tied to this viewfinder for framing your shot. You won't be using the LCD to frame them. I always found that silly on consumer digital cameras, so I for one will NOT miss it. The viewfinder also shows critical data such as exposure compensation settings, aperture value, and of course, shutter speed.
+
+And oh yes, the camera comes with a battery and charger. It also comes with a 16MB Compactflash card that you'll likely never use except for firmware upgrades. Buy the 1GB microdrive. 
+
+Camera Performance
+------------------
+
+God, I love this thing. 
+
+I haven't had this much fun since I got my original SLR, only now I don't have to drop off rolls of film. When setting up the perfect shot isn't imperative, I typically shoot in "P" mode (Programmed Autoexposure), which allows the camera to figure out what your aperture and shutter speed should be for the shot you're about to take.
+
+Selecting values for Aperture and Shutter is accomplished with a main selection wheel on the right side of the camera, near the shutter plunger. At first it took me a bit to get used to this, since the layout on my Nikon was a bit different, but after an hour with the camera, it became second nature. In fact, the main selection wheel is where you'll be inputting a lot of your settings/values. What it affects depends on the mode.
+
+Aside from full manual mode, the camera includes a shutter priority mode, aperture priority mode, Programmed Autoexposure (my favorite for leisurely shooting), Sports mode (fast shutter), night-shot mode, Portrait mode, landscape mode, Close-up mode, and full auto mode. There's also an "A-DEP" mode for maximum depth of field, which is quite nice.
+
+One of the things I love about this camera are the on-the-fly ISO settings. With film cameras, you buy the film you need for your particular situation. Is it bright and sunny out? You can live with 100 ISO film (or even lower). A little overcast? Maybe you'll want to use 400. With a digital though, you can do it on a shot-by-shot basis. GOD I love this. 
+
+Flash shots are somewhat murky in red-eye reduction mode. However, if you don't care about red-eye or are taking a picture that doesn't include people, the non-red-eye mode has a much more filling effect. I haven't bought a speedlite yet (like the 550EX), but I plan to. For now though, I think i'll keep my shooting outdoors, because i'm not very fond of the built-in flash. This is no big deal though, I've never owned a camera that had an adequate flash on board. 
+
+Picture Quality
+---------------
+
+Oh man, does this thing take great pictures. The first thing the average consumer digital owner will likely notice is how the D30's pictures tend to be on the "soft" side. I certainly noticed it a bit, and it might have worried me if I didn't use Photoshop quite a bit. It seems that Canon made the decision to not rely heavily on on-the-camera sharpening, since most people who would be using an SLR of this caliber would likely give their shots a pass through their image editing software anyway. This worked out well for them, since the shooter can custom-tailor what he wants his shot to look like. I personally find that a VERY light pass through the "Unsharp Mask" filter in photoshop yields the best (and most consistent) results without adding any grainyness or noise.
+
+The pictures it takes are 3:2 ratio (width * height), so pictures are naturally suited to standard photo print sizes, and none of that 4:3 stuff making you have to crop everything. I like this a lot. 
+
+Color is amazing. The D30 will make you forget all about film. Wet prints look great when using really good film like Velvia and the like. This camera, in my opinion, keeps right up with it. I use an Epson stylus photo 1280 photo printer that allows me to print borderless prints, and I can print up to 11x14 before I notice any kind of resolution "loss". And even that "loss" goes away when you give your shots a run through a software package called "Genuine Fractals", a photoshop plugin that lets you resize photos to huge proportions while maintaining a high resolution by using fractal algorithms. This camera certainly takes unbelievable pictures. 
+
+The Software
+------------
+
+Here's the biggest joke of the package. The software is horrible. The ZoomBrowser package it comes with has to be one of the most hideous pieces of software i've ever seen, and I urge you not to use it. If you need something to manage your pictures, get yourself a copy of Thumbs Plus (www.thumbsplus.com). I can't stress enough how poor this software is. 
+
+I always shoot in RAW mode, which means i'm forced to use the Canon TWAIN driver which is what i'd call "on the slow side". I typically use Twain Multiple Acquire in Thumbsplus to dump all my photos from the camera to disk and then do whatever processing is necessary. I'd consider buying a card reader, but i'm paranoid of doing so with the fragility of the IBM microdrive. I fully believe that these drives do MUCH better long-term if you leave them *IN THE CAMERA* and transfer everything over USB. 
+
+BOTTOM LINE
+-----------
+
+This is a camera I am going to have an easy time living with. I personally prefer shooting with an SLR over a standard point and shoot camera any day. One of the few things I might miss from having a point & shoot is the anonymity you have when taking pictures. No one looks at you funny when you're taking pictures with a point and shoot. Carry around an SLR though, and they might think you're the paparazzi. 
+
+The D30 has great ergonomics, tons of features, incredible picture detail, even more incredible color. If you've been bitten by the photography bug and like the idea of a digital SLR camera that has interchangable lenses, this is the camera for you. It's affordable (as far as digital SLR's go), and well worth the price for the flexibility. The only actual complaint I have is the software, which i'm more than willing to deal with for the results i'm getting. 
+
+If you have the money, buy this camera. You won't be sorry. If someone stole my little D30 baby, I'd be on my way to a camera store to buy a new one, and I would likely not even consider another model even if it looked more impressive on paper. I really enjoy this camera's "Personality". 
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

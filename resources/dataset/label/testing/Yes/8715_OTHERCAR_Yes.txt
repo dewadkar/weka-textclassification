@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 8715 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1998_Acura_RL_Sedan </PRODUCT>
+<URL> http://www.epinions.com/auto-review-1009-5F1EB4E-38A0757A-prod2 </URL>
+<TEXT>
+            The Acura's $2,000 in-dash system determines the vehicle's location through the Defense Department's 27 Global Positioning System, or GPS, satellites, then uses its internal database to guide the driver to addresses, shopping centers, supermarkets, tourist spots or other points of interest. This is one of the first dash-mounted navigation systems; most of the others on the market are add-ons mounted to a pedestal rising from the floor. Using the touch-sensitive screen or buttons on each side of the system, the operator can program the system to provide detailed video and audio directions to thousands of addresses. It's fairly easy to use and highly accurate, although it didn't always direct me to the best or most logical route to destinations I programmed in. Still, it's great for getting you where you want to go without having to agonize over a map or handwritten directions<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

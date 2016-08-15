@@ -1,0 +1,25 @@
+DOC>
+<DOCID> 16739 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_MustekDigitall-Mustek_VDC-3500 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-2742-2F4BC665-3A1321B3-prod3 </URL>
+<TEXT>
+            The Relysis Dimera 3500 (alias Mustek VDC-3500) is is a very simple 640 x 480 point and shoot camera with a reasonably accurate bright line optical viewfinder. I bought it for $60 (tax included) new in the box at the LA county computer show (November 5, 2000), because I was curious what can be gotten at this price, compared to my Olympus D340R, which I bought one year ago for $300. On the web the camera sells for $99 + shipping.   
+
+Images are as sharp as can be expected from 640 x 480, with very pleasant 4 x 6 inch color prints. No match for my Olympus D340R, but very good at 1/6 of the price. Under some conditions, mostly very bright white areas, there is a pink color imbalance which can be corrected in PhotoShop. Probably saturation or pixel bleed-over. There is also some lens flair when very bright lights are in the picture.
+
+There is virtually no shutter delay (unlike the 1.2 second delay on my Olympus R340R). The flash is fully automatic and always full blast, i.e. anything closer than 2 feet will be blasted away.
+
+I only used the TWAIN32 driver software for the serial transfer of images to PhotoShop at 115KB, which takes 40 seconds per 640 x 480 image. Lucky, there are only 8 pictures to transfer per session, since this is all the 2MByte memory stick holds. No card readers appear to be available for these memory sticks. Extra 4MB of memory can be obtained for $40 on the web. The software is produced by IXLA and their web page has updates and upgrades if needed.
+
+The camera draws 230 mA in standby, 550 mA while saving a picture (which takes about 9 seconds). Assuming the image setup takes 60 seconds on the average, and that all downloading of images uses an external power supply, the single CR123A battery ($8) will last about 150 shots. For the external power supply I used three AA NiCad's. Without external power source the battery may only be good for 50-100 shots. For comparison, my Olympus D340R takes about 900 pictures on one set of 4 AA Alkaline batteries, if the LCD screen and the flash are not used.
+
+The VCD-3500 appears to be a very sturdy camera, no lenses or doors which may jam with a little sand, so no worry taking it to the beach. But, 
+1) you are limited to 8 pictures before having to return to the computer.
+2) without proficiency in computers and PhotoShop, you will be lost.
+3) if you have ambitions for big pictures (8 x 10) with lots of flexibility of flash, closeup, white balance, etc. this camera is not for you.<br><br>
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

@@ -1,0 +1,37 @@
+DOC>
+<DOCID> 12755 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_FujiMXX-Fuji_MX-2700 </PRODUCT>
+<URL> http://www.epinions.com/content_101800578692 </URL>
+<TEXT>
+            <b>Pros</b>
+Good image quality, overall colour balance, good sharpness 
+High resolution (1800 x 1200) 
+Fairly quick operation (fast startup, average cycle times) 
+Flash output controllable 
+Well thought-out on-screen menus 
+Simple to use 
+Good construction, well put-together high quality feel 
+Probably the best looking fixed-focal-length digicam 
+Small size makes it very portable 
+Camera remembers settings after power-off 
+Lithium battery and easy charging 
+Automatic lens cover 
+
+<b>Cons</b>
+Up-close image quality concerns: zipper effect, flat area noise and thermal noise at slower shutter speeds 
+Auto white balance can easily be fooled, white balance needs to be selected for best results 
+Sometimes requires "double focus" (two half-presses of the shutter release to get a good focus) 
+Small size and vertical orientation can make camera difficult to hold steady for long exposures 
+Setup menu could have done with allowing a little more flexibility over settings 
+Some ergonomical problems (fingers over flash / thumb knocking command wheel) for those with large hands 
+Less features than competition 
+Different aspect ratios in support resolutions (1800 x 1200, 1280 x 1024, 640 x 480) - not a real "con" but slightly "odd" 
+
+<b>Overall conclusion</b>
+The MX-2700 is Fuji's answer to the easily pocketable easy-to-use 2 megapixel class camera and to that extent it fits the bill, most people wouldn't notice or be bothered by the occasional image artifact (although poor performance in low light was a let down). A worthy successor to the popular MX-700.
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

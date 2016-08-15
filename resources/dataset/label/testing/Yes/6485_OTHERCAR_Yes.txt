@@ -1,0 +1,37 @@
+DOC>
+<DOCID> 6485 </DOCID>
+<PRODUCT> Digital_Cameras/Kodak_Easy_Share_DX3600_Digital_Camera_w_Dock__U___Camera_1032630k1 </PRODUCT>
+<URL> http://www.epinions.com/content_107289415300 </URL>
+<TEXT>
+                                   Snap to it!
+
+Kodak's 2.2 Megapixel DX3600 Zoom Digital Camera smoothly blends the sophistication craved by technophiles and the ease of operation preferred by the rest of us.  Constructed primarily of plastic, the 5"x 2"x 3" apparatus retails for between $150 and $200, and runs on two 1 � -volt AA lithium or nickel metal hydride (Ni-MH) batteries.  One downside is that these cost considerably more than their alkaline counterparts, but they are also rechargeable and last much longer.  The camera will work with alkaline batteries, but Kodak does not recommend them, as they can leak and damage the camera's internal mechanisms.  Low battery life is indicated by an appropriate icon which appears in the bottom right of the picture screen when the camera is on.   Due to the high energy used by the DX3600, alkaline batteries probably won't last even a week.  
+
+The DX3600 has a mode dial with icons to easily identify the different settings.  The setup mode allows you to turn the flash on or off, adjust the picture quality, or apply a time and date stamp to photographs.  
+
+The review mode lets you scan the photographs recently taken, and numbers each one in the upper right corner, along with an icon that tells where the image is stored, on the picture card or in the camera's internal memory.  In review mode you can easily delete unwanted images.  A 16-megabyte memory card will store approximately 50 to 60 images, and two to three minutes of video, depending on whether the user selects good or high quality.  The camera's internal memory holds eight megabytes, which translate to roughly 20 to 30 images or 60 to 80 seconds of video.  The default setting is for the picture card, but you can change this so that the camera stores the images in its internal memory.  64, 96, 128 and 192-megabyte cards can be purchased separately at a retail outlet.   
+
+Still mode is clearly indicated by an icon that looks like a camera.  When the mode dial is switched to still (after the camera is turned on) the lens protrudes with a soft whirring sound.  The camera is now ready to take photographs.  During this time the two-inch picture screen is black, with several white icons across the top, depending on what settings are in use.
+  
+The video mode will enable you to take clips of varying lengths &#150 five, 15 or 30 seconds, complete with sound.  Or if you prefer, you can simply depress the shutter button until the video capacity runs out (see above).  The default is set for the subject/s to appear in the picture screen, but this can be changed if you prefer to look through the viewfinder, as with still photographs.
+
+A KCRV3 lithium battery pack comes with the DX3600, but this can only be recharged with the Kodak Easyshare Camera Dock, which is sold separately. The Easyshare Camera Dock lets you automatically transfer photographs and videos to your computer with the touch of a button,  and recharge the batteries without removing them.  Instead of the camera dock, I purchased four AA Ni-MH batteries, as well as a charger which fits into a standard household outlet.  Recharging takes about two to three hours.  Remember that new Ni-MH batteries must first be charged prior to using them.
+
+The DX3600 has a Universal Serial Bus (USB) port on the side, and comes with a cable for connecting to your computer's USB.  Before purchasing any digital camera, verify that your computer indeed has a USB.  If your computer is older than five years, it may not.  Once the Kodak picture software CD is installed on your machine, the images stored on the camera are automatically transferred as soon as you put the camera in the dock or plug it into the computer's USB port.  Occasional glitches happen, and sometimes I have to unplug the USB cable from my camera and plug it in again before my PC detects the connection.
+
+The Kodak picture software stores still images as JPEG files (.jpg), and video as MOV files (.mov).  The latter uses QuickTime, which the picture software will install automatically on your hard drive.  
+
+The picture software takes up a lot of space on a hard drive, so you need to be sure that you have the room and the appropriate system requirements.  Obviously you need a USB port, and a version of Windows (for MacIntosh or PC) of 98 or higher, in addition to a color monitor that displays a resolution of at least 480 x 640 pixels, and a processor speed of at least 200 megahertz.  PC's require at least 32 megabytes of available RAM and 70 megabytes of free hard drive space.  For a MacIntosh, the requirements are 64 and 100 megabytes respectively.   
+
+The DX3600 takes very clear photographs, its operational features are fairly intuitive, and it makes a great first digital camera.  Even without the benefit of the user's guide, the average person can figure out most of the basics within 10 or 15 minutes.  I had been using mine for about two months before I even glanced at the instructions, and I am technically-challenged, to say the least.
+
+As previously mentioned, image quality can be set to good or high.  Basically, the higher the number of pixels (600 x 900 as opposed to 1200 x 1800), the better the resolution.  I generally opt for the lower resolution, as the image clarity is still very good, and the more pixels the photographs contain, the more space they take up.  The DX3600 also has a zoom and a wide-angle feature.  Photographs come out best at a distance of five to 15 feet, but this varies depending on what you are shooting. 
+
+The body is slightly bulky, weighing about 8 ounces, and although the camera comes with a carrying strap, I always worry about dropping and breaking the camera when I pull it out of my pocket.  Even with its obvious limitations, my old 110-mm camera is easier to carry and more durable.   I recently saw another digital camera, no bigger than a small calculator, which its owner told me held over 50 images in the internal memory.  I don't recall the model, but it was more expensive than the DX3600.  
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

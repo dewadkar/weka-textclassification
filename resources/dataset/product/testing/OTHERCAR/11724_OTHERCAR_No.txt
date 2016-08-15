@@ -1,0 +1,26 @@
+DOC>
+<DOCID> 11724 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Philips_KEY007_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_123211648644 </URL>
+<TEXT>
+            I was looking for a camera that I could carry around in my pocket to snap photos whenever I needed to do so.  Ultimately a digital camera built in to a cell phone would be optimal, since my pocket space is limited, but at the moment the quality of photos from phone/camera combos is very weak.
+
+So I decided on a device that did its primary function well.
+
+The Philips Key Chain Cameras seem perfect - good design, solid construction, small size, easy upload - you simply pop off the cap and plug it into the USB drive.  In Windows 2000 or XP the computer recognizes the camera as a removable drive and assigns it a drive letter.  Nice.
+
+The problem with this camera is that the photo quality is awful - worse than some cell phone cameras I've seen.
+
+The resolution is listed as 1.3 megapixels, but the true photo resolution is much much lower than that (about 25% of the claimed resolution) and you need to use the included software to extrapolate the extra resolution.  It sounds like false advertising to me.
+
+But even at the lower resolution this CCD needs a LOT of light to get even a passable photo.  Forget about taking pictures indoors.  Even under very bright fluorescent lighting the photos were underexposed and blocky - very "digital" looking.
+
+I would not recommend this camera even for casual snap shots.  It simply does not work well enough to warrant carrying it.
+
+Instead, I chose the Minolta DiMAGE Xt (see my review there).
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

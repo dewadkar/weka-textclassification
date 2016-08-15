@@ -1,0 +1,27 @@
+DOC>
+<DOCID> 1692 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Ford_Excursion </PRODUCT>
+<URL> http://www.epinions.com/auto-review-1F6E-1245F25B-387E10DE-prod3 </URL>
+<TEXT>
+            Excursion barges into showrooms for 2000 as the world's biggest, heaviest
+    sport-utility vehicle. Against the previous title-holder, the Chevrolet Suburban,
+    Excursion is 7.4 inches longer on a 7-inch-longer wheelbase. It stands about 6
+    inches taller and is some 1900 pounds heavier. 
+
+    Based on Ford's 3/4-ton F-Series pickup truck, Excursion seats up to nine,
+    has four side doors, and center-opening rear half-doors below a one-piece
+    top-hinged tailgate window. It comes in XLT and Limited models, both with 2-
+    or 4-wheel drive. Automatic transmission and 4-wheel antilock disc brakes are
+    standard. 
+
+    A V8 is the base engine. A V10 is standard with 4WD and optional with 2WD.
+    Available with either drivetrain is a turbocharged diesel V8. The 4WD system
+    shifts between 2WD and 4-high and 4-low via a dashboard switch, but is not
+    for use on dry pavement. General Motors rivals and Ford's Expedition offer
+    full-time 4WD that need not be disengaged on dry pavement. <br><br>
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

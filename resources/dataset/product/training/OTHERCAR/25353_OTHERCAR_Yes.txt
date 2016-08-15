@@ -1,0 +1,53 @@
+DOC>
+<DOCID> 25353 </DOCID>
+<PRODUCT> Digital_Cameras/elec_AgfaePhotoo-Agfa_ePhoto_CL30_Clik_ </PRODUCT>
+<URL> http://www.epinions.com/elec-review-4EF3-DF78301-398B318C-prod1 </URL>
+<TEXT>
+            I was looking for a sub-$400 camera to meet some very specific needs:
+
+1. Megapixel support
+2. LCD preview display
+3. USB Connectivity
+4. Mass storage (something other than expensive Flash memory)
+
+Well, if you've been shopping around, you'll know that I was trying to find something that didn't exist.
+
+Almost didn't exist - in fact, the only camera to match this spec is the Agfa CL30 Clik camera.
+
+Those that don't want to read any further - if you aren't willing to pay more than $400, don't care about digital zoom, and don't care about a bit of latency between shots, then buy this camera.  You are good to go.
+
+Read on for more....
+
+There are two big problems with most digital cameras.  First, storage space and second, connectivity to your PC or storage device.  The rest of the technology is pretty similar camera to camera.
+
+Most cameras use Flash memory.  Most cameras COME with 2MB of it.  This means you get about 15 pictures of decent quality before having to dump them, usually through a slow serial port (if you've ever had to do it, you  know this just sucks).  Flash memory CAN be expanded at great cost up to like 64MB - but it all boils down to more time at the PC dumping pictures or spending a lot of cash.
+
+The CL30 Clik's answer to this of course, is the 40MB removeable Iomega Clik disk.  This guy is about half the size of a credit card and maybe twice as thick.  For hires pictures you can get about 120 or so pictures (depending on the subject/compress ratio the camera obtains) per disk.  About $10 per disk makes it cheap and easy.  Thumbs up.  Yes, it lends to the latency between pictures - but more on that later.
+
+If you have transferred files via Serial cable, you know pain and suffering.  This camera mounts the camera as a Clik! drive, simply adding a drive to you system and you can copy, open, delete, etc. just like any drive.  Easy, simple, and you can use it as a 'mobile storage device' - maybe to move data home to work.  The speed is quite good, but obviously not as fast as a flash memory card.  USB is available on almost all modern computers over the last couple years.
+
+The on-screen menuing is very easy and intuitive.  It is fast and easy to choose options (flash on, flash off, resolution, etc).  Anyone will feel right at home with it.  There is an optical viewfinder as well, if you choose to turn off the LCD (although it isn't very accurate - you'll have to get a feel for it).
+
+Construction-wise, they could have made a few different choices.  It is a bit bigger than most cameras (chock this up to the Clik drive).  The 'rubber covers' for the ports seem very flimsy (I don't expect them to last long).  The switches and roller on the camera feel a bit cheap - but solid enough to last a good while. There is no lens cover provided but you can add one.  The Clik cover doesn't stick in place and tends to come open easy (more a minor irratant than anything else) but the disk is fixed in with the push-in push-out method.
+
+What about the picture quality?  Let's face it - you won't leave High Resolution or PhotoGenie settings (more later).  Medium/low resolution just isn't worth it.  I've seen pictures from the $900 Panasonic superdisc model and the CL30 Clik provides just as good of quailty.  
+
+The 'megapixel' doesn't happen without using the &quot;Photogenie&quot; setting. This format stores some extra decoding information with the file which, when used only with the included photo software, offers a bit less compression artifacting.  Does it REALLY make a difference?  For 95% of the people, no.  Stick with hi-res; use Photogenie only if YOU can tell the difference and are willing to spend the LOADS of extra time extracting the images through the pleasant, but overly complicated software.
+
+When you take a picture, the LCD blurs a LOT with action subjects.  Even turning or slowly drifting with the camera will blur the hell out of the LCD.  However, the LCD is great for picture playback, management, menu choosing, and overall usage.  If you plan on snapping fast action shots, you better learn to use the optical viewfinder. :)
+
+As with most cameras, holding the button 1/2 way down engages the autofocus.  DANG ITS LOUD!  This appears to be normal (many reviews comment on it) - but it takes some getting used to.  There are macro settings for close up too (and it is good).  After snapping the picture, it draws on the screen and you can then save or discard immediately.  You can also sort the images on the disc in 'albums'.  Nice, but I never use it.  The 'snap' of the picture until you can shoot again (using Photogenie settings) is about 13 seconds (without intervention through discard, etc.).  the 'boot up' time of the camera is about 9 seconds - a bit long, so plan ahead your shots.
+
+Battery life isn't fantastic (compliments of the Clik drive I imagine).  Use GOOD alkalines (they give you the first 4 to give you an idea - Duracells too) if necessary, but I recommend spending the $30 on NMHD (Nickel Metal) batteries.  Energizer makes a charger and NMHD batteries pefectly rated for this camera.  You can get a full day of shooting on a set of batteries - I recommend taking fully charged NMHD with a set of alkalines in the backup out to your shoot.  Use the INCLUDED AC adapter whenever possible, of course - especially dumping the pics.
+
+Overall, great value for the dollar.  You will spend $700+ on a camera with removable mass storage and USB with comparable features.  The package comes with the camera, a set of Duracells, a small carry case, AC adapter,  USB cable, software, one clik disk, and carry strap - plus software (Iomega clik drive and Agfa's Photo software).  You get EVERYTHING you need (although I'd really recommend the NMHD batteries).
+
+I'd highly recommend this camera for the 'standard home user' for family pics, web page images, etc.  You pro-shutterbugs out there may want to look at the &gt;$1000 cameras, because you probably aren't going to be happy with this.  I recommend checking out http://www.steves-digicams.com/cl30.html for a review for the non-clik CL30 camera which is VERY similar to the CL30 Clik (the menus are perfect).
+
+I hope this review was valuable to you.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

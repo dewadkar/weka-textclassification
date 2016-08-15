@@ -1,0 +1,28 @@
+DOC>
+<DOCID> 5809 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Olympus_D-490_Zoom </PRODUCT>
+<URL> http://www.epinions.com/content_6654824068 </URL>
+<TEXT>
+            This past Christmas I was able to retire my Olympus 340R Digital Camera, as I received the Olympus D-490 ZOOM which can take up to 2.1 Mega-pixel shots (1600x1200 pixel resolution).
+
+The picture quality still is not as good as traditional film, but it's getting much better. 
+
+Things I like about this camera:
+1. Zoom capability. 3x optical, 2.5 digital telephoto.
+2. It can take video (no audio) clips as well, though they eat up storage fast. Video format is MPEG.
+3. If you want ultra high quality you can take shots in TIFF format (all other formats are JPEG).
+4. Camera settings are easy to adjust. From exposure length, to brightness, you adjust these settings using the software and color LCD screen on the back.
+5. It uses the paper thin postage-stamp type memory cards.
+6. This camera is *much* more power usage efficient than my 340R. This is a big problem for digital cameras as they eat so many batteries. I'm still using the batteries that came w/ my 490 and I've taken over 300 pictures and have used the LCD display extensively.
+
+Things I don't like about the camera:
+1. *Major* design flaw! When you "open" the camera lens cover to take a shot, you cannot close it again until the picture has been fully stored. This means you sit there for a few seconds just waiting before the lens retracts so you can close the cover. This is an awful oversight in design.
+2. Camera's a little bulky for a point-and-shoot.
+3. Out of the box memory card is 8Mb which only gives you like a dozen high-quality shots. I upgraded to the 64Mb card which is great.
+4. If the camera indicates that it could use the flash, you have to pop it up by hand. Bizzarre!
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

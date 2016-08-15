@@ -1,0 +1,42 @@
+DOC>
+<DOCID> 2334 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_ToshibaPDRR-Toshiba_PDR-M4 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-772A-7849E41-39DA2689-prod1 </URL>
+<TEXT>
+            I've wanted a digital camera for about 3 years before I ordered one in August 2000.  I did the research.  I wanted a camera that stored several pictures and had the ability to store high quality pictures, but cost was primary.  In order to understand what a good camera is, let's look at the main features of a camera first:
+
+<b>Size</b>
+Most people want a small camera.  Usually small enough to fit in your pocket or to naturally hold in your hand.  Basically, most people want one that has the dimensions of a disposable camera or some other camera with a non-complex lensing system.  PDR-M4 is that size.  If you want exact I'll guesstimate it.........2-2.5 inches high, 1-1.5 inches thick, and about 4 inches in length.  For relative size, imagine if my hand was over it (look at the picture above) while it is on a table; my thumb hit the table on one side and my fingers hit the table on the other side.
+
+<b>Physical Quality</b>
+Kodak probably has the highest quality camera physical appearance.  This camera looks like stainless steel, much lighter though.  If I take the battery out, the camera is EXTREMELY light.  You begin to wonder if anything is in there.
+
+<b>Image Quality</b>
+Image quality is measured by resolution and color depth.  If you had a camera with 640 x 480 resolution, the megapixel equivalent would be a .3 Mp.  800 x 600 would be .48 Mp and 1600 x 1200 rings in at 1.92 Mp.  These two resolutions are the settings allowed by PDR-M4.  Toshiba says 2.1 Mp...I'm not sure why, maybe I'm missing something.  You also have a choice of compression.  I use the high compression all the time because quality doesn't suffer nearly as much as it does with resolution changes.  Full compression will store 4 times more images than low.
+
+<b>Zoom</b>
+Optical zooms are better than digital.  Optical is a true lens rendered zoom while digital is just taking a high quality picture and instantly cropping the middle of the picture, cutting the resolution height and width in half (2:1 Digital Zoom).  Don't think digital zoom improves the camera you are looking for.  PDR-M4 has a 2:1 Digital Zoom and no Optical Zoom.  If you can't live without zoom (I can), get one with an Optical Zoom (digital usually comes with it).
+
+<b>Storage</b>
+There are two types of storage.  Internal and External.  I recommend some internal storage so the camera can take pictures quicker and things just run smoother.  You probably want to start out with 8 MB external memory.  PDR-M4 comes with 8 MB external and 16 MB (more than enough) internal.  The external determines the image storage.  On PDR-M4 the 8 MB card will store 123 800 x 600 pictures at full compression or 33 1600 x 1200 pictures at full compression.  That is pretty good.  If you want to improve your storage on any modern digital camera, just buy a good card, like a 64 MB card.  This card will allow 984 800 x 600 images or 264 1600 x 1200 images.  Also, if you don't get a PDR-M4, make sure your camera uses SmartMedia and not 1.44 MB floppies, you won't regret it.  If you want to develop the pictures, just take the small card to qualified photo developers.
+
+<b>LCD</b>
+The camera must have an LCD.  This way you can delete and edit your images on the spot.  An LCD is a small TV; digital cameras usually have a 1.8&quot;-2.0&quot; LCD.  The PDR-M4 LCD has easy-to-use menus that allow you to free up memory on your card, like shrinking 1600 x 1200 images to 800 x 600 and full compressing low compressed images.  I like to take all my pictures in full compressed, but 1600 x 1200 resolution.  If I run out of room (33 images), I just make pictures that I will probably resize on my computer anyway, 800 x 600.  If I do this to 16 of the images, I can take 12 more pictures at full resolution.  The LCD can also show a slide show preview, allows you to switch to Black/White mode, 16 frame motion shots, Bulb shots (night), copy images to a different card, and more.
+
+<b>Flash</b>
+Flash always uses a lot of battery power.  You probably want a camera that has an auto-flash (detects darkness), always flash, and never flash.  PDR-M4 has all those plus Red-eye Reduction and Night time flash.  The flash isn't cheesy, it works and looks good.
+
+<b>Timer</b>
+Timers allow you to take a picture of yourself like my photo on this page.  On the PDR-M4 you can have the timed picture go off in 10 seconds or 2 seconds.  Very easy to use feature.
+
+<b>Battery Power</b>
+Last, but absolutely certainly not least, is the battery power.  There are generally two different choices on sources: alkaline (usually rechargeable) or lithium.  Lithium is used in laptops and PDR-M4 and other digital cameras.  It is rechargeable but doesn't store as much as 4 AAA batteries, although close.  The lithium battery takes up half the space (making PDR-M4 small), more expensive, but can be recharged many, many, many more times than AAA rechargeable batteries.  The PDR-M4 battery, when full, will allow you to take 200 pictures with the LCD on and the flash used half the time.  It will let you take 300 pictures with the LCD off and the flash used half the time (or so Toshiba claims).  These stats are relatively correct, but those stats have the assumptions of prime temperatures, continuous photos, etc...  The camera takes 5 hours to recharge.  If you get a sold separately Quick Charger, it takes 1 hour and can be charged without the battery being in the camera.
+
+<b>Other Features</b>
+The PDR-M4 will auto turn off at a custom time, has a clock, and indigo light on the small panel on top of the camera. You can turn off the 5 second preview after the picture, auto-focus, traditional optical viewer and modern non-skippy LCD viewer, and you can search your picture database with a thumbnail view of 9 pictures at a time.  The package comes with the camera (obviously), battery, 8 MB card, 1 year warranty, wrist strap, imaging software, AC adapter, video adapter (see your images on TV after an event for everyone to see), and a USB adapter (30 times faster than Serial).<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

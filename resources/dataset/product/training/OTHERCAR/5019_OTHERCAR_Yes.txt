@@ -1,0 +1,107 @@
+DOC>
+<DOCID> 5019 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Ricoh_RDC_6000 </PRODUCT>
+<URL> http://www.epinions.com/content_28913274500 </URL>
+<TEXT>
+            First of all, let me say I had never even held a digital camera until my Ricoh RDC 6000 arrived at 3:00 pm one afternoon.  By 4:30 pm I was emailing pictures of the cats to my husband at work. Within 24 hours I had 70 pictures of Vacation Bible School up on the Internet for the parents to see. It just doesn�t get much easier than this. 
+
+Now, let me back up a little. When I first opened the box and saw all the cables and books, I thought, �I can�t wait for my husband to get home to figure this out.� As I started handling the camera and looking at the literature, I thought �Well, at least I can get the battery charged before Ted gets home.� Can you see where this is going? Instead of trying to figure out everything at once I just kept solving little �how to� problems and the next thing you know, I had taken a picture of the box the camera came in.
+
+The Ricoh RDC 6000 can be overwhelming when you first open the box.  There is so much more than just a camera in there. In addition to the camera I found
+
+Cable for USB Connection
+Cable for Serial Connection
+Cable for Television Connection
+AC Adapter
+Power cord for AC Adapter
+Rechargeable Battery
+8 MB SmartMedia Memory Card
+Converter Cable for Round Serial Port (I think that�s what it is)
+Camera Case
+Camera Strap
+Operation Manual
+Software Manual
+Battery Manual (the battery has its own manual)
+Software CD for Windows
+Software CD for Macs
+Registration Questionnaire
+Technical Service Document
+A packet of offers and advertisements
+
+Fifteen minutes after opening the box I had all these parts and manuals and documents spread out on my kitchen table.  I attached the strap, inserted the battery, and plugged in the AC adapter.  Since I could turn the camera on now and I did not have to wait until the battery was fully charged, I thought I�d take a few pictures.  
+
+A quick glance at the operation manual, I found the large dial on the top of the camera, turned it to picture taking mode and snapped away. Another check of the manual, I turned the dial to playback mode, and scrolled through the pictures I had just taken. There was no stopping me now. I turned that dial one more time to delete mode and started over. 
+
+After a few minutes of this I wanted to email the pictures to my husband so I got the software manual and the Windows CD.  Following the very simple instructions I installed the USB driver, the Ricoh Camera Utility and a photo editing software called ArcSoft. I attached the USP cable to the computer and the camera, turned that large dial on top of the camera to PC mode, opened the Ricoh utility and followed the directions. I now had .jpg files on my hard drive. Just treat these as you would any other .jpg file.  You can use photo-editing software to edit them, attach them to email, upload them to various photo storing websites, whatever you fancy. 
+
+Since I wanted to take pictures of Vacation Bible School the next day, it was now time to figure out more of the bells and whistles of this camera. Since many of you will find all the details boring (or even incomprehensible), they are at the end of this review and can safely be skipped without losing the sense of this Epinion.
+
+<b>What I really like about this camera</b>
+
+Using the 8 MB SmartMedia card that the camera comes with and setting it to 640 X 480 Normal, I can take 99 pictures and the quality is good enough to get 4� X 6� prints. The camera takes SmartMedia cards up to 64 MB and in 640 X 480 Economy that would be 1,690 pictures � on one card - but probably only good for wallet sized prints. It is also possible to set this camera to take pictures at 2000 X 1480 pixels.  In this case, you�d get 5 pictures on an 8 MB SmartMedia card or 43 pictures on a 64 MB SmartMedia card and could probably get a good print at 10� X 13�. Anyway you look at it, this was more pictures than I expected to be able to get on one SmartMedia card.
+
+The Ricoh RDC 6000 is pocket sized at 4 �� X 2 �� X 1 ��. It really isn�t much bigger than my Kodak Advantix or any 35 mm camera I have owned.
+
+The camera has many bells and whistles that I have yet to master including redeye reduction, playback to a TV, white balance, manual focus and focus lock, monochrome mode, protect from erasure, setting aperture priority (instead of automatic), changing ISO sensitivity, interval shooting, and using an optional remote control unit. I am most definitely an amateur photographer and anything that can be set to �automatic� is set to �automatic� so much of these extras will go unused by me.
+
+Much of the camera is intuitive.  I managed to set the date and time without ever looking at the manual. The menus on the LCD monitor are logical and easy to follow. I was up and running in just over an hour (and I had a problem installing the software that had nothing to do with Ricoh that took me 30 minutes to fix).
+
+The outdoor shots came out incredible.  That may have something to do with the sun, the blue skies, and the total lack of clouds we have here in Lubbock.  But I got one picture of balloons floating in the sky that shows so much detail I can hardly believe I took it.
+
+<b>What I don�t like about this camera</b>
+
+The operation manual was translated from Japanese.  Page 19 instructs you to charge the batteries (plural) before loading but on page 27, it is obvious you have to load the battery (there is only one) in order to charge it.
+
+The slot for the SmartMedia Card has a cover that cannot be opened with your fingernail. I need a knife or nail file to get this opened. Maybe it needs to be broken in but right now it is tough to open.
+
+The flash cannot be used while taking motion pictures.
+
+The camera case that comes with this camera holds only the camera and a SmartMedia card.  There is no place to store the battery in this camera case and the manual recommends removing the battery to store the camera. 
+
+<b>What I haven�t decided on yet</b>
+
+I took 40 pictures indoors with a flash before I needed to recharge the battery. In that time I played back all of them to check for quality and deleted about 5 pictures. After the 40 pictures, I became tethered to an outlet to finish taking pictures that morning.  For most projects, that�s probably enough charge to take a sufficient number of pictures.  But I guess I was excited about my new camera and went crazy taking pictures.
+
+<b>Most of the Important Details</b>
+(Can be safely skipped unless you are serious about buying this camera)
+
+The large dial on the top has a total of six modes.
+
+Set Mode � Let�s you format the SmartMedia card, set the date or language, and various other functions of the camera.
+
+Movie Mode � Allows you to take short movie pictures as AVI files.
+
+Still Mode � Allows you to take snap shots.
+
+Review Mode � Allows you to see the movies or pictures you have taken.
+
+Delete Mode � Can erase one or more of the files on the camera.
+
+PC Mode � for transferring files to the PC.
+
+Also on top of the camera are three buttons for flash, timer, and image quality and a small LCD panel.  The flash can be always on, always off, automatic, or slow synchronized for indoor use.  The self-timer allows for a 10 second delay between pressing the shutter release button and actually taking the picture. There are nine image quality settings ranging from 1600 X 1200 Fine to 640 X 480 Economy. The LCD panel has readouts on flash mode, self-timer, picture quality, battery power, redeye reduction, and recording mode (still or movie).
+
+In addition to the power button, the back of the camera has six other buttons and an LCD monitor.  Two buttons with up and down arrows let you scroll through the menus and the files (pictures) and allow you to zoom in from 1X to 2X to 3X to 4X. The display button changes the LCD monitor display turning it off and on (to save batteries while the camera stays on), or changes the display from one picture to six pictures. The CANCEL, ENTER and MENU buttons are used with the various menus in the various modes and are really self-explanatory once you are in a certain mode. The LCD monitor is where you find all the important information like date, time, number of pictures on the SmartMedia card, approximate number of pictures left to take, zoom level, flash mode, and focus mode.
+
+The bottom of the camera had a tripod screw hole and a dial to adjust the brightness on the LCD monitor.
+
+<b>Results and Recommendations</b>
+
+I have uploaded pictures from the camera to my computer to a photo hosting web site and they really are very good. I am no great photographer but the parents of the kids at Vacation Bible School were impressed. Total time from camera to web site was about 20 minutes.  Later, I went back to my files and edited about 20 of the pictures that were too dark or too light (using Microsoft Photo Editor software) and uploaded the new pictures to the web site.  That took about 20 minutes for editing and uploading. 
+
+I took a few pictures in each of the zoom modes (1X through 4X) and they seem to be as good as any other picture I took. 
+
+I printed a few pictures (640 X 480 Normal quality) at about 5� X 7� on regular (not photo) paper and they are acceptable.  They are group shots and people are recognizable. The recommended maximum size for this quality is 4� X 6�.
+
+I have taken one motion picture, uploaded the AVI file, and viewed it just to see how it worked.  It was quite simple. Press the shutter release to start recording, press it again to stop. Upload using the same Ricoh utility that is used for stills.  
+
+So far, I have taken advantage of one offer that came with the camera.  I joined photoisland.com and have received 75 MB of storage for pictures. I have not yet uploaded any pictures to them but 75 MB of storage will go a long way with only an 8 MB SmartMedia card. That�s close to 900 pictures I could store on their site.
+
+If you are new to digital cameras and would rather not start at the low end with a limited camera, I highly recommend the Ricoh RDC 6000.  It is easy to use, most functions can be set to an automatic mode, and yet it is still capable of taking some very high quality pictures and videos. As you become a more advanced photographer, you can use more of the manual modes to take exactly the picture you want. And don�t be overwhelmed by all the parts, cables, and papers that come in the box. It is very easy to sort out what exactly you need.
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

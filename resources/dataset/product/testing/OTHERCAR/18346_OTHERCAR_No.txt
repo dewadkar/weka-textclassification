@@ -1,0 +1,20 @@
+DOC>
+<DOCID> 18346 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_CasioQVV-Casio_QV-120 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-7FE7-9349B26-396109F5-prod4 </URL>
+<TEXT>
+            When I bought this camera almost two years ago, it was considered state of the art.. and to be frank, it seemed that way until recently..
+
+The QV-120 has no zoom features, a passable macro feature (macro allows you to take closeup shots of small objects) and a maximum 64 shot capacity.  It eats batteries.  Up until recently, third party manufacturers offered a 2X telephoto and 1.5X wide angle lens for this camera.  The TP lens helps improve low light conditions a tiny bit but it looks ridiculous as it's a third the size of the camera and makes you look like you're carrying a crappy little camera with myopia.  Its top resolution is 640*480, the low res is 320 * 240.  Neither resolution is good enough to produce anything better than postage stamp size pictures without graininess.  It does take fairly good photos in direct sunlight, but its LCD display isn't very visible in direct sunlight; a brightness adjustment screw lets you crank up the screen but this just winds up eating batteries faster.  Forget alkalines, rechargeable alkalines, or standard &quot;heavy duty&quot; batteries with this camera- it's either lithium or even better nickel hydrides for this puppy.
+
+I do have to admit that Casio still supports this camera, even on the Macintosh.  Its serial speed is actually decent but in this day and age of USB and compact film readers, its never-expandable 2 MB of flash RAM seems about as outdated as brownies.  (And I'm not talking about the cakes.)  You can also download pictures onto the camera and it does have a direct NTSC output cable so you can show the pictures on your TV/VCR and point to all the crappy JPEG artifacting.  But as far as detail goes, you would get better detail from the headline photo of a newspaper that was left out in the rain for six weeks.  They include about eight photos 'pre-loaded' in the camera whose only purpose I can deduce is to fool people into thinking you got a K-RaD camera because they were obviously scanned from film with a professional camera and dithered down to make you think that you too could take photos like the demos.  Cruel joke, eh!
+
+This is the kind of camera you would get free with a tank of gas.
+
+<br><br>
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

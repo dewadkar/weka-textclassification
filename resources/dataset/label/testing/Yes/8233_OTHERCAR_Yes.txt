@@ -1,0 +1,58 @@
+DOC>
+<DOCID> 8233 </DOCID>
+<PRODUCT> Digital_Cameras/Fuji_FinePix_2800_Zoom_Digital_Camera__Camera_43860738 </PRODUCT>
+<URL> http://www.epinions.com/content_70457396868 </URL>
+<TEXT>
+            The <b> Fuji FinePix 2800 Zoom</b> is a digital camera with 2.1-Megapixel CCD, which allows you shoot up to 1600x1200 resolution. And, unlike some digital camcorders that supposedly produce this kind of resolution with lower-resolution CCDs, this resolution is �real�.
+
+In other words, if you buy a digital camcorder that claims to produce 1600x1200 resolution from 1.3-Megapixel CCD (e.g. Panasocic DV702), you cannot possibly get �real� 1600x1200 resolution. 1600x1200 resolution requires at least 1600x1200=<b>1,920,000 pixels</b>.
+
+<b>�Real� Resolution and Zoom</b>
+
+The FinePix 2800 can produce �real� 1600x1200 resolution and also features things like 6x optical and 2.5x digital zoom. It allows you also use 640x480 and 1280x960 resolutions.
+
+<b>LCD, Viewfinder and Low-Light Conditions</b>
+
+The camcorder has a 1.8� LCD and an electronic viewfinder. They are this camera�s biggest drawback � both are barely visible in any kind of semi-dark condition, which makes it impossible to see what you are shooting.
+
+The LCD and viewfinder work fine with well-illuminated scenes, but in low-light conditions you cannot see anything on them (plus auto focus has issues in low-light conditions). This camera is not for someone who wants to take pictures indoors, in medium to dark lighting.
+
+<b>Picture Quality</b>
+
+The picture quality is excellent provided there is adequate light. There are no problems outdoors - with sunlight the picture quality is stunning. The camera is rated as ISO 100, so expect to use flash a lot and due to the above mentioned LCD and EVF problems as well as problems with auto focus in low light conditions, I have to once again mention that it is not the best choice for indoor shooting.
+
+<b>Features</b>
+
+The camera also has no TIFF mode and the supplied SmartMedia card is only 16 Mb. The camera can shoot AVI movies (up to 60 seconds with sound at 10 fps at 320x240 resolution) with pretty good quality, but the built-in microphone is not that great. The camera features USB connection, has flash (you will need it), macro capability and auto focus. 
+
+You can control exposure manually (in addition to AE modes) and the camera is easy to use, in general. The pictures can include your voice annotations of up to 30 seconds per picture. There is an automatic white balance mode as well as six other white balance modes.
+
+The shutter speed is controlled from � to 1/1,500 second. The aperture is F2.8, F4.8 or F8.2. The auto focus can work in Macro mode (from 3.9 inches to 2.6 feet) or regular mode (2.6 feet to infinity).
+
+The built-in flash has several settings you can use: Auto, Slow Sync, Red-Eye Suppression, Forced Flash. The flash can reach 9.8 feet.
+
+<b>Batteries</b>
+
+The camera uses AA-size batteries (4 alkaline batteries are included), but consumes them quickly with LCD on and doesn�t show the battery status until they are almost empty. I suggest (if you get this camera) that you get rechargeable Ni-MH batteries and a charger � this last substantially longer that alkalines.
+
+<b>What�s Included</b>
+
+<i>Included are:</i>
+Camera
+16 Mb SmartMedia Card
+4 Alkaline AA-size Batteries
+USB Cable
+Manual
+CD-ROM with USB drivers and software
+Shoulder strap and lens cap with strap
+
+<b>Bottom Line</b>
+
+<i>This camera is inexpensive and produces excellent picture quality in well-lit conditions. But the low-light performance is disappointing and the batteries are consumed quickly. </i>
+
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

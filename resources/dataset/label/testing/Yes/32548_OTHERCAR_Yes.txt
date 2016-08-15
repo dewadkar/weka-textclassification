@@ -1,0 +1,20 @@
+DOC>
+<DOCID> 32548 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Kodak_EasyShare_DX6490_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_123441024644 </URL>
+<TEXT>
+            I'm used to working with 35mm SLR cameras. I took a leap and bought this because it has 10x (380mm) zoom lens at 3.5 f when it's set at the max zoom -- which is a bit better than my longest SLR lens. I basically wanted a back-up camera for travel and wildlife photography. I took a few hand-held shots at the highest zoom and achieved incredible results -- an extremely sharp image. I would never get a result from this with my Nikon SLR. The sensor is also amazing and can take photos in near dark conditions (as long as the flash is set). I'm about 90 per cent happy with this camera. I compared this camera to the  Olympus C-740 Ultra Zoom Digital Camera (which has similar features) and professional reviews and tests all said the Kodak was superior (see http://www.imaging-resource.com/PRODS/DX6490/D64A.HTM) Quite a few reviews here do a good job of going over this camera's better features so I'd like to point out some minor inconveniences to consider:
+
+* The lens ring won't allow you to attach any kind of filter or lens adapater. Only Kodak can make these for the camera. I wrote to Kodak and they said they aren't expecting any accessories for this camera till Feb next year.
+* There is a plug for an external flash but no hotshoe. HOwever, you can sometimes find a tripod that can accommodate.
+* This camera doesn't store photos in RAW mode. This means you can't store as much image information as some of the higher-end professional cameras. This camera only stores JPGs. The highest size I've seen is about 1.8 MB file for one photo. If you want to, say, sell a photo to a stock agency or something you'll want to use something like Genuine Fractals or S-Splice to raise the image information.
+But if you're just going to take a photo, print it out and put it in an album you won't have any problems. My pictures came out great. 
+* Shooting speeds are a bit slow - even in burst mode. The camera will allow you to take two photos a second or so; however, the viewfinder won't let you see those photos as you're  snapping - you're basically snapping blind which means sports photography or wildlife (fast moving animals) will be impossible to shoot. You can take a few shots, but you can't really do burst photography like you can with a fast SLR.
+* One extra bit of caution is that if you change the ISO settings to anything higher than 100 you'll get some very bad image noise. This is very different from the grain you get with 35mm photography and the photos look like they are taken with a 1 MegaPixel Camera and not a 4 MegaPixel if the setting is even at 200 ISO. However, you can still get some great results between 80 and 100 ISO.
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

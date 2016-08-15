@@ -1,0 +1,85 @@
+DOC>
+<DOCID> 12351 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Fuji_FinePix_F700_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_128862555780 </URL>
+<TEXT>
+            <i>With 6.2 megapixel resolution, a 3x optical zoom, and plenty of features, the Fuji Finepix F700 is an easy to use and high quality digital camera for users who are looking for high resolutions and for a digital camera able to capture more subtle highlight detail than most other digital cameras.</i>
+
+My parents, goaded by my younger brother, got themselves a new digital camera and ended up purchasing the Fuji Finepix F700.  When I was down visiting I got a chance to use it on a cross-country ski trip that I went on with my father.  I found the F700 to be an easy to use digital camera that does a great job with point-and-shoot photography and a good job with photographs that are a bit more involved than just releasing the shutter.
+
+<b>The F700&#146s Details </b>
+
+<i>Resolution</i>
+With a 6.2-megapixel resolution, the Finepix F700 is one of the highest resolution general consumer digital cameras out there.  Fuji&#146s managed to do this and with a price that is generally under $400 if you shop around a bit.  In addition to the high resolution (which gets a resolution this high from algorithms to fill in details that the sensors didn&#146t capture), the F700 has the Super CCD image sensor.  This sensor is unique among digital cameras in that each pixel on the CCD is composed of two sensors instead of one.  One of the sensors is larger and gathers information on areas in shadows and mid-tone areas, while the other sensor is smaller and picks up light from the pictures highlights and light-tones.  This results in a higher quality image that has good details in both the bright and the darker portions of the picture.  The image quality comes in around the detail and quality given off by 4 megapixel cameras, but the detail in darker areas of the pictures, along with scene contrast is generally better.
+
+There are 4 different resolutions available on the camera, 2832x2128 (this is the interpolated resolution at 6.2-megapixels), 2048x1536, 1600x1200, and 1280x960.  Images can be taken in either RAW mode or in jpeg mode.  The F700 is also able to take 13 seconds of high-resolution AVI video with audio.
+
+<i>Weight</i>
+The camera measures about 1 inch deep, 2 inches high and a little over 4 inches wide. The F700 weighs in at 0.38 pounds (that&#146s just about 6 ounces).  The battery and the memory card adds about 1 ounce to the weight of the camera.  It&#146s not heavy and it&#146s not that large, but nowhere near as small as some of the compact digital cameras available.  The LCD monitor on the back of the F700 measures 1.8 inches in width and is quite bright and easy to read.
+
+<i>Storage</i>
+The F700 uses the xD picture card to store images.  The xD cards comes in various sizes from 16 megabytes up to 256 megabytes.  With a 16-megabyte card you can store approximately 10 images in the full 6-megapixel resolution, up to 33 images when you are taking pictures in the 1-megapixel resolution.  Images saved in the RAW format will take up more space.
+
+<i>Transferring Images and Recharging the Battery</i>
+The F700 comes with a dock to transfer images and to charge its lithium-ion battery. When you are ready to charge or transfer images, you put the F700 on the supplied cradle and it is connected to the computer through a USB cable. The images transfer and the camera recharges.  There is software that must be installed to use the dock and afterwards, it is an easy and simple way to both charge the camera and to transfer the images.  If you have a memory card reader that supports the xD standard, then you won&#146t need to use the cradle to transfer pictures, just to recharge the battery.
+
+<i>Lens, Zoom and Focusing</i>
+The built-in 3x optical zoom lens is equivalent to a 35-105mm 35mm lens and the F700 also offers a 2.2x digital zoom.  Focus on the camera can either be completely automatic or manually controlled.  There is an optical viewfinder on the F700 that offers about 80% of the image that will actually be taken.  The LCD monitor can also be used to compose photographs.
+
+With the F700 in the general picture-taking mode, photographs can be taken from about 2 feet to infinity.  In the macro mode, pictures can be focused on from about 3 � inches to about 2 � feet.  This is pretty darn close to the subject and should suffice for most macro photography that general users will be taking part in.
+
+<i>Picture Modes</i>
+Pictures can be taken in either black and white, color or chrome directly from the camera.  Though most users would best be served by taking pictures in color and then converting them through software into other modes, in case they like the color image.
+
+<i>Exposure, Shutter Speed, Flash and Timer</i>
+The camera comes with several pre-set exposure modes for various picture-taking options and includes a portrait and a scenery pre-set.  These are useful for beginning users, but more experienced users will probably skip the pre-sets and use the F-700&#146s ability to manual select some settings for different kinds of photographs.  White balance can either be adjusted automatically, or manually through 7 different pre-set modes (these modes are for different kinds of standard lighting).  Shutter speeds can be adjusted from 1/2000 of a second to 3 seconds.
+
+The F700 has an automatic built-in flash that has several different modes.  The flash works for subjects up to approximately 16 feet away.  Beyond that, the flash dies off and isn&#146t that useful.  The flash modes include standard auto-flash, red-eye reduction, a forced flash (it always goes off), no flash, slow synchro, and red-eye reduction and slow synchro.
+
+The F700 also has a built-in self-timer that can be used to take self-portraits or to take photographs without any shutter shake.
+
+<i>Controls</i>
+The F700&#146s controls are fairly easy to grasp and a user should be able to take it out of the box and start taking pictures without too much trouble.  However, to find out how to use the more detailed functions, or the manual functions that the F700 offers, a user would be wise to read through the user manual.  The functions aren&#146t hard to figure out, but with so many options, a quick flip through the manual will give you enough background to start exploring those options.
+
+<i>Cost and Included Accessories</i>
+The list price for the F700 is $599 and market prices on the F700 run between about $350 and $450 depending on where you purchase the camera.  The F700 includes a 16 megabyte xD memory card, the cradle, a USB cable, an AV adapter cable, a wrist strap, the rechargeable lithium-ion battery, the AC adapter cable, and a CD-ROM that includes the software for the cradle, along with Apple Quicktime 5, and the FinePix Viewer.  
+
+<b>My Experiences</b>
+
+I used the camera on a ski trip when temperatures where about 15 degrees or so and the conditions did little to interrupt the ability of the F700 to take quality pictures (I did however keep it in an interior pocket).  I used the highest resolution to take photographs (2832x2128) and I subsequently downloaded them on my parents&#146 computer and took them home with me on a CD.
+
+The image quality is on a par with the output from the 4.0 megapixel 
+<a href="/content_102769987204">Olympus C-4000</a> that I have, however the details in darker areas of the picture well outpace anything from the Olympus and from most other digital cameras that I have seen.  It&#146s not quite as good as detail that you can get from a standard SLR film camera with the right settings, but it is good and I noticed the difference immediately once I started comparing photographs.  Subtle details that are often lost with other digital cameras (you get washed out bright areas and dark areas without much detail), show up with the F700&#146s pictures and you get a better picture out of the deal.  Considering the conditions (bright sunshine with snow-cover), the pictures were much better than I expected and the Super-CCD that Fuji offers does definitely make a difference in picture quality.
+
+Because of the high resolution, Fuji claims that images can be printed as large as 20x30 inches, however I only got up to an 8x10 image and saw no problems with the printed image.  So I would imagine that you could significantly enlarge the image (with larger print sizes) with negligible losses in quality.
+
+The camera start-up was quick and the write-time for the pictures was comparable to other higher-megapixel models (a second or so).  
+
+With it&#146s basic controls and the suite of extra controls (manual adjustments, pre-set modes and the like), the Fuji FinePix F700 makes an excellent standard digital camera for most users.  Beginners might not need all the extras and more experienced photographers might wish for more, but the F700 has a solid position in the middle serving photographers who are not quite beginners and not quite experts by giving them what they need to take excellent photographs and offering enough options so they can continue to take better and better photographs.
+
+My parents have taken it on several different longer duration trips (weekends and such) and haven't had any problems with battery life or other functions.
+    
+It kind of makes me jealous of my parents, but I&#146m still holding out (and saving my pennies) for the new Canon digital rebel.
+
+<b>Final Thoughts</b>
+
+Not a camera for every user out there, the F700 does an admirable job of providing the average photographer with an excellent camera for everyday use.  The high resolution and excellent highlight (and shadow) handling make this a camera that no one would be ashamed of using.  
+
+Beginners might want to look for a simpler camera, and experts might want to look a little higher, but for anyone who wants a camera that will give excellent pictures and prints and who want enough flexibility (with manual control and other options) to explore further into picture taking would be well served with the F700.
+
+<b>Photography Reviews:</b>
+
+<i>Cameras:</i>
+<a href="/content_102769987204">Olympus C-4000 Digital Camera</a> / <a href="/content_14022446724">Olympus D-460 Zoom Digital Camera</a> / <a href="/content_9245200004">Minolta Maxxum 300si (35mm SLR)</a> / <a href="/content_8987512452">Polaroid PDC 640 Digital Camera</a> / <a href="/content_121532681860">Kodak EasyShare CX4300 Digital Camera</a> / <a href="/content_121751637636">Canon Elph LT APS Camera</a> / <a href="/content_122034556548">Olympus Stylus Infinity Zoom 35mm Camera</a> / <a href="/content_128847810180">Casio Exilim Ex-Z4U Digital Camera</a>
+
+<i>Books and Magazines:</i>
+<a href="/content_95587765892">Shutterbug Magazine</a> / <a href="/content_94737174148">Popular Photography Magazine</a> / <a href="/content_109519933060">PC Photo</a> / <a href="/content_118512717444">Outdoor Photography</a> / <a href="/content_120329637508">Photography Outdoors</a> / <a href="/content_128619810436">American Photo</a>
+
+<i>Printers, Scanners & Memory</i>
+<a href="/content_107691740804">SanDisk 128MB SmartMedia Card</a> / <a href="/content_118524972676">Memorex 128MB SmartMedia Card</a> / <a href="/content_119150120580">HP Photosmart 1115</a> / <a href="/content_119374974596">Microtek Scanmaker 4800</a> / <a href="/content_123388464772">HP Scanjet 3570c</a>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,13 @@
+DOC>
+<DOCID> 30483 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Toyota_Corolla </PRODUCT>
+<URL> http://www.epinions.com/auto-review-4E55-FD81C8E-3904988A-prod6 </URL>
+<TEXT>
+            The Toyota Corolla is one of the most reliable cars ever built.  If my Corolla is any indication, these cars are built to last.  I have an '85 Corolla that I drive like a race car.  This vehicle has taken a tremendous amount of abuse, and it is older than my high school freshman sister.  I've hit small animals with it, attempted to breach a 3 foot snow bank, tried trooper turns, and massively violated speeding laws, sometimes by a factor of 3.  (If anyone asks, I'm not using my REAL name here.)  I managed to get to 95 mph.  Let me remind you, this is a 1985 Corolla.  This car has nothing to show for this abuse except one flat tire and a nice dent in the license plate bar.  The gas mileage is decent, I calculated it to be about 22 miles to the gallon.  Newer models should be a fair amount better than mine.  
+The engine is rather weak, but with such a light weight, one can accelerate tolerably if there are no more than 3, 160 pound people in it.  Obviously, the acceleration decreases considerably as more people are added.  The room is average compared to other compacts, and the trunk space is decent.  This is, overall, a well rounded car and highly reliable.  If you plan to race others down the highway or navigate mountain trails, however, this is NOT the car for you.  The Corolla is purely a suburban vehicle for normal driving.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,31 @@
+DOC>
+<DOCID> 26988 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Casio_Exilim_EX-S3_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_109294423684 </URL>
+<TEXT>
+            All you see and hear that is good about the EX-S3 is true.  All the bad you hear comes from idiots.
+
+Idiots complaining here about their camera didn't pay any attention to what they were buying, expect more than is advertised, or, they are commenting on some model other than the EX-S3.  For those idiots, get your facts straight or just keep your comments to yourself.
+
+The EX-S3 slips into any pocket and is ready to take a picture in an instant, but that doesn't mean you should sit on it first.  In daylight, the photos are as superb as seen on the Casio website: http://65.77.157.57/s3model.htm
+Indoor shots are another matter.  This is not a top of the line indoor camera so don't expect it to be.  It will take very decent indoor portraits using the built in flash so unless you are an idiot looking for more than you paid for, here again, you will not be disappointed.
+
+It's compact... very compact.  You don't have any option for attachments such as a camera tripod or a telephoto lens.  This camera is stripped down to the bare essentials so if you need these attachments, buy a different camera.  They eliminated these luxuries to achieve the compact size.  Aside from attachment capability, this camera is packed with extensive controls and options so you will not be disappointed in that respect... more features than can be listed here (even more than listed on their own website).  To give you an idea, the self timer allows single or multiple shots, the auto powerdown has multiple settings, there are 11 quick set lighting selections and 4 quick set special effect selections.  If you're a control freak, you can tweak all the shutterbug settings and create special lighting selections of your own... add up to 999 different selections. The same idiot that complained about quality probably expects a laptop to offer all the features and expandability of a full size tower too.  Laptops offer only the basics because size prohibits comparable options available to a full size tower.  The same is true for the EX-S3.  All the basic power is there but, expansion is somewhat limited.
+
+As far as battery life and image capacity, the EX-S3 is very compact and still the battery life is quite reasonable.  If you anticipate taking a lot of photos, get the extra battery and memory options - they are also very reasonably priced.  I saw an external battery charger accessory somewhere but, wont be needing an extra battery or charger any time soon.  I did get two 256 MB SD memory cards - not because I need them (could have lived with a single 64 MB card) but, as a matter of convenience and the SD memory cards can be used for other hardware.  With a reader attached to the computer, one 256 MB card (the size of a postage stamp) is equal to and can replace 180 floppy disks.  I see that as a major side advantage, although, the same advantage could be expected from most digitals these days.  If you have doubts about buying more memory, wait and order later if it becomes a problem - you may not even need it.
+
+The digital zoom is nice but, digital zoom is only what it is.  It is nothing like optical zoom so again if you want a camera with quality zoom... get a camera that has it, or will allow a lens attachment.  Digital zoom, in affect, only reduces the number of pixels to match the scope of the image in view. A picture taken in normal view at max rez has a file size of about 1.6 MB, and a pic taken of the same object zoomed in to 4x will only reduce the size of the image file accordingly - all the pixels outside of the zoomed image will be discarded.  This means you could accomplish the same thing by taking a photo at normal zoom, move it to your computer, crop the image and save it again to discard the surrounding portion of the image.  The file size is reduced because there is less image. It does not in any respect retain all pixels or physically zoom in as with an optical zoom.  The up side to this is, you can in essence crop the image as you take them by using the zoom feature and then get more images in the camera because the file sizes are smaller.
+
+This camera does not use TWAIN to upload photos like older cameras or scanners.  It uses a nifty but not completely user friendly loader program that allows you to review, delete, copy, move or edit the image folders but, it does not use TWAIN to get there so you wont need it.  It does require the included docking station connected to a USB port on your computer.  You will need your own image editing software if you want to edit the images themselves.
+
+Word of warning.  I took some test shots, loaded them onto my computer, deleted the directory where they loaded and then tried to load more test photos in that same calendar day.  Don't do that - wait until the following day before deleting any loaded material off from the computer.  The camera numbers and dates all the photos internally and expects to find the upload folder it created earlier that day to append to it.  If the folder for that day is missing, you will not be able to load any more images from the camera for that day.
+
+The package does not include a carry case so I am using a cloth velvet pouch.  If I need something more durable, the camera inside the pouch fits very nicely into an empty 8-MM video cassette case.  I would suggest a pouch as a dust cover when toting it around in your pocket - at least to help keep lint away from the lens and ports.
+
+If, like me, quality images and micro size are the main concern, and you don't need fancy zoom features, this camera fits the bill fine.  It is mostly, but not completely fool proof so, just read the manual and learn to use it properly - you'll get great pictures and I wont be calling you an idiot too.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

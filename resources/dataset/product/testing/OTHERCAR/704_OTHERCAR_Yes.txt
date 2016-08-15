@@ -1,0 +1,18 @@
+DOC>
+<DOCID> 704 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_NikonCoolpixx-Nikon_Coolpix_950 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-14FC-13A2F22-38C8B1EA-bd1 </URL>
+<TEXT>
+            The Nikon 950 is a very good, perhaps the best consumer digital camera that is currently available.  However, it has two major shortcomings that may cause you to wait on the new Nikon 990. 
+
+The first shortcoming is the 950's shutter delay of almost 1 second.  This makes taking action pictures, particularly with flash, difficult.
+
+In addition, getting your photos from the Smart Card into your computer is time consuming.  You must take the card out of the 950, insert into the card slot of your PC and reboot.  Or, you must connect the camera to the serial port and suffer through a very slow data transfer.
+
+The new 990 3 megapixel version, which is going into production, apparently solves these problems though it will be pricey.  There will be no shutter delay and a USB connection.  <br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

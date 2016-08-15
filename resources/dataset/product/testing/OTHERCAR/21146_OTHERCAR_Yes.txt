@@ -1,0 +1,21 @@
+DOC>
+<DOCID> 21146 </DOCID>
+<PRODUCT> Digital_Cameras/614730_Sony_DSC_F505V_Cyber_Shot_Digital_Still_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_9307197060 </URL>
+<TEXT>
+            I was on the look out for a digital camera to add some photographs to my web site, being a novice photographer I didn't want the hassle of taking lots of shots to find out what's best and I did't want the cost of developing lots of 'bad' shots. After looking around and reading a few reviews I settled on the Cybershot 505. 
+I managed to get �100 off the price from a large electrical store by price matching, as it turned out I got the latest model (505V) for the same price as the previous model, though I didn't realise this until I got the camera home. With the �100 saved I bought an extra 32MB of memory. In use I've found the 505V to be excellent, lots of useful features and good quality images. 
+I'm not sure a more seasoned photographer would agree but consider the fact that like most people take 'snaps' and don't want the learning curve of conventional photography, I can simply take a shot and review it straight away, if I like it I keep it, if I don't I erase it and start again - almost instant feedback on what works and what doesn't. Battery life is fine in my opinion, more would be better but you've got to be reasonable and sensible in your expectations, how can you expect such a small, light battery to last for hours when it's powering the zoom lens, back lit LCD and all the other camera functions.  Also in direct sunlight (from behind the camera) you can turn off the backlight on the LCD and the hybrid technology lights it up - this will extend the battery life considerably. 
+An optical view finder would be nice but how can such a device work when the lens and body articulate? Such a device would only work when the body and lens was in a set position and this would negate the whole principle of the adjustable body. 
+
+A couple of points worth noting are - 
+i) You need Windows98 or newer installed on you computer, otherwise the drivers for the USB connection refuse to load.
+ii) Once you've connected the 505V to your PC and loaded the drivers, it's 'seen' by the PC as a removeable drive. This I think is fantastic, downloading or uploading images is very fast (just seconds per image) and you could if necessary use the camera as a transport medium for data. If only other manufactures had such an enlightened view on USB drivers.
+
+If you're reasonable in your expectations the 505V won't disappoint, just think about it this way, you wouldn't buy a sports car for luxury touring.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

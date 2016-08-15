@@ -1,0 +1,45 @@
+DOC>
+<DOCID> 9418 </DOCID>
+<PRODUCT> Digital_Cameras/Nikon_Coolpix_4500_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_121409932932 </URL>
+<TEXT>
+            Uf! where should I start? I feel I can write a whole book about this little gem. I have 6 months of experience, probably 1000+ photos made so far and I still discover something new each time I use it!
+IMHO each digicam is a tradeoff between the main features. CP4500 design favurs outstanding picture quality, focus accuracy, swivel design (beware! creates dependence!) and marco performance but looses points in shutter lag, speed, LCD size, focus speed and ergonomics of user interface. 
+There are many many many things to be said. I would just write what I liked and disliked about it:
+LOVE:
+- Most important: exceptional picture quality, sharp, very well exposed (256 matrix metering!), very natural colors
+- 4 MPixels, more than enough for most situations. Anyway, 95% of all my shots are done at 2Mpx, more than enough for everyday shots
+- 4x optical zoom (more than that means you trade off quality for it)
+- Lens Swivel design (you simply cannot believe how useful is! Beware, creates dependence!)
+- Very good build quality, full metal body. I dropped it on the floor a few times by accident and it survived 100%!
+- Panorama assist program (allows easy shooting of handheld panoramas)
+- Histogram display in photos (good for sorting shots afterwards)
+- Very good white balance
+- Full auto, full manual, Aperture or Shutter priority, anything you can think of
+- Best shot selector (very useful for handheld shots in poor light)
+- Zoom 6x and panning in pictures playback. Useful to see how good the picture was taken
+- 10 sec + 3 sec selftimer (3 sec obviously for tripod shots, good thinking, Nikon!)
+- 20 sec voice memo (very good when you want to record some extra details about shots)
+- 16 preset exposure programs, very nice assortment
+- Buttons shortcuts for useful features, customizable (like exposure compensation, white balance etc)
+- Adjustable flash power
+- Flash pops up only when needed, automatically or manual (selectable)
+- Unique lens adapter accesories, including fisheye (this was main reason I bought it instead of Canon G's)
+- Exceptional software NikonView 6, I'm surprised nobody mention this! It has some features 99% of digicams are dreaming about (print multiples pictures on one page 1-2-4-8-16-32 etc, batch rename - have you ever renamed manually 50 files starting with the same sentence? - it will take you 30 minutes, only 10 seconds with this software, thumbnail display and many  many more)
+- Many features, just read the looooong list
+HATE:
+- Very small LCD, this is the thing I am most dissapointed  about
+- Complicated menus, not user friendly
+- Some features are deactivated without any feedback, creates confusion (like no BSS while using flash, which is normal but I would expect a kind of feedback from the interface)
+- Slow focus, especially in macro mode, a tradeoff of its excellent macro performance
+- No AF assist light! This is pretty stupid, for such a camera! Makes focusing in low light very difficult
+- No TTL metering of flash. Just a photocell near the flash lamp. I am happy  that I am not a fan of flash picture but is up to you to judge how important this is.
+- Weak flash power, just up to 3 meters...
+- Focus indication is with the green LED located on the lens part. When is rotated you cannot see if the focus is achieved
+- Long shutter lag. Not a fast action camera! 
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

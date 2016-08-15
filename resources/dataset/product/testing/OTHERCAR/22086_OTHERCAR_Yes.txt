@@ -1,0 +1,18 @@
+DOC>
+<DOCID> 22086 </DOCID>
+<PRODUCT> Digital_Cameras/Kodak_DC215_Zoom_Digital_Camera__Camera_185_3175 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-31D1-4C5EBD8-385875DF-prod4 </URL>
+<TEXT>
+            We just purchased a Kodak DC-215.  What a great decision!  Our whole family is having a ball with it.  We really love the ability to take a picture, review it instantly and either keep it or delete it.  We paid $350 at Best Buy and as a bonus, they threw in a free 16MB compact flash card.
+
+Pros:  the camera is very easy to use.  The menu and controls are very intuitive.  The lens cap pops off automatically -  a minor convenience.  The LCD display is off until a picture is taken.  It then displays the picture for a few seconds before turning off again.  This feature saves on battery life.  The pictures taken at best resolution and quality look great when displayed on our computer.  Setup for transferring images to the computer was very simple. Pop the CD into the CD player, load the camera software and the installation program does the rest.  I did have some problems correctly setting up the COM ports though.  After playing around with the settings, I was able to get the computer to talk to the camera just fine.  One bit of advice, the default transfer speed for the COM ports is 9600 bps.  Adjusting this to 115,000bps really speeds up the transfer.  Remember to adjust the transfer speed in both the COM port setup (under My Computer, System) and in the camera control software.
+
+Cons:  The batteries drain really fast.  We were able to take about an hours worth of pictures.  Get the AC adaptor (optional) and rechargeable batteries to save money.
+
+<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

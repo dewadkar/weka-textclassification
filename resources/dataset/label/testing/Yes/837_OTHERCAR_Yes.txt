@@ -1,0 +1,35 @@
+DOC>
+<DOCID> 837 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Hewlett_Packard_PhotoSmart_C618 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-3EAE-C5DBA84-3A3ABC5E-prod1 </URL>
+<TEXT>
+            Last month I tested a few digital cameras. One of them was HP PhotoSmart C618. This are my remarks about this camera.
+
+The camera has enough little sizes (127,5 � 71,5 � 56,5 mm) and weights
+about 300 g (without battery). It uses 1/2.7&quot; CCD matrix with resolution
+2.11 megapixels. Maximum picture size is 1600 x 1200 pixels.
+
+Standart kit includes:
+- The Camera,
+- NiMH battery (optional AC Adapter ~ $80),
+- cables: TV-out,USB,
+- Software: Digita Desktop Software, HP Photo Imaging Software 2.0, ArcSoft PhotoImpression &amp; PhotoMontage,
+- CompactFlash card 16 Mb type II (not support IBM microdrive),
+- case and strap,
+- manuals.
+
+Camera has 2:1 optical zoom (by Pentax)and 2:1 digital zoom. Optical
+zoom is very good, but I think 2:1 is not enough for this price.
+
+Camera has two modes: automatic and manual. In manual mode you can control shutter speed (from 1/1000 to 4 seconds), aperture, ISO setting (100 or 200), delay timer (10s) and metering (from 100 mm to endless). LCD (2,0� - 130338 pixels) are placed on the back. The zoom, menus and navigation are all intuitive.
+
+Output format - JPEG (EXIF) and TIFF. Camera not support output video.
+Included software (especially,HP Photo Imaging Software 2.0) to allow you to do with yours photos a lot.
+
+Finally, I think the HP PhotoSmart C618 a very good buy for beginners, for professional this camera is required improvements (support IBM microdrive need certainly).<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

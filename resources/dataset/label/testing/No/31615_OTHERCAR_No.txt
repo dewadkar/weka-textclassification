@@ -1,0 +1,54 @@
+DOC>
+<DOCID> 31615 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_NikonCoolpixx-Nikon_Coolpix_800 </PRODUCT>
+<URL> http://www.epinions.com/content_96571330180 </URL>
+<TEXT>
+            HOTPIXEL UPDATE:
+Hot pixels are pixels that appear bright under low light. They are a common problem with older digital cameras. There is an application on the net for Coolpix cameras which connect to the camera and fix the problem!!! It's here:
+
+http://e2500.narod.ru/ccd_defect.htm
+
+This should be helpful for all you Coolpix 800 camera owners with 3 year old cameras. I haven't tried it on my 800, it's on the way to Nikon where they're probably going to do the same thing to it, only I'll have to wait a month.
+--------------------------------------------------------
+
+After an impulse buy on ebay, I decided to check out reviews on the Nikon Coolpix 800, which is essentially older technology. I will not discuss features of this camera; past reviews on ePinions.com do a sufficient job.
+
+The Cons:
+---------
+My issues with the Coolpix 800 are as follows:
+
+1) Digital cameras have become much smaller in size. Although the 800 isn't large, it's hardly pocket size.
+
+2) The newer Nikons have better optical zoom ranges.
+
+3) By the time you are done buying accessories for this camera, including a card reader (necessary), a bigger flash card, NiMH rechargeable batteries   charger, and the AC power adapter (optional), you may as well have bought a camera that comes with a lithium rechargeable battery, a power adapter, and USB connectivity. Nikon was stingy in making you purchase the adapter separately. They made it a weird 6.5 volts, and it costs over $80 to buy. What were they thinking???
+   A word on batteries: just when I thought, "Finally, I never have to worry about running out of film again"... wouldn't you just know it would be replaced by battery life! You're shooting, and all of the sudden the battery dies. Moral of the story: bring spares. Extended moral: there's always something, isn't there?
+
+4) There have been many enhancements in the firmware in Nikon cameras since the Coolpix 800. The camera really teases you by displaying shutter speed and aperture on the LCD display, yet you have no control over them. Only the automatic settings decide how to tweak them. Most 35mm cameras (and digital cameras now) at least have a "sports" mode where the camera will select a high shutter speed, and a "portrait" mode where the camera will use a wide aperture for shallow depth of field. This camera has neither. Don't blame the hardware though, blame the firmware programmers. It's a software issue, and the firmware is written with more emphasis on white balance than control over more essential photographic variables. There is, however, exposure compensation, which will push the exposure using shutter speed. One unusual feature of this is that in order to "see" the actual increased exposure in the LCD display, you have to push the shutter half way down.
+   The camera has the capability to take 30 fps (frame per second) pictures in a movie-like sequence, but the firmware doesn't turn it into a movie. You have to find animation software and do the bundling yourself. Newer cameras can take Quicktime movies. I will say this though, if movies are what you want, buy a camcorder, because taking video through a digital camera (even the recent ones) is like moving a fridge with a bicycle. Sure you can do it, but it just doesn't do the job well.
+   I was so upset with the firmware programming in this camera that I went to the Nikon site to download the firmware for the 950. I thought I could 'cheat' and get the 950's features, after all they are close cousins. Unfortunately the firmware update program checks to see if you're installing into the right camera. Too bad, huh? There is a firmware update for the 800 to fix a white balance setting, so if you get this camera make sure you download the update for the 800.
+
+5) Everybody mentions the flimsiness of the card door reader and the fact that it's hard to retrieve your card once inserted. Ok, it's true, but really it's no big deal. It wouldn't deter me from getting this camera.
+
+The Pros:
+---------
+So after all these gripes, why get this camera? Nikon makes a good product. If you can find a cheap one on an auction site, or refurb (as of April 2003 it's possible to find them for $150 US) it's an unbelievable value compared to some of the other cameras. If you are a student or just plain trying to buy a camera that is cheaper but still good quality, the Coolpix isn't a bad way to go.
+
+    If you look at the actual product and forget about user interface, the 800 is a winner. Nikon is still selling brand new 2.1 MP (MegaPixel) cameras (e.g. the Coolpix 2500). You can spend more on a higher resolution camera, but really if you never plan on enlarging more than 8X10" then more resolution isn't going to matter. The digital market has been caught up in the "smaller, faster, higher resolution" race. For some reason, some companies have forgot about lens quality. If you have a 4 MP camera but a pinhole lens, the pictures will come out large but they will be very low quality. When you are looking at any camera, check the lens size and minimum aperture out. A good lens will have a low minimum aperture (less than 3). This means that more light will get through the lens.
+
+A final thought:
+----------------
+In balancing the pros and cons, digital technology and value has come a long way in the last 4 years since the introduction of this camera. Although 2.1 MP cameras are still available on the market today, features like included lithium batteries, USB connectivity, and better automatic modes have really made this camera outdated. If you can forgive the camera for these shortcomings, or you find a really good deal on it, then hey, why not?
+
+UPDATE:
+-------
+I just found free software that bundles up sequenced pictures into an animated gif. Go to www.downloads.com and get "Animator-9 2.9".
+
+To use this program with the 800, click on the "Stitch" button, add your sequenced pictures, click "Done" then click on "Stitch" on the control box (accessible by clicking "Control"). Now you don't have to feel bad about not having the animation firmware in your camera.
+
+            
+<label> No
+<rating>  4.0
+
+</DOC>
+<

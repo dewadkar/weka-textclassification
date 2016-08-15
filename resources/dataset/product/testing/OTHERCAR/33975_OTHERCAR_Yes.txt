@@ -1,0 +1,50 @@
+DOC>
+<DOCID> 33975 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital-JamCam_JamCamProductFamilieses-Jam_Cam_Jr_ </PRODUCT>
+<URL> http://www.epinions.com/content_58719047300 </URL>
+<TEXT>
+            I found this for $25 at Circuit City, and got it on an impulse buy.  It's never going to work as your main digital camera, but it'll do fine taking flix for eBay or other pedestrian tasks.
+
+The camera's your basic bottom end digital cam.  No preview LCD.  No zooming.
+
+Image Quality
+
+Digital cameras just don't look very good.  This, and others, seem to have a problem capturing reds accurately.  The JamCam is far worse than other digital cameras in low light conditions and outdoors if the sun in behind the subject.  The photos come out very dark.  Image quality is acceptable outdoors when the sun is behind you, and good under adequate internal lighting.
+
+The flash works fairly well at around four feet, though using it seems to deplete the battery quickly.  Night photography isn't possible, which is a shame, because other digital cameras excel at nighttime photography.
+
+The camera has a problem taking photos of speckled surfaces with high contrast (like stucco).  The small black dots become colored dots on the photos.
+
+Digital cams are basically video cams with special software to make the image look photographic.  Products like the JamCam have neither good optics nor good software.  There's no way to shell out for good lenses and a real microprocessor on something so cheap.  So, you get what you pay for.
+
+On the other hand, consider that a Hi-8 cam costs around $300 today.  These cameras look good, and probably cost more to manufacture than a digital camera (which has no moving parts).  When I look at digital cams, I get the feeling I'm being price gouged.
+
+Compatibility
+
+I run Mac OS X, and needed to use the JamX application to download photos.  This app costs $10, but has a free mode with fewer features.  It works fine, but lacks retouching and color correction features, which are necessary.
+
+Installing the software on Windows 2000 didn't work out.  It didn't function at all.  No attempt was made at installing on Win98 or WinME.  I suspect those will work out better.
+
+Expenses
+
+The product uses expensive 9 volt batteries.  That's a big drag, because they don't seem to last long.  I did find, though, that you can usually wait an hour or so and the battery will "recharge" itself a little bit, as its chemicals balance out.
+
+If the camera's plugged into the computer, it seems to draw some power from the USB cable, and use less battery.
+
+You may want to purchase an additional MultiMedia Card.  These cost around $20 for the smaller ones.  I believe you can get 10 to 15 pictures per megabyte.
+
+Usage
+
+In order to get maximum value from this camera, you need to keep it close to your computer, so you can quickly download photos to see if they came out okay.  The image quality is so low that I'm never sure if the picture is going to come out okay.
+
+In a way, this is the usual "cheap camera" problem.  You need to take a hundred photos to really comprehend how it works.  Fortunately, the photos are free.  You're not shelling out $7 to get these photos developed.
+
+Which is the point here: this camera costs the same as getting around 75 snapshots.  Is it worth it?  Sure, pricewise.
+
+On the other hand, it just doesn't take good photos.  What's that worth to you?  Viewed in that light, it might be a better deal to shell out $300 to $400 for a camera.
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

@@ -1,0 +1,22 @@
+DOC>
+<DOCID> 30236 </DOCID>
+<PRODUCT> Digital_Cameras/elec_AgfaePhotoo-Agfa_ePhoto_Smile </PRODUCT>
+<URL> http://www.epinions.com/elec-review-5628-2FD6AA73-3A53A14D-prod2 </URL>
+<TEXT>
+            I bought this camera for two reasons.  1) My wife was having a baby and I thought it would be a fun project to 'record' her monthly progress and send it via e-mail to family and friends.  2) I wanted a fairly inexpensive camera to take the pictures.  After some searching on MySimon.com, I decided on the Ephoto Smile based upon the price and some various supposed 'customer reviews' from one of the stores selling the product.  'At 70 dollars,' I thought, 'What do I have to lose?'  Well, as it turned out, I lost about 70 bucks on a crappy product.
+
+My first impression, when I got the camera (and I do have to give it high marks on this aspect) was that it was a well put together piece of equipment, it seemed really sturdy to me.  It also came with a serial cable to connect to the computer, a pseudo-leather case (which is a VERY tight fight for the camera), the operations manual, and 2 AA batteries.  It also appeared to be very simple in operation, just point and click to take pictures, and just plug it in to your computer to view (which is a little more difficult than it would seem.)  However, it was after I began using it that I noticed it's shortcomings.  
+
+First of all, I was only able to take about 24 pictures with flash (one and a half times it's 16 picture capacity) before it quit working.  It just ceased operation.  At first, I thought it was a defective camera, but after fiddlin' with it for a few minutes, I realized the batteries were dead.  Remedy, I put some fresh batteries in it (Duracell, the kind made specifically for electronic devices).  Alas, these only lasted for two rounds of 16 before conking out.  This camera eats batteries like they were a dime a dozen.  Not very economical, (or environmental for those of you that worry about that kind of stuff.)  I tried a multi AC adapter that you can adjust voltage, amperage, polarity, etc. but the camera was not compatible with it at any setting.
+
+The cameras next drawback is the picture quality itself.  Taking pictures of my wife in front of an cream colored wall, the wall turned out as a dull yellow in one photo and an almost orange-pink (if there is such a color) in two others.  I also took pictures of my dog outside, the colors matched up fairly well here, so I guess that this camera is better suited to environments with a lot of ambient light.  Also, the pictures are somewhat pixelated, and there were also vertical lines of discoloration on the photos.  After viewing some pictures of what I thought were examples of the pictures the Smile takes in the 'Sample' picture box included in the software, again I thought that the camera was defective.  I e-mailed the company's customer support to inform them of the problem, to which they replied that I should be sure that the batteries were fresh, and that the camera was a 'low resolution' and the pictures would not be as clear as those included in the sample pictures (False advertising, anyone)  The graphic quality in the pictures is just not there.  There is no other way to say it than the picture quality is just plain BAD.
+
+Which brings me to my final gripe about this camera...the download time for the pictures.  In order to see the pictures you must click on the camera's icon in the Agfa PhotoWise software, then click 'view pictures' which will then download the pictures from the camera to your computer.  If you are downloading a full complement of 16 pictures, this will take SEVERAL minutes, after which you are able to see thumbnails of the photos.  You can view the individual pictures by clicking on one.  If you decide to save them, you have to wait ANOTHER few minutes to save them.  This ordinarily would only be a minor inconvenience, but when battery life is measured in SECONDS, it can be a very big deal.  
+
+In review, if this camera were just a little 20 dollar camera, I would say it is worth it.  But at the 70 dollars + price that people are spending on it, I say 'avoid this one if you can.'<br><br>
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

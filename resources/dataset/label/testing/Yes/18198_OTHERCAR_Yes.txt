@@ -1,0 +1,43 @@
+DOC>
+<DOCID> 18198 </DOCID>
+<PRODUCT> Digital_Cameras/Sony_DSC_P3_621170 </PRODUCT>
+<URL> http://www.epinions.com/content_59855507076 </URL>
+<TEXT>
+            At just 6.7 oz, the <b>Sony DSC-P3</b> has 2.8-megapixel resolution and can take pictures at up to 1920x1440. It sells for $500 and features a USB interface and employs Sony�s InfoLithium battery and Memory Stick.
+
+The available resolutions range from <b>1920x1440</b> to <b>640x480</b>. The P3 uses Sony�s <b>Memory Stick</b> (8Mb Memory Stick is included) and you can transfer your photos to your computer either using the USB interface or use a Memory Stick card reader.
+
+The pictures can be recorded in <b>Standard</b> or <b>Fine</b> mode. The highest-resolution files are so large that the supplied 8Mb Stick can only hold about five of them in Fine mode or ten in Standard mode. It can hold 20 (HQ) to 320 seconds (160x112) in the movie mode.
+
+The P3 has 3x digital zoom with no optical zoom available. It comes with a rechargeable Li-Ion battery and an AC adaptor/charger. You can use auto focus or manual focus (macro, 0.5 m, 1 m, 3 m, 7 m, infinity). The optical viewfinder is supplemented by a high-resolution 1.5 LCD (123,200 pixels).
+
+The camera features several modes for still pictures: <b>JPEG</b>, uncompressed <b>TIFF</b> (also records the compressed <b>JPEG</b> image in addition to uncompressed one), <b>TEXT</b> (<b>GIF</b> in black-and-white), E-mail mode (records 320x240 <b>JPEG</b> file in addition to the selected image size). 
+
+The uncompressed TIFF file at maximum resolution is large and will not fit on the supplied 8Mb Memory Stick. To be able to record such files, you have to get a Stick of a higher capacity.
+
+There is a self-timer mode with 10-second delay and the sharpness of the LCD screen can be adjusted.
+
+The built-in flash with red-eye reduction can be set to on, off or auto mode. You can also select ISO 100, 200, 400 or auto. You can also shoot short MPEG-1 movies with mono sound (the camera has a mono microphone and a speaker) and still pictures with sound.
+
+<b>Effects And Adjustments</b>
+
+The camera has several special effects including B&W, Sepia, Solarize and Negative Art. It has a Twilight mode program AE. You can also make manual adjustments to the exposure as well as focus and the white balance. You can rotate the images during playback. You can also put date and time on your pictures using the camera�s Date/Time stamp mode. 
+
+<b>Inputs</b>
+
+The P3 has an A/V out (can be switched between <b>PAL</b> and <b>NTSC</b>) as well as a <b>USB</b> terminal. The software is included (MGI Photo Suite 8.1 for Windows, MGI Video Wave IIISE for Windows, MGI PhotoSuite for Mac).
+
+<b>Battery</b>
+
+The supplied InfoLithium NP-FC10 battery has charging time of about 150 minutes and lasts for about one hour with the LCD on (this allows you to take 1000+ pictures). 
+
+<b>Bottom Line</b>
+
+<i>At below $500, the P3 is a good choice for virtually any kind of use. </i>
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

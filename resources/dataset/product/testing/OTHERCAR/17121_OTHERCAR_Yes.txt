@@ -1,0 +1,139 @@
+DOC>
+<DOCID> 17121 </DOCID>
+<PRODUCT> Digital_Cameras/Canon_PowerShot_A40_Digital_Camera_7634A001__Camera_7634A001 </PRODUCT>
+<URL> http://www.epinions.com/content_65292439172 </URL>
+<TEXT>
+            <B>For under $300, this camera provides more than just basic digital imaging. After countless hours of researching the perfect match, we decided on the Canon A40 for obvious reasons.</B>
+
+
+<B>Why I Chose The Canon A40</B>
+
+My wife came to me asking me to find her a digital camera. She works in Real Estate and occasionally needs to take photos of new listings. So I was commanded to find the perfect camera that met her needs:
+
+�	Under $350
+�	Easy to use and as close to point-and-shoot as I can get. (she misses our old Kodak DC-210)
+�	An optical zoom of at least 3X 
+�	LCD Screen
+�	Lightweight
+�	Small sized (to fit in her purse which resembles a suitcase anyway) ;)
+�	One that utilizes CompactFlash Memory. (we currently own over 200 MB worth)
+�	Easy connectivity. Preferably USB.
+�	Uncomplicated software (this was easy since I just loaded the necessary drivers from the included CD and let Windows XP do the rest)
+
+After reading reviews of this camera, it was evident that this would be the perfect match. We decided to buy it locally and take it for a test drive so a return wouldn�t be a hassle.
+
+
+<B>What�s Included</B>	
+
+�	USB Cable, Audio/Video Out cable, wrist strap, 8 MB CompactFlash card, 4 AA Batteries, Various Software titles including the necessary Twain drivers.
+
+The 8 MB card is just a taste of what you�ll really need to store the high quality images you can take. I suggest obtaining at least 64 MB to allow at least 100 good quality images.
+
+Either buy stock in a battery manufacturer or invest in Ni-NH batteries. The initial hit for the Ni-NH batteries is small compared to what you�ll be spending on alkaline. Plus if you�re environmentally conscious, think of what�s going into your local landfill.
+
+During my first few weeks of usage, I would estimate that I got about 150-200 images per set of 4-AA batteries. Now keep in mind that this was a combination of video and still shots, so using just stills, it's safe to say you could manage close to 250 images.
+ 
+Using the LCD display to playback images/videos will also reduce battery life, and for this reason I rarely use it. 
+
+
+
+<B>Features Worth Mentioning</B>
+
+There�s so much I want to cover here but I want to keep this opinion under 1000 words.
+
+
+�	2.1 mega-pixel
+
+
+�	AF-Assist Beam- With other digital cameras I�ve owned, it was impossible to obtain focus on dimly lit subject. With this feature, a reddish-orange light beam is emitted assisting the camera to focus on the subject. My experience with this feature has thus far been very positive.
+
+
+�	Built in flash which includes red-eye reduction.
+
+
+�	Auto focus with focus lock. Unlike fixed focus cameras that I�ve owned, the A40 offers a wider depth of clearness, where the fixed focus had blurriness to distant objects.
+
+
+�	Resolution up to 1600 X 1200 (also 640 X 480 and 1024 X 768) and three factors of compression. <B><I>Normal, Fine, and Super Fine </B></I>. I've found a good balance between quality and image compression by using 1600 X 1200 and <i>Fine</i>
+
+
+�	Can create small video clips with sound in sizes 320 X 240 & 160 X 120
+For the 320 X 240 size, count on about 10 to 20 seconds worth of video, and 15-30 seconds for the smaller sized clip. I was quite surprised at the quality of the video and the sound is crisp and clear. One thing I did notice though is the audio clipping when loud sounds are introduced. The file sizes are about 4 MB max and saved in AVI format which can be read easily in a Windows based system. They include Quicktime in the package but it wasn�t necessary to install for viewing.
+
+
+�	For an inexpensive digital camera I�m offered the options to adjust the ISO from 50 to 400, White Balance, Exposure Compensation, Shutter Speed from 1/1500 to 15 seconds, and Aperture from F2.8 to F14.
+
+
+�	Weighs close to 3/4 lb including batteries, strap and memory card.
+
+
+�	A panoramic feature that they call <B>Stitch Assistant Mode</B>. What it does is simple. As you take a picture, the shot is shown on the left or right of the viewfinder, your choice, and you use this to position your next shot, overlapping by 30 % or so. After these series of shots are taken, you load them into PhotoStitch program and reassemble them to create your panoramic view.
+
+
+�	Photo Effects- Includes sepia, black and white, vivid, neutral, and low sharpening, all of which will most likely get little or no use from us. They do work as advertised but you can obtain the same results bringing the image into an editor program such as Paint Shop Pro.
+
+
+�	The playback of images, including video clips directly from the camera to TV via the supplied A/V cable
+
+
+
+<B>Taking  Pictures</B>
+
+In the <B><I>Auto-mode</B></I>, there�s not much to do besides point, depress the shutter button halfway, wait for the two beeps signaling you to fully depress the button, and shoot.
+
+In the other modes, <B><I>Program and Manual</B></I>, you can make adjustments to items such as ISO, spot metering, exposure compensation, photo effects, and white balance.  In auto, these are preset. Any changes made in one mode aren�t necessarily transferred to the next mode. They will remain even when switching modes.
+
+Depending on the resolution and compression chosen, it can take a few seconds between shots. This hasn�t been a factor for the shots we take. If I had to guess, I would say in the highest resolution and fine compression, it takes a little less then 3 � seconds between shots.
+
+
+
+<B>Image Quality</B>
+
+As I compare the images to those taken with my two other digital cameras, this is by far the most consistent in image sharpness, exposure, tint and saturation. Most of this is due to its high pixel resolution and newer technology. Both of my other cameras use technology that�s 2-4 years old.
+
+If I have to lodge one complaint about the above, it has to do with the over saturation of some images. In particular, the reds appeared more vibrant than the actual object. The opposite is true of my Sony DSC-D770, where the saturation was 90% of the time too subtle.
+
+This model supports the <b>Exif Print</b> Standard. What is that? It�s a standard that assures users of accurate color representation and it is supported by companies such as Adobe, Kodak, and Canon, and HP.
+
+
+
+<B>Software</B>
+
+I�m not going to get into great detail here. Usually included programs are only a taste of what�s available in retail, and this is true with these titles. They�re ample for normal manipulation and editing though.
+
+�	PhotoRecord- A nifty program to create your own photo albums which neatly organizes them as though you�re viewing them in a paper album. 
+
+�	PhotoStitch- Works in conjunction with the <B>Stitch Assistant Mode</B>. I�ve never been a big fan of panoramic programs before, but this program does make it as easy as possible with satisfactory results.
+
+�	RAW Image Converter- Converts the RAW images into useable TIFF image files. Personally I have no use for this.
+
+�	Remote Capture- A utility to capture images directly to your computer, bypassing the camera�s memory card. In this utility you maintain control of the camera�s settings such as ISO, shutter speed etc. 
+
+�	Zoom Browser EX- Does exactly what the name implies, browses images while allowing you to organize them, e-mail them and to perform basic image manipulations including resizing, brightness, contrast, and so on.
+
+�	ArcSoft VideoImpression and PhotoImpression- From past experience, I have been unimpressed with ArcSoft�s offerings.  The VideoImpression software is basically what�s included with Easy CD Creator 5 package and allows you to make mini-movies of stills or video clips. PhotoImpression is another image manipulation program similar to <B>Microsoft�s Picture it</B>.
+
+
+
+<B>Minor Complaints</B>
+
+�	For me the 1 �� LCD screen is way too small.  The text is difficult for me to read in normal lighting let alone bright sun.
+
+�	Menu navigation is somewhat awkward. Often I find myself making changes that I was unaware of until it was too late. Blame my fumbling fingers or poor eyesight if you will. ;)
+
+
+
+<B>Overall</B>
+
+So my search for a perfect match wasn�t all that hard. My wife�s happy. I�m happy. What more can I ask for? ;)  
+
+We have been quite pleased with the Canon PowerShot A40 as it has exceeded our goal in bringing home a camera that met our criteria, and for under $300. While the movie clip option is an added bonus, it never did figure into my final decision.
+
+If what you seek is a small compact digital camera that takes high quality images, I can highly recommend the A40 for the beginner to the more seasoned digital photographer.
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

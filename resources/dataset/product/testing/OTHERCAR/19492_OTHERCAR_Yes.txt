@@ -1,0 +1,44 @@
+DOC>
+<DOCID> 19492 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Casio_QV_3000EX </PRODUCT>
+<URL> http://www.epinions.com/content_43212705412 </URL>
+<TEXT>
+            <I>A 3 megapixel camera for less than most 2 megapixel units!</I>
+
+I purchased my QV3000EX for $320 at an online auction. I later purchased a 340MB microdrive with USB reader for $120 at auction, and a Maha MH-C204F charger with 8 AA 1600mAh batteries for $50 from an online retailer.
+
+Total price, <b>less than $500</B> for a <b>complete</b> package.
+<p>
+<b>IMAGE QUALITY:</b> I was expecting good things when I purchased the camera, and I haven't been disappointed.  The quality of daylight pictures is incredible. Indoor evening pictures are also quite respectable, but you need to work with the flash a bit more to get your best shot.  Thankfully, with full aperture, shutter, and exposure control, and 3 flash intensities, you can tweak to your heart's content.  And with 340MB, you just keep shooting without fear of running out of storage.
+<p>
+<b>COLOR ACCURACY:</b> It's incredibly accurate in daylight, and even darn close when using the flash. It requires minimal or no level tweaking in Photoshop to make images truly shine.
+<p>
+<b>RESOLUTION:</b> 3 megapixels. That means 8x10s that are nearly indistinguishable from 35mm. More importantly, it means you can crop your shots and still have enough pixels left for a high-quality 5x7. Try that with a 2 megapixel camera!
+<p>
+<b>FLEXIBILITY:</b> First off, the optics are made by Canon. The lens is first rate.  As noted above, you have aperture priority, shutter priority, and several AE settings to choose from.  I have yet to even touch the AE (portrait, landscape, etc.) settings, because I prefer the manual or full auto modes.  In aperture priority, I can force short depth of field on small still lifes.  In shutter priority, I can get completely in-focus shots out a car window at 70 MPH!  Read a bit more online, and you can even get to a "hidden" full manual mode, even with bulb shutter.
+
+The one AE mode I have used is the night mode, which uses some crazy programming and processing to let you get incredible shots in low light, especially city lights, etc.  More useful on a tripod, or use the 2 sec timer to steady your elbows after you push the shutter.
+
+Toss in 3 metering options (multi, center, spot), manual focus, and a fantastic macro mode, and you're in league with most SLR digicams.
+<p>
+<B>BATTERY LIFE:</b> Using alkalines, approx. 50 shots in real-world use, including a mix of flash, no flash, LCD viewing, and USB transfer.  Using NiMH rechargables, at least double that. As with any digital camera, just save yourself the money later on, buy the <b>incredible Maha MH-C204F</b> "mother of all chargers" and be happy. Plug it into your car outlet and never run out of juice.  Find a cheap USB CompactFlash reader and save some battery life there, too.
+<p>
+<B>STORAGE:</b> 340MB. This is what transforms digital photography.  Instead of having to worry 'do I have room for this shot?', or constantly having to delete bad shots from the camera, you just keep shooting.  240+ full resolution shots on one disk.  
+
+I suppose you could upgrade to the 1GB microdrive (supported by the QV3000EX if you have the most recent ROM flashed in), but your head might explode with that much storage.
+
+Having this much storage lets you shoot in multi-drive mode (up to 3 high-res shots, .5 sec apart), and not worry about filling up your camera! If you're capturing sports, performances, or surprise parties, it's unbeatable!
+
+The one downside to the Microdrive -- because it's mechanical, write time is MUCH slower than a solid-state CF card.  And I've heard the things are tough, but I still wouldn't want to drop mine.
+<p>
+<B>CONNECTIVITY:</B> I plugged the USB cable into my Windows XP box, and it worked. Didn't ask for a driver disk or anything. Don't know about other OS's. Just upgrade to XP -- your machine won't crash and you'll be happy.  TV output is a nice plus, and good quality.
+<p>
+<B>OTHER FEATURES:</B> I suppose 30 sec. movies are fun, but this is not meant to be a camcorder -- there's no microphone!
+
+The HTML indices produced by the camera are a nice touch -- quickly get to all your photos directly from the camera in your web browser.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

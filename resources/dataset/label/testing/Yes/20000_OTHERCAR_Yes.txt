@@ -1,0 +1,14 @@
+DOC>
+<DOCID> 20000 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Lexus_ES_300 </PRODUCT>
+<URL> http://www.epinions.com/auto-review-1B14-D0AAED1-3A1DE798-prod4 </URL>
+<TEXT>
+            The Lexus ES 300 is a wonderful luxury car that is sure to outdo your expectations.  Lexus is renowned for its outstanding service and commitment to its buyers.  The ES 300 is a prime example of this consideration.  Build sturdily, the car is roomy with a responsive climate control.  On scorching summer days, it takes only a few seconds for the car to cool me down.  The interior is genuine leather.  While the 6 CD changer is not standard, it is well-worth buying to complement the wonderful sound system included in the car.  The seats are very comfortable and easily adjustable.
+What really sets this vehicle apart, however, is the ride!  In addition to being the quietest ride I have ever encountered, it is unbelievably smooth.  Driving through heavy city traffic over potholes is as peaceful as gliding down a country road.  The engine noise is greatly deadened by a special blanket under the hood.  The steering, as in many foreign cars, is very sensitive which may or may not appeal to all drivers.
+Overall, the car has outdone all of my expectations and is definitely worth every penny of its steep price.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

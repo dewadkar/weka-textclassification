@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 7902 </DOCID>
+<PRODUCT> Digital_Cameras/514230_Canon_PowerShot_A20 </PRODUCT>
+<URL> http://www.epinions.com/content_50280042116 </URL>
+<TEXT>
+            I love this camera.  It is very simple to use and makes picture taking a complete joy.  At 2.1 Megapixels it produces outstanding image quality to just less than 8 x 10.  Above that is acceptable, but not great.  Keep in mind that this is an mid-entry level camera and most people will be printing 4 X 6, so it is right on the mark in this sector.  If you are expecting to print razor sharp 8 X 10 and larger, you shouldn�t consider this camera or any other camera with less than 3 Megapixels.  I have had my A20 for about 2 months now and have shot a little over 1600 images with it in a variety of conditions.  The biggest complaint that I have so far is that in low light conditions without flash the LCD screen displays images as a bit more exposed than they really are, a trait common in other digital cameras as well.  All of the 3 shooting (full auto, �manual,� stitch assist) modes work well.  I have been using manual for most of the images with very good results.  Manual mode is a bit misleading because the only real adjustments that can be made are EV +/- 2 in 1/3 steps, White Balance in 6 presets including B&W, Flash (forced off and slow sync are available only in manual, others like red eye reduction are available in full auto mode), and continuous shoot mode.  The stitch assist mode works surprisingly well, but I�d ditch the Canon bundled photo stitch software in favor of another.  The other complaints I have are rather minor.  First, I�d like to see more manual functions, but I knew that it was limited going into the purchase.  Second, the bundled software is only so-so with very limited editing functions (rotate, crop, minor color correction only).  Third, the AA Alkaline batteries supplied with the camera are ridiculous; you will need to switch to some 1600 mAh (minimum) NiMH.  I did, and have had great results with battery life.  Factor 2 sets of 4 and a charger into the purchase price�about $40.  Last the 8mb Compact Flash card is way too short on storage.  At the camera�s highest resolution, expect to get about 7 images on a 8mb card.  Again factor this into the purchase (figure about $40 for a 64mb card).
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

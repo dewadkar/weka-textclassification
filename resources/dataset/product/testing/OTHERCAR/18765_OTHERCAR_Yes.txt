@@ -1,0 +1,27 @@
+DOC>
+<DOCID> 18765 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Casio_WQV1-1CR_Wrist_Camera_Watch_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/elec-review-3F9C-1DFBC82D-3A25EB62-prod2 </URL>
+<TEXT>
+            I've been using the Casio Wrist Camera for about a week now and I'd have to say that it's a great toy, and a wonderful tool for art, but don't expect any fine detail in your snaps.
+
+I previously used the Gameboy Camera in a similar fashion -- small, grainy &quot;art&quot; photos of everyday items.  I find both cameras fascinating.  And since I haven't worn a watch for ages (despite a large Swatch collection) it's not displacing anything I care about.
+
+I feel like this review is sending mixed messages -- that's because the watch does too.  At just shy of US$200, it's hardly a toy, but the output is very similar to just such a device.  Sure, it's far more compact, but is it really worth that much more?  Does it really offer anything more?
+
+In a word, yes.  The portability offered by this camera is even better than my Kodak PalmPix (also reviewed here on epinions), but while the PalmPix can be used for journalistic purposes the Wrist Camera really isn't up to it.
+
+Getting images off it is interesting.  Even though it has an infrared port, it won't talk to a standard IRDA port on a laptop.  You have to purchase a separate connection kit at just under US$50.  You'll need to plug it into a serial port.  This is probably the worst aspect of the watch.  Without some way of getting images onto a PC, it is just a toy.  (Note for Palm users: there is software that can receive images from the watch and turn them into files on your PC, just use something like Google to search.)
+
+It stores 100 images.  It allows deletion of individual images.  It has a couple of modes including a split-screen thing (but you have to take the two photos quickly) and a 1-bit mode.  You can swap images between watches and even assign them titles.
+
+Oh, and it has some watch functions like alarms, stopwatch and timer too.
+
+I would recommend this product to aspiring digital photographic artists, such as myself, or total gadget freaks that can't get enough of toys like this.  The rest of the target audience would probably do better to buy a cheap colour digital camera.
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

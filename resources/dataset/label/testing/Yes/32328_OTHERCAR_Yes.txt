@@ -1,0 +1,38 @@
+DOC>
+<DOCID> 32328 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Kodak_EZ200 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-699C-44FE1436-3A4AAC7E-prod3 </URL>
+<TEXT>
+            My daughter wanted a digital camera for Christmas, and I knew she should start with a simple, uncomplicated one until she had decided that she wanted to be fully involved with digital photography.  Mostly she wanted to be able to share photos by email, and to place photos in albums on http://www.photopoint.com.  This neat little camera seems to fill the bill nicely.  
+
+First of all, the camera is quite inexpensive.  I found mine at outpost.com for 124.95 and of course at outpost, you get free overnight delivery.  I ordered it on Dec. 21 and it arrived on Dec. 23.
+
+The camera is quite small, about the size of a large deck of playing cards.  It has three main controls on the top of the camera.  The shutter button, an on/off switch and a mode switch.  The mode switch allows you to rotate through the various operational choices this camera offers.
+
+Basically, it has a fixed focus lens, which is the old Brownie type lens.  Everything is in focus from about 30 inches on to infinity.  That is different when the camera is used as a web cam.  While the camera is hooked up to the computer via its USB cable, and you have the software figured out, it does operate quite well as a webcam.
+
+At this writing, we had not been able to do any outdoor shooting, and some of the results look a little blurred, but it is due to the auto exposure setting the shutter speed to slow under indoor lighting conditions, and the inherent camera shake with exposures of less than 1/30 of a second.  You can see samples of the pictures at 
+
+http://albums.photopoint.com/j/AlbumIndex?u=1418049&amp;a=10607813.  
+
+All of these were on Christmas day, and were indoors with available light.  Some were flourescent, others were incandescent.  Some are excellent, some are less than excellent.  I don't know what the one of my daughter has going for it where she is totally green.  Must have been flourescent.  
+
+The camera is easy to operate.  The mode lets you choose between a HQ, high quality, which is 640x480, or a WQ, web quality, which is 320x240.  You can also choose a video mode which saves up to 10 seconds of silent video clips as .avi format clips.  The video clips are at 160x120 resolution, but really look quite good.  The length of the video clip is dependent on how long you hold down the shutter button, but won't exceed 10 seconds. All images are saved in jpeg format except the clips. You can also set a ten second shutter timer or do a burst of five pictures at web quality, These are shot over one second.  I am looking forward to trying a burst outdoors as a portrait, so you get the eyes open for sure!
+
+The software installs easily on my Windows 98 SE PII 350 computer.  Since I didn't read the manual well to start, I thought there would be an icon for the camera on the Start:Programs listing, and fiddled with it for quite a while trying to get one to appear.  I thought I had a problem, until I read the manual.  The camera acts as a TWAIN device, meaning as a scanner.  So, when you have the camera connected via USB to your computer, and you start your favorite, or the included Arcsoft graphics software, all you need do to see your photos is choose, File:Acquire and choose the EZ200 camera.  When you choose to save your photos to a directory on your computer, the camera automatically creates a uniquely numbered file folder name to store the images in.  To clear the camera of pictures after you have successfully saved them to the computer, you simple hold down the mode and shutter buttons at the same time for 3 seconds, and the pictures automatically delete.  
+
+The camera has 4 megs internal storage, and there is no way to increase it.  This will give you up to 64 pictures at High Quality (640x480) or 128 at Web Quality (320x240).  Probably plenty of storage for most folks.  Stop to think that this is equivalent to two full 36 exposure rolls of 35MM print film at high quality.  Really quite a lot of pictures. 
+
+The downside is that there is no picture preview screen.  You will have to wait to see the finished product.  That was the biggest dissappointment for my daughter.  She was so used to the Kodak DC 210 that I have that allows a preview of all the pictures on the camera.  
+
+As a webcam, the camera performs very well.  The pictures are well exposed, and very clear.  I have not used it directly on the internet, but plan on trying that soon.  
+
+I recommend the camera as a great way to get introduced to digital photography.  It is inexpensive, easy to use, and a lot of fun considering the burst and movie features.  I highly recommend it to anyone looking for a simple digital camera for a teen or twentysomething who wants to dabble with digital photography.
+
+SBAWiz<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

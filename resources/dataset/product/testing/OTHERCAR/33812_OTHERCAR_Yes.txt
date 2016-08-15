@@ -1,0 +1,36 @@
+DOC>
+<DOCID> 33812 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_CanonPowerShott-Canon_PowerShot_A50 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-691E-27A9C5B-3918B145-prod2 </URL>
+<TEXT>
+            I've been considering digital cameras for years, but never felt they were within reach.  There were always so many issues: what file format would a digital camera use?  Would my computer (running Linux) be able to read the files?  How would I get the images from the camera to the computer?  What sort of features could I get?  And oh, those prices!  Especially after we moved 5,000 miles from my parents last fall, I desperately wanted to send pictures of our baby to them more frequently.
+
+That all changed this spring.  I found out that Linux can use free gPhoto software to download images from most brands of digital cameras, and that CompactFlash memory cards can be put into PC Card adaptors and read as if they were hard drives.  Prices kept falling, as well.  And then, just as I started getting seriously interested, Canon released their two higher-end cameras, the PowerShot S10 and PowerShot S20, making the PowerShot A50 the &quot;entry level&quot; camera in their line.
+
+A recent trip to all the stores in town that sell digital cameras had surprising results.  Nearly every store had decent digital cameras for around $300... but only one store (an OfficeMax) had a digital camera with an optical zoom for that price.  It was, of course, the Canon A50.  I was quite amazed to see it for the same price as non-zoom models, let alone for $300, since even mail-order places in Computer Shopper want more than that, and the traditional camera shop near my office still wants $500!
+
+Naturally, I bought the A50 - but not after getting my grubby mitts on a whole lot of other cameras in the $300 to $500 price range.  Olympus, Kodak, Fuji, Sony - all the major brand names.  When all was said and done, no other model was as easy to use, and had as good a set of features, for anywhere near the price.
+
+The A50 is definitely compact - when it was introduced, it was the smallest, lightest digital zoom camera out there, and it's still near the top of the heap in that regard.  Powered off, it fits easily in my shirt pocket or the palm of my hand.  Even so, it manages to pack a 2.5-power optical zoom, and a 2-inch active matrix color LCD for photo composition and reviewing shots.
+
+In addition to a fully automatic mode, the A50 offers a programmable mode, which I use in situations where I don't want the flash to trigger, or to specify small (640x480) pictures, instead of large (1280x960) ones.  It offers reviewing of single images or batches of 9 thumbnails, and can be connected to a PC, Macintosh or television/VCR for output - all the cables are included.  It also offers a &quot;stitch&quot; mode for combining multi-shot panoramas, but I haven't used that mode yet.
+
+The A50's menus are a big plus - many of the digital cameras I used were completely cryptic in comparison.  The menus are easy to navigate, and are presented in words (English, Spanish, French, German or Japanese, I think), instead of the little symbols some other cameras expected me to understand.
+
+The camera came with an 8-megabyte CompactFlash memory card, which holds about 24 large, high-quality shots, 40 large, low-quality shots, 60 small, high-quality shots, or 100+ small, low-quality shots.  Of course, different sizes and qualities can be mixed and matched.  When I'm taking baby pictures to send to friends and family, I prefer the small, high-quality setting in programmable mode; if I encounter a panoramic vista that'd make a great screen background, I use the large setting in full-auto mode.
+
+The A50 doesn't use commodity AA batteries, unfortunately, but it uses 2CR5 lithium batteries, which are pretty common as far as camera batteries go.  Several of Canon's film cameras use them, and they're usually easy to find at drugstores and camera shops.  An available power kit includes a rechargeable nickel metal hydride (NiMH) battery, AC adaptor and battery charger - I'll probably get it soon.
+
+Taking photos with this camera is a snap - pun intended.  Turn it on, point and shoot.  Like many motorized auto-focus zoom cameras, the A50 has a one-second delay between the time the shutter button is depressed and the time the picture is taken, while the camera makes sure it's focused.  Coming from a focus-free camera, this may take some getting used to, especially if your photographic subject decides to look the other way during that second!  Since the camera is roughly equal to ISO 100-400 film, it's not going to freeze a hummingbird's wings in mid-air, either.
+
+For general picture-taking, though, it's a winner.  And its macro mode, allowing focal distances as close as 6 inches, is great for close-up pictures of just about anything.  Image color is good, and the overall quality of images is so good that my father (a somewhat serious amateur nature photographer who uses one of Canon's SLR film cameras) thought I'd scanned in a photographic print.
+
+Overall, the Canon A50 offers excellent ease of use, a good resolution, a nice set of features, and now, it seems, a really great price to go with them.  If you're looking for a small but powerful camera, and can find this one for $300 like I did, I'd definitely recommend it over anything else you're likely to find in that price range.
+
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

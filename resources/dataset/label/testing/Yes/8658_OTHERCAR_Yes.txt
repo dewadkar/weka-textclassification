@@ -1,0 +1,80 @@
+DOC>
+<DOCID> 8658 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_225285_I_630705 </PRODUCT>
+<URL> http://www.epinions.com/content_119398764164 </URL>
+<TEXT>
+            I guess I've always been a camera enthusiast since I was a kid.  In high school, I was the photographer for the Academic team, and in college, I was a sports photographer for the UCI student paper.
+
+But, the main problems I had with photography were that it was expensive to go and develop film all the time, and you never really knew what you were going to be getting back from the developer.  
+
+Secondly, my dad used to run a computer repair store 2 shops down from a photo processing lab.  They were dumping chemicals down the drain all the time.  So, I figured, if I was ever really going to get in to photography again, it'd have to be digital.
+
+With a set of recharageable batteries, and with the one time environmental cost of the camera, I figured it was a more eco-friendly way to pursue my hobby.
+
+I bought a Kodak digital a couple years back, but after 1000 pictures, during my last trip to Japan, I spilled some cup ramen on the lens cap, and now the damn thing won't open.  (The lens cap, and on switch are tied to the same mechanism on that Kodak.)  I figured the Kodak was good for a point & shoot, so I'd get that cleaned out eventually and operational, again, but I decided to look at something else in the meantime...something middle of the road, and what I found was the Olympus C-700.
+
+Now, the C-720 is the newer model of this camera, but you want to go look up the C-700 and track that one down instead.  for some reason, the C-720 is a stripped down version of the C-700.  The C-700 has a 10x Optical Zoom.  The C-720 only has an 8x Optical Zoom.  The C-700 has sound with its movies.  The C-720 does not.  These are kind of important features to me, so I hunted down the C-700.
+
+<b>I'm a Big Robot, and I want some BIG Features!</b>
+
+So here's the nitty-gritty.
+
+The camera has a max resolution of 2.1 Megapixels.
+Takes a max of 15 second movie clips.
+Requires 4 AA batteries to run.
+Camera uses Smart Media cards.
+Priority settings for the camera.
+
+These are all kind of important features to me, and since the rest are going to get covered in the manual, or any other place you can look up digital camera information, I won't pad my review with that stuff.
+
+<i>2.1 Megapixels</i>
+
+2.1 Megapixels is enough for anyone.  Megapixels are not like Megabytes or Gigabytes.  If someone's bragging to you about their 5 or 10 megapixel camera, they are a retard.
+
+You probably have your monitor set to 1024 x 768 or 1200 x 720.  1200 x 720 results in a maximum resolution of...under 1 Megapixel.  So what that means is that at maximum resolution, your 2.1 megapixel camera will take a picture that is a little bit more than twice as detailed as what shows up on your monitor.
+
+In simpler terms, a 2.1 megapixel photo is twice as big as can be displayed on your montior.  What's the point of sending a digital picture to your relatives that is 5 times bigger than their screen?  They just have to zoom the damn thing out anyway, so just take a smaller picture in the first place!  File size is smaller, the quality ends up being the exact same, and you save the recipient the hassle of zooming out anyway.  You also get the added benefit of not looking like a MegaPoseur who paid too much for their camera.
+
+Megapixels over 2.1 in my opinion are irrelevant.  The ONLY time you will need a 3-5 megapixel camera is if you're trying to take and print poster sized photos.  The megapixel is just the number that the marketdroids latched onto first and now most digitial camera companies use that number to make their camera look better.  "Look!  More megapixels!" they shout.  So just ignore them.  The real number you want to take a look at is:
+
+<i>Optical Zoom</i>
+
+Most cameras offer some HUGE digital zoom.  Digital zoom is garbage.  All digital zoom does is extrapolate the information.  Essentially, it's like zooming in with Photoshop, and smoothing it out.  It's pretty much useless, too.
+
+Optical zoom is where the camera uses the light and the lens to actually magnify the picture you're getting.  Unfortunately, this is all based off of laws of physics.  The larger you want the picture to be, the larger the lens has to be, and that's why the Olympus is such a bulky looking camera...it has to be to fit that 10x zoom on there.
+
+It still does fit in my pocket, although it looks kind of weird, but if you're looking for a sleek, slim a trim photo machine, the C-700 isn't what you're after.  Try the DimageX, instead.  It doesn't have a lens that protrudes at all...it's all done with mirrors.
+
+10x optical zoom is HUGE in the realm of digital cameras, and the fact that you can get it on a camera for under $300 is mind boggling when you look at the paltry 2 and 3x optical zoom most other cameras offer at the same price range.  If it wasn't with the inordinate fascination with the megapixel and cameras being smaller than your cell phone, you'd see a better variety in this regard.
+
+<i>4 AA Batteries</i>
+
+With 4 AA Batteries to supply this thing with juice, the camera has a decent battery life.  Using it to take pictures on and off, I've had the camera last a good long while in between charges, and I've never had it run out of juice when I've needed it.  It goes into power-save mode fairly quickly (I think 2 minutes without user interaction.) so keep that in mind, if it goes off, you have to wait a good 8-10 seconds before it boots up again.
+
+<i>Smart Media Card</i>
+
+This is something I wasn't expecting from this camera.  Since the Smart Media cards aren't in some stupid proprietary format or file structure, I can drag and drop files from my PC directly to the camera!  
+
+I now have what amounts to a portable 128MB hard drive that I'm carrying around.  It's excellent.  If I have something that's too big for a floppy, but too small to waste a CD-R on it (eco-friendly, remember?) out comes the Olympus. 
+
+With a simple USB interface (plug the cable into the camera and go.) I can hook this thing to any USB compatible system and transfer all my photos to anyone's computers with no hassle whatsoever.  This trumps my Kodak in every way.
+
+<i>Priority settings for the camera</i>
+
+If you're unfamiliar with cameras, then this probably isn't for you.  But, for someone who's experienced, one of the annoying things with the first few generations of digital cameras was that they were all basically auto-focus point-and-shoot lenses.
+
+People who have done any work in a darkroom want to be able to do things like set the aperature lower to allow more light, and not really have to focus on every single thing in the background.  Some of us don't really want to bother shooting the picture is the shutter speed means we're going to most likely end up with a blurred shot.  So, you tinker with priority...set the desired aperature as a priority, or force the camera to adjust the other settings until you can take a picture with a 1/120nd shutter speed.
+
+The Olympus C-700 lets you do all of this, and for those of you who think this sounds cool but don't want to mess with the finery yet, you have built in settings for "sports", "portrait" and "landscape" which basically do the same thing with less precision.
+
+<b>Overall</b>
+
+This had pretty much ALL the features I was looking for.  If they created external lenses for it, and gave me the ability to record variable length movies instead of 15 seconds or less, this would be the only camera I ever needed.  Picture quality is great, although the colors are a little less vivid than on my Kodak.
+
+Cheap, durable, high quality, and feature filled.  Pretty much everything you could ask for your money.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

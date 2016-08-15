@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 6657 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Chevrolet_Tracker </PRODUCT>
+<URL> http://www.epinions.com/auto-review-7840-4F3231D-3858E99F-prod4 </URL>
+<TEXT>
+            The 2000 Chevy Tracker is a fun and zippy mini-SUV and is perfect for the urban person who likes to escape the concrete jungle.  It handles well in city traffic and at moderately high freeway speeds.  Visibility is better in this vehicle than in other same-class SUVs.  This vehicle is well suited for people with short commutes who need good basic transportation and room to carry medium amounts of cargo.  People with long highway commutes will probably want to consider quieter vehicles. Negatives on this model:  engine noise and road noise.  Overall, a good value.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

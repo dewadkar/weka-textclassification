@@ -1,0 +1,34 @@
+DOC>
+<DOCID> 4111 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Sony_Photomax_PDC_2050_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_119444180612 </URL>
+<TEXT>
+            Bought this camera for replacing my ageing Cool-I-Cam. As I wanted something with more than a megapixel, i went after this model because of it's 2.1 Megapixel resolution (up to 1600 x 1200!) and for some features I needed like a CompactFlash slot and Photo Delay. Both of them are included.
+
+THE CAMERA.
+Weighting a little less than 200 g with batteries loaded (4AA) the PDC2050 feels allright in my hands. The controls have a good size for my fingers, and it includes both a 1.8 inch LCD color screen and an optical viewfinder. The LCD screen has ok resolution and looks like only 256 colors can be displayed only as a rough preview. Also it looks like if it was 160x100 so resolution is pretty limited. The integrated optical viewfinder is about half an inch on top of the camera lens so using it will give you fair good precision, specially on close shots.
+
+The on-board software lets you choose the image size (1600x1200, 1280x1024, 640x480), the compression (JPEG Hi Quality or Low Size), and some interesting camera settings like white balance for shooting in fluorescent or outdoors, even incadescent light, so you will get the correct color for your shot. 
+
+Also a flash will give you good illumination under low light situations up to 10 feet (3 meter) but be careful because it tends to overexpose the photo a bit on bright places.
+
+It has digital 2.0x zoom so you can get a bit closer to the action. Also, audio and video can be recorded. Audio with a low quality yet useful at times and video in 320x240 frames... not good enough for DVD production ;)
+
+Batteries will last for 30-50 pics depending on LCD use and flash.
+
+SHOOTING TIME.
+I have noticed the 2.1 Megapixel CMOS sensor used by this particular model is somewhat slow and, if the photographer can't stay still on low-light situations without using the flash, the exposition times will be a bit longer than expected so photos will take a bit to be taken if you are not using the flash, so you got to be careful.
+
+But the photo quality, once downloaded to the computer, is amazing!!! Indeed!!! For a camera on this price range, it'll get you there. 1280x1024 looks like the sweet spot between picture size, quality, and memory usage. With it's built in 16 MB NAND flash memory, lots of pics can be carried, and they will not be lost when batteries are removed. Yet if 16 MB aren't enough, you can add a 128 MB CompactFlash card, so more photos will be stored and you can place the CF card into a CF-printer for computerless printing. 
+
+CONNECTING IT TO THE PC
+With the integrated software, installation is easy. The camera will add to the Windows XP "My PC" desktop as an additional removable device, and you will be able to open directly into your favorite graphics application. An included USB cable plugs into your PC and camera and lets you download the photos, and also, use the camera as a PC-powered webcam. Shame it will only work under Netmeeting and Yahoo and not MSN and Trillian :P :P :P . It will also not work as a TWAIN device for capturing images straight into applications like Photoshop.
+
+OVERALL
+A great inexpensive camera that I have dealt to live with :) 2.1 Megapixels and a good bundle.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

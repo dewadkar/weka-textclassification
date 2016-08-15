@@ -1,0 +1,38 @@
+DOC>
+<DOCID> 23302 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1993_Ford_Taurus </PRODUCT>
+<URL> http://www.epinions.com/content_52885163652 </URL>
+<TEXT>
+            There have been two serious problems with the Taurus and Sable vehicles.  Mainly, it's the transmission.  The AXOD and AXOD-E automatic transmissions.  Introduced in 1986, these things have apparently been designed in haste.
+
+It's noteworthy to mention that this same transmission has also been used in Ford Windstar minivans and, I think, in Lincoln Continental sedans.
+
+AXOD transmissions have been used in Taurus and Sable vehicles from 1985 to 1991.  An electronic version, called the AXOD-E, have been used in the redesigned Taurus and Sable vehicles from 1992 to 1995.
+
+These transmissions have used an aluminum accumulator piston which has been known to crack.  Ford's TSB (Technical Service Bulletin) indicates that the aluminum piston must be replaced with a steel one.  When the piston goes, the car will not upshift properly, if at all.
+
+These transmissions do not provide adequate lubrication to the planetaries.  The planetaries are a set of orbital gears that transfers the torque from the engine to the wheels.  Apparently, the transmission does not distribute enough fluid to those gears that they overheat.  They eventually will break down.  When the planetaries go, your car will not move.  If you were moving when those gears go, you will coast to a stop.  This problem has also been indicated by Ford through a TSB.
+
+This vehicle has also used the Essex 3.8 litre V-6 engine.  These engines are notorious for developing problems with the head gaskets.  A lot of vehicles in Ford's lineup have used this same engine, like V-6 Thunderbird/Cougar vehicles and V-6 Mustangs.  
+
+Fortunately, these engines are easy to identify.  Just pop the hood.  The intake plenum, which is a big slab of metal on top of the engine, should have this written on it in big letters:  "3.8 FUEL INJECTED V-6".
+
+There is a TSB which lists replacing the head gasket material with an "improved" version, along with replacing the head bolts with ones that have higher torsion to achieve a tighter compression of the gasket for a better seal.  However, there have been reports of leaks even with the improvements.  Most leaks seem to occur after flushes of the cooling system.
+
+Ford's execution of recalls to affected vehicles have been less than stellar.  Model years covered are only 1994 and up.  Owners of vehicles years 1993 and down are not being honored.  Off topic, it has also been commented that Ford has had a reputation for "lawlessness" in comparison to other American car companies in terms of responsibility to their customers in the event that a potentially dangerous design defect becomes known.  Ford has been known not to take action in face of these circumstances.  The only other company I can think of that is worse in this regard is Kia.
+
+If you want a second generation Taurus, as they are the best looking Tauruses in my opinion, opt for the 1995 model as they may have the updates applied to them.  Also, in addition, get only a Taurus or Sable with the 3.0 litre Vulcan engine.  If you wish, get a SHO model.  All SHO Tauruses use super reliable Yamaha V-6 engines, and some SHOs use manual transmissions, which avoids potential transmission problems inherent in the AXOD altogether.  However, When something does go wrong with SHO cars, they are expensive to repair if major parts are required as parts for SHO vehicles can be difficult to find.
+
+One way to check the transmission's condition is to check the fluid's condition.  If it's cherry red, it may still be good, although the fluid could have been replaced to cover up a transmission problem.  If the fluid is brown or brownish with a sharp, dirty odor, avoid the car as the transmission had been overheated!  Particularly a concern with cars using the AXOD automatic transmission.
+
+Check the engine's head gasket condition by checking the oil.  If the oil looks murky and light brown, and can even sort of have an appearance like chocolate milk, then avoid the car as the head gaskets have leaked!
+
+Smell the oil.  If it smells burnt, avoid the car!  Burnt oil usually means that the engine had been overheated.  Overheated engines can develop head gasket problems prematurely, and engines with head gasket concerns to begin with should be particularly avoided in this instance.
+
+Also, as always, try to obtain all the service papers for the car in order to ascertain how it's been taken care of, as well as to reveal if any major repairs had been done or not.
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

@@ -1,0 +1,32 @@
+DOC>
+<DOCID> 34112 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Casio_QV_2300UX </PRODUCT>
+<URL> http://www.epinions.com/content_18095640196 </URL>
+<TEXT>
+            The Casio QV-2300 is the first digital camera I've owned. My wife and I bought it for our upcoming 5 week trip to Europe. I knew that I would need a Microdrive to hold enough 5 weeks worth of pictures. Surprisingly, there are not a lot of digital cameras that work with the Microdrive. [I did most of my initial research at the extremely comprehensive Steve's Digicams (http://www.steves-digicams.com)] The Casio is the only camera that includes one in the package. We bought it for $499 at CompUSA on April 3, 2001, with a $100 rebate that will bring the final cost down to $399. Considering that the 340MB microdrive purchased separately sells for $205-$250, the cost of the camera itself is less than $200. For $200, this camera is a fantastic deal.
+
+Storage:
+I'll address the storage issue briefly and then we'll get past it: The Casio stores photos as 1600x1200 or 800x600 JPEG files; at each resolution, you may choose between three levels of compression: fine, normal, and economy. The 340MB microdrive can hold 400 shots at high resolution/low compression, and 2500 shots at low resolution/high compression. That's a lot of pictures.
+
+Ease of Use:
+This camera is very easy to use. The color TFT LCD display on the back of the camera displays a very intuitive graphical menu when you're not using it to compose shots. When you are composing shots, it is very nice to be able to rotate the lens assembly relative to the rest of the body. It's very comfortable and natural to hold the camera at waist level as you're shooting. You can let the camera make all the decisions for you regarding settings (and you'll get great pictures this way), or you can adjust the settings to your heart's content. This camera offers more parameters to adjust than most high-end traditional 35mm SLR cameras, allowing you to control every aspect of the exposure that you can think of.
+
+Picture Quality:
+I've never owned or used any other digital camera, so I can't make comparisons, but I will say that with this camera I have taken better pictures than I've been able to create with any traditional film camera. I think this is because the thing is so dang smart. Quite simply, it takes beautiful pictures. You don't need to worry about getting poor results; that's not even an issue. And I've found that the 2 megapixels that this camera offers is more than enough, unless you're into making huge 11x17 reprints. Prior to making the purchase I wondered whether I shouldn't get a 3 megapixel model. My fears were immediately and permanently assuaged.
+
+Viewing your pictures:
+Any photos on the microdrive can be instantly viewed either through the LCD display, or by hooking the camera up to any nearby television using the included video cable. It's better than any Polaroid-style instant camera. Eventually, you'll want to upload the pictures to your computer. The package includes a USB cable and software which automatically loads the pictures from the microdrive to your computer's hard drive whenever you plug it in. This software automatically stores your pictures in folders by the date of exposure, and creates html files that you can view in your browser which allow you to see thumbnails and information about each photo including the time and date taken and all of the exposure information.
+
+Other Neat Things:
+This camera also will record 16-second silent movies in AVI format. It's no camcorder but this is a nice feature nonetheless. The movie length is limited not by the amount of storage but by the size of the buffer, so there's no way to get around the 16-second limit. Everything that you see in the viewfinder is stored in the buffer, so that if something cool happens while you happen to be composing a photo, you can go into movie-past mode, and when you press the shutter button, the 16 seconds of action preceding the shutter release will be saved as a movie. Weird, huh? I wonder who thought of that. The camera can also take pictures in time-lapse mode, and it has a panorama mode which allows you to take photos of broad areas up to 360 degrees.
+
+The Cons:
+The body is made of plastic, and with all the moving parts, buttons and switches, I would be afraid of breaking this thing. When we purchased it, we opted against the $80 2-year loss/damage protection plan offered by CompUSA, but after using the camera for a few days we went back to CompUSA and shelled out the extra dough for peace of mind. You will want to purchase similar protection for this camera.
+Other reviews I've read have complained about the lack of an optical viewfinder. The LCD display gets washed-out in bright sunlight, making it more difficult to compose your pictures. I haven't found this to be especially problematic, however, and I've used this thing plenty outdoors.
+This camera takes four AA batteries. It eats them pretty quickly. You should go ahead and plan on buying rechargeable NiMH batteries (~$10 for a good set of four) and a charger, otherwise you will end up spending a fortune.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

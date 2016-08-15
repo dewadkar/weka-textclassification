@@ -1,0 +1,67 @@
+DOC>
+<DOCID> 7037 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Sony_DSC-P10_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_124010401412 </URL>
+<TEXT>
+            <b> Background </b>
+I do not own this camera, but a friend of mine got it for Christmas and I spent some time playing with it, and here are my thoughts on it.
+
+<b> Camera Asthetics </b>
+The camera itself looks pretty cool. It's small size allows it to be placed easily into most pants/coat pockets.
+
+One of the things I noticed right off the bat was, in place of a manual lens cover, there is an automatic protective barrier instead which opens and closes when you turn the camera on or off. That is pretty handy to me, because on my Olympus C4040, which is a larger camera, the lens cap tends to be somewhat of a pain if it's windy outside and you're trying to take pictures... it blows around and may even hit the camera as the cap dangles from its cord.
+
+Speaking of power on, that is something I don't like about the Sony... you have to turn "power on" and then select your shooting mode. On the Olympus you simply turn the dial and it comes on, ready to go. No extra step.
+
+The 1.5" LCD has a surprisingly high resolution. When reviewing pictures, I was amazed at how clear and crisp the images were!
+
+Menu navigation was fairly intuitive, but since I didn't have the manual, some of the symbols were a little cryptic and I couldn't figure out what they were. If you've had previous experience with digital cameras or photography, you shouldn't have any problems with this camera. 
+
+<b> Picture Quality </b>
+
+The various image resolutions to choose from are shown below for the included 32 MB Memory Stick:
+
+Memory    Fine  Standard  
+2592x1944 (5MP)  12  23  
+2592x1728 (3:2)  12  23  
+2048x1536 (3MP)  20  37  
+1280x960 (1MP)  50  93  
+640x480 (VGA)  196  491  
+
+The images we were shooting with the camera were mostly at the 2048x1536 standard resolution at 3MP. The color detail at this level was very impressive. We were inside a restaurant with other friends at the time, and all the pictures came out looking amazing! Were they as good as ones shot with my 4MP Olympus? I don't know, but if I had to guess, the color detail was better with the Sony than I would have gotten shooting with my camera.
+
+Some MPG VX video was shot, and WOW I was really impressed with the quality of video taken in the low light restaurant situation. It wasn't grainy at all, and the frame rate and audio sync were excellent! I think the file end up being almost 7MB for about 20 seconds.
+
+I wouldn't suggest using the camera as a camcorder though, but it is good to know that it does have this ability should the need ever arise.
+
+<b> Things to Consider </b>
+
+BATTERIES:
+
+This particular Sony model uses a proprietary Sony Battery (Model NP-FC11). I personally find this as somewhat of a big negative on the camera, from a casual user standpoint, for the following reasons:
+
+(1) To buy an additional rechargeable battery is $49.95. EVERYONE needs at least one additional, if not two additional batteries. If you travel and are out away from your hotel room or ship room, and your battery dies during your excursion down in the Kileua Caldera on the big island of Hawaii... then what are you going to do? You see my point. You should always carry multiple batteries.
+
+(2) Along the obvious same lines as (1), it doesn't use standard AA batteries which can be bought from just about anywhere at anytime.
+
+True Story Example: Last year I was at a professional women's billiards tournament in Tunica, MS. A lot of famous people were there, and I was taking pictures like there was no tomorrow, both of the famous people, and me with the famous people. Towards the end of the day, I had completely exhausted my original set and backup set of batteries... but there was still more to do. So, being about 30 minutes from our hotel room, I just went to the hotel store and picked up a pack of AA batteries, popped 'em in and shot the rest of the night.
+
+If I would have had a cam that used special batteries, I would have been screwed. So that's my main hang up on batteries and digital cameras.
+
+GET A CARD READER:
+I highly recommend getting the card reader accessory from Sandisk. It's cheap ($20) and allows for some major convenience when transferring pics to your computer. If you use Windows XP, it's a plug and play device. I borrowed my friends, came in, hooked it up to the USB port on my puter and transferred the files off the memory stick with no problems. The computer treats the Memory reader as a separate disk drive. Kewl.
+
+CARRYING CASE? :
+That's up to you. I don't have one, but my friend bought one for the Sony. I personally think, in most situations they can be more trouble than they are worth. Especially if you are travelling, but it depends on your travel situation.
+
+EXTENDED WARRANTIES? :
+These days technology advances at such a rapid pace, in 12 months, the camera will only be worth a fraction of what you paid for it. It is for this reason, I do not recommend the purcahse of extended warranties on electronic items. By the time the standard warranty has expired, 99 times out of 100 you're better of junking it, and buying something new and better, many times for less than what paid for what you're throwing away.
+
+<b> Conclusion </b>
+The camera is pretty expensive, retailing for $450, so it may be out of some people's price range. However, it's small size and high quality images make it a pretty good contender if those things are important to you.
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

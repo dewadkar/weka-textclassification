@@ -1,0 +1,38 @@
+DOC>
+<DOCID> 35552 </DOCID>
+<PRODUCT> Digital_Cameras/613417_Aiptek_PenCam_Trio_VGA </PRODUCT>
+<URL> http://www.epinions.com/content_126338895492 </URL>
+<TEXT>
+            Simple review, forget it, the pictures are blurry, overenhanced junk and everything else is crap.
+
+Pros, Small size, software is O.K. (hacked ST software)
+
+Cons, where Do I start,
+Poorly made, Terrible light performance, failure to just take pic in high or low light :-(, takes about 8 senconds just to adjust to a desired light source, video craps out when light gets low unlke its predessessor, useless frame - rate
+
+Pictures, Useless as best, grainy and blurry at all edges, can't determine whether this is the camera or software.
+that's if you can actually TAKE ANY! GRRRR you have to hold it at the subject and wait for about 3 seconds before even trying to press the button. you can't even just take the chance and snap a lo light picture, it will been and say no way (IF it manages to adjust in time)
+
+Webcam, Hopeless with support, nothing picks it up and does not work unlees the sun is shining,
+
+Video, Unlike the VERY FIRST "pen cams" which actually took good pics and had an o.k. video the rest keep getting worse, whith each new one released the pics are worse, and light handling far worse.
+Video frame rate even isn slow mode is about 3 FPS at most and when you go from lo to high hight it either stutters for like 2 seconds or just stops, Useless piece of junk, not worth the $30 and I actually took the loss and chucked it. not even worth giving to a kid.
+
+(I actualy broke the flimsy shutter button in my frustration with it and binned it)
+
+Software, this was an interesting thing, it's an updated pencam manager for STV040 with Sunplus.DLL added, I suspect they have hacked it to work with this "new" chipset.
+
+
+This is NOT FROM ST MICROELECTRONICS product unlike the first pen cams were, it uses some other system.
+
+the STV040 is actually very good for what it is and is reccommended for $20 or less. some reviewed I believe may be STV based cams (older stock)
+
+DONT BUY IT!
+
+Buy the Pencam 1.3 instead, you'll love me for this one.
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

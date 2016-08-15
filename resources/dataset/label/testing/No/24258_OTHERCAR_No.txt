@@ -1,0 +1,37 @@
+DOC>
+<DOCID> 24258 </DOCID>
+<PRODUCT> Digital_Cameras/Hewlett_Packard_PhotoSmart_1_0_Megapixel_Digital_Camera_Film_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_74437463684 </URL>
+<TEXT>
+            I bought the HP Photosmart 120 for my father based on two reasons - firstly the fact I already own an older Kodak 3200 which has almost *exactly* the same specs, (so I thought I had a fair idea what I'd be getting) and secondly because the price was reasonable for the features that HP was claiming for the camera.
+
+Like always, I searched epinions for a review on the product before purchasing, yet to my surprise did not find a single one!  So, in the interest of anyone considering this camera, here we go..
+
+HP claims you can "record memories using video clip feature".  I was quite excited by this prospect.  What they don't tell you is that you'll be capturing those memories in 288 x 208 resolution at 10 frames per second.. this feature must be intended for those who want to create quick email attachments, but even so the file size is huge for what you actually get.
+
+The LCD viewfinder on the camera was very poor - the colours look 'washed out', and the image is tiny, meaning you can't accurately determine whether the photo is worth keeping or not from the image.  Fortunately there is an optical viewfinder, which is probably what you'd end up using for most of the time.
+
+Compared to my Kodak, also a 1 megapixel photo, the quality of photos produced are disappointing.  The photos come out darker, and quite often with noise lines on them.  This is quite easy to fix by applying the 'despeckle' feature with the accompanying software, but.. why should I have to?  My Kodak manages to take these pictures with no noise whatsoever.. 
+
+Also, the colour representation seems a little.. odd. A little 'contrasty'. you'll take photos which end up with a lot of black on them, and some colours seem a little too vivid when you look at the results.  
+
+Outdoor photos come up best, presumably because of the extra lighting.  It's fair to say you can get acceptable results if you are aware of the limitations of the camera, and work with them, but I was never gobsmacked by any of the photos.  I may be too picky, others around said they thought the photos were fine, but I don't recommend this camera if you want to take lots of indoor photos.  I found myself examining the photograph for defects rather than looking at the subject.. maybe that's just me..
+
+There are three picture modes - good, better, and best.  'Good' mode takes a picture at 576 x 432 resolution, while 'better' and 'best' takes pictures at 1152 x 864.  The camera shows the number of photos you can take based on storage capacity, but here's another area HP fumbled the ball - the compression algorithm used is atrocious!  Most photos take around 350kb, but I once took a photo that took over 800k! On a camera with 0.995 megapixels, this is terrible, regardless of the level of detail in the shot. Why is it my other 1MP camera will never vary file size to more than about 350k but this one can't?
+
+However, all is not lost - you can get a 128mb compact flash card to override the wimpy 4mb of internal memory, and snap away to your heart's content.  It also doesn't really matter about the size of the files, as the camera comes with a USB connector, and it really does take no time to download your entire card to disk.  Connectivity is excellent, it really is as simple as plugging the camera in and hitting one button to download everything.  Then you can edit and resize photos to your heart's content.  I enjoyed this part of it, very easy to use.
+
+There are a couple of other features, a 2x digital zoom (you lose a lot of quality doing this) and a 10 second timer (this is quite useful).  It can sit on a tripod.  You can set the flash on auto, on or off, and the flash is about the right 'brightness'.  
+
+The camera is easy to learn and to use.  It also looks and feels like a decent camera, quite solid, though I wonder how long the battery cover and CF card cover will last. Batteries are by 4x AA - the life for these seems to be quite reasonable, considering you can't turn the viewfinder off. (You can turn the backlight off though to save some power).
+
+A word of warning - the camera beeps whenever you take a photo.  It also beeps when you turn it on.  I got used to it, but others around me did not..
+
+Oh well, 
+
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

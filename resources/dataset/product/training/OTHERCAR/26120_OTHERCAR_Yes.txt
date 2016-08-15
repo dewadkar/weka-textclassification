@@ -1,0 +1,89 @@
+DOC>
+<DOCID> 26120 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2004_Mazda_RX_8 </PRODUCT>
+<URL> http://www.epinions.com/content_122102910596 </URL>
+<TEXT>
+            This is a review written by a real owner who drives his RX-8 (about) every day. Exactly 3 months ago, 9/16/2003, I was at my dealership for an oil change of my previous car and fell in love with a black RX-8. I had read about it here and there before and I had seen a yellow one a few weeks earlier on a sales event at the mall. Yellow is too much of a toy color though to be seriously considered. 2 test-drives convinced me I had to leave the lot with this car.
+
+<b>Pricing</b>
+
+The first models of the RX-8 arrived in L.A. late July this year, and many had been pre-ordered, so when I bought mine, I had to pay full MSRP. Many dealers in the Bay Area actually marked it up by $2000. Now, in December, you should get MSRP everywhere (it went up by ~$100 though) and last week I saw even an ad offering $3000 off.
+
+The base model starts at $25,000 with an automatic transmission or $26,000 for manual. (The invoice price is about $2000 lower each). I strongly suggest to get the manual transmission (40 more hp). The MT version redlines at 9000 rpm (no power at 9500 rpm), the AT version peaks lower because Mazda couldn&#146t come up with an automatic transmission that could handle 9000 rpm.
+
+The most popular package is the GT package &#150 it adds heated leather seats, xenon headlights, dynamic stability control, traction control, sunroof, Bose stereo and I think the curtain airbags. I definitely wanted these features except that I didn&#146t care for the leather seats. With the GT package the price goes up to $31,000 and then you may add a DVD-operated navigation system (not GPS!) for another $2,000. Cool gadget, but I&#146d never use it so I saved $2,000 here.
+
+Basically, with the heated leather seats, you&#146re looking at a luxury car. It comes with a strong warranty of 4 years/ 50,000 miles. Since I have a long commute, I bought the extra warranty for $1900 .. 5 years / 100,000 miles.
+
+
+<b>Strengths</b>
+
+- Practicable
+Competitors to the RX-8 are the Nissan 350Z or maybe the Honda S2000. Both are 2 seaters. The RX-8 has those cool reverse opening rear doors aka &#147suicide doors&#148.
+Full backseats for 2 adults, even when they&#146re 6 foot tall.
+
+- Great control
+This car gives great confidence when you take a curve a little faster than you should. I found that in my third week, when I did a late night drive over curvy Highway 17 through the Santa Cruz Mountains. In a left curve, I was behind a Camaro (the V8 version), the posted limit was 40 and I very easily passed him on the right doing something like 70 mph. I&#146d been driving an F-body thousand times through these curves and I knew you cannot go faster with that car in curves. In a straight line the 300 hp Camaro would outrun the 240 hp RX-8 easily, but on a real road with curves, it&#146s a completely different story.
+Former drivers of torque monsters like Camaros, Mustangs will find that the RX-8 is slow and that&#146s true in the low rpm range. You definitely need to shift down in order to get a rush. The high-revving engine doesn&#146t mind dropping in 3rd or 4th gear at highway speeds. You can take it to ~70 mph in 2nd and 90 mph at 9000 rpm in 3rd gear!
+
+The engine is small &#150 only 1.3l displacement - and they mounted it as far backwards as possible. The front axle is as far forward as possible. This makes for a perfect 50/50 weight distribution, which explains the great handling. A side effect of the motor so close to your feet and the high rpm is that it gets comfy warm at your feet.
+
+- Safety
+Curtain airbags protect your and all your passengers&#146 heads. Dynamic stability control (DSC) will apply brakes on one side if it senses a spinning tire. Very nice, this makes an average driver look like a pro when the car straightens out itself very quickly.
+To increase the stiffness of the chassis (no pillar between front and rear doors), there are extra braces behind the back seat. As a consequence you cannot fold down the backseats.
+The RX-8 has big, strong brakes. This and because of the relatively low weight, it has an extremely short stopping distance. From 100km/h (62 mph) to 0 takes only an incredible 110 feet. (BMW M3: 112ft, Corvette Z06 116ft. http://www.rx8club.com/showthread.php?s=&threadid=1175&perpage=22&pagenumber=2)
+
+- The sound of the engine
+My first comment during the test drive was &#147sounds like a sewing machine&#148. Other people rather compare it to an UFO though it cannot fly. I find that I listen a lot less to music. I definitely will mute it when I am on a ramp.. it just sounds too good when the car is taken from a low 2500 to 8500 rpm.
+
+There&#146s a lot more that I could list here, instead I will refer you to a great resource on the web: The RX-8 Forum, specifically thread http://www.rx8club.com/showthread.php?s=&threadid=9437
+
+If you want to know all the nice little things, check it out. There is also a similar thread about &#147what should be different in the 2005 or 2006 model&#148
+
+<b>Weaknesses</b>
+
+- poor fuel economy
+The car is small on the outside and has only a 1.3l engine, so one would expect it to be fuel-efficient. Not the case. With careful driving I get 23 mpg. At 5000  miles, I consider it now fully broken in. On the last tank, I redlined it all the time, routinely shifting at 6000 rpm. I still got 19 mpg but I do drive long distances. I imagine if I&#146d do a lot of city driving combined with the high rpms, I could go below 17 mpg. There are various threads on this topic on http://www.rx8club.com
+In comparison, a Corvette supposedly gets up to 29 mpg.
+
+- Interior
+I think that the interior looks great, especially the CD player part. Kind of futuristic. But there are a lot of plastic parts, noticeable especially when you sit on the back seat.
+
+I cannot come up with any serious weaknesses; I&#146m really satisfied with this car. Little complaints like &#147The trunk opener is kind of awkwardly located&#148 or &#147A full tank only goes 270 miles&#148. &#147You cannot boil eggs on the heated seats&#148.
+Here is a thread on said forum:
+
+http://www.rx8club.com/showthread.php?s=&threadid=15980
+
+
+<b>Technical Problems</b>
+
+- The HP story
+Originally the car was advertised to have 250 hp and pre-production vehicles had this number. Then in order to comply with 2004 EPA emission standards, Mazda had to modify the car slightly. (The following is what I learnt from rx8club.com)
+EPA demands that in 2004 models and later, the cat converter lasts at least 100,000 miles. To guarantee this, Mazda had to change the fuel map (in a chip) so that it runs richer in the low and in the high rpm range. Said site has several fuel graphs posted as well as dyno runs.
+The richer fuel/air mixture makes the car lose hp and is bad for your fuel economy as well. The general observation is that Mazda did this in kind of a last-minute fashion.
+Check out this URL if you&#146re interested in adding back 25-30 whp (to the rear wheels!) with a piggyback chip. At this point it is unclear, if the lifespan of the cat converter is affected. I was surprised to learn that in order to comply with EPA, the car has to burn more fuel.
+http://www.rx8club.com/forumdisplay.php?s=&daysprune=&forumid=63
+
+- Oil pan problem
+If you drive for an extended time (10 minutes ) at high speeds (95 mph seem to be enough), then your engine oil light may come on. I&#146ve experienced this once. The construction of the oil pan in some early models was poor. Your Mazda dealer will replace the oil pan if your RX-8 is affected. I&#146ll have my pan replaced in 2 months, since it&#146s no problem right now.
+http://www.finishlineperformance.com/rx8/docs/01_027_03.htm
+
+List of all technical service bulletins for the RX-8
+http://www.finishlineperformance.com/rx8/docs/index.html
+
+
+
+<b>Other tips</b>
+
+The rotary engine needs a bit more care than a cylinder engine. By design it burns a bit oil so you need to check and refill every other time at the gas station.
+Another issue is the danger of engine flooding. It&#146s not advised to start the car, and then turn it off immediately without warming it up. Then again, I do this every time when I wash it (and since it&#146s black, I wash it regularly) but I never flooded it. This might have to do with the ambient temperature.
+
+With my last car (V6 Firebird), I found that it looked great with its T-tops on the parking lot and had nice punch. After owning it for a few months, I realized that it was cheaply built and had poor handling. The RX-8 is the opposite. While the interior and exterior design sure turns a lot of heads (question at the gas station: &#147Is this the new Aston Martin? No, wait, it&#146s a Viper!&#148), it&#146s actually how it drives in every day that makes me realize I bought a superb car.
+
+This car is currently winning awards left and right and to any owner, it's no surprise why.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

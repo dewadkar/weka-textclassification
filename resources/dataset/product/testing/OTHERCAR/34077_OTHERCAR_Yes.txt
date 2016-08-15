@@ -1,0 +1,74 @@
+DOC>
+<DOCID> 34077 </DOCID>
+<PRODUCT> Digital_Cameras/511642_Olympus_Camedia_C_3040_Zoom </PRODUCT>
+<URL> http://www.epinions.com/content_57115774596 </URL>
+<TEXT>
+            In this review I will concentrate on my experiences while trying out the Olympus Camedia C-3040 camera over a week and considering it for a purchase. The exact specs for this 3 mega-pixel camera can be found on Olympus and retailer websites, or in the excellent review by Howard_Creech.
+
+The reasons I considered this camera were the following: (i) it�s fast f1.8 lens, ideal for low light conditions, (ii) the resolution of 3 mega-pixels, (iii) features allowing me to override the automatic settings and (iv) use of Smart-Media cards for storage, since I have another digital camera Fuji FinePix A101 (1MP), which uses the same media. 
+
+<b>Fast lens</b>
+
+Fast lens lets more light energy to pass through the optics and land on to the camera sensor array. This means better pictures at lower light conditions, such as days when the sun is behind the clouds, or indoors. Another advantage of such lens is for shooting action, where fast shutter speeds are essential, thus less light gets to the sensor over the time of the exposure. Unfortunately this great advantage of Olympus 3040 is packed with a flaw, characteristic to the digital cameras: lag between the button is pressed and the actual shoot taken due to auto-focusing and metering.
+
+The lens seems to be the only difference between this camera and Olympus previous model C3030. Therefore, if you do not care for this feature and are willing to save about $50, go for the C3030 zoom. And again, if you feel the need for higher resolution, the Olympus Camedia 4040 offers both the fast lens and 4.1 mega-pixels. Other than that all three cameras seem to be cousins. 
+
+<b>Mega-pixels</b>
+
+Many think that the more mega-pixels you get the better. The truth is, it is a tradeoff.  Yes, you can get better pictures with more pixels. But it is going to cost you. You need better (and clean ;-) optics, more memory, and a decent printer. And, if you really want to take advantage of the high resolution, then you should save the pictures in raw (usually TIFF) format. In some cases, one memory card is too small for a picture in this format, or barely fits one. Eventually you may find out that you are not using all these millions of pixels and could have gotten away with a smaller camera, and saved a hand or a leg in the process. 
+But if you occasionally find yourself of willing to make a big picture (or a poster), Then the high mega-pixels will start to matter to you. As a 3 mega-pixel camera Olympus C3040 seem to be a good compromise. If you want higher, I suggest Nikon 5000 as an excellent 5 mega pixel toy for around/under $1000.
+
+<b>Smart Media vs. Compact Flash media</b>
+
+This was a minor reason for me to consider Olympus C3040. I must admit that Compact Flash interface these days comes in higher capacities, especially when you go for the IBM 1GB micro drive. However the smart media thin cards seem to be slightly more compact, and have the interface contacts more reliable for multiple insert operations. Also, the micro drive is a bit more power-hungry than the memory cards. There go your battery life.
+
+<b>Let�s shoot some pictures!</b>
+
+I used my 64Mb Smart-media card with the camera. The camera has 16Mb card included in the package, which might be enough if you go for a medium to low quality, high compression shots. But, then again, did you need to spend so much money if that�s what you wanted to do? You can fit about 16 high quality compressed images (HQ) on the included card. I usually take way more shoots, so I went for the bigger card.
+
+My opinion is based on experiments in lowlight �inside� conditions as well as outside conditions. The day outside was not particularly bright, however the camera gave quite good results.
+
+I tried taking still photos as well as shooting moving objects. We happened to walk my friends dog whose life mission is running and jumping after all kinds of sticks (wonder what this makes his master�s mission to be?).  We got quite a few shots with the dog in the air, ready to snap his jaws around the current favorite stick in his masters raised hand. I found out that I needed to time the shoots before the action takes place doe to the camera lag. Consequently, I always had to be prepared. However, quite a few amusing situations were missed, since I did not expect them and pressed the button too late... for the camera. I would surely gotten them with my SLR camera. But the quality of pictures came out nice, even though the sun were hiding behind the clouds. The auto-focus did not get confused by the movement of the dog, and the pictures were sharp.
+
+I had a chance to shoot a few kids in action while indoors, in low-light conditions. The camera was able to pull in quite a bit of light in half-lit hall (birthday party) even without the flash. However the shutter speed was adjusted to quite slow, and the shaking of hands and moving of objects became too noticeable.  Therefore I turned the flash back on.
+
+The image quality was great, however, the response time of the camera was quite slow. As a result, my shots had to be timed again, which is harder for kids, because they are less predictable (if at all) than dogs :-) Consequently, I rarely knew what will be on the picture. But the camera has a nice feature of showing it just after the picture is taken for a split second, even when the LCD is turned off.
+
+I also tried a few night shoots, for which a tripod is a must. Here the nifty remote control comes in handy (unless you want to shake the camera while pressing the button on it for longer exposures). However, setting up the use of remote or delayed shoots is quite clumsy and not intuitive, because you have to go through the menu system on the screen. And without reading the manual I did not know how to do it. A couple more simple buttons would be desirable.
+
+<b>Close-ups (Macro mode)</b>
+
+In a few cases shooting close objects, or objects using flash I noticed that the image was slightly overexposed. Maybe Olympus designed the hardware and firmware for the C3030 lens, and later after adding the faster lens model C3040 did not adjust everything. But I might be too picky here, the difference was not that extreme, and I had no problems in day-light conditions. Besides, you can always manually adjust exposition settings by a touch of a button. 
+
+I tried a few macro shots of smaller objects. Here the trick seems to be that you need to get the lighting perfect and turn the flash off, then you can shoot jewelry, or other smaller things. One artifact I noticed was that for extreme close position of camera, horizontal lines are not always straight. You may experience a slight fish-eye like effect due to the design of the lens.
+
+<b>Movies</b>
+
+The camera allows you to record movies in Quicktime (MOV) format. The length of a movie clip is determined by the amount of internal camera memory (not the smart-media size), however once one clip is finished and processed, you can shoot more clips until the smart-media card is full. My 64Mb smart-media card allowed to store about 180 total seconds of video clips, each clip taking at most 75 seconds. Also, you can decrease the clip quality and fit more.
+
+The movies are recorded at 15FPS. There are no animation or antialiasing effects, rather the movie is constructed as a series of snap-shoots, which makes the result to appear somewhat jerky at this frame rate. Also, the camera uses data compression which leads to some artifacts in the frame images. For instance, shooting tall downtown buildings with many windows from a distance, the window pattern was converted in a pattern producing diagonal lines rather than a grid. I noticed this effect on several occasions. 
+
+The movies include sound recording, however at fairly low quality. But then again, this is a photo rather than a video camera.
+
+Other than that, the movie quality was quite pleasing for the given parameters. It uses the whole field of view of the image sensor rather than smaller area in the center of the sensor which corresponds to the movie frame size.
+
+<b> Conclusion </b>
+
+Olympus have done a fine job creating this camera. Unfortunately, at this time the price is still quite high and close to 4-mega-pixel cameras, which may let you think twice before spending around $700 at a retail store on this product.
+
+The camera seems to be built sturdy and balanced, with a convenient grip on the right side, allowing one-hand operation, if desired. The controls are conveniently located. The icons in the menu are mostly intuitive with a few exceptions, but I still suggest to go at least once over the users manual before using the camera.
+
+C3040 includes another simple LCD on the top of the camera and a few buttons, that allow you to quickly change flash and macro modes, without draining batteries through the big color LCD.
+
+The optical viewfinder is usually sufficient for framing decisions, since it changes according to the set zoom level. But if you really want to be sure and check the sharpness (for instance, for macro shoots), turn on the LCD.
+
+I was pleasantly surprised by the battery performance, I never changed them even after shooting 300+ pictures in different conditions. But mind you, these are special 3V lithium batteries, and when they are gone, you need to buy new ones for not-so-cheap. Or go with 4 rechargeable NiMh batteries, and keep a few spare in your pocket.
+
+The only annoying �feature� of the camera was the response time.  I understand that focusing and metering takes time for the camera, but when you shoot kids, sports events or animals, you really want the picture to be taken right at the moment you press the button, instead of a half a second later. But do not get too discouraged and keep in mind, that for most occasions it should be sufficient, as well as that you can play some tricks such as using manual fixed focus and other parameters, thus lowering the time lag. In all the other respects C3040 is a really nice camera. And, if you want more pixels, go for C4040.
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

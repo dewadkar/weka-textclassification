@@ -1,0 +1,22 @@
+DOC>
+<DOCID> 17622 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Kyocera_Finecam_S3L_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_43005873796 </URL>
+<TEXT>
+            I bought the Kyocera/Yashica Finecam S3 as I needed a subcompact digicam which can take good quality pictures.  I have been using it for almost two months, and the S3 exceeded my expectations.
+
+The camera is built around a 3.3 megapixel CCD.  The objective is all glass and it offers a 2x zoom.  Everything is packed in a tiny aluminum case which weighs only around 150 g.  The controls are on the top and on the back, and they are easy to operate.  The learning curve is not steep at all.  Images are stored on an MMC or SD card.  This card is as small as a postage stamp.  A 16 Mb card is provided with the camera.  The camera comes with a USB card reader which connects to a PC or MAC.  Downloading the images to the computer (at least to the MAC) is very fast and straight forward.  The camera is basically a point and shoot camera, but it provides a surprising number of manual control options for a camera of its size.  The white balance, exposure and focus can be adjusted manually, and 3 different ISO values (100, 200 and 400) can be selected.  Long exposures up to 8 seconds is possible for night shots.  The picture quality is excellent when the default settings are used.  The images can be compressed at 3 JPEG levels: normal (N), fine (F), superfine (S).  It is also possible to store images without compression as a TIFF (T) file. 
+
+I use the camera in both professional and leisure settings.  I occasionally take close-up pictures of skin lesions, and the camera produces publication-quality pictures with the macro settings.  It is possible to take pictures of objects that are as close as 6 cm.  I also take pictures of family and friends, mostly indoors.  The autofocus works smoothly most of the time, even under low-light conditions, but occasionally I need to use the manual focusing.  The pictures are crisp, and the colors are natural under almost any condition (with the built in flash).  Night shots are quite impressive for a non-cooled CCD.  Using a tripod, I was able to take pictures of some brighter stars (magnitude -1 or -2) without much background noise.
+
+I recently had a chance to compare the S3 to a Nikon Coolpix 995.  Under the same conditions, indoors with a relatively low light level, the S3 managed to take pictures with more natural colors.  The depth of field was also better.  There was not a significant difference in the image resolution.  This was not a scientific and extensive comparison, however, I was pleasantly surprised with the outcome!
+
+The greatest criticism I have about this camera is the battery life.  It uses a lithium ion proprietary battery which is as small as a gum stick.  The optimum battery performance is not achieved until several discharge/charge cycles (surprisingly, this is not mentioned in the camera's manual).  The battery will allow me to take pictures to fill 80 Mb of MMC space (16 + 64 Mb cards).  The performance significantly improves if you don't use the LCD viewfinder and the flash.  I wish that the battery could last better, but one should remember that the camera is as small as a pack of cigarettes and it only weighs 150 grams!  I also have to mention that the camera gets quite warm when the LCD is used for a prolonged period of time.  I guess the all-aluminum case helps dissipating the interior heat, which is important for such a small device.
+
+Overall, the Kyocera/Yashica S3 Finecam is an engineering marvel.  The picture quality is excellent, and it can go anywhere you go in your shirt pocket or purse.  I highly recommend this camera for anyone who is looking for a subcompact high quality digital camera.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

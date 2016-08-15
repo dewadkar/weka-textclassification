@@ -1,0 +1,27 @@
+DOC>
+<DOCID> 14397 </DOCID>
+<PRODUCT> Digital_Cameras/510653_Fuji_Film_FinePix_2300 </PRODUCT>
+<URL> http://www.epinions.com/content_38227316356 </URL>
+<TEXT>
+            I have a huge investment in a Canon EOS A2 with all the fancy lenses and goodies, which I use for "serious" photography.  But often, I will want to take pictures at a party or some other environment where I want to quickly and easily share the photos with friends.  And I don't want to have to worry about my good camera, so I need something not too expensive.  For me, this is perfect replacement to a small point and shoot film camera or disposable.  No zoom, no autofocus, no shutter override, no aperture override, no muss, no fuss.  Just point and shoot.
+
+I tried a friend's "high-end" digital camera and was extremely disappointed with the incredibly difficult, non-intuitive user interface on it.  I wanted a clean, clear, simple user interface, and this Fuji pretty much delivers.  My main criteria is: how easy is it to view and delete the last picture you took?  With this camera, after the shot, you turn the dial to playback mode and a few seconds later the last picture shows up on the LCD.  You press the "menu" button, then select "erase frame", then select "OK".  Pretty easy, although I'm still waiting for a camera that has two simple buttons: "display last shot" and "erase last shot".
+
+The fact that it takes 4 standard AA batteries is great.  Single use batteries are expensive, so I use Energizer rechargeable NiMH AA's, and they work great.  But it's nice to know that if I get stuck somewhere and can't recharge, I can always use plain old AA batteries.
+
+One nice feature is the ability to have the camera correct for fluorescent/incandescent lighting.  It makes a huge difference.  Also, I'm very impressed by how accurate the colors are.  I guess Fuji's film background comes in handy.  Also, the macro feature is really nice for getting detailed close ups of things like flowers.
+
+The on-board flash is OK and is what you would expect from such a camera, but remember that it's more of a fill flash and is not very powerful.  The sync mode works really well, though, for night time shots, where you want to see the person in the foreground as well as say, a lighted building or a campfire in the background.
+
+I wish there were a "no compression" mode, where it stores the raw uncompressed image.  The default JPEG compression modes are well-chosen, but it would be nice to be able to turn off compression so you don't lose any data from the image.
+
+The USB connection worked without a hitch on my Windows 2000 machine.
+
+The only (small) drawback is that the lens has no cover and there's only a very thin bevel around it for protection.  It would be very easy to scratch if you put it in your pocket with some keys.
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

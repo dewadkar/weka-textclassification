@@ -1,0 +1,71 @@
+DOC>
+<DOCID> 20070 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Canon_EOS_10D </PRODUCT>
+<URL> http://www.epinions.com/content_96793038468 </URL>
+<TEXT>
+            I've been a working magazine photographer for some thirty years till a confluence of circumstances took me out of the game a decade ago. Nonetheless, I've wanted to get a digital camera capable of being used professionally, for the past couple of years.
+
+For the small jobs that I get nowadays, I was able to buy (and upgrade) Sony digital cameras; beginning with the F505 (very good), the F707 (way better), and the F717 (terrific and it let me use a PC flash adapter in the hot shoe). I also have a Sony U10, which I love (take it everywhere for snapshooting).
+
+I went to the Apple Computer Web site and found they were offering, for sale, the Canon 10D as well as a selection of 3 Canon lenses. Unfortunately, I was still not able to afford the new and low-priced ($1499) Canon 10D but, thanks to the availability of "instant loans" at the Apple Web site, that all changed in a minute.
+
+Having applied for an instant loan and having been granted the same, I bought the Canon 10D along with a Canon 28 - 200mm zoom lens. A few days later the lens arrived and a day later the 10D camera followed.
+
+Though my film cameras had some minor electronics, the Canon 10D intimidated me!
+
+What, with 5 setting(s) choices, various parameters (not available with Adobe RGB), some 17 custom functions, 2 dials, a bunch of buttons and a slew of menu choices&#133I felt, I would be lucky to learn the camera in a month.
+
+But, just a day later having pushed buttons, twirled dials and created custom functions (while, occasionally, referring to the instruction manual) I was totally at ease with the Canon 10D, secure in the belief that I knew the camera quite thoroughly. The fact is that the controls are very well laid out and to a great extent, tend to be intuitive.
+
+Note: it is easy enough to begin using the camera immediately in its various fully automatic modes -- that is, once the battery is charged (90 - 150 minutes) and recording media (compact flash card -- none included) is inserted.
+
+The shooting experience is a joy. I cannot compare the Canon 10D to any other professional-caliber digital cameras (notably the Canon D30/D60) as I never used any digital camera more sophisticated than the Sony F717 or the Nikon 5700.
+
+Focusing is fast and silent. There are seven autofocus points in the viewfinder. One can choose a specific point (of the seven) and use that as the single focus point. Exposure metering does not disappoint. Though, I do not expect to use the built-in flash too often, I have used it with excellent results. I've shot both RAW images and large/fine JPEGs; in both instances, I've not run into any problems with the buffer. In other words, I've been able to shoot as fast as I wish. There is no appreciable shutter lag. If there is, I can't tell (with my Sony F717, there would be a momentary lag of the shutter and I would need to wait a half-minute plus for a RAW image to write to the media).
+
+Having used the camera for only three days (and averaging, perhaps, a hundred photos a day), I've not yet used the White Balance function on any setting except for Auto (with very good results). There are nine various settings for White Balance of which one allows a custom setting (based on shooting a white object and using the data from the image to set the WB) and another which allows one to manually set a WB based on color temperature (2800 - 10000 degrees Kelvin in 100K increments).
+
+Reviewing images on the LCD is a breeze. I've not been treated to having a histogram (a graph which indicates the brightness of an image to aid one in correcting over/under exposure) prior to the Canon 10D. And one can easily and readily magnify a section of an image up to 10 times in order to better study it.
+
+The viewfinder has a diopter adjustment, built-in, which suits my needs admirably.
+
+Much has been said about the range of ISO speeds (sensitivity to light) 100 to 3200 ISO, and the low level of noise at the higher speeds. I've, so far, only shot at 100 ISO, so I am currently not able to address this consideration.
+
+It's all about image quality. This is where things get really interesting (for me). Of course, I have read quite a bit about digital cameras, the algorithms used to process images (except for RAW), and the need for post-processing (unsharp mask, saturation, color correction, etc.).
+
+I was surprised to find that my Sony cameras all seem to deliver sharp, crisp images with little need for post processing (except, perhaps, to address some over-saturated colors).
+
+The images coming out of the 10D (in comparison to the images from my Sony F707 or F717, for instance) appear soft but not out of character with similar cameras. This is where one must be very careful with post-processing. (Photoshop Elements software is bundled with the camera but I use Photoshop 7.0) I am experimenting with creating processing "Actions" in Photoshop, which I can then use to process all my digital images. I am getting wonderful results but have learned to be careful not to over-sharpen. Though, a highly sharpened image seems to be perfectly acceptable in most situations, I found that fine lines (in some architectural photos which I made) may develop a perceptible "halo-effect." To avoid this, I have taken to creating a Photoshop "action" which involves applying the Unsharp Mask in small increments, each incremental sharpening is then followed by a fading of the Unsharp Mask using the Luminosity setting (in the fade mode).
+
+The results, combined with a minor adjustment of "Curves' (in Photoshop) has yielded beautiful image(s) which appear to have a wonderful range of tones and an extended dynamic range.
+
+One cannot underestimate the importance of quality post-processing to deliver the best image(s) possible from any digital camera. It is my understanding that there is (or soon will be) software which will help to automate this process and should yield excellent results without requiring one to have a thorough working knowledge and practice of Photoshop or similar processing software.
+
+Now, to the software included with the 10D. I use a Macintosh computer (G3) so my experiences may differ from the majority of camera/computer users and I will only refer to that software which is intended for the Macintosh. Adobe Photoshop Elements is included but, since I use the full version of Photoshop, I did not load the Elements software. The Utilities software includes File Viewer, Image Browser, Photo Stitch and Remote Capture. I have not used the latter two utilities, the first of which allows one to create a panoramic photo and the other allows one (with an optional accessory) to control the camera and shoot directly from the computer.
+
+I have yet to read the instructions for the software but this is what happens when I attach the Canon 10D to my computer using the supplied USB cable. The Image Browser opens and a dialogue box asks if I wish to download the image files to the computer. I click "download" and a "camera" window opens, displaying thumbnails of all the images and the download proceeds. The images then appear in the Image Browser window.
+
+I am then able to click on a delete button to delete all the images in the camera. At this point I can process RAW files (and extract embedded JPEGs) and also have images open automatically in my image processing software (Photoshop). Meanwhile, the File Viewer utility appears to display images (as thumbnails) in any folder (directory) that I choose. There is no need to "load" the images into the software (just highlight a folder and all images are displayed).
+
+Addressing some of the "shortcomings" of the 10D. Small Viewfinder: could be, but I've not been looking through other viewfinders lately, so, I didn't really notice. The 1.6 multiplier for lens focal length: well, as much as the 10D looks and feels like a 35mm camera, it's not! Besides, I like telephoto lenses. Slow file transfer via USB: large/fine (JPEGs) transfer at the rate of 4/minute; RAW files (with small JPEGs embedded) take about twice as long. My solution is to go to my freezer and pour a martini for myself. I don't mind the waiting as I sip a libation (the world is, too much, in a hurry). The software: I don't know how much better it could be (I suppose it could); but it makes my life both simple and delightful!
+
+I feel quite fortunate to have this camera and take it with me daily as I enjoy the photographic experience which the Canon 10D facilitates.
+
+UPDATE!
+Having had the Canon 10D for nearly two months, I wish that I were starting my career all over again. I set various sets of Parameters for very bright sun (low contrast, high sharpness, normal saturation) through heavy overcast (high contrast, high sharpness, high saturation). I've also used it in studio with studio "strobes:" (Broncolor and Dynalight). Choosing to use "custom white balance" the results simply amazed me. The colors were "right on" and came out of my printer (a Canon S9000) looking just as they looked on my computer monitor.
+
+I no longer have all those wonderful magazine jobs that I enjoyed from the 1960s through the late  1980s but I shoot, perhaps, a hundred shots or so each day with the Canon 10D (thank goodness, I have 5 hard drives on this computer-- and 4 hard drives on another).
+
+Not having to pay for film and processing (about 25 bucks a roll the way I do it--custom lab), I've turned into a "shooting fool." (Oh, and shooting, sometimes, hundreds of shots without recharging the battery, I've NEVER had the battery quit!)
+
+I know that the camera can't be getting any "better" the longer I use it but it seems to be. Perhaps, I am just better at grasping the nuances of adjusting parameters, et al. The images which I am getting are far better than my references in my original revue would indicate (soft images).
+
+I carry the Canon 10D with me during virtually all the daylight hours. But, I found that if I'm not taking the 10D with me, I am either carrying my Sony U10 (an incredible snapshot camera) or, ironically, a film camera--my Leica M6. The latter camera comes with me in inclement weather as I feel it will hold up better in the rain than will the Canon 10D or the Sony.
+
+I will say, that for me, the Canon 10D has renewed my love affair with photography!
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

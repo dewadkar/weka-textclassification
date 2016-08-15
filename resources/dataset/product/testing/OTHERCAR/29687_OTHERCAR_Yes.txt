@@ -1,0 +1,46 @@
+DOC>
+<DOCID> 29687 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Kodak_EasyShare_CX6200_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_123788168836 </URL>
+<TEXT>
+            I bought this camera for my (12 year old) daughter and we've both had fun with it over the past few days.  (I'm sure we're not the only family who has been doing this.)  The following report is based on our experiences.
+
+First. One very important feature of this camera is its simplicity.  My daughter had her gift unwrapped, batteries in the camera, a colour picture glowing from the small screen and her cousin in giggles.  All in no time.
+
+Second. Later we installed the software together. This was straightforward on our Windows XP Home system.  (I suggest choosing the custom install and turning off the automatic updates. I also declined to have Kodak's software take over my image files. Lastly, I removed Kodak Easy Share from the Startup menu.)
+ 
+Third. Downloading the images is simple and easy once Windows recognizes that a cable has connected the camera to the computer's USB port. I truly admire the invisible work of the software engineers. (For technos, USB 1.1 is OK.)
+
+Images are saved in jpg format and Kodak provides software to catalogue and print them. On the screen, the cousin photo looked good but my daughter chose to remove the red eye by using the mouse.  She easily figured that out.  We attached the image to an e-mail to my sister and then, we printed it on ordinary 8 1/2 by 11 paper for fun, choosing the drugstore standard 6x4 format among size options. It looked good.
+
+Later, we made a video (very short - about 30 seconds) and downloaded it. It was saved as a Quicktime MOV file but Kodak's software did not catalogue it. I found it on my own and used a utility to convert it to avi format for editing in Windows Movie Maker. Note: The videos require sunlight otherwise they are dark and fuzzy.
+
+Downside
+
+The 8 mb memory is miniscule and means you can take about 10 photos max or about 30 sec movie. (We'll take the laptop and download until we get a memory card - about $50 more, so I'm told.)
+
+There is no optical zoom. The videos have no sound. The lens cover is a thin piece of clear plexiglas.
+
+If you want to show movies direct to TV, you must buy the Kodak Camera Port.  This is not a webcam.  You can't make movies and save directly to a computer.
+
+Any time the camera is on, including when downloading, it uses power from two AA batteries. I suspect they'll die soon.
+
+There is no control over exposure (shutter speed/aperture).
+
+Upside
+
+Easy to hold and use. The menus (in English, French or Spanish etc.) on the camera are in colour and easy to flip through. Kodak's web site provides all the help you'll need.
+
+For technos, this camera uses CCD as opposed to CMOS technology in the critical light gathering panel, or "film", of the camera.  Result? CCD technology, at the moment, provides better images (better colours, resolution, light sensitivity) but uses more power.
+
+The digital zoom is intuitive. In fact, this camera is intuitive.
+
+The word 'Kodak' is known in so many languages because Kodak introduced simple photography to common mortals. Remember Instamatic?  This camera is Kodak's step into a digital future. It works. I'm amazed.
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

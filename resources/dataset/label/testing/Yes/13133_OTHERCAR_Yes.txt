@@ -1,0 +1,65 @@
+DOC>
+<DOCID> 13133 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Minolta_Dimage_E323_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_124367179396 </URL>
+<TEXT>
+            I am an avid reader of Epinions and put a lot of faith in some of the reviews people take the time to write... I haven't seen a review on the E323, and since I have one, I cannot hold back any longer ! ... I have been eyeing the Digi-Cam scene for a good while and have purchased 4 of them in the last 2 months ... (wow) ... One of the ones I have bought is the Konica/Minolta Dimage E323 ... I paid $200 incl. 2 day air and I am very happy I bought this 3.2MP camera to say the least ... I have a Canon G5 for "Important" venues and it comes out to play infrequently as due to it's cost I watch it like a hawk which can at times take the fun out of my outing ... So, I say, "why not buy a mid-level inexpensive 3.2MP for romping around with" ... So I did ... I got the E323 ... (Sorry for the rambling on with the review)
+
+... I have taken B&W Photography classes in school and have a limited knowledge of the Hobby and I must say, there is a bit of a learning curve to grasp Digital ... (Light, Light, and more light is the biggest key to success) ...
+
+... I chose the E323 largely because it quite simply was the cheapest 3.2MP zoom camera made my a "camera company" ... Further investigation revealed that it's images had some of the nicest detail, color balance, contrast, and low noise levels ... One place I look for noise in a digi-cam's every-day pictures is in the large expanse of blue sky on a clear day ... If it looks "grainy" it doesn't appeal to me as much as say a noise-free smooth blue ... (again, true to life IMO) ... This is something this camera shines in big-time... I have a lot of good things to say about this camera but I will not bore you to death; I just have to simply say, "Look into this model by going to the various sites where there are sample pictures and you will clearly see how this E323 stacks up against it's brethren." ... I don't know how Konica/Minolta can produce such a hit for this price range, but they did... Don't let the looks of the E323 deceive you; it may just be a wolf in sheeps (baby blue) clothing ! ... I don't know how much Konica had to do with the lens, but it rocks... This lens is no slouch ... Again, for $199 and some places less, you need to look into this camera ... Even if you're sold on a 4MP, check out this camera ... (For only a 20% loss in resolution from the 4MP to this camera, it's worth a look) ...
+
+... If I could say anything bad about the camera, it would be that I wish it had more metal in it's construction ... Also, I would like to see an anti-reflective coating on the LCD (even though it's 84K and bright), and a metal hinge on the battery/media door ... It is plastic, and very robust, but I would like to see some metal visible in the hinge... There may be as it's somewhat hidden, but nonetheless, I have to pick on something ... Will it break? ... Highly doubtful unless you are extremely rough on it, which while handling electronics of this sort, I doubt most would be ... Here are some specs from Minolta on this camera ... (note the "scene modes" which change the ISO settings and exposure)
+
+----------------------------------
+Specifications:
+
+No. of effective pixels Approx. 3.2 million 
+CCD 1 / 2.7-type interline primary-color CCD 
+Aspect ratio 4:3 
+Lens 5.6-16.8 mm (35mm - equivalent: 36 - 108 mm),
+f/2.8 - f/4.9; 7 elements in 6 groups 
+Recording media SD memory card and MultiMediaCard (MMC) support  
+File format JPEG, Motion JPEG (MOV), DCF1.0-compliant, DPOF (Ver.1.1) compatible, Exif2.2 
+No. of recorded pixels 2880 x 2160 (interpolated), 2048 x 1536, 1600 x 1200, 640 x 480
+Autofocus system Video AF, focus lock available 
+Focusing range 0.11 m / 0.4 feet to infinity (from the front of the lens) 
+Macro mode WIDE: 0.11 m / 4.3 inches, TELE: 0.46 m / 18.1 inches (from front of the lens) 
+Exposure control Programmed AE, AE lock available 
+Exposure compensation  /-1.8Ev (with 0.3Ev step) 
+Metering 256 Multi-segment metering 
+Camera sensitivity Auto (ISO 50 - 200 equivalent) 
+Shutter CCD electronic shutter / mechanical shutter, with 1/2 - 1/2000 seconds in full auto mode, 2 - 1/2000 seconds in Landscape and Night view modes 
+Self-timer Approx. 2 seconds / 10 seconds delay 
+Movie recording 15 fps (320 x 240 or 160 x 120), recording possible to full capacity of the memory card 
+Digital zoom 4x 
+White-balance control Automatic, Preset (Daylight, Tungsten, Fluorescent, Cloudy) 
+Flash mode Autoflash, Autoflash with red-eye reduction, Fill-flash, Flash cancel 
+LCD monitor 40 mm/1.6-inch digital interface TFT color, Total pixels: 84,960 
+Printing output control Exif print, Print Image Matching II, PictBridge 
+PC interface Full-speed 12 Mbps USB, Video output PAL / NTSC (selectable) 
+Batteries Two AA batteries (Ni-MH, Alkaline), One lithium-ion battery CR-V3 
+Battery performance* Number of recording: 80 (approx.) frames (Alkaline battery, Monitor On, 1600 x 1200)
+* Konica Minolta measurement 
+External power source 3.4 V DC (with specified AC adapter) 
+Dimensions (WxHxD) 99 x 62 x 34.5 mm / 3-7/8 x 2-7/16 x 1-3/8 inches (excluding projected parts) 
+Weight Approx. 145 g / 5-1/8 ounces (without batteries and recording media) 
+Standard accessories Two Alkaline batteries, Hand Strap (HS-DG120), Video Cable (VC-300), USB Cable (USB-900), SD Memory Card (16 MB) DiMAGE Viewer CD-ROM 
+
+-----------------------------------------
+
+As you can see, this camera with it's auto focus type, (video/5 point AF), 256 metering, dark noise reduction, Minolta&#146s CxProcess&#153 image processing technology, Program Functions, and it's impressive boot time and shoot speed, you will be hard pressed to find a camera that takes as nice of pictures with these features at this price level ...
+ 
+
+Oh, and did I mention that it interpolates to 6MP ? (2880 x 2160) ... Someone else actually advertises their camera as a 6MP camera even though it's an interpolated image ... Kinda deceiving if you ask me ... But here's what I perceive it to be ... (Hope I get this right) ... The Interpolation feature "averages" data taken from the sensor and plots what it feels is the right color pixel as data if you will to create a 6MP size image ... Not a true 6MP rendition, but it's better done in the camera at 6MP size than done on your PC from a 3.xMP file ... Not a true 6MP image, but if you need bigger than an 8x10 print, this camera gets you better quality than if you simply "blew-up" a 2048 x 1536 on your PC ...
+
+Do yourself and your checkbook a favor and look at the new E323 by Konica/Minolta ... If you look hard enough, you'll see pixels are not all created equal ! 
+
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

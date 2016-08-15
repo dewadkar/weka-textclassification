@@ -1,0 +1,30 @@
+DOC>
+<DOCID> 682 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_NikonCoolpixx-Nikon_Coolpix_950 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-5F39-8DC0435-3877CEC0-bd1 </URL>
+<TEXT>
+            Ever since I bought one of the early Casio digital cameras in 1996, I had been browsing the pages of PC Magazine and the ZDNet website to decide when sufficient product developments had been made to justify upgrading. Finally, the Nikon CoolPix 950 made up my mind. My main concern was resolution. My wife is a ceramic artist, and we send pictures of her works to a few galleries for posting on their websites, as well as producing promotional brochures and catalogs. Set at the highest resolution, the CoolPix's 2.1 megapixel design delivers on its promise of pictures that finally truly rival film in sharpness and color rendering.
+
+I had seriously considered Sony's Digital Mavica cameras before making my purchase decision. The main feature that interested me was the its use of regular 3-1/2 inch floppy diskettes as media. But there's a serious trade-off for this low-cost flexibility. At the highest resolution, the CoolPix 950 produces individual picture files using approximately 5.6 megabytes of memory. Guess what the capacity of a 3-1/2 inch floppy is: only 1.44 megabytes. That means you can't get even one truly high-resolution picture on a diskette; and to take any number of lower-resolution pictures, you're going to need a backpack to cart around all the diskettes.
+
+At first, the CoolPix 950's range of features and settings was a little intimidating, and caused some initial concerns regarding ease of use. However, after spending some time familiarizing myself with the menus and options, I concluded that Nikon had done about as good a job as possible in organizing and making accessible the wide range of features built into the camera. I own a Minolta X-700 35mm film camera, and the CoolPix 950 actually has a much wider array of features than it does; even several options for white balancing, which is a frequently overlooked but critical consideration in photography.
+
+If there's a downside to the 950, it's the very expensive range of accessories that seem virtually impossible to do without. This would, however, be the case with virtually any other camera on the market. A few examples:
+
+Camera Memory: The camera comes equipped with one 8-megabyte compact flash card. You can refer to my discussion of memory above to see that this equates to only one picture at the highest resolution setting. So, unless you want to take only one picture at a time and shuttle back and forth to your PC to download, you need more capacity. I bought a 128-megabyte compact flash card that allows me to shoot about 20 highest-resolution pictures between downloads, but it cost me over $300; a high price to pay, but using the camera without it would be truly cumbersome.
+
+Computer Memory: When you start out with picture files of 5.6 megabytes, and then consider the additional memory that jazzing them up into collages, and adding taxt and special effects requires, you quickly discover that you're using up a lot of hard disk space. If you don't already have a good 5 to 6 gigabytes of hard disk capacity, you'll soon find yourself faced with the need to add more. That means either another  hard disk or investing in a different type of drive. My solution was the purchase of a Philips CDD 3610 CD-ROM rewritable drive (the subject of a very favorable review for another time). The relatively inexpensive 650-megabyte disks give me all the capacity I'll ever need, but not without a price. I had already bought the CD-RW drive before I purchased the camera, and it cost me about $300 a year ago.
+
+Download Speed: As with all digital cameras, you have the option of hooking up the 950 to your PC with a serial cable and transferring the images. The only problem is that this method takes forever, especially if you've got a 128-megabyte flash card full of pictures. The solution: a compact flash card reader that transfers a full card in about 10 minutes. The SanDisk model I bought set me back another $65, but again, using the camera without it would be a very time-consuming process.
+
+Batteries: The 950 doesn't demand much more power than other megapixel cameras, but it runs through AA batteries at a rapid clip. It's got several auto-off and mode-save options, but those are only stopgaps to save battery capacity. I invested in eight rechargeable Ni-MH batteries and a dedicated rapid charger (about an hour for four batteries). The camera uses four batteries, so I can use one set while the others charge, and never have to wait for more juice. But, the batteries and charger set me back another $85 or so.
+
+Printing: My printer is an Epson Stylus Color 800, and I couldn't be much happier with its performance. It was one of the higher-resolution models available when I bought it a couple of years ago, with a DPI capacity of 770 X 1440. Doing the math, that's equivalent to just slightly over 1.1 megapixels. So, guess what. If I want to utilize all the CoolPix's 2.1 megapixels for printed pictures, I'm looking at upgrading printers.
+
+In conclusion, if you're serious about digital photography and demand near-filmlike quality, the Nikon CoolPix 950 camera will prove to be one of the best values for the money available. But the money is no minor consideration.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

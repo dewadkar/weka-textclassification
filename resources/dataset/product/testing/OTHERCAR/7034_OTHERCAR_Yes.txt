@@ -1,0 +1,199 @@
+DOC>
+<DOCID> 7034 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Sony_DSC-P10_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_110160154244 </URL>
+<TEXT>
+            The DSC P10 is the second Sony digital camera I&#146ve tested recently.  The first was the superb little DSC V1 but the P 10 is arguably the more revolutionary of the two. Sony&#146s designers took a radically new approach with the DSC P10 and turned out the first five megapixel digital camera actually designed for the masses.  Most five megapixel digicams are targeted to the photo enthusiast market niche, but the P 10 is designed for folks who want a high performance digital camera but don&#146t want to learn advanced photographic skills. 
+
+The DSC-P10's durable metal body and P&S ease of use make it an almost perfect choice for snapshooters, travelers, casual photographers, and those searching for the ideal family camera.  And that&#146s not all, the P10 is even smaller than its popular "P" family siblings (DSC P32, P52, P72 and P92) easily compact enough to drop in a shirt pocket or small purse and take along anywhere.  
+
+<i>NUTS & BOLTS</i> 
+
+<b>Viewfinder/LCD</b>
+
+The Sony DSC P10 features a bright eyelevel tunnel style real image zooming optical viewfinder with a field of view of that covers about 80% of the frame. There&#146s no diopter correction for eyeglasses wearers.
+
+The P 10&#146s 1.5&#148 LCD screen is bright and fluid with good color.  The minimal information display provides aperture and shutter speed and a live histogram display (a graphic display of the tonal range of an image---useful for avoiding over/under exposure) 
+
+<b>Lens</b>
+
+The P10 features a relatively fast f2.8-f5.2/38-114mm (35mm equiv.) zoom lens.  When the P 10 is powered down the lens retracts into the body behind a built in lens cover.  The P 10&#146s 3x zoom shows mild barrel distortion at the wide angle end of its range and unlike the Zeiss zooms of the F717 and V1, the P10&#146s Sony zoom shows below average performance with moderate pincushion distortion (straight lines in the image bow in toward the center) at the telephoto end of the range.   
+
+<b>Auto Focus</b>
+
+Three AF area Multi-Point AF or Center AF (available through the record menu) point only. Users can select (through the Setup menu) Single AF mode---focus is locked by slightly depressing the shutter button.  Monitoring mode adjusts focus continuously and locks focus when the shutter button is slightly depressed.  Continuous AF adjusts continuously (even after the Shutter button is slightly depressed) allowing users to "track"  moving subjects until the desired composition comes together.  AF is fast and accurate.
+
+<b>Manual Focus</b>
+
+Manual focus with most prosumer digital camera is cumbersome and slow----but it does work when needed----The P 10&#146s manual focus option is more like the old scale focusing collapsible lens cameras of the fifties----it offers a range of fixed focus distances (.5, 1, 3, 7 meters, and Infinity) and is, in use, virtually useless.
+
+<b>Macro Focus</b> 
+
+The P 10&#146s minimum focusing distance is 3.9 inches, close enough for e-bay items and flower portraits, but not quite tight enough for bugs and coins.
+
+<b>Flash</b>
+
+The DSC-P10's multi mode built in flash provides Auto, Red-Eye Reduction, Fill, Slow-Sync, and off settings and output intensity is adjustable (high-low-normal) which is great for macro shots.  Coverage is good, but Sony&#146s claimed 12.5 ft is a bit overly enthusiastic unless the flash intensity is set for high.
+
+<b>Memory</b>
+
+The P 10 utilizes Sony&#146s new Memory Stick PRO format.  Memory Stick PRO cards are available in sizes up to 1 Gigabyte (standard Memory Stick Media tops out at 128 MB).  Memory Stick PRO cards are faster than standard Memory Sticks (about equal in speed to xD cards) but they are substantially more expensive than comparable flash media.
+
+<b>Connectivity</b> 
+
+USB 2.0 and A/V out 
+
+<b>Power</b>
+
+The P 10&#146s juice source is the Sony NP-FC11 InfoLITHIUM rechargeable battery pack (the battery is charged in the camera with the included AC-LS5 AC adapter/charger and about 2.5 hours is required to recharge the battery).  Sony claims an average of 180-200 exposures with full time LCD and occasional flash use which seems fairly accurate (240-260 images with Optical Viewfinder---LCD off).  There&#146s a Power Save function which darkens the LCD slightly (and defaults to single AF mode) to stretch power in a pinch.  A second battery is always a good idea, but casual users (the P 10 target audience) usually skip the back up battery.  The P 10 shows remaining battery run time, which is a really nice feature.  
+
+<i>EXPOSURE & FEATURES</i> 
+
+<b>Auto Mode</b>
+
+The DSC P 10 is an automatic exposure only camera with no dedicated Manual modes.  For beginners and casual photographers this is fine, however it doesn&#146t provide much user input into the exposure process.  The camera arbitrarily makes most exposure decisions (Program mode limits the slowest shutter speed to 1/30th second, Landscape mode sets focus at infinity, and the night scene mode uses slower shutter speeds---up to 2 seconds--- and slow-synch flash to light foreground subjects). Users have no control over shutter speed or aperture (shooters can opt for the High-speed shutter Scene mode, but the camera may increase the ISO setting causing the image to be grainy).  Noise reduction is automatic on all exposures longer than � a second.  
+
+<b>Scene Modes</b>
+
+The P 10 provides seven scene modes  (Twilight, Twilight Portrait, Landscape, Beach, Snow, Fireworks, and Fast Shutter) with all camera settings maximized for the specific requirements of each type of subject, but there&#146s no dedicated portrait scene mode.
+ 
+<b>Movie Mode</b>
+
+The P 10 allows users to shoot very good quality video clips @ 640 x 480 at 15 fps with audio.  The only limitation on clip length is Memory Stick capacity.  Elapsed recording time and remaining time available are displayed on the LCD.  
+
+<b>Metering</b>
+The P 10&#146s default metering is Sony&#146s Multi-Metering (evaluative) mode (which evaluates several areas of the frame to determine proper exposure).  The P 10 also offers Spot Metering (enabled through the Record menu) for more accurate exposures in high contrast, backlit, and close-up images.  
+
+<b>White Balance</b>
+
+Auto plus pre-sets for Daylight, Cloudy, Fluorescent, Incandescent, and Flash. 
+
+<b>Sensitivity</b>
+
+Auto and ISO (equivalent) 100, 200, and 400 
+ 
+<b>Nifty Features</b>
+
+Live histogram display
+In Camera Sharpness, Saturation, and Contrast adjustments. 
+Spot and Multi (Evaluative) Metering modes. 
+Low light focus aid beam 
+Noise Reduction (automatic on exposures longer than 1/2 second) 
+USB 2.0 for fast image transfers
+Sony&#146s new Memory Stick Pro ---faster and higher capacity (up to 1 Gigabyte) than standard Memory Stick format 
+
+<i>CONTROLS, DESIGN, & ERGONOMICS</i>
+
+The DSC P 10 is a stylish light weight (about seven ounces) ultra compact silver (metal bodied) digital camera that is small enough to hide behind a standard credit card.  The P 10 will easily fit into a shirt pocket or small purse.  The camera&#146s controls are logically placed and easy to use (the top deck holds the Mode dial, power button, and shutter button and the remaining controls are on the rear of the camera).  Ergonomically, the P 10&#146s long shape initially seems a bit strange (with lens at the end of the body rather than centered) but the camera is comfortable to hold and simple to operate.
+
+<b>Creative Photography Options</b> 
+
+Exposure Compensation can be adjusted from &#1502;/ 2 EV in one-third EV increments. Select the Picture Effects setting to save images in Sepia, Solarized, or Negative Art image formats.  The P 10 provides in camera image adjustment options (plus&#151normal---minus) for Sharpness, Saturation, and Contrast. 
+ 
+<b>Technical Specifications</b> 
+
+Resolution: 5 megapixels (2592 x 1944)
+Viewfinders: Real Image Optical and 1.5&#148 LCD
+Lens: f2.8-f5.2/38-114mm (35mm equiv.) 3x zoom lens
+Exposure: Automatic plus 7 sene modes
+Metering: Evaluative and Spot
+White Balance: Auto, Daylight, Cloudy, Fluorescent, Incandescent, and Flash.
+Sensitivity: Auto, 100, 200, 400 ISO equivalent
+Shutter Speeds: 1/2000th of a second to 2 seconds
+In Camera Image Adjustment: Yes
+Noise Reduction: Yes
+Connectivity: USB 2.0 and A/V out
+Image Storage Media: Memory Stick PRO
+Power: Sony NP-FC11 3.6V 780mAH InfoLITHIUM rechargeable battery pack
+
+<b>Included</b>
+
+16MB Memory Stick, wrist strap,  Sony NP-FC11 InfoLITHIUM rechargeable battery pack, AC adapter,  USB & A/V cables, and Software CD 
+
+<b>Optional</b> 
+
+Soft case
+
+<b>In the Field/Handling & Operation</b>
+
+My friend (who sells new and used photographic equipment) picked me up the afternoon of the first Saturday of the Kentucky State Fair. He brought along Sony&#146s new DSC P 10 for us to play with at the Bluegrass State&#146s annual end of summer extravaganza.  My friend always attends the fair (to check out the results of the photography contest) and he thought we should start with the indoor exhibits.  We&#146ve been having absolutely perfect weather (blue skies and warm but not hot) and Saturday was no different. I felt like we should spend our time on the midway shooting &#147street&#148 style shots of the huge crowd. We decided to wander around for a while on the midway and shoot the crowd so my friend could eat an elephant ear before we went inside.  The lighting in the exhibit halls is mixed, but mostly Fluorescent, so we set the P 10&#146s white balance for fluorescent and discussed where to go first. 
+
+My friend wanted to check out the results of the annual ugly lamp contest (sponsored by Lynn&#146s Paradise Caf�) while I wanted to see the 4H Rooster Crowing contest------we finally decided to check out the roosters first and then peruse the winning entries in the annual ugliest lamp in Kentucky show on our to the photo contest and the live music at the Budweiser tent.  The roosters turned out to be a lot of fun in a down home country sort of way and the lamps were truly works of supreme and unrelenting ugliness. 
+
+The Kentucky State Fair Photo Contest is a very nice amateur photography exhibition with images that run the gamut from family snapshots to truly stunning professional quality landscapes.   After the photos we returned to the mid-way for a while and shot a number of interesting characters in the crowd before stumbling across the &#147High Dive adventures of Sinbad and the Pirates&#148 a humorous and splashy (sorry I couldn&#146t resist) production featuring costumed folks doing high dives from about 80 feet up in the air into tanks of water.  We got a couple of neat shots of the action during the twenty minutes we spent at the show.  We hung out at the Budweiser tent cooling off and listening to a genuinely mediocre band before heading back out to the midway to shoot the rides lighted up against the sunset sky before calling it a day and heading home.
+
+Sunday morning was absolutely beautiful so we took the P 10 to Cave Hill Cemetery, Louisville&#146s only arboretum. Blue skies with small wispy white clouds made an excellent backdrop for the rows and rows of white marble and limestone headstones on the hill that serves as a final resting place for the hundreds of Union soldiers killed in Kentucky during the Civil War. The top of the hillside has a smaller number of Confederate graves, the only place in the country where Northern and Southern troops killed in the War Between the States lie at rest together. The Civil War section of Cave Hill has long been a favorite shooting site for both my friend and I. Some wonderful patterns take shape as you walk along the road above the Union headstones. We spent an hour and were able to shoot some striking pictures of the orderly flow of white grave markers stretching down the hill. 
+
+After the cemetery we decided that the cool shade and old growth trees along Beargrass Creek in Cherokee Park would be a great shooting location. The creek was very low and the small pools were absolutely still with dark mirror like surfaces. The huge old trees threw the creek into heavy shade so we decided to try the P 10&#146s night portrait scene mode and shoot some intimate landscape style shots.  We found one clump of ferns reflected beautifully in the dark surface of the creek. The light was dim under the canopy of old growth trees but the bright green ferns were subtly backlit and the reflection right below the real ferns was striking. The P 10 did a good job and aside from a very slightly &#147too green&#148 look rendered the scene nicely with no visible noise. After we finished up at Beargrass Creek we decide to drive over to Baxter Avenue and shoot the huge coffee pot and cup outside Lynn&#146s Paradise Caf� (no doubt inspired by Lynn&#146s sponsorship of the Ugliest Lamp in Kentucky contest the day before) by this time it was late afternoon and we got some really nice oblique side lighting on Lynn&#146s &#147kitschy&#148 and colorful signature sculptures. 
+
+<i>PERFORMANCE</i> 
+
+<b>Image Quality</b>
+
+The Sony DSC P 10 does a good job in the image quality department---color is accurate and well saturated, but there is a slight yellowish cast in most images---this color cast is more visible on indoor shots and I&#146m guessing it will be even more obvious in incandescent light. Skin tones are very good (warmed up a bit by the slight yellowish cast) and natural looking.  Outdoor shots with lots of foliage take on a look that will appeal to Fuji slide film fans---greens are not quite at the Velvia level, but they are brighter and more vibrant than nature intended.
+Resolution is very good and images are sharp and clear with some minor chromatic aberration (purple fringing).  Optical distortion (barrel and pincushion) is a bit higher than average, but well within the normal/acceptable range.  Close up images show noticeable softness in the corners and flash coverage is a bit excessive, making over exposure pretty easy unless flash intensity is dialed down to low for macro shots. 
+
+The P 10 does a good job with night/low light shots, however unless users opt for the twilight scene mode (maximum shutter speed is 2 seconds but ISO sensitivity is locked at 100) the longest shutter speed is one second (ISO sensitivity can be adjusted between 100 and 400) so images look good with only minor noise (and they will be sharp if the focus aid beam is enabled).  After our two outings with the P 10 we printed two 8x10 enlargements (with an Epson Stylus Photo 785EPX on Kodak photo paper) and both well sharp with good color and excellent tonal range.
+
+<b>Timing/Shutter Lag</b>
+
+Surprisingly, the DSC P 10&#146s is pretty quick----boot up is about 3 seconds with is a bit better than average.  Shutter lag (with pre focus) is less than � a second, which is quite good.  Shot to shot time is about 1.5 seconds (even at the highest resolution setting) which is very good.  AF lag is about average in good light and better than average in low light.  Digital cameras don&#146t do well in shooting action, but the P 10 is quick enough to shoot kiddie sports, family outings, and baby&#146s first steps.  Flash recycle timing is the only bug in the ointment---noticeably slower than average.
+ 
+<b>A Few Concerns</b> 
+
+Sony&#146s digital cameras have one glaring shortcoming that purchasers should consider carefully, unlike their major competitors (who offer a  one year warranty), Sony provides only a 90 day warranty on parts and labor.  Users who want to take advantage of the enhanced speed and expanded maximum capacity of the Memory Stick Pro format will be obliged to pay a higher tariff for the privilege ----Memory Stick Pro cards cost substantially more than comparable competitive storage media.  Unbelievably, Sony&#146s design folks failed to include a portrait scene mode---which is pretty weird considering that people are probably the world&#146s most popular photographic subjects. 
+
+Both my friend and I both noticed  a slight but consistent yellowish cast in virtually all of the images we shot with the P10.  I suspect that slight color cast is a result of the P 10&#146s interpolation programming, Sony&#146s engineers probably compromised color balance slightly in favor of a slight bias toward green.  The P10 is targeted at casual photographers who want to be able to shoot striking photographs in full auto mode with all default (including white balance) settings in place-----the slight greenish-yellow cast will not be noticed by users who don&#146t critically examine images----but the vibrant greens in outdoor pictures is likely to appeal to casual photographers.  
+
+The P10&#146s in camera image adjustment (contrast/saturation/sharpness) works a bit differently than it does with prosumer digital cameras designed for more advanced users-----the changes are subtler, designed to slightly enhance outdoor images across a much narrower range than is usually seen with five megapixel digicams.  Strangely, if you select more contrast in indoor shooting venues you&#146ll have to punch up flash output to avoid underexposing the image.  Increasing either sharpness or contrast results in a noticeable boost in noise levels and increasing color saturation results in minimal (but noticeable) color bleed. Noise isn&#146t as well controlled with the P 10&#146s images as it is in those from the Sony DSC V1 and that is goofy since it would have been fairly easy to adapt the noise control system from the V1 to the P 10.   Finally, flash recycle time was longer than expected, which is a bit odd since the P 10 is pretty quick in most respects.  
+
+<b>Who is the DSC P10 Best Suited For?</b>
+
+Beginning and casual photographers who want high resolution images but don&#146t want to deal with complex exposure/composition decisions will love the P 10.  More demanding photographers will quickly tire of the P 10&#146s modest selection of advanced features and limited user input.  
+
+<b>Conclusion</b>
+
+For users who view the DSC P 10 with realistic expectations, Sony&#146s revolutionary little five megapixel prosumer digital camera for the masses delivers--- If you don&#146t want to learn about f-stops, shutter speeds, exposure compensation, or ISO sensitivity, but want a compact five megapixel digital camera that is tough enough to go anywhere and produce excellent images in most situations, the P 10 may be just the camera for you.
+
+<b>Links</b>
+ 
+Check out my review of a bargain priced and very capable photo quality ink-jet printer. 
+
+Epson Stylus Photo 785 EPX ink-jet printer 
+<a href="/content_60776812164">http://www.epinions.com/content_60776812164</a> 
+
+For definitive advice on How to Choose a Digital Camera please see my review: 
+<a href="/elec-review-2E46-17B174E2-39A418E3-prod1">http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+If you&#146re looking for a five megapixel digital camera, you may find the reviews listed below informative 
+
+<b>Canon Digital Cameras</b> 
+
+Canon Powershot G5 
+<a href="/content_104580419204">http://www.epinions.com/content_104580419204</a> 
+
+Canon Powershot S50 
+<a href="/content_93226503812">http://www.epinions.com/content_93226503812</a>
+
+<b>Sony Digital Cameras</b> 
+
+Sony Cybershot DSC V1
+<a href="/content_107584589444">http://www.epinions.com/content_107584589444</a> 
+
+<b>Olympus Digital Cameras</b> 
+
+Olympus Camedia C50
+<a href="/content_81891724932">http://www.epinions.com/content_81891724932</a>
+
+<b>Minolta Digital Cameras</b> 
+
+Minolta Dimage F300
+<a href="/content_92347993732">http://www.epinions.com/content_92347993732</a>
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

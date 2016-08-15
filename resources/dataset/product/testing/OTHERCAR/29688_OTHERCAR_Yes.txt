@@ -1,0 +1,34 @@
+DOC>
+<DOCID> 29688 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Kodak_EasyShare_CX6200_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_121949752964 </URL>
+<TEXT>
+            I started researching digital cameras only about a month back and I read several reviews of cheap cameras that seemed to have major problems in addition to shooting bad pictures.  I decided that I would only buy a brand-name camera (this is replacing a 35mm film camera, by the way).  I read good things about Kodak cameras in general and started looking for a good deal on one of them.
+
+I found this camera for $99.99 on Amazon.com.  They were willing to throw in a 32MB secure-digital card with the camera for free or give me $25 off any higher-capacity secure-digital card I bought with it.  There was a 64MB card from Viking that was on sale for $27.49, so I picked up the camera with this 64MB card for $102.49.  The camera comes with only 8MB of internal memory (good for only about 15 high-quality shots), so you absolutely need a card to go with it unless you lug your laptop around with you everywhere you take your camera!
+
+The camera arrived a few days later.  Taking it out of the box, installing the batteries and putting the card in were easy to do and very well explained in the quickstart guide that came in the box.  The box contains the camera, a USB cable, the quick start guide, a user's manual and software for your computers (picture organizing and editing software as well as drivers for connecting your camera to your PC via the USB port).  The controls on the camera are very well laid out and there is no confusion, even though the camera's form factor is very compact (only about 3.5"x2.5"x1").  The top of the camera contains the shutter button and a dial that has just three positions: Off, Photo or Video.  The back of the camera contains the LCD screen and to its left, you have a center button surrounded by 4 directional arrow buttons and a delete button.  On the right of the LCD screen are the preview button and the menu button.
+
+Turn on the camera and press the menu key and you are presented with various options such as whether you want to put the date and time on your snaps.  You can also set the quality of the snaps here (you have three or four different settings).  By default, the camera will store pictures on the card if one is installed.  Otherwise, it will put the pictures in internal memory.  If you have used the camera without the card for sometime and then put the card in, preview will not show you the snaps you took before you put the card in, because they are not on the card.  You have to take the card out to view or transfer those pictures off the camera.
+
+Set the main dial to either photo or video to take pictures or soundless video clips.  The video clips are in MOV format (you need the quicktime player to play them back on your computer) and the still shots are in the JPG format.  Since the procedures are mostly identical whether you are talking about video or still shots, I will refer to pictures or snaps from now on and mean both still and video images.  The camera takes a couple of seconds to "boot up" before it is ready for taking snaps.  You can use the viewfinder on the back or the LCD screen to frame your view.  This is a very nice feature since your batteries last much longer if you don't use the LCD all the time.  You can set it up so that the LCD is black when you frame the picture, then as soon as you take the picture, the LCD shows you the picture for about 5 seconds before again going black.  If you want to use the digital zoom (continuous from 1 to 3x), you need to frame the view only with the LCD.  You can quickly switch on the LCD screen anytime you want by pressing the center button to the left of the LCD screen (the OK button).
+
+Once you take the picture, you can delete it immediately when the picture is still on the LCD screen.  Just press the delete button, confirm from the menu presented and the picture is gone.  If you want to delete the picture later, after the 5-second preview is gone from the LCD, you have to press the preview button to bring that picture up on the LCD and then delete it at that time.
+
+Press the preview button to preview your snaps on the built-in LCD screen.  You can use the directional arrow keys to move from picture to picture or video to video (depending on what setting the main dial is placed on).
+
+The software that comes with the camera installed without any problems and is quite user-friendly also.  It does have a lot of features that the average users may not find useful, but it does have the ability to create directories for your photos, not only on the PC, but also on the camera.  Create the directories on the PC and transfer them to the camera and then you can set the camera up so that all your snaps go automatically into one or more of these directories instead of lying around unorganized.  Also, you can select which directory a photo goes into just before you take that shot.
+
+The software also has the ability to add various cool effects to the photos you have taken.  You can lighten and darken photos, increase or decrease the sharpness, contrast, brightness etc.  You can also distort the picture using fish-eye effects, change it into black and white etc.  Play around with it, it is fun.  It does not have the ability to edit videos taken with the camera.
+
+The first set of batteries I installed in the camera is still going strong.  I have taken about a 100 pictures and the documentation talks about usual battery life of about 150 pictures.
+
+The only problems I have noticed with the camera so far are:  the flash is tiny and is easy to hide with your finger by mistake.  Even with the flash on, indoor photos turn up quite dark sometimes and need to be touched up using the software.  You can't use flash with video, so be careful about taking video indoors.  I have also noticed a lot of red-eye in the pictures I have taken with this camera even though the flash has a red-eye reduction mode.  The camera has no lens cover, so it is easy to get dust or fingerprints on the lens if you are not careful.  It is somewhat recessed, so it probably won't break by banging against something, but you have to be aware of that possibility also.  Similarly, the LCD screen on the back is quite unprotected.
+
+All in all though, I think it is a very good camera for the price since most other brand-name 2-megapixel cameras are at least $50 more expensive.  If you have reasonable expectations, you won't be disappointed.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

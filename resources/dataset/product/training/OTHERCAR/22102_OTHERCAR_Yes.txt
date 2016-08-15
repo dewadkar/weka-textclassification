@@ -1,0 +1,27 @@
+DOC>
+<DOCID> 22102 </DOCID>
+<PRODUCT> Digital_Cameras/Kodak_DC215_Zoom_Digital_Camera__Camera_185_3175 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-CBF-1A4FEAED-3A1C853C-prod2 </URL>
+<TEXT>
+            I bought my DC-215 a year ago in Canada.
+
+I loved the interface, the design and the weight of the camera. I wanted an optical zoom and that is the reason I got the DC-215
+
+Battery life is really high is you don't use the LCD screen to preview the pictures in real time, otherwise the drain is huge and the batteries get useless in 20 minutes or so.
+
+The LCD screen is pretty good quality, however the electronics takes too much time, in my opinion, to decompress the pictures and display them, showing only a low res version while you're waiting. It takes about one second per picture which can be slow when you want to quickly go through them and still see the details
+
+The computer connection is not reliable at all unless you limit the speed to 57600 bauds, 115200 being unreliable. And the software provided is really bad as it'll abort the transfer of all the selected pictures if a single error happens.
+
+Now on the good side, the pictures are bright and colorful during day time. The camera is not really sensitive in the dark, but it's true for most of them.
+The interface is a real pleasure to use and the shape and weight are great
+
+I bought an inexpensive ($30) card reader that connects to the computer and can transfer the whole memory card in a few seconds
+
+If you want a camera to play with, or for recreative use, it's great. but it has by no means a professional quality<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

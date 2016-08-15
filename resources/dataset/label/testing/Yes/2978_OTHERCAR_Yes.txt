@@ -1,0 +1,28 @@
+DOC>
+<DOCID> 2978 </DOCID>
+<PRODUCT> Digital_Cameras/Kodak_EasyShare_LS443_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_105022328452 </URL>
+<TEXT>
+            I've owned this camera for about 3 months and absolutely love it.  The only problem I have is trying to figure out what picture resolution size to use for multiple purposes (high resolution for prints, lower for email, lower still for websites!).  With 4.0 megapixel picture resolution you get 2448x1632 pixels.  Good enough, I've found, for up to 8" x 10" prints.  Kodak lists prints up to 20" x 30" in the specifications (I have not tried anything that large, yet.)  
+
+There are three resolution settings to choose, Best, Better, and Good - Available from a 'toggle/joy stick' controlled LCD menu.  Also available on the menu are image storage options, exposure compensation, white balance, color mode, exposure metering, focus zone, ISO speed, long-time exposure, date stamp, and orientation sensor.
+
+The zoom is a 3x optical, 3.3x digital.  The almost 2" color LCD is fairly useable in sunlight and picture review is extremely easy.  The multi scene modes (auto, sport, night) work very well.  The 16MB internal memory probably only holds about a dozen high resolution pictures, so I'd recommend a Kodak SD card with 128MB for about 100 pictures in Best mode and about 180 pictures in Better mode.
+
+The LS443 also has a "video" mode that includes audio.  The quality is just OK (good light situations only - no flash available) and best only for playback on your PC, but very handy for when you don't have your video camera with you.  There is also a built-in speaker for playback.
+
+The only weak point with the Kodak system is the EasyShare software.  One-button picture upload is a breeze with the dock station.  You can also do some minimal picture editing and resizing.  But trying to move pictures into different directories and arranging albums is almost useless.  I use Cannon's PhotoBase and PhotoStudio software for any useful editing.
+
+UPDATE 08/01/03:  After using the LS443 for a few more months, I need to update on two areas:
+
+1) The photo quality and everything about the camera -- It still gets the maximum amount of "stars" possible.  Fantastic digital camera.
+
+2) The computer software (EasyShare) is pretty bad.  Its limitations continue to increase.  To do the "one-touch" downloading, the software needs to load at logon.  Its startup is extremely slow (to the point that I may not include it in Windows XP's startup).  Plus, if you change the name or location of any of the pictures, it no longer appears in the EasyShare listing.  On the other hand, it does have two "cute" features for picture effects.  Other than that, it is useless (other than the one-touch download).
+
+Bottomline: BUY the LS443 for the camera!!  An excellent digital camera with docking station of this quality CANNOT be beat, in my opinion.  Plus, add a 128MB memory card...and you've got somewhere around 180 pictures in really good quality until you get home to download them.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

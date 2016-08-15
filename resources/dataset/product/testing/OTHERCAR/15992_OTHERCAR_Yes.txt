@@ -1,0 +1,28 @@
+DOC>
+<DOCID> 15992 </DOCID>
+<PRODUCT> Digital_Cameras/Samsung_Digimax_130_Digital_Still_Camera__Camera_digimax130 </PRODUCT>
+<URL> http://www.epinions.com/content_67957984900 </URL>
+<TEXT>
+            For $128 (US) at Wal Mart, you get everything needed to begin shooting immediately: USB cable, carrying pouch, Software, Video cable and AA batteries. Although highly versatile, ease of use would allow a first-timer to figure out the operation without consulting the rather hefty, multi-lingual (six languages!) manual though there is a one-page quick start guide for the less adventurous.
+
+This camera features a near 'point and shoot' ease of operation with close-up focus being the only required manual operation. User can override the other automatic features (auto-flash) allowing for unique shots using natural lighting such as around the campfire.
+Six different qualities of pictures can be ordered up by the push of a button with all settings being displayed in a small LCD window atop camera.  Other settings displayed are: flash, battery status and number of pictures remaining.
+
+
+With the built-in 8MB memory, one can shoot 16 super fine, 24 fine or 48 normal pics in the 1280 X 960 resolution. In the smaller 640 X 480 resolution, the numbers jump to 33, 66, and 134. The addition of a flash card increases each of these numbers depending on the size of the flash card.
+I personally found that the addition of a  32 MB flash card allowed for the following numbers of shots: in 1280 X 960 resolution: 66 super fine, 99 fine, 194 normal, or in the 640 X 480 resolution: 133 super fine, 266 fine, or 532 normal.
+
+The LCD 1.6" color monitor on the back of the camera allows viewing the pic before the shot. Other menu functions are displayed as well as the ability to zoom in on recent shots up to 4X. Lens is f=5.5 mm (35 mm film equiv = 42.5mm)with focals of f2.8/f8.0.   Shutter speed is 1/10-1/520 sec.
+Flash has auto red-eye reduction and can be set to fill-in or off. White Balance is either auto or manual (4 settings). Camera has a 10 second self-timer. DC power input is 6.0V (optional). Dimensions are 4.2 X 2.8 X 1.9 inches and weighs 6.7 oz (without batteries).
+
+Software is superb with the Digimax Viewer v 1.0 being at the ready in the tool bar(and using only 1% system resources). Upon plugging into the USB cable, there is instant recognition and display of recent shots with drag and drop transfer of the JPG format shots. The other included software is MGI Photosuite, Photovista which provide a plethora of functions and utilities for managing and manipulating photos.
+
+System requirements: PC with processor better than MMX Pentium 133 MHZ, Windows 98/98SE/2000/ME, Min 32MB ram, 90MB hard-disk space, USB port, 16 bit color display compatible monitor with 800 X 600 pixels (24 bit rec.)
+
+Camera runs on 4 AA batteries and works fine on rechargeable batteries.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

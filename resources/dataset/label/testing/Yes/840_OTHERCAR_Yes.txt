@@ -1,0 +1,51 @@
+DOC>
+<DOCID> 840 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Hewlett_Packard_PhotoSmart_C618 </PRODUCT>
+<URL> http://www.epinions.com/content_28637302404 </URL>
+<TEXT>
+            Let's talk requirements:
+- 3X/optical zoom lens (i.e. 2X is too limiting, and, digital zoom is meaningless!).
+- good lens quality:  look for major mfg support, in this case the 618 is the same as the Pentax EI-200.
+- look at the flash range:  lots of digicams can't get beyond 10ft, which is unacceptable;  the flash is one of the few zoom-ing flashes!
+- ISO levels, allow you to sacrifice resolution/sharpness for the picture;  3 levels would be ideal here, but the 618 at least has 1.
+- manual exposure control:  I wanted to be able to play with exposure (i.e. my 35mm experience), so this was important to me.
+- Compact Flash: clearly the generic memory card, allowing you to ride the price/technology curve;  e.g. I bought my 128MB Viking card for $75 (post-rebate).  Also, before you get too enamored with the CFII-microdrive, you can already buy 256MB-CF cards;  and, a 128MB-CF will store almost 250 pics at highest-best mode on the 618!
+
+Don't underestimate the 'hidden' costs of digital-photog:
+1. batteries (will replace film costs)
+   - switch to NiMH rech, cf: batterysupply.com
+     for a one-time investment of $50, you'll save lots
+     in buying alkalines, and, especially Lithiums.
+2. figure on immediately getting either a 64MB or 128MB CF
+   - it'll make it oh-so-easy to really use your digicam.
+   - and the standard 16MB-CF is really not so bad,
+     to use while you xfer pics.
+3. buy an external CF reader (also saves batteries!), note
+   that if you've got a laptop, you can buy a PCMIA adapt
+   to plug your CF from your digicam right into your laptop
+   which costs around $10!  soon, you'll be literally using
+   your CF-cards as film, and interchanging them between
+   your digicam and your notebook!
+4. if you must have an AC-adapter, look to buy the Pentax
+   one, since it's only $25 (for the EI200), instead of
+   HP's price of $50.  really, the same adapter, and,
+   preserve your warranty.
+
+
+As of June'01, competing cameras which I considered:
+- Canon S10 (only 2X/optical, though 3 ISO levels) $315
+- Olympus 490Z (3X/opt, 3 ISO, SMM instead of CF) $350
+- Canon A20 (1 ISO) $350
+- Sony DSC-P50 (3 ISO, Sony-stick instead of CF) $400
+- Nikon 775 (1 ISO) $400
+
+I didn't need the supercompact size (i.e. Canon A20), and I find the supersmall cams difficult to grasp.  The Olympus 490 came close, but it's discontinued and not CF.  The Sony requires a special battery recharger setup, another $100.  Frankly, if the Nikon 775 was "in-stock" (i.e. it's not shipping until late-July'01), I would rate it a bit higher, even at the loss of ISO-level support, Nikon lens/exposure in the digicam world is the benchmark.
+
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

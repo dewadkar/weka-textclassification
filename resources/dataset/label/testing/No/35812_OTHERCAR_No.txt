@@ -1,0 +1,32 @@
+DOC>
+<DOCID> 35812 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1993_Saturn_SL1 </PRODUCT>
+<URL> http://www.epinions.com/content_44089577092 </URL>
+<TEXT>
+            Because of my somewhat good experience, followed by my extremely bad one, I can't really give a reliability score based on the criteria here. 
+
+My sister purchased this very nice 1993 SL2 used in 1996; I inherited it for what she owed on it when she moved out of the country in spring 1999.  At the time, she told me Saturn had finally "fixed" the only problem she had ever had with the car which was that it sucked oil to the tune of a quart every week or two (diagnosed as a bad PCV valve).  
+
+I'd been told that Saturns are expensive to repair because they're "put together differently".  Not everyone knows how to work on them and aftermarket parts are hard to find (30 miles to nearest dealer to replace an oil cap lost after one of my regular oil checks).  After the engine died, I had several rebuild places tell me they "don't work on Saturns".  When I finally blew out the speakers and looked into replacing the factory system with a nice CD player, I was told my car wasn't wired for it and would require extensive electrical work.  I was still debating that one when the engine went.  Maybe I've got that take-advantage-of-me-I'm-a-girl look.
+
+The story starts well:  I had two days in the repair shop in 2 years (for an emissions-system problem and a broken torque mount).  I did the 3k mile oil changes regularly, but I noticed it ran low occasionally, and attributed it to occasional trips from LA to San Diego.  I'm now not sure my sister's problem was ever fixed.  
+
+Earlier this year driving through Oceanside on the way back from San Diego, I began to hear a horrible grinding noise, and turned off to a Saturn dealer I had seen there.  After several hours, they told me they were unable to diagnose the problem and they needed to tear down the engine.  The paperwork authorizing the teardown says "possible lower engine wear".  The next day, they faxed me an diagnosis - spun rod bearing due to oil pump failure - and an estimate for a $2700 complete rebuild, the bulk of which was for a new crankshaft and cylinder head.
+
+I then made phone calls I should have made the day before:  to my brother (an ASE-cert mechanic who's fixed everything from my parents old Buick station wagon to school buses and farm equipment), one of his old instructors, and a co-worker's husband who builds custom racing engines.  Everyone I talked to said I'd been had; any idiot can visually diagnose a spun rod-bearing by popping off the oil pan, and a competent mechanic should've been able to tell from the sound.
+
+Conference call with Saturn service manager, the diagnosing tech and my brother:  Blame for the car problems was laid squarely at my feet; they asserted the engine exhibited signs of long-term low oil pressure, though my sister added oil almost weekly when she was having problems and I checked oil before and after all long trips.  I still had 600 miles left on my last oil change (as evidenced by the sticker on my window) when this happened.  They said recommending a teardown was "routine" and refused to admit misleading me into authorizing it.  They insisted the new cylinder head ($900) was needed even though they admitted the only thing wrong with it was a broken bolt (later extracted for $18); NO damage to it from the piston (later confirmed by my brother's visual inspection).  For the crankshaft, they refused to discuss any options other than a factory new part (like machining- "we don't do that here").  During the "we don't do machine work" part of the discussion, it came out that part of the estimate was for FOUR new pistons & rod kits (not just the one with the spun bearing, because they won't machine the used ones to fit a different crankshaft).
+
+I stopped all work and took my brother to look at the parts and help me discuss options, but with these people there were none.  My brother said the cylinder head was fine, and thought the crank was salvageable.  When I wanted to take the crank for yet another opinion, the problems continued:  They balked at releasing it (until I threatened calls to BBB/AAA and AG's office).  They also told us that they wouldn't rebuild with anything other than a factory new part, and wouldn't install a re-man (Saturn does not re-man its own engines).  
+
+Two additional paid professional opinions deemed the crank salvageable with welding (I've since had it welded and turned down for $135 - about 1/4 the $540 they wanted for a new one).  NOTE:  make sure if you do this you get a machine shop that knows what they're doing.  Saturn has a cast iron crank which has to be welded at a very high temperature, resulting in warping if not done correctly, necessitating the need for additional heating to straighten it, which entails the risk of cracking it (then you are screwed!) and the customer assumes all risk of this.  
+
+I went back with a truck and trailer and gave them an hour to pack up the parts, and towed the car back to LA, where it has sat this summer while I decide whether to spend the $1500-2000 it will cost to rebuild or sink a re-man in it, or just put it towards another car.  If the latter, you can bet it won't be a Saturn thanks to the folks at Saturn of West 78 in Oceanside.
+
+Another cautionary note:  Don't make a move like this lightly; mechanics hesitate to put together a puzzle someone else has taken apart, and I've been told that doing something like this is seen as a sign of a "problem" customer who won't be happy with any work done.
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

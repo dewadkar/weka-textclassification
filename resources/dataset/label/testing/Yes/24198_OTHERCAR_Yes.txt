@@ -1,0 +1,21 @@
+DOC>
+<DOCID> 24198 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Sony_DSC-S30 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-38E5-31377060-3A57286F-prod2 </URL>
+<TEXT>
+            I purchased this camera after returning a less expensive Polariod Digital Camera. My experience with this camera isn't nearly as positive as others who have reviewed it. My anticipation was that I'd have sharp, quickly usable photographs. I found the camera relatively easy to use after studying the manual. The LCD is a good feature in that you can quickly review the pictures just taken. I have often been disappointed with the images shown on my computer monitor after the picture opportunity had passed. With flash set to Automatic, it seems to rarely fire during indoor use. This gives pictures which are adequately exposed but often with shadows and reflections on glasses. After much experimenting, I found that with the exposure set to -1.0 EV, the flash was more consistent in firing. 
+
+I found that the outdoor pictures to be much more acceptable. The LCD only viewer is not very viewable outdoors and is a limitation for very effective framing. 
+
+For the image size setting, 1472 x 1104, the maximum for me is the default. Other settings produced not vary sharp images.
+
+I sent Sony Support an email asking if there was a more comprehensive manual/book available describing the effects and recommendations of the many optional settings. There response was to give me instructions for a new manual like came with the camera. 
+
+I believe that this camera can produce very good pictures but setting the variable parameters to Automatic, hasn't worked for me. The supplied software, I found inadequate but was much more pleased with Microsoft's PictureIt!.
+ <br><br>
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

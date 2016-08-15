@@ -1,0 +1,18 @@
+DOC>
+<DOCID> 28649 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_KodakDCC-Kodak_DC-200 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-6C7B-3E2E509-3814CEEE-bd1 </URL>
+<TEXT>
+            The Kodak DC200+ is a great digital camera that is also more affordable than many other models.  It takes great pictures with excellent resolution and quality.
+
+The DC200+ has many valuable features that include: variable resolution, variable quality, several picture modes, and a threaded lens.  The threaded lens is what I find to be the best feature.  It allows you to buy separate filters and/or lenses that will allow you to take different shots.  The have a wide angle lens and a telephoto lens that you can currently buy, but the possibilities are endless.
+
+My only major problems with the camera are with the speed and battery use.  I would like to take pictures faster.  You can turn off the lcd and this speeds the process up somewhat, but you still have to pause a number of seconds before taking another shot.  The other speed issue is getting the pictures off of the camera.  It uses a standard serial port, but it really crawls.  I have to set it up to download the pictures and then leave for a while, because your computer is pretty much useless while the transfer is completing.  The batteries don't last nearly long enough either.  As with the shot speed, you can improve this by turning off the lcd, but they still go quick.
+
+All and all, I love my DC200+, but wouldn't suggest it for someone who needs to take quick shots.  It's move versatile than agile.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

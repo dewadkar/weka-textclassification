@@ -1,0 +1,13 @@
+DOC>
+<DOCID> 19880 </DOCID>
+<PRODUCT> Digital_Cameras/509292_Hewlett_Packard_PhotoSmart_C30 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-5ACE-636BF59-38D88093-prod2 </URL>
+<TEXT>
+            The camera works as well as you would expect for the price and is easy to use. Pictures are more than acceptable for web use and email pictures. The Microsoft Picture IT 99 was excellent for casual uses. Connection and transferring pictures to my PC was very problemmatic. I suspect the Software and/or the firmware in the camera made it impossible to reliably transfer pictures. It was constantly losing the connection between the camera and PC. This happened both with Win95 and NT. When it did make and
+keep the connection, the transfer was painfully slow. I would suggest to look for something else.<br><br>
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

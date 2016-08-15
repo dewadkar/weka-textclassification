@@ -1,0 +1,16 @@
+DOC>
+<DOCID> 30091 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_KodakDCC-Kodak_DC-280 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-5F81-ECADF3-39072D62-prod3 </URL>
+<TEXT>
+            This is a good solid camera. I bought it 6 months ago (early in its product cycle) and had only one firmware upgrade via the internet. It is perfect for the high end amateur, however it lacks some features like f-stop, aperture control. 
+Batteries drain fast, as mentioned in many other reviews and I recommend a card reader instead of a power supply to save the batteries.
+The camera is simple to use and you will get good pictures even if you hand it to a tourist while standing in front of a waterfall in Yosemite park. 
+If you use this camera in conjunction with a digital print service, nobody will be able to tell the difference to 35mm.
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

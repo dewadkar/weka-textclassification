@@ -1,0 +1,77 @@
+DOC>
+<DOCID> 3573 </DOCID>
+<PRODUCT> Digital_Cameras/_Canon_PowerShotG2__618420 </PRODUCT>
+<URL> http://www.epinions.com/content_69360062084 </URL>
+<TEXT>
+            There are a number of excellent full reviews of the G2 available, so I'm going to focus on my personal impressions that haven't been reported elsewhere.
+
+The G2 is in that category known as the "prosumer" camera, on the high end of consumer cameras, just before you get to the nifty but expensive digital SLRs.
+
+In an ideal world, I would have purchased the upcoming Nikon D100, which is compatible with all of my Nikon 35mm SLR lenses.  But I've decided to hold out on buying a digital SLR until the following criteria are met:
+
+- image sensor is 35mm negative size or larger (the D100 has an APS-negative sized sensor)
+- resolution of said sensor is sufficient to produce exhibition-quality prints at least 16x20 inches in size
+- feature set is functionally equivalent to the features available on my N90s 35mm SLR
+- made by Nikon, and
+- $2000 or less
+
+Until then, a digital SLR doesn't make much sense, since my primary goal with my 35mm / medium format / large format photography is producing a large fine print.
+
+So, I chose a prosumer camera that would give me the image control I'm used to and acceptable print quality at smaller sizes, but will primarily be used for making digital images I don't intend to print and exhibit at large sizes.
+
+So, why the Powershot G2?
+
+<b>What I like about it:</b>
+
+- Automatic exposure bracketing
+- Easily-accessed and intuitive manual focus
+- Multiple "film speeds" (ISO 50 to 400)
+- Manual control of aperture, shutter speed, or both
+- "Fast" lens which will serve well in low and ambient light situations
+- A decent zoom range
+- Compatible with filters and auxiliary lens attachments
+- Massive image capacity with a 1gb Microdrive, thanks to the CF II slot
+- Flexible flash control and external flash compatibility
+- The fold-out-and-twist LCD screen is the coolest thing ever.  Self-portraits, candids, waist-level shots are all incredibly easy.
+
+These are all things I am accustomed to having in my 35mm and MF cameras, or bonus features as in the case of the articulated LCD screen.  
+
+Point and shoot-style cameras drive me up the wall because I can't make choices.  This one, like most modern pro/prosumer cameras, has a dummy mode for handing the camera to someone else, but also provides a great degree of flexibility and control.  With the G2, I can make all the choices myself.
+
+In short, it's a good digital camera for point-and-shooters who want 4-megapixel resolution, but it's a <i>great</i> camera for the advanced shooter who wants a good balance of image quality, creative control, and reasonable street price (about $650-750 from a reputable seller).
+
+So, it's great for me, but...
+
+<b>What's not to like?</b>
+
+Here's the meat of this post, because after tinkering with the thing for a while, I have found some annoying flaws, and you should bear these in mind if you're considering this camera.
+
+1) <b>What "lens" am I using?</b>  It is incredibly annoying not to know the 35mm-equivalent focal length of the zoom.  How hard could it be to provide this as a display on the LCD screen?  If I want to shoot with a "50mm" perspective, I have to guesstimate the zoom because there is no feedback at all on the focal length you are zoomed to.   Not even the actual focal length of the lens, let alone the 35mm equivalency.  
+
+If you are the sort of person who, like me, views a zoom lens as "a bag full of fixed lenses in a small package" rather than an "instant cropper", you may also find this annoying.
+
+2) <b>Half-implementation of slow/rear sync flash.</b> There is a slow-sync flash mode for photographing a foreground subject against a dark nighttime background.  This is great, but there isn't any rear-curtain sync, which is essential for achieving the same effect if your foreground subject is in motion.  
+
+Also, the slow sync is only available through one of the built-in Program AE "dummy" modes, meaning many of the other features cannot be manually adjusted when using this mode.  Strange thing to do for such an advanced feature.
+
+3) <b>Why aren't color modes available in every mode?</b> There are 4 color effect modes you can select: Vivid Color, Natural Color, Sepia, and Black-and-White.  Like the slow sync feature, these are only available when you set the mode ring to the effects-mode position.  So if you're thinking you can do real-time manual-exposure B/W photography with colored filters, think again.  Especially surprising is that the 2 color modes can not be selected from any shooting mode.  This is a pretty standard pro technique; it's why pro slide films tend to come in "vivid" and "natural" varieties.  Human skin tones, for example, tend to look better in "natural" color, while landscape and nature photos often benefit from "vivid" color.  
+
+Granted, you can do all of these modes by post-processing in Photoshop, but it would be really exciting if you had real-time control of the color saturation of the image at the flick of a button.  The real-time visualization of grey levels for B/W photography would be a major godsend for B/W photographers, who have always had to rely on a combination of intuition, experience, and kludgey viewing filters for imagining a scene in its colorless state.
+
+4) <b>Slow on the draw.</b> The autofocus is rather slow, and manual focus is not much better because you still have to wait for the motor to rack out the lens.  This is typical of almost any prosumer camera, and the price I knew I was paying for not getting an SLR with the ability to use my top-quality proven Nikon lenses, but it is still annoying.
+
+<b>Conclusion:  I love it in spite of its flaws!</b>
+
+Overall, in spite of these annoyances, I consider this a brilliant piece of camera workmanship which I would recommend to anyone.  I just wish they had had that extra bit of vision that would have made this camera truly revolutionary.  
+
+I think at least some of my issues could be addressed by an after-market firmware update, so maybe the revolution will still come.  <i>Vive la revolution!</i>
+
+<b>Postscript:</b>
+
+Street prices for this camera range from ~$449 to ~$999.  Buyer beware!  The lowest prices are largely from disreputable sellers.  Check the reviews of any retailer before you buy and select a retailer you can trust.  I paid about $700 for mine at eCost (in June 2002), and I think I got a great balance of bargain pricing and trustworthy service.  I would be automatically suspicious of any current price below about $600.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

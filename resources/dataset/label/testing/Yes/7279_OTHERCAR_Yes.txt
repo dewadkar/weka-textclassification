@@ -1,0 +1,50 @@
+DOC>
+<DOCID> 7279 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_OlympusDigitall-Olympus_D-460_Zoom </PRODUCT>
+<URL> http://www.epinions.com/content_76347379332 </URL>
+<TEXT>
+            Though discontinued, now, it's a great pocket camera for quality shots, within limits. Ebay should have reconditioned versions for under $100 by this point. I bought one that way and have used it almost continuously for 8 months.
+
+The newer cameras all feature more megapixels. That's useful for detail and cropping in on distant objects. Very useful. However, if you can maintain full frame, then the 1mp 460z isn't half bad (the 490z, or recent equivalent, would be better).
+
+Other limitations include 
+
+  - a flash that goes only so far, though it is admittedly bright. And there's no external flash attachment. 
+
+  - It can't do macro shots. And those can be amazing. It can only do close-ups to about a foot. However, I've found that by placing a loupe or magnifying glass right over the lens, you get instant macros, and looking just like good macro shots from more expensive cameras. So - can't do macros, but . . . well. 
+
+  - And there's a lot of noise in some shadows that's difficult to remove in software. Other shadows are fine - it depends. In low light it can present nice shots on a tripod. Or, it can give you out of focus noise. Not the best low light camera, generally. 
+
+  - There's no provision for a screw on lens - you'd have to fabricate a little bag with UV filter or something, or some other device to fit over the digicam. However, there are +50% zoom and wide angle lens that can be fitted to this camera. And since these are discontinued cameras, the filter set is pretty cheap (mabye under $30? on ebay?).
+
+  - If the batteries get physically hot (flash, lcd use), they fade a lot faster. Just get it out in the wind, or remove the batteries to cool, and you might get another card's worth of use, if they're not simply just drained.
+
+  - And there's a long cycle time between photos if you don't use the 10:1 jpg reduction of the so-called - SHG - mode. If you use the 'raw-SHG', tiff format, which I recommend, it can vary from half a minute to 45 seconds, before ready for the next photo. But that's an amazingly long time, believe it or not, if you're sitting there waiting for a second shot.
+
+  - Another limitation is that the camera also won't recall previous settings, save for the mode of storage. If you set raw-SHG, it'll be that way after you replace the batteries, or reopen the camera. But others won't. You have to reset them every time you open the camera.
+
+The advantage of all digicams, other than being filmless (which is quite important - saves on the incompetencies and 'judgments' of one-hour types, and the expense which is admittedly dropping to $3/roll at Costco for instance), is the lcd viewer. You see just what you get, if you can make out the image in the little lcd. These Oly 460/490 early models were well built, with quality parts, and somewhat large lcds compared to a lot being sold today.
+
+The best way, I've found, to utilize the camera is in the raw-SHG .tiff format - with half a minute or more cycle time, again - and using fill flash when needed (or full flash for the same) and, importantly, spot metering. That means, when opening the camera, you have to wait about 10 seconds to turn on the lcd display. Then you have to hit the menu button and select the spot metering. Then you flip up the flash and press the top left button repeatedly to turn on the flash. And you're ready to go. Mmm.
+
+As for the quality, at 1 mp you have no pixels to spare. You can't zoom in very much. There won't be much detail, particularly at 3-4+ zoom in software for cropping. So with such a small ccd it's best to try to fill the frame. The camera does work best in foggy conditions, generally, on close-ups. It will tend to boost the color and not be confused by bright highlights (which aren't there). It also excels in bright sun, with spot metering. Darken the shot to the highlights or sky, and the result will be stunning. When you move the center of the shot (which center area is where the focus and metering is done) just right, you can darken the whole thing so not to lose the highlights. And then in software, in Photoshop, say, or Paint Shop Pro, you can selectively restore the shadow because typically, there's something there, not just black. 
+
+So, it's a second step. But the photo will look great. It's the thing about ccds, generally, I believe, that they pick up a wider dynamic range than film, and without the grain (apart from noise looking like 'grain'). But be careful not to blow out the highlights. It's way too easy to do. Better shadows, than not. You can fix those.
+
+And as for the 'second step', I tend to see the photos from this - although some are striking right from the camera - as more raw material for an imaging program. That's how you sort of correct for it being only a 1mp with limitations. It's just the raw image, literally - pixels to work with.
+
+I DON'T use much of the built in viewing on the camera. It's too clumsy and slow. I only use the viewer to delete photos I know I wouldn't want. But it takes over a minute to present each photo on the lcd, that way. It's very slow.
+
+As for downloading to computer, I don't bother with the serial software. I've used a card reader call FlashPath which fits in your floppy drive. Clean installation, just two driver files, and the floppy works just as before. Only problem is that FlashPath is very slow. The ideal is a card reader hooked to USB. In fact, it's the only way to go.
+
+So, for the camera, all you might use are a few features, and the nice optics. You might want to avoid the software that came with the camera. You might want a USB Smartmedia card reader. And for the raw tiff format, you need a bunch of 64 meg cards. 8 meg won't do at all. I use 5 cards. And they go real fast. I've found a little palm grip case with one pocket is just perfect. I put in the pocket the tissue and lens solution, a little loupe for macros, the card box with four cards, a lens cover for inclement weather (basically just a baggie with a haze/UV filter taped in the side), and a spare set of recharged batteries.
+
+Lastly, since the digicam eats batteries, you'll probably need to recharge those in the camera after every daily use. So I have three sets (one in the digicam, one in the pocket, one at home) of four rechargables, and a multi-size quick charger from Wal-Mart. And it works great.
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

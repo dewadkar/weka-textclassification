@@ -1,0 +1,56 @@
+DOC>
+<DOCID> 33503 </DOCID>
+<PRODUCT> Digital_Cameras/Logitech_ClickSmart_510_Digital_Still_Camera__Webcams_960085_0403 </PRODUCT>
+<URL> http://www.epinions.com/content_99250048644 </URL>
+<TEXT>
+            I was annoyed to learn Logitech didn't update their drivers on their old line of webcams to support current OS platforms.  Since my computer is on the XP platform and my good ol' Logitech WebCam Pro wouldn't run on XP, I had no choice but to look for another webcam.  I've tried different ways in hopes it'll run on XP, but no dice.  Besides, I think its about time I get a new webcam anyway as mine was a dinosaur.
+
+When shopping for a webcam, I wanted a portable one that I can tote around rather than being tethered to a cable.  All I wanted was something I can take simple pictures of; to put pictures up on websites, sell stuff on eBay and the like.  I know if I wanted quality, megapixel shots, I would have gotten a digital camera instead.  As I also tend to video chat on the net quite often, the Logitech ClickSmart 510 meets the demand for both the simple function I was looking for: picture taking and video conferencing.
+
+The ClickSmart 510 has the following features:
+
+-Digital Camera.  The webcam functions as a portable digital camera.  There are 3 resolutions when you take pictures: Low (160x120), Medium (320x240), and High (640x480).  Logitech touts its ability to capture still images up to 1.3 megapixels, which is interpolated through its software.  
+
+-Video Capture.  You can take video snippets of up to 320x240 with frame rates up to 15 frames per second.
+
+-Web Camera.  Up to 640x480 at 30 frames per second.
+
+-ImageStudio Software.  This is the "central command" where you do most of the camera work from when taking pictures and video snippets.  It is a pretty cool program with many features, from editing your pictures/videos, motion detecting, creating live webcam (so your friends can check up on you), to broadcasting a live video feed!
+
+I'm very impressed with the ClickSmart 510 thus far.  As I tinkered more with the camera, I was impressed with its:
+
+-Rugged Construction.  The camera is housed in plastic with a big rubber grip.  
+
+-Built in Flash (for obvious reasons).
+
+-LCD.  The LCD screen tells you the setting for the camera: what mode you are in, how many shots you have left, resolution quality, power meter...etc.
+
+-Expandable Storage.  The camera comes with a SmartMedia card slot where you can stick more memory into the camera.  This is a great feature to have since older versions have built in storage, preventing you from taking more pictures and video capturing.  With the 8mb memory card it comes with, you can take 120 pictures at its highest resolution.  If thats not enough, just buy a bigger memory card (same for video nuts out there)!
+
+-Web Camera Video Capture.  Of all the cameras I was shopping for, this is by far the best offered.  At 30 frames per second, you pretty much get fluid video captures while video conferencing.
+
+As with the advantages mentioned above, the camera does have its drawbacks though:
+
+-Indoor Capturing.  Capturing indoor settings is a slight problem as pictures come out dark.  But that can be solved by "tweaking" around its software settings (when using as a webcam), or making sure to shoot close to the subject. 
+
+-Flimsy Battery Door.  The battery door isn't constructed well as it is held by a couple of flimsy plastic hinges.  You need to take extra care when replacing the batteries.
+
+-Power Saving Mode.  The camera automatically shuts off after a couple minutes, and when you turn it back on, it powers back up on default settings.  Very annoying!  
+
+-Holding Trigger Button for Videos.  To take videos, you need to hold on to the trigger button for the duration of your captures.  This isn't a big problem for me, but may be for some of you though.
+
+-Video Snippets.  As you may have read my mentioning about video snippets, that is all you can do when capturing videos.  It doesn't matter how big your memory card is because you can't get continuous video capture longer than 90 seconds.  Thus, the bigger memory you have, the more 90 second video snippets you can get.
+
+-Software.  The software in general is good, but functioning through the program is pretty slow.
+
+On the whole, I find the Logitech ClickSmart 510 to be a very solid camera that serves very well for its purpose.  It is pretty easy to learn and operate as it only took me a few tries to get the hang of its "personality", and I didn't even read the instruction manual!
+
+The webcam hasn't advanced much from my last webcam (I've had my last webcam for about 5 years, and I'm sure you can get an idea of its limitations).  The only major improvement is its frames per second captures (for fluid motions), and the many software abilities.  It is very nice having an expandable storage, but you are limited to only a 640x480 resolution.  Being able to take 120 shots with the 8mb card it came with is more than ample for me though.  
+
+In conclusion, don't expect much if you're expecting a webcam with 1-x megapixel picture quality, or a quality digital camcorder.  Either buy a digital cam, Camcorder or patiently wait until one comes out that combines all the features of quality.  As for those that want a fun, simple all around camera to toy with, this may be the camera for you!
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

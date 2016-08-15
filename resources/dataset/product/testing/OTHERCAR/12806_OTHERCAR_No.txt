@@ -1,0 +1,24 @@
+DOC>
+<DOCID> 12806 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_CanonPowerShott-Canon_PowerShot_S20 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-6538-3F680AB-39D10C8D-prod1 </URL>
+<TEXT>
+            I have a quick note that I'd like to make regarding this camera, since I was unaware of certain negative points when my firm purchased one recently.
+
+We have a special need for manual focus and manual exposure settings; we want to use the S20 to take pictures of an experimental 3-D display system which has an unusual frame rate.  It's a similar challenge to taking a picture of a television screen, which blinks 30 or 60 times per second.
+
+Although a technical specification sheet said that the camera is capable of &quot;manual exposure,&quot; I seem to be only able to adjust a synthetic ASA setting, as well as gross adjustment of daytime/nighttime settings and the ability to alter what part of the viewing window is used for those settings.  In all, not useful.  I have to take several photographs and squint at the LCD on back to see if I'm shooting properly.
+
+Also, it's a shame that Windows NT doesn't support USB yet, despite a USB jack on my NT box!
+
+Finally, and this is a significant gripe -- it's been impossible for us to locate rechargable batteries and the recharger for this camera.  It's out of stock nearly everywhere we look.  (The S20 doesn't use AA batteries.)
+
+It's a shame - nice compact camera, high resolution, and ease-of-use...  However, I can't control it to the degree I'd like to, and we would prefer not to burn through tons of batteries.  I might return it to Amazon.com next week.
+
+<br><br>
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

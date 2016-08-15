@@ -1,0 +1,22 @@
+DOC>
+<DOCID> 667 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_NikonCoolpixx-Nikon_Coolpix_950 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-778-F42426-38C05191-prod8 </URL>
+<TEXT>
+            Everything I wrote previously about Nikon Coolpix 950 still stands. I still love the creativity the manual controls afford. I still get visually stunning results. But unfortunately, I've received some unprofessional service from Nikon of late and I would be remiss if I didn't mention it in this forum given how glowing and unfaulting my praise was in the earlier posting.
+
+I took this camera to England with me to document my New Year's excursion. When I returned home and started eyeing the images I'd brought back, I noticed that several of the pictures were marred by a cluster of dead pixels which appeared in the exactly the same spot in all the frames. First I tried phoning service, but got no response for several days. (Nikon Service does not attempt resolve a problem at the time you call in; you must wait for a technician to call back.) In the interim, I posted a question about the problem on the Nikon service website and got a response. Although the technician agreed to allow me to submit the camera for service, I was disappointed with how reluctantly he did so. He said that the camera's CCD (the device which captures images) may need replacing but that service would not make the replacement unless the problem was apparent in photos taken at what he called &quot;normal&quot; shutter speed, by which he meant faster than 1/30th of a second or so. That peeved me. That would be a reasonable response if the problem was CCD noise (which is normal at slow shutter speeds), but this was clearly a case of the CCD malfunctioning, dropping the same pixels everytime. The slower the shutter speed, the more apparent the problem. Nikon really touts that the camera offers slow shutter speeds, but wasn't prepared to back them with service when a problem occurred.
+
+BTW, I'm not the only person to experience the problem of dead pixels. There are numerous threads concerning this problem on Nikon's support page.
+
+Anyway, they did replace the imager, I think. I say, &quot;I think&quot; because the camera was returned to me today without any documentation describing what repairs were made. The problem though of the dead pixels appears to be fixed. 
+
+However, the Nikon service department introduced a new problem: The camera came back with dust particulates on the inside of the protective lens cover. There appears to be no way to remove the cover and clean out the dust without again without submitting it for service, which I'm loath to do as the last time I was without the camera for over 5 weeks. (They say that repair time averages 7 days; they had my camera in hand for over a month and didn't return it until I called wondering where at was. Mysteriously, it was ready for return the next day, as though it had gotten lost in their pipeline.)
+
+I feel sad to have to write such a scathing review. I love the the camera, in spite of the problems that I've had with it, and I've long respected the Nikon name, but can't disparage their Service Department enough.<br><br>
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

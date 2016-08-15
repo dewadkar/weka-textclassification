@@ -1,0 +1,40 @@
+DOC>
+<DOCID> 3574 </DOCID>
+<PRODUCT> Digital_Cameras/_Canon_PowerShotG2__618420 </PRODUCT>
+<URL> http://www.epinions.com/content_58557894276 </URL>
+<TEXT>
+            I'm back from 2 weeks in Hawaii with my G2.  What's the verdict?  Read on...
+
+Background:
+I've been using a 2mp Toshiba PDR-M5 for the past year and a half.  I dropped it, the screen broke, and I decided it was time for an upgrade.  I wanted a quality 4mp camera, and knew this was going to cost me around $600-900.  After working with the M5, I also had additional requirements:
+-ability to take pictures in low light
+-powerful flash or hotshoe for addon flash
+-time lapse capabilities
+-protection for the lcd screen
+-ability to take pictures in uncompressed format for maximum quality (usually TIFF)
+
+I almost went for a 5mp Minolta Dimage7 for $699, but mediocre reviews and rapid battery depletion scared me away.  I also liked the S40 because of its portability.  However, this camera did not have a protected LCD, or the ability to add on lenses or an extra flash.  I bought the Canon G2, and here's what I found:
+
+It takes great pictures.  Using automatic settings results in high quality pictures in most settings.  The built in flash is powerful and pictures are less blurry than my Toshiba's.  The 'night mode' combined flash and slow shutter speed to produce excellent shots of my wife while waiting for sunrise on Haleakula.
+
+Manual settings prompted me to learn more about cameras and photography in general.  It's nice to be able to modify the aperture to produce a sharply focused subject and blurred background for effect.  Manual focus starts up a zoomed in section on the LCD so you can maximize the sharpness of the final image.  Spot metering and focus makes the camera concentrate a particular setting on one of three sections of the picture.  Shutter speeds go all the way up to 15 seconds.  In the black of night under a waning moon I was able to take pictures of city lights...the first time I set the shutter to long, and my picture looked like one taken in the afternoon!  Noise is removed by a special filter when the shutter is open longer than 1.3 seconds, making this an excellent camera for my low light shots.
+
+The built in flash is powerful and helps other indoor shots maintain their clarity.  I had one problem with the built in flash...when you use addon lenses and adapters, the flash produces a shadow in your picture.  However, I corrected this issue with my favorite accessory- a Speedlite 420ex.  This attaches to a hotshoe on top of the camera.  This flash turns night into day!  It also rotates and can be pointed skyward for the use of reflected light.  The extra light really brings out the color and clarity in an image.
+
+For time lapse, the included Remote Capture software gives you the ability to schedule shots using an attached computer.  I have not used it yet, but my plan is to leave the camera plugged in, attached to a laptop, to get pictures taken over time.  I've always been interested in time lapse photography and this gives me the ability to see what I can do.
+
+The screen is not as easy to see as my Toshiba, because you often have to rotate it for a proper viewing angle.  However the screen can be rotated away from the camera, and turned over so it is protected when you are not using it.
+
+Canon uses a 'RAW' format for the creation of uncompressed images.  This is a blessing and a curse.  A huge bonus of RAW is that you can modify camera settings AFTER the picture is taken.  For example, you can adjust the white balance of the image.  The disadvantage to the RAW format is that it needs to be converted to TIFF or JPEG for rapid processing and display of images.  On my 900Mhz PC, each picture takes 19 seconds to convert.  The resulting 16 bit TIFF is a whopping 22MBs, but gives you the maximum quality.  You can still use Superfine JPEGs at lower resolutions and quality, but since the RAW format gives you the flexibility to correct some types of mistakes after the fact, I use it every time.
+
+The real curse comes form using Canon's ZoomBrowser software to preview and edit your images.  The program is a resource hog, is slow, and requires you to 'register' image folders, which takes a long time to correct if you rename or move a folder of pictures.  I purchased a better application at http://www.breezesys.com.  Breezebrowser is faster and gives you more information on the pictures as you look at them.  Check it out, as well as the Breezedownloader program they offer!
+
+I copied about 2 dozen pictures to a CD with maximum quality JPEGs and brought them to my local Sam's Club for processing.  They came out great.  I couldn't ask for better quality in my 4x6 images.  Later this month I hope to blow up an image to 16x20.  
+
+If I had to do it again, I would still buy the Canon G2.  Great picture quality and flexibility made me happy with my choice.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

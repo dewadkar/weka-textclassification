@@ -1,0 +1,89 @@
+DOC>
+<DOCID> 8469 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_C_3030_Zoom_Digital_Camera__Camera_225160 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-7B64-1AD5EE2F-39DEC106-prod3 </URL>
+<TEXT>
+            I bought this camera a month ago, and have had the chance to get to know it pretty well. I am a novice photographer, but hope to learn.
+
+Some thoughts :
+
+o since this camera has shutter and aperture priority modes, as well as manual, this is a good camera for someone like me who is learning and who eventually would like to move from a point and shoot world to slr.
+
+o I ordered mine from The Camera Zone, and they sent me, free of charge, a nice leather (?) camera case with it. Buying from them was a good experience, but their customer support leaves a lot to be desired. I have been on hold for hours several days in a row, with the message, 'Your call is important to us, a customer service representative will be with you shortly' every few minutes. All I can say is that they must have a different definition of 'important' and 'shortly' to me! I wasn't calling them wrt the C-3030, but some printer paper I bought from them with my Epson Stylus Photo 2000P. The paper doesn't work with the printer, and so I need to return it.
+
+o A lot of people complain about the menu system. I can see what they mean sometimes, but I really don't have a problem with it. It is quite intuitive once you get to know it. If you're used to one particular manufacturer then I can see that you might have become used to their system and so not like this one. Personally, I haven't had the chance to become used to another system and so I didn't have any 'unlearning' to do.
+
+o The zoom (and focus) mechanism is noisy, but not too slow. Contrary to some reports, the lens *doesn't* extend when zooming; the lens extends when you switch it on, but it stays at the same length no matter what the zoom. Yes, the grinding noise does cause concern when you forget to take the lens cap off, but you soon learn to remove it.
+
+o I purchased a 64 MB card with the camera, which is plenty of space to avoid having to take the card out - unless you store as TIFF images. The USB seems to work fine - 60HQ images took a minute or two.
+
+o I don't like the s/w. It tries to control you, rather than allow flexibility. I prefer the Kodak s/w which makes the camera look like a hard drive. Also, the s/w didn't work quite properly with either Microsoft Windows ME or 2K - drag and droping multiple images didn't seem to work,; but the 'download all images' seemed to work fine. It bugs me that they don't provide any s/w for Linux which is my chosen platform, forcing me onto a proprietary OS (and my friends PC).
+
+o The fact that it uses Quicktime is a little annoying since it's a proprietary format which isn't available for all platforms.
+
+o It's annoying that it doesn't rotate the images depending on the orientation you take the picture, as does the Kodak DC260 I used to have access to; this forces you to have to rotate them on the computer.
+
+o bracketting in shutter priority mode seems a little odd - it still brackets the aperture, not the shutter speed. Not sure if thats expected, but it seemed like it wasn't the right thing to me. I would have though it would keep the aperture the same and vary the shutter speed.
+
+o the lens pops out sometimes when in '&gt;' mode (reviewing photos taken) - which makes a horrible grinding noise. Sometimes it does try to extend the lens and sometimes it doesn't. I haven't figured out why yet.
+
+o the lens cap doesn't have a 'keeper' and it falls off extremely easily. First thing I bought was a keeper for it.
+
+o autofocus is noisy.
+
+o autofocus can be slow - takes a while to get used to. It can be awkward when you want to take a quick shot - you need to hold the shutter-release halt down while it focuses, before taking the shot, else you'll take a shot which is out of focus. It would have been nicer if they have made the shutter release wait until the lens had focused. This is fixed with continuous AF, but it *does* eat the batteries.
+
+o the LCD on mine has a permanent red pixel, causing me to send it in for repair.
+
+o getting it into TIFF mode is, er, 'difficult'. I had put my camera into CHECK mode (it's under 'rec view' in the menu', causing it to display the picture immediately after it is taken, and ask me if I want it stored or not. When the camera is in this mode, you can't put it into TIFF mode. You need it in either ON or OFF. This is in the manual, but it is well hidden; so much so that it took an Olympus engineer quite some time to figure it out.
+
+o I had found the picture quality a little less sharp than I had hoped for. Other people and magazines etc rave about the picture quality, but I'm still not convinced. I will be playing with it in TIFF mode to see if that makes any difference.
+
+Overall though, I have found this camera a delight to use, and am very pleased with it. It's certainly not perfect, but I think it was the best choice out there, short of the Nikon D1, which I was tempted by, but is a whole different story.
+
+Some photos taken with this camera :
+
+http://reality.sgi.com/maxw/maxs_home/view.cgi?ALBUM=fishing.alb
+http://reality.sgi.com/maxw/maxs_home/view.cgi?ALBUM=mens_retreat.alb
+http://reality.sgi.com/maxw/maxs_home/view.cgi?ALBUM=yosemite2000.alb
+
+8SEP2000
+o an additional 'problem' is something I have noticed since I discovered how to take pictures in TIFF format. TIFF pictures take a *long* time to save to the card - something in the order of 30 seconds for a 2048x1536_TIFF. It took the same time to delete, and the same time to view the same picture. Not exactly good if you're taking opportunistic photos.
+
+29OCT2000
+o I have received my camera back from Olympus Service in CA, and it took
+a couple of weeks, which is roughly what they say. It was repaired, not
+replaced, and I am satisfied with the service experience.
+o I have been experimenting with the 'soft/normal/hard' setting; in both
+2048_1536.tiff and 2048x1536_shq.jpg modes. Here are the results :
+
+Overview :
+http://reality.sgi.com/maxw/maxs_home/view.cgi?ALBUM=c-3030-test.alb
+
+2048_1536.tiff hard
+http://reality.sgi.com/maxw/maxs_home/images/c-3030-test.alb/p1010001.tiff
+2048_1536.tiff normal
+http://reality.sgi.com/maxw/maxs_home/images/c-3030-test.alb/p1010002.tiff
+2048_1536.tiff soft
+http://reality.sgi.com/maxw/maxs_home/images/c-3030-test.alb/p1010003.tiff
+2048x1536_shq.jpg hard
+http://reality.sgi.com/maxw/maxs_home/images/c-3030-test.alb/p1010004.jpg
+2048x1536_shq.jpg normal
+http://reality.sgi.com/maxw/maxs_home/images/c-3030-test.alb/p1010005.jpg
+2048x1536_shq.jpg soft
+http://reality.sgi.com/maxw/maxs_home/images/c-3030-test.alb/p1010006.jpg
+
+Thoughts:
+
+o you can see from the overview that the brightness seems to reduce with the 'hardness'.
+o on hard copy, some people I've asked seem to prefer the 'hard' setting,
+but I think that's mainly because they look at it closely. If it were, for
+example, framed and hanging on a wall, the viewer would be at more of a
+distance, and I think that, although subtle, the softer settings would be
+more satisfactory.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

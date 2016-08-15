@@ -1,0 +1,31 @@
+DOC>
+<DOCID> 15642 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_SonyMCVV-Sony_MVC-FD91 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-316A-33E3048-38D0E595-prod2 </URL>
+<TEXT>
+            The Mavica FD91 is a terrific camera in many respects, especially for web applications. The 91's strongest points are:
+
+   -- 14x optical zoom lens which, while a bit too 'normal' on the wide angle focal length (equivalent to a 40mm lens on a 35mm camera)is still a very impressive piece(s)of glass.
+   -- convenience of using floppies (although the soon-to-be-released memory stick models promise far better download speeds for users properly equipped)
+   -- all in all, it takes very nice pictures with minimal effort, and allow the user a wide range of manual control over otherwise automated functions.
+
+The camera's relatively low megapixel resolution is what it is, and causes few problems except in low-light situations or if you want to print 8x10's. 
+
+But here's the beef... a hot shoe flash connector would have cost the manufacturer about 5 bucks, and would have made the Mavica a far better performer. As it is, low light levels from the built-in flash, even when on its 'high' setting, produce light levels inadequate for illuminating anything more than a few feet from the camera. The price you pay is in resolution, no matter how much tweaking you put the image through in any kind of editing software.
+
+&quot;Just use a separate flash with a slave trigger&quot; you say? 
+
+OK, I do. But because there's no mounting shoe, I had to purchase a bulky bracket (the camera is heavy enough to begin with!) with a shoe built in, and then discovered that in certain situations the onboard flash isn't strong enough to trigger the slave and, in many cases, where the user chooses to bounce the light instead of frying his subjects, the use of the built-in flash wrecks the picture. 
+
+My inelegant solution involves aluminum foil to block the integral flash and re-direct the light to the left, where the slave is mounted. It works great but looks like hell. 
+
+Would I buy the camera again? Yes.
+
+Would I pay an extra $50 for a hot shoe? Yes.
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

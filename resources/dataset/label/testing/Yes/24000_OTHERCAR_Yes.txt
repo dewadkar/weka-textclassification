@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 24000 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1992_Honda_Accord_Sedan </PRODUCT>
+<URL> http://www.epinions.com/auto-review-68F1-2D9E573-388C9AA1-prod1 </URL>
+<TEXT>
+            The Honda Accord is one of the most reliable vehicles on the road.  Whether it is a brand new Accord or one with 150,000 miles on it, the accord far exceeds many standards of the typical car.  The typical &quot;LX&quot; edition of the Accord corrosponds well to the Toyota Corolla or the Mitsibishi Galant.  All of these are luxurious cars.  With the &quot;LX&quot; Accord, you will recieve a four-cylinder engine, air conditioning, automatic windows and locks, anti-lock brakes and power steering.  The Honda Accord is the perfect car for a teenager or a parent.  It has the ability to manuvuar well around corners and handles wonderful in all weather conditions.  In conclusion, the Accord is a wonderful car at a reasonalbe price that is going to last.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

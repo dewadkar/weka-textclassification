@@ -1,0 +1,46 @@
+DOC>
+<DOCID> 13353 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1987_Nissan_Sentra_2-Door </PRODUCT>
+<URL> http://www.epinions.com/content_121974263428 </URL>
+<TEXT>
+            <b>Background</b>
+
+I bought a used 87 Sentra base coupe with about 48k miles from a wholesaler in 1993. I did not know much about cars or car buying at that time, and never determined later if the odometer was rolled back (mileage was low but not exceptional for a 6 year old car). Many months later, a careful inspection by a friend revealed that a rear quarter panel was (professionally) replaced, and the car had a decent paint job. Not a salvage according to CarFax, as I determined <i>after</i> I donated it in 2001. The car had 120,000 miles then.
+
+<b>Specs and Features</b>
+
+1987 was the first year of the 2nd generation Sentras, when the sheetmetal changed to a blocky style resembling a Stanza or a Maxima of the same vintage. The engine, however, did not change much, still remaining a carburated 1.6 liter OHC (Over Head Cam), producing 70 bhp.
+
+Base Sentras at that time were rather spartan cars; air conditioning, 3-speed automatic transmission, and power steering were the only options. My car had neither. A/C would have been nice on hot days in the Midwest; lack of power steering built up my arms. As for the transmission, the car was certainly not zippy with a 5-speed manual (after all, it only had 70 hp!), but would have been truly horrible slow with an automatic - I know, I drove a similar vintage sedan. 
+
+Other styles - sedan, 2-door hatchback, 4-door wagon - were available, as well as better-equipped XE and GXE trims. My Sentra had neither driver's nor passenger's airbags, and used a simple traditional seatbelt arrangement - not the automatic seatbelts introduced in Nissans, Saturns in early 90s.
+
+All Sentras that year were built at a Nissan plant in Smyrna, TN - this bit is for anybody who cares about the national origin of the car and its country of assembly.
+
+<b>On the Road</b>
+
+On the road, it behaved like many lightweight, cheap FWD subcompacts from mid-to-late 80s: it was fairly agile with a manual transmission without a full load; it did not like strong winds; and because of its light weight and lack of ABS, one had to be very careful on icy roads. Body lean in turns was moderate, due probably in part to stiff (but not sporty in any way, just stiff) suspension. It could get to 90 mph without too much trouble in 5th gear, as I discovered in the Nevada desert driving to and from an internship in the Bay Area. The amount road noise was high, especially at high speeds, but one could also hear the small engine straining as it accelerated the car from gear to gear.
+
+<b>Reliability and repairs</b>
+As I discovered over my years of ownership, there are reasons why this particular year Sentras are Not Recommended in Phil Edmontson's <a href="/book_mu-3815330">Lemon Aid </a>guides to used cars series. Here's an abbreviated list of repairs - I discarded the repair records after I donated the car.
+0. Muffler and exhaust pipe rusted through and replaced twice.
+1. Alternator died in 1997; $600 parts and labor.
+2. Multiple fuze failures.
+3. Trunk leaked, filling an electrical contact box with water that froze and killed the rear lights.
+4. CV boots and joints in 1996.
+5. Rear tie rod broke - was corroded through.
+6. Clutch seized in 2000; apparently it is a known problem (it is in a DSB) that transmission bolts are not torqued enough, leading to gradual transmission liquid loss and transmission destruction. Amazing that it lasted as long as it did; topping off the transmission oil must have helped. Had a mechanic replace ($200) the transmission with a junkyard one ($200).
+7. Finally, the carburated engine lost its ability to idle. Whenever you were in neutral or between gears, it would sputter and die. The mechanic tried several adjustments to the carburetor, as well as bypassing the idle completely. Neither did work, and I was forced to donate the car after 8 years of ownership and 70k miles, including a cross-country trip.
+
+<b>Final Words</b>
+In retrospect, the Sentra was not a bad car, considering how long it lasted for me in terms of years and mileage. At the time I bought in 1993, there were few cheap, simple, reliable cars to pick from. A Chevy Nova/Toyota Corolla might have lasted longer or had fewer repairs. I doubt there were many domestics of that vintage that would have survived for so long.
+
+Today, though, I can see little reason to pick a Sentra that old as cheap transportation. Nissan changed Sentras over to the fuel-injected engines the next year of production (1988), and also apparently fixed the manual transmission leaks. For these reasons alone, even if you can find an old Sentra not completely eaten by rust, I would suggest getting one of the next generation (91-94), or at least of the later 2nd generation years (88-90). According to Edmunds, private party and dealer retail on the 1987 base Sentra coupe are between 700 and 900, so they are truly cheap. Allocating another thousand or fifteen hundred dollars, though, may enable the used car buyer to get a car that is several years newer, has a more modern FI engine, at least driver's if not passengers airbags, and likely fewer miles. 
+
+My picks in the $2000-$3000 used car category are the ubiquitous Geo/Chevy Prizm (would be a 93-95 in that price range), a newer Sentra (92-94), and Mazda Protege and Ford Escort/Tracer, which share a platform, though not the engine or sheetmetal. The depreciation on the Ford twins is likely to be steep, so a 96-97 can be found in this price range.
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

@@ -1,0 +1,24 @@
+DOC>
+<DOCID> 461 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Kodak_EasyShare_CX6330_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_121402658436 </URL>
+<TEXT>
+            I've taken indoor and outdoor shots with this camera and blown them up to 12x18 ($2.99 at the local Costco) with astounding results. The few artifacts there are (mostly in the shadows) aren't viewable unless you are within a few inches of the 12x18 print. Of course I only printed the very best shots at this large size, but I haven't seen any artifacts in any of the shots I've taken (~1000) that would be visible on an 8x10 print from a distance of more than 3 inches. Also, the artifacts themselves are quite interesting. They aren't the square blocks or jaggies you expect in JPEGs, but rather the kind of blobs that you get when you look at a grainy part of a 35mm print under magnification. Anyway they seem to blend in, enhancing the picture instead of weakening it. For instance my cat has extremely fine fur that is gray with a very very small white tip in places, giving the cat a grizzled appearance. These tips show up in the pics making the image look razor sharp. A similar thing happens with the "peach fuzz" on my kids faces. These details don't show up in any of my 35mm point-and-shoot photos. 
+
+Battery life is very good. I've never ran the 2100mAh nimh batteries I bought (Walmart-- $16 for 4 batteries with a home and auto charger) completely dead but I've taken over 100 shots (many of them flash) between charges several times. 
+
+The thing I like most is about this camera is that I haven't had to edit any of the shots (except for cosmetic purposes) before printing: the sharpness, brightness/contrast and color of the shots seem to be optimal. The size of the picture files is small, most of my pics come out at 700k - 1.3mb. 
+
+The flash is strong. While experimenting, I took a picture of my (large) living room in the near dark with the flash. The picture came out perfectly sharp and exposed in such a way that it looks like the lights are on. Flash strength is adjusted appropriately most of the time and red-eye is not a problem (when I remember to turn on the red-eye setting). 
+
+I don't miss most of the adjustments available on "higher end" cameras. For instance the auto white balance seems to work nearly perfectly in all situations as do the auto aperture size and shutter speed. There are settings on the dial for low light, high shutter speed, and close-up focus. However these settings are only selectable and not adjustable. 
+
+This brings up the one thing I would add to the camera if I could and that is a setting that would allow me to get the raw data in either uncompressed or TIFF format. This hasn't been an issue really since the camera seems to do a better job of sharpening and color adjustment than I can with Photoshop (I'm not an expert). However when I did edit some pizza sauce out of one the pics with Photoshop I found myself in a quandary. The original picture was about 900k in size (about 10:1 JPEG compression). How should I save the file? I was afraid that I would lose some picture quality if I saved it at such a high compression. In the end, I saved the picture to a 1mb JPEG took it to Costco and had them print a 12x18 print which turned out flawless. 
+
+Let me finish by saying that this camera is extremely easy to use. My six year-old picked up this camera and started taking shots (albeit using the view finder rather than the lcd display).
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

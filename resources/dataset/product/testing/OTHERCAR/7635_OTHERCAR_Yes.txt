@@ -1,0 +1,28 @@
+DOC>
+<DOCID> 7635 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Minolta_Dimage_Z1_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_122922831492 </URL>
+<TEXT>
+            <b>IMAGE SIZE:</b> 3.2 mega-pixels.  Viewed on my PC, the images look great and are huge.  I don't print photos, so I cannot comment on the print quality.
+
+<b>ZOOM:</b> 10x optical/4x digital.  <i>Optical zoom is the most important factor here!!</i>  Most digi-cams have only a 3x or 4x optical zoom.  I specifically wanted a longer zoom so I could use the camera for sports & outdoors photography.  Digital zoom doesn't matter at all, since I'm not printing directly from the camera; I can always use photo-editing freeware on my PC to digitally zoom.  I haven't turned the digital zoom feature back on since I tested it....useless to me.
+
+<b>FOCUS:</b> Rapid auto-focus or manual focus.  The Rapid AF is very fast and has kept my images perfectly focused so far.  I'm very impressed with the manual focus feature; easy to activate, easy to use, and a rare feature in most cameras these days.  <i>Manual focus will only be useful for certain photography, so if you want a point-and-shoot, this is a useless feature.</i>  My girlfriend shoots art photos, so she loves the manual focus.
+
+<b>FLASH:</b> Auto-flash, auto-flash w/ red-eye reduct, manual flash, & fill-flash.  The fill-flash setting is used for dark photographs where you want to see background details.  Fill-flash has a long shutter time, so your subject needs to stay still & you need a tripod to use it.  (Of course, you can turn flash off altogether.)  There is also an accessory shoe on this camera for using other flashes.  The built-in flash is powerful enough to illuminate objects 20 feet or so away.
+
+<b>MOVIE RECORDING:</b>  Record up to 640x480 movies at either 15 or 30 frames per second.  30 fps is great for a digital camera!  However, recording at 640x480 at 30 fps takes about 1 MB per second of movie time.  <i>If you want to make digital movies, get a digital movie camera.  I don't care to use my still-cam for movies, so this feature didn't matter to me at all.</i>  I did try this feature just for S&G; when played back on the camera LCD screen, audio was slightly out-of-sync w/ video.  Haven't tried it on my PC yet.
+
+<b>MACRO MODE:</b> Super Macro mode allows you to take photos of objects as close as 4 cm from the camera lens.
+
+<b>FAST STARTUP:</b> This camera will startup uber-fast!  Ready to shoot a photo in less than 2 seconds from when you touch the power button!  No title screens, no brand name shots, no menu screen at startup.  <i>This is one of my favorite features!  Every digital camera I've ever used takes 10 seconds or more to start up, sometimes up to 20 seconds.  I've often missed photo opportunities because of long startup times.</i>
+
+<b>VIEWFINDER:</b> There is no real viewfinder for this camera.  You see exactly what is going to be recorded, with photo information overlaying the view.  The viewfinder is the same view as the LCD screen, reflected to the eyepiece using a mechanical mirror.  The mirror thing was a good idea, saves money on separate screens.  But the camera has to be on to frame a potential subject.  And the extra mechanics are more likely to get damaged than a passive viewfinder.
+
+<b>NOTABLE FEATURES:</b> Custom or auto white balance control; dark noise reduction; creative color modes (natural color, vivid color, B&W, and sepia); programmable flash button; automatic monitor amplification.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

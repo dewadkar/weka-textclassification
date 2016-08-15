@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 18650 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1997_Ford_Explorer_2WD </PRODUCT>
+<URL> http://www.epinions.com/auto-review-41F-39F3AF5-3970B4A4-prod1 </URL>
+<TEXT>
+            My Explorer is now three years old, and I have to say, I'm somewhat disappointed with the way it has held up.  Noises and squeaks are starting to appear frequently and they're becoming harder and harder to get rid of.  I haven't had to put too much money into repairs yet, but I get the feeling it isn't going to last all that much longer.  At only 60,000 miles, it should be sounding a lot better than it is.  I've heard from several other Explorer owners that they are experiencing the same things - the Ford Explorer is great for two to three years, then starts to fade in the long run.  If you're looking to lease for a year or two, you'll be happy with this car.  But if you want your car to last six to ten years, I'm not sure I'd recommend the Explorer to meet your needs.<br><br>
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

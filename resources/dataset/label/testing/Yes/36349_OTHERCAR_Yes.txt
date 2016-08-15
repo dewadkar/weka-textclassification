@@ -1,0 +1,24 @@
+DOC>
+<DOCID> 36349 </DOCID>
+<PRODUCT> Digital_Cameras/511641_Polaroid_PDC_1300_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_125495578244 </URL>
+<TEXT>
+            This camera is quite useful for non-professional photographers.  If you are looking for a top-line camera this is not the one for you.
+
+The camera comes with an 8MB compact flash card.  This is sufficient for about 7 pics on high quality and about 40 on low quality.  There are also 2 intermediate settings.  
+
+This camera has a built-in flash with 4 modes: on, off, auto, and red-eye reduction.  The auto feature senses the light levels and decides if flash is necessary.  The red-eye feature sets off a small flash before the main one in an attempt to reduce red-eye.
+
+This camera is also capable of date stamping your photos.  The pics are in jpg format.
+
+The camera also features a very nice 1 1/2" by 1" view screen that can be used to view your pics, preview your pics and delete at a touch before they are saved, or to substitute for the eyepiece.  The camera also has a 2x digital zoom.
+
+Camera uses 4 AA batteries or an plug-in transformer power supply.  I recommend rechargeable batteries as the camera does eat through batteries very quickly, especially when using the view screen.
+
+The camera comes with drivers for WIN 95, 98 and ME.  There are NO drivers for WIN 2000 or XP so I recommend an external card reader for reading the compact flash card.
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

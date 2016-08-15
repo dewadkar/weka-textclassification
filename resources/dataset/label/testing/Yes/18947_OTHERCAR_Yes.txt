@@ -1,0 +1,85 @@
+DOC>
+<DOCID> 18947 </DOCID>
+<PRODUCT> Digital_Cameras/Nikon_D100_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_80491679364 </URL>
+<TEXT>
+            My much-loved Canon EOS D30 got stolen, so it was once again time to research digital SLRs.  Fortunately, this was just on time for the introduction of the Nikon D100, so I wandered down to Samy's Camera in Hollywood to test out both units.  This is a preliminary review based on about 30 minutes in the store with both cameras.  I think you'll find it useful because I found some very interesting things that none of the other reviews have yet pointed out.
+
+<b>Banishing the ugly lags</b>
+
+Lags at various points in the process have been the bane of digital photography since Day One.  The Canon EOS D30 was the first camera I used that was successful in reducing this problem significantly, but there was still a significant delay from the moment I turned on the camera to the time it was ready to shoot.
+
+The Nikon D100 eliminates this lag completely.  Totally.  No more lag.  Turn on the camera, punch the shutter release and you're shooting.  This difference alone put a broad grin on my face.  "WOW!"
+
+You may wonder why something so seemingly trivial is so important.  The problem is that a digital camera has to shut down automatically after a short period of operation to save its batteries.  Let's say you have the camera around your neck and it's "ON", but you haven't used it in a while.  Something Wonderful comes up right in front of you.  You lift the camera to your eye and find that you have to wait for unnerving seconds (it feels like hours) before it's ready to use.  By the time it's ready, Something Wonderful is long gone :-(.
+
+That happened to me many times when I had the D30.  To try and prevent it, I would punch the shutter release every five minutes or so to keep it awake.  That, of course, was bad because it ran down the battery.  On the D60, the exact same problem rears its ugly head.  The D100 doesn't have this problem at all.  Flip the switch, punch the shutter release and you've taken a picture.  
+
+For someone like me, who enjoys taking truly spontaneous pictures, this difference makes it worth switching from Canon to Nikon for my next Digital SLR purchase.
+
+In the D30, there was a significant lag between shots when reviewing them.  The shot would come up blurred and then it would snap into focus after a few seconds.  The D60 is much better in this regard, but I still thought I saw it snap into focus a few times.  The D100 displays the shots instantaneously.
+
+Although I didn't test it, the D100 is also said to have a very cool review feature that lets you choose an individual segment of the image to magnify instead of splitting it into arbitrary rectangles and letting you see them.  This is a significant improvement if you're looking for something specific in your image.
+
+<b>Focus Lock Unlocked</b>
+
+The D30 would not let me take a picture in autofocus mode unless it thought it was in focus.  This was an advantage, in that all my pictures taken with autofocus were, in fact, correctly focused.  But it was also bad, because even when the focus was correct, the autofocus pea-brain within the camera might not have figured that out before the moment was lost.  I lost a number of potentially great pictures of moving subjects that way.
+
+The D100 allows you to take a picture at any time.  You can raise it to your eyes, punch the shutter release, and find ... oops ... a blurred shot.  This is because it doesn't wait to autofocus before taking the picture.  What you have to do is press in the shutter release lightly, see the picture is focused, and then push it in the rest of the way.  Only then will you be sure you have an in-focus picture.
+
+During testing in the camera store, I found this extremely confusing.  Now that I'm at home typing, I suspect this was the better solution; it lets you override the pea brain when you, in your best judgement, feel it is wise.  Unfortunately, you'll be taking a lot of accidentally blurry shots before you master it fully.
+
+<b>Autofocus Quality</b>
+
+The D100 autofocus is much, much faster than the D30 or D60 under regular shooting conditions.  It seems to get confused, however, when it's too close to a subject, often hunting in and out several times before honing in successfully.  However, it was darn near perfect in low camera store lighting conditions when used on subjects more than a couple of feet away.
+
+<b>Lens Availability and Image Stabilization</b>
+
+One enormous advantage of the D30 and D60 is the availability of a large range of lenses with Image Stabilization (IS).  This is a technology that smooths out the often jerky motion your hands make as they vibrate while shooting.  I found that I could take pictures at 1/20th of a second at wide angle (about 44mm 35mm equivalent) without blur; in a conventional 35mm camera, I couldn't do that at under 1/30th of a second.  This was a tremendous boon for marginally low light shooting situations.
+
+Nikon has IS lenses, but only in the 70-300 range.  They don't have anything like the 28-135 lens I had, which was nearly perfect for the EOS D30.  
+
+Ironically enough considering one of the main reasons you buy one of these cameras, I preferred having one lens that was suitable for most situations (the 28-135) than having large numbers of lenses, since carrying and changing lenses is such a hassle.  Canon has exactly the lens I needed.  Nikon appears to be a bit short, at least in lenses that Samy's Camera recommends as good.  They have a 24-85 and a separate telephoto.  They also have a 28-200, but I was informed that this was not a good lens.
+
+However, I must give credit where credit's due; in my opinion the zoom and focus rings of the Nikon lenses feel a lot smoother than the Canon entries, and this gives me the perception of higher quality.
+
+But if you need a wide angle to telephoto image stabilization lens, Canon is definitely the best system at this point. 
+
+<b>Control feel and quality</b>
+
+This is a very close contest for both cameras, but the quality of printing on the controls seemed a little cheap on the Nikon.  On the Canon, it was tack sharp.  This is a strange thing to notice, but I have to admit that it bothered me quite a bit.
+
+The D30 had a dial on top of the camera for individual parameter setting (such as shutter speed in shutter priority exposure) and a large dial in back for setting exposure compensation and flipping through images.  I preferred the Canon system by a significant margin, especially for flipping through images.  Nikon has two dials, one in the top front and the other in the top rear which perform the exposure functions.  You flip between images using a set of arrow keys which I found significantly less user friendly.
+
+However, bear in mind that I only played with the two cameras for a relatively short time, and I was already used to the Canon way of doing things.  I may find significant advantages to the Nikon way in time.
+
+<b>The curse of six megapixels</b>
+
+If you're not going to print huge blowups of your pictures, the reality is that you're probably better off with a 3 megapixel camera than a six.  Why?  Because the images are huge, around 3mb each versus 1mb for the D30.  The one thing I am not going to enjoy about replacing my D30 is the amount of disk space the new images will take up, and the additional time spent processing them.  
+
+So why not use a lower size and quality?  Well ... um ... because it's there.  You probably won't, and you'll probably have to buy a new disk drive or two to hold your images.
+
+You have been warned.
+
+<b>Digital SLR versus Digital Point and Shoot</b>
+
+I went into this in more detail in my D30 review, but if you want a digital SLR, you want a Digital SLR.  Digital Point and Shoot cameras, and the new pseudo-SLRs, aren't nearly as fun to use as these more sophisticated, but easier to use, cameras.
+
+Yes, if you're a photographer with any kind of professional or semi-professional pretentions, you want one of these cameras (assuming your budget doesn't stretch to the more sophisticated and paralyzingly expensive models).
+
+Note that the price of $2,000 contains neither a lens nor a memory card.  You'll need a lens ($100-thousands) and a memory card or MicroDrive for the camera to be usable.  I'd recommend the 24-85mm lens (about $600) and the IBM Microdrive (about $300), which makes the actual price of this camera close to $3,000.
+
+It's also worth noting that most of the web merchants selling this camera cheaply have poor reputations.  Check all merchant feedback carefully before making your final purchase decisions.  Merchants with good reputations sell this camera at a price dismayingly close to Samy's $1,999.
+
+<b>Conclusion</b>
+
+For the enthusiast shooter who wants to capture the spontaneous moments of life before they disappear, I can't think of a better camera than this.  Its few flaws, as detailed above, don't even begin to compensate for the advantages of instant on and not having an Autofocus Cop constantly in charge.
+
+However, this is very much a thinking person's purchase, and if your priorities are different from mine, I'm sure you'd love the D60 as well.  And if you want to save major bucks and don't need a six megapixel image, you might want to check eBay for bargain D30s.
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

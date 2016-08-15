@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 14789 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital-Umax_UmaxAstraCamm-Umax_AstraCam </PRODUCT>
+<URL> http://www.epinions.com/elec-review-1322-D0BD1A1-38828690-bd1 </URL>
+<TEXT>
+            I got this camera for Christmas and was finally the one that I decided that I wanted. This camera is that bad considering it has everything you need to get up and running. Be forewarned, your computer will need to run at least Windows 98 and have USB support so you may (like I did) have to buy a USB Add-on card to put in your computer if you don't have the slots for it. The camera does pictures at 640X480 and looks rather well in the daylight. The camera also has a cradle to attach it to with rechargeable batteries that it comes with so you can have it recharging. You can store 31 pictures if you wish to use sound with the pictures or 46 pictures if you do not wish to use sound. The camera has 4 modes, one for sunlight, the other for cloud cover, one for Translucent house-lighting and the other for flourescent lighting. However, the camera is not all good as it does not have a flash I would only recommend using this camera in well lit areas. The other thing with this camera is that it does not have the option to add additional flash memory to it incase you run out while you are on the road so that means if you carry a laptop with USB Ports on it you'll have to take its cradle with you so you can plug it in and download the pictures to the computer right away. If you don't have a laptop, you're definitely stuck. The camera is a great buy overall for a person who wants to take pictures of their family and friends or someone who will be working in the daylight taking pictures outside. So if you are one of these people that need a digital camera with long battery life on the cheap, then this is the camera for you. However, a lot of people will probably need a camera in the $300 price range if they want it to do more. The software that is included is Adobe Photodeluxe 3.0 and Photocabinet. Photocabinet allows you to download your pictures at a touch of a button on the cradle while Photodeluxe allows you to edit and clean up your pictures rather easily. However, since I use Photoshop 5.5 quite extensively I prefer to download my pictures to Photoshop and modify them in there with the TWAIN_32 driver support.<br><br>
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

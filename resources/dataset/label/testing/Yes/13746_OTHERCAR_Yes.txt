@@ -1,0 +1,40 @@
+DOC>
+<DOCID> 13746 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Sony_DSC-P92_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_109035097732 </URL>
+<TEXT>
+            I haven't been a big fan of digital cameras for a while. I have been completely uninterested in purchasing one over my old 35mm because of the lower photo quality, the high price, and perhaps my unwillingness to change. All that has changed now that I've had my first taste of Sony's DSC-P92. 
+I did research on the net for about a week before deciding on the P92. The 5.0 megapixel CCD offers unbelievable clarity. I cannot distinguish the difference between one of these photos and a 35mm photo. (This camera is comparable to the P10, but that one is about $50 more expensive, it uses a lithium battery, and it is a heck of a lot smaller, so if you're looking for a tiny 5.0MP camera look into that.)
+
+<b>Imaging</b>
+The P92 can take individual jpeg stills or a series of stills. You can also record MPEG video with sound, and unlike many other cameras that can record video, the length of the recording is limited only by the amount of memory available. You can record at 640x480 or 160x112. Photos can be one of five resolutions:
+2,592 x 1,944 pixels
+2,592 x 1,728 pixels (3:4)
+2,048 x 1,536 pixels
+1,280 x 960 pixels
+640 x 480 pixels (VGA)
+Each 5.0MP photo is very large on disk, so if this is a big concern for you, you can use a lower resolution and take more pictures. I was very surprised the first time I uploaded a 5.0MP photo up to my computer. The photo was a <i>lot</i> larger than my entire screen and you can see the tiniest of details even in the background. It should have been expected since the resolution is 2592x1944, but still it is honestly very remarkable just how clear these pictures are.
+
+<b>Memory</b>
+Thankfully this camera can utilize Memory Stick Pro media. You are most surely going to need to upgrade to a Memory Stick with higher capacity as there is only a measly 16MB included (this can hold five 5.0MP photos or about 42 seconds of video). With the prices of the newest memory stick media quickly dropping you can get a 256MB stick for under $100 (a 1GB stick sells for under $500). A single 256MB stick can hold 99 5MP photos. That should be more than sufficient for the average user (I myself am going to have to buy more as I'm going on a trip to Vietnam for two weeks and will be unable to develop the pictures until I return home).
+
+<b>Features</b>
+A great feature is its ability to toggle between center-point and multi-point focus. This was very important to me because there are countless important photos I have where my 35mm focused on the background instead of the person in the foreground. The way multi-point focusing works is the camera looks on the sides to focus instead of ordinary cameras that just focus on whatever is in the center of the shot. I can't stress how great I find this feature.
+You can adjust the lighting, exposure, and shutter speed or leave it on automatic. Special effects include black/white, negative, sepia (old-fashioned look), and solarization.
+Macro photography and timed snapshots are as simple as the single press of a button.
+Navigating your way through the menus and different options is really a breeze, but still be sure you read through the entire user manual. It's a significant help.
+Another great feature is the ability to show your pictures on a television. It comes with an AV cable so you just plug it in to the audio/video jacks in your TV then you can start the slideshow feature which will go through every picture on your memory stick (for an interval of your choosing). I haven't used this feature yet, but I'm sure it will come in handy to show off just-taken pictures at parties and whatnot.
+
+<b>USB</b>
+I didn't install any software included with the camera. It includes a program to upload files to your computer and one to edit files, but I elected not to use them. If you have anything prior to XP it might not be so easy, but for me accessing the camera via USB was a snap. I just plugged the cable in and XP detected a removable drive. I went in to "My Computer" and drive I:\ was there. I went into it and found a folder with my pictures sitting there then I went ahead and copied onto my computer the ones I wanted and deleted the others. Just make sure you click on the tray icon that says "Safely Remove Drive" before you unplug the USB cable.
+
+<b>Purchasing</b>
+The retail price is $449.99 but I got it on ProFeel for $378.95 (plus the ground shipping price of $14.95).
+
+I think the Sony DSC-P92 is a top of the line 5.0MP camera. I'm really glad I made the decision to get it and have been since the first time I pressed the power button (not to mention that it <i>is</i> a Sony). I have to highly recommend it to anyone who is in the market for a good quality digital camera. You won't be sorry.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

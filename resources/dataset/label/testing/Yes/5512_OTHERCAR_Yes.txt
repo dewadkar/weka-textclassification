@@ -1,0 +1,74 @@
+DOC>
+<DOCID> 5512 </DOCID>
+<PRODUCT> Digital_Cameras/Sony_DSC_U20_Cyber_Shot_U_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_84260458116 </URL>
+<TEXT>
+            <b>The Camera</b>
+
+The Sony CyberShot DSC-U20 is a digital camera that looks like a spy-toy out of a James Bond film.  It is so small you wonder if it really takes pictures or is just a prototype &#150 and if it did take pictures are they any good.
+
+The camera turns on when you slide open the lens cover.  And the start up time for the camera is almost nil &#150 with a large 128MB MemoryStick it does take a second for the camera to scan the media.  There are four buttons, a switch and a rocker on the camera.  This camera is made to be used without fuss.  The front of the camera has the lens and a small flash.  On the side of the camera is a door that opens to the battery compartment and MemoryStick slot.  On the back of the camera is a 1&#148 transreflective LCD screen.  Yes, that sounds like a tiny screen, and it is, but it is still useful.  I&#146ll write more on the screen later.
+
+The U20 takes 2 AAA batteries.  Sony recommends NiMH batteries and says that other types of batteries (Alkaline and NiCad) are not to be used with the camera.  There are reports of people using Alkaline batteries in a jam and I would use them too if needed &#150 though, the power put out by the Alkaline batteries are a tad higher than NiMH, I don&#146t foresee it doing damage to the camera.  The battery life is about 60 minutes of pure picture taking.  I&#146ve gotten more with the included batteries.  It really depends on how much you use the flash.
+
+Sony sticks with its MemoryStick technology with this camera and that is great for those of us who have a collection of MemoryStick media.  Though it does currently limit us to using smaller media than other media types &#150 MemorySticks come as high as 128MB and that&#146s it, whereas CompactFlash is up to 1GB.  Storage-wise the 128MB MemoryStick can store an amazing amount of pictures.  An average of 250 pictures in the the 1632x1224 mode and more than 1,300 pictures in 640x480 mode &#150 yes, that&#146s 1,300 pictures in 640x480 mode.  This is truly a party camera.
+
+The camera has the standard functions like red-eye reduction flashes and picture effects (Sepia, Black and White, Negative Art, and Solarize).  The flash itself is pretty powerful for the size and can throw the light about 6 feet, not bad.
+
+<b>Pictures</b>
+
+The U20 has two different image capture sizes:  640x480 and the gargantuan 1632x1224.  It has two modes for capturing images at 640x480.  There is the normal mode where the flash can be used and one press is equal to one image.  Then there is the five-burst mode where the flash cannot be used, but if you press the button and hold it, the camera will take a series of five pictures in a row with a delay of a split second between each shot &#150 this is useful for capturing quick action.
+
+There is no zooming on this camera and that is why it can be so small.  The lens is fixed and all pictures are taken at 1x zoom.  If you need to get a closer picture of your subject, you better be prepared to move closer.  But, this is not a big deal because, as I see it, this is not a primary picture taking camera.  If you need to take good pictures, then get a bigger camera with more features (like zoom).  This camera is in essence a party camera.  It is ready to point-and-shoot at anytime.
+
+The CCD in the camera is a 2.0 megapixel CCD which takes pictures that are good enough for 4x6 or 5x7 prints, but not much more than that.  The 640x480 pictures are great for emailing and sharing on the web.
+
+The camera&#146s auto focus ability is quite impressive &#150 actually, it&#146s more impressive than my S50s ability.  In dark situations the U20 is able to auto focus more accurately than my S50.  And in most situations the (center weighted) auto focus is very reliable &#150 except with the macro mode, which I still can&#146t figure out how the auto focus works.
+
+The picture quality of the camera is great.  The colors are warm and vivid.  The pictures are pretty sharp.  The only thing that hampers the camera in the picture department is the high JPEG compression rate that Sony chose to use.  Yes, with this high compression the camera can put lots of pictures on the MemoryStick, but it would have been nice to have a lower compression setting for those who want just a tad bit more quality in the pictures.  When I look at the 1632x1224 pictures that I&#146ve taken I can see slight hints of compression artifacts all over the place from this high compression rate that is used.  I wish Sony would have put two settings in the camera and made it user selectable (like a &#147fine&#148 and a &#147normal&#148 or something).  But, as I said before, this is not supposed to be a primary camera.
+
+<b>Size</b>
+
+Pictures of the Sony U20 really don&#146t do the camera&#146s size much justice.  This camera is tiny by all means of the word, and that is the selling point of this camera.  I have a Sony CyberShot DSC-S50 already and it is a wonderful camera.  The S50 takes beautiful pictures at around 2.1 megapixels, but the drawback of the camera is that it is big &#150 too big to carry around on a daily basis.
+
+The U20 on the other hand is smaller than most cellphones &#150 it is the size of one of the jumbo Wrigley&#146s gum packs.   The camera is aesthetically beautiful, made of a combination of plastic and metal accents.  The buttons feel solid, as does the lens lid that slides to turn on the camera.  The combination of looks and size make this camera a real eye catcher.
+
+The actual size of the U20 is 3 3/8" x 1 3/16" x 1 5/8" and with batteries it weighs in at a paltry 4.2 ounces!
+
+<b>LCD</b>
+
+The 1&#148 LCD on the back on the camera is a transreflective screen.  This is something different for me.  I&#146m used to using the TFT screen on my S50, so the light is always on and in bright sunlight I can&#146t see anything.  With the transreflective screen, ambient light can actually be used for the screen.  By default a sidelight illuminates the screen for view ability, if you&#146re outside in the bright sunlight the screen is not washed out like most LCD screens &#150 you can actually save battery life by turning the sidelight off.  In sunlight or even outdoor light the screen is very viewable without the sidelight on.
+
+The LCD screen is really small and though it is good for framing shots, reviewing pictures is another matter.  With the bigger screen on the S50 I could review a picture right after it was taken and get a good idea whether the picture came out good or not &#150 especially with focus.  But with the small U20 screen, I can&#146t tell if a picture is in or out of focus until I get to a computer terminal.  Overall the LCD is very usable.
+
+<b>Menus</b>
+
+Like all other Sony CyberShot cameras the menu system is intuitive and easy to use.  So easy that no manual is really needed to take advantage of the features of the camera.  A manual is included with the camera, but the information in it is not so useful.  When the camera is first powered on it asks to have the date and time set, after that one doesn&#146t have to touch the menu system if they don&#146t want to.
+
+The menus include selecting fixed focus (macro, infinity, and in between), turning features on/off (LCD, display), media management (format MemoryStick), flash type, and other things.  It is a small menu system and very self-explanatory.
+
+Talking about focus and flash, those can be quickly cycled through with the rocker switch.  Pushing up on the rocker switch when not in a menu will cycle between the flash types.  Pushing down will cycle through the picture modes.  This is a good feature for the camera because navigating through the menus to change these things is not something that I would like to do over and over again.
+
+<b>Build Quality and Feel</b>
+
+The camera feels very solid and well built.  It feels just like my S50, except lighter, meaning that it feels like it can take some pretty hard bumps and bruising.  The plastic used for the camera is good and solid, so I have no worries about it breaking.  The latching system for the side door is good and doesn&#146t look like it&#146ll break anytime soon.  What&#146s even better are the buttons, they are hard plastic and not that rubbery type.  So I have not questions about those.  The sliding lens cover feels solid when sliding back and forth, and has a good sturdy lock at either ends.
+
+<b>Complaints</b>
+
+I don&#146t have many complaints about the camera and most are listed above in the review (like high JPEG compression).  But I do have some small quibbles about it.  First, for a small camera like this I would expect that a wrist strap be included.  Instead of a wrist strap though, a lanyard (neck strap) is included.  I would rather have a wrist strap because it is shorter and easy to use than having a camera dangling on my chest.
+
+The MPEG movie feature always looks nice on paper, but it doesn&#146t work that well &#150 especially on the U20 since this camera cannot capture sound.  The movies that it captures are around 15fps and are really grainy.  The MPEG movie mode will not be replacing a camcorder anytime soon.
+
+The included battery charger just plain sucks.  It takes 13 hours to fully charge the batteries.  If you&#146re going to buy this camera, get ready to spend another $25 to $30 to get a rapid/quick charger for your batteries.  You should also plan on spending $10 on getting a few more NiMH rechargeable batteries.
+
+The price of the camera is a bit steep for the feature set.  But, I guess we&#146re paying a premium for the quality and for the Sony brand name.
+
+<b>Final Words</b>
+
+I love this camera, plain and simple.  The size of the camera lets me take it with me anywhere I want.  It is small enough to slip into any pocket and just keep it with me to take pictures.  Yes, the quality of the pictures and lack of zoom makes the camera not as useful as a full-sized/featured camera, but as a fun-cam this camera serves its purpose very well.  If you&#146re looking for a fun camera to take with you to point-and-shoot anything, this is your camera.  If you already own a nice digital camera as your primary camera and looking for something that you can take with you day-to-day then this is your camera.  If you&#146re looking for a primary camera that will take pictures for prints, this is not your camera.  I highly recommends this camera.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

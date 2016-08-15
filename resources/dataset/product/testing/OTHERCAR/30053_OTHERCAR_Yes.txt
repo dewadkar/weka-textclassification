@@ -1,0 +1,50 @@
+DOC>
+<DOCID> 30053 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_KodakDCC-Kodak_DC-280 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-13E5-128228E7-38057A15-bd4 </URL>
+<TEXT>
+            I wanted to buy a nice 2 megapixel camera.  I read a lot of reviews and bought the DC-280.  I'm very glad I did!
+
+It takes very nice pictures: the images are sharp and clear, and the colors are great.  Another digital camera I used to use tended to make things more blue than they should be, but the DC-280 seems to get the colors perfect.
+
+It uses CompactFlash, which I prefer.  CompactFlash cards are available in very large sizes (up to 128MB right now), and they cost less per MB than competing standards such as SmartMedia.  Also, you can use a PCMCIA adapter to get images into a laptop when you are traveling; I tried this, and it is really fast.
+
+At maximum quality, it makes JPEG images that are about two-thirds of a MB.  This means that the 20MB CompactFlash card that comes with the camera is probably good for about 30 images or so.  There is no uncompressed mode.
+
+It has only a 2x zoom, but in my experience the zoom is enough to be useful.  There is also a &quot;digital&quot; zoom of up to 3x, but I never use that; it's nothing you can't do later at your PC with photo editing software.
+
+It has enough buffer memory to take up to three maximum-quality images in short succession.  If you try to take pictures very fast, after the third picture you must wait until the camera finishes writing a picture to the CompactFlash memory.  In practice, I almost never have to wait: I seem to take enough time setting up the shot that I never fill up the buffer.  However, the camera will not turn off until all images are written to the CompactFlash; this means that if I want to get the camera out, shoot a picture, and then put the camera away, I have to wait a bit.  I can live with this.
+
+I find the controls very easy to use.  There is a &quot;mode switch&quot; that controls which mode the camera is in: picture-taking, looking at pictures using the little LCD screen (&quot;review mode&quot;), connecting to the computer, or general setup.  If you leave the mode switch in review mode and try to take a picture, the camera won't work.  This is a little bit annoying, but not major; you get used to this quickly.  It is easy to choose flash modes, and infinity lock and macro zoom.
+
+The little LCD screen is useful in any light but really bright light, because there is a brightness control.  It's a simple thumbwheel on the bottom of the camera; you just spin it until the image is clear.  Very nice.  There is an optical viewfinder, but you can use the LCD as a viewfinder if you prefer.  I prefer the point-and-shoot ease of the optical viewfinder.
+
+I have been pleased by the battery life with rechargeable batteries.  It comes with NiMH AA cells and a charger (but *not* with an AC adapter).  It also comes with alkaline AA cells, so you can use the camera right away (and not have to wait for the NiMH AA cells to charge up).
+
+It can connect to a Windows computer with a serial port or USB port.  I haven't tested USB, but it should be great.  The problem with a serial port is that transferring images can take a long time, and if you have an error, you have to start the transfer over again.  You should be able to use this camera with any kind of computer, if you have some kind of CompactFlash reader or a PCMCIA card slot, since the images are standard JPEG.
+
+My biggest complaint with this camera is a seemingly simple thing: it has two beeps that sound alike but mean different things.  When you first press the &quot;take a picture&quot; button, it makes a beep to indicate that it is ready to take a picture.  When you press the button the rest of the way, it makes another beep to indicate that it has taken your picture.  The problem is that you can hear the first beep and think you have taken your picture, when you have not.  Sounds silly, but I have done this several times (thought I took a picture, and didn't).  I *hate* losing a picture needlessly!  You may not have any trouble with this; not only does it beep, but it flashes an LED and lights up the LCD display after each picture, so it is easy to tell if a picture was successfully taken or not.  Also, since the camera's onboard software can be upgraded, I have some hope that Kodak will change one of the beeps someday.
+
+I got the DC-280 for about $650, mail-order.  At this price, the DC-280 is an outstanding value.
+
+The positives far outweigh the negatives.  You can quickly and easily take great pictures with the DC-280, and it is small enough to be convenient.  This camera would be an excellent choice for any casual photographer, or a serious one who wants a compact convenience camera.
+
+--
+
+New comments, 03 January 2000
+
+Now that I have had the camera a while, I should add a few more comments.
+
+The &quot;two beeps&quot; I complained about aren't really a problem for me.  I have gotten used to taking a picture, and then immediately looking at the mini LCD display to see how the picture came out.  If the mini LCD isn't showing a picture, then I know I didn't take the photo.  So my only real complaint is gone.
+
+I seem to get around 100 pictures out of a charge on the NiMH batteries.  This means that, so far, I haven't exhausted two sets of batteries on the same day.  I have two sets; I charge one while using the other.  I tend to use the mini LCD screen a lot, and this is a big drain on the batteries; other people might get more life from the batteries than I do.
+
+Now that I think about it, the 3x digital zoom does have some value.  I said it was nothing you couldn't do in Photoshop, but it works with the image *before* it is compressed as a JPEG image (this camera always saves images as JPEGs).  Perhaps the camera gives a slightly nicer picture by doing the digital zoom and *then* compressing to JPEG.  I tried using the digital zoom on a trip to a zoo, and it was convenient.
+
+I have taken this camera on several vacation trips, and taken hundreds of photos with it.  I'm still very pleased with it and I recommend it highly.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

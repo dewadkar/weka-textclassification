@@ -1,0 +1,50 @@
+DOC>
+<DOCID> 233 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_Powershot_G1 </PRODUCT>
+<URL> http://www.epinions.com/content_18987126404 </URL>
+<TEXT>
+            Under the form and size PowerShot G1 differs from all previous cameras of firm Canon, and as that were intended for a wide range of the users, type PowerShot S10, S20 or earlier devices of a series "�", and from a professional type Canon Pro 70. This camera is equipped 3-megapixel matrix, 3-multiple optics and standard plug "hotshoe" for connection of an external flash. PowerShot G1 has a lot of professional possibilities, which, doubtlessly, on dignity will be appreciated it by the holders and seriously will disturb the competitors.
+
+PowerShot G1 as a storage uses cards CompactFlash Type I or II, and this camera declares full compatibility with hard disks IBM Microdrives (use of this disk radically increases a memory capacity).
+
+As a whole the construction Canon G1 is traditionally convenient, is strong and is reliable, and the study of possibilities of this camera and modes of work with it will take of no more several minutes.
+
+Performances
+
+In Canon PowerShot G1 is used 3,3-mexapixel matrix by a size of 1/1,8 inches, minimum sensitivity is 50 ISO. The sensitivity of a matrix can be changed manually, setting higher significance: 100, 200 or even 400 ISO. The automatic mode is stipulated also, in which the camera itself selects necessary sensitivity at the rate of 50 or 100 ISO. It is possible to photograph the maximum resolution 2048 x 1536 pixels, but and with the smaller sanction (1024 x 768 or 640 x 480 pixels).
+
+The triple optical modification of a focal length allows "to change" optics from 43 up to 102 mm (in an equivalent of a 35-mm film). Optics are very "light": on a "short" side minimum diaphragm is F2,0, and on "long" is F2,5, that is for today a very high parameter even for digital cameras. The auto focussing is carried out through TTL, and in case of insufficient illumination the built-in auxiliary light source is included. And from the menu it is possible to select one from two methods of an auto focussing: continuous or single. Besides there is a possibility to be switched and to a completely manual focussing. 
+
+In PowerShot G1 again has appeared a format of saving of the raw image (sample of a matrix - CCD RAW). The transformation from a RAW-format requires the special software (or additional module Photoshop Plug-in), however such method of saving considerably saves a place on a map of memory and allows independently treating shots obtained without application of any compression, color or linear transformations. For obviousness it is possible to reduce that fact, what on a flash map, in a standard way delivered together with the camera, of volume 16 Mbytes place 5 shots with the resolution 2048 x 1536 in a format RAW and only one of RGB TIFF file of the same resolution.
+
+The apart from it of PowerShot G1 can work and in a serial mode, making 1,7 photos per second of the maximum resolution. As to program modes of shooting, at PowerShot G1 they are represented much! However, the beginners should not be frightened of opened possibilities. For the beginning it is possible to take advantage of most simple, completely by automatic mode Auto, by granting the camera a possibility itself to select necessary endurance, diaphragm and other photographic parameters.
+
+The camera is delivered with 16-Mb card CompactFlash Type I, on which 8 high-quality JPEG images, 15 quality or 32 usual.
+
+PowerShot G1 is completed by the recharged accumulator of a high capacity. The charge suffices for shooting approximately 260 photos with use of a LCD-screen and approximately 800 photos with application of the optical range finder. The battery is recharged directly in the camera when connection of the charge device, which is delivered in a package with the camera and simultaneously executes functions of a power supply unit.
+
+The photos can be copied in the computer on USB or serial port, for both in a package there are cables. 
+
+Quality of photos
+
+"Light" optics of this camera gives the bright and saturated image with plenty of the well-worked details. The minor distortion is exhibited only on "short" side (that, however, corresponds to the laws of physics), and on a "long" side it completely is absent. Chromatic aberration, while intrinsic to all digital cameras, are expressed implicit.
+
+PowerShot G1 does excellent photos both with natural, and with artificial illumination, and the very contrast shots look very good. The automatic exposition is almost always well fulfilled, and small defects the auto focussing in conditions of insufficient light exposure has called only. 
+
+Especially it is necessary to mark excellence of printing of photos obtained from this camera, on ink printers.
+
+User interface
+
+For those who were earlier familiar with digital cameras of firm Canon, the study PowerShot G1 will not present the special transactions. PowerShot G1 has, doubtlessly, is significant more control facilities, than all digital models of firm Canon, released before. And the availability of program modes will allow fast realizing this or that effect.
+
+The interface of firm Canon is very simple in use and completely satisfies the most exacting requests. The use of icons is limited, and majorities of necessary parameters are set in the text form.
+
+The software
+
+Two compact discs enter into delivery PowerShot G1. One contains utilities for the camera: Zoom Browser EX 2.4, PhotoStitch 3.1, PhotoRecord 1.2, RemoteCapture 1.1, USB- and RS-232C-drivers for Windows 95/98, NT4 and Windows 2000. For Macintosh ImageBrowser 1.4, PhotoStitch 3.1, RemoteCapture 1.1 and Digital Camera Plug-In is intended. Apple QuickTime 4.0 is included for both platforms. The second disk offers Adobe Photoshop 5.0 Limited Edition both for Windows, and for Macintosh. 
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,24 @@
+DOC>
+<DOCID> 16450 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Fuji_FinePix_2400_ZOOM </PRODUCT>
+<URL> http://www.epinions.com/content_46767443588 </URL>
+<TEXT>
+            I have owned a Fuji FinePix 2400 for a year now, as an artist I feel I have a better than average appreciation for image quality, and a smaller than average budget. The FinePix 2400 delivers on both fronts. 
+
+I have always liked Fuji film for it's somewhat over saturated color, and especially rich greens, the FinePix 2400 delivers the same color performance in a digital. Even in low light and florescent light the FinePix delivers rich, deep colors with superb contrast. Although Olympus cameras deliver similar color, at the time I purchased there was no Olympus with USB available in the same price range as the Fuji, and as the owner of a Macintosh, I needed USB. 
+
+The FinePix 2400 has nice optics, and it's enclosed zoom mechanism makes the lens more rugged than many, the sliding lens cover though, seems to be a little delicate, and I have had to send it back for warranty repair. Even a short fall can dislocate the cover and switch, rendering the camera effectively non-functional. The FinePix also comes with a ludicrously small 8mb smart media card. With a 2.3 megapixel camera 8mb is just too small, luckily smartmedia is getting cheaper and a 32meg card is now affordable. 
+
+Overall the FinePix 2400 is easy to use, it handles just like a film point and shoot, has easy to navigate menus, and excellent flash performance. It's USB interface is fast and simple, but annoyingly the drivers are NOT available on the Fuji web site, plan in carrying the CD with you if you want to download pictures to a friend's computer. (Macintosh computers with USB recognize the FinePix as USB mass storage and will download pictures without drivers, but Windows requires the drivers) The FinePix meters and focuses directly off the CCD, instead of using a separate infrared focusing beam and light sensor. This means that sunsets, backlit scenes, side lit scenes and other difficult conditions are more often correctly metered than in other sub-$400 digital cameras. This also means that the FinePix can shoot through windows and binoculars (this is fun) and still focus correctly, it is not often fooled by reflections, and has very quick focus response. The FinePix also has a fine macro (close up) function, this is great for taking pictures of flowers or those small items to sell on eBay =) 
+
+Manual controls are not easy to use or understand, but as a point and shoot results are easy and excellent. The FinePix also has better than average low light performance despite the 100 iso equivalency of it's CCD, this may be due to the relatively large size of it's CCD and fast lens. The optical viewfinder is tiny, and not entirely accurate in it's framing, but battery life is still acceptable with the screen turned on. I Use Nickel Metal Hydride rechargeables from Sunpack in this camera and with flash disabled battery life is excellent, with flash on, it shrinks exponentially, but with such good low light picture quality, I find that only the darkest scenes, or fast motion require flash. 
+
+The FinePix's JPEG compression seems to be flexible and work well at all levels, or as well as JPEG ever works when it's compression ratio is very high. High Quality (low compression) pictures are nearly TIFF quality and show very few compression artifacts. As a digital artist I find the FinePix 2400�s image quality and resolution to be more than adequate for all but the hugest enlargements and most demanding high-resolution applications, not a studio quality digital by any means, but great for the price.
+
+I wish the lens cover were a little stronger, but the picture quality and USB can't be beat at the price. 
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,44 @@
+DOC>
+<DOCID> 829 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Hewlett_Packard_PhotoSmart_C618 </PRODUCT>
+<URL> http://www.epinions.com/content_35787869828 </URL>
+<TEXT>
+            This camera was bought after much research (including some, right here at epinions.com).  It is my first digital camera, and I am quite pleased with it.
+
+My 3 main main priorites (besides being able to take good quality pictures) were:
+	- <I>Standard Camera form factor</I> for ease of use
+	- <I>CF (compact flash) memory</I> for price, and ease of use
+	- <I>AA (or similar) non-proprietary batteries</I> (for pricing and ease of use.  you can stick any ol' duracell in it and get by in a pinch...)
+
+Instead of listing ALL of the features, and raving about it like some sort of product endorsement, I will just list the high points. 
+(that there are no low points, is worthy of mention, also).
+
+<B>- GOOD BATTERY LIFE</B> (for a digital camera).  All these cameras eat batteries like there is no tomorrow (for instance, this one will munch 4 AA Duracell Alkalines in about 20 pictures!). But you will find that even if you use the LCD display for taking pictures (which, I do not, anymore, now that I am used to the camera) you get decent life out of the right kind of batteries.  Another plus is that it just takes STANDARD AA batteries - not some $75 proprietary battery that is expensive and requires a proprietary adapter to charge... 
+
+[The secret to longer battery life is to ONLY use NiMH battteries, and if you can, find the good ones rated at 1700mAh.  Even Radio Shack has some good 1600mAh that I use regularly.  Then go get one of those 1 hour quick chargers.  If you have about 3 sets of batteries, you should have no problems.  Another good thing about NiMH technology is that they have no memory - so you can 'short' charge them if you need to and not damage them.  Just be sure not to 'cook' them by trying to force charge batteries that are already almost full - that'll damage them like any other battery.  ...but I digress...]
+
+<B>- STANDARD FLASH MEMORY.</B>  This is relatively cheap,  non proprietary, and available from anyone.  At Med-High JPEG settings, I can get 244 pictures on a 128MB card.  That'll handle most vacations. If not, buy two, they're cheap!  Plus, since you can preview all the pics, you will just save the best 244 (that's only 10 rolls of 24 exposure film, ya know...)
+
+<B>- SOUND ANNOTATIONS.</B>  This is a cool feature!  Especially if you have 244 pictures from places that you have never been before.  Or want to remember who of those long lost relatives are in this 144th picture of your family reunion.  Very neat to be able to record 45 seconds of audio attached to that picture (with little penalty in memory useage).  The PhotoSmart s/w that comes with the camera then lets you listen to it.  And I think it is a JPEG standard, so the audio track should be available to other s/w as well...
+
+<B>- LENSE, and LENSE ATTACHMENTS.</B>  The Pentax lense is good quality with a 2x OPTICAL zoom (beware, digital zooms only really just crop your pictures) and clean and accurate color resolution.  The attachments are available from third parties (I bought mine from Beach Camera) and allow you to put an additional 2x telephoto, a fish eye, a wide angle, or just UV or other filters onto the camera.  The adapter attaches to the tripod mount on the camera body underside, and then covers the lense.  Even if you are not going to use other lenses, it is good to get to put a UV filter on, to protect the camera's main lense.  Note: this option does NOT allow you to change the cameras main lense out (like most SLR camera bodies will), but you do get the option of adding 'helper' lenses on without having to pay the premium price for those nifty Canon digital camera bodies...
+
+<B>- AUTO SETTINGS</B> that work well.  I have messed with the camera for about 6 months now, and the auto settings work great 95% of the time.  Good focus, good color balance, good exposure time.  However, you can mess with some of the settings manually (which not all digital cameras let you do) and I may do this some now that I am more familiar with the camera.  For instance, some macro pictures of bright flowers in sunlight are overexposed - but hey, it can't do everything automatically!
+
+<B>- IR REMOTE.</B>  This is a nifty thingy to play with to take shots of yourself in groups or posed.  (You know how the 'cameraman' is never in the shots...  Well now you can be!)  It allows you to set up the camera, walk away, then click the remote at it to take repeated pictures (no, you don't have to RUN to get into the picture in 7 seconds anymore...)
+
+<B>- FORM FACTOR.</B> Standard camera body form factor.  Yeah, it's a little heavy, and maybe a little clunky, but the size and placement of controls is important for ease of use.  It's not too small, the buttons are where you expect them, and you can easily hand it to someone else in a public place and they will be able to take you and your honey's picture without a 5 minute primer on how to use the camera!
+
+ONE THING it has that I haven't used: the ability to beam pictures directly to an HP IR equipped printer.  This is cool, but I don't have an HP printer with an IR port just yet...
+
+A COUPLE OF THINGS IT DOESN'T HAVE:  It doesn't take 90 seconds of video - but I gotta think that really sucks up memory, and it was not important to me.  Video cameras do this much better anyways.  And it's a 2.2MPixel camera - but this is plenty good enough for normal picture resolution at 5x7", and again, it is a tradeoff for memory space (3.3MP images require more memory for each picture if you take them at the highest resolution).
+
+All in all I am satisfied completely with the camera.  My next one will probably be one that has a SLR type body, so that I can put 'real' lenses on it - but for now the HP is a great value camera for me and my whole family to use.  I would recommend it without reservation to anyone with the same priorities as those I listed above.
+
+Note: I bought the camera in March 2001, and the price has come down significantly since then...
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,26 @@
+DOC>
+<DOCID> 25350 </DOCID>
+<PRODUCT> Digital_Cameras/elec_AgfaePhotoo-Agfa_ePhoto_CL30_Clik_ </PRODUCT>
+<URL> http://www.epinions.com/elec-review-66C-F6F123E-398EF350-prod1 </URL>
+<TEXT>
+            If you're planning to travel to Mongolia, this is the camera for you. Seriously, if you need to use a camera in a remote location, then the Agfa ePhoto CL30 Clik! will do the trick. When traveling, you need either a lot of storage media, or a way to off-load your storage media onto another storage device, such as a computer's hard disk. Most digital cameras use non-volatile storage such as SmartMedia, CompactFlash, or Memory Stick. These devices are quite expensive, precluding owning more than a few of them. Another possibility is the use of a computer to off-load your camera's memory. But for travel, this means lugging your laptop along, including cables, power adapter, and plug adapters. This is inconvenient as well as a security problem.
+
+In comes the Agfa ePhoto CL30 Clik! to the rescue! The storage media, 40 Megabyte Clik! disks, are very cheap - about 10 bucks each. So it's easy to own a bunch of them. Further, you can upload them to a computer when you return from your trip, either via a fast USB connection, or through the use of a portable Iomega Clik! drive.
+
+This camera is not without it's problems. While it delivers good images, an annoying feature is a long warm-up time when the camera is first turned on. A little green light blinks until the flash is charged up. If you're in a hurry to catch your child blowing out the candles, you'll miss the shot. A solution is to turn on the camera without turning on the LCD. When the flash is charged, then turn on the LCD. Another drawback is the lack of a swiveling body (such as the ePhoto 1280 and ePhoto 1680 have). This prevents you from easily taking over-the-head shots in a crowd or worms-eye shots of your kids.
+
+A handy feature is a LCD cover that prevents you from getting fingerprints on your LCD. Also, the LCD can be turned off without turning off the camera, to save power. The lens is threaded to add accessories, such as other lenses and filters. It's also nice that there is a viewfinder window. If you want to squeeze as much usage from your batteries, you can turn off the LCD finder and use the window. The window isn't as accurate as the LCD, but at least it gives you a choice. Another annoying feature - although it doesn't affect the operation of the camera - is a slow scan rate for the LCD. If you quickly pan the camera, the image on the LCD separates into red, green, and blue after-images.
+
+While this camera advertises itself as a &quot;megapixel&quot; camera, it actually isn't quite one. It's maximum resolution is 1152x864 pixels, which comes out to a total of 995,328 pixels. I guess that's close enough to qualify! However, the camera can achieve an apparent 1440x1080 pixel resolution through software sampling with the PhotoGenie firmware. 
+
+The software included with my camera was the Clik! drivers and PhotoWise 2.1.2. I found this version of PhotoWise to be confusing and lacked features found in previous versions. It uses a non-standard Windows interface. Also, it was not possible to compress JPGs at different levels. Instead, I just copy the photos to my computer with the Clik! drivers and use PhotoWise version 1.5 that came with my Agfa ePhoto 1280 camera!
+
+See my review for tips about Lithium batteries: <a href='/elec-review-402F-1EF1E35-39CBDAE0-prod1'>http://www.epinions.com/elec-review-402F-1EF1E35-39CBDAE0-prod1</a>
+
+In spite of its shortcomings, it's still THE camera for travel - it's a self-contained solution. Whether you're a world traveler, or a field engineer, you'll be glad you have this camera!<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

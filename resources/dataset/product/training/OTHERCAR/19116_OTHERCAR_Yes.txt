@@ -1,0 +1,55 @@
+DOC>
+<DOCID> 19116 </DOCID>
+<PRODUCT> Digital_Cameras/Nikon_Coolpix_2000_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_83517017732 </URL>
+<TEXT>
+            <b>Power - Batteries and Battery Life</b>:
+I've had the Nikon 2000 in my hands for a few days now. I purchased 4 AA rechargeable NiMH batteries to go with it and spent several hours shooting with and without flash and playing with the different modes. Although others (e.g. Steves-digicam.com) have mentioned a short battery life, I find several hours of nearly continuous on usage is quite acceptable. Life with standard alkalines is likely to be less - but it's great that you can use standard cells to shoot with as they are always going to be available.
+
+<b>Storage Media</b>:
+The camera comes with a 16Mb Compact Flash (CF) card which is adequate. I upgraded it with a 128MB SanDisk card. I did not notice a significant "write" difference between the two CF cards even though the supplied Lexar card claims to be "8x" speed.
+
+<b>Photo Speed and Quality</b>:
+Taking flash photos the shot to shot time is about 7 seconds. Without flash it is about 4. This is a bit too long to wait if, for example trying to take several action shots in rapid succession. They have a continuous shot mode and a "sixteen shot" mode that might prove useful for action shots
+
+The shutter lag is very low (well under 1 second) when in continuous focus mode. Focusing is quite good - it picked the right subject every time even when off center. I am very impressed with macro (close-up) mode. I got fantastic detail when taking a picture of a quarter only 1.5 inches from the lens and that in poor light! The color balance for that photo was a little off - appearing more bronze than silver. 
+
+Last evening I shot several pictures using flash in a somewhat dim, fluorescent indoor environment. Flash photos from about 8-10 feet were almost all under-exposed and grainy - however they were no worse than with my previous digital camera. From 6 feet and closer the photos were well balanced.
+
+<b>Transferring Images to a PC</b>:
+I used the USB connection to transfer the images from the camera to my IBM PC. This process was as simple as copying files. [Can not comment on the software as I haven't installed it!]
+
+<b>Unexpected Feature</b>:
+One of the features I have found myself using that I did not think would be useful is the "Movie" mode. In this mode 20 seconds of images (video only) are recorded at 15 frames per second. Movie mode has some limitations. You cannot use macro mode or the self-timer to start the recording and during recording you cannot use the zoom.
+
+<b>What's Missing?</b>
+I like to be able to get started right away. I skimmed the quick-start guide and got to shooting. Except for the top dial the functionality is straightforward. More on the top dial in a minute.
+
+One thing I found myself doing out of habit is holding the camera up to my eye... useless since there is no optical viewfinder.
+
+<b>Mechanics</b>:
+The camera is compact. When off, the lens retracts fully into the camera and a shutter closes over the lens. I like knowing I won't scratch the lens if I put it in my pants pocket with keys or coins - but the camera is just a bit too bulky (thick) to really keep in a pocket. The LCD is exposed, too, so a camera bag is a practical necessity anyway. 
+
+The camera case is plastic and has a somewhat cheap feel to it. It will take a little getting used to figuring out how to hold it to keep fingers from covering the lens or the flash unit. It is a little challenging to hold one-handed even though it is light enough.
+
+The buttons and controls are all easily workable even with my large fingers.
+
+<b>Usability</b>:
+There are a couple of nagging behaviors. 
+
+1. Erasing an image you just shot SEEMS to take 5 button presses. First press Quick View then Erase, then "down" to select "Yes" then right to confirm, then right again. Actually the last "right" isn't required, but there is no feedback indicating that the erase has been started just a "Done" screen after two seconds - so I find myself pressing right repeatedly. From playback mode, you do not have to use Quick View. Without reading the manual, it is not clear if it is possible to erase a batch of images.
+
+2. That dial on the top is cryptic. Auto mode, playback mode and Movie mode are easy enough to recognize. But the "normal portrait" mode has a stylized image of a woman wearing a hat that I couldn't figure out until I took a look at what exposures were selected in the LCD. Ditto for all of the other "scenes".
+
+3. There does not appear to be any way to abort Movie mode except to change the dial or to power off the camera. There is no "Menu" for this mode, either, so pressing the Menu button gets you the message "Warning No Menu".
+
+4. In playback mode, using the "W" (wide angle) button shows 4 and then 9 images at a time. The problems with this are twofold: A. you can't "page" forward or back by a whole page - just a half page in 2x2 and 1/3 page in 3x3. B. It takes a long time to redisplay the next thumbnails - four seconds! This makes it pretty impractical to really go through your images searching for a particular image or to erase specific ones. Perhaps there is some speedier way in the user manual. But I found it much faster to dump all of the images into the PC and manipulate them there.
+
+<b>Summary</b>:
+The camera has a good feature set for an entry/everyday use item and it produces quality images. Usability is about average. The least attractive feature is the slow speed of recording and displaying images. I estimate the durability as below average based on the many small plastic doors on the case &#150 but it may turn out to be more rugged than it appears.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

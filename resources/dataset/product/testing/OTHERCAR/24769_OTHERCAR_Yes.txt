@@ -1,0 +1,56 @@
+DOC>
+<DOCID> 24769 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_Stylus_300_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_112664350340 </URL>
+<TEXT>
+            I wanted a digital camera to, like most people, carry around everywhere and take pictures. As a result, size and durability  are very important to me. Of course, I would like nice image quality as well.
+
+I usually do a lot of research before buying anything, but for this camera, I decided at the last minute to jump to a higher price range, and since I needed the camera, I didn't have time to do a lot of research, so I bought it on the salesperson's recommendation.
+
+After using the camera for about a month, I've come to the following observations, starting off with the good stuff:
+
+1. The small size of the camera is a great benefit, as many others have pointed out. Being able to carry the camera around is great for capturing candid shots. While small, it's long enough to be able to hold comfortably and not feel stupid about holding a micro-sized camera.
+
+2. The metal body feels solid and looks good. Also, it has a rugged feel about it, unlike the Nikon Coolpix and other all plastic cameras.
+
+3. While others have complained about the recovery time, I think it's fast enough. It's certainly on par with most automatic 35mm cameras (~2 seconds), and while most people don't know this (the manual doesn't make it very clear), you can actually take another picture while the camera is storing the current one.
+
+4. Rechargeable battery is really nice, and lasts a decently long time. I've taken about 100 pictures, using a mix of flash and non-flash with mostly the LCD, and my camera just switched to the low battery indicator.
+
+5. Point and shoot capability. Generally, the camera takes good pictures without having to mess with any settings.
+
+Alright, now the bad things:
+1. Image quality, while good, is nothing spectacular. I'm pretty sure there's cameras in this price range that could do better (among some of the ones I think - Fuji's digital SLR, the 4 megapixel Panasonic, and one of the Canon's...). Frankly, I was expecting slightly better for the price, but it's good enough.
+
+2. Noise. This camera has an aggressive sharpening algorithm, which tends to exacerbate noise in solid colored areas. Also, in lower light situations, the noise becomes more apparent, probably due to the increase ISO speed it must use.
+
+3. Flash. Not only is the flash rather weak (a common problem in cameras of this size), but the camera often thinks needs it when it doesn't - though, I believe that is because the camera is trying to keep the ISO speed as low as possible to decrease grain.
+
+A few comments that don't fall into either category:
+* The autofocus system on this camera relies on contrast between objects, so it has a hard time focusing if it can't discern any contrast. However, I have not had a problem except when doing macro shots.
+
+* This camera uses the new xD media. This is faster, and smaller, but it's more expensive than either compact flash or SD media. (The media is about the size of a quarter. Literally.)
+
+* I found the menu system alright to use. I could do basic stuff without referring to the manual, but I had to refer to the manual to figure out the advanced controls. (Also, one thing to note is that the camera defaults to NOT saving any of your settings... there's an option to change it, but you have to search for it...).
+
+* This camera has few manual controls. It does allow you to customize the white balance and exposure levels, but that is it. Some manual controls would be nice, but I probably wouldn't use it much.
+
+* The camera is "weatherproof". What that means is that it can stand a rain storm, but not getting dunked in water. I have not tested it cause I'm scared to try...
+
+Overall, I would recommend the camera if you want a small durable camera with alright image quality. If image quality is of the utmost importance, this isn't the camera for you.
+
+<b><i>Update (1/25/04)</i></b> After having this camera for about 5 months, I can add a few more observations.
+1. Flash - it's rather weak. It's fine for a small room, but it's useless in any kind of large area (concert, convention center, etc.) unless the subject you're photographing is within 6 feet or so of you. Granted, that's all the flash is supposed to be good for, so it's not a huge problem, but still annoying. Especially since the camera will turn the flash on, and as a result the picture will come out dark. Pictures with the flash have a somewhat "harsh" look to them, but it's not too bad.
+2. Memory - the included 16mb card is nowhere near enough. I'd recommend at LEAST a 64mb card, which stores about 20 images at the highest quality.
+3. Battery life - very respectable, it lasts about 100 shots using mostly the LCD. Also this includes time used to download all those pictures. The included battery is lithium ion, so that's not surprising.
+4. Viewfinder - due to it not being electronic, as well as having a more limited viewing area than the camera actually captures, I don't use the viewfinder much at all.
+5. Image quality - Pictures are generally good, though in low light conditions it becomes grainy. However, printing them out to 4x6 photos doesn't show any graininess - pictures look as good as film at that size.
+6. Focusing system - it messes up sometimes, resulting in an object in the foreground being focused on when you want to focus on a person farther away. There's no real way to correct this, and you won't realize it until you take the picture.
+7. Speed - while you could just press the shutter and get a picture, it usually turns out slightly blurry. Best results are obtained by pressing the shutter halfway down, letting the camera focus for half a second, and then taking the picture. Picture storage time is about 2 seconds.
+8. Looks - I get compliments about how the camera looks, despite the fact that it's not that new anymore. I attribute it to the metal casing as well as the small size.
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

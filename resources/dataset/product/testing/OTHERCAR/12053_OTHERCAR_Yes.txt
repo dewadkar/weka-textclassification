@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 12053 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Honda_S2000 </PRODUCT>
+<URL> http://www.epinions.com/auto-review-7602-3D39DA67-3A22FC75-prod6 </URL>
+<TEXT>
+            Introduced this past year, the Honda S2000, made it's debut on the market as a highly advanced sports car, a new generation in speed.  Until now, sports car where thought of as light weight cars with high powered engines.  The Honda S2000 does a great job of disproving this easily believable stereotype.  The S2000, with it's middle weight body and four cylinder engine, shows the competitors that it is possible to get high speeds with a smaller engine.  Unfortunetaly, at high speeds, the S2000 runs very high revolutions per minute.  While red-lining at 9000 rpm's is an impressive feat, driving down the highway at 6500 rpm's does little more than wear the engine and waste fuel.<br><br>
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

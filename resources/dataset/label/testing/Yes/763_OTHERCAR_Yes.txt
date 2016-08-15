@@ -1,0 +1,88 @@
+DOC>
+<DOCID> 763 </DOCID>
+<PRODUCT> Digital_Cameras/Nikon_Coolpix_5000_Digital_Camera__Camera_25501 </PRODUCT>
+<URL> http://www.epinions.com/content_57894932100 </URL>
+<TEXT>
+            I got lucky this year.  I got my dream gadget for christmas. the "best" digital camear on the market short of spending 3grand and up.
+
+When I recieved the Camera the first thing I noticed wsa how "small" the box was.  Iwas wondering if they had mistakenly sent me only some accessory kit for it.  But no the camera was in there.  It was just "shockingly" tiny !! This was already a good sign.  I like small and effecient.
+
+The array of manual controls at your disposable is almost scary at first.  The OS for the camera may not seem very intuitive or effecient at first but this is only because it has to do soooo much.
+
+Once you get INTO the camera and allits features you begin to see the logica behind the interface to the camera.  There are some things I would like to change but some of the buttons are user programmable (have not tried to mess with that yet) so I plan to reprogram some of them to do things I do more often.
+
+There was a bug out of the box that would trash the camera if a certain number of conditions were met (rare) but probably not for me :-) since it had to do with turning the camera on while the lens cap was in place. BUT nikon saw logically to make the camera "flashable" what this means is the "heart" or "core" of the camera is updatable.  they VERY promptly released a patch and I installed it before I even took any pictures painlessly.  Good thing too cause I left the cap on half a dozen time the first day :-)
+
+The first concern I had was battery life.  so at the same time that I ordered the camera I ordered 2 more batteries at a mere $40 a pop (Very reasonable to me) but I was pleased that the "concerns" over battery life although valid where overrated. It ran pretty good on one battery although I WAS glad I had extra's.  I very rarely hve to goto the third battery before the day is out unless I am going picture crazy (which I sometimes do)
+
+Fit and Finish on this camera is top notch.  the Frame of the camera is solid metal (magnesium alloy) which gives the camera a nice "solid" feel to it.  you are not worrried about squishing in in your hands as the size my make you feel.  all the doors fit nicely and properly.  No problems in this category.  Excellent job nikon (for a grand it better be good :-)
+
+I figured out the basics of the controls pretty quickly.  Some are not so intuitive for example when things ahppen on screen logically you would want to hit the button ON the screen just below the comment on the screen but thisis not so.  they have icons telling you what button to hit (nikon next time just lets the buttons ON the monitor activate the features above them.
+
+I blew off a few pictures and things started going south.  They were coming out dark no matter what I did and then suddenly the problem went away.  I ignore it as a fluke.
+
+but later that night it kept happening in conditions where it should NOT be happening.  I was gettign annoyed.  I had to keep taking shots more than once to get good shots.
+
+I eventually found the one VERY MAJOR design flaw in the construction of this camera.  at the top of the front of the unit just left of the hand grip yousee this tiny little hole.  This is the photo sensor that is uses to read ambient light etc... I have large hands so when I place my finger on the shutter my finger tip ends up being placed directly in front of this little photo sensor blocking it. This fools the camera and ruins the shot.  It took me quite some time to "relearn" how to place my finger on the shutter so as to not block this sensor.  WHY they placed the sensor Just there is lost to me as it seems the worst possible place toput it.
+
+Another problem I have with the camera is it VERY limited "official" compact flash support.  Basically Lexar and Sandisk only and none officially to 256meg.  I am sorry but for a 5megapixel camera 256 and larger support is mandatory.  They will work (maybe depending on brand) but it is not official.  This aggravates me.  they should have made it compatible with everything.  Why should I spend $300 on a sandisk 256meg card when I can get a Generic 256meg card for $80 !!!  Spending more money on flash cards than I do on the camera is not my idea of kosher. I get about 55-60 shots on a 128meg card of which I have 3.
+
+The last 2 problems are a bit mre minor (so far) 1 No low level focus assist.  NO IR lamp or anything to help with low light focus.  so it takes a bit longer for it to "lock in" when the light is low.
+
+2nd Lag time.  the lag time is HUGE.  when I half press to lock everything in I can wait anywhere from 2 to 10 seonds before I can take the shot.
+
+Now thankfully "actual" shutter lag time is almost non existant.  This was a requirement for me since I shoot rockets which can leap off the pad at 300+ mph.
+
+So as long as you focus lock ahead of time the lag time is almost zero.  but if you go cold from wanting a shot to taking a shot it can be quite long before the camera is ready.  more light and a defined target (like daylight shots of people) are not bad and it is pretty fast.
+
+I also do not like the "auto" mode very much.  it does not seem to always get the best images (as far as brightness vs contrast go) in auto point and shoot mode. my $150 PDC-700 did a better job at point and shoot under all conditions
+
+You may be thinking does he hate this camera.  on the contrary I just believe in being THOROUGH and as UNBIASED as possible.
+
+BUT all of this is forgotton when you download that beautiful 5megapixel image.
+
+All is fogotton when I warm up the Stylus photo 780 and print out an 8x10 that would make a photo lab drool.
+
+Every print I have printed so far has been a jaw dropper.  Maybe it is because I am making such a large jump in resolution I am not sure but the prints I make from this camera are ABSOLUTELY NOTHING short of stunning.
+
+The Colors vibrant and NO jaggies !! amazing.  I even take the center half of the image (a little more than 1/3 of the original image) and I STILL get better prints than my old camera.
+
+Not only is the resolution high but it is high enough to allow a wide range of editing and cropping without compromising greatly on final print quality.
+
+For some reason the "file size" of the images implies more compression that might be desireable. but the compression ratio listed by nikon is acceptable and the final results are MORE than acceptable.  I see VERY little "visible" different in a printed TIFF and a Printed high quality JPG. for this reason I will not be using tiff mode (takes 60 seconds a shot in that mode anyway)
+
+Another nice feature is Video clip mode.  Not only does it shoot WITH audio but it allows 60 seconds at a time instead of the normal 30 second limit most camera's have.
+
+The Rapid shot modes are nice.  3 shots a second for one second. In normal mode it will shoot as fast as you can refocus lock and press the button
+
+It has some other features that are interesting such as multishot mode to place multiple thumbnails (3fps) into one large image for stop action kind of shot.
+
+it also has a no sound 320x240 high speed mode where it shoots 30 FRAMES PER SECOND for a little over 3 seconds.  VERY cool and suprisingly useful and fun for fast moving objects.
+
+The Zoom range may seem limited at first even though it is 3x but this is because the camera starts out at such a WIDE angle.  wider in fact than anyother digicam on the market. (28mm I think) and on top of that but them make wider angle attachable lens  as well as telephoto attachments)
+
+The wide angle is very helpful when trying to frame those wider view shots.  Far more usefull than the little extra "Zoom" you would get with a normal angle range.
+
+Plus remember you can generously crop without runing print quality integrity because of the extra resolution available to you.
+
+The flash is "ok" but I will be getting myself a speedlight. (it does have an honest to goodness hot shoe) another pat on the back for nikon.
+
+Once you get used to its quirks, its use is second nature as happens with any decent camera and you just keeping raking in the astonishingly good pictures.
+
+I could NEVER go back to a lower resolution or smaller feature set camera.  Once you are spoiled like this nothing less will do !!!
+
+If you are truly into taking and getting wonderful pictures and want the ability toprint jaw dropping photographs this camera is worth every penny that it will cost you (around $700 now if you look around) and then some !!
+
+I did not even touch half the features this camer has.  It has manual EVERYTHING.  if the camera can see or touch it you can adjust and tweak it.  or set it to auto and just point and shoot (just watch where you put that finger)
+
+If they would move tha sensor. Speed up focus lock add a fucus illuminator and improve generic flash card support (the ONLY camera brand I know of that has this problem) this camera would be nothing short of perfection made real.
+
+Huge array of features and capabilities.  the muscle to back it up.  Plethora of add on accessories available for it.
+
+I honestly say I FEAR seeing there next model release since IT can only be better !!
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

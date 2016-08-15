@@ -1,0 +1,24 @@
+DOC>
+<DOCID> 19056 </DOCID>
+<PRODUCT> Digital_Cameras/250399_Olympus_Camedia_C_2020Z_Zoom_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/elec-review-699D-2A7BC4F8-3997B271-prod5 </URL>
+<TEXT>
+            Considering that my first foray into the relm of digital photography began with a Casio QV-10A, capable of taking 320x240 images (averaging about 10k per jpeg image), the Olympus C-2020Z is a quantum leap forward in resolution, functionality and all around performance. Flexible enough to shoot 640x480 up to 1600x1200 (2.1 megapixel), this camera is versatile enough to fill the needs of even the most demanding of amateur photographers.  While my digital photography needs barely scratch the surface of what this camera can do, it's nice to know that the additional features are there if I need them.
+
+Prior to owning the C-2020Z, I owned another offering by Olympus, the D-400Z.  Frankly, I was completely happy with my 400 and didn't see any reason to upgrade.  The 400 was easy to use, could record 1.3 megapixel images and came in a compact and feature ladden unit.  Then a friend of mine purchased a C-2020Z.  Anxious to show him how he had wasted money purchasing the 2020, I quickly unpackaged the unit for him and prepared it for use.
+
+Knowing what kind of battery consumption I could expect from a digital camera, I was pleasantly surprised to find out that a battery charger and 4 NiMH batteries were included in the package.  Olympus didn't cut any corners here.  The included charger is a fast charger, average time to charge 4 batteries is under 4 hours (210 minutes, according to the documentation).  Also, the supplied batteries are 1600mAH, among the highest capacity out there.  As digital cameras go, the Olympus line tends to be on the more energy efficient side of the bell curve.  My experience with the C-2020 is that it follows that trend.  Often I'm able to fill several smart media cards before having to change batteries.  Of course, the more you use the flash and the LCD, the sooner you have to change batteries.
+
+Took all of 2 minutes to have everything in place and good to go.  To expedite things, we used  garden variety alkaline batteries, as I was not willing to wait 3 1/2 hours for the batteries to charged.  Immediately, I pointed out how the 400 was superior in that there was no lens cap to misplace.  While the 400 has a sliding lens barrier that is integral to the camera body, the C-2020 has a detachable lens cap, similar to many high end professional cameras.  Aside from obvious reasons, the other reason the lens cap needs to be removed prior to taking pictures is to prevent it from obstructing the lens, which extends when the camera is powered up.  The manual states that if the lens cap is not removed, damage to the camera could result.  The plus side to this type of lens system is, you can add a teleconverter to the camera, increasing the zoom power considerably (x1.45).  Also, there is wide angle lens attachment.  So much for my &quot;lens cap&quot; argument.
+
+I snapped a couple of quick pictures and was surprised at how quick the camera was at storing images.  With the 400, unless you use burst mode, there is a considerable lag between shots.  Not terribly long, but enough to be noticed.  With the C-2020, taking consecutive pictures required much less waiting.  Also, when reviewing images stored in the camera and switching between stored images, the C-2020 was noticeable faster.  The C-2020 can also record short video clips.  I've yet to find a use for it and since it gobbles up memory, I tend to shy away from it.
+
+One thing I'm not terribly thrilled about with the C-2020 is the cheesy strap that comes with it.  This is easily remedied as there are many good aftermarket straps out there.  Also, I'd strongly recommend purchasing several sets of AA NiMH batteries and a Flash Path floppy adapter.  Downloading images through the serial interface is cumbersome to say the least.  The Flash Path adapter is a device that is the same physical form factor as a 3.5&quot; floppy disk and has a slot for accepting the smart media card.  Load the driver via the supplied CD-ROM and then all you need to do is pop the adapter into your 3.5&quot; floppy drive and transfer images over using Windows Explorer.
+
+After weighing the pros and cons, I swallowed my pride, listed my 400 for sale and bought a new C-2020.  The only regret I have is not buying the C-2020 sooner.  One final note: Now that Olympus has released the C-3030, C-2020's are available at considerably less than when they first came out.  I landed on from an on-line auction site for under $600.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

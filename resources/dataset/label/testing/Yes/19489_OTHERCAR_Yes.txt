@@ -1,0 +1,20 @@
+DOC>
+<DOCID> 19489 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Casio_QV_3000EX </PRODUCT>
+<URL> http://www.epinions.com/elec-review-7809-6F82B9F-395B4737-prod2 </URL>
+<TEXT>
+            If you haven't been living in a cave for the last ten years you no doubt have have seen the rise and subsequent proliferation of cool, gadgety digital devices replacing tried and true analog ones. This scenario is playing out in the world of point and shoot cameras, but until recently the resolution of the digital, film-less cameras could not produce pictures that could match the quality of much cheaper pro analog 35mm film cameras. All that has changed with advent 3+ Megapixel digital cameras. I now give the best of the new 3 Megapixel point and shoot cameras, the Casio QV-3000Plus. 
+
+The Casio QV-3000Plus features a 3.34 Megapixel CCD and a genuine F2.0 Canon 3X optical zoom, wide-aperture lens. This camera can take pictures of resolution as high as 2048 x 1536-pixels in high detail. It has usb(universal serial bus) connectivity which makes for much faster uploads to your pc than with traditional serial ports. Serial port connectivity is also included for older pc's that don't have usb. It comes with all the bells and whistles one would expect from top of the line digital camera like multiple camera modes, including a mode to record small video clips to storage. The 1.8&quot; LCD viewfinder is bright and crisp and the camera control software is very polished. The camera control software,(the software built into the camera that allows you to change settings and view the pictures on the LCD) is very refreshing, with 3d buttons and color unlike the vcr style setup menus of most other cameras. The camera is large enough to find all the controls comfortably without blocking the shutter or cramping your hands with extended use unlike other cameras such as the small Olympus C3030. The camera comes with connectivity software for the pc, a soft carrying case, a shoulder strap and batteries.
+
+Although all the above mentioned features are great they are not head and shoulders above the competition. What makes the Casio QV-3000Plus package compelling is the compatibility with and the bundling of the IBM Microdrive. Simply put the microdrive is tiny harddrive. It uses the Compact Flash II+ form factor that many devices currently support. The amazing thing about the drive is the incredibly large storage capacity it brings to portable digital devices. The microdrive that is bundled with the camera has a 340mb capacity. Compare that the tiny by comparison 16-32mb Smart Media of Compact Flash cards that come bundled with ALL other digital cameras. That's right, the Casio QV-3000Plus is the first camera to support this storage device. To put into perspective what an enormous advantage this is, imagine if you will a prosumer,( someone who knows does not what a cheap digital camera but can't afford the ultra highend stuff). He wants to take some high res pics with his new 3 megapixel camera, naturally at the highest resolution and detail possible. If his camera uses the small 16-32md Smart Media or Compact Flash he can only store a few pictures on the cards before he has to stop and get a new card. On the other hand the 340mb Microdrive can hold over 240 high-resolution 2048 x 1536-pixel images. For all intents and purposes you will not run of space on that drive any time soon. The drive also makes the short video recording option that many mid to high range digi-cams feature a viable option. It must also be said that IBM has recentlt announced the creation of 512mb and 1gig capacity microdrives for the fall! To put icing on the cake, the camera when recording pictures automatically creates a html photo gallery on the disk viewable by any web browser.
+
+In closing I have to say that this camera is everything you could possible want at its price range. This camera can be used by both novice and expert. Even without the microdrive it is possibly the best in its class, but with it there is no competition.
+
+<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

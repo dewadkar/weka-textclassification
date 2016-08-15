@@ -1,0 +1,21 @@
+DOC>
+<DOCID> 8777 </DOCID>
+<PRODUCT> Digital_Cameras/Kodak_mc3_Portable_Multimedia_Device_Portable_Audio </PRODUCT>
+<URL> http://www.epinions.com/content_18509500036 </URL>
+<TEXT>
+            The mc3 is an okay idea, but is almost half a product. I almost wish I could see the next version of this, because I'm sure it would be something I'd be happier with. The mc3 is a multimedia device for capturing digital stills and video and for listening to MP3 format digital music.
+  The unit is targeted at active youths for outdoor activities. The camera's resolution is 640-by-480 for still images. For QuickTime format movies, the mc3 has 320-by-240 resolution at either 10 or 20 frames per second. (Length of movies and number of stills depend on the size of the CompactFlash removable media.)
+  The mc3 is designed for low-power usage. It has a 1.6-inch reflective LCD, geared to outdoor review of images or for information display of MP3 music.
+  That�s one of the reasons why the unit -- I can�t really call it a camera -- is a missed effort. The Kodak engineers paid so much attention to power-saving designs; they�ve actually limited its usefulness. Didn�t it occur to them that perhaps shutterbugs would want to use it indoors? Well, you can�t! The low-power reflective LCD is impossible to see indoors. That�s because the LCD relies on the ambient light to illuminate the image.
+  Since there isn�t an optical viewfinder, the LCD is the only way to compose a picture.
+  Also, there�s no flash unit. All in all, this is an outdoors-only picture-taking machine. Yet, for an outdoors-intended device, it�s not really suited for that either. There�s no lens cap or weatherproofing.
+  As an MP3 player, I actually found the mc3 to be pretty capable. The LCD provides song information in a clear and concise manner, on a screen that is much nicer (if outdoors) than many MP3-only players.
+  The mc3 comes bundled with three AAA batteries,which are inserted in the oversized handgrip. This makes it lopsided when you hold it. I also wonder why a rechargeable battery wasn't built for this; they created an optional USB dock as an accessory. It would have been much cooler if this also recharged the battery as well.
+  Other bundled items include ear buds, USB cable and video- and image-editing software. The device comes in two configurations: A $229 version (with 16 Mb CompactFlash card) and a $299 version (with 64 Mb CompactFlash card). Optional accessories include a dock with USB cable, AV cable and carrying case.
+
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

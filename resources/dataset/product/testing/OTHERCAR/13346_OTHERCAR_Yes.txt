@@ -1,0 +1,73 @@
+DOC>
+<DOCID> 13346 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_FujiMXX-Fuji_MX-500 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-96-29CA04A-38E2B8C3-prod6 </URL>
+<TEXT>
+            I haven't owned that many digital cameras.  In fact, I've owned one. :)  However, I have used others.  While this camera is not perfect, it is really easy to use and takes good quality photos.
+
+I originally bought this camera because I wanted to take photos for online web auctions.  However, I've come to find many more uses for this camera than this.  Before I get too deep into this, let me go over some of the features of the camera:
+
+<b>Major Features</b>: 
+* Uses thin SmartMedia style flash card (up 16 megabytes)
+* Uses standard AA batteries (big plus).
+* Long battery life
+* Auto-open Lens cover (great feature)
+* Lightweight
+* Compact
+* Bright crisp LCD panel
+* 9 picture preview mode
+* Macro Feature (amazingly close photos)
+* Built in flash (flash is always ready!)
+* Redeye Reduction (double flash)
+* View finder
+* Digital Zoom (2x)
+* Video output (view pictures on TV)
+* Serial transfer (for downloading to PC)
+* Dual position shutter button (halfway down: focus, down: take photo)
+* Lighting compensation (tungsten, florescent 1 &amp; 2, sun)
+* Manual and Automatic exposure
+* 640x480 and 1280x1024 picture sizes
+* Tripod mount hole
+* more.. 
+
+<b>Options available:</b>
+* PCMCIA Flash memory adaptor (for copying to PC)
+* Floppy Flash memory adaptor (for copying to PC)
+
+<b>Features:</b>
+While there are even more features to this camera, the ones listed above are what make this camera worthwhile.  The camera is very simple to operate.  There is a rotating knob in the back to place the camera in the appropriate mode (view, manual photo, automatic photo, timer mode, transfer, etc). The icons on this rotating knob are decently obvious as to what they mean. Even still, it doesn't take any time at all to figure the icons out.
+
+<b>Batteries and other stuff:</b>
+The reason I purchased this camera over all the others was the resolution and quality coupled with the ability to use AA batteries.  The photos this camera produces are quite good.  Couple this with the two picture sizes makes this an excellent camera.  There are other cameras now that provide even higher resolution at probably a similar price, but may not offer all the features this one does.
+
+Fuji really packed everything I wanted into this one camera.  Other cameras provided part, but not all of these features.  For example, other cameras require the use of a lithium ion or nickel metal-hydride batteries. These batteries are generally custom and cost more money than AA batteries.  The only way to obtain these batteries is by going to the manufacturer.  I wanted a camera that, if the batteries died, I could go to any convenience mart and purchase new batteries.  Plus, in several years, custom batteries may be obsolete which means you may have to throw the camera out.  Standard batteries means you can continue to use this camera well into the future (not that you would want to when the 100000x100000 pixel cameras become popular and cheap :)
+
+<b>Macro &amp; Digital Zoom</b>
+The macro feature allows you to get very close to the subject to photograph it.  This allows you to take very close photos of small flowers, objects, toys, etc.  The macro feature allows you to get as close as 3 inches from the object (that I have tested).
+
+The digital zoom allows you to zoom in on a subject two times closer.  The digital zoom does this without horrible distortion you might expect.  The resolution maintains even when digitally zoomed.
+
+<b>Photo Quality</b>
+While most of the photos I have taken with this camera are excellent quality, there are certain times when it won't take great photos.  If you are in a very darkened room, the flash isn't always bright enough to fill. Certain types of lighting (even with lighting correction) still leave a colored cast to the photo.  Fuji offers an image processing package for free, called EZTouch, that allows you to correct the photos that may have turned out imperfect.  You can, of course, use any other photo processing packages you may have.
+
+Some photos created with this camera may look perfect on the LCD screen, but can sometimes show a yellow or red tint when copied to a PC or Mac.  You can easily correct this problem by using EZTouch or any other image processing package you may have.
+
+<b>File format</b>
+The MX-500 creates photos in a format that is slightly different than standard jpeg (I think it's exif-jpeg).  I have had troubles with Windows wanting to read this format up into some of the standard picture viewers (MS Photo or whatever it's called).  This is easily solved by using commercial image processor packages or by using EZTouch.
+
+<b>Floppy adaptor</b>
+The floppy adaptor (which is an optional product) allows you to copy files directly from the SmartMedia flash right to your PC's harddrive through the floppy drive.  It works very well, but only works on Win9x.  The software to drive this floppy adaptor will not work on WinNT (beware).  If you decide to purchase and are using NT, be sure to contact Fuji to determine if new drivers are available for the Floppy SmartMedia adaptor.  The copy process using this adaptor is a simple drag and drop process and is actually pretty fast.  I've heard that the PCMCIA adaptor is substantially faster.
+
+<b>Overall:</b>
+This camera is very well made and works quite well.  The built-in automatic retracting lens cover is very handy.  It allows you to open the cover and immediately snap without having to move the camera or your hand.  The fact that it uses standard AA batteries is a HUGE plus.  This camera may be a bit older now, but is still on top (in my book).  I haven't been shopping for too many digital cameras recently, but I know I won't be looking to buy another one for at least another year or two.
+
+Keep in mind that this is a point-and-click style camera.  It does not compare to a 35mm camera in any way.  If you are wanting the quality and control of a 35mm camera, then you need a different digital camera altogether.  However, for a point-and-click style digital camera, it's excellent.
+
+<b>Update: 10-31-2000</b>
+I have recently purchased the Fuji SmartMedia PCMCIA adaptor and can say, without a shadow of a doubt, that it's hugely faster than the floppy-style adaptor.  I don't have the model number off-hand, but I will re-edit this later with the model number.  Of course, it requires a PCMCIA slot, but definitely worth it to transfer the images off the media lightning quick.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

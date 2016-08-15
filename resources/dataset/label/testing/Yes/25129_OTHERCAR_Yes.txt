@@ -1,0 +1,62 @@
+DOC>
+<DOCID> 25129 </DOCID>
+<PRODUCT> Digital_Cameras/614803_Canon_Power_S110_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_49465101956 </URL>
+<TEXT>
+            First off...  Whoo hoo!  My 25th review!  I'm a quarter of the way to 100!  ;-p
+
+Secondly, why can I not find the S110 as a separate product when I do a search here?  The search results will return the S100 instead.  I had to actually work my way through the categories in order to find this thing.  What's up with that Epinion programmers?
+
+Anyway, on with the show!
+
+<b>Spoiled, I know.  =p</b>
+As those of you who might have read my recent review on B&H Photo (see end of this review for URL if not) might recall, I was able to convince my father to buy a new digital camera and camcorder for me as bday/holiday presents in exchange for my year old Powershot S100.  Originally I had just wanted to get one of those digital camcorders that can also take pictures but after doing my research, I decided that those types of camcorders still weren't quite mature enough to warrant not having a digital camera completely.  Plus sometimes it's just easier to have the camera around.  And for the same price as one of those combo-corders, you can get a separate dedicated camera and camcorder which is what I eventually wound up doing.
+
+<b>Show me the hardware!</b>
+The S110 body for all intents and purposes is exactly like the S100 except for the tiny round gold-colored microphone located under the flash.  Solid steel construction all around for the most part makes the camera feel sturdy and firm.  Although I have a little niggling feeling within me that Canon wimped out a little on the minor details.  Like my shutter button wobbles a bit more than usual and the plastic CF cover is a little suspect.  But it could be just my unit.  I also think the grey of the S110 is a little shinier than the S100 but since my old S100 is currently half the world away, it's hard for me to make a direct comparison at the moment.
+
+The only thing that I'm not too fond of with the steel construction and the overall small size of the camera is that it picks up fingerprints too easily.  It's definitely not something you want to be using as a murder weapon.  ;-p  Prints all over the body and even the LCD are pretty commonplace.  At least it's also relatively easy to wipe them off, 'cept for maybe prints on the LCD which you should be more careful with.
+
+I was happy to see that the LCD display for the S110 is much improved over the S100.  A lot clearer overall and when viewing darkly lit areas, color fidelity is a lot better as well.
+
+The battery charger that comes with the S110 is also better than the old one.  Physically, the S110 charger is considerably smaller and the battery is slot loaded while the S100 charger is chunkier and the battery is lightly snapped into place along one face of the charger.  The new slot-loading design is just easier to use and carry around.
+
+However, with the S110, Canon skimped on what I think should always be a mandatory accessory that comes with a camera; a case.  It doesn't have to be a full-on, padded protective case, just something that will protect the camera from scratches at least.  My S100 came with a nice leather case that fit the camera perfectly.  While it wouldn't save the camera from a hard collision with the ground, it at least looked nice and doubled as a belt clip too.  Unfortunately, Canon no longer makes this case.  So I had to pay another $14 for the PSC-100 softcase.  Which is actually a very nice case.  Made of what looks like grey suede and it fits the S110 snuggly along with having a little pouch up front that you can fit extra CF cards into, or in my case, the CF PCMCIA adapter minus its protective plastic case.  You can also loop a belt through the slot in the back.  Highly recommended.
+
+Canon also still only ships the S110 with an 8MB CF card.  C'mon Canon, get with it!  CF prices are so low these days!  At the very least you can bump the default card to 16MB!  I guess it's a good thing that currently Canon has that rebate deal where you get an extra battery, 16MB CF, and a little backpack ($100 value!  Or so they say.  More like $50 value if you ask me.).  But I still have to wait a couple of weeks to get it sent to me.  In the meantime I also bought a 128MB CF card for $40 less than what I had paid for a 48MB card a year ago.  Y'hear that Canon????  CF!!!  Cheap!!  Don't be so stingy!
+
+To round out the package, 2 interface cables and 2 software CDs are also included.  The S100 came with one or two more cables but that was due to older port compatibility.  The only cables people really need now are USB (to connect to computers) and AV (to connect to tv/video).  The included software I haven't really played around with since I'm already a Photoshop user and with MacOS X and its built-in Image Capture program, I don't need much else.  Although I'll have to go in and install PhotoStitcher soon though if I want to piece together those panoramic photos.
+
+<b>Let's Get It On!</b>
+Functionally, the S110 has some improvements over the S100 but basic operation is the same.  First, the changes that I like.
+
+When you take a picture with the S110, the picture you just took will be displayed on the LCD for 2 seconds afterwards.  This can be changed to 10 seconds through the options menu.  Although I wish there was a middle ground, like maybe 6 seconds.  Cause 2 seconds isn't really enough time to see much of anything but 10 seconds I think is a tad too long and is a drain on batteries.  But overall it's a nice feature.  The S100 sorta had this feature but I think you had to keep holding the shutter button down if you wanted it to do this after you took a picture.  The new way is more convenient.
+
+The S110 also has more selectable picture quality options.  With the S100, picture size and compression quality were combined to give you only 3 selectable options.  With the S110, Canon was finally able to separate the two, giving you 3 size options: large (1600x1200), medium (1024x768), small (640x480); and 3 compression options: superfine, fine, and normal; for a total of 9 different photo quality options.  Pretty nice if you like that much control over your camera.
+
+You can now take short movie clips with the S110 which are saved as AVI files.  The movies run at about 20 frames/second and you can take them in three sizes:  640x480 (4 second clip), 320x240 (10 second clip), or 160x120 (30 second clip).  It would've been nice if the clips didn't have a time limit to them (e.g. shoot till you run out of CF card space) but I can understand why it does.  Since the microphone is so small, it doesn't pick up sounds all that well but hey, it's a short clip from a camera, whaddaya want?  With a 128MB CF card, you can take about 113 seconds worth of clips at 640x480.  Not too bad.  And yes, the resulting AVI files can be played on any computer OS.
+
+The other new feature (at least I think it's new since I don't remember using it on the S100) is the ability to display your existing pictures in a slide show.  Kinda useful I suppose if you connect the camera to a tv/monitor but otherwise I doubt it'll be used all that often.
+
+The only new feature that I'm not particularly fond of is the new way of moving around while viewing a zoomed in picture.  Previously, you would use the left/right button to move around sections of the picture.  Once you got to the right edge, the next push of the right button would move you down a row.  Pushing left again while on the left edge would move you up a row.  Now, Canon changed it so that to move up and down while anywhere on the screen, you need to hold down the Set button and then Right to move down or Left to move up.  While theoretically this is supposed to make it easier to navigate around in a zoomed picture, it actually is a little more inconvenient because what used to be a quick one thumb action is now a two finger operation.  I mean I understand why they decided to change it but the original method moved pretty quickly to begin with and I'm not quite certain that this new method is any better.  At least it's not for me.
+
+<b>And da winner is...</b>
+Well, for the average casual photographer, I'm not quite convinced that the S110 is a better value than the S100.  The S100 retails for about $299 or less these days while the S110 is around $399.  So for the extra $100, you get the ability to shoot short, very short, or really short flicks, improved optics, and more picture quality options.  Well, ok, _maybe_ it's worth it but just barely.  But really, if you don't think you're gonna be using the movie option much, then you should seriously consider getting the S100 instead.  The picture quality you can get from it is sufficient for most uses.
+
+But, taken as a whole, the S110 is definitely a very impressive little camera.  It's size and weight make it ultimately portable and it's quite easy to take quality pictures with it even if you're not a pro.  CF cards are getting cheaper by the day and currently have the highest available capacity if needed.  So you can't really go wrong with either model.
+
+
+<i>My earlier review on the Canon Powershot S100:</i>
+<a href='/elec-review-48E6-25EDD06C-3A1E7E31-prod5'>http://www.epinions.com/elec-review-48E6-25EDD06C-3A1E7E31-prod5</a>
+
+<i>One of the most reliable online electronics retailers:</i>
+<a href='/content_48661958276'>http://www.epinions.com/content_48661958276</a>
+
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

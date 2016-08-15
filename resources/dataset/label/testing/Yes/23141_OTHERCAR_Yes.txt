@@ -1,0 +1,27 @@
+DOC>
+<DOCID> 23141 </DOCID>
+<PRODUCT> Digital_Cameras/Fuji_FinePix_F401_Digital_Camera_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_74858466948 </URL>
+<TEXT>
+            This is my second digital camera and my second Fuji also.
+I used to own the FinePix 2600Zoom and loved it but somehow got tempted to upgrade to the new F401 which is still hard to get at the USA (I live in Europe and for some reason Fujifilm chose to send the first batch to this region before the US)
+
+Well, I must first say that the F401 is very well built. It is very small and can easily fit inside a shirt pocket. It is basically a 2.11 Megapixel sensor SuperCCD with X3 optical zoom, 1.5" LCD and an optical viewfinder. Base ISO is 200 and there are also 400, 800 and 1600 to choose from (the latter two are only available at 1 megapixel resolutions). The camera can produce images at 4 megapixels with interpolation done inside the SuperCCD - so it's not really native 4 MP but still gives you a lot of freedom in cropping and printing on larger than 4 X 6 papers - previous SuperCCD generations were rated by reviewers as equivalent to about X 1.33 of their sensor native resolution so that brings the F401 to just about the level of 3MP cameras.
+Controls are nicely laid out and menus are user-friendly. It's a fast digicam with quick responses and slow shutter-lag. Images are stored on Smartmedia cards which are common and a 16MB card is supplied with the camera. Larger capacity cards can be bought up to 128MB which can store 81 images at the highest-resolution (interpolated 4MP) and 319 images with 2MP.
+Battery supplied is Lithium-Ion which is very slim but lasts a good 200 pictures with the LCD on and using flash 50% of the time (that what Fuji says but from what I have seen so far the battery lasts quite a long time - more than a set of 1800mAh Ni-MH would last). USB connection is straight forward and setup of drivers and software took less than 3 minutes and I was up and downloading images to my Windows 98 easily (98, ME, 2000 and XP are supported and also Mac OS). Software package is very basic and only for Windows you can use the cam for video conferencing via Netmeeting - nice gimmick.
+The supplied AC adapter charges the battery inside the camera and doubles as an alternative power source so camera won't lose power during communication with the PC (which might happen if you are running it on the battery alone).
+Image quality is OK but I still don't feel comfortable enough to give my opinion on this. Compared to my previous Fuji 2600Zoom I find the images a bit soft but it's nothing that cannot be solved with photo editing sofware (Unsharp mask filter). I loved the idea of using ISO 200 or 400 for indoors shots - avoiding the horrible flash effect - but was disappointed to discover that image quality was not good, noise was showing and eventually I started using the flash and got better results.
+Incandescent White balance is not good - but this is common with most digicams at that range - I used AUTO setting and got better results for some reason.
+There is a docking station (cradle) that is not included (optional accessory). It is good for both connecting to USB port and charging the battery easily without the need to mess with cables - The cradle is not mandatory and USB and AC cables can connect directly to camera or to optional docking station.
+
+My final verdict ? Wait for coming reviews at www.dpreview.com or www.imaging-resource.com and see what they have to say about this camera and judge for yourself - I am more than curious to hear what they think of its image quality - maybe they'll have interesting stuff to say.
+
+Take time and Compare the F401 to other cameras at that price range - I only found 2 places that have them for sale which are B&H at around $450 and "A1 4 Electronics" at $480 - at that price range you can find many good 3 Megapixel cameras (Canon S30 for example) so it might be worthwhile to consider them as you keep in mind that the F401 is only a 2.11 Megapixel camera.
+
+
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

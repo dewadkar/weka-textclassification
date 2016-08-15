@@ -1,0 +1,38 @@
+DOC>
+<DOCID> 32957 </DOCID>
+<PRODUCT> Digital_Cameras/_SIPIX_SC_2100__616532 </PRODUCT>
+<URL> http://www.epinions.com/content_92639825540 </URL>
+<TEXT>
+            I found the sigh...excuse me...SiPix 2100 camera last summer at Fry's.  For about $120, I figured I could give it a try for the vacation season since it had a 2.1 mega pixel resolution (if you go to my website listed in my profile, you can see samples from our trip to Yellowstone).
+
+First the good things...
+
+Yes, you get incredibly good looking pictures for such a cheap camera.  Three resolution choices are available.  Low (which creates a JPEG), Medium (creates in BMP format), or High (ends up being a TIFF).  With a 128mb card (optional extra, the camera comes with a 16mb) I can leave it in high resolution mode and have enough room for hundreds of pictures over our vacation.
+
+The instruction book covers every feature in about 4 easy to read pages.  It's very easy to use after going through that.  The LCD display puts up instructions as you go along and the helpful icons on the top of the camera are pretty intuitive such as the trash can button to delete pictures or the lightning bolt indicating flash.
+
+A tripod mount and a timer allows you to join in the picture pretty easily.
+
+The TWAIN driver works with every imaging program I've thrown at it plus it comes with a pretty handy imaging/download program itself. I usually just download straight into the Kodak imaging program that came with my Windows 98 Plus! CD.  Once downloaded, images are easy to manipulate to take care of bad lighting, etc. 
+
+Sounds good, right?  Ok, let's not forget those cons, starting with the most annoying...
+
+The battery door!  Yes, it is that bad.  The battery door doesn't just come loose, it's more like projectile vomiting of the batteries.  You cannot go six pictures without the camera spontaneously shooting out all four batteries.  Of course when this happens, then the AA batteries start rolling into the very hard to reach space around you.  
+
+The company website even mentions this on the camera's FAQ page.  Their solution?  Make sure the door's closed good and tight!  Doesn't matter, still happens.
+
+The shutter takes about 5 seconds to activate after pressing the button.  Mind you, you have to constantly press the button for this amount of time...don't let go!  Many times good samaritans offer to take our picture for us and what we get is a picture of the helpful soul's face as they wonder why the camera didn't go off and turn it around to see what's wrong.
+
+Speaking of the shutter, many times when pressing the button, it just freezes and nothing short of removing the batteries (easy to do when they just shoot out on their own) will fix it.
+
+The camera's also a bit bulky.
+
+I've learned to live with most of the 2100's quirks but to tell the truth I won't be sad to replace it.  My wife hates it and refuses to even touch the thing.  She'd rather use the trusty old Nikon SLR and just have the processor put the images on a CD.
+
+With it's price, the SiPix 2100 looks too good to be true and I guess it is.
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

@@ -1,0 +1,94 @@
+DOC>
+<DOCID> 17658 </DOCID>
+<PRODUCT> Digital_Cameras/Casio_Exilim_EX_S2_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_89388650116 </URL>
+<TEXT>
+            I originally came across the Exilim EX-S2/M2 when I was looking for tiny pocket digicams. The Exilim with its slim size immediately appealed to me -- it was just what I was looking for. Cameras like the Canon IXUS V3 are tiny, but are still bulky enough that they can't fit in a pants pocket without unsightly bulges.
+
+There are two different 2 Megapixel Exilim cameras, the EX-M2 which has MP3 and audio recording support, and the EX-S2 which doesn't have these features. This review will be about the EX-S2. Apart from the audio and MP3 features, both cameras have identical feature sets.
+
+http://exilim.casio.com/
+
+<b>Ergonomics and construction</b>
+
+The Exilim is the smallest fully functional camera I have ever seen, and I believe it probably holds the record for smallest 2 Megapixel digicam with LCD and flash -- other cameras may be shorter and less wide, but they are also fatter and hence larger by volume. The EX-S2 is literally the size of a credit card, and only 11mm thick, a perfect fit for a pants or shirt pocket. I think this is probably the optimum size for a tiny camera like this -- any smaller, and it would be exceedingly hard to hold still when taking snapshots.
+
+There is no built-in lens cover, so I keep my camera in a protective cloth bag, but I would recommend getting a proper case for it ASAP. 
+
+The weight is minimal, 88g when empty, so it's about as light as your average small mobile phone
+
+The Exilim is also stylish and trendy. With its brushed stainless-steel body, you'll definitely get a few curious looks and questions when you take it out for some snapshots.
+
+
+<b>Bundled software and accessories</b>
+
+Frankly speaking, I didn't bother installing the included software CD. There are plenty of other Exilim reviews on the web that you can look up if you're interested in that.
+
+The Exilim camera comes with a stylish cradle that you plug it into; the cradle in turn plugs into a powerpoint and a USB port on your computer. Once plugged in, the computer recognises the Exilim as a USB storage device, so you can access the JPEG images and AVI movies as if it was a regular disk drive. I generally copy the files over to my hard drive and then edit/resize/rotate them with Adobe Photoshop if necessary.
+
+
+<b>Startup/shutdown and shutter button response times</b>
+
+Startup time is very quick on this camera, I estimate it to take no longer than 2 seconds from the moment you press the ON button to the moment you can take a picture. 
+
+Shutter button response is also very quick, it's pretty much instantaneous -- the moment you press the button, the picture is taken. Because there is no autofocus for the camera to fiddle with, there is no 2-stage button either, and shutter lag is minimised.
+
+Unfortunately one particular button placement is very poor -- the ON/OFF switch is a small button located at the top far right of the camera, where one would normally expect the shutter release button (the actual shutter release is a bigger button a little further to the left). As a consequence, those unfamiliar with the camera will often find themselves turning the thing off when they want to take a picture! This is something you need to keep in mind when you ask someone to take a picture for you.
+
+
+<b>Picture quality</b>
+
+Picture quality on the Exilim is average, as is to be expected since it uses a fixed focus lens. In fact, the lens is so tiny (pinhole sized) that it's remarkable it can capture a 2 Megapixel image at all! But it does all this, and does it pretty well. Bear in mind though, that the images will not be as sharp as those from an autofocus camera. For most purposes though, it is sufficient. 
+
+When resized to a web-ready resolution such as 1024x768 or 800x600, the images generally look great. And standard sized 4x6" digital photo prints ordered from Kodak come out crisp and clear. Enlargements would probably be a different story I suspect, but that's true of any camera with only a 2 Megapixel CCD.
+
+
+<b>Shutter speeds</b>
+
+Unfortunately the Exilim EX-S2/M2 has a fairly slow shutter speed, which means that it is prone to camera shake. You need to have a steady hand in order to ensure sharp pictures, especially in low light of course. In daylight this isn't much of a problem as shutter speeds will be fast, but in party situations at night this is something to watch out for. When you ask someone else to take a picture for you, remember to get them to keep the camera still!
+
+
+<b>Camera features</b>
+
+The Exilim EX-S2 has 3 main picture taking modes: regular, movie or "Best Shot" (BS). Movie mode will allow you to capture up to 30seconds of 320x240 continuous video footage (without sound, on the EX-S2 model) in one go. The framerate is pretty low, about 10-15fps, but it's enough to get a feel for a place or person, which is probably what you'll be using the movie mode for. You can only record in 30sec blocks no matter how big your SD/MMC storage card is, but you can record as many movies as you can fit.
+
+The BS feature is an interesting tidbit common to most Casio digital cameras. You can choose from 6 different BS modes: Portrait, Scenery, Retro, Night Scene, Twilight, Monochrome. Each mode applies different filters to optimise the picture for a particular situation... e.g. Portrait mode uses "color enhancement to enhance flesh tones" and Retro uses "low contrast and the sepia color filter".
+
+Most of the time, you'll probably be using plain vanilla regular shot mode though. The Exilim features red-eye reduction (it basically flashes twice instead of once) as well as 10second self-timer -- though the usefulness of this is reduced as there is no tripod socket on the camera. It's a pity, because a tripod mount would've been an excellent feature seeing as the lens speed is so slow (F3.2).
+
+The flash is quite powerful for such a small camera, but its range is quite limited: I'd say no more than 2-3m, which is usually sufficient for most people/portrait situations.
+
+You can also manually change the white balance and EV shift settings, or allow the camera to set these automatically.
+
+The Exilim has 4X digital zoom, but as usual that degrades the image quality so much that it's not even worth contemplating. There is no optical zoom, which is to be expected in a camera of such tiny size.
+
+<b>Night and low-light photography</b>
+
+Unfortunately you can't set the shutter speeds manually on this camera, so very long exposure shots in low light aren't possible... "Night Scene" BS mode is pretty much equivalent to regular shot mode with flash turned off, and often the picture turns out quite blurry due to the unavoidable minute camera movement during the relatively lengthy exposure -- this problem is compounded by the lack of a tripod mounting. You can take pictures of city lights for example, but the camera isn't sensitive enough to capture the dark shadowy background details and so on -- you'll just see solid black instead.
+
+Low-light performance with the Exilim is average, in my opinion. In very dimly lit restaurants/clubs/parties, make sure you can get up close for group shots so that the flash can reach. Otherwise you may end up with grainy and blurry images, but in my judgment the Exilim is no better or worse in this regard than most other typical tiny cameras (including film cameras).
+
+<b>LCD</b>
+
+The 1.6in LCD screen is very sharp and bright, and is usable in all but the brighest sunlight. The viewfinder is perfectly adequate, but most of the time you'll want to use the LCD to position your shot, because it gives you a better indication/preview of how your shot will turn out.
+
+Unfortunately there is no AV out socket, so you can't hook up the Exilim to your TV... but in such a small camera, compromises have to be made, right?
+
+<b>The Exilim in action</b>
+
+I carry this camera with me everywhere, as I'm the kind of person who likes to take pics of interesting/unusual things. The Exilim is truly the first camera that has let me do this. There's nothing more annoying than missing a great once-in-a-lifetime photo op because you left your regular bulky and heavy camera at home. 
+
+To sum it up, this is one of those cameras that is great to have if you already own an expensive, high-quality film or digital camera for special occasions. The Exilim is a great compact 2nd camera that you can take with you on small trips or extended holidays when you're just going for casual snapshots, not professional quality pics that you intend to enlarge and print out.
+
+If you intend to buy the Exilim EX-S2/M2 as your only digital camera, I would probably ask you to think about your needs carefully. If you take photos casually and for fun and games, then by all means go for it. 
+
+But if you intend to specifically take high quality photos of special occasions and want to keep them for posterity, I would suggest that this is a role the Exilim was not designed for. You would be better off going for an all-round camera like the Canon IXUS V2 or V3 -- bigger, heavier and more expensive, but also more versatile (and with the all-important optical zoom). When it comes to cameras as tiny as the Exilims, it's all about compromises really.
+
+Myself, I'm more than happy with the Exilim EX-S2. I'm an amateur photographer who knows a thing or two, and it fits my needs perfectly. I intend to buy a 3 or 4 Megapixel digicam further down the track, but for the time being, the Exilim serves me very well.
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,139 @@
+DOC>
+<DOCID> 34575 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Fuji_Finepix_A210_Zoom_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_122371346052 </URL>
+<TEXT>
+            I&#146ve never owned a digital camera before. Initially, I chose the <i>Fujifilm Finepix A210</i>  because it was on sale for $100 less, it was compact, had a sliding cover over the zoom lens (no more missing lens cap), I liked the style, and it had <i>3.2 mega pixels</i>. After getting the camera, I found that it had so much more to offer.
+
+The other reason I wanted a digital camera, is that I live long distance from family and friends, and we communicate via the internet and email. The fact that I could take a picture and send it immediately, was not only appealing to me, but so convenient. The old days of taking a whole roll of film, over a period of time, then taking it to be developed and then sending the picture long distance are gone. This society likes immediate gratification, and I guess I agree. 
+
+The other reason I decided upon a Fuji product, was that I use to use Fuji Film in my regular camera and the pictures were great. So it doesn&#146t surprise me that Fuji would produce such a quality camera with quality output.
+  
+<b>Suggested Mega pixels for different uses:</b> If you don&#146t know what a mega pixel is or how important, this will help you understand and make your choice when purchasing a digital camera. First, you should determine what you will be using your camera to do, and buy accordingly.
+
+<b>*1 mega pixel minimum</b> - If you are only going to use the camera for sending pictures on the internet, or storing them on your computer
+<b>*2.2 mega pixel minimum</b> - For print-based photos. Good place to start. 
+<b>*3 mega pixels or more</b> - If you want to blow up pictures to 8x10 or larger, or want professional-quality resolution for a 4x6 and 5x7 photo
+
+<b>Approximate # pictures you can take:</b>
+
+<b>2 mega pixels:</b>
+*17 with (16mb memory)
+*35 with (32mb)
+*71 with (64mb)
+*142 with(128mb)
+*284 with(256mb)
+*568 with(512mb)
+
+<b>3 mega pixels</b>
+*13 with (16mb memory)
+*26 with (32mb)
+*53 with (64mb)
+*106 with(128mb)
+*213 with (256mb)
+*426 with (512mb)
+
+<b>Note:</b> As you can see from the above information, the higher the mega pixel you buy, the better the quality of picture, but you will also need more memory to have a higher capacity of pictures you can shoot. Higher is much better though.
+
+<b>How to Choose Memory:</b>
+
+It&#146s a good idea to buy as much memory as you can initially. It may cost more, but not as much as adding it later, plus this will prevent the hassle of having to change cards in the middle of a shoot and losing the moment.
+
+The memory cards are made by a variety of manufacturers and come in different sizes. Most memory cards are not compatible with each other, so it&#146s important to check your manual to find out what type of memory your camera uses (the A210 uses the <b>newer xD Memory</b> developed by Fuji and Olympus. The camera comes with only 16mb (DPC-16), so you will definitely want to buy more initially in most cases). 
+
+See my review on xD Memory at: <a href="/content_127682317956">http://www.epinions.com/content_127682317956</a>
+
+<b>Comparing the 6 Types of Memory:</b>
+
+&#149<i>Compact Flash(CF)</i> &#150 oldest type, popular and available in sizes up to 4 GB.
+&#149<i>Memory Stick(MS)</i> &#150 available in sizes 32mb up to 256mb.
+&#149<i>Security Digital(SD)& Multimedia (MMC)</i> &#150 these two are very similar and sometimes compatible with each other. The main difference is that SD cards allow copyright protection. SD is available in sizes up to 512mb and MMC up to 128mb.
+&#149<i>xD Memory</i> &#150 newest memory and capacity will get larger. It&#146s available in sizes 32mb up to 512mb.
+&#149<i>Smart Media(SM)</i> &#150 cards available in sizes between 2mb up to 128mb and used by only a few digital camera manufacturers. So don&#146t expect this to be developed much in the future
+
+<b>Items that come in the box with the Camera:</b>
+
+1)<i>16mb xD Picture card</i> (see information on Memory)
+2)<i>USB interface set</i> (CD Rom software, USB cable 1.0 (2.0 is faster, but 1.0 is fine) 
+3)<i>Quick Start Guide</i>
+4)<i>Video Cable</i>
+5)<i>Wrist Strap</i>
+6)<i>2 AA Alkaline batteries</i> (suggest purchasing optional rechargeable NH-10 batteries)
+7)<i>Cradle Adapter</i> (to be used with Optional cradle available)
+8)<i>Software:</i> Apple QT 5,Finepix Viewer 4,& Image Mixer VCD (creates an album).
+
+<b>Other Features I Liked:</b>
+
+<i>Zoom Feature</i> &#150 I like to take close up shots, so this was an important feature for me. There are two types, the optical and digital zooms. The <i>optical zoom</i> is what you would find on a regular camera (brings subject closer without having to get closer to the subject). This type doesn&#146t lower your resolution because it uses lenses to magnify the picture. The <i>digital zoom</i> takes an existing picture and enlarges it. This type lowers your effective picture resolution because it magnifies the pixels. 
+
+So if you want maximum resolution, use the digital zoom as little as possible. Using 3x optical zoom and 2x digital zoom is a good starting point. For professional use, opt for a lens that is renowned for its quality. This A210 has 3x Fujinon Optical zoom with auto-focus and 3.2x Digital Zoom. Many digital cameras have both types of zoom.
+
+<i>Automatic Flash</i> - This camera also has a built in automatic flash, which I also like. This feature gets rid of the decision you would have to make as to whether or not to use a flash. It also has red-eye reduction. 
+
+<i>USB Connection</i> - One of the neatest things about this little camera, is that it uses a USB cable connection to your computer for downloading pictures. The program installs an icon on your desktop for easy access to the pix viewer program. All you do is open the program and download your pictures to it.
+
+<i>Self-Timer</i> &#150 This is nice so that you can be in the picture also. You can buy a tripod to use with this feature.
+
+There are many other features, but these were the ones that I particularly liked.
+
+<b>Steps to Downloading Pictures to PC from Camera:</b> (make sure program software is installed before you start this process)
+
+1)Press the <i>Menu/Ok</i> button (this button also confirms changes) and then use the scroll left/right keys to the right of the menu button to move to <i>Option</i>.
+2)Press the up/down scroll keys to set the camera to <i>USB Mode</i>.
+3)Then switch the camera off and plug the USB cable into either of your USB ports on the computer (Fuji suggests you not use any extensions to the USB cable or the program may not work properly), then into the camera USB port.
+4)Open the <i>Fujipix Viewer program</i> which is installed on the computer desktop.
+5)Turn on the camera by sliding the power button to right.
+6)You will see a list of choices on your computer screen asking you what you want to do. The first one is the one I choose which says to save it to a folder on the computer. I just use the default and save them in the <i>My Pictures folder</i>. The pictures will then download to the picture viewer program. 
+
+<b>Note:</b> It is recommended that you use the AC Power Adapter (Optional accessory) when connecting to the computer, so if power goes out the transmission isn&#146t interrupted. It might be good if you live in an area where the power goes out a lot.
+
+<b>Using Viewer Program:</b>
+
+Once the pictures are in the viewer program, you will see options on the left of your screen: <i>View, Delete, Print, Send by Email, in addition to others.</i> The program is very user friendly and helps you manage your pictures. You can also create an album if you want to use the Image Mixer VCD.
+
+<b>Optional Accessories and Approximate Prices:(USD)</b>
+
+*$80 - Accessory Starter Kit  (includes the case, software, charger, batteries, and tripod)
+*$37 - AC-3V AC Adapter	
+*PC Card Adapter DPC-AD   
+*$52 - Compact Flash Card Adapter DPC-CF  
+*Image Memory Card Reader DPC-R1
+*$100 - Picture Cradle &#150 with NH-10 Ni-MH battery & AC-3VW AC Power Adapter *NH-10 Ni-MH Rechargeable battery
+*$14 - Soft Case SC-FX26  
+*$57 - Fujifilm 128mb xd Picture card  
+*$103 - Fujifilm 256mb xd Picture card 
+
+The <b>Universal Picture Cradle (CP-FX A10)</b> is a nice accessory if you want convenience in downloading pictures to your computer, for power recharging, for use as a platform when connecting to your television, and when using PC-Cam mode (Videoconferencing). This comes bundled with a USB cable, NiMH battery and AC power adapter. All you do is sit your camera in the cradle. 
+
+This cradle is a new product of Fuji and is compatible with <i>only</i> the A series digital cameras (A205, A210 and A310). This cradle isn&#146t necessary to use the camera, but if you want convenience, you would want to purchase it. This cradle won&#146t work without the <i>adapter</i> you receive in your box when you purchase the camera, so don&#146t misplace this important part. I believe each of the different Fuji models uses a different adapter which works with this cradle.
+
+<b>Connecting Camera to your Television:</b>
+
+You can also show your pictures, or short movies (no sound) on your television set by connecting your camera to it. Here are the steps:
+
+1)Switch off camera and television.
+2)Plug video cable (comes with camera) into <i>Video Out</i> socket on camera.
+3)Plug other end of cable into the <i>Video Input</i> socket on the television.
+4)Switch camera and television on and playback the images just as you would on the camera.
+
+<b>PC Cam Mode &#150 Videoconferencing:</b>
+
+I don&#146t plan on using this feature, but it would allow me to video conference over the internet. If this feature is important to you, be sure to ask about its limitations or compatibility issues because there are some. I&#146ve also read that you may need Fuji Internet service to use this feature. Not sure about this, so check it out. 
+
+Also, if you use Windows XP (like I do) and you check the box <i>&#147protect my computer and network by limiting or preventing access to this computer from the internet&#148</i> in the internet connection firewall settings, video conferencing can&#146t be used. Also, if your internet connection is via a router or LAN (like me), you can&#146t use this feature either.
+
+<b>Summary:</b>
+
+I have a friend who owns an older digital camera that she purchased for approx. $800 CAD in 1997. In comparing the A210 with this older digital camera, the differences are remarkable. The newer cameras are so much smaller, cost less, produce a better quality picture, and have so many more features and accessories available. Thankfully, technology seems to always improve over time, and reduces the size of products along with the cost.
+
+I just love this compact digital camera and very impressed with all the features it provides. I&#146m sure there are some features I will never use, but it has the main ones I looked for when making my purchase. 
+
+If you own a computer, and you keep in contact with family and friends long distance via email, a digital camera is the only way to go. You will enjoy this camera, and will wonder how you ever did without it!
+
+Go to following URL for an Interactive Tour of camera  http://www.staples.com/Catalog/Browse/Sku.asp?PageType=1&Sku=515543
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

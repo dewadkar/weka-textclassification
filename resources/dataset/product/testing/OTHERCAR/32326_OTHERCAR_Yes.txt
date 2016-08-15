@@ -1,0 +1,65 @@
+DOC>
+<DOCID> 32326 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Kodak_EZ200 </PRODUCT>
+<URL> http://www.epinions.com/content_25570414212 </URL>
+<TEXT>
+            <b>Introduction</b>
+I'm not qualified to rate photography products, really, other than being the proud new owner of a Kodak EZ200.  I don't know much at all about digital imaging, other than how to make images web-ready and what seems pleasing to my epinionated eye.
+
+Having already written a review on the Sony Mavice FD-75, I guess I had to write this one because I don't own that one and I do own the Kodak. I borrowed the Sony from my father-in-law about 100 times since our first baby was born last June and I've taken hundreds of photos with it.
+
+<b>The Price is Right</b>
+He bought that camera last year for $499.00 and my wife bought this one two weeks ago for $89.00.  I'm having trouble seeing the difference in image quality.  They both max out at 640x480 for resolution, but the Sony boasts the preview screen, the floppy disk medium, and a flash.  
+
+Trading off, the Kodak offers a split-personality disorder (or is it dissociative disorder now--we don't know), playing as a webcam when asked.  For that, we sacrifice flash, floppy, preview screen, and save $300.00.  Choices, choices.
+
+
+<i>(Here's a quick compare within a compare; the image quality and frame rate from the Kodak as a webcam is much better than the Creative Video Blaster I have, which is a two-year-old model).</i>  
+
+<b>Where do you want to go today?</b>
+It depends on what you want to do, as usual.  If you're going on a trip and you don't have a laptop (or some means of loading information onto a medium from the Kodak's USB interface) then you may want to consider an alternative.  
+
+<i>Then again, how many pictures will you take on an average outing?</i>
+
+The Kodak offers to store 4MB of images.  That comes out to about <b>64</b> 640x480 images, <b>128</b> 320x240 images (or "web quality" images), or <b>6</b> 10-second video clips at 320x240, and it would take some math to figure out which combinations would equate to 4MB, but you get the picture (forgive me).
+
+In burst mode, the camera takes 5 pictures at 320x240 within one second; great for compare/contrast motion photos or just sports-type action shots.
+
+All of your pictures, of course, need to be in adequate lighting since the EZ200 doesn't come with a flash.  And there is no zoom or manual focus controls, so you're at the mercy of the camera's focusing decision and your physical distance from the subject.  
+
+If you're going to base your decision strictly on image quality (and you don't need flash or high volume storage) then you want the EZ200.
+
+The Sony uses a NiCd battery, rechargeable but the Kodak uses 4 "AAA" batteries.  I've had this camera for two weeks, as stated, and I've taken over 250 photos with it, and have yet to get a low battery warning.
+
+<b>Summary and Closing Remarks</b>
+My results have been great with this little camera so far.  Clear pictures, good use of any available lighting, and smart focusing technology have earned my respect. I see no difference between the best quality that the Sony offers vs. the best quality that the Kodak offers in daylight. 
+
+I haven't used the video cam technology on the web yet, but I've watched the video live on my monitor, and it moves smoothly and handles focusing well.
+
+Also, remember that to fill up the storage on the Kodak would be the same as filling up three floppy disks with images on the Sony.  You don't need anything else for a picnic, camping trip, or casual outing--the Kodak will do you fine.
+
+The software works great, too, especially considering that all you have to do is plug the camera in and push the shutter button down.  You then get a choice of which program to open the photos with (I choose the provided ArcSoft PhotoImpression 2000 simply because it handles thumbnails easier than Photoshop 6.0 or any of the other six photo programs that I have).  After viewing the thumbnails, you can decide which to save/delete and then make an album (all of this is very quick too, instead of "open" this and "save" that which just gets really annoying).
+
+Above all of that, there is something attractive to me about knowing that if a shark eats my camera, I'm only out $89.00.  If that did happen, I'd be right back at Wal-Mart picking up a new EZ200.
+
+For all the information you could possibly want on the EZ200, visit http://www.kodak.com/US/en/digital/cameras/ez200/
+
+For the Sony Mavica, see http://64.14.40.97/explore_products/productinfo.jsp
+
+Happy shooting!
+
+UPDATE: 6-8-01
+The EZ200 continues to surprise me.  It's supposed to only store 64 HQ (High-Quality) images, but I had 70 HQ images on in yesterday and you can check how much memory is left by holding the shutter button halfway down.  It still showed room for 41 more!  I guess lighting and shadows, etc., must have an impact on how large the image is when stored digitally.  
+
+What a camera!  I have been noticing also, however, that many of the pics I've taken show "jagged" edges, but those are easily done away with by using the provided software to "smooth" and they look better yet when you apply a "soft light" filter.
+
+UPDATE: 7-1-01...can you believe that I <i>still</i> haven't seen the low battery warning yet?  Taken a thousand or more photos with this camera and the batteries just, umm, keep on going.
+
+Thanks for reading!
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

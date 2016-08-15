@@ -1,0 +1,49 @@
+DOC>
+<DOCID> 29641 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_EOS_D30 </PRODUCT>
+<URL> http://www.epinions.com/content_52237078148 </URL>
+<TEXT>
+            I've owned a Canon G1 since June of 2001 (and it's a great camera, see my review of it). I loved it, but was looking for something with a little more oomph and flexibility. I started reading some of the online digital photography boards such as http://www.dpreview.com and looking around at other cameras. One camera kept popping out time and time again as king of the hill - the Canon D30.
+
+As of January 2002 when I am writing this, the D30 is one of few digital SLRs available; of that set, it is one of the few that allow interchangeable lenses that are fully compatible with the manufacturer's 35mm lenses (those that don't are usually called ZLR or zoom lens reflex). I'd owned the G1 for several months and loved what I could do with it, and had resigned myself to live with its limitations (limited zoom power built in plus the external telephotos available are not great, some focusing problems, no grip to name a few) but found myself reading time and time again about how the D30 entranced people with its picture quality and features. The hefty price tag of the D30 ($2500) plus the G1 being "good enough" stopped me from taking the plunge, however.
+
+In October of 2001, a co-worker bought the D30 and showed me some pictures of his vacation, prompting me to start thinking about it again. Over the last few months, I'd been researching what it would take to go to the next level professionally, so the D30 had been on the back of my mind for a while. I discussed it with my husband and we eventually came to the conclusion that the D30 would be a hobby we could share together, as he has been interested in photography since he was a kid (his mom is an avid photographer as well) and hadn't owned an SLR in years. We went to a local Cameras West (part of Kits Cameras) and spent several hours playing around with the D30. Although we could find it cheaper online, for this large of a purchase, we wanted to have a brick and mortar store to go to. Additionally, Canon had a deal at the time that you could get a 1 gig microdrive and extra battery for the D30 free, which was worth about $450.
+
+So, we took the plunge and made a nice commission for the happy salesman at CW. We also purchased Canon's 28-135 IS lens. We already had batteries and compact flash cards from the G1 (the D30 and G1 share the same battery, which is an excellent one with long lasting power). We later purchased two additional lenses from my favorite camera website (http://www.canogacameras.com), the Canon 75-300mm IS and a 17-35mm Sigma. 
+
+Due to the 1.6 multiplier caused by the size and shape of the CCD, this ends up giving you great zoom power (the 75-300 in my unscientific tests has shown to take the sharpest pictures of the three), and minimal wide angle possibilities. The 17-35 works great for us however, and we went with Sigma's lens rather than spending three times as much on the similar Canon "L" series lens.
+
+Field Test
+I am no professional (yet!), but I took the D30 to a friend's evening soccer game to get some practice with action photography. It was pitch black except for the bright lights around the field, but if I wanted a picture with anything close to normal exposure, I couldn't use a shutter speed faster than 1/30. I increased the ISO to 1600, set the auto-focus mode to AI servo (i.e. keep re-focusing, intended for shooting moving subjects), a stop overexposed, and ran in shutter priority mode with a 1/125 speed.
+
+Every photo I took showed up very underexposed on the LCD, but there wasn't much I could do about that. I just crossed my fingers, hoping I was getting one or two good shots out of the bunch. I ended up taking about 200 shots and that evening, culled those down to 10 keepers, and 50 "interesting to look at"s that I could show to the team. For the 10 keepers I spent a fair amount of time in photoshop tweaking them, removing noise, lightening where I could, etc. I ended up printing some 5x7s for my friends on my Epson 1280, and was pretty happy with the quality overall. Considering the harsh conditions of quick shutter speed, low light and high ISO, I thought this was quite impressive!
+
+I've taken my D30 with me on several vacations as well, to Europe, France and driving around Washington state. I have so many amazing and memorable pictures that will last me a lifetime. Boy am I glad I upgraded.
+
+Positives:
+* Great pictures. Do I even need to say this? Just look on the web and you can find many web pages of side by side comparisons of printouts from the D30 compared to the same shot by a 35mm SLR, and the D30's were equal to (or better in some cases) the 35mm prints, even up to large sizes (using a program such as Genuine Fractals to blow up or increase resolution as necessary).
+* Supports compact flash type II, meaning that you can use a microdrive. I currently use a 1 gig microdrive in the camera, and have yet to fill it up.
+* The wide variety of lenses available from Canon and other manufacturers give you a wide range of shooting options.
+* Double external battery charger in the box. With the G1 I had to charge the battery in camera which was annoying - I had multiple batteries and wanted to charge one while using the G1 but was unable to do that. It's a nice touch of Canon to ship this in the box (And since the G1 and D30 share the same battery type, I can use the charger to charge the G1's batteries too (if I ever pick it up again!))
+* The ability to shoot in RAW, a lossless format developed by Canon (and supported by both the G1 and D30). The RAW images must then be converted to JPEG or TIFF or your image format of choice on your computer, but it's nice to always have that full fidelity original available for later printing.
+* Histogram on the preview. I missed this in the G1. Using the histogram I can see at a glance if my picture is over or underexposed and if I need to recompose. Not possible with a 35mm!
+* Depth of field preview.
+* No in-camera sharpening. Other cameras apply sharpening in the body by default, resulting in sharper pictures out of the camera, but also possibly changing the picture in a way you didn't intend. The images from the D30 come out a bit 'soft', but for me that's not a problem as any 'keepers' are worked on in photoshop before being released to web, emailed or printed anyway.
+* Useful amount of information in the viewfinder. The G1's viewfinder was, of course, useless.. as it's not an SLR it wasn't accurate, and didn't contain information about the settings for the upcoming picture. The D30 does (as do most 35mm SLRs I've seen too).
+* Good battery life, even with the microdrive. Recently spent a week in Amsterdam and took this puppy out shooting every day and never had to switch mid-day.
+
+
+Negatives:
+* Heavy.. but that's not unexpected.
+* Pricey. There aren't many players in the digital SLR market so there's not a lot of competition to drive it down. Canon is feeling a little heat from some of the newer ZLRs but the image quality of the D30 still beats any of them (even those with 4 or 5 megapixels... more megapixels does NOT equal more quality!). Nikon has a full pro model that's upwards of 4 or $5,000, and Olympus and other manufacturers have ZLRs in the $1000-$2000 range, but the price point or bang for buck with the D30 really is tops.
+* No "digital" modes I have become accustomed to such as photo-stitch mode like the G1 has, whereby the camera has a nice UI to line up shots to stitch together later, and locks the exposure of each picture so that the parts stitch together well. Of course the UI would be impossible without a preview LCD, but coming from the G1, this was a takeback for me.
+
+
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

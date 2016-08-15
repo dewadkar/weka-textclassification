@@ -1,0 +1,38 @@
+DOC>
+<DOCID> 23539 </DOCID>
+<PRODUCT> Digital_Cameras/Canon_PowerShot_G3_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_80727543428 </URL>
+<TEXT>
+            I used to shoot 35mm Nikon N50, N60, N80, and also owned Pentax and Yashica Point and Shoots (P&S). I owned a G2 for under a month before purchasing the G3.
+
+As my second digital camera (my previous one being a G2), I'll focus on the differences between G2 and G3 and also compare them to the 35mm Nikon SLRs with which I am familiar. Other reviewers have already covered all the main features so I don't want to repeat that all over again.
+
+The Canon G3 is much faster at focusing and in general operations than G2. The Canon G2 was much slower and I missed lots of shots due to the "shutter lag" - the time measured between pressing the shutter release and the actual photo taken. Both G2 and G3 work better when the shutter is pressed half-down and the image is pre-focused. That being said, the G3 images tend be on the softer side of focusing. You can use Photoshop to sharpen them, but I would prefer higher sharpness from the very beginning. The Nikon SLRS (N70, N80) focus much faster and more accurately then the G2 or G3. 
+
+There are advantages to the G3, however. One main advantage is white balancing. Depending on your light conditions, setting the color of "white" can be tricky because different light sources have different colors. Though they appear white to the human eye, the sensor in the camera sees fluorescent and tungsten bulbs as yellow or orange. With the G2 or G3, you can set the white balance to the correct setting (unlike 35mm SLRs), take the photo, and see whether the colors came out correctly. With film SLRs, you either use flash, special film, or filters.
+
+The flash on G3 is not very powerful and I purchased the Canon 420EX exernal flash to supplement the camera. Most on camera flashes are weak and cause red-eye because they flash light directly into the eyeballs of the subject. Correct flash technique is to bounce the flash off the ceiling or walls (if possible). The G3 is no exception. You really need a powerful flash to fill the background and avoid red-eye, if you're photographing people indoors. 
+
+I just started using the Canon 420EX external flash with the G3, and it has made a significant difference in the quality of my indoor shots. I can now use ISO 50 mode with the external flash, and the pictures come out much clearer (then when using the camera's internal flash) or using ISO 400.
+
+With normal 35mm SLR lenses, you can generally shoot between f/1.7 - f/16. (the smaller f number means larger aperture, larger numbers mean smaller aperture). F/16 is very useful for landscapes as it means that the entire picture is in focus and F/1.7 is great for blurring the background for portraits or for shooting in low-light. The reason I mention this is that Canon G2/G3 are limited to apertures from  f/2 to f/8. Most other digital cameras are even worse - some go from f/2.8 to f/8 (Nikon 5700). Thus, you are limited in your range of apertures on the digital cameras (not true for high end pro digitals SLRs like Canon D60). 
+
+I have noticed that the G3 photos are much clearer and in better-focus when the f-stop is set to f/4. At f/2, all photos look a little soft (even when taken using a tripod). However, at f/4, the sharpness and focus greatly improves. To use f/4, you may need to use a tripod with a slower shutter speed (to prevent camera shake) or an external flash, to provide sufficient light.
+
+I am using Windows 98 SE2 and I had difficulty installing Canon Zoombrowser software that came with the camera. After a few hours of installs and re-installs I got it to work but it wasn't easy. In contrast, G2 software installed perfectly. It may not be an issue for Win XP but it was for Win 98 SE2.
+
+The G3 has a longer movie mode then the G2. If you want to record up to 3 minutes of mpeg, the G3 allows 2 or 3 times longer recording. This is nice when the camcorder is not around.
+
+The G3 has a few cool features like the Neutral density filter which can be used in bright conditions to allow to use a slower shutter speed or a larger aperture. It also senses the orientation of the photos (vertical or horizontal). One nice feature that G3 has and G2 lacks is the ability to save to RAW (canon format) after taking the photo. RAW images are not processed by the camera and are not lossy like JPEG. JPEG compresses data, loosing quality in the process. For highest quality, RAW delivers a higher level or quality. With G2, you had to choose RAW at set-up and could not preview RAW photos. G3 is much better in this respect. G3 has a larger zoom range, though I would have preferred a more wide-angle lens.
+
+If you're deciding between the G2 and G3, the G3 is slightly superior. However, if you want to save a few dollars, a G2 is still a fine camera and will take photos of equal quality.
+
+One good site for digital camera reviews is http://www.dpreview.com
+There is a Canon forum there where people discuss Canon G2 and G3 problems and solutions.
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

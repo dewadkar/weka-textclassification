@@ -1,0 +1,16 @@
+DOC>
+<DOCID> 29808 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_KodakDCC-Kodak_DC-260 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-4742-7D79480-386A717C-prod1 </URL>
+<TEXT>
+            We use this camera for business.  We up-graded to a 40MB Compact Flash Card when we purchased it. ($250)  With the new Firmware we get 73 shots in the highest resolution mode and over 450 in the lowest mode.  I find that using the PCMCIA adapter to download pictures is the best vs. the supplied serial cable.
+
+Unless the batteries are brand new, you cannot take pictures using the Display mode.  After about 10 minutes of operation, the screen goes blank.  You can still take pictures using the viewfinder or you have to power it using the AC Adapter.  I do not find the supplied software as useful as some others.
+
+When we started to get pictures with errors, I was able to call the Customer Service number and received expert help there and then.  I was instructed where to go and get the latest download-able updates.  This fixed our problem.  We have had no other problems. <br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

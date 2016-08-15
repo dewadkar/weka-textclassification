@@ -1,0 +1,27 @@
+DOC>
+<DOCID> 7072 </DOCID>
+<PRODUCT> Digital_Cameras/485156_Fuji_Film_Fuji_FinePix_4700_Zoom </PRODUCT>
+<URL> http://www.epinions.com/elec-review-56A0-2FB64CC7-3A534E70-prod2 </URL>
+<TEXT>
+            I received this as a Christmas gift.  The camera included 4 AA Ni-MH batteries (it uses two), a wall charger for the batteries, a 16Mbyte SmartMedia card, strap, USB cable, and software CD.  I charged up the batteries (a long 13 hour wait) and took the camera along to a family dinner that evening.  The camera fits easily in a shirt pocket.
+
+The camera was really easy to use on automatic settings, and took nice sharp pictures, with minimal delay in-between frames.  The built in flash is okay for relatively close pictures, but outside of 10 ft. (~3m) it seems a bit weak.  Sometimes the flash door sticks a little bit.
+
+I haven't yet experimented with some of the other settings (portrait, landscape, night scene, manual, or continuous shoot). I did try the movie mode and that came out very well.
+
+The camera is almost too small for my big hands (big enough to palm a basketball :-), and sometimes I find myself with a finger in the wrong spot when I turn the camera on.
+
+The camera has two displays, one is always on (small monochrome) and provides menus and settings.  The color display is roughly 2&quot; diag.
+and sharp and bright.  I find the viewfinder a little bit small, but it's not much different than many 35mm point and shoot cameras.
+
+The NTSC video output looks as good as the color display on the camera - no jitter or other video artifacts.
+
+The next day I loaded Fuji's software on my win98 machine, plugged in the USB cable and was able to copy all of the photos to my hard drive.  The CD includes the home edition of Adobe Photo Deluxe, but it is not installed by default as far as I could see.  I had to hunt around the CD to find the installation program.  All seems to work flawlessly.
+
+<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

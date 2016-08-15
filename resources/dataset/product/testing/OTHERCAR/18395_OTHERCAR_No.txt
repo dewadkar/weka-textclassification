@@ -1,0 +1,32 @@
+DOC>
+<DOCID> 18395 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Vivitar_ViviCam_3500 </PRODUCT>
+<URL> http://www.epinions.com/content_72489864836 </URL>
+<TEXT>
+            I bought the camera through a TV-channel shopping network.  
+
+It was advertised that the camera will ship with RS232 cables, but by simply purchasing the USB optional cable, the camera can be USB connected.  I studied the online spec sheets and found that it is true.  However, the online spec sheets were wrong.  It does NOT support USB in any way, shape or form, natively.  Vivitar Corporation since updated the spec sheet to remove all references to USB from the spec sheet.  
+
+It is a fairly easy camera to use, and takes nice pictures.  
+
+It uses a LOT of battery power, and even rechargeables are a frustration because they run out of power quickly.  
+
+The camera's LCD is a nice size, but because of slow LCD performance, I hardly ever use it to take a picture.  
+
+The next picture readiness of the camera also performs poorly.  I have missed numerous nice shots due to camera readiness.  
+
+The company's tech support insists that the camera only supports up to a 48MB disk, but I have personally taken 120MB on a 132MB disk.  However, downloading such an amount of photographs over RS232 to a PC takes forever.  
+
+A nice feature is that the camera can be used while AC power connected.  That often helps when organised photoshoots take place near AC power outlets, pictures download to pc are done, or during picture viewing on TV.
+
+The tv-out port is a good feature to have and opens up many possibilities, eg video slide-show creation.
+
+The black out period between pictures during automatic view sequencing is too long.  Not a nice feature to use at all.
+
+Overall an okay camera if you bought it KNOWING it supports only RS232 and TV-out, no Win2K or XP compatibility, and is generally a slow performing camera using a lot of battery power, but takes nice pictures.
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

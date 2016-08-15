@@ -1,0 +1,38 @@
+DOC>
+<DOCID> 8754 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Toshiba_PDR-M70 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-C4-F92EF51-3A010791-prod2 </URL>
+<TEXT>
+            I've read the PDR-M70 reviews just like you have by now.  I'm a bit amazed at the lack of criticism of this camera.  Everything is not rosy in PDR-M70 land...
+
+BUT, let me first add a few positive comments in addition to the ones being listed by the other epinions.
+
+No one has mentioned the software that comes with the PDR-M70.  It is great!  I've owned and borrowed a few digital camcorders and cameras and it doesn't get much better than the software that comes with M70.  It is VERY easy and VERY fast to transfer the still pictures and the AVI movies to your PC with USB port.  The software has a nice system to categorize the content and the editing and printing options from the included Sierra Imaging application are superb.  And everything is included!  No need for extra cables etc.  Works out of the box.
+
+Another positive that I want to add to the long list from the other reviewers is how fast the camera boots, takes a picture and is ready for the next one.  In fact, the multi-shot feature allows you to take up to 36 shots in 2.6 second.  Or about 8 in a second.  I find this feature particularly useful, because my kids will never sit still.  I point, shoot and pick the best shot afterwards.  Then I empty the memory and I'm ready for the next one.
+
+The other guys gripe about the battery.  For me that was a key buying criteria.  I like to let the battery recharge in the camera. The performance is more than good enough.  I recently took 85 pictures during a day in the zoo and still had more juice left.  Of course you don't leave the Back LCD on all the time.
+
+Many, many reviewers comment on the lens cap.  I just put on a velcro-strip on the cap and the strap and haven't lost it yet. 
+
+OK.  I promised to talk about what I see as negative features and experiences with the M70.
+
+1. Manual mode.
+Yes, there is a complete, but undocumented manual mode.  Read more about it in the M70 support section on the Toshiba site.  It works well, BUT it is too cumbersome to turn on and the settings are not stored when the camera is shut off.  The result is you rarely use it.
+
+2. Autofocus.
+Major problem!  It is many times very difficult to get good and crisp pictures because of the autofocus.  Check the results before you leave the subject/location. I can press and hold the autofocus and point at subjects a couple of meters away, it still doesn't get focused.  Be aware that under 80 cm you should use the macro function...
+
+3. Very noisy autofocus/zoom
+The autofocus is so noisy that when you turn on the camera and move it around, you will hear the clicking of the autofocus several meters away.  And then when you record some video, you can hear the lens move in and out all the time on the final video clip. I had to edit my videos to use them. Not good.
+
+4. Ergonomics
+Another reviewer discussed the lack of this and I can only agree.
+
+By the way, this camera doesn't support TIFF as one of the other reviewers states.  M70 is JPEG only (or AVI in video mode).<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,17 @@
+DOC>
+<DOCID> 29796 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_KodakDCC-Kodak_DC-260 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-7F63-66B12A5-39AA7C79-prod3 </URL>
+<TEXT>
+            The DC-260 was the first digital camera I ever used, and I have been very impressed by it. It is so easy to use, and the pictures look great. The are a lot of different features allowing you to do all sorts of things. You can get to all the settings through the colour LCD display, the menu interface is very easy to use so overall it is very simple to customize it to get what you want out of it. On the downside is the fact that most of the settings can only be accessed through the display and the menu system. If you need to quickly change some settings, well, you won�t be able to do it very quickly.
+I love the fact that I can transfer pictures in and out of the camera through a serial port, USB or an infrared port.
+
+It is not a quick camera. I have frequently found that I can�t take a picture of my youngest kid in some kind of funny situation, before the camera has focused and done whatever else it needs to do, the situation is gone. I would probably call it a point-and-click-and-wait until-it actually-takes-the-picture camera. But most of my needs have not been for quick shots so in my situation it has been ok that it isn�t quick.
+One thing that really irritates me is not so much a feature of the camera as a feature of Kodak. I don�t even think I had had the camera for a year when it was discontinued. Since then I have started to use Windows 2000 Pro on my desktop, and Kodak have not provided updates of the software to run on Windows 2000. Their web pages give you the idea that it may not work with Windows 2000, which in fact it does, but I have to use Microsoft software. I do feel a bit abandoned, as if once discontinued they couldn�t care less whether I can get the pictures out of the camera.
+<br><br>
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

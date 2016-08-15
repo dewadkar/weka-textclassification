@@ -1,0 +1,48 @@
+DOC>
+<DOCID> 2698 </DOCID>
+<PRODUCT> Digital_Cameras/509173_Agfa_ePhoto_1680 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-70BE-B6D2E5E-3966B991-prod3 </URL>
+<TEXT>
+            Switching from film to digital wasn't something I wanted to do. I've used a pair of Olympus 35mm SLRs (an OM-1N and an OM-2) for years, and what I had seen of the photos from most digital cameras just left me cold. While resolution was getting to the point where a well-printed digital image was difficult to tell from a 35mm print at smaller sizes, it was obvious that most digital cameras suffered from &quot;point-and-shoot-itis&quot;. Too much automation, too little creative control. While I certainly had a use for a digital (much faster turn-around for photos for web sites), I simply wasn't seeing other people getting results that looked good to me.
+
+Then a buddy sent me some pics taken with his new Agfa ePhoto 1680. The images were sharp, they had good, saturated color, and they did not suffer from the compression artifacts that I had seen in most other digital photos. I was still skeptical about taking the plunge, but finally interested enough to seriously investigate the capabilities of some of the newer camera models. His quote of a price around $400 was an additional incentive.
+
+Thus began my quest. I figure that, altogether, I spent well over 80 hours over a period of about 4 weeks in investigating digital cameras. Easily eliminated (for me) were the &quot;compact 35mm&quot; format cameras, as well as the SLR style. If I was going digital I wanted some different capabilities. Also rapidly eliminated were cameras with no provision for filters or auxiliary lenses. What weeded out the majority of the rest was that many had no (or limited) provision for manual override.
+
+What I ended up investigating in detail were the ePhoto 1680, Nikon CoolPix 950 and 990, and Casio QV-8000SX. All are compact cameras having a &quot;twistable&quot; lens assembly and a minimum resolution of 1.3 megapixels. Lots of time spent comparing images at http://www.imaging-resource.com (a sight I can't praise enough) rapidly showed me that for *my* purposes, the additional expense of the Nikons simply wasn't justified. Although they had all the right features, I simply didn't need the additional resolution of 2+ and 3+ megapixel capture, as most of my digital photos are destined for the web.
+
+What clinched it for the Agfa was that it produced superior images compared to the Casio (at least to my eyes), as well as including a complete kit to get you started; with a charger, alkaline and NiMH batteries, case and 4MB memory card included in the package.
+
+The ePhoto 1680 has since proved to have been a good investment making good pictures nearly 100% of the time.
+
+The Agfa has a standard (46mm) filter mount on the lens, and I promptly added a UV filter to protect the lens assembly. The lens is quite fast, ranging from 1:2.8 to 1:3.5 depending on zoom. Contrary to what the blurb says here at Epinions for this product, the Agfa DOES have both optical (3x) and digital (2x) zoom capability and is a 1.3 megapixel, not a 1.9 megapixel camera.
+
+The ePhoto also allows a fair amount of creative control, allowing you to override both automatic aperture and automatic shutter speeds on demand. Shutter speeds range from 1/500th all the way down to 1/2 second. There are three aperture settings (small, medium, large) and a &quot;manual&quot; setting that allows nearly 2 full f-stops compensation either side of the automatic setting.
+
+There are selectable focus modes, including a macro mode as well as the autofocus setting. You can also select the white point and slave an external flash to the camera.
+
+What's proved to be a pleasant surprise, however, is just how well the ePhoto 1680 handles automatic exposures. I'm finding that even though I was concerned about the ability to override the camera's automatic settings, it's something I'm rarely needing to do. I've been getting consistently good exposures in all three of the camera's resolution modes. &quot;307&quot; is a 640x480 image, 1280 is a 1280x960 image, and 1680 is a 1600x1200 image size. The 1600x1200 image size is an interesting setting, because it uses Agfa's included Photo Genie software to reinterpolate the image and achieve a resolution the camera would not otherwise be capable of. Results using this mode are consistently great, much to my surprise.
+
+Battery life is quite good as well. However, like I'd recommend doing with ANY camera reliant on batteries, buy a couple of extra sets. The camera can use alkaline, NiMH or NiCd batteries in AA size, and requires 4.
+
+The camera uses 3.3 volt SmartMedia cards (of up to 16MB, according to the manual) which are one of the least expensive memory options currently available. A single 16MB card will hold about 48 images in the camera's middle resolution setting. Upload to a PC or Mac is vial a serial connection, cables are included. There's also a video connection (cable also included) and a connection for an A/C adapter (which I recommend, but is NOT included).
+
+The camera's record-mode controls are very simple. There's a knob at the right that turns the camera on into either playback or record mode. There are a pair of buttons for zooming in and out, and there's a small wheel (just forward of the on/off knob) that you can use to rotate through the camera's settings and then select the one you want with a push of the same wheel. There's also an information button that allows you to display the camera's settings, number of images recorded vs. number remaining (dependent on memory card size), date/time and battery charge state.
+
+In play mode you can choose whether to view one image at a time or nine at a time. In single image mode you scroll through the images using the zoom controls. It's surprisingly fast and easy to locate an image and then select it in the nine-up view using the camera's selection wheel. Images can be selectively deleted, as well as locked against accidental deletion.
+
+The large, red shutter-button on the &quot;front&quot; of the camera has two positions. Half pushed, it causes the camera to make exposure and autofocus readings, &quot;pre-setting&quot; the camera. When fully pressed it takes the photo, after about a 1/2-1 second delay. It's very easy to &quot;find&quot; the shutter while using the camera.
+
+Like most many digitals, it has only an LCD display. The display is sharp and quite bright, and has a &quot;night&quot; mode that improves visibility in low-light situations.
+
+I've noted a few things that would have been real improvements to this camera. A slightly shorter delay for both shutter release and image save time would have been a big plus. I've had to learn to compensate for both (which wasn't all that difficult). There's a distinct fall-off in close focus ability as you zoom in on a subject. While you can compensate for this by switching to macro mode, having to do so is a pain. The camera's autofocus is also sometimes confused by certain subjects, placing the focus behind the object you want to record. This most often occurs when the foreground object is narrow or small and there are larger objects not too far behind. Finally, the camera suffers from what I consider to be an unfortunate trend in consumer electronics: it's silvery colored, rather than black. This makes it more difficult for it to be used unobtrusively, IMHO and also looks more &quot;toy-like&quot;.
+
+One last note: The 1680's tripod mount is placed below the lens and doesn't interfere with changing film cards or the batteries, a plus for those intending to use the camera in a studio setting.
+
+I'm quite pleased with the Agfa ePhoto 1680. I've been able to use it in all the situations I had hoped to use a digital, and the fact that I can twist the view finder &quot;out of plane&quot; with respect to the lens has proved very helpful (as I had hoped it would) in situations where an eye-level shot would have been difficult or awkward.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

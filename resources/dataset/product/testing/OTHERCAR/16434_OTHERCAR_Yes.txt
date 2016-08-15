@@ -1,0 +1,49 @@
+DOC>
+<DOCID> 16434 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Fuji_FinePix_2400_ZOOM </PRODUCT>
+<URL> http://www.epinions.com/content_14838173316 </URL>
+<TEXT>
+            I got my FUJIFILM FinePix2400 zoom just 2 days ago so can't say what the long term is going to be like but so far am over all happy with it.
+ 
+  I got it on sale for $345 (usually $429).
+I have taken several pics using the macro and the normal settings and am so far happy with the performance of both.
+
+ The battery life can be fairly short if you have the screen turned on all the time for shooting and viewing but the camera comes with a normal view finder so that you can turn off the monitor and save a considerable life on your batteries.
+
+  The biggest flaw that I've found so far is actually with the software CD and I think that it MIGHT be my computer and not the CD but can't be sure just yet. 
+
+ Yes I can now.  I was able to finally get on line in the right place with FUJI and download the proper drivers and it works like a champ now. I have taken several pics and transfered them to my computer and the only problem that I've experienced is that the pics tend to be a BIT off if you are using just the eye piece and not the screen.
+ 
+Part of the problem is that I'm right handed but left eyed and the screen in back ends up with nose prints on it if I try to use the view finder instead of the screen.  
+They clean off fairly well with a piece of t-shirt or a lense cloth but it's still a bit annoying.
+
+ I can't get the computer to recognize the CD when I try to install the software.
+  The camera has 2.1 Mega pixle resolution and also has a digital zoom of up to 3x that can be used after the picture is taken.  
+ I will update this epinion as time goes on and I find any other pro or cons of it.
+  Some of the features are built in flash with 5 settings from full auto, red eye reduction, flash fill, delayed flash and supressed flash,
+ Tripod mount hole, lense cover built on so that it can't be lost, preview and delete function.
+ With this camera you can preview each of the pics and decide if you want to keep them or not, it also has a feature to delete individual frames or all of them or to do a complete re-format and wipe of the memory.
+ The FinePix 2400 Zoom uses the thin smart media memory cards that can easily be used with a 3.5" adapter.  This is a GREAT benefit to me since I can use and download without any extra wires and hook-ups.
+
+ The color and quality seems to be quite good as far as I can tell from the limmited use that I've put it through.
+ The instruction manual is straight forward and uses few terms that I was uncertain about.  Most of the terminology and abbreviations and acronyms are explained in a glossary in the back of the manual in easy to understand language.  No technical-ese here unless it's explained in the back.
+
+ I did a lot of searching and shopping (including a good bit of reading here) before I bought this camera and so far it's the best resolution and opticals that I've found for the money.  Most of the 2.0 and up megapixle cameras start at the high 400 range and go up from there depending on other features.
+
+ It does not have the film clip option that I've seen on some but then again I have a cam-corder for that any way.
+ The main reason I got the camera was to take pics of items to list for sale at an on line auction and it seems to suit that purpose quite nicely.
+ 
+ The photo software that comes with it on the CD seems to be a little cumbersome but works nicely once you play with it for a while.
+  The software included is 
+ Exif Viewer (Ver 1.1), DP Editor (Ver. 1.0), Exif Launcher
+(Ver. 1.0), Adobe Photo Delux HE 4.0
+ and Adobe Active Share.
+
+I'm trying to work ot a conflict bug or two with the Photo Delux at the moment and haven't used any of the others except for Active Share and it seems to be fairly usefull.
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

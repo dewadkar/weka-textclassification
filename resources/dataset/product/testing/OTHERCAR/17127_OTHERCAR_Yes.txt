@@ -1,0 +1,37 @@
+DOC>
+<DOCID> 17127 </DOCID>
+<PRODUCT> Digital_Cameras/Canon_PowerShot_A40_Digital_Camera_7634A001__Camera_7634A001 </PRODUCT>
+<URL> http://www.epinions.com/content_65537150596 </URL>
+<TEXT>
+            Remember Canon's advertising slogan back in the early 90s:  "So advanced...it's simple"?  They could revive that slogan to accurately describe the Canon PowerShot A40.  In other words, if you're primarily a point-and-shoot photographer but you'd like to occasionally have control over lots of advanced options, the A40 is your digital camera.
+
+The PowerShot A40, introduced in March 2002, is Canon's successor to its very popular A20.  It retains much of the A20's design:  same 2.0 megapixel CCD, same F2.8 3x optical zoom lens, same 1.5" LCD screen, same body shape, same button placement, etc.  But the A40 adds some terrific new features to this package, including:
+* movie mode with sound
+* a manual mode which gives you control over shutter speed and aperture
+* multiple flash modes including red-eye reduction and slow-synchro
+* built-in photo effects including black & white, sepia, vivid color, or neutral color
+* selectable ISO speed from 50 to 400
+
+Even with these additional features, you can purchase the A40 for the same price or cheaper (under $300) than the old A20!  Isn't it fun to be on the leading edge of consumer electronics?
+
+The A40 operates on 4 AA batteries, which I consider an advantage over some other cameras' proprietary batteries.  You never know when you'll find yourself in a low-battery situation, and it's extremely handy to be able to pop into the nearby drugstore or grocery store to get your camera running again.  Battery life is very good.  With a set of regular alkaline AAs I've taken over 100 shots, and with a set of rechargeable NiMH batteries I easily get twice that, and that's with heavy use of the LCD screen.  The A40 box comes with a set of alkalines, but I recommend buying a set (or two) of rechargeable NiMHs and a charger.  An AC adapter for the camera is sold separately (about $39 at Best Buy), but I didn't buy one and haven't missed it at all.  
+
+Speaking of buying extra stuff, the A40 comes with only an 8MB CompactFlash card.  Assuming you're shooting at the default settings, this won't hold many photos.  I strongly recommend you purchase an additional card or two at a size of 64MB or 128MB.  A 128MB card costs about $60 (as of 5/2002, and prices are trending down), and it will hold 200 photos at the default settings.  
+
+Picture quality is excellent for this price range, even in "auto" (point-and shoot) mode.  Images are detailed and sharp, and colors are very accurate.  It's a definite step up from the point-and-shoot compact 35mm I'd been using.  For example, one of my first shots was of my daughter climbing into our backyard wooden swingset, taken from about four feet away.  Viewing the photo on our television and later on a 5x7 printed copy, I was pleased to see things like strands of hair and the grain of wood in crisp detail.  Flash pictures are also good at normal distances from your subject.  In dimly-lit locations like restaurants I do get red eyes in some shots (even with the built-in red-eye reduction turned on).  I think it's just typical for this type of camera -- the best way to prevent it is to move the camera slightly above or below the subject's eye level.  Plus, you can always color in those eyes later using software.  
+
+Since the quality of most of my shots has been acceptable, I've done just a small amount of tinkering in manual mode so far. For example, I've tried a few sepia and "vivid" color shots, adjusted the white balance when in a room with fluorescent lights, and I sometimes turn off the flash when I want a more natural indoor look.  So far, so good.  It's nice to know that I'll have even more controls at my disposal when I need to take a critical or difficult shot.
+
+Ease of use is good.  For most occasions you'll just turn the camera on, set the mode dial to "auto", and point and shoot.  You can frame your shot using the LCD screen or the optical viewfinder, but the LCD is more accurate.  (The optical viewfinder doesn't show the entire area of what you'll get).  If you want to ensure proper focus, you'll want to press the shutter button down halfway, wait a second for the screen to display one or more green squares (which indicates a focus lock), then press down the button the rest of the way.  It takes a bit of getting used to, but not really a big deal.  If you're wanting to adjust the settings, the well-written owner's manual is definitely worth reviewing once or twice, especially since many of the cameras buttons serve multiple functions depending on what mode you're in.  The provided computer software is ok but nothing outstanding -- basic functions like downloading shots from the camera, browsing shots, and minor image editing are all fairly straightforward.
+
+A couple of features I've been surprised that I really enjoy are TV-out and movie mode.  Most of my shots are of family events, and I've frequently hooked up the camera to a TV after the event to allow the whole family get to see the photos at the same time.  It may not sound like a big deal, but hearing the ooohs, aaahs, laughter, and other reactions to the photos is really fun -- it makes it more of a shared experience than passing around a set of prints.  And the picture quality really comes across well on TV.
+
+I've also taken quite a few "movies" with the camera.  At the default setting, you can take a 320x240 pixel movie clip with sound that can last anywhere from 10 to 17 seconds.  (Or you can take up to a 30-40 second movie at 160x120 pixels).  You can view these movies on television using the camera's TV-out, or you can view them on a computer using the provided QuickTime software.  Picture and sound quality in movie mode is fairly good.  Because of the smaller pixel size it looks a little bit blurry/grainy on television, but on the computer it's perfectly adequate.  I was pleased to discover that movies don't eat up all the storage on your memory card either.  At default settings, a full-sized clip takes up about as much space as six photos would have.  You can take multiple consecutive clips, provided you wait about six seconds in between while the camera finishes writing to the CompactFlash card.
+
+This is my first digital camera, and before deciding on the A40 I was fairly concerned about whether 2-megapixels would be good enough quality.  After viewing and printing a few sample A40 photos from various digicam review sites, I was satisfied that this camera's quality was up to my standards.  And after a couple of months and several hundred photos, I have been more than satisfied with the A40.  I love the image quality, the movie mode, TV-out, AA-battery compatibility, and the ability to take full manual control.  I don't think there's another camera anywhere near this price range with this combination of features.  I recommend it wholeheartedly.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

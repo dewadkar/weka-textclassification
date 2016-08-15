@@ -1,0 +1,23 @@
+DOC>
+<DOCID> 15170 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Toshiba_PDR_M60 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-7F9C-4C9B7128-3A4A5C7B-prod6 </URL>
+<TEXT>
+            Review of Toshiba PDR-M60 Digital Camera.
+
+USB Transfer problems too much to handle.  
+
+I bought the Toshiba PDR-M60 from a local Target store for under $400 and was hoping for a hassle free way to get some goof proof photos and upload them to my IBM Aptiva 300 mhz computer. What I got was a good looking camera which operated pretty much as expected, but I just couldn't get the USB connection to work with my IBM Windows 98 machine. I tried and tried to load and reload the software, which seemed to load efficiently, but the software would not recognize the camera. I called Toshiba technicians and they seemed knowledgeable and worked with me on trying to get the computer to recognize the M60, but to no avail. They said I needed a USB driver update from Microsoft or IBM, but I checked and it seemed I already had the latest. I finally gave up on trying to connect 
+the camera to the Computer. I just thought about buying a card reader instead.
+
+There were other things that bugged me about the PDR-M60. I didn't like the way the battery door closed and opened. Since it used 4 AA batteries, I expected to make a lot of battery changes, even after I planned to buy NimH rechargeables. The cover was very tight against the ends of the batteries and seemed like it could pop open at any time dropping the batteries to the ground.
+
+I also didn't like the way the viewfinder showed the front lens protrusion. I would guess this is typical for a rangefinder design camera, but it still was annoying for me and for my wife, who also wanted to use the camera.   
+
+We just decided to take it back to the store and got our money back. We are still looking for another digital camera, OR we may just by a 35mm negative scanner and keep using our 35mm cameras!<br><br>
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

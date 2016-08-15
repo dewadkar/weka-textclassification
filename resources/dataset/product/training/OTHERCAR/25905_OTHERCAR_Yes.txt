@@ -1,0 +1,46 @@
+DOC>
+<DOCID> 25905 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_225295_617869 </PRODUCT>
+<URL> http://www.epinions.com/content_60885339780 </URL>
+<TEXT>
+            If you are totally unfamiliar with this camera, please read the review by surferdude7 (<a href='/content_50810687108'>http://www.epinions.com/content_50810687108</a>) or comments on CNET.com.  I don't want to duplicate other reviews, so I won't include a general overview of the camera's specifications here.
+
+I prefer to provide a summary of my positive and negative experiences with this camera in order to help you make a good buying decision and to give you some insight about the camera.  I purchased this camera in September 2001 after thoroughly shopping around and reading reviews.
+
+Buying the Camera
+
+This was the first digital camera I bought, but I could easily see the $150 difference between buying the camera online and buying the camera at an electronics store such as Best Buy or Ritz.  I just didn't know why.  Beyond that, there was another $200 range for online store prices.  How could an online store sell the camera for $650 when Best Buy was selling it for $1000?
+
+It turns out that the online store can legitimately beat a brick and mortar by 10-20% for a digital camera due to profit margins.  However, excessively reduced prices usually indicate that the camera is grey (i.e. a foreign version) or refurbished.  Usually due to competition, a merchant will list the price of the foreign version of the camera on the website so that you will place an order after comparing prices.  Later they will notify you that the camera you ordered is not a US version and that the US version costs more (aka, bait and switch).
+
+After a few phone calls to some online stores (they make you call to finalize the order), I finally bought the camera for $860, plus a $160 Olympus accessory kit, an adapter lens and filter, and a 5 year warranty...the grand total was a little under $1100.  I HIGHLY recommend the accessory kit which includes the camera case, rechargeable batteries and charger and an AC adapter.
+
+I had to haggle a bit, but I did much better than buying the camera alone for $1000 at Best Buy.
+
+I also purchased separately a 128MB memory card for $100.  I spent $1200 total for this camera and accessories.  However, a comparable price now is between $850-$950. 
+
+Using the Camera
+
+This camera is terribly complicated when you first look at it and there is quite a bit of literature to read before you can turn the camera on and start taking shots (as expected).  However, it is a point and shoot camera, meaning its operation is simple once you learn some basic functions.  It just takes a reasonable amount of time to get used to it.  A note of caution:  because the motorized lens extends from the camera, MAKE SURE YOU TAKE THE LENS CAP OFF BEFORE TURNING THE CAMERA ON!  If you don't, you will hear a grinding noise and then beeping from the camera to let you know you just did something wrong.
+
+Once you customize the default settings to you liking, such as picture resolution, the camera is ready to go.  In its automatic mode, daylight shots should rarely give you problems, except for occasional overexposure which can be easily adjusted for.  However, if you are new to digital photography or photography in general, you will learn that low light and night shots on this camera require a bit of persistence.   For these types of pictures where there is a contrast between light and dark areas, you must compromise  (usually your adaptable eyes won't even notice a lighting contrast). The compromise is that parts of the picture will look fine while the other parts of your picture will be overexposed, bright and saturated or underexposed and dark.  
+
+The camera has many settings to help you with this compromise which is where most of the complicated technical features come into play, such as exposure compensation, spot metering, manual aperture and shutter speed, and white balance.  If your digital camera were truly point and shoot, you'd be disappointed with a low light/high contrast picture as there is no way for the camera to automatically decide which area of the picture you want lighter or darker.  In my honest opinion, pictures that have a lighting contrast are the hardest to take.  But that's the benefit of having a digital camera with advanced features...it allows me to adjust the settings and retake the picture a few times and discard the ones that don't come out right.  This camera is great "learning" camera...I'm a novice photographer, so I'm still learning.  (note: you may also need a tripod to steady the camera for low light shots.  Since the exposure time is higher, the picture will blur if the camera is not held steady)
+
+All the accessories I purchased with the camera I consider a must.  A 4 megapixel uncompressed TIFF image uses 11MB of memory, so the included 16MB card is inadequate.  I recommend either the 64MB or 128MB card.  (I don't recommend taking TIFF shots.  The high quality JPEG pictures have no noticeable difference in quality, but are many times smaller in file size).  The included lithium non-rechargeable batteries lasted for three months (about 150 shots, including lots of zooming, flashes and reviewing the pictures on the LCD).  Rechargeable batteries are a smart buy because lithium batteries cost $20 to replace. The rechargeable batteries (~$60) pay for themselves quickly.  The lens adapter and filter fully enclose the lens and help protect it from dust and scratches.  For this camera, the lens fully extends and retracts inside the adapter housing.  This prevents the terrible "lens cap on, camera on" situation from happening that I mentioned above.
+
+My Wish List (What This Camera Lacks)
+
+The 3x zoom included with this camera isn't enough to make a distant object as large as you naturally view it with your own eyes.  I wish this camera had at least a 6X zoom though I'd prefer a 10x zoom.
+
+Picture cycle time is somewhat slow for this camera for some shots.  Typical 2 and 4 megapixel JPEG pictures might take 1 and 3 seconds to write to memory, respectively; the 4 megapixel TIFF takes 25 seconds to write to memory!  I'd like for this camera to have less than 1 second memory write time for all types of resolutions.
+
+Olympus should include the accessory kit as standard, as well as a 64 MB or 128MB memory card.
+
+Future wish list -- It's not possible now, but I'd like an 8 megapixel CCD -the equivalent to resolution of a 35mm film's grain- that has adaptive pixel elements which would overcome light contrast problems and do away with most of those advanced features.  But that's five to ten years down the road...
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

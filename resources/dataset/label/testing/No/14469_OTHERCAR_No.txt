@@ -1,0 +1,75 @@
+DOC>
+<DOCID> 14469 </DOCID>
+<PRODUCT> Digital_Cameras/Kodak_EasyShare_CX4230_zoom_digital_camera_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_87025618564 </URL>
+<TEXT>
+            <b>One year later, I'm wishing I'd never bought this camera...and the dock to go with it. Updates to each portion of my review will be in bold for reading convenience.</b>
+
+I recently received the Kodak EasyShare CX4200 for Christmas. If you want to know how I felt about it, read my review; I think it lays out the details clearly enough.
+
+So, I'll try to do the same in this review. The short side of it is, I decided to exchange the CX4200 for Kodak's next better model, the CX4230. I arrived at Office Depot with the original receipt, but since my dad got the camera with his MasterCard, I had no choice but to do an exchange (I was going to go to Circuit City and get the out-of-box price on a Toshiba). Then, on display, I saw the HP PhotoSmart 620. So the purpose of this review is twofold : to inform you about the CX4230, and to tell you why I think it surpasses other cameras in its price range ($200).
+
+..::THE GOOD::..
+The camera itself is light, but not so light that you feel like it could literally fly out of your hands if you're not careful. It weighs less than its Toshiba and HP competitors, in part due to the fact that it takes two AAs, while the other two brands use four.
+<b>although the lithium crv-3 batteries last a decent amount of time in this camera, rechargeable ni-mh AA batteries will only last through maybe fifty shots with flash and some LCD usage. Cameras that take four batteries, obviously, have more power behind them and will last longer - I took about 120 shots and two movies on my new Canon PowerShot A60, and the four AAs the camera was packaged with lasted the entire time.</b>
+
+The plastic door covering the MMC/SD slot is sturdier than that of the CX4200, and the rubber cover for the USB and A/C adapter ports is also thicker and stays in place. The video out jack is uncovered. This brings me to two more good points.
+
+The camera has 16MB of onboard memory, which is more than most (8MB in the HP and Toshiba), and it has a SecureDigital/MultiMedia Card slot. This is a benefit to someone like me especially, because I have a Palm m125 that uses the same kind of flash memory.
+<b>Make sure, if you use this camera or another Kodak camera with SD memory, make sure that the memory card you use has a fast enough read/write speed - I bought a used 64mb SD card off of a friend, and while it held a lot of pictures, it would sometimes take about 30 seconds to write a picture to the card, especially if i had been taking a lot of pictures in succession.</b>
+
+This camera, unlike the HP, has a video out port on the side. Plug the included cable into the camera and your tv or VCR, and you can view all your pictures on a bigger screen. This can be useful if you're at someone else's house where you can't put the pics onto a computer, or for people with bad eyesight. We have a 27" television at home, and it was much easier for my mom to see the pictures on that screen. Additionally, you can use a VCR to record a slide show of your pictures, which is a nice way to show off your kids to the grandparents.
+
+Other reviews have mentioned that the camera is "dummied-down". This is partially true only because this camera is not meant for professional photographers. If you want to find a digital camera that's 100% manual, your base msrp jumps to at least $500, if not more.  The menus are very easy to understand. Press the "Menu" button and you can select from a number of options:
+   ~ Macro mode
+   ~ self-timer
+   ~ image storage (external card or onboard memory)
+   ~ exposure compensation (-2.0 to 2.0 in increments of .5)
+   ~ Picture quality (more on that later)
+   ~ date stamp on/off
+   ~ further camera setup
+
+Menu navigation is by way of a four-way control button at the upper right of the camera's backside. There are five other buttons, as well. Across the top, between the optical viewfinder and the navigation button are controls for the menu, flash, and "share". Below the navigation button are "select", "delete", and "control" buttons.
+
+When you take a picture, the camera momentarily displays the image on the 1.5" LCD display. During the seconds that you can see your photo, you can press the delete button and select Yes or No. Otherwise, you can go to review mode and delete pictures from there.
+
+The select button does a number of things. When you are in Capture mode (aka picture-taking mode with no menus open or anything), pressing this button will toggle the LCD viewfinder on or off. As using the LCD drains the battery, Kodak recommends using the optical viewfinder whenever possible. I would have to agree to this. In the menus, the select toggles various menu options, as one could imagine.
+
+The camera has four flash modes : Auto, Red-Eye Reduction, Off, and Fill (forces the flash in all lighting conditions). The camera takes excellent no-flash pictures, even in low-light conditions, and the flash covers the same area as one would expect from a basic 35mm or APS film camera.
+<b>There is a big risk of camera shake, like with pretty much any digital camera, when using no flash. If you force the flash off indoors, any slight shake will cause your picture to blur, due to the reduced shutter speed.</b>
+
+There are three quality settings. The one-star setting takes 816x616 pictures at 1 megapixel. I've found that this setting is pretty much worthless. The quality is horrendous, and the only time I can imagine needing such compressed images is when you're uploading to a web server where your space is limited. Even in this sort of situation, you can use Adobe PhotoShop or Jasc Paint Shop Pro to compress large JPEG (image) files. The two-star setting takes 1184x888 photos at 1.5 megapixels. This setting is good for images that will be smaller on your screen, and they are more compressed than the three star setting. Since I am at my computer many times a day, I always use this setting, which takes 2.0 megapixel photos at 1632x1232, which is quite large.
+
+The camera has a 3x optical zoom, as well as a 2x digital zoom. Using the digital zoom noticeably reduces picture quality, however, so I rarely use this feature.  The optical zoom moves smoothly and is one of the main reasons I upgraded from the CX4200.
+
+In addition to all the above mentioned features, the CX4230 comes equipped with one of my favorite features : Macro Mode. Also known as "close-up mode", this option adjusts the autofocus to take photos of objects that are closer to the lens. With the zoom fully retracted, you can move as close as 3.9 inches to an object and still take clear pictures. With the zoom extended completely, you can be as close as 7.5 inches to an object. This feature is great for taking "artsy" photos, and pictures of actual photographs, which I have done in the past (I don't have a scanner yet).
+<b>My Canon PowerShot A60, which I will be reviewing within the next month or so, can get around 1.8in close to an object and still focus...the macro on the Kodak is appropriate for most users, but keep this in mind.</b>
+
+..::THE BAD::..
+I have only two complaints about this camera : the four-way navigation button is located right where your right thumb naturally rests to press the shutter, which makes it far to easy to accidentally advance the zoom while taking a picture. I'm learning to adjust to this, but it's still a minor annoyance.
+
+Additionally, the comparable HP and the Toshiba both have a movie mode. The HP takes MPEG movies, while the Toshiba uses the AVI format. Neither of these cameras has a microphone, however, so the movies go without sound. I decided this wasn't a very big loss, considering all the advantages of the CX4230.
+
+..::THE UGLY::..
+In extremely low-light conditions (ie dark room or dusk/nighttime outside), the shutter speed is extremely slow. If you're not careful, your pictures will blur.
+
+The bottom line? Go for it!
+
+Oh, one last thing. I would highly recommend doing a quick read-through of my review of the CX4200. It more clearly lays out particular aspects of all Kodak EasyShare models, including the software and the "share" button.
+
+<b>FURTHER UPDATES</b>
+My camera was almost exactly fourteen days past warranty when the shutter button fell off! It was made of plastic, and one of the little tabs that holds the button in just snapped off. Fortunately, I was able to jerry-rig the camera to the point where it still functions, and hopefully I'll be able to get $30 out of it. However, the camera had other downsides compared to other 2mp digital cameras with 3x optical zooms.
+
+The shutter lag on the CX4230 is noticeable, especially in comparison to the Canon PowerShot A60, and even Kodak's new 3.2mp EasyShare camera, the DX6330. This will lower picture quality far too often. Moreover, the "boot up" time of the camera is too long to take candid shots - it has to first read the memory card, then extend the lens inside its casing, then register the autoflash.
+
+Another noticeable problem with Kodak's digital cameras lies in their method of image compression. I don't know a whole lot about converting RAW images to JPEG format, but I've used five different digital cameras in my time - three 2MP and one 3MP. Both Kodak's 2MP CX4230 and 3MP DX6330 have a sort of "paint daub" effect, as I call it, on the images it creates. This is reflected in the printed pictures, although not as much. However, unless you will be resizing three-star quality pictures down for internet uploading and whatnot, this effect (in my opinion) is inexcusable. I have seen 1MP digital images from a Sony DSC-S50 that were higher quality than Kodak's.
+
+The battery life of the EasyShare NI-MH battery pack (included with the separate dock) is horrendous, although I think part of that is attributed to me not taking meticulous care of the pack, making sure that it's charged/discharged fully several times upon purchase. In general, I'd advise using the CRV-3 batteries, available from both Kodak and Energizer. A two-pack of these is about $12 and will probably last you six months. Another benefit to using lithium batteries is that they do <b>not</b> discharge while sitting on the shelf. I found that leaving my camera off the dock for a week would drain the battery completely - this will never be an issue with the CRV-3 batteries.
+
+To be fair, I did get decent use out of this camera. My breaking point with electronics tends to be a bit shorter than other people's, and in general I think this camera was more trouble than it was worth. If, say, Kodak had been willing to repair the camera at their expense (seeing as it was less than three weeks past warranty), I might be a happier consumer, but I will not purchase a Kodak digital camera again. As I said earlier, although Howard_Creech and a few others wrote some excellent reviews of the Canon PowerShot A60, I will be reviewing it myself in about a month, so stay tuned.
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

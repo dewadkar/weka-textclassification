@@ -1,0 +1,40 @@
+DOC>
+<DOCID> 830 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Hewlett_Packard_PhotoSmart_C618 </PRODUCT>
+<URL> http://www.epinions.com/content_39575129732 </URL>
+<TEXT>
+            For background and in general, 8.5" x 11" photos need 1600 x 1200 pixels, 5" x 7" is 1152 x 864 and 4" x 6" is 1024 x 768.  Given those resolutions and today's technology, the challenge is to find a digital camera with a) acceptable wait time to get a snapshot, b) acceptable wait times between snapshots, c) decent battery life and d) understanding exactly how digital data gets from the camera storage media into a printer or computer.  By the way, 16 MB of card memory gets you anywhere from 15 to 56 shot storage of 8.5" x 11" prints depending on the amount of data compression per photo.  I'm hard pressed to see a difference in print quality at either end.  To summarize a really long story, I settled on Hewlett Packard.  Paid $335 for the C618/C618xi (which are identical.)  
+
+The HP C618 is one of the fastest point and shoots.  Because of the internal data buffer, you get 3 shots with no wait for writing data to the flash card.  There are no annoying delays before the shot.  In the automatic mode it takes less than a second for the camera to focus.  The Photographic results are simply outstanding.  Every thing you need is in the box plus the software package supports image manipulation on and the number and variety of photo shots arrayed on 8.5 X 11 glossy paper.  
+
+The C618 1600 X 1200 pixel resolution supports excellent 8.5" X 11" photos.  The camera features transfer of digital data to printer or computer in three ways: 1) direct universal serial bus connection from camera to computer via cable or 2) by infrared light from camera to computer or printer or 3) by flash card removal from camera and insertion into a card reader (which acts as another floppy disk drive.)  For me, the flash card reader is the preferred choice since it offers faster downloads and does not drain camera batteries.
+
+I plunked down another $100 for a special deal package consisting of: spare batteries and charger, camera case, lens cleaning kit, generic 32 MB flash card, generic universal serial bus connected card reader and a 37 mm UV lens filter.  Out of all that, only the case, spare batteries and charger were of any use.  Smart cards are not created equal, more on that next.
+
+The card reader plugs into a computer port and acts as another floppy drive so you can move files from card to computer and back.  Worked like a champ at first.  But after a short while the card reader spread the female card pins to the point where it did not work with the camera.  Further, only enabled flash cards and maybe only that manufacturers universal serial bus enabled cards work in the reader.  Frustration led me to the P1000 Printer.  
+
+The C618 camera and P1000 printer are a dynamite combination.  The printer ($185 at B.J.'s) delivers outstanding photographic prints, has a smart card reader, a flash card reader and infrared light reader.  The printer connects by cable either of two ways to your computer.  It passes photo data to any computer folder you choose.  Just pull the flash card from the camera, insert it in the printer and transfer the data files directly to your computer or use the IR link.  There is also the option of C618 camera to P1000 photo printing with no computer.
+
+Pros
+1. Almost unbelievable true color photographs
+2. Point and shoot
+3. Good battery life.
+4. No storage wait before the next shot.  
+5. 45 seconds of audio annotation per photo
+6. Manual control options for exposure meters (avg., center weighted, spot)
+7. Photo modes: Automatic, Landscape, Action, Portrait
+8. Light control: Automatic, Daylight, Incandescent, Fluorescent
+9. Tiny infrared controller for remote shots.
+10. See images on your TV
+11. Very good photo manipulation and printing software CD
+12. Outstanding customer service
+
+Cons:
+1. Viewfinder image is about 20% smaller than the actual image for both normal and 3X Zoom.
+2. Viewfinder is offset from photo image and not usable for close up shots, must use LCD screen to compose which is hard to do in direct sunlight.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

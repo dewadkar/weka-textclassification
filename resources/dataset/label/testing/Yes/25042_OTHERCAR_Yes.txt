@@ -1,0 +1,84 @@
+DOC>
+<DOCID> 25042 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Kodak_DC-4800 </PRODUCT>
+<URL> http://www.epinions.com/content_11182378628 </URL>
+<TEXT>
+            <b>== From Olympus to Kodak ==</b>
+I enjoyed using an Olympus d450z for about a year (read  my detailed epinion on this product to know more), but I eventually wanted a camera that would:
+-	Give <b>easier access to manual functions</b>, because the numerous steps needed to bypass the automatic functions of the d450z led me to use it like a point-and-shoot most of the time;
+-	Offer a <b>direct USB connection</b> to download photos to my desktop and notebook;
+-	Be more <b>sturdy</b> (the lesser the plastic, the better);
+-	Translate <b>accurate colors</b> (my Oly d450z always had a blue tint);
+-	Be <b>widely available</b>, so that an eventual repair wouldn�t leave me without a camera for months (which was unfortunately the case in my previous experience with Olympus).
+
+Having access to higher resolutions (such as 3.1 mega pixels) wasn�t an incentive to change my camera, but I eventually came to the conclusion that it sure wouldn�t hurt if I ever want to have some of my works printed out.
+
+After many price and features comparisons, I chose the Kodak DC4800. I waited to use it extensively before writing about it here. After two months of usage, I think I�m ready to share my thoughts with you.
+
+<b>== A success in design and ergonomics ==</b>
+
+The DC 4800�s design is, in my opinion, a real achievement in ergonomics. All the accessible buttons are well placed on the casing, so you don�t constantly have to look at what you�re doing: after just a few minutes playing with it, your fingers will do the working.
+
+The casing feels very solid, but the two plastic doors (for connectivity and the memory card) looks like they could break at any time. Also, the only button that I don�t like is the power button: you have to push it very hard and low, probably to prevent unintended shutdowns or powering, and I personally prefer when electronic material that reacts to a light touch.
+	
+You could pretty well use this camera as a point-and-shoot if you�d like to. But as the widely used manual settings have been put on the casing of the camera, you�ll enjoy manually overriding the automatic settings. And contrary to many point-and-shoot, you don�t constantly have to browse through a hierarchy of menus to set it up. Here are the functions accessible manually:
+-	<b>Self-timer</b>: to chose the moment your camera will triggers itself.
+-	<b>Burst mode</b>: to take 4 pictures in sequence (at the lowest picture quality, you can take up to 16).
+-	<b>Landscape</b>: to prevent the camera from focusing on a near subject and have the horizon in focus.
+-	<b>Close-up</b>: To let the camera adjust the focus to take a subject between 0.7-2.3 feet in great details. 
+-	<b>Flash and flash settings</b>: Will let you chose between flash, no flash, red-eye
+-	<b>Exposure compensation</b> (from �2 to +2): This will let you chose to over- or underexpose your subject, to adapt to various light conditions.
+-	<b>Aperture</b> (f/8, f/5.6, f/2.8): You can decide on the depth of field, so that you can have sharpness and blurriness where you like it on your photos. You can also choose P for the automatic settings to take over.
+-	<b>Zoom</b> in/out: You get a 3x physical zoom, and also a 2x digital (which adds up to the 3x automatically when you press the zoom button long enough). You could also choose to block your camera from entering the digital zoom mode, to prevent yourself from using it (I have yet to see a photo which benefited the use of the digital zoom... they're always grainy, not only with the Kodak's digital zoom, but with all those I tried).
+
+I would have liked to access the ISO settings and exposure modes manually, but these have been put on menus accessible on the LCD. Also, the optical viewfinder could be a little bigger.
+
+<b>== Limited memory for your memories ==</b>
+
+The Kodak DC4800 comes with a 16 mb Compact Flash memory card, which is a complete nonsense for a 3.1 mega pixels camera. 
+
+At 3.1 MP, you�ll be able to fit� 1 (yes, ONE) uncompressed picture on it. If you compromise and add compression, you�ll have 15 (light compression) or 32 (high compression). You could also choose to use less mega pixels: then you�d fit: 21 @ 2.2, 28 @ 1.6 and 47 @ 0.8.
+
+Needless to say that you�ll soon have to consider adding another Compact Flash to your starting kit. I personally went for 48 mb, on which I can fit 5 pictures @ 3.1 uncompressed mega pixels (I rarely use it), 48 @ 3.1 (light compression) 63 @ 2.2, 85 @ 1.6 and 143 @ 0.8. 
+
+<b>== Vivid colors and great details ==</b>
+
+Let me now get to the main point of interest: picture quality. Kodak�s digital pictures are known for their vivid colors, and the DC4800 reaffirms this reputation. The default color mode setting is at �saturated�, which contributes to the vivacity of the colors. If you prefer, you can go for the normal mode, or even shoot in black and white or sepia.
+
+You can also adjust the white balance manually, which will sure be very useful as I live in a country of snow (I�m in Qu�bec). I still have to experiment with this function, though, because I sometimes end up with a greenish tint on my photos when I override the default white balance settings.
+		
+Also, the 3.1 mega pixels will give you incredibly crisps and sharp details, even if you use low compression (but you�ll eventually lose it if you use a high compression mode, which I don�t recommend). 
+
+The most annoying problem I had so far with the DC4800 is its inability to focus in low-light conditions. It rarely focuses on the subject I want to photograph, but looks for any source of light and focus at that point. It gets annoying to have sofas and tables focused when people around are all blurry. 
+
+As for the flash, it doesn�t wash the picture as much as my Olympus� did, but still, I don�t like using it, preferring to play with ambient lighting. 
+
+
+<b>== Batteries down, down and down again ==</b>
+
+My main complaint with the DC4800 goes to the battery. While AA NiMh rechargeable batteries in my Olympus d450z lasted for hours and hours of shooting with the LDC screen always turned on, Kodak�s proprietary Li-Ion battery that�s used in the DC4800 doesn�t impress me at all. If I keep the LCD on, it doesn�t last more than 40 pictures, after which the LCD turns itself off (I can keep shooting without it for a while, but I don�t like it at all: first, the optical viewfinder is too small; second, some of the main functions such as the ISO metering, shutter speed and white balance, are only accessible through the LCD screen). 
+
+I suggest investing in an extra battery (consider the kit that includes a charger, it�s 10$ more than buying the battery alone, and it will recharge your batteries in 40 minutes; there�s also the DC4800 expansion kit that will include the battery and charger, plus a decent carrying bag, a cleaning lens pen and an inkjet sheets sample pack � that�s the one I chose and I�m happy with it). The charger is very portable, and it won�t be a problem to carry it around in your camera bag.
+
+
+<b>== A few words on accessories ==</b>
+�	<b>Neck strap</b>: Useful to prevent dropping the camera, but it is so  I�d prefer a wrist strap. If you plan on using it, be careful, though, that the LCD may get scratched if you have hard buttons on your chest. 
+�	<b>Lens cover </b>: It falls down pretty easily, so you might want to consider fixing it to the casing with a small cord. 
+�	<b>Lithium-ion battery</b>: This is a proprietary format (which is apparently also used in some other brands), so if you go on a trip
+�	<b>AC adapter for in-camera charging</b>: This takes very long (up to 4 hours). I strongly recommend buying a kit including a fast charger and an extra battery.
+�	<b>USB cable</b>: Perfect to transfer the pictures to most recent computers, Mac or PCs.
+�	<b>Video out cable</b> for viewing pictures on TV: Never used it.
+�	<b>KODAK software</b>: It installed like a charm on my desktop computer, but my Sony Vaio couldn�t go through the whole installation. I ended up installing the drivers manually, searching for them on my desktop and copying them one by one on the Vaio. Painful operation, but it now works perfectly on both computers.  
+
+When evaluating the cost of the DC4800, consider you'll very soon what to buy these extra accessories:
+�	<b>High-capacity Compact Flash memory card</b> (consider at least 48 mb)
+�	<b>Expansion pack for the DC4800</b> (item 1174770 @ 100$): You'll get Li-Ion Battery, Li-Ion Battery Charger, Premium Camera Bag, Inkjet Sample Pack (5 - 4 x 6 sheets), and a Lens Pen. You could also go only for the battery (70$), the battery and charger (80$). As you can see, for only 
+20$ more, you get quite a lot with the Expansion pack, which I recommend strongly.
+
+You may eventually consider buying extra lenses, in which case you'll also need to spend 25$ on the lense adapter (it came as a promotion with mine).
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

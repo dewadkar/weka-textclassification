@@ -1,0 +1,23 @@
+DOC>
+<DOCID> 26445 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Creative_Labs_Cardcam_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_111025294980 </URL>
+<TEXT>
+            While at CompUSA the other day, I picked one of these little guys up on a whim.  "Neat!" I thought and picked one up.  The camera came with a cd, simple, no-frills instructions, proprietary USB data/charging cable, leatherette wallet, and cord for putting the camera around your neck. The lithium-polymer battery was already charged when I got in the car.  Along the way home I snapped 8MB worth of pictures to see what sort of image quality I'd get.  I figured taking picture on a clear, Arizona day (I was visiting my friend) I'd get fairly good shots even from a moving vehicle.  
+
+We arrived back at the house and I hopped onto my friend's laptop.  Installed a stick of memory, Norton AntiVirus, and the camera in under 15 minutes.  (Bear in mind I'm a computer geek.)  Software installation was simple under Windows XP Home, the software asked to reboot but worked fine in this installation of XP without a reboot.  The camera comes with Creative CardCam Photo Album, Adobe Acrobat, a manual in PDF format, and some image manipulation package (that I chose not to install.)
+
+I fired up the CardCam Album software and downloaded my first photos.  The photos were fair at best.  Here are links to untouched photos from the camera: http://www.personalcomputergeek.com/review/cardcam/kevincar.jpg
+http://www.personalcomputergeek.com/review/cardcam/road.jpg
+http://www.personalcomputergeek.com/review/cardcam/carport.jpg
+http://www.personalcomputergeek.com/review/cardcam/mirror.jpg
+
+So, the pictures don't really cut the mustard in my book.  Even if you do consider the quality acceptable, the results are very unpredictable. http://www.personalcomputergeek.com/review/cardcam/unpredictable.jpg  
+
+In the end, while I acknowledge I was probably expecting too much from this little toy, I decided to eat the 15% restock fee and returned the camera.  
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

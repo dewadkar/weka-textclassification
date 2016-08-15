@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 3234 </DOCID>
+<PRODUCT> Digital_Cameras/615430_Polaroid_Corporation_640_SE_PhotoMAX_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_77413125764 </URL>
+<TEXT>
+            This digital camera is nice if your going somewhere where you do not intend on taking more than 10 photos.  If you are taking this on a long trip you can only take a few photos before you have to hook it up to your pc and unload all the photos.  It is not possible to upgrade these cameras to 32 MB of memory or 64MB because the chip that is already in there is probably bout 1-2MB, I'm not sure, and it is not replaceable.  But it does not hold very many pictures.  The most I have ever put on my camera was just 13 pictures even though it says it can hold 15 at a time.  If you take a picture, you have to decide then and there if you want to keep it or not, as soon as you take another picture, you can't delete that picture unless you delete the picture you just took, you can only delete in chronological order from youngest to oldest.  This wouldn't be a problem if you had a lot more memory but since memory is spared, it is a problem.  It also has no zoom so it's hard to get a picture from far away.  The cord to hook it up has to be connected through a serial port and lucky me, my computer didn't have one but there is another one in my house that does.  You should make sure you have a serial port on your computer before considering buying this.  It doesn't have bad resolution but it doesn't have the best either.  Some pictures come out real good with great resolution and others come out terrible.  There is no way to tell how it will come out because the LCD display doesn't give you the exact version of the picture.  The LCD screen shows you the picture but since it has been shrunk down so much to fit the screen size it is hard to tell what the picture is.  
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

@@ -1,0 +1,37 @@
+DOC>
+<DOCID> 1036 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_KodakDCC-Kodak_DC-25 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-66B7-39D6AAA3-3A5175F2-prod5 </URL>
+<TEXT>
+            I bought my Kodak DC-25 camera about three years ago, for a whopping $499! There's a lesson to be learned here--unless you've just <b>got</b> to have it, and have it now, wait for the &quot;cool&quot; technologies to mature a bit (and come down in price) before investing. 
+
+This little camera produces quick snapshots at poor and mediocre resolutions (493 x 373 pixels (high); 320 x 240 pixels (standard)), but they're suitable for use on personal Web pages and great for sending fun pictures to friends and family in email. Don't even bother with the standard resolution setting; you won't see the detail or quality you'd expect, even from a cheap digital camera. My Logitech QuickCam produces better images (although the color isn't as good). The pictures are &quot;pixellated&quot; even at the higher resolutions, but the color is fairly decent. The one thing it does <b>really</b> well is take photos in low light conditions, with or without the flash. The built-in sensor flash can be set to automatic, fill flash, or flash off. The DC-25 even features a nifty 10-second self-timer, for those times when you <b>don't</b> want to hide <b>behind</b> the camera.
+
+On a high-end monitor, the pictures look surprisingly good. <i>Compare a DC-25 image (http://users.ev1.net/~hjahangiri/personal/images/wj-tree.jpg) to a scanned photo (http://users.ev1.net/~hjahangiri/personal/images/new-orleans-beignets.jpg).</i>
+
+The color LCD panel lets you review the photos stored in the camera before uploading them to your PC or deleting them forever. You can preview one or four pictures at a time, then decide whether to keep or erase them--individually or all at once. The camera has 2MB of internal storage, and will hold 14 high-resolution or 29 standard-resolution pictures before refusing to take any more. The batteries are expensive and tend to wear out fast, making the digital vs. film cost advantage a dubious advantage at best. (See <b>Accessories STRONGLY Recommended</b>, below, for tips on extending battery life.)
+
+For detailed specs, visit http://www.kodak.com/US/en/digital/genInfo/DC25.shtml#specs.
+
+The DC-25 camera also came with &quot;PhotoEnhancer Special Fun Edition&quot; by PictureWorks Technology, Inc. and &quot;Kai's Power Goo&quot; by MetaTools, Inc. You'll need PhotoEnhancer to transfer pictures to the PC directly from the camera, and it provides fairly useful, standard photo enhancing tools. Kai's Power Goo is strictly a novelty, allowing you to turn your friends into The Elephant Man at will, and even letting you save the transformations in .avi format. Kids think it's a riot. Kai's Power Goo is fun, but best saved for those rainy days when there's nothing else around to amuse you. If you're into carnival funhouse mirrors or immature forms of revenge, it might have added appeal.
+
+<b>Accessories Strongly Recommended</b>
+
+To really be <b>happy</b> with my Kodak DC-25, I had to purchase one of Kodak's CompactFlash memory cards and a Parallel CompactFlash Card Reader(my CompactFlash card holds 55 high resolution pictures; typically a card can hold about 15 pictures for every 2MB of storage). The CompactFlash card is a memory card that can be used with any device that supports a PCMCIA Type II (with optional adapter) or Type III card, and works just like a removable hard disk. If you don't use a laptop or PC equipped with a PCMCIA Type II or Type III slot, you'll need CompactFlash Card Reader, as well. All of these accessories can be purchased directly from Kodak at their Web site: http://www.kodak.com/US/en/corp/store/catalog/Category.jhtml?CATID=267
+
+Not only will you be able to shoot and store more pictures, uploading them to your PC will no longer suck the life right out of those costly camera batteries! While using the LCD panel is something of a drain on the batteries, uploading photos directly through the serial connection can take <b>forever</b> (it's even timed out and errored out on me often) and can actually kill two new batteries in a flash. But with the CompactFlash Card, all you have to do is pop the card out, stick it in the reader or your PCMCIA slot, and transfer photos just like you would transfer files between any two drives. I have had <b>no</b> problems transferring my photos since I ditched the serial cable and installed the Parallel CompactFlash Card Reader.
+
+<b>Accessories NOT Recommended</b>
+
+Not that it's not useful, but... I never found the AC Adapter to be as convenient or as easy-to-use as the CompactFlash Card Reader. And frankly, I only used it once. Now, I see that Kodak has issued a <b>recall</b> on it--the darned thing, if not attached correctly to the camera, can <i>&quot;cause the batteries to overheat, leak acid and possibly explode. This condition could result in thermal burns, chemical burns, or lacerations.</i> Makes me glad I wasted all that money and never used it. If only I could <b>find</b> it, Kodak would gladly refund my money!
+
+<b>Would I Suggest Buying One?</b>
+
+If you're just looking for a little fun, aren't into technological snobbery, and happen to find a DC-25 camera, in good condition, and it's <b>cheap,</b> by all means buy it. There are better cameras on the market today, at better prices than I originally paid for this one. But it's a fun, easy-to-use, digital camera that does what it claims to do--takes pictures suitable for publication on the Web, email, newsletters, etc. Printed pics won't please, and don't try to sell your DC-25 photos unless you just want to scream &quot;I'm an amateur!!&quot; but you might give it to your child as a gift, or use it to share quick &quot;Kodak moments&quot; with distant relatives online, or take a contents inventory of your home for insurance purposes, or mess up someone's face with Kai's Power Goo... the possibilities are endless. Just make sure it really IS cheap.
+<br><br>
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

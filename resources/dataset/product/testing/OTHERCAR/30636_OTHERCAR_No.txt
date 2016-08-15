@@ -1,0 +1,52 @@
+DOC>
+<DOCID> 30636 </DOCID>
+<PRODUCT> Digital_Cameras/elec_AgfaePhotoo-Agfa_ePhoto_CL50 </PRODUCT>
+<URL> http://www.epinions.com/content_7985008260 </URL>
+<TEXT>
+            The camera ePhoto CL50 has traditional for Agfa the form, however it the design and functional features if not is cardinal, rather hardly are advanced. Bent forward and reverse sides with a LCD-screen are looked by a uniform element and it as a whole has the completed and functional kind.
+
+The camera has practically no inertia LCD-screen with a diagonal in 5,1 sm (2 inches), which is possible to use as the range viewfinder.
+
+"Opening" door above a screen substitutes illumination per sun day and, accordingly, saves energy of batteries. But this door, in difference from some other cameras, here acts as the switch, automatically depriving the user of a possibility in addition light the display from within. Such function of saving of energy is named SunCatcher, but for it of use it is necessary, that the sun was above the camera.
+
+Besides is present also the optical viewfinder, and it is enough large with scores for error correction of induction and point of a focussing for automatic induction. As the finder places immediately above optics, the error of a parallax is limited to a vertical displacement and is exhibited only with macro shoot. Indicator located to the left of the range finder, shines by red light, when the camera treats an image, and green at the moment of readiness. However it is not used for indication of readiness of an auto focus.
+
+But obvious defect of design CL50 four buttons on the upper surface (used for direct choice of base parameters) - they generally are not marked in any way. If to list from left to right, the first button on any not clear intention of the designer turn on or macro regime, or auto shoot. (It is interesting, who has come in a head to combine these two modes?) Second button activates the mode of fast view, which, in particular, allows at once to delete undesirables images (otherwise it is necessary to wait write, then to pass in mode of reproduction and only there will be possible something to delete) or to add the speech comments. The third button cyclic selects all modes of a flash, and last changes the resolution of noted photos.
+
+CL50 is capable to write the short speech summaries together with images. The summary can be noted or at once after a photography in a mode of shooting, or already then, in the browse mode. 
+
+For some reason in this camera Agfa again uses "unprogressive" SmartMedia-cards for storage of images. The card is placed in a side compartment and is closed plastic door, but it therefrom is rather difficult for extracting.
+ 
+Performances
+
+Matrix in 1,27 mln pixels ensures a maximum size of an image 1280�960 pixels. The focal length optics is changed from 5,2 up to 15,6 mm (from 34 up to 102 mm in an equivalent of a 35-mm film), with the start apertures from 1:2,8 up to 1:4,7 accordingly. 
+
+Manual set-up of balance white the very useful set-up on "to a white point" supplements, that allows in addition to to achieve a lot of interesting effects.
+
+As was already mentioned earlier, Agfa CL50 uses SmartMedia-cards for storage of shots. The camera is sold with a map of volume 8 Mbytes, which allows to save 12 images in the highest sanction (1600�1200 after an interpolation on algorithm PhotoGenie).
+
+Agfa ePhoto CL50 is equipped with an input for connection of a power supply unit (it in a package is not delivered), videooutput (PAL or NTSC, depending on country of purchase) and serial port RS-232-C with cables for PC and Mac. The sequential connection ensures little data rate (up to 115 Kbit/s), that very much slowly care of actual images, and, to a huge regret, the camera ePhoto CL50 does not support the USB-standard.
+
+Quality of shots
+
+Agfa CL50 is rather simple and functional. It is possible to evaluate sharpness of an image of photos obtained with the help of by this camera, as average, considering the rather significant resolution of its matrix. Many from obtained shots obviously required additional processing in the graphic editors (even in that PhotoWise).
+
+When use on bright sun light the upper external illumination, certainly, helps, but not so, completely to refuse from internal can appear (furthermore sun light, as a rule, is rather inhomogeneous, and on a screen the light vertical bands, hardly "whiting" a mapped photo).
+
+User interface
+
+The CL50 menu is similar on other cameras of firm Agfa. Here too is and icons part, and text. The primary menu composed extremely from icons, occurs in is pale-green tones in the left part of a screen. The arrows up - down (instead of traditional for Agfa wheel Easy Pilot) are used for navigation, and button OK  for choice from an appearing number parameters.
+
+The last icon of the main menu gives access to parameters of extended set-up of the camera. They are already represented in the text form, white on black, and can make a multistage hierarchy. However when bright light such text is difficult for reading, and even the cover of external illumination practically does not help.
+
+The software
+
+The program of firm Sierra Imaging - PhotoWise is delivered with all cameras from Agfa (however, it does not signify, that all of its version are capable to work with all cameras - take with site of firm something is newer, but certainly working). PhotoWise allows to transfer images to the computer and to edit them, besides it is very effective for printing of photos, automatically executing "big deal" of work, usually required for it.
+
+Version PhotoWise for CL50 includes the special module of firm Enroute - Company producing the package QuickStitch. For set CL50 in a mode of panning you can shot a number of images and to create in this program a smooth panorama. 
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

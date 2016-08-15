@@ -1,0 +1,23 @@
+DOC>
+<DOCID> 32330 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Kodak_EZ200 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-43F0-3AB4078D-3A30556E-prod3 </URL>
+<TEXT>
+            I bought the EZ200 because I've been looking for a cheap, low-end digital camera for a while and it was a good price duty-free. 
+
+The camera itself is cool, it has 4 megs RAM and a USB connection, and who needs any more than that! No flash though, it'd be good to be able to fill flash.
+
+The supplied software is complete junk, some of the worst I've seen, and the supplied CD only mounts in a few CD drives - I've tried heaps. No Mac support either - even though it's a USB and TWAIN device. What's up with that, Kodak? I've had problems getting the camera to work on 2 different Win98 machines, but it works OK on another Win98 machine and fine on Windows 2000. All up, no points there. 
+
+Kodak provide a 5 meg download of the driver software if you can't get the CD to work, but the process of getting it is involved and painful - it should be a quick click off the product page, not several forms and licence agreements away.
+
+Quality of images is quite good as long as you're not expecting much - only 640x480 but there's a great depth of field and heaps of colour - it's good for taking shots you'd never think to take with a film camera because they mightn't come out. Backlit images look bad though, it overcompensates wildly for any background light - that's where a fill flash would be perfect.
+
+All up, if you can get this working on your machine it's a great little toy. Make sure you buy it somewhere you can easily return to if it doesn't work though.
+<br><br>
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

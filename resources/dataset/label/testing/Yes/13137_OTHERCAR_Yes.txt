@@ -1,0 +1,136 @@
+DOC>
+<DOCID> 13137 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_C_5050_Zoom_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_82693164676 </URL>
+<TEXT>
+            Olympus&#146 newly introduced cutting edge Camedia C 5050 five megapixel digital camera takes the ongoing evolution of digital photography to a completely new plateau.  Olympus stretched digital imaging parameters by expanding the capabilities of the standard 1/1.8&#148 CCD sensor to five million pixels.  Theoretically, making the pixels smaller (the only way to increase resolution without increasing CCD size) was expected to raise digital noise levels to an unacceptable level.  Olympus encouraged their engineers to think outside the box and strive for increased resolution from the standard sized CCD without increasing digital noise levels----were they able to accomplish this goal?  Yes and no---digital noise is present (as it is in all digitally generated images) but it is very well controlled. 
+
+Five megapixel images place huge demands on digital camera lenses, since the optics must sharply focus a much higher resolution image where even small distortions and aberrations are magnified many times.  Olympus wisely matched the proven f1.8-f2.6/35-105 zoom developed for the C3040 to their new five megapixel CCD.  Add a tilting LCD monitor (ala the Canon G1/2/3 and the Nikon Coolpix 5000 and 5700), a tough magnesium alloy version of their standard &#147C&#148 series body, point and shoot ease of use, a full range of manual exposure options, and a wide array of creative applications and you&#146ve got what may be the best prosumer digital camera ever introduced. Throw in the ability to use three different image storage formats (xD Picture Card, Smart Media, and CF types I & II---and microdrives) and the creative possibilities are almost limitless.
+
+The C 5050 can produce professional quality images, just set the camera to one of its manual exposure modes and compose carefully, while using the &#147live&#148 histogram display to adjust sharpening color saturation, and contrast.  Set the white balance for the prevailing lighting and save your images as an uncompressed RAW file.  If you need video clips (with audio) the C 5050&#146s movie mode is limited only by the amount of memory available. 
+
+If you want to maximize your creative options then you&#146ll need to spend some quality time getting intimately familiar with the C 5050&#146s operation.  But if you just want to forget all that and be a snapshooter for an evening (or if you want your spouse to agree that you REALLY REALLY need a new five megapixel digital camera) then you can set the C 5050 to program and hand it over so they can shoot the kids birthday party without worrying about f-stops and shutter speeds (but you may have some difficulty getting it back from them afterward).  
+
+<b>Viewfinder/LCD</b>
+
+The C 5050 features a real image optical viewfinder with a diopter correction for eyeglasses wearers.  The high eyepoint optical viewfinder zooms with the lens.
+
+The C 5050 has a bright 1.8" tilting LCD monitor that also provides detailed information on aperture, shutter speed, image quality, and camera/exposure settings. The LCD screen also provides a "live" histogram display in any automatic exposure mode (Program, Aperture, and Shutter Priority), when enabled through the LCD menu. The histogram highlights over or underexposed areas of the image, allowing photographers to fine-tune exposure for correct balance of highlights and shadows. Shooters can also use the LCD screen to review saved images, and zoom in on displayed images. The "Quick View" function lets you switch quickly from shooting modes to playback mode.  
+
+<b>Top Deck LCD</b>
+
+The C50&#146s status LCD shows major camera settings like focus mode, flash mode, drive mode, white balance, ISO, exposure compensation, and image quality without using the battery draining LCD monitor. Top deck LCD status screens are a real boon to digital photographers because they allow the battery drain from the LCD screen to be rigidly controlled by using the optical viewfinder and top deck LCD status screen rather than relying full time on the LCD monitor for exposure and status information.  The C 5050 provides a very useful monochrome status LCD, but the C 5050&#146s top deck status LCD isn&#146t illuminated, which seems a strange omission in such a well-designed prosumer digital camera. 
+
+<b>Exposure Options</b> 
+
+Programmed Auto, Scene modes (sports, landscape, night scenes, and portrait), Aperture Priority, Shutter Priority, full manual mode, auto bracketing, exposure compensation, Optimum Image Enlargement (OIE) mode (resolution enhancement) for enlarged image size of 3200 x 2400, Olympus&#146 proprietary &#147TruePic&#148 technology, and "My Mode" which allows users to save exposure/shooting preferences for quick recall. 
+
+<b>Zoom Lens</b>
+
+The C 5050 features a fast 3X zoom (f1.8-2.6/35-105) all-glass lens (with aspherical elements for improved sharpness and color fidelity).  Users can make manual adjustments in 1/3 EV steps.  This lens (first seen on the Olympus C3040) enhances the camera's low-light capabilities with the fastest maximum lens aperture on any fixed lens digital camera. Under most lighting conditions (indoors and out) the lens will produce sharp, well-exposed, highly (color) saturated images with resolution equal or superior to any fixed lens digital camera currently available.  
+
+<b>Macro</b> 
+
+Olympus&#146 &#147C&#148 series cameras have always had good Macro modes and the C-5050 continues that tradition and adds a new Super Macro mode with a minimum focusing distance of 1&#148inch.
+
+<b>Ergonomics & Controls</b> 
+
+The C 5050&#146s magnesium body feels solid and professional in your hands and the new tilting LCD screen is great (especially used as a waist level or overhead finder).  The control layout is logical and the C 5050&#146s user interface is simple and intuitive. Menus are straightforward and access is uncomplicated.   Everything is where it should be and the camera is very comfortable to handle and remarkably easy to use.  
+
+<b>Power</b>
+
+The C 5050 uses standard AA type batteries (4 NiMH batteries and a charger are included).  I used the C 5050 for two days with a freshly charged set of batteries (more than 200 shots with heavy LCD screen and frequent flash use) and never triggered the low power warning.  My friend used the camera for three days with fresh batteries and never triggered the low power warning.  His shots included outdoor scenics, night shots, and macro color tests.  Five days of intense use (more than 400 shots) on two sets of Olympus NiMH 1700mAh batteries. Two CR-V3 lithium disposables can also be used. 
+ 
+<b>Flash</b>
+
+The C 5050&#146s built in multi mode intelligent speedlight (Auto&#151including automatic flash activation in low light and backlighting situations, Fill, Red-eye reduction, Slow-sync, and Slow synch with red eye reduction) flash is a very capable unit.  The C 5050 features a hot-shoe that allows an optional Olympus FL-40 flash unit to be mounted so you&#146ll get not only expanded flash capabilities but also TTL flash metering and a zooming flash-head as well. 
+ 
+<b>Image Storage Media</b>
+
+The C 5050 can use three different types of storage media - the new xD-Picture Card, SmartMedia, and Compact Flash Type I or II (including microdrives).  The C 5050 can hold two media cards simultaneously, and switch back and forth between them. 
+
+<b>Image Adjustment</b>
+
+Sharpness, contrast, and color saturation in  +/- 5 steps
+
+<b>Movies</b>
+
+The C 5050 can record 320X240 @ 15fps (with audio) video clips.  Clip length is limited to available memory  
+
+<b>Technical Specifications</b> 
+
+Resolution: Five Megapixels (2560X1960) 3200x2400&#151OIE interpolated 
+Viewfinders: Optical real-image Zooming finder and 1.8&#148 Tilting LCD monitor (down 20 degrees/up 90 degrees)
+Exposure: Program, Aperture Priority, Shutter Priority, and Manual
+Exposure compensation:   +/- 2 EV in 1/3-stop increments
+Auto bracketing: 3 or 5 images   +/- 2 EV in 1/3 stop increments
+Lens: f1.8-2.6/35-105 (35mm equiv) all glass (10-elements in 7 groups) zoom lens
+Auto Focus: iESP Multi AF--iESP multi-pattern TTL AF system  	
+Manual Focus: Yes
+Lens Thread: 49mm (adding the optional CLA-1 adapter steps the filter thread up to 55mm)
+Auto Focus Assist Beam: Yes	
+Sensitivity: (ISO equiv) Auto, 100, 200, and 400
+White Balance: Auto, Daylight, Overcast, Tungsten, Fluorescent (4), and Manual
+Shutter Speeds: 16 seconds to 1/1000th of a second	
+Metering: Digital ESP TTL Multi-Pattern Meter, Spot, Multi-point spot
+Flash: Built-in multi mode (Auto, Red-Eye Reduction, Fill, Slow synch, and Slow synch w/ red-eye reduction) with hot shoe for optional Olympus FL-40 TTL flash, or sync to studio strobes with optional hot shoe to PC adapter and cables
+Image Storage Media: CF types I & II (including microdrives) Smart Media, and xD Picture Card
+Image Formats: TIFF, RAW, JPEG, & Motion JPEG
+Image Adjustments: Sharpness, Contrast, Saturation, Each adjustable in   +/- 5 steps
+Noise Reduction: Yes in   +/- 5 steps
+Video Out: Yes
+Connectivity: Auto-connect USB
+Power: 4 x AA or 2 x CR-3V (LB01)
+
+MSRP $899.00--- Street Price Range $799.00--$649.00
+
+<b>Included</b> 
+ 
+32MB xD-Picture Card, USB Cable, Video Cable, (4) AA NiMH Batteries and Charger, Carrying Strap, Lens Cap, (2) CD-ROMs, Remote Control RM-1, and 268 page users manual 
+
+<b>Optional</b> 
+
+Add-on lenses and filters, Olympus CLA-1 lens adapter, Olympus CL-40 flash, Olympus hot shoe to PC adapter (for studio lighting). 
+
+<b>In the Field/Handling & Operation</b> 
+
+My friend (who sells new and used digital and film cameras and photographic equipment) has been trying to test as many newly introduced digital cameras as possible, which has kept the two of us pretty busy for the last month.  A few weeks ago we tested the new Olympus C 4000 (which has been selling like hotcakes) and ever since he&#146s been trying to get Olympus&#146 new five megapixel offerings, the C 50 and the C 5050.  He was finally able to get the C 50 a couple of weeks ago and he got a C 5050 just before Thanksgiving. 
+
+The Friday night after Thanksgiving my friend took the C 5050 down to Jefferson Square to watch the annual &#147Light up Louisville&#148 festivities. He wasn&#146t alone, over 100,000 people turned out to see the more than 1,000,000 Christmas lights turn Louisville&#146s City/County administrative district into a holiday wonderland (Jefferson Street in front of the courthouse temporarily becomes Santa Claus Lane).  After seeing the crowds on the TV news I was glad I chose to miss the chaos.  After everything was over my friend took one look at the grid locked traffic and walked down to the foot of Fourth Street and spent half an hour shooting the Christmas Light bedecked &#147Belle of Louisville&#148---before finding his car and making his way home.
+
+The shots of Jefferson Square were OK but nothing to write home about.  The ninety-year old red, white, and blue sternwheeler covered with Christmas lights was an entirely different story.  The old steamboat really turned out great---the C 5050 turned in completely professional looking long exposures with great colors and no noticeable noise.  I was really impressed when I saw the images of the Belle on Saturday afternoon.  After it got dark we took the camera for a ride through the Highlands and Cherokee Triangle neighborhoods to shoot Christmas light displays in a couple of Louisville&#146s oldest and most interesting neighborhoods.  We then drove down to &#147Old Louisville&#148 to shoot some of the hundreds of old Victorian mansions along Second, Third, and Fourth Streets.  The Christmas lights in the Highlands and Old Louisville may lack some of the &#147over the top&#148 drama present in our suburban displays, but they really dress up the wonderful old Victorian houses.  
+
+We also spent some time shooting some of the characters that make Bardstown Road come alive after dark on Saturday night. The C 5050 did an incredible job, the built in flash works very well &#147in close&#148 for environmental portraits of bundled up skateboarders and Goth music fans.  The images (traditional Victorian mansions with Christmas lights, &#147woodpushers&#148, and multi pierced Goths) were all very well exposed with accurate colors and no detectable noise. 
+
+We got together again on Sunday morning to try some outdoor daylight shots. The weather was much better---sunny and blue skies with patchy white clouds, but very cold (mid 20&#146s).  We bundled up and drove across the river to the Falls of the Ohio State Park (just over the Ohio River in Clarksville, Indiana) the Park is the only place where you can actually see the 380 million-year-old Devonian fossil beds (the exposed remains of an ancient reef).  The reef used to form a short drop falls that impeded navigation on the Ohio River.  It was necessary to pull boats out of the river above the falls and &#147portage&#148 them (and their cargoes) to a site below the falls where they could be put back in the water.  The &#147portage&#148 made the area the perfect site for a town.
+
+General George Rogers Clark built a fort on Sand Island to protect Kentucky (then a county in Virginia) and control river traffic. That primitive little fort eventually became the city of Louisville.  Next year the Falls of the Ohio will be a focal point for the three year Lewis and Clark bicentennial.  The expedition to explore the Louisiana Purchase commenced its journey to the Pacific from the Falls of the Ohio River.  Captain Lewis joined co-Captain Clark (the younger brother of Louisville&#146s founder George Rogers Clark) here.  Most of the Corps of Discovery party that accompanied Lewis and Clark to the Pacific were from Louisville, Kentucky and Jeffersonville, Indiana.  
+
+Neither of us had been to the Falls since mid summer.  We wandered around for a couple of hours taking photos with the C 5050 (and freezing our butts off).  Photography at the Falls is much easier in the summer when the area is filled with an explosion of green growing things, hundreds of birds, dogs, kids, hikers, and fishermen.  Picture opportunities are much harder to find in early winter.  We did get some nice shots of the Louisville skyline from the fossil beds and we got a couple of good images of the fossil beds with some neat oblique afternoon lighting.  The Falls of the Ohio State Park is located at exit 0 on Interstate 65 (North). The C 5050 did just as well in bright daylight as it had done in the dark.  The AF assist light works beautifully, long exposures are a snap (no pun intended), and shutter lag, shot to shot times, and write to card times (especially if you use an xD Picture Card) are very quick
+
+<b>Image Quality</b> 
+
+The C 5050&#146s image quality is exceptional, easily as good or better than any five megapixel digital camera currently available.  Skin tones and colors are the most accurate I have seen to date and that has a lot to do with Olympus&#146 excellent image interpolation.  All digital cameras use interpolation to balance colors and contrast. Olympus redesigned the C 5050&#146s interpolation software to produce more accurate colors and better contrast.
+ 
+My friend and I printed two 8X10 inch enlargements (from full sized JPEG files) on an Epson Stylus Photo EPX785 and they were both excellent (even when inspected with a 4X Mamiya Loupe). We also printed up a couple of shots from the falls at 5X7 and both were very good with accurate well saturated colors, excellent contrast, and tack sharp resolution.  Very impressive performance for the cheapest five megapixel digital camera currently available.
+
+<b>A Few Concerns</b> 
+
+The C 5050&#146s optical viewfinder is a little tight (small) and you have to squash your nose against the LCD to use it, Olympus could have done a better job here. The C 5050 has a really aggressive sharpening function at the default setting---images tend to be hard edged and a little over sharp---experiment with the minus settings until you find the level that works best for you. Minus sharpening will also lower noise levels at the ISO 100 setting.  There is barely visible barrel distortion at the wide angle end of the C 5050&#146s zoom range but pincushion distortion at the telephoto end of the zoom appears to be very well controlled.  Chromatic aberration is visible at the maximum aperture in high contrast scenes but can be easily controlled by using the histogram display to adjust contrast levels (or shoot at f4).  
+
+<b>Conclusion</b> 
+
+Olympus is offering the C 5050 at a lower price than competing five megapixel digital cameras and that will oblige the other major manufacturers to improve their existing technology and offer new models that provide improved performance and incorporate proven components rather than introducing new technology.  Competition always benefits consumers because new technology is very very expensive to develop and consumers must pay the research and development costs.  In addition, new technology always comes with bugs and first generation of consumers must act as the final stage of research and development----at their own expense. 
+
+If your digital camera is more than one year old then there are many reasons for upgrading.  There have been many significant improvements including higher resolution and newer cameras are much faster. LCD screens are sharper and brighter and not as jerky, colors are truer and white balance is much improved.  Digital camera prices are the lowest they've ever been.  
+
+The Camedia C-5050 is targeted toward advanced amateur and casual pro users who want manual control and advanced features.  Images from the C5050 are as good or better than the images from any 5 megapixel digital camera I have used, and in the final analysis---image quality really is &#147job one&#148--- everything else is just icing on the cake. To put a bit more of an emphasis on that statement, the C 5050 represents a real advance in the digital imaging evolution with the fastest lens (f 1.8) of any currently available digital camera, very good low light performance, lots of user input, an almost infinite variety of image adjustment options, and lots of serious image enhancing features. The C 5050 is worthy of serious consideration from anyone looking for a pro quality five megapixel imaging tool at a prosumer digi-cam price.
+
+ 
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

@@ -1,0 +1,48 @@
+DOC>
+<DOCID> 4545 </DOCID>
+<PRODUCT> Digital_Cameras/511638_Olympus_Camedia_C_2040_Zoom </PRODUCT>
+<URL> http://www.epinions.com/content_29043560068 </URL>
+<TEXT>
+            I spent the last couple of months checking out digicams in stores and online to figure out which one I wanted.  First of all, complaints about the Olympus C-2020 regarding the viewfinder, untethered lens cap, and no-USB do not apply to the C-2040.  In fact, the C-2040 is significantly improved over the C-2020-even the CCD has been redesigned (it's a nice large 0.5" CCD) and the lens has an improved aperture capability.
+
+While I've had the camera (about two weeks now) I've taken shots in all conditions-night and twilight, bright hazy conditions at the beach, dark overcast weather in thick rain forest, all weather conditions in my backyard, indoors day and night, moving subjects (toddler running around or swinging), strong outdoor back-lighting, and super close-ups (macro mode).  90% of my shots turn out perfect or nearly so.  It's an easy camera to take great pictures with in either auto or manual modes.
+
+The specific points that made me choose the C-2040 are as follows:
+
+1) f1.8 superbright lens.  What can I say?  There's nothing close in this price range.  Thanks to this it takes excellent low noise indoor shots without the flash.  This is a huge plus for vacations to Europe where I want to take photos indoors (museums, castles, etc�) where flashes are not allowed and mess up the shot anyway even if they are.
+
+Perhaps also as a result of the large aperture capability (and also because the flash is well placed near the lens), the flash also works incredibly well.  I took some night shots in my backyard and it lit up everything very well out to about 30ft from the camera.  I also took a shot during the day in heavy forest on a dark cloudy day with back-lighting on the subject (my wife and son) about 30ft away and it illuminated the subject and surrounding shadowed areas nicely.  The flash brightness is manually adjustable-I generally turn it down one or two clicks so that the shot looks a little more natural.
+
+2) 2.1Mpixels.  I started out thinking I wanted 3.3Mpixels.  The camera shop I ended up buying from had 8x10 test prints from just about every camera.  After seeing the 8x10 photo prints from the C-2040, I decided I would be paying a steep premium for 3.3Mpixels.  As a 35mm SLR user for 15 years, I'm amazed at the picture quality of this digicam.  The Nikon Coolpix 880 (3.3Mpixel camera) 8x10 print looked about the same as the C-2040 (neither print showed any visible evidence of pixelation.)  These comparisons were done on prints done professionally with a dry negative process.  The camera shop salesman said if you use a home photo printer, any hope of telling the difference between top quality 2.1M and 3.3M is totally lost.  Note, some 2.1Mpixel cameras were definitely poor picture-takers (some Kodak point and shoot model was one example--can't remember which) and were actually much worse than a Nikon 1.3Mpixel camera.  The point is, higher resolution isn't all there is to picture quality, especially at or above 2.1Mpixels.  The lens, image processing, and CCD quality also matter.
+ 
+3) "Has all the creature comforts".  This means 3x optical zoom, seamless USB transfers, AA batteries, tethered lens cap, durable access doors for the USB and removable memory slot, replaceable tripod threads, useable without the LCD, acts kind of like an SLR, etc...  The C-2040 had all the right stuff here.
+
+4) Rapid shooting.  Thanks to 8M of internal SDRAM, this camera can shoot even the highest quality shots at about 1.5 per second up to about 4 shots.  Once the DRAM is full then you must wait a few seconds for the DRAM to empty itself into the removable memory card.
+
+5) Lots of manual control.  Wow!  This camera lets you control it all if you want.  It has spot meter, spot focus, ISO100/200/400, adjustable flash brightness, manual shutter speed, manual aperture, manual focus, macro mode, flash synchronization for fancy night shots, control over what settings are remembered when the power turns off, etc....  'Nuff said.
+
+6) Has to be good on long and distant vacations.  My camera has to be able to go on 3 week+ vacations to Europe or on camping trips.  This means it needs to be pretty compact.  More importantly, I don't want to waste valuable vacation time looking for specialty batteries.  It's either that or buy extra (expensive) rechargeables and charge them up before leaving or haul your recharger around along with adapters for each of the countries you'll be visiting.  The Canon A20 was the only other camera in my price range I considered that used AA batteries, but it has a much smaller lens and smaller CCD (same number of pixels however), a gross lack of manual control, and way fewer features.  So far, I've taken a few hundred shots using the batteries that came with my C-2040 using the flash several times and the 1.8" LCD several times and the batteries are still going strong!
+
+7) The optical viewfinder in the C-2040 actually optically zooms with the optical zoom in the main camera lens.  This means you get a very accurate picture through the viewfinder regardless of the optical zoom settings.  And because the camera briefly flashes the image on the LCD after each picture, you can usually operate the camera without the LCD turned on continuously.
+
+The negatives on this camera are very minor:
+1) Even with it's good CCD, if you do an exposure longer than 10 seconds on a very dark image (night sky) you'll begin to see variations in the sensitivities of different pixels in the CCD (looks like noise, but it's the same pattern from shot to shot.)  This might be typical with all digicams in this price range.  If you're using a telescope where exposure times are usually less than 1 second, this camera will be great!
+2) I don't mind the manual lens cover (I don't know whether this problem will ever be economically solved on cameras with large, high-quality lenses like the C-2040) but I do mind that it comes off fairly easily as I'm putting it in to or removing it from my camera bag.  A semi-soft wrap around lens cover like that found on the Canon G-1 would stay on better.
+3) Movie mode has no audio and like most digicams, is only 320x240 resolution.  I have a digital camcorder which spits out 640x480 movies, so I don't care about digicam movies that much.
+
+A brief list of the cameras I considered and the reasons I didn't choose them is listed below.  Note that these cameras are not all apples-apples comparisons.  Some offer things the C-2040 doesn't (such as more pixels or smaller size).  I originally started out not knowing what trade-offs I would eventually make between size, features, photo quality, pixels, and price.  Your personal trade-offs might be different and you may not consider the negatives listed below to be significant.
+
+-Canon S100: No manual controls at all, only ISO100, small aperture, small lens (all of these make it difficult to take top quality pictures), no AA batteries, no viewfinder zoom, etc...  This camera's central feature is it's size.
+-Canon A20: No manual controls at all, only ISO100, small aperture, small lens (all of these make it difficult to take top quality pictures).
+-Canon G1: Too expensive, wimpy access doors, no AA batteries.
+-Nikon Coopix 880:  Too expensive, 2.5x zoom, only f2.8 aperture, no AA batteries.
+-Olympus C3040: Too expensive.  If, however, you want to spend the bucks and need the extra resolution, this camera was my absolute-price-not-an-object favorite!
+-Olympus C700: A tad expensive, only f2.8 aperture, 10x zoom is great but there's no image stabilizing function so you'll need a tripod.  For me, brightness is more important than extra zoom.
+-Kodak DC4800.  Only f2.8 aperture, no AA batteries, small lens.  This camera gets good editorial reviews on image quality and is a good price, but the disturbing thing in reading user reviews is almost all negative comments were about the image quality-which is the most important thing to me.  Complaints for the other cameras in this class were typically for things that are less critical like lens cover design or ergonomics or size of included memory card.
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

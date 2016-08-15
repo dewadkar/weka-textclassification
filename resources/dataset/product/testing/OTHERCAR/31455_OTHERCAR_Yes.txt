@@ -1,0 +1,37 @@
+DOC>
+<DOCID> 31455 </DOCID>
+<PRODUCT> Digital_Cameras/Hewlett_Packard_C8901A_ABA_629663 </PRODUCT>
+<URL> http://www.epinions.com/content_79728381572 </URL>
+<TEXT>
+            At the beginning of the summer I decided to purchace a digital Camera. I purchaced the 318 from OfficeMax for $200. This product is now far cheaper, probably retailing for around $150.
+
+First, let's go over some specifications. This is a 2.3 megapixel digital camera. It has a 2x digital zoom, flash, 1.5" (approximate) LCD display, 8 megabytes of onboard memory, and a compact-flash card slot. 
+
+Using the camera is a snap. To take a picture, simply turn the unit on, look through the viewfinder, depress the shutter button a little bit so the unit can focus, then press it all the way, and it will snap the picture. The camera displays the photo in the LCD display as it is saved to memory. 
+
+Speaking of memory, you will want to buy a memory card. The onboard 8 megabytes will hold about 7 highest-quality photos, while a 32 megabyte card will hold almost 30 high-quality images. Of course, the camera can hold many, many more images at the lower quality settings. (There are only 3 quality settings, unlike the Cannon I used which had several. Some may like the simplification, some may not. I don't mind it.) With the 64-megabyte card I purchaced, the camera can take 70 high-quality pictures, 120 medium, and almost 1,000 low quality (800x600) pictures.
+
+Once you've taken the pictures, looking at them is a snap. Just push in the wheel at the top of the camera, and turn the wheel (like the wheel at the top of a mouse) to view the images. You can create a digital print order form, delete images, view thumbnails, or get into the camera setup via this area. Navigation is extremely easy and straightforward. Someone doesn't need to be skilled at computers or photography to use this camera.
+
+For the price, the photo quality is excellent. The highest quality setting will give you nice 5x7 prints, but going higher then that when printing will degrade quality. 
+
+A word about batteries: I use NI-MH batteries, but the camera accepts four standard AA batteries. I reccomend getting a few NIMH batteries and a charger to save money, and the environment.
+
+Of course, there are a few "issues" I've encountered with the camera.
+
+GRIPE 1: SLOW SAVING- The camera takes between 1 and 4 seconds between shots to save the image it just took. When taking a lot of pictures, this delay becomes irritating after awhile.
+
+GRIPE 2: FEW BELLS AND WHISTLES- The camera comes with a 2x zoom, 10-second timer, quality settings, flash options (auto, red-eye, forced flash, no flash) a screen to use as a viewfinder and picture viewer, a normal viewfiner, and a Compact Flash slot. That's about it. I wish it had more options, like moving pictures around, stamping a date, etcetera.
+
+GRIPE 3: MACRO PHOTOS- I do some nature photography that requires close-ups. Unfortunately, the camera cannot do this very well. The closest it can focus is about 5 inches from the subject. However, this shouldn't cause problems for most users.
+
+GRIPE 4: USB TRANSFERS- Sending photos to the computer through the USB port is SLOW. I'm not sure why this is. It takes about 8 minutes to send 64 megabytes of data to the computer from the camera.
+
+CONCLUSION
+Overall, this is a very nice little camera. However, someone who's vying to become a professional photographer won't like this camera a lot. But, for the moms and dads out there, students, or business men and women, this camera should make you happy.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

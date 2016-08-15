@@ -1,0 +1,30 @@
+DOC>
+<DOCID> 112 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Fuji_Finepix_MX-1200_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/elec-review-13E9-20EEC09B-39ED0872-prod4 </URL>
+<TEXT>
+            This little camera, no larger than many wallets is a must have for digital photography. I recently bought it because I was tired of the size of my 640x480 pictures my former camera, the Ricoh RDC-300 produced. As a former user of a trouble-free Ricoh camera I had high expectations for my new Fugi MX-1200. In many points these expectations were exceeded.
+
+
+Fugi used several innovative features on this camera. Let's start with the menu selector. It's a dial. You turn it all the way to the left and the 1.6&quot; LCD screen pops up a setup window. It could not have been easier to change resolutions (without individual buttons which would have clustered the already tight back panel of the camera) between 1280x960 (1.3 megapixels) and the good ol' 640x480 resolution. The same goes with changing the picture quality, sharpness, etc. One click further on the dial takes you to the self-timer followed by a setting that allows you to adjust white balance and flash type (yes it has auto flash/white balance as well as red eye reduction features). You can also change the exposure compensation level with a handy pop-up menu. Snap the shot in this menu and it asks you if you wish to save it or delete it. This is VERY helpful so you dont have to go to the playback function every time to see if a picture came out the way you wanted, then go to the delete function on the dial and delete the picture (yes, an individual delete button would be nice to cut out a deletion step in some cases). The playback feature uniquely can set up thumbnails so you dont have to scroll through each picture and wait 3 or so seconds for it to load in order to find the picture your looking for. This can be especially helpful if you are using a high capacity SmartMedia memory card.
+
+
+The camera comes with a lame 4mb (2mb when it first came out) SmartMedia memory card. I found myself going out to buy a 32mb SmartMedia card off eBay two days later for $60. Instead of being able to hold only 6 high quality 1.3 megapixel pictures, I can now hold 50 on the 32mb card plus the 6 on the 4mb card. In fact, taking a picture at 640x480 resolution at basic quality (the lowest of the 3 possible qualities), I can now hold nearly 500 pictures on the 32mb card alone. Not a bad bargin for $60 if I don't care much about quality, but using this camera for taking pictures of the New England foliage, the mountains of New Hampshire, interesting weather events (i'm a weather buff), I do need good quality pictures which my Fugi MX-1200 was not shy to provide. Unfortunitly back to the memory issues with this camera it takes about 30 lifetimes to send each picture to the computer in some cases using the included TWAIN driver and the serial port connector. I am not sure what the folks over at Fugi were thinking when they made this camera without a USB connector to speed up the process by about 590kb/s. Therefore I found myself running out to buy a SanDisk ImageMate memory card reader for around $40 on eBay (once again) which does connect to my computers USB port. Needless to say instead of waiting over two minutes for a picture to upload via the serial port, I pop the memory card in the reader and seconds later the image in on my screen. Even better, I dont have to waste battery energy to upload the pictures which can be quite costly on the batteries. 
+
+
+I use NiCd rechargable batteries which is almost a must with many digital devices or else you'll find yourself spending more on batteries a year than you spent on the camera. Uploading images via the camera set aside, the camera does an exceptional job conserving battery power and I no longer worry if I will have enough battery power to take pictures while I am out for one day rather, will I have enough memory. A nice feature Fugi has is the optional viewfinder. With this you really dont need to use the LCD screen that much and therefore you save power. The LCD screen can easily be shut off with the click of a button while the camera itself remains on.
+
+
+Just a few other brief thoughts about the camera. DON'T be fooled into thinking it has a zoom feature even though it claims it has a 2x zoom. That is a digital zoom and all it does is internally look at the picture in a large 1280x960 viewpoint and cuts out half of the image around the center (the zoom only works in 640x480 mode and the camera will automatically temp. switch into that mode if you are not in it and zoom is selected). Therefore you are really taking a larger 1280x960 picture, but the camera is only saving the central 640x480 pixels making it seem like it zoomed in. You could easily take a 1280x960 picture and use the included software to cut out the part of the picture you want to keep and throw out the rest. Essentially that is what the camera is doing for you when you &quot;zoom&quot;.
+
+
+Finally, the camera does have one neat feature which I love to play with at night. One feature allows you to keep the shutter open for a longer duration than normal, 1/2 second. So, at night the camera flash briefly goes on highlighting the subject of your picture while the remainder of the time the shutter is open the surrounding street lights, building lights etc create a magestic glare seen in many magazines. If you have a tripod, or even something steady to sit the camera on, it's something you have to try!
+
+
+The Overall Picture: This camera is great for beginners through &quot;almost professionals&quot;. The quality of the pictures is hard to beat and from what I have seen impossible to beat by others of it's price range (usually $240-$320). It's also one of the most easy to operate cameras I have used. Fugi certainally did not trade off quality for ease of use with the MX-1200.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

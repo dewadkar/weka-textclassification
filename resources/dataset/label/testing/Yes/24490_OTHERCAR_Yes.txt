@@ -1,0 +1,177 @@
+DOC>
+<DOCID> 24490 </DOCID>
+<PRODUCT> Digital_Cameras/613020_Sony_MVC_CD300 </PRODUCT>
+<URL> http://www.epinions.com/content_45591793284 </URL>
+<TEXT>
+            For the past several years Sony has dominated the digital camera market in North America with their Mavica line.  It�s pretty easy to understand that domination when you consider some of the strengths of the Mavicas, they�re simple/intuitive to operate, durable/dependable, and even more importantly, it�s easy to immediately use the images because the cameras write to standard floppy discs.  But technology doesn�t stand still for anyone, and higher resolution three plus megapixel digital cameras require much larger storage options than the floppy disc with its maximum capacity of 1.4 MB. 
+
+Sony�s solution was to move the Mavica line into the twenty first century by replacing the old fashioned 1.4 MB floppy discs with 156 MB CD-R's. These mini CD�s are cheap, and offer the best $/MB storage ratio available, typically about two cents per image.  You can also use CD-RW discs (they are more expensive than CD-R�s but can be erased and re-recorded) Another big plus for the CD/R format is that they provide an almost perfect archival image storage medium (every image becomes a "digital negative" and the tiny CD�s can store lots of images) since your images can be easily filed/retrieved without having to give up valuable hard drive space. 
+
+Sony pioneered the use of the CD-R storage media in digital cameras with the introduction (less than two years ago) of the MVC CD1000, a bulky, slow, cumbersome 2.1 megapixel digital camera that never really caught on with the public.  The CD300 (and its 2 megapixel little brother, the CD200) have moved the technology and capabilities forward quite a bit.  Has Sony solved all the problems inherent in this new system?  No, start up times, initialize/finalize, and delete functions still need lots of work.  But the format does hold lots of promise for cheap high capacity digital image storage, and easy archival filing and retrieval. Hopefully, Sony�s engineers are currently hard at work developing/perfecting a system that will allow a thumbnail index of images to be displayed at the beginning of each disc.  
+ 
+<b>Features</b> 
+
+The most notable feature (on both the 3-megapixel CD300 and the 2-megapixel CD200) is the ability to use relatively inexpensive Mini CD-R or CD-RW CD's, for image storage.  This gives the user the option to either use cheap CD-R disc's once (the disc then becomes an image file) or use more expensive CD-RW�s and be able to reformat (and re-use) them after downloading your images. One disadvantage is that CD-RW discs are typically slower than CD-R's. 
+
+Sony�s first automatic pop-up flash, the flash pops up if you either (a) have the flash set to Auto and the camera decides it needs it, or (b) you have the flash set to fill flash mode.  Just to the top-left of the lens surround is the AF illumination lamp, this comes on automatically in low light situations and is used to assist the cameras AF system (with or without flash enabled).
+
+A common complaint about Sony�s digital cameras has been the lack of a true continuous shooting mode. The CD300 adopts (and expands) the S75's 2 shot burst to a �Burst 3 � mode which allows three frames in a burst (0.8 sec apart; 1.3 fps equiv.) before the on board buffer is filled.  You�ll have to wait about 30 seconds (for the buffer to write the three images to disc) before you can shoot another burst
+
+The new Jog Dial is a small wheel next to the zoom controls used to select apertures, shutter speeds, or adjust exposure compensation.
+
+The CD300 features three user selectable ISO settings (100, 200 and 400) and the same Auto Mode used on the S70/S75 (varies sensitivity between ISO 100 and 300 automatically depending on available light). 
+
+The Carl Zeiss 3X zoom is one of the best fixed digital camera lenses I have seen to date, optical resolution is exceptional, easily superior to more than ninety per cent of the digital cameras on the market.
+
+Battery life is surprisingly good (especially for a device with a mechanical/magneto-optical storage system) the battery lasted through well over two hours of heavy shooting (with careful use of the LCD). Heavy playback, initialize or finalize will take a heavier toll on the battery. The CD300 uses the same NP-FM50 "M series" InfoLithium (Lithium-Ion) battery used in the S70 
+
+
+<b>Technical Specifications</b> 
+
+Resolution: 3.34-megapixel (2,048 x 1,536) 
+LCD: 2.5" Hybrid LCD (sunlight / backlit)  
+Lens: f/2.0-2.5/34-102mm (35mm equivalent) Carl Zeiss Zoom. 
+Manual or Auto Focus. 
+Shutter speed: 8 seconds to 1/800th of a second (1/1000th second in Shutter Priority Mode). 
+Exposure Modes: Program/Auto, Aperture Priority, Shutter Priority, and Manual. 
+Metering: Center-Weighted & Spot. 
+Flash: Built-in �pop-up� 
+Image Storage: 156MB CD-R/CD-RW 
+Connectivity: USB
+Power: NP-FM50 "M series" InfoLithium (Lithium-Ion) battery
+
+<b>Included</b> 
+Sony MVC-CD300 Digital Camera, Lens cap & attachment string, Battery Pack NP-FM50, AC Adapter / Charger AC-L10, 1 ea 8cm CD-R, 1 ea 8cm CD-RW, Shoulder Strap, USB Cable, A/V Cable, CD-ROM: Sony USB Drivers, MGI PhotoSuite, MGI VideoSuite 
+
+
+<b>In The Field/Handling & Operation</b>
+
+My friend and I had decided to test both the new Olympus C3040 and the new Sony CD300 digital cameras at the same time.  After getting together on an absolutely beautiful Saturday afternoon, we took both cameras to Cherokee Park.  This is a large urban green space designed by Frederick Law Olmsted (who also designed NYC�s Central Park). The park was crowded with joggers, skaters, people throwing Frisbees, and folks playing with their dogs. We shot some action shots of a couple of very talented local dogs catching Frisbees in mid-air. Neither of the cameras did very well at this task, but the Olympus was quicker than the Sony. 
+
+After it got a little too warm to be out in the open, we scouted around looking for interesting intimate landscapes and macro images to shoot. I found a huge old oak shelf fungus growing at the base of a dead tree. I took a couple of macro shots of the fungus with the Sony CD300 (we didn�t get to try the Olympus on this promising subject because my friend had a short but very decisive territorial dispute with a huge old groundhog) The macro shots were excellent and Sony�s new pop-up flash (Fill-in Mode) worked very well 
+
+The following Friday evening I met my friend and another photographer at Bowman Field to shoot the annual balloon glow that is the kick off event of the Adam Mathews Cheesecake Balloon Festival. What really sets the Adam Mathews Cheesecake Balloon Festival apart (especially for photographers) is the fact that festival spectators are allowed complete access to the balloons. You can get up close, talk to the crews, and shoot pretty much anything you like. The free Adam Mathews cheesecake passed out to crowd is another great feature of this festival. 
+
+We ended up having absolutely perfect weather and the event drew a large crowd to watch the balloons inflated just after dark.  This can make for some stunning color images because the propane burners used to produce the hot air for lift, light the colorful balloons up beautifully against the night-time sky.  There was a gorgeous sunset and as it got dark a perfect crescent moon rose just above the horizon. The Sony�s f2.0 maximum aperture worked great (just after sunset) for shots of the balloon crews getting their balloons set up. The balloons were huge and once they started inflating, they completely filled the frame.  Most of the burners only flared for a couple of seconds, so it was very difficult to time exactly when to trip the shutter. The CD300 is not easy to use mounted on a tripod, since the tripod socket is positioned horribly, and most of the shots from the balloon glow were mis-timed because of the cameras slow operation.  I did manage to get a couple of great shots of colorful glowing balloons against the dark night-time sky. 
+
+Saturday morning my friend and I met at Bowman Field at about 8:00 am. The balloons had been lifting off since about 5:30 am but hot air balloons aren�t really very fast (even when they are racing) and it took about 3 hours to get them all up and spread out nicely across the morning sky.  It was an absolutely beautiful early fall morning and we were able to use the Sony CD300�s excellent Carl Zeiss 3X zoom to isolate tight backlit groups of colorful balloons against the blue sky. 
+
+For our final test with the SONY CD300 we decided to spend a little time shooting fall color at Cave Hill Cemetery, Louisville�s only arboretum.  The first Saturday in November seemed to be the seasonal color peak here.  It was a wonderful Ohio Valley autumn afternoon with oblique late autumn light.  My friend and I wandered around shooting the old gravestones blanketed with beautiful leaves in an incredible array of colors. Cave Hill is a very old cemetery dating back to the middle of the nineteenth century and there are many ancient native trees, Oak, Hickory, Poplar, Maple, Osage Orange, Bald Cypress, and even a couple rare big leaf magnolias.  There are also many exotic trees on the grounds from Europe, Asia, Africa, and South America.  The color combinations can be stunning, and the SONY CD300 performed flawlessly.  
+
+<b>The Sony CD300 Compared to the Olympus Camedia C3040</b>
+
+My firend and I had decided to try testing two digital cameras simultaneously (something we definitely won�t be trying again) so during all of our recent outings we carried both the new Sony Mavica CD300 and the new Olympus Camedia C3040.  How do the cameras compare?  Both are updated versions of earlier successful digital camera models. The Olympus is the latest version of the C3000/C3020 family while the Sony is based on the DSC-S70/DSC-S75 models.  We shot virtually identical images with both cameras and then compared them side by side. The Olympus images have more contrast, and the blacks really are black, while the CD300 tends to push the darker end of the grayscale up just a tad to maintain shadow detail. The CD300 didn't auto white balance quite as well as the Olympus C3040, and the Sony images have a very slight pink cast. Overall the CD300 exhibits slightly better dynamic range and (just barely) better color reproduction. In direct comparison, the Sony images seem to be a bit sharper, probably due to the exceptional Carl Zeiss 3X zoom lens. 
+
+This is Sony�s first Mavica with resolution greater than two megapixels, and Sony�s second generation camera that writes directly to a 156 MB CD-R, and the first to offer CD-RW capability. The ability to use CD-RW gives you the option to dump the disc�s contents, re-format the CD and use it again. The finalised CD-R's from this camera can be read in any computer CD-ROM drive.  The CD300's CD compartment is the camera�s most prominent feature, it�s much the same as on the CD1000 (the first CD-R digital camera), the back of the camera swings open to reveal the CD drive mechanism.  To change discs simply clip in new one and close the door. 
+
+A couple of steps are required to prepare the discs both for use in the camera and so that they can be read on a standard computer.  Place the camera on a level surface (without any vibration.) so the disc can be "Initialized", this writes basic header information to the CD-R so the camera will write a file table when images are saved.  Before your computer can read a CD-R (CD-ROM drive)disc or CD-RW (CD-R/RW drive) disc you must finalize it, this completes the file table. Finalising a CD-R uses up some disc space, so it's best to finalize only when the disc is full.
+
+<b>A Few Concerns</b> 
+
+My biggest gripe with the CD300 is the disc set-up/start-up/finish timing.  CD-R initialize 15 seconds (CD-RW 35-40 seconds) finalize CD-R 1.2-1.5 minutes (CD-RW 1.5-2.0 minutes) un-finalize CD-RW 1.5 minutes, format CD-RW 5.5-6.0 minutes.  The CD300 can only recover disc space by deleting images in sequence from the last image taken, if you take ten shots and delete the first five you won't get any disc space back, but if you delete the last five you will.  I have heard of stories of compatibility problems with MAC computers/OS and older Windows OS (Win95) systems. 
+ 
+<b>Conclusion</b> 
+
+Images from the CD300 are as good or better than images from any other 3 megapixel camera I have used, however initial cost is higher than comparable cameras and set-up/start-up/disc write times (while better than the MVC CD1000) are irritatingly slow.  The new built in buffer does help here, but the Sony CD300 works slower than most digital cameras.  However, digital cameras are not known for their speedy operation, so for most static subjects the slower response times on the CD300 won�t be much of a problem and when they�re balanced against the much lower cost of storage media, the fact that images can remain on the CD-R (rather than taking up valuable hard drive space) and the excellent optical performance of the CD300, this Sony digi-cam may be just the ticket.
+
+For just a couple hundred dollars more ($1200.00) you can buy a five megapixel digital camera (and there is a four megapixel camera in the same general price range) however, once you factor in additional storage media for the higher megapixel cameras and consider the lost gigabytes that the images transferred from these CF or SM cards is going to hog on your hard drive, the CD300 looks better and better.  It is important that digital camera shoppers consider features carefully and balance them judiciously against their needs.  If you shoot lots of pictures, or mostly static subjects (landscape/travel/portrait) then a CD-R that will hold 80-90 high res Jpegs (and use up none of your hard drive space for image storage) is going to seem like a much better deal than buying a 1 gigabyte IBM Micro-Drive or several CF or SM cards. 
+
+
+For information on How to Choose a Digital Camera please see my review: 
+
+<a href='/elec-review-2E46-17B174E2-39A418E3-prod1'>http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+For information about specific Digital Camera models, please see my Digital Camera Reviews: 
+
+
+Nikon Digital Cameras 
+
+Nikon Coolpix 5000
+<a href='/content_52720406148'>http://www.epinions.com/content_52720406148</a>
+
+Nikon Coolpix 885 
+<a href='/content_46290931332'>http://www.epinions.com/content_46290931332</a> 
+
+Nikon Coolpix 995 
+<a href='/content_40256769668'>http://www.epinions.com/content_40256769668</a> 
+
+Nikon D1X 
+<a href='/content_36023996036'>http://www.epinions.com/content_36023996036</a> 
+
+Nikon D1 
+<a href='/elec-review-4868-E2433E5-38737CF8-prod2/tk_~CB003.1.78'>http://www.epinions.com/elec-review-4868-E2433E5-38737CF8-prod2/tk_~CB003.1.78</a> 
+
+Nikon Coolpix 880 
+<a href='/elec-review-2DA8-DF21E52-39E118CA-prod5'>http://www.epinions.com/elec-review-2DA8-DF21E52-39E118CA-prod5</a> 
+
+Nikon Coolpix 990 
+<a href='/elec-review-3B78-3C431D90-3A345313-prod3'>http://www.epinions.com/elec-review-3B78-3C431D90-3A345313-prod3</a> 
+
+Canon Digital Cameras 
+
+Canon Powershot G2 
+<a href='/content_47646084740'>http://www.epinions.com/content_47646084740</a> 
+
+Canon Powershot S10 
+<a href='/content_7563808388/tk_~CB003.1.74'>http://www.epinions.com/content_7563808388/tk_~CB003.1.74</a> 
+
+Canon EOS D30 
+<a href='/content_11625991812/tk_~CB003.1.58'>http://www.epinions.com/content_11625991812/tk_~CB003.1.58</a> 
+
+Canon Powershot PRO 90IS 
+<a href='/content_30440001156/tk_~CB005.1.9'>http://www.epinions.com/content_30440001156/tk_~CB005.1.9</a> 
+
+Canon Powershot G1 
+<a href='/content_8768294532/tk_~CB003.1.70'>http://www.epinions.com/content_8768294532/tk_~CB003.1.70</a> 
+
+Canon Powershot PRO 70 
+<a href='/elec-review-6496-25768DA-38C3E01A-prod9/tk_~CB003.1.70'>http://www.epinions.com/elec-review-6496-25768DA-38C3E01A-prod9/tk_~CB003.1.70</a> 
+
+
+Sony Digital Cameras 
+
+Sony DSC S85
+<a href='/content_51957567108'>http://www.epinions.com/content_51957567108</a>
+
+Sony MVC-CD 300 
+<a href='/content_45591793284'>http://www.epinions.com/content_45591793284</a> 
+
+Sony DSC-S50 
+http:<a href='/content_15885897348'>http://www.epinions.com/content_15885897348</a> 
+
+Sony Mavica MVC-CD1000 
+<a href='/elec-review-5F01-365BA12-3980602C-prod3/tk_~CB003.1.14'>http://www.epinions.com/elec-review-5F01-365BA12-3980602C-prod3/tk_~CB003.1.14</a> 
+
+Olympus Digital Cameras 
+
+Olympus Camedia C3040 
+<a href='/content_42675179140'>http://www.epinions.com/content_42675179140</a> 
+
+Olympus Camedia C3000 
+<a href='/content_26106105476/tk_~CB003.1.30'>http://www.epinions.com/content_26106105476/tk_~CB003.1.30</a> 
+
+Olympus Camedia E10 
+<a href='/elec-review-59FB-183DFC73-3A17388F-prod2/tk_~CB003.1.42'>http://www.epinions.com/elec-review-59FB-183DFC73-3A17388F-prod2/tk_~CB003.1.42</a> 
+
+Fuji Digital Cameras 
+
+Fuji Finepix S1 �PRO� 
+<a href='/elec-review-5591-16816C34-39047A87-prod5/tk_~CB003.1.18'>http://www.epinions.com/elec-review-5591-16816C34-39047A87-prod5/tk_~CB003.1.18</a> 
+
+Minolta Digital Cameras 
+
+Minolta Dimage 5 
+<a href='/content_49104522884'>http://www.epinions.com/content_49104522884</a> 
+
+
+Just �cut�n�paste� the URL into your browser�s address window. 
+
+
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

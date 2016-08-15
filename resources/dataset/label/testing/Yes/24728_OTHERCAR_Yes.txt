@@ -1,0 +1,26 @@
+DOC>
+<DOCID> 24728 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Sony_DSC-S70 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-1E22-BBA33F8-39C3B5F6-prod1 </URL>
+<TEXT>
+            For some reason, in Sony's infinite wisdom, PC Support now also receives support calls for the Digital Cameras.  Why?  Who knows?  We received 4 hours of training on the cameras and then were thrown to the proverbial wolves...gotta love that!  :)
+
+Well, the first few calls weren't bad, they were all about getting the computer to recognize the camera through the USB port.  THAT I can do!  But then I got my first pre-sales call...&quot;What's a mega-pixel?&quot;  The only answer I could think of was &quot;It's kinda like a pixel, only cooler.&quot;
+
+Anyways, since then I have learned what a mega-pixel is, and I have also learned that the DSCS70 camera has one of the highest mega pixel rates of any camera out right now for normal consumers.  Basically what does that mean?  It means the camera takes really stinkin good pictures!
+
+All of the Cyber Shot cameras can be connected directly to a Windows 98 or Windows 2000 computer (with a software upgrade from the Sony Website for Win2000) using a USB Connection.  This is usually where people call Tech Support, depending on how familiar they are with USB and their computer.  Let me make a point here that Sony will not guarantee that the camera will connect if you have just run an upgrade from Windows 95 to Win98, and they will not support Win95 at all...
+
+Sony DOES make a couple of accessories for reading the Memory Stick if you have Win95.  There is a PCMCIA card adapter if you have a notebook computer, and there is also a Memory Stick Floppy Disk Adapter, where you just insert the Memory Stick into the adapter and then your computer will read it just like a Floppy Disk.  That is too cool, but I think each adapter runs around $60-$70...
+
+Other than that small compatibility issue with Win95, the camera works great.  The pictures are unbelievable, and you can even take 15 second MPEG1 videos to send to Grandma so she can see how cute you are!
+
+The Memory Stick that comes with the computer will hold a lot more pictures than a Floppy Disk, which is great, but the downside to this is that the Memory Sticks are slightly expensive, so it is hard to carry extras around for when you fill the first one up.
+
+All in all, I give the Cyber Shot Cameras Two Thumbs Up in general, with the DSCS70 at the top of the list because it is the latest and greatest at this time.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

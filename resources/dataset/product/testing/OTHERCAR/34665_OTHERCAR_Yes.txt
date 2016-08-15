@@ -1,0 +1,25 @@
+DOC>
+<DOCID> 34665 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_SonyDSCC-Sony_DSC-D700 </PRODUCT>
+<URL> http://www.epinions.com/content_10152021636 </URL>
+<TEXT>
+            Sony's now-discontinued DSC-D700 is a terrific bargain for a near-professional quality digital camera.  The true SLR form factor, in addition to all the creative controls (and then some!) of a full-featured high-end 35mm SLR, make this camera a joy to use for the semi-pro to professional photgrapher.  Don't let the low pixel count (1.5M) fool you, there's much more to making a good digital photo than lots of pixels.  This camera is easily capable of producing beautiful prints up to 8x10" with no distinguishable digital artifacts, and is well above what is necessary for web publishing.  The large (62mm) objective lens is very fast (f2.0) and is practically distortion-free.  The body is sturdy and well-designed and is the most professional "looking" of any digital camera in it's price range (Try getting a client to take you seriously with a camera sporting a "point-and-shoot" design).  
+
+Good things:
+-The tiny IR remote is terrific!  No cables! and you can use it in conjunction with the timer for self-portraits.
+-standard "hot-shoe" mount means you can use this camera with any studio flash setup or aftermarket flash unit (which is good, since the built in flash isn't great).
+-PC card interface (comes with Memory Stick adapter) lets you load photos into any PCMCIA-equipped laptop without any additional software or drivers.  Just stick it in the slot and it shows up as a drive.
+-Batteries last forever (well, not quite forever, but a really long time) I took the D700 on a two-week cross country trip and took over 200 photos without needing to change the battery.
+
+Not-so-good things:
+
+-The optical viewfinder hard to use in low-light situations, especially without a split-prism (this is my biggest gripe about the camera) I rely almost exclusively on the LCD.
+-The parallel port PC card reader is tricky to install, and once you get it installed is hardly worth it.  Parallel ports are SLOW!  It can take up to 15-20 minutes to transfer 64Mb!  Do yourself a favor and get the USB Memory Stick reader, it's about $30-40.
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

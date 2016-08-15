@@ -1,0 +1,51 @@
+DOC>
+<DOCID> 16756 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Sony_DSC-P8_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_104205946500 </URL>
+<TEXT>
+            OVERALL
+I like the camera, but 2 annoyances really keep me from giving the camera 4 stars.  In fact, they are so severe that they bump it down to the 1 or 2 star range.  I bought the camera for its MPEG-VX 640x480 movie mode, so more on that later.
+
+I'll guess that most of the readers here will know the basic spec's and features of the DSC-P8, so I'll focus on some things that might not be so well known.
+
+THE MOST AGGRAVATING FEATURE
+The macro button alone is responsible for more wasted shots than any other flaw in a camera of mine.  I count this as the third generation of the CyberShot P-series, and the last two have have the same bewildering placement of the macro button.  It is too close to where you would naturally place your thumb.  What's worse is the fact that the macro button is rather prominent and just far too easy to inadvertently activate.  it was a problem on the DSC-P7 / P9 and Sony has just made it WORSE by making the button even taller than it was before on the P8 / P10 / P12.
+
+This is just so STUPID.  There can't be that many people using macro mode to justify making this THE MOST LIKELY button to get activated on the camera (yes, it's even easier to hit than the shutter release button).
+
+EXPOSURE
+It's a point and shoot camera and it should do snapshots well, but it just doesn't.  Like the DSC-P7 that I previously owned, this camera seems to get the exposure wrong more than I like.  Too often, the camera overexposes the subject's face into an unrecognizable white blob.  Other times, it flat out guesses in the opposite direction by leaving the subject completely dark.  I've tried both spot and matrix metering to no avail.
+
+What is disappointing about all this is that my old DSC-P1 seemed to get exposure right more often.  My recommendation is to shoot lots of pic's and bracket as much as possible.  Unlike the DSC-10, the P8 does not auto-bracket so you have to do this manually.
+
+MOVIES
+In early 2003, only a rare few digital cameras had unlimited movie (with sound) recording modes.  Sony's on the other hand have been offering this feature for over a year now.  Now that it is mid 2003, more cameras are emerging with unlimited recording time (limited of course only by the memory card size).  With this feature becoming more commonplace, there are fewer reasons to buy a Sony.
+
+Here's the skinny on the new MPEG-VX 640 x 480 movie recording mode.  It doesn't look any better than 320x240 movies!!!!
+
+The MPEG-VX mode is an interpolated MPEG-HQX 320x240.  And trust me.....I have tried and tried and tried to look for any difference between the VX and HQX (320x240) or even HQ (also 320x240) movies.  There just simply isn't any discernable difference.  I've even done back to back comparisons between the three (using a DSC-P1 and DSC-P9), and I have yet to find any difference.
+
+The most compelling evidence of interpolation is that the recording times for a 128MB memory stick are identical for MPEG-HQX and MPEG-VX.
+
+I DISLIKE THE MEMORY STICK.  
+Geeeez!  Who likes to pay two to four times as much as everybody else is paying for the same size memory?  Let's see (after rebates)...
+256MB MemoryStick = $50
+256MB CompactFlash = $28
+
+1GB MemoryStick = $480 (YIKES!)
+1GB CompactFlash = $160
+
+I DISLIKE THE WRIST STRAP
+Sony really cheaped out on this.  Previous DSC-P1 P7 P9 had a nice wrist strap with a sliding collar that secured the camera to your wrist.  The P8 has a flimsy strap that is missing the collar.  There's no secure way to carry the camera now.  I just don't understand why this would be missing.
+
+
+SOME THINGS THAT I DO LIKE
+-it's small
+-it's tough
+-burst-2 mode is especially nice for capturing shots of kids (kids never sit still)
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

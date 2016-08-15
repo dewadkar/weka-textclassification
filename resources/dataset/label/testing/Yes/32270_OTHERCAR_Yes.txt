@@ -1,0 +1,65 @@
+DOC>
+<DOCID> 32270 </DOCID>
+<PRODUCT> Digital_Cameras/514339_Nikon_Coolpix_995 </PRODUCT>
+<URL> http://www.epinions.com/content_41518993028 </URL>
+<TEXT>
+            Okay, I wouldn't do that... but...
+
+Talk about helping the economy!  I've dropped almost $2000 in imaging toys alone!  (I also have a car I'm dropping my money into, but there are no ePinion topics on those products yet).
+
+One of my "toys" is a Nikon CoolPix 995.  A minor upgrade to the 990, the only changes are the location of the flash and the compatibilty with the use of CompactFlash Type II.
+
+
+<b>Differences</b>
+For owners of the Nikon CoolPix 950 and 990, take heart.  There is nothing major about this camera that warrents an tradeup!  This is a bad thing for these users, however, because the differences are two fixes that many people have complained about the the last two iterations.
+
+First, of course, is the flash location.  The 950 and the 990 flash was right next to the lens, thanks to the radical pivot design.  This caused red-eye very easily, as the light source is very close to the lens.  Even red-eye reduction techniques proved difficult.  However, with the new pop-up lens, the red-eye phenomenon is reduced.  Also, with this pop-up flash, there is now enough clearence for most lens add-ons, where as on the 950/990s, most large lens would block the flash.  Of course, those who are really serious don't even use the built-in flash.  However, the majority like you and me probably will never use it for anything other than a point and shoot.
+
+Second, was the support of the thicker ComactFlash (CF) Type II.  This allows larger CF sizes to be used.  Although not a huge buying factor, it is nice to be able to slip in an IBM MicroDrive IF you ever decide to buy one.
+
+Oh, for those of you who wear glasses, take heart...there is an adjustment for the viewfinder so you can use the camera without your glasses.  Just like most camcorders do!
+
+The resolution did not change between the 990 and the 995.  Where as the 950 was a 2.1 megapixel camera, the newer 990 and 995 is 3.34 megapixel.  I have to admit, though... most of us can get away with a 2.1 or even a 1 megapixel camera.  If you really wanted print outs, it's more feasible to use a 35mm camera.  For the rest of us who just want instant gradification or just pictures to post on the net, this camera may be overkill.  (Why I wanted one is my own business, though...hehe).
+
+Another minor thing (though very useful) is the "Quick Review" button.  It allows a picture-in-picture view of what you shot before (in memory) and the current image the lens are seeing in real time.
+
+<b>Ease of Use</b>
+This is a very complicated camera to use, actually.  I'm by no means a professional photographer, but I do like fiddling with new toys.  Even without the manual, the symbols and text that is accompanied with the symbols are very self explainitory.  The manual is very easy to navigate, so if you do not understand a fucntion in the menu, you can easily find it in the manual.
+
+In strange situations, like needing to take a picture of a subject only a half foot away, the manual focus is very handy.  It is very to adjust!  Just slip it into Manual Capture mode, push and hold the M-FOCUS button, and rotate a wheel.  The LCD display will indicate the distance it is focusing at.  Push the M-FOCUS again, and it will go back into auto-focus mode.  Most of the time, our subjects are at a pretty good distance so that the auto-focus will work.
+
+There is a very annoying "continuous" focusing though, where the camera keeps trying to focus even when you are not taking a picture (as in, it keeps focusing when the camera is on and doing nothing).  This is why I only use the Manual Capture mode, and turned the continuous focus off.  This kind of feature reminds me of how the auto focus works on a camcorder.  However, since this isn't for a movie, we don't need the camera doing so.  This takes up alot of current, and it is very annoying, since it is a bit noisy when it does so.
+
+To turn it off, go to the Manaul Capture mode, hit MENU, navigate to the 2nd page (marked "2"), go to FOCUS, then go to Auto-Focus Mode.  Select "Single AF".
+
+This will allow the camera to auto focus ONLY WHEN YOU TAKE A PIC.  Like what most cameras do.  Push the trigger button half way, wait for the camera to auto focus, then when it gives you the green light (literally), push it the rest of the way in to SNAP!  You're done!
+
+There are more settings like exposures, but that is getting a bit too deep for me.  This is a camera that is perfect for wannabes that want to learn.  Just play with the settings!
+
+There is even a port for external flashes for you pros who own those kind of equipment!  The video out works like a charm, and no real settings to play with.  Just connect the cable up, and the video will feed into your video equipment without a problem.
+
+The menus themselves are really easy to navigate, actually.  You just couldn't tell from looking at screenshots from magazines and online reviews.  Pick one up at a Best Buy display and see what I mean!
+
+The software, however easy to use, is very annoying.  In Windows 9x and 2000, once you plug the USB cable in the camera, the Nikon software starts, everything is recognized, etc.  However, if you turn the camera off (but leave the USB connection), and turn it back on, the Nikon software does not come back up.  And if you decide to launch it yourself, it will NOT detect the camera and the contents of the CF.  Although it is assigned a drive letter, this method of reconnecting the camera also fools Windows into thinking it's not there.  The only recourse?  Physically unplug and replug the USB cable with the camera on.
+
+
+<b>Ergonomics</b>
+For a camera of it's kind, it's actually pretty small!  It's not a very light camera at all, though.  Although smaller than the Kodak DC290 (my last camera), it has way more features than the Kodak.  Both are not really portable, but at least luggable.  A great camera for wedings and special events, but not for the beach!!!  You may want a cheap digicam for harsh enviroments that you wouldn't mind letting it suffer minor damages from drops, sand, moisture, etc (but not many that take good quality pictures exist).  For that, I think a disposable and a scanner will have to do.
+
+Okay, getting back to the camera at hand, it is heavy!  It may not seem like it (at hand...hehe), but once you decide to put it away because you are in between sight seeings, you will feel it!  Especially if you put it around your neck with the included neck strap!  And because of the price you paid for it, you won't feel comfortable leaving it dangling like that!
+
+It can be used with one hand.  The left part of the camera houses the lens, after all, and it pivots.  The grip is very nice, as it feels as if you are just balling your fingers for a fist.  As your fingers wraps around the contours, your index finger is left free to select capture/review modes and use the trigger.  Your thumb is located perfectly to use the adjust wheel and the zoom in/out buttons.  Too bad the Quick Review button is out of the way of the thumb for photo playback quickies.
+
+<b>Power</b>
+With on/off usage, the camera did last just a hair under 100 shots.  This is over a span of about a week, however, as I don't use the camera much.  Batteries can still be found in disposable form at local drug stores like Walgreens.  But keep in mind, these are no AA batteries.  These are battery packs.
+
+<b>Feasibilty</b>
+Even though I am just a regular Joe using this camera, I feel that the quality of the pictures are worth the money spent.  Now this is a PERSONAL choice.  I'm sure most of you will not spend close to a grand for this kind of quality, when it is nearly impercievable between other 3.1, 2.1, or even 1 megapixel cameras.  To each their own!
+
+For those, there are the Nikon CoolPix 775, 850, and the Kodak DC290.  Quality cameras, quality pictures.  No BS features.  (Okay, some BS features, but that's what makes them cool!).
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,24 @@
+DOC>
+<DOCID> 11760 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Kodak_DC3200 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-60BD-13325F38-3A0A4DE6-prod2 </URL>
+<TEXT>
+            I bought this product based on its price ($199.97 at Best Buy), and the brand name recognition of Kodak.  I was looking for an entry level digital camera to augment my Canon SLR traditional camera, and I did not wish to spend a large amount of money.  The megapixel resolution and Compact Flash expansion made this an attractive package.  I added a Simple Technology 8MB Flash card ($49.99) to make this camera as usable as possible.
+
+The camera is of a very basic design, akin to the $50 point-and-shoot cameras hanging on pegs at the local Wal-Mart.  The lens is fixed focus, the zoom is locked at 2x and is digital.  The only settings are for flash mode (automatic, off, on), quality (best: 1152x864 low compression, better: 1152x864 high compression, good: 576x432 low compression) and white balance (auto, daylight, fluorescent, tungsten).  Exposure, etc., are all fixed, making its usefulness in extremely low light and/or low contrast situations dubious.  
+
+When the subject isn't severely under-lit or over-exposed, the camera performs adequately.  I imported the JPEG files into Adobe Photoshop, and at 100% size (on an 800x600 monitor), even pictures taken in BEST quality setting revealed a visible amount of artifacts, some related to compression, some introduced by the CCD (diagonal lines that &quot;stairstep,&quot; for instance).  Resizing the image down to a size appropriate for web pages, CD-ROM scrap books, etc. (50%, or 576x432) produced very good looking images, better than what I was able to produce using traditional 35mm prints and a Hewlett Packard ScanJet 5pse.
+
+Printing the photos (full size) on a DeskJet 842c produced very usable results on HP's &quot;Bright White&quot; Inkjet paper (I have not tested it with photo grade paper).
+
+The camera feels quite solid, and the controls and menu system are relatively easy and straightforward.  I wish the lens cover was not an optional accessory, and I wish the LCD panel didn't fall quite so readily under my thumb (where thumb prints quickly gather), but these are minor quibbles on an otherwise well designed camera.  One note:  The picture is taken a few heartbeats *after* the trigger is depressed, and the only feedback (when the flash is not used) is a barely audible click.  The camera could stand to be more responsive, and I would like to have a more tangible way of knowing that the picture took (maybe an LED in the viewfinder?)
+
+A note about using this camera with your computer: it includes a serial interface, which is almost universally compatible, but which is quite slow.  Fortunately, you can select a single picture, a group of pictures, or all pictures for downloading, based on thumbnails.  By &quot;batching&quot; the transfer from the camera, you can transfer the photos in the background while using the computer for other things.
+
+Summary:  This is a decent entry level digital camera that will work perfectly for pictures destined for the web, or for fun.  (It is a camera I would take to Disney Land with friends, not a camera I would use to record my wedding.)  Be clear about what you want out of a digital camera, and expect to get more or less what you pay for.  This is an entry level camera, and it is well suited to the beginner, or for the person seeking a digital adjunct to a standard, high quality photo rig.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

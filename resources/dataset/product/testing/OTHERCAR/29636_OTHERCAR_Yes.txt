@@ -1,0 +1,45 @@
+DOC>
+<DOCID> 29636 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_EOS_D30 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-83B-B3BDC37-39E3A9CE-prod1 </URL>
+<TEXT>
+            <i>NOTE: The following is my opinion about this camera. This is not a duplicate of the manufacturer's spec page (linked to on the epinions' D30 main page) or a digital photography tutorial. This camera is intended for serious photographers, and this review is for those who are at least initiated on the digicam subject and have gone (or intend to go) through Canon's D30 spec page. To do it otherwise for such an advanced product would require a review so long it would be useless to the very people who could use it.</i>
+
+&quot;Finally - a 'real' digital camera for us&quot;, Canon photographers could say. Real as in a &quot;real photographer's camera&quot;, rather than a snapshot-taking gadget. Real as in &quot;a well balanced, full-featured digicam product with no  crippling weaknesses&quot;. Real as in &quot;priced, if barely, within ordinary people's range&quot;. Real.
+
+<b>First of all, let's see how good of a <i>camera</i> this is, leaving the &quot;digital&quot; qualifier aside.</b>
+
+<b>The feel.</b> It seems slightly fatter than SLR's tend to be. Being considerably smaller than EOS3 (5.9x4.2&quot; vs. 6.3x4.7&quot; for EOS3), it is however nearly as heavy (750g vs. 780g for EOS3), so it feels very dense. It's a good feeling but it would be a great one if Canon did not insist on plastic exterior. It's a good, grippy plastic, and it probably won't cause problems, and Canon being Canon this is what you get unless it is what they consider a top of the line body :-). Of course why they couldn't cut a slack for this $3,000 body is beyond me :-)
+
+<b>The viewfinder.</b> I don't like what I see. It is a decent midrange camera viewfinder - nothing more. I would expect better coverage (95% vs. 97% on EOS3). This gets me: if their digital sensor is less than 35mm frame, why, oh why, did they cut the viewfinder <i>even more</i>?? I mean they could have a 120% viewfinder with a 100% frame line inside if they wanted (which would be ideal if you ask me). The magnification <i>looks decent on paper</i> at 88% but that is because they're blowing up a partial 35mm area.
+
+<b>The AF system.</b> OK it's fast but it has only 3 sensors. I think any serious camera that is to be considered to any extent future-resistant (a future-proof digicam would be a contradiction in terms :-) is expected to have more than D30's modest complement of 3 AF sensors a'la Maxxum 9.
+
+<b>The vertical grip.</b> There is one. The usual controls. Has room for 2 batteries, which, needless to say, doubles the life.
+
+<b>The rest.</b> There's a reasonably complete set of options, modes, and features we've come to expect from contemporary upper-midrange SLR's. Too many to list.
+
+<b>Now let's turn to the digital aspects of this camera.</b>
+
+<b>The sensor.</b> This is of course the digicam's heart and eyes rolled into one mightily essential organ :-). Canon is pushing their CMOS technology on this one. First it was the AF sensors in EOS Rebel 2000 and EOS 3 - now they have a whoppin' APS sized CMOS chip that is D30's eyes onto the world, and, at 3.11 megapixel (2,160 x 1,440), what sharp little eyes those are :-) Consumer / prosumer 3.11 digicams with built in lenses can't compete. Their sensors are 1/1.8&quot; &quot;sized&quot; which actually means the sensor diagonal is about 0.25&quot; (yes 1/4&quot;) - pathetic compared to D30's whopping 0.73&quot; diagonally sized sensor. Since its sensor has a large image area to work with, D30 is able to get a lot more detail out of those Canon lenses, and produce cleaner / much less noisy images. Actually noise is an issue with CMOS sensor technology but Canon must be doing something right as D30 images seem really clean - cleaner, in fact, than Nikon's D1 (which have approx. same sized CCD sensor).
+
+<b>The electronics.</b> D30 has the electronics to match its excellent sensor. The processing is in 12 bits per channel (which reduces or eliminates posterization artifacts sometimes seen in images from 8 bits / channel prosumer digicams). The operation is pretty fast (except initialization when the camera is turned on) and the 32 MB buffer allows 3 fps bursts (frames per burst depends on image format / size / compression settings / media, ranging from 2 to sustained).
+
+<b>The battery life.</b> A compact LiIon unit of Canon's own design. At 500+ average shots per charge / 2+ hours' LCD playback, this finally is in a sane range. Most other digicams' battery lives at well under an hour's shooting are so pathetic it's not even funny.
+
+<b>The software.</b> Acquire module needs work IMHO - very slow, plus minor other complaints.
+
+<b>The rear LCD display.</b> The usual 1.8&quot; / 114K pixel stock. Can show image histogram (a'la Nikon D1 and other &quot;serious&quot; digicams) and the usual complement of camera settings. This being an SLR, fortunately / thanks to the informative display in viewfinder, you certainly could do without this LCD when shooting (unlike with most &quot;prosumer&quot; digicams). This being an SLR, unfortunately / thanks to the mirror, there's no live image preview before capture. You only see the images after they're taken.
+
+<b>The imaging settings.</b> Canon is being somewhat conservative, IMHO, with respect to color saturation and contrast. Canon is being very conservative with respect to sharpening settings (the images look soft-ish to some folks though they contain a lot of detail). But that's OK for the default choice. What's not OK is that they did not include a strong enough sharpening option to appease those sharpness lovin' folk.
+
+<b>The media.</b> CFII, Microdrive OK.
+
+<b>The verdict:</b> <i>A more than worthy contender in the semipro / pro interchangeable lens SLR digicam field at a fair price considering what you're getting and when you're getting it; yields first-rate images and has the best battery life of all the digicams I've known.</i>
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

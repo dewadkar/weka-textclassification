@@ -1,0 +1,14 @@
+DOC>
+<DOCID> 9301 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1999_Ford_Contour </PRODUCT>
+<URL> http://www.epinions.com/auto-review-8DC-4E8C365-385BDAEC-prod2 </URL>
+<TEXT>
+            The Ford Contour is an excellent personal automobile. It's an ideal car for a single driver such as a college student, for a childless couple, or a couple with no more than one small child. It's not a family vehicle - nor does it claim to be. My Ford Contour is a company car, and I'm behind the wheel at least 2-4 hours per day. I enjoy driving it. It's comfortable, fun to drive, well made, and economical to operate. 
+
+The Ford Contour compares very favorably with the Saturn or the Nissan Sentra, both of which I've driven. It's a nice car to drive as long as there are no more than 2 people in it. <br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,196 @@
+DOC>
+<DOCID> 33084 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_Stylus_400_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_113517825668 </URL>
+<TEXT>
+            Olympus&#146 is justly famous for making innovative film cameras, but over the last decade the company has shifted its corporate focus from film cameras to digital cameras like the inexpensive and feature rich C4000, the long zoom C750, the compact five megapixel C50, the prosumer C5050, the semi pro E20 and the weatherproof Stylus 300.
+
+During the eighties Olympus ran a series of advertisements in all the major camera magazines featuring testimonials from famous professional photographers who used Stylus P&S cameras for their personal photography.  I owned one of those classic little Stylus film cameras and I loved it.  I generally shoot color slides or B&W print film, so the sexy little Stylus let me carry a camera loaded with color print film for those situations when you just want a good snapshot.  The camera was small enough to drop in my shirt pocket or one of the side pockets on my camera bag and it was tough as nails, easy to use, and consistently produced excellent 4x6 color prints.  
+
+It was an obvious marketing move for Olympus&#146 product development folks to create a digital re-incarnation of the classic little Stylus Point &Shoots.  Stylus film cameras have name recognition and a good reputation not to mention a loyal following.  The new Stylus digital series launched with the 3 Megapixel Stylus 300 (which I reviewed a couple of months back) and the 4 Megapixel Stylus 400. Both are compact, durable, feature-rich, and weatherproof point & shoot digital cameras.  
+
+The Stylus 400 is about the same size as a flip cell phone, easily small enough to drop in a pocket and carry along anywhere. The camera&#146s simple controls and logical user interface make it easy use right out of the box, even for absolute beginners.  The Stylus 400&#146s metal outer body (there&#146s a polycarbonate inner body for added durability and improved protection from the elements) is elegant and curvy, the stylish antithesis of the ubiquitous &#147brick&#148 shaped compact digicams. 
+
+<b>What&#146s Different?  The Stylus 400 vs the Stylus 300</b>
+
+The two cameras are virtually identical.  The major differences between the two are limited to the Stylus 400&#146s 30 per cent greater resolution (4 megapixels vs the Stylus 300&#146s 3 megapixels), the gold coloring of the 400&#146s sliding lens cover, and the addition of a dedicated landscape scene mode on the 400.
+   
+<i>NUTS & BOLTS</i> 
+
+<b>Viewfinder/LCD</b> 
+
+The Stylus 400's tunnel style zooming real image optical viewfinder is relatively bright, but shows (typically) only about 80 per cent of the frame.  There is no diopter correction for eyeglasses wearers.
+
+The 1.5&#148 TFT color LCD screen is bright, fluid, and shows almost 100 per cent of the frame.  The LCD is large enough for composition and framing, but the brightness does fade (and there&#146s no anti reflection coating) in outdoor light and brightness can&#146t be adjusted. 
+ 
+<b>Lens</b>
+
+Excellent optics was always one of the features that gave the original Stylus film cameras legendary status, and the Stylus 400 continues that tradition.  The camera is equipped with an all glass Olympus f3.1-f5.2/35-105 (35mm equivalent) zoom lens with one aspherical element (for improved resolution and color transmission).  Open the sliding lens cover and the 3X zoom telescopes out of the body; power down and the lens is fully retracted into the camera body. 
+
+Barrel Distortion (straight lines bow out from the middle) is about average at the wide-angle end.  Pincushion distortion (straight lines bow in from the middle) at the telephoto end of the zoom range is virtually invisible. I didn&#146t notice any vignetting and chromatic aberration (purple fringing) is barely noticeable, but it could be a problem in high contrast scenes.
+  
+<b>Auto Focus</b>
+
+The Stylus 400 provides a standard TTL contrast detection auto focus system.  AF is relatively rapid and consistently accurate in good light.  There is no manual focus capability.
+
+<b>Flash</b>
+
+The Stylus 400&#146s built-in multi mode flash provides settings for Auto, Red Eye Reduction, Fill flash, and Off.  The red-eye reduction mode is relatively slow (about 3 seconds between tripping the shutter and image capture) so it isn&#146t much good for anything beyond &#147stand over there and hold still&#148 portraits.  Flash recycle time is about 6 seconds (with fully charged batteries).  The flash works very well in the macro mode (due to the relatively long 8&#148 inch minimum focusing distance) and coverage is consistent and even.  
+
+<b>Connectivity</b>
+
+The Stylus 400 features Auto-Connect USB (doesn&#146t require loading software drivers) to simplify image transfers--- for users of Windows Me, 2000 Pro or XP and the newest MAC OS, and Video out for reviewing saved images on a TV. 
+  
+<b>Power/Battery Life</b>
+
+Battery life is one of the few areas where the Stylus 400 falls a little short of the mark.  The camera is powered by the same small proprietary B10L lithium-ion rechargeable battery pack used in the Olympus C50.  Based on my experience Using both the Stylus 300 and the Stylus 400 (using the LCD as the primary viewfinder and flash about fifty per cent of the time) battery life is acceptable (between 150 and 200 exposures with a fully charged battery) but if you use the optical viewfinder instead battery life is substantially extended (my friend had the camera for a week before I got to check it out and he generally uses the optical viewfinder----he shot about 200 exposures and then he and I added about 200 more without exhausting the original battery). 
+
+If you plan to use the Stylus 400 on long trips, an extra battery is a suggested accessory.  The B-10L battery pack will cost you about seventy bucks, which seems a bit pricey, to me. The included battery charger will re-charge the B-10L battery pack in about two hours. 
+
+<b>Memory/Storage Media</b>
+
+The Stylus 400 utilizes the new xD picture card (SmartMedia&#146s replacement) to store saved images.  xD picture cards are currently available in sizes from 16MB to 256MB.  Buy a larger third party 256MB card and save the included Olympus 16MB card for shooting panoramas (Olympus branded xD Cards are required to use the camera's Panorama feature).  xD cards are about the size of a standard 37 cent postage stamp, which makes them incredibly easy to lose, so be careful when loading, unloading, or changing cards. 
+ 
+<i>EXPOSURE</i> 
+
+<b>Auto Mode</b>
+
+Program Auto is the default exposure mode and the Stylus 300's Point & Shoot AE system is very good, although images show slightly enhanced (higher than average) contrast.  This tendency toward slightly exaggerated contrast may be a problem when shooting in harsh lighting (highlight detail may be lost and shadows may block up) but savvy users can utilize the Stylus 400&#146s harder edged contrast to punch up visual impact in dull or flat lighting.
+  
+<b>Scene Modes</b> 
+
+The Stylus 400 also provides a selection of Scene modes (a "Virtual Dial" allows instant access to the scene modes) with settings optimized for specific shooting situations. Scene modes include; Landscape (small aperture with focus locked at infinity for enhanced depth of field), Portrait (uses larger lens apertures to blur backgrounds and emphasize foreground subjects), Landscape   Portrait (utilizes smaller lens apertures so both the subject and the background are in sharp focus simultaneously---great for typical tourist shots with a loved one or friend standing in front of a famous attraction), Self Portrait mode (the lens is locked at the wide angle setting so users can photograph themselves---at arms length), Night Scene (extends maximum shutter speed to 4 seconds), and Movie mode ( records video clips up to 16 seconds @ 320x240 and 15fps).
+
+<b>Manual Mode</b> 
+
+The Stylus 400 doesn&#146t provide a dedicated manual mode, however Exposure Compensation (used to lighten or darken the image), White Balance (used to fine tune color balance), Metering---advanced users can choose to base exposure on the entire frame (evaluative metering) or bias exposure on a small center area (spot metering), and flash modes can be manually adjusted by users, permitting  a minimal degree of creative control. 
+
+<b> Macro Mode</b>
+
+Minimum focusing distance in macro mode is 8&#148, which is fine for e-bay items or intimate landscapes, but not tight enough for frame filling flower/insect close-ups. Macro shots are quite good with excellent resolution and good color.  One especially nice feature is the ability to use the lens at the telephoto setting for macro shots (most P&S cameras limit macro shooting to the widest lens setting) allowing users more freedom in framing and a bit more stand off room.  The Stylus 400&#146s flash works well in macro mode, providing even and flattering coverage, unlike many small P&S cameras. 
+ 
+<b>Metering</b>
+
+The Stylus 400&#146s default light metering system is Olympus&#146 proven Digital ESP multi-pattern (evaluative) metering.  More advanced users can enable spot metering (great for biasing exposure to the most important element of the composition, for instance the eyes in a portrait).   Metering is accurate (but a bit conservative) in all outdoor lighting and generally pretty good indoors in  dimmer light.
+
+<b>White Balance</b>
+
+Olympus digital cameras are well known for their highly accurate white balance systems and the Stylus 400 is no exception.  The Stylus 400 provides TTL auto white balancing and manual pre-sets for Daylight, Overcast, Tungsten and Fluorescent lighting.
+ 
+<i>CONTROLS, DESIGN, & ERGONOMICS</i> 
+
+The Stylus 400 is an elegant and stylish little camera that shows a distinct family resemblance to its illustrious 35mm predecessors.  Like all Olympus digital cameras, the Stylus 400 is menu driven, but the external controls are logical and well placed. The camera is lightweight (6.9 ounces) and easy to handle and operate.
+
+<b>Technical Specifications</b>
+
+Resolution: 4.2 megapixels (2272 x 1704)
+Viewfinders: 1.5-inch TFT color LCD monitor & Optical real-image viewfinder
+Exposure: Program (auto) and Scene Modes
+Lens: f3.1-f5.2/35-105 (35mm equivalent) 5 elements in 3 groups (with one aspherical element) Olympus zoom
+Metering: Digital ESP Multi-Pattern (evaluative) and Spot
+Shutter speeds: from 1/1000th of a second to 1/2 second 
+White Balance: iESP Multi-pattern Auto TTL and manual pre-sets for Daylight, Overcast, Tungsten and Fluorescent.
+Exposure Compensation: Yes  2/-2 EV in 1/3 EV increments    
+Flash: Built-in multi mode including auto, fill flash, and red-eye reduction modes Sensitivity: Auto (80-320 ISO equivalent) 
+Storage Media: xD-Picture Card 
+Connectivity: Auto-Connect USB and Video out (for connection to TV)
+Power: (1) B-10L Lithium-ion rechargeable battery 
+
+Street Price Range $499.00--$549.00
+
+<b>Included</b> 
+ 
+16MB xD picture card, B-10L battery, charger, RM-2 remote control, wrist strap, USB & A/V cables, CD-ROM (software & full user&#146s manual),  Printed (basic) manual and quick start guide.
+
+<b>Optional</b>
+
+D-7AU 4.8 Volt AC adapter, PT-016 underwater case, and soft case 
+
+<b>In the Field/Handling & Operation</b>
+
+I have a good friend who sells new and used (digital and film) cameras.  He stopped by recently with a brand new Olympus Camedia Stylus 400.  We had tested the Stylus 300 a couple months back and he knew I was interested in comparing the two.
+  
+We took the camera to Cave Hill Cemetery, Louisville&#146s only arboretum (and one of our favorite shooting locations) to shoot the nineteenth century grave markers, the lake (filled with hundreds of geese, ducks, and swans), and an incredible collections of rare trees. The weather was almost perfect; sunny and warm with cobalt blue skies, wispy clouds, no wind, and absolutely beautiful front lighting. 
+
+After we finished up at Cave Hill we headed for nearby Cherokee Park to shoot some action along Beargrass Creek.  Cherokee Park is usually filled with joggers, walkers, rollerbladers, Frisbee-fanatics, and every variety of mutt known to man. The park&#146s scenic loop runs right beside Beargrass Creek and we were able to shoot some really nice images of a guy playing Frisbee with his Rottweiler.  The Rot wasn&#146t very graceful and he couldn&#146t jump very high, but every time he got a bead on that bright yellow Frisbee he made up for his lack of agility and grace with ferocious focus and unbelievable determination.  It had all three of us (my friend and I and dog&#146s owner) in stitches watching the stocky awkward Rot leap for the Frisbee---it also got us a couple of humorous images.
+
+After we finished up at Cherokee Park we drove to Louisville&#146s south end to shoot some landscape images in Iroquois Park.  The park covers a large heavily forested hill that rises more than 800 feet above the surrounding suburbs. Iroquois Park, like most of Louisville&#146s city park system was designed by famed nineteenth century landscape artist Frederic Law Olmsted (who also designed New York City&#146s Central Park and New Orleans&#146 Audubon Park).  The huge park is filled with old growth trees, sun dappled meadows, wildflowers, ankle deep leaf litter, deadfall trees, and small seasonal creeks-----in other words there is always something to inspire picture taking.  Once you are inside the park, it is easy to believe that you are "out in the country" rather than completely surrounded by a large metropolitan area. 
+
+On the way to the top of the hill we stopped at a small clearing filled with clusters of canary yellow flowers.  We decided to shoot some &#147intimate landscapes&#148---- tight shots of small self-contained landscapes like those made famous by master nature photographer Eliot Porter.  The golden afternoon light made it easy to backlight the bright yellow flowers for some striking close-ups.
+
+There is a small meadow/prairie with several tiny marshy areas on the top of the hill.  This quiet and serene hilltop refuge was absolutely deserted and we had the place completely to ourselves.  I have never seen the area lusher (we&#146ve had a lot of rain this summer) or prettier.    The little prairie is a photographer&#146s paradise, especially in the late summer when the area sports dozens of varieties of colorful seasonal wildflowers. My friend and I stayed until dusk and once the golden light started to fade, we jumped in the car and drove down to the overlook to shoot the sunset, which was gorgeous.  The hazy atmosphere and very scattered clouds made for a classic Japanese flag sun in a bright pinkish orange sky.  We framed the forested slopes below so the sun appeared between two small hills and shot several really nice shots with the bright red sun ball, orange sky, and dark silhouetted hills. 
+ 
+If you plan to stick mostly to outdoor shots and not shoot too often in dim/low light then you&#146ll probably love the Stylus 400.  We judged the Stylus 400&#146s image quality based on one 8X10 inch print and two 5X7 inch prints made using an Epson Stylus Photo 785 EPX ink jet printer and Kodak photo paper.  
+
+<i>PERFORMANCE</i>
+
+<b>Image Quality</b>
+
+The Stylus 400 does a good job of upholding the reputation of its film predecessor by producing consistently excellent images.  Colors are accurate and the saturation level is slightly enhanced but not garish. The Stylus 400&#146s enhanced contrast interpolation generally works to the advantage of the photographer, but some caution should be used when shooting in very brightly lit locales.  I was pleasantly surprised at just how crisp the Stylus 400&#146s images are, reminiscent of the classic film Stylus cameras.  
+
+Images do show noticeable noise in dim light (the camera controls ISO settings) and there is minor noise in some outdoor images (probably due to the Stylus 400&#146s aggressive sharpening algorithm) primarily in dark areas of brightly lit scenes.  There is some noticeable loss of highlight detail in light colored areas in bright sunlight, but this is fairly typical of compact digital cameras.  The Stylus 400&#146s auto white balance setting does a fairly good job even under tungsten lighting (although there is a very minor yellowish cast).  The Stylus 400&#146s white balance pre-sets produce slightly cooler color than the auto setting.
+
+<b>Timing/Shutter Lag</b> 
+
+The Stylus 300 was fairly quick, but I expected the Stylus 400 to be a bit slower (it takes more time to capture a thirty per cent larger image) so I was pleasantly surprised to discover that the Stylus 400 is just as quick as it&#146s 3 megapixel sibling.  Shutter lag is noticeably shorter than average for compact digital cameras and shot to shot times are relatively quick and (dependent on whether flash is used) run from about 2 to 5 seconds. The boot up cycle (how long it takes for the camera to extend the lens and be ready to shoot after you turn it on) is between 2 and 3 seconds, pretty quick for a compact digicam.  Overall, the Stylus 400 is a bit faster than the average.  
+
+<b>A Few Concerns</b> 
+
+My major complaint with the Olympus Stylus 400 (like the Stylus 300) is the lack of a dedicated sports/action scene mode.  In a perfect world the Stylus 400 would also allow users to set the ISO sensitivity.  Combine these two shortcomings and you have a tough weatherproof camera that is very capable in most areas, but not the optimal choice for action and low light photography.  There&#146s no focus aid beam and that further exacerbates the Stylus 400&#146s weakness in low light situations.
+
+The Stylus 400&#146s proprietary battery (L-10B) costs $70.00, making a second battery a substantial expense---and I&#146m disappointed that Olympus cheaped out and put the complete user&#146s manual on the CD-ROM.
+  
+<b>Who is the Olympus Stylus 400 Best Suited For?</b>
+
+The weatherproof Stylus 400 is designed to withstand extended exposure to mist, rain, snow, and ocean spray without damage to the interior components. Rubber weather seals and the double body design ensure the camera is tough enough to stand up to the challenges of unpredictable weather and rugged country or beachside terrain, making it an almost perfect choice for weight conscious skiers, hikers, backpackers, mountain bikers, beach aficionados or anyone who enjoys photography and loves the great outdoors.
+
+<b>Conclusion</b>
+
+Olympus&#146 product design folks clearly wanted to reincarnate the popular little point & shoot Stylus film cameras as a tough, versatile, weatherproof, and easy to use digital camera---and they&#146ve done just that.  The Stylus 400 is built like a tank, it&#146s weatherproof, it takes great pictures, it's compact and lightweight, and it will make an excellent photographic companion for active folks, outdoorsmen (and women), and travelers.  However, the lack of user selectable ISO sensitivity settings and a dedicated action/sports scene mode make the Stylus 400 a less obvious choice for family photographers and casual users.  If you can get by with a bit less resolution, need a weatherproof camera, and want to save a C-note check out the three megapixel Stylus 300. 
+
+<b>Links</b>
+
+Check out my review of a bargain priced and very capable photo quality ink-jet printer. 
+
+Epson Stylus Photo 785 EPX ink-jet printer 
+<a href="/content_60776812164">http://www.epinions.com/content_60776812164</a> 
+ 
+For definitive advice on <b>How to Choose a Digital Camera</b> please see my review: 
+<a href="/elec-review-2E46-17B174E2-39A418E3-prod1">http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+For more information about other/comparable/competitive 4 megapixel digital cameras you may find the reviews listed below useful:  
+
+<b>Nikon Digital Cameras</b> 
+ 
+Nikon Coolpix 4300 
+<a href="/content_80569470596">http://www.epinions.com/content_80569470596</a>
+ 
+Nikon Coolpix 4500 
+<a href="/content_69311368836">http://www.epinions.com/content_69311368836</a> 
+ 
+<b>Canon Digital Cameras</b> 
+
+Canon Powershot S45
+<a href="/content_84242173572">http://www.epinions.com/content_84242173572</a>
+
+Canon Powershot S400
+<a href="/content_94761619076">http://www.epinions.com/content_94761619076</a> 
+
+Canon Powershot G3 
+<a href="/content_78672989828">http://www.epinions.com/content_78672989828</a>
+
+<b>Olympus Digital Cameras</b> 
+
+Olympus Camedia C750
+<a href="/content_105993768580">http://www.epinions.com/content_105993768580</a>
+
+Olympus C 4000 
+<a href="/content_79317208708">http://www.epinions.com/content_79317208708</a> 
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

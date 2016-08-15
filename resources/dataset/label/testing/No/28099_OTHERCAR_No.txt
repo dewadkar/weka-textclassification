@@ -1,0 +1,17 @@
+DOC>
+<DOCID> 28099 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_PolaroidPDCC-Polaroid_PhotoMax_PDC-700 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-1FBF-A18186D-38F5E042-prod6 </URL>
+<TEXT>
+            I purchased this camera in November. One of the first things I discovered was that this camera is a battery hog. If using the LCD, you have MAYBE 15 minutes of life. The recommended battery is the Duracell Ultra, which cost about double that of regular cells. One way to get around this obstacle is to use rechargeable batteries. I use Nickel Metal Hydride (NiMh) rechargeables. In this camera, they last more than twice as long as the recommended battery. I did not like the fact that this camera did not come with an actual manual, only a help file. In addition, sometimes when I turn the camera on, I have to wait approximately 5 minutes before I can use the LCD screen. 
+
+Another disappointment is that Polaroid does not support this camera in Windows 2000 and has no plans to. In addition, Polaroid's online support is very slim when it comes to older products. For the PDC-700, the only support is a FAQ. You cannot download the software, or even the TWAIN driver. 
+
+The low price attracted me to this camera. However, unless you think you will never need tech support or run Windows2000, I would recommend you not buy this camera.
+<br><br>
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

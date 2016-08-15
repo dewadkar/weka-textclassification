@@ -1,0 +1,20 @@
+DOC>
+<DOCID> 15627 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_SonyMCVV-Sony_MVC-FD91 </PRODUCT>
+<URL> http://www.epinions.com/content_22619590276 </URL>
+<TEXT>
+            I bought one of these at work for use in plant maintenance.  I had a hard time convincing the IS department that we should make an exception to the corporate standard (a Kodak Digital Science Camera) and allow me to purchase this camera.  I finally won the battle, and now have heard much praise from the other maintenance people who use it.
+
+The biggest selling point to me was the fact that this camera uses a standard 3 1/2" floppy disk to store the images.  There are no drivers to install, no cables to plug in, no ports to configure.  You take the pictures, put the disk in your computer and there they are, in .jpg format.  The camera also creates a .html file on the disk which when opened, contains thumbnails of all the pictures.  You can then click on the pictures to view a larger version.
+
+The learning curve is also very quick with this camera.  There is a small directional control on the camera similar to a video game controller's.  This control lets you run through a menu driven display on the lcd to perform such tasks as viewing/deleting pictures, setting resolution, format the disk, and many other functions.
+
+Other cool features include the capability to record short video segments with sound, an auto-focus, flash and zoom.
+
+The only drawbacks are that the auto-focus tends to "hunt" a little in low light and the price is a little too steep for the average consumer.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

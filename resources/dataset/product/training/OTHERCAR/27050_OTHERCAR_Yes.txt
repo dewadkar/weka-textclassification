@@ -1,0 +1,14 @@
+DOC>
+<DOCID> 27050 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_OlympusDigitall-Olympus_D-450_Zoom </PRODUCT>
+<URL> http://www.epinions.com/elec-review-6646-D4AA69B-394CF7A5-prod5 </URL>
+<TEXT>
+            This camera produces beautiful sharp pictures with one feature that turned out to be unexpectedly useful: It can plug in directly to your television set and you can instantly show your pictures on the big screen. I thought this was a silly feature until we started snapping pictures at a party.  When people started to crowd around the tiny LCD screen to looks at the pictures, I suddenly remembered that we could just plug in a cable and put on them on the tv.  It's a big hit.
+  The batteries that come with the camera are not suitable for digital cameras. Olympus packages some cheap alkalines that are good for about 6 snaps before needing replacement.  The batteries can then be used in your walkman but they are not powerful enough to run the camera.  Instead, you need to spend about $30 to buy four nickel metal hydride batteries with a re-charger.  The NMH batteries are good for more than 100 pics before needing a re-charge.
+   The software that came with the camera created problems for the PC until I downloaded the latest patches from the Olympus site.  Transfer of data from the camera to the PC with the supplied serial port cable is slow but it's sufficient unless you plan to use your camera a lot. If so, it would be worth buying a flash card reader.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

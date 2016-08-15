@@ -1,0 +1,50 @@
+DOC>
+<DOCID> 28812 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_KodakDCC-Kodak_DC-210 </PRODUCT>
+<URL> http://www.epinions.com/content_18740907652 </URL>
+<TEXT>
+            <b>Updated: July 1, 2001</b>
+
+I spent a lot of time looking for a digital camera. I salivated in shop windows, read countless reviews online, jealously admired the websites of friends with hordes of pictures, read their words on their wonderful digital cameras. 
+
+I had to have one!
+
+I'm still not certain what the <i>plus</i> stands for. It may be the AC adaptor that comes included, or the soft carry case with little pouches for extra batteries and a spare memory card (not included). It may have even been the cable which connects to your television's AC-IN plug, to view pictures that way.
+
+As I said, I read reviews. The only glitch I could see was that the uploading was a little slow. "I can deal with that!" I decided.
+
+Thing is, I don't think I really can.
+
+The more pictures taken - and the larger cards of 10MB can take 100 or so - the slower the camera is to start recognising pictures. I usually like to upload when I have about 10 pictures, and even then I get very impatient. We're talking at least 20 minutes for 10 pictures, through a serial connection. I have heard that there are USB picture card readers but I have not checked this out. Anything for a little speed.
+
+Also, the uploading process will sometimes be stalled or fail to work if you run other programs during transfer. I have gotten away with a simple game of free cell but even that is pushing it.
+
+UPDATE: I purchased a USB card reader. So quick. So lovely. 20 pictures took me 15 seconds to transfer!
+
+I have always been quite pleased with the picture quality - I rarely print pics out anyway, preferring to view them on my computer or place them online. The colours are great, and even at low settings the resolution is fine for computer use. The formats available for saving pictures are .jpg and .pcx (.pcx being the native software file format)
+
+You can change resolutions (standard/high), picture quality (good/better/best), choose the date stamp format (yy,mm,dd/dd,mm,yy/mm,dd,yy), choose from several languages, add decorative borders to pictures. There is even an "about" preference, which tells me I have captured 769 images and fired the flash 440 times.
+
+I find the use of the camera to be mainly intuitive. There are 4 main sections: capture, review, connect and preferences. I think that is mainly self-explanatory.
+
+The only thing less than intuitive is the close-up function. Sometimes I have trouble turning it on and off. Often it will shut itself off if the batteries are a little low on life, as close-up mode uses the LCD screen to show exactly what you're taking a photo of. I don't use this feature much, unless I am using the AC adaptor, as it really eats batteries. However, it does do nice, clear pictures of subjects at a distance of 20cm.
+
+Similarly, I don't recommend using the review or connect features without mains power. I suppose you could use rechargeable batteries. I use Kodak Photolife aa's (4) and they seem to last 30 pictures or so, depending on how many photos I trash and how I use the review function.
+
+Reviewing is great. You can scroll through the pictures, selectively deleting them if you wish, magnify them, scroll around them. At a glance you can see how many pictures are on the camera, along with a percentage line at the bottom so you get an idea of the amount of space you have. I just now discovered something interesting - if you leave the review screen in one place for too long, an image you took will bounce around the screen like a mini screensaver! What a cute little feature.
+
+There is a timer, which gives you about 6 seconds to run and put yourself in the scene. There is the option to turn off the flash, have it automatic, always on, have red-eye reduction or not. I've never had a problem with red-eye in digital cameras anyway (sometimes there's a bit of whiteness in the pupil, but never red).
+
+When you take a picture, a preview automatically comes up on the LCD screen. This feature can be turned off, but I find it to be too useful for that. The picture can be deleted immediately if it is no good. Another can be taken if the first isn't quite right. The great thing about digital cameras is the flexibility and certainty that the instant previews give.
+
+The software that comes with the camera is okay. It also comes with a special bundle of PageMill and PhotoDeluxe, which I don't use. The native picture software, PictureEasy, has a kind of cutesy look to it (lots of Comic Sans MS, for instance) but it is a very simple, user friendly type, easy to master for simple tasks such as cropping, rotating and contrast adjustment. However, I choose Photoshop over it hands down.
+
+Overall, it is a very good camera in terms of picture quality. However, the speed of serial transfer, plus the low battery life, really drags my opinion down. If I had the chance, I would try a different camera. There's no saying that I would be happy with <i>that</i>, though.
+
+Some examples of pictures I have taken with this camera can be found at http://www.rowf.net/rowf/pond.php. The pictures are significantly reduced in size.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

@@ -1,0 +1,13 @@
+DOC>
+<DOCID> 31129 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1992_BMW_7_Series </PRODUCT>
+<URL> http://www.epinions.com/auto-review-3A58-170B69CE-388A47BD-prod3 </URL>
+<TEXT>
+            This is perhaps the best vechile made by BMW.  It has the power and pick-up of a sports car, a luxury untouched by any other car, and drives like no other.  Although expensive, it is well worth the price.  Any person who wants a quality car should purchase this car.  The reliability is awesome.  
+The mpg is a bit low, somewhere near 17mpg in the city.  The great thing is that long trips can offer as much as 30mpg.  Also, the comfort factor while driving, riding, or anything else is fabulous.  I recommend this car to anyone who can afford it.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

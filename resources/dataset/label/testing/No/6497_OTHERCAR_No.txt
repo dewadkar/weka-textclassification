@@ -1,0 +1,26 @@
+DOC>
+<DOCID> 6497 </DOCID>
+<PRODUCT> Digital_Cameras/Kodak_Easy_Share_DX3600_Digital_Camera_w_Dock__U___Camera_1032630k1 </PRODUCT>
+<URL> http://www.epinions.com/content_117649673860 </URL>
+<TEXT>
+            I really liked my Kodak DX-3600.  It took good pictures, and although it's not the most compact of cameras, it is small enough to easily transport around.  I took hundreds of pictures with it.
+
+I also liked the fact that it had a compact flash slot, because I already had an investment in CF cards.  Unfortunately, this type of card doesn't seem to be used much in newer cameras.
+
+Now for the bad.  Mine stopped working properly after 18 months.  It would reboot itself at random.  But I have no way of knowing if this is typical of the quality of this camera or not.  Fortunately, the camera is covered by an extended service plan (even though I usually opt against such plans).
+
+The DX-3600 has a number of unfortunate design problems.
+
+1. You have to open the lens cover to use this camera for anything, like looking at pictures, videos, etc.  Obviously, this needlessly exposed the lens to dust and fingerprints, etc.
+
+2. Battery Life..  Upgrading to the latest firmware improves battery life.  I guess older firmwares were too aggressive in deciding when the batteries were dead.  Be careful, if the old firmware decides that the battery is dead during the firmware upgrade, it could hose itself!
+
+3. Video mode is essentially worthless.  You can't use zoom, the video quality is choppy and looks strange.  The resolution is something like 320x240.  The built in microphone isn't very good, and you can't use an external one.  This would only be a camcorder of last resort.  I wonder why Kodak even bothered with this feature.
+
+4. Digital Zoom is tricky to use.  Sometimes I couldn't get it to work at all.
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

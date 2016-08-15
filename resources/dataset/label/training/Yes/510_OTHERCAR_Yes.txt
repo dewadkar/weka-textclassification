@@ -1,0 +1,39 @@
+DOC>
+<DOCID> 510 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Olympus_C-2100_Ultra_Zoom </PRODUCT>
+<URL> http://www.epinions.com/elec-review-5F7B-47EF248-39F88A3A-prod1 </URL>
+<TEXT>
+            As the heir apparent to the C-2500L from Olympus, I expected great things from the C-2100UZ.  My expectations were, perhaps, a little too high.
+
+The C-2100 features a 10x optical zoom.  This is far better than most other consumer and prosumer cameras, digital or not.  It uses SmartMedia for storage and ships with an 8MB card.  A lens cover and shoulder strap are included.  Four AA NiMH batteries and a charger are included as well.  Olympus' CAMEDIA 2.0 and Adobe PhotoDeluxe are provided on CD for Windows and Mac.  USB is the only connection available between the camera and a computer, therfore only USB equipped machines running Windows 98, Windows 2000 or Mac OS 9 will work with the camera.  Olympus makes a point of noting that even USB equipped machines that have been upgraded to Windows 98 from Windows 95 will NOT work with the camera.  An A/V cable is supplied for connecting to televisions and VCRs.
+
+The maximum resolution of the camera is 1600x1200 or 2.1 megapixels.  This is less than other current leading edge cameras feature.  The camera can save in TIFF or JPEG and can also capture short (30 sec.) QuickTime movie clips with sound at 15 frames per second.  A continuous drive mode can capture about seven super high quality shots in about four seconds time.  That does not include the time it takes to save the images to the memory card.  An infra-red remote is included for timed shots.
+
+The C-2100UZ is styled as an SLR camera.  Cameras in this category are identified by their ability to accurately frame pictures by using through-the-lens (TTL) view finders.  While this makes a big difference on traditional film cameras, it is not as big a selling point on digital cameras which use LCD displays that by their very nature display TTL images that can be used for framing a shot.  Of the few SLR digital cameras available, the benfefit to the TTL viewfinder is that the image is purely optical.  That is, you can see all the detail that a LCD screen cannot display.  The C-2100 breaks this tradition by using a miniature LCD in the viewfinder instead of optics.  This gives the camera a video camera type of feel.  The benefit of this setup is the massive amount of setting information that can be displayed while framing a picture, including the effects of exposure compensation.  The drawback is the lack of fine detail that true optics provide.  Back to the benefits, playback can be done on the viewfinder's LCD which uses far less power than the large rear-mounted LCD.  A button switches the display between the mini LCD and the large LCD at any time during capture or playback.
+
+The camera's imaging sensor (CCD) supports ISO equivalent sensitivities of 100, 200 and 400.  In point-and-shoot mode, the camera can select between these settings automatically.  Expect a tendency to use a higher film speed when set to auto mode.  As with all digital cameras, there is a significant amount of image noise captured when higher speeds are used.
+
+The manual controls for shutter speed, aperture and manual focus are very flexible.  More flexible than even the C-2500L's controls.  The manual focus control could have been made a little easier to use, although its feature of enlarging the image to show more detail while adjusting is handy.  Shutter priority and aperture priority modes are available in addition to a full manual mode.  A handful of special modes are available under a special setting mode.  This mode includes pre-determined settings for night shots, portraits, and landscapes.
+
+Speaking of controls, most controls are easy to use.  Remember though - it is not a point and shoot camera so expect to take some time to learn all the settings to get full use out of the camera.
+
+Operation of the camera was not speedy, but it wasn't a dog either.  Playbacks were fairly fast.  When capturing, cycle time between single shots was about three seconds.  Power-on to first shot was four to five seconds without flash.  Continuous drive shots were about two to three frames per second without flash.  Expect delays when taking multiple shots while the camera saves to the slow SmartMedia memory card.
+
+By the way, what's up with Olympus only supplying an 8MB card?  It can only hold about sixteen shots.  The C-2100's predecessor - the C-2500L - shipped with a 32MB card.  Get a bigger card if your going to use this camera.
+
+I was disappointed that the resolution of the camera was only 2.1 megapixels.  With the industry trend to create high resolution pictures for better prints, this is a step backwards.  The amazing 10x zoom almost makes up for this &quot;flaw.&quot;  For those looking to get closer to the action, you can't find much better than the zoom capabilities of this camera.  Coupled with a 2.7x continuous digital zoom (total: 27x zoom!) you won't find a solution in this price range that can beat the C-2100.
+
+For me, however, superior prints are more desirable than high zoom levels.
+
+Actual picture quality was good, but I did notice poor color accuracy in low light situations when a flash was not used.  When a flash is used, careful control needs to be used so that your subject is not washed out.  Image sharpness was good.  The built-in focus assist light allowed the camera to focus in low-light with little difficulty.  Of course, images captured at higher ISO settings were fraught with pixel noise.  Images captured at ISO 100 were as clean as can be expected.
+
+Overall, I would recommend this camera to those needing exceptional zoom capabilities who are not looking to print the images at large sizes.
+
+There are better alternatives for those looking for better quality images or faster cameras.  These alternatives include other cameras from Olympus like the E-10 (4 megapixel, 4x zoom) and the E-100 RS (1.5 megapixel, 10x zoom, 15 frames per second.)
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

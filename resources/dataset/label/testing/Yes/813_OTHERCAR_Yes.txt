@@ -1,0 +1,29 @@
+DOC>
+<DOCID> 813 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_CasioQVV-Casio_QV-11 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-F5D-D5219C8-396B8969-prod2 </URL>
+<TEXT>
+            The first thing I would like to say about the Casio QV11 digital camera is that it is dated.  By today's standards, this camera would barely past muster.  But let me qualify my review of this camera with the fact that I bought it over two years ago, and I paid less than $100 for it, which was quite inexpensive for a digital camera at the time.  I would also like to state that while there are numerous superior digital cameras on the market, this camera still has its uses.
+
+The retail price in the Casio QV11 was over $300 when I purchased it, but I bought it on sale for $99, and coupled with the fact that the store I acquired it from was going bankrupt, I got what I consider a great deal.  I did basically no research on the camera as there were a limited number left and they were going very quickly (I got the 2nd to last one).  I really didn't know what to expect, but I felt the gamble was worth it since I knew that most digital cameras were easily over $300, with many costing over $1000.
+
+I received the camera, along with all the manuals and software to connect it to my PC.  It also included the cable required to attach the camera to my COM port.  The software installed quite easily, although the interface and learning curve weren't exactly intuitive.  After some poking and prodding I did succeed in interfacing the camera to my computer. 
+
+The camera runs on 4 AA batteries, and has a decent life span of about 2 or 3 hours if not left on all the time.  There is no actual 'view finder'; instead there is a 1.8-inch TFT, low glare, color LCD display.  You are basically looking at what your picture will look like on the small video screen.  A major drawback is that you really can't see the screen at all in any sunlight, so you kind of have to use guesswork.  There is no flash, but there is an outside/inside switch that allows for different levels of light.  
+
+You simply point that camera at what you want, and press the 'shutter' button.  The image is saved to the non-removable memory within the camera.  Another caveat is that you need to hold the camera extremely still or you will get a blurred picture.  The camera can hold up to 96 images, which does allow for a certain amount of error.  I found that I would take several pictures of my intended target, then I could choose among those that turned out best.  
+
+There are a few 'special' features on the camera, but I have found that they are for the most part, superfluous.  There is a post picture zoom feature that allows you to zoom in to one of 9 quadrants of the image.  This zoom is done digitally, not optically, so the zoomed image always shows pixel degradation.  Personally, I have found no use for this feature.  It does have a 'timer' feature that allows you to set a 10-second timer where the camera will auto shoot whereever it is aiming.  
+
+A major drawback of this unit is the upload time to your PC.  Each picture takes around a minute to upload, so a loaded camera can take over an hour and a half to be dumped onto a hard drive.  Casio recommends you having the optional power supply for this function as a power interruption during image transfer can result in the loss of all images.  I took my chances with the batteries, but usually put brand new ones in for the transfer process.
+
+The actual images are nothing too fancy.  The resolution is only 480 x 240, so you won't be winning any graphics contests with these pictures.  They do work very well for web pages, however, which is mainly how I used my camera.  I could take a picture and have it uploaded to my web page in a matter of minutes, which was incredibly convenient.  
+
+Overall, I am relatively happy with this camera.  It sated my need for a digital camera long enough, so that when I eventually bought a digital camcorder, I didn't need to buy any product in the interim.  I still take the QV11 with me on various outings.  It's compact and moderately lightweight, and it really allows room for error with 96-image capacity.  You can also view images you've taken instantly on the TFT screen, and interactively delete those you find unsatisfactory.  If you can find one in the $50 dollar range, I highly recommend getting your hands on it. 
+<br><br>
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

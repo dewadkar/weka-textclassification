@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 9333 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_RicohRDCC-Ricoh_RDC-5000 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-3CE1-2AB3C65-390BB6AD-prod6 </URL>
+<TEXT>
+            Yeah, the Ricoh 5000 is a great camera IF, you do not take pictures at dusk or night, and if you have anything other than Windows 2000.  The company STILL has not gotten the drivers for Windows 2000, so I am pretty much stuck having to use a serial cable to download the pictures, this takes all day.  I have contacted the company several times, but they NEVER have an answer.   Other than these MINOR problems the camera does a decent job with the photo quality (if you are in a sunny weather).  The camera is also very easy to use and operate.  <br><br>
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

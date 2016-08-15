@@ -1,0 +1,39 @@
+DOC>
+<DOCID> 21020 </DOCID>
+<PRODUCT> Digital_Cameras/Sony_DSC_P5_621065 </PRODUCT>
+<URL> http://www.epinions.com/content_59753336452 </URL>
+<TEXT>
+            With 3.2-megapixel resolution, the <b>Sony DSC-P5</b> has all the resolution that�s required for taking digital still pictures of excellent quality. And at less than $600, it doesn�t cost a fortune.
+
+There are several resolutions you can take pictures at ranging from <b>2048x1536</b> to <b>640x480</b>. The latter is great for emailing and posting on the web. Although you can get some basic digital still picture functionality by purchasing a digital camcorder, thecamc camcorders usually produce only up to 640x480 (or 1024x768 for more expensive models) resolution.
+
+In addition to 3.2 megapixel resolution, the P5 is very compact and weighs less than 8 oz. The camera uses Sony�s <b>Memory Stick</b> (8Mb Stick is included) and you can transfer your photos to your computer using the USB interface (or use either a separate MemoryStick card reader or a Sony VAIO PC that has a MemoryStick reader). The camera comes with a rechargeable Li-Ion battery and an AC adaptor/charger.
+
+The camera uses a 3x optical / 6x digital zoom. You can use auto focus or manual focus (macro, 0.5 m, 1 m, 3 m, infinity). There is an optical viewfinder as well as a high-resolution 1.5 LCD (123K pixels).
+
+In addition to still pictures, you can also shoot short MPEG-1 movies with mono sound. You can also shoot still pictures with audio (audio uses MPEG compression, still pictures use JPEG compression).
+
+There are several modes for still pictures � <b>JPEG</b> (uses <b>JPEG</b> compression), uncompressed <b>TIFF</b> (also records the compressed <b>JPEG</b> image in addition to uncompressed image), <b>TEXT</b> (<b>GIF</b> in black-and-white). 
+
+The E-mail mode records 320x240 <b>JPEG</b> file in addition to the selected image size. The uncompressed TIFF file at 2048x1536 resolution is so large that it will not fit on the supplied 8Mb MemoryStick.
+
+The camera has a built-in flash, which can be set to auto mode, on or off mode. It also features red-eye reduction. There is also an ability to select ISO 100, 200, 400 or auto, which will correspond to comparable film camera modes.
+
+The camera has an A/V out as well as a <b>USB</b> terminal. The A/V composite video out can be switched between <b>PAL</b> and <b>NTSC</b>. 
+
+The camera uses a NP-FC10 battery with charging time of about 2.5 hours and lasts for about one hour (this allows you to take more than 1000 pictures). The still pictures can be recorded in <b>Standard</b> or <b>Fine</b> mode. The highest-resolution files are so large that the supplied 8Mb Stick can only hold about 5 of them in Fine mode or 9 in Standard mode. In movie mode it can hold 20 (HQ) to 320 seconds (160x112).
+
+The P5 has several special effects including B&W, Sepia, Solarize and Negative Art. The camera has a Twilight program AE. You can also make manual adjustments to the exposure as well as focus and the white balance. The images can be rotated during playback.
+
+The Date/Time stamp mode allows you put date and time on your pictures. There is a self-timer mode (10-second delay). The sharpness of the LCD screen can be adjusted.
+
+ <b>Bottom Line</b>
+
+<i>The P5 allows you take digital pictures at resolutions that are high enough for virtually all uses. And at less than $600, it doesn�t cost as much as digital cameras with much smaller resolutions used to cost.</i>
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

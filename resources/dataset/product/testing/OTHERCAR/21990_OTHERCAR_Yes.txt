@@ -1,0 +1,100 @@
+DOC>
+<DOCID> 21990 </DOCID>
+<PRODUCT> Digital_Cameras/HP_Photosmart_812_Digital_Camera__Camera_C812 </PRODUCT>
+<URL> http://www.epinions.com/content_84743065220 </URL>
+<TEXT>
+            This is the second digital camera I&#146ve owned. I got it as a Christmas gift. 
+
+I seem to have dropped the other digital camera I have, an HP Photosmart 315 about a year ago. I was on vacation, and while I was standing waiting, the camera just slipped out of my hand...onto the concrete sidewalk. I thought it was destroyed. It survived the fall, and actually still works fine, except for the battery compartment door which is broken. So, to replace it I got the HP Photosmart 812.
+
+<b>What Comes In The Box:</b>
+
+The Camera, of course.
+Camera Dock Insert (for the optional 8881 Camera Dock - Sold separately)
+Wrist Strap
+AA Lithium Camera Batteries!
+16MB Secure Digital Memory Card
+CD (containing software for use with camera)
+USB Cable to plug directly into your printer (if your printer supports it)
+USB Cable to connect camera to your computer
+
+<b>Camera Features:</b>
+
+- Resolution is 4MP
+- 3x Optical zoom, 7x digital zoom, for a total of 21x zoom.
+- 4 resolution settings.
+- Recharge batteries in the camera with AC Power Adapter (included with Camera Dock), takes about 15 hours.
+- Requires only 2 "AA" batteries.
+- Up to 60 seconds live video with sound.
+- Can connect to a computer, printer, or TV (included with Camera Dock).
+- Optional 30 seconds of Audio Recording with still pictures.
+- 10 second self timer.
+- Flash Auto/ON/OFF settings.
+- Red eye compensation.
+- Macro lens (for pictures closer than 0.7 meters).
+- Sound FX settings are High/Low/Off.
+- Live view. View screen indicates battery life, modes, available picture space at a glance.
+- Sleep feature.
+- "Joystick" buttons.
+- Setup Menu includes, "Play", "Delete" (also Format Card), "Magnify", "Rotate" and "Setup".
+- HP "Instant Share", for sending images directly to be printed, or to be emailed.
+- Tripod mount.
+
+<b>The Optional <i>8881 Camera Dock</i></b>
+
+For an extra $50, you can get the add-on 8881 Camera Dock, which is a spin off of the Kodak digital camera docks. With this, you first put on the dock insert that cam with the camera. Then you remove the rubber plug under the camera so you can seat it into the dock. There is a USB cable and power adapter included. As soon as you seat the camera on the dock, depending on how you have it set up, you can immediately download your pictures to your computer, or send the pictures directly to your printer. When the camera is switch "off", the dock recharges your camera&#146s batteries.
+
+But if your don&#146t want to mess with the camera dock, you can get a simple USB SD memory card reader, which is just like an external drive for reading your camera&#146s memory cards.
+
+<b> How The HP Photosmart 812 Performs:</b>
+
+If you have used digital cameras before, you will not have any trouble learning how to use this one. It&#146s very simple to operate. Just turn it on, point, hold the shutter button down halfway until the camera focuses, then shoot. The picture you just took shows briefly on the display for a few seconds. You can decide if you want to keep the shot, or delete it, or mark it for "Instant Share", a feature that readies the picture for immediate printing or emailing as soon as you download the images from the camera. The little 1"x1.5" view screen on the back of the camera is high definition. 
+
+For all of its bells and whistles, and this camera has several, the 3x Optical zoom and the 4MPixel resolution are among the features that you will like the most. This camera takes bright, sharp pictures in all sorts of lighting conditions. Even under fluorescent lights - where 35mm film just can&#146t perform. However, in dark areas, the focus will sometimes get a little finicky. Apparently, this camera uses lighting contrast to adjust focus. If there isn&#146t enough contrast, the camera will complain by indicating an "Unable to focus" error on the screen. You can solve that problem by turning on more lights in the general area. Or, if that is not possible, I have found that you can work around this problem by pointing the camera at the closest source of light, holding down the shutter button to lock the focus, and then repointing the camera exactly where you want to shoot. But, how often are you going to want to take pictures in bad lighting anyway?
+
+The thing about a digital camera is that the shutter button has two positions. The first is for the focus, the second snaps the picture. To take a picture, you just turn the camera on, aim, then push the shutter button down "halfway" (You can distinctly feel it) so the camera can find and lock the focus. Once the focus is found, it "locks" (as long as you don&#146t let go), and a green light flashes indicating that it is ready for you to push the shutter button all the way down - snapping the picture. The you will have to wait a second while the camera saves the picture to memory. In most light conditions, the camera can find a focus in no less than half a second, in many cases, faster. The other digital camera I have, an <i>HP Photosmart 315</i>, takes at least 2 to 3 times longer to find a focus.
+
+For memory, this camera uses the smaller "Secure Digital" media cards. I was a little disappointed that I can&#146t use the Compact Flash cards that went with my other camera. Oh well. The SD memory cards are quite small - half the size of Compact Flash cards. There is a "lock" feature on the side of the SD card that prevents erasure. This camera comes with a 16MB SD card in the box. Assuming you use the 16MB SD card in your camera, and depending on which of the four settings you use, you will get...
+
+- Highest quality (4 stars): about 5 pictures, approximately 2.5MB file size each. Image saved at (2272x1712) full resolution, low compression rate. <i>Use this setting if you use the camera's zoom features.</i>
+
+- Medium High quality (3 stars): about 14 pictures, approximately 1MB file size each. Image saved at (2272x1712) full resolution, medium compression rate. <i>Use this setting if you plan on cropping or enlarging your pictures when you print them.</i>
+
+- Medium Low quality (2 stars): about 28 pictures, approximately 500KB file size each. Image saved at (1136x848) 1/4 resolution, medium compression rate. <i>Use this setting if you don't plan on enlarging your pictures when you print them.</i>
+
+- Lowest quality (1 star): about 56 pictures, approximately 200KB file size each. Image saved at (1136x848) 1/4 resolution, high compression rate. <i>Use this setting if you plan to send pictures over the Internet and e-mail.</i>
+
+Naturally, more memory means more pictures per SD memory card. I bought a 64MB card, which is 4 times the capacity of the 16MB card. You will probably find yourself using the "Medium High quality" (3 stars) setting for most purposes. I have found that the quality of the pictures this camera puts out at the "2 stars" setting (Medium Low) is close to what my other 2.1MP digital camera puts out.
+
+Here is the deal about Mega pixels. The more you have, the tighter you can digitally zoom in on the picture before the picture starts to "pixelate", and lose quality. The 4MPixel resolution of this camera is very nice! When displaying the pictures you downloaded on your computer screen, you can zoom in on your picture more than 200% before the image begins to pixelate and lose it&#146s sharpness. The average monitor has to actually display the image at about 50% of it&#146s original size just to fit the whole thing on your screen. So if you display the image at 100%, you can&#146t fit the whole image on your screen (unless you have a really large monitor set at 1280x1024! resolution). If you have a decent printer that prints laser quality, you can zoom 4x in and crop your picture, and print it on photo quality paper - the results are still as sharp as can be. More Mega pixels means your image remains sharp even when you zoom in and crop. Picture quality with 2 Mega pixel cameras or less suffers immediately when you try to crop and blow up your picture. 
+
+If you are going to use the zoom features on this camera, you should probably use a tripod. The shutter speeds on digital cameras are generally slower, so it is essential to keep the camera still, especially when using the zoom. I would personally make use of the 3x Optical zoom first, before using the digital zoom. The optical zoom uses the lenses of the camera to zoom in closer to your subject with no loss of resolution. The digital zoom however "expands" the pixels reordered, thereby a cheap way of zooming in, at the cost of making your picture pixelated and grainy. Even though the "3 stars" setting will do just fine when you use zoom, the "4 stars" (highest) setting is recommended if you plan to zoom in or crop your picture later with software on your computer. 
+
+<b>The Batteries</b>
+
+This camera runs on 2 "AA" size batteries. The camera itself comes with a pack of "AA" Lithium Camera batteries. If you buy the Camera Dock, you also get a set of rechargable batteries with it! A lot of other digital cameras require 4 "AA" batteries.
+
+Battery life in this camera is good. You can get about 200 shots on two Alkaline, or Lithium "AA"s. Considering that everytime you turn the camera on, the display screen comes on, and a motor has to telescope the lens and retract it when you shut the camera off, and you get 200 shots on two batteries, isn't bad. I haven't used the rechargables yet to see what kind of life you get out of them yet. I would like it if this camera would let you adjust the display screen contrast down, or even let you shut it off so it only comes on when you want it to, so to conserve battery power.
+
+<b>Pros:</b>
+
+- Easy to use, operate and carry around.
+- 4 Mega pixel resolution is great!
+- 3x Optical zoom is nice!
+- Includes absolutely everything you need in the box, including batteries.
+- Configures so your computer recognizes the camera as an external "disk drive".
+
+<b>Cons:</b>
+
+- Can&#146t adjust display brightness.
+- Focus is finicky in poor light.
+- Video could be a little sharper.
+- Sound record quality could be a little better.
+- Firmware updates would be a nice addition.
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

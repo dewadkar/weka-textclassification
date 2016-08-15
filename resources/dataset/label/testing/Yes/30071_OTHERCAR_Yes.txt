@@ -1,0 +1,26 @@
+DOC>
+<DOCID> 30071 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_KodakDCC-Kodak_DC-280 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-393B-14C46E88-3A31AE79-prod4 </URL>
+<TEXT>
+            Kodak DC-280
+<b> CONS: </b>
+- The battery life is pathetic. The battery power is used up after very few photos. <b>WORST THING ABOUT THIS CAMERA: BATTERIES It's hungry, very hungry! </b>
+-It is hard to tell the quality of a shot just by looking in the led display or the view finder. The location of the LCD screen is in an awkward place - normally where you place your left thumb when shooting 
+- Some lag time on shutter release, at least it doesn't shut off during download
+- Software package is terrible. It installs easily, but the poor documentation. The software needs a lot of improvement, it's not user friendly and crashes my computer now and then... 
+-No usb support for windows 2000&quot;  
+
+<b> PROS</b>
+-One of the most amazing surprises was the ability to take indoor pictures with NO FLASH! Even in poor light I was able to capture high quality images. 
+-Works great with WinME!
+
+
+
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

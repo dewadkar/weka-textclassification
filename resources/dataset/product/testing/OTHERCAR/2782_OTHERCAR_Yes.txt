@@ -1,0 +1,38 @@
+DOC>
+<DOCID> 2782 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_OlympusDigitall-Olympus__D-400_Zoom </PRODUCT>
+<URL> http://www.epinions.com/elec-review-7C7-10477636-38024E2D-bd3 </URL>
+<TEXT>
+            I initially wanted a digital camera so that I could take pictures for my web site and I figured I'd still keep my point and shoot 35mm for snapshots.  Well since I got my Olympus D400Z I haven't touched the 35mm camera.  I use it for all my photography.  I have limited photographic knowledge, but I am very happy with the Olympus, it's features, its ease of use, and the quality of the photos.  
+
+I won't go into the specs of this camera because they are easily retrieved from many other sources such as the Olympus web site.  I'll just cover what I think are the major pros and cons of this camera from a casual user's perspective.  
+
+First the &quot;pros&quot;:  If it weren't for the display screen you'd think this was a standard 35mm point and shoot.  It's very comfortable to hold and use and fits nicely in a small camera bag.  
+
+The SmartMedia cards that it uses are fantastic.  I find that 3 cards (8MB each) is plenty for my use.  The cards are very reasonably priced (about $20.00 a piece) so having many of them is not a problem and you can even go up to 32MB cards if you take a lot of pictures or want the highest resolution.  I find for my purposes that the medium resolution is more than adequate (about 32 pictures at medium resolution fit on an 8MB card).  
+
+The photo quality is superb with this megapixel camera.  I hope to get a photo printer soon and I expect that the printouts will be equally or more impressive than their on-screen counterparts.  I find that outdoor pictures are especially vibrant and clear.  
+
+I've not used some of the features of the camera such as the multi-shot mode that takes 10 pictures in rapid succession at the low resolution so I can't comment on how well that works, but I've been happy with most aspects of the camera so far.  The on-screen menus are fairly straightforward and the LEDs that indicate when the camera is ready to take the next picture and when a flash is needed are very easy to understand.  
+
+I've read that some people are disappointed with the battery life with the D400Z, but I've been rather impressed with how long the batteries last.  Maybe I'm not using the display as much or the flash as much as others, but I find I can get along fine without using the display.  Once you get past the gee-whiz nature of the LCD display I found that I only use it for an occasional preview of a picture or for using the menus.  I prefer using the optical viewfinder to take my pictures as opposed to the LCD display.  
+
+This camera can be rather expensive, but I was able to get it for $500.00 so it was worth it to me.  
+
+Now for what I don't like about this camera.  I've found that for close up shots you need a really steady hand or your pictures will come out fuzzy.  A tripod solves this problem for me, but maybe I should cut back on the Mountain Dew.  
+
+A minor problem I ran into with the SmartMedia and FlashPath adapter is that if you rename the jpg files directly on the SmartMedia card then the camera will no longer recognize them and you can't delete them using the camera's menu.  You have to use the FlashPath adapter to go back and delete them.  
+
+Another minor annoyance with the camera is the amount of time that it takes for the zoom lens to extend and retract, but I can live with it.  Related to this issue is the fact that after a certain amount of idle time the camera shuts off to save battery life and the only way to start it again is to close the cover and reopen it which is time consuming if you want to get that perfect action shot.  
+
+The lens also is a bit noisy when it is extending or retracting and gives me the impression that it is the weak link in the durability of the product, but I haven't had any problems with it yet.  
+
+The camera comes with a bunch of software, only some of which I have used so far.  The Adobe Photo Deluxe software is sufficient for basic photo editing but has a somewhat annoying &quot;simplified&quot; interface. Unfortunately the FlashPath drivers that came with the adapter didn't include Windows NT, but luckily they had it available on their web site for download.  Hopefully they have included the NT version in shipments by now.  The package came with other software such as software to stitch together a photo mosaic, but I haven't experimented with it yet.  
+
+Overall I'm very happy with the camera and would highly recommend it to others.  I'm sure that photography professionals would want more from a camera than this one provides, but for an occasional picture taker and frequent web designer I find this camera fits my needs.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

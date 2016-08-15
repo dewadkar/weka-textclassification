@@ -1,0 +1,16 @@
+DOC>
+<DOCID> 669 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_NikonCoolpixx-Nikon_Coolpix_950 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-D03-E4FDA1A-3900AC60-prod6 </URL>
+<TEXT>
+            I'm not going to write an exhaustive review of the Coolpix 950. There are about a 100 of them up already. It is as most people attest an excellent camera and I've been very happy with mine. However, there are a few things you need to know before buying the coolpix 950. 
+
+1. Taking a picture with a digital camera in general and the coolpix 950 specifically is not exactly the same as your point and shoot or your SLR. There is a very noticable delay both between when you push the button to take the picture and the picture gets taken and after taking the picture before you can take another one. The delay varies with the resolution of the picture you are taking. The format you will most likely be using if you want to print your pictures on a printer or at a service is the &quot;fine&quot; setting. At this setting there is often a delay of almost a second after you push the button. This often makes it difficult to get the candid shot you want. A second is the difference between capturing your child with the perfect smile and catching the back of his head as he runs away.  And there is often a delay of several seconds before you can take another picture. Same frustration as before. The Coolpix 990 supposedly solves this problem by adding a much larger and faster internal memory buffer. However the 990 is $1000 so you need to decide if taking the picture a little faster is worth $400 more. 
+
+2. Speaking of price. The Coolpix is definitely a value, however, the actual price of buying a digital camera is much higher than just the price of the camera. Because digital cameras go through batteries so fast you will most likely want to get rechargables. Two sets of good rechargeables and a charger is going to run you $50. I recommend Quest Batteries and a Maha charger. Secondly, you'll need a bigger Compact Flash Card (the digital &quot;film&quot;) if you want to take more than a few pictures before having to download them to your computer. I have a 96MB CF card from Simple Technologies I got for about $150 at Buy.com and I have never filled the whole thing up even going several days between uploads. And while we're on the subject of downloading the computer the serial connection used to connect the camera to the computer is useless. It is so slow I don't even have mine installed. Instead I have a Sandisk compact flash card reader that plugs into my USB port and simply looks like another drive when I open &quot;My Computer&quot;. It is very fast and very easy to use. If you can copy files from one folder to another you are in business. The Sandisk CF reader (make sure you get the USB) was $30 at Buy.com. <br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

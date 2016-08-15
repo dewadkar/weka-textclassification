@@ -1,0 +1,85 @@
+DOC>
+<DOCID> 13202 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Canon_PowerShot_A70 </PRODUCT>
+<URL> http://www.epinions.com/content_121999101572 </URL>
+<TEXT>
+            I have been a film SLR camera user for 20 years and had been toying with the idea of getting into digital photography for a while. I kept holding back, waiting for the prices to come down even more. When a camera store down the street came up with a bundle offer for the Canon Powershot A70, 3.2 megapixel camera, I took the plunge. It also met my requirement for a small, handy camera for use on occassions when I don't want to lug my Nikon F80 SLR along.
+
+<b>The Bundle</b>
+The store bundled the Canon Powershot A70 camera with:
+- 128 MB CF memory card
+- Soft camera case
+- 4 units Energizer AA size, 2100 mAH NiMH rechargeable batteries
+- Mini tripod
+- Vouchers for digital prints
+
+<b>Out of the Box</b>
+The Canon A70 has the following items in the box:
+- Camera
+- 16 MB CF memory card
+- User manual
+- USB cable (for computer connection)
+- Video cable (RCA jacks for connection to a TV)
+- 4 units alkaline batteries
+- Software CDs: Canon photo utilities and Photo Impression 4
+
+<b>Using the camera</b>
+To start shooting, insert the CF card into the memory slot, insert batteries, turn the camera into Auto mode, switch on and start shooting!
+
+The camera switches on fast; within 2 seconds (and switches off even faster). The start up time is much better than the Canon G1 that I have used before (belongs to a friend). The lens of the A70 completely retracts into the body when switched off, with a shutter covering the lens which is great since I don't have to worry about getting a lens cap.
+
+Part of the battery compartment forms a handgrip which greatly improves camera handling. The camera uses 4 units of AA batteries which lowers its cost of ownership since you don't have to buy an expensive proprietary battery pack. In addition to the NiMH batteries, I always carry alkaline batteries as a backup.
+
+The glass lens provides 3X optical zoom with apertures of F2.8-4.8. It is equivalent to a 35mm to 105mm lens in SLR terms. I would have preferred a 28mm equivalent, but then you can't have everything at this price. The lens also has a macro mode.
+
+In camera mode, the photo just taken will be displayed for 2 seconds. In review mode, you can view the photos taken in the LCD. The zoom control is handy in view mode; zooming in shows each photo in detail, zooming out shows thumbnails of the photos. A neat touch is, if you are spending more than 30 seconds in review mode, the camera retracts the lens into the body to protect it. 
+
+All pictures are stored in JPG format (no RAW mode) and I have chosen the default of Large Fine resolution without any complaint. Each photo occupies about 893KB at 2,048 X 1,536 pixels. Therefore, a 128 MB CF card can hold about 137 photos (or the equivalent of 3.8 rolls of film). I recently purchased a 512 MB CF card which can hold about 552 photos in Large Fine resolution.
+
+I found that the camera was ready to take the next photo within 1 second or less. This was better than I expected as I have read that digital cameras have a "lag time" (the time taken to store the photo into the memory card) which is something that does not happen in film photography. 
+
+<b>Features</b>
+This camera comes packed with so many features, that I would direct you to one of the many excellent professional reviews on the Internet. There are many settings to twiddle with and I started with the basics, such as leaving the camera on P (program) mode, and slowly experimented. I am still fiddling with the settings and find that most of my SLR experience is transferable to digital photography. The thing to master is the menu system in addition to the more familiar camera settings dial.
+
+The camera has plenty of modes: A (Auto), P (Program), Shutter-speed priority, Aperture priority, Manual, Movie and Scene modes: Portrait, Landscape, Night Scene, Fast Shutter and Slow Shutter. One of the fun modes is the Stitch Assist mode, where you can take panorama photos. Using this mode, you can take several shots of scenery, one after another, and join them using the supplied software to get either a panorama or even a 360 degree view. The camera locks the exposure to the first frame in the series, and although this simplifies things, it can also mess up the exposure for subsequent shots. Because of this, you need to carefully choose the frame to start off with, or to pick panorama subjects with fairly even lighting all round. 
+
+In addition, the camera comes with a built in flash, an LCD to view your photos, exposure compensation, settings for the image size and even custom settings where you can change the sound of the shutter to bird chirps! If in doubt, read the manual, which is very informative. Although there is a movie mode, I don't use it since I have a Sony Handycam for video.
+
+Hooking the camera to a TV is fun as you can immediately show the photos taken. The connection is via the AV terminal to the video-in socket of the TV. You get to see rather large pictures, compared to prints, especially if you have a large screen TV.
+
+<b>LCD</b>
+The LCD is bright enough for outdoor use. On occasion, where light is falling directly on the LCD, it is too washed out to be used. I then switch to the viewfinder. The viewfinder is very basic; there is no exposure information displayed whatsoever, except for focus and flash status indicators. However, the viewfinder remains quite usable in bright outdoor conditions. 
+
+<b>CF card reader</b>
+You connect the camera to a computer using the supplied USB cable. First, install the software driver, then connect the USB cable to the camera. Switch on the camera in review mode. The Canon software auto starts when the camera is connected and presents options such as view and download, etc. The neat thing is the downloaded shots will be organized into the dates that the photos were taken. 
+
+However, downloading photos consumes batteries as the camera is not supplied with a DC power adapter (this is a separate purchase). In the end, I purchased a CF card reader to do the job. To use the CF card reader, I remove the CF card from the camera and insert into the reader. The card reader is connected to the USB port where it is automatically installed and recognized as a removable disk. Since the reader gets its power from the USB port, batteries are not needed.
+
+A note of caution; I found that if you use the computer to copy files into CF card or delete any files from it, you will get some errors in review mode when the CF card is put back into the camera. (There were no problems taking pictures, though). This is because Canon has its own catalog system for the CF card that is not compatible with Windows.
+
+As such, my workflow now is to copy the files into the computer hard disk, burn a CD with them (for archival purposes), re-insert the CF card into the camera and perform a card format. This ensures that the camera is not confused should I delete the files using the CF card reader.
+
+<b>Software</b>
+The camera comes bundled with Photo Impression 4 and Canon utilities. Photo Impression is quite user friendly for editing or converting the photos. You can remove "red-eye" caused by flash, change brightness and contrast, add layers, etc. Not quite Photoshop, but most functions are available. Of the utilities, the one I use most is the Photostich that is used to create panoramas.
+
+<b>Battery woes </b>
+I found some issues with the NiMH batteries. The camera would keep telling me to change the batteries although they were fully charged. I found that cleaning the battery contacts in the camera helped and I'm left wondering whether it has anything to do with the fact that alkalines provide 1.5 Volts per battery whereas NiMH only provides 1.2V. The problem seems to have settled down since the last cleaning of the battery contacts, and this is the only annoying glitch, in an otherwise good package. A fully charged set of batteries lasted about 150 shots with the LCD on, some flash shots and lots of review time.
+
+<b>Printing</b>
+This A70 supports direct printing to Canon&#146s printers, although I've not tried it since I don&#146t own a Canon printer. I've printed the photos with good results on an Epson Stylus Photo 830 via the computer (not direct from camera). I've also found that some photo stores are now offering digital prints on normal film print paper (4 by 6 inches) at a price that would be lower than printing on my home color printer (calculating the cost of paper and ink). I've received a batch of photos, with excellent quality, back from such a service recently. 
+
+As such, I've come to the point that I would choose the best shots for printing at the store (4 by 6 inches), and keep the rest on CDs for archive. Only the very best will be edited and printed on my home printer in larger formats, up to 8 by 10 inches. Of course, if I don't have time to wait for the photo store, I will run off a few prints at home. In short, I am trying to have the best of both worlds, where I no longer have to buy film, get to enjoy the immediate view and print capability of digital photography and still be able to get great prints from the photo store.
+
+<b>Summary</b>
+The Canon A70 is a good camera for its handy size. Most of the pictures, even with flash, came out quite acceptable in terms of exposure, color definition and sharpness. While the lens cannot be compared to an SLR, it is sufficient for prints up to 8x10 inches.
+ 
+In my opinion, this is a great camera for those wanting to start digital photography without the risk of overspending on a product, while still providing a range of controls for the photo taking process. It is a solid dependable camera which produces quality photos. It is also handy enough to bring everywhere, thereby increasing the flexibility of my photography.
+
+As for the next step, I am waiting for the Digital Rebel price to come down before plunging into the world of digital SLRs.
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

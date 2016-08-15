@@ -1,0 +1,50 @@
+DOC>
+<DOCID> 25820 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Fuji_Finepix_S7000_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_119195864708 </URL>
+<TEXT>
+            I am a previous Fuji S602 owner, (the model which the S7000 is replacing).  I was very happy with my S602, the only thing I really wished for was higher resolution photos and maybe a longer optical zoom.  (Higher resolution as in more than native 3 Megapixels resolution).  That in mind, here&#146s a  look at my opinion on the S7000, after using it for about a month now...
+
+<b>First Impressions</b>
+
+If you owned or knew about the S602, this camera will look almost exactly the same.  The only differences you can see, are a different color scheme, a couple new button options, and a "grainy" sort of texture trying to simulate higher end SLR's.   The S7000 is a very comfortable camera like the S602, fitting easily in a right hand grip, with room for the left to support if needed.  It is a very professional looking camera, short of having a full SLR.  Almost everyone who has seen me using it has been very impressed by the appearance.
+
+<b>Use</b>
+
+Because the S602 has so many reviews found all over the web, you can really (and should) take a look at the main strengths of the S602, that can then be compared to the S7000.  For that reason I will try to focus on the changes and improvements (or lack there of), that this camera has since its predecessor.  
+
+Menus and Buttons -
+First, the camera operations and menus are excellent.  They have changed just slightly from the S602, but a previous Fuji user would have no trouble picking it up quickly without using the manual.  The main changes include a new "F" button next to the LCD screen, that controls the MPixel setting and other menu options (I found this very useful over the S602 method of having to switching camera modes to "Setting", and changing it there.)  This menu also includes a new "Chrome" setting option, in addition to normal color and B&W.  This is used for high contrast bright colored scenic shots, and I've found the effect small but noticable, and I've ended up just leaving on this setting for most situations.  The other main change in a new auto-focus option and switch, called "continuous auto-focus", in addition to that standard auto-focus when you hold down the shutter button, or manual focus.  This new option tries to continuously focus as you move around or change subjects.  I use this rarely, but has been helpful in times when my subject is moving constantly, or "one the fly" shots.
+
+Don't let this one fool you -
+The first problem I ran into was after I had snapped a few shots and wanted to look at them on my computer, (photo performance below).  When you connect the USB cable from the camera to the computer, (like almost all digicams have today), the computer would not recognize the camera (even after software was installed and directions followed).  I first tried re-installing and re-starting the computer several times, before checking thoroughly through the manual for a solution.  I found in ONE place, almost randomly in the manual (not in the problems section), that you cannot use a common USB hub to connect the camera, but it must be directly interfaced with your computer.  I never had that problem with the S602.  
+
+Shutter Control -
+The Shutter button has a new threaded attachment for a shutter release cable.  To my surprise, all the reviews I&#146ve read from the major digital camera sites so far have never even mentioned this!  The S602 did not have this option, and I wished it had. A definite plus for action shots or times when you want to keep your eyes up and focused on the subject for quick reactions, rather than strain your eye through the EVF or LCD.  Also a note on the shutter release button, it feels &#147shakier&#148, is the only real way to describe it, more loose, than the one on the s602.  I&#146m sure I&#146ll get used to it, but right now it feels very annoying, taking away dexterity of finding that "half-way down" step.  
+
+Movie Mode -
+When I first used movie mode I found a big problem.  The s602 had the best movie mode I&#146ve ever seen on a still camera.  It was for this reason that I bought it, and indeed why I continued with the s7000 now.  BUT, while taking some test footage, I noticed a not only slow but noisy reaction to changes in light.   When moving around and capturing areas of various levels of light, the camera adapts the iso automatically as it focuses and films.  It also makes a loud electronic shift noise each time it makes a jump.  This sound can be heard loud as day during playback!  What a terrible thing!  If you&#146re filming something with a lot of background noise or loud voices, you may not notice it at all, but try filming a silent scene or just don&#146t talk while you move around and you might as well not have sound with the movie mode at all.  I&#146m was very disappointed with this.  (SIDE NOTE UPDATE:  while I still agree with my complaint on this movie mode fault, I have found with more extensive use that there are very few times that conditions allow you to notice this noise, and I wouldn't detract from the S7000's excellent movie ability too much)
+
+I have also found that autofocus had a lot of trouble with nighttime shots.  While trying to autofocus on a night scene (that had plenty of adaquate light in my opinion), it took about 6-8 attempts before the camera would focus correctly.  I suggest manual only for night shots.  
+
+Aside from the autofocus at night, all the functional aspects of the S7000 seem to be identical to the S602, so I'll move on to photo quality.
+
+<b>Photo Quality</b>
+
+If you've read any professional reviews of the S7000, you may have read about the amount of excess noise caused by the overcompensation for JPEG compression.  I absolutely agree with this point.  It reminds me of the problem on the S602 with interpolation (how Fuji sort of "guesses" to double the number of recorded pixels).  For example, in its native 3Mpixel mode, the S602's photos were better than if using the higher 6Mpixel interpolation, because of noise.  On the S7000, which now has a native resolution of 6Mpixel, then interpolated to 12Mpixel, the same result occurs.  A similar effect is caused at all resolution settings on the S7000, because of its compression of JPEG files.  Basically this is when it takes the RAW image from the sensor, and tries to make it a smaller file size for the ease of use.  To solve this problem, I use RAW image recording and then edit on my desktop, but I'm sure most people don't want to have to do extra editing/saving to all their photos.  Luckily I don't mind, and I can still fit quite a few (81) photos at full RAW mode on my 1 GB microdrive.  I am not sure if the S7000 supports FAT32 format microdrives (the newer, higher capacity drives coming out in 2, 4, and up GB).  I hope it does, but I have no way of verifying this.
+
+Besides the JPEG compression and interpolation noise, still photos have had generally good results.  I am not that impressed by the 12 Mpixel mode, it seems I could get equally good results by doubling a 6Mpixel photo on photoshop (maybe exagerated).  However for most applications the average consumer would use this camera, quality is excellent, when sized down, or printed at 4 x 6, photos look great!
+
+Batteries -
+I have been using 2200 Mah rechargable batteries from Powerex, and I have been very impressed.  After the batteries first cycles (they supposedly need at least 3-4 cycles before reaching full capacity), I got a lot more juice than I expected.  I finished full day of shooting and playing with the camera, fully expecting the batteries to die at some point in the night, but it never did!  Nor the next morning while I accidentally left the camera on after copying my files.  Picking up a couple sets of 2200 Mah rechargables should make you very happy.
+
+<b>Conclusion</b>
+
+That said, OVERALL I have been a little bit disappointed by the results and lack of real improvement in the S7000.  The photos are nice, don't get me wrong, but not for this price range, and more importantly, not substantially better than the S602.  I even compared similar shots from my previous S602 and the new S7000, and I actually preferred the S602 shot in some cases.  If you don't need a movie mode on your digicam, I would spend the extra couple hundred for the Canon Digital Rebel, whose photo clarity I envy...
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

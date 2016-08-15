@@ -1,0 +1,21 @@
+DOC>
+<DOCID> 19048 </DOCID>
+<PRODUCT> Digital_Cameras/250399_Olympus_Camedia_C_2020Z_Zoom_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/elec-review-6C31-D489F53-3926D0BC-prod3 </URL>
+<TEXT>
+                 If you want to get 2 megapixel high quality color images from a digital camera that is smaller and lighter than other cameras with similar features, the 2020 is a great choice. It has aperature priority, exposure priority, and full manual modes to give you greater creative control, and the ability to shoot in black and white or in sepia, the latter giving photos an &quot;old fashioned&quot; look. Shooting two identical photos with the same camera settings and the same environment, I found shooting in black and white to give superior detail compared to shooting in color and then converting to black and white in the Camedia software that came with the camera. Granted, I didn't adjust the rgb values in on the color photo before converting to b&amp;w so it may be possible to get the same amount of detail as a b&amp;w, if the right adjustments are made before the conversion. 
+
+      There is also a whiteboard and blackboard setting, with which you can photograph text and use OCR software (not included) to eliminate tedious retyping. 
+The camera includes a pc sync if you want to use an external flash or a studio flash. You can also hook the camera to a vcr and record the images that are on the card onto a videotape, great for showing your pictures to people who dont have a computer. There is no documented way to upload altered images back to the camera for viewing. However, using the Camedia software it is possible - resize any altered photo to the same resolution as an unaltered one, copy it, paste it over an unaltered one, save the unaltered one, upload, and you can view it on the camera. This method will work with any image- I scanned in several old photos and was able to make a slideshow out of them on video. Keep in mind that with uploading multiple photos back into the smartmedia card you will need to use the file naming system that Olympus uses, ex. P1010024.jpg, P1010027.jpg, P1010028.jpg, and so on. Olympus probably doesnt support doing it this way so I wouldnt call them up asking for help with it, but it can be done.
+
+      Some other features of the camera are the 3X optical zoom, exposure compensation, panorama mode, with which you can create panorama photos in Camedia, and different white balance settings. You can't set the camera to a custom white balance setting like you can on the 2500, but nothing is perfect. Olympus carries some lenses designed for their higher end digital cameras, including a telephoto conversion lense, a wide angle lense, and a macro lense if you want to use the flash on macro shots. to use these lenses you will need the appropriate step-up ring and a CLA-1 adapter- the step-up ring is included with the telephoto lense but I'm not sure about the others. 
+
+     As far as what the 2020 lacks, USB support is high on the list. Now that the newer macs have only usb ports, and most new IBM compatibles have usb ports, you'd think Olympus would include a usb port on their newest cameras, the 360 and the 460. Downloading through the serial is ridiculously slow with a full 32mb card. You will have to purchase an Olympus USB card reader if you want to use this camera with an imac, or through a USB port on  windows 98/2000.
+
+     The 3030 includes a usb port for a lightning fast download, so if you have have an imac you might want to spend some extra cash on the 3030, which also lets you record sound with your photos and with the quicktime movies. You can record movies on the 2020 but theres no sound, and you can only shoot up to 60 seconds at a time- with the 3030 you can keep shooting the movie until the card is full.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

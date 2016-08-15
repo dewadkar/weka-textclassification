@@ -1,0 +1,56 @@
+DOC>
+<DOCID> 31993 </DOCID>
+<PRODUCT> Digital_Cameras/511597_Hewlett_Packard_PhotoSmart_215 </PRODUCT>
+<URL> http://www.epinions.com/content_51706826372 </URL>
+<TEXT>
+            Well as most digital cameras go this one also compromises on many areas in design and could be a perfect camera except for some flaws that really start to drive you insane after a while. 
+
+Price: Wow cant beat 139.00 for a mega pixel HP brand digital camera. This really is what attracts people to this model in the first place. 
+
+Batteries - The only good thing about the batteries is that the 4 AA's are very easily removed and loaded almost like a gun chamber and just as fast. Not only does this camera suck the batteries dry when using the LCD mode but the camera has one almost unacceptable problem, there is no auto shutoff. So almost EVERY time you download the pictures to the computer you get so involved with the photos you forget to switch the camera off only to notice it a short while later with the batteries drained. This camera acts funny and flakey when the batteries are not name brand alkalines and well charged. Off brand Kroger Alkalines had serious problems with this and my Kodak brand cameras I tested. 
+
+Auto Focus and Flash - This feature tries to turn gears and focus the camera and is loud on some cameras more than others, I tested 2 of these cameras and one was so loud I thought gears were stripping. It also hesitates and thinks and gets confused and this feature prevents more good pictures than it gets. By the time the stupid camera is ready to shoot the subject is gone. Good idea on paper, implementation is cheesy. Also takes too long for the camera to recover. 
+
+Photo Taking Experience - As I hinted before this camera hesitates and thinks and recharges and the green ready light sometimes comes ready fast and sometimes you have to wonder if the camera is really awake. Then you check the batteries and hold it up to your face again and hold still and mash the flash button part way to make the camera READY then you press the button the rest of the way to make it snap the photo. This entire experience is flakey and the button is very hard to make the camera operate properly and when you hold the button part way the camera comes ready easily about half the time. This actually blows the entire experience. The kids and subjects move to quickly.
+
+Picture Quality - If you get everything perfect, lighting, close to subject, camera still and all the planets in alignment this camera can take some awesome quality photos. In fact if the subject is not moving and you can take repeated shots you will eventually get some great shots. The macro mode allows you to view close subjects with the LCD and frame them up and take better photos in some cases but this eats the batteries alive. I would say that an entire set of pictures might produce a few very good photos, the rest would be either blurry, messed up by the flash, or the camera doing wierd pixelizations with the color and compression leaving some otherwise perfect photos with these wierd pixeled areas.
+
+Reliability - The ecost.com store REFUSED to take this camera back the day after I bought it and would not replace it. I thought the shutter button was too unacceptable. After battling with HP tech support I finally convinced them to replace it, The new one was slightly better but not perfect and HP also sends you a REMANUFACTURED camera as a replacement even though it was JUST purchased yesterday. I thought HPs service has really gone downhill. 
+
+Drivers and Software - One of the cameras I bought had bundled a CXI package with Photo Montage and some other software that I thought was absolutely horrible. Kinda like that cheap fax software that always comes with modems. Very cheesy and flakey and way way to complex. Now the other camera I bought was 10.00 cheaper and somes with JUST the camera and vanilla HP drivers. These drivers and software were MUCH simpler and smoother and was the highlight of the entire product. You simply plug in the camera cable and the software automatically places all the photos from your camera onto the computer and into the MY PICTURES folder. This was absolutely wonderful and bug free in every way.
+
+Lens - The lens doesnt appear to accept standard lens filters like my Epson and Kodak models and this is a dissapointment but more dissappointing is the fact that when you switch the camera off they dont slide a little cover over the shutter lens and that plastic lens get exposed to everything. If you brought this camera to the beach and one drop of salt water hit this plastic lens it would immediately be cloudy and ruined and need repair. Very stupid to design a camera this simple and not go that extra small step to get it right. 
+
+Memory card - a 30.00 32mb compact flash card is a must to buy with this camera and allows it to hold a ton of photos and even 50 at the highest resolution.
+
+MAC SUPPORT - AHHHHH ! I cannot believe Apple OS9 and OSX refuse to support this brand new camera and HP also says they cannot support MAC. The model 315 is. I know exactly why to. Apple claims to have invented USB yet they break the very industry standard themselves and operate their USB ever so different that PC's USB ports. So mfg of devices and drivers have to bend over backwards to make devices compatable with PC and MAC. MAC USB is also slower. So I suspect this is not 100% HP problems but also attributed partly to Apple and how Apple works with HP to resolve these issues. In either case I could have tossed this camera in the garbage when I figured this out for certain. The sad part is that HP web site has some downloads that might lead one to falsely believe they support MAC on the 215 model. So sad. Another one chalked up to Apple users. 
+
+SUMMARY: A good camera for the price but I have to wonder if you are not better off getting a better model.. Here are my tips for buying the PERFECT digital cam.
+
+1. Over 2megapixel resolution
+2. The Lens or clear lens cover is covered up and protected when the camera is shut off. 
+3. Batterys load easily and instantly. Open door they fall out. 
+4. Batteries last along time when the LCD is not being used. 
+5. Autoshutoff after 5 minutes to save the cameras batteries. 
+6. Camera uses Compact Flash card and not those stupid sandisks things.
+7. Camera charges very fast and is ready to take photos and recovers from photos VERY fast. This is a make or break feature. 
+8. Needs a viewfinder you can look through the LCD is not used all the time and takes too much time to fool with.
+9. Camera saves the photos in JPEG format natively and does not use some stupid proprietary format like some Kodaks did. 
+10. Small , light , simple and looks like a regular camera. Gathers less attention and less likely to be stolen from you. Has to be as simple as a disposable camera to be used by everyone and really utilized. 
+11. Built in Flash + Tripod mounting hole
+12. I recommend USB and NOT serial even though serial is required for some older computers that dont have USB. I dont like removing the flash card allthe time and using a card reader, this wears out the memory slot in the camera after about a year of slamming that flash card in and out. I recommend having that as an option but use the USB cable most of the time. 
+13. By the approved AC adapter to save on batteries. 
+14. I like the camera to be able to save the time and other information and NOT loose it when the batteries are replaced and that info be used to date stamp the photos in the filenames. HAving to reset this date all the time is a pain.
+
+
+
+I hope this helps. I am only my 4-5th camera now and I am really getting ideas for the perfect camera. Epson PhotoPC 500 was the best camera I ever had but it was not a high resolution , but the functionality was awesome. Camera designers are a bunch of clueless college boys that never even talk to customers. Seems like every camera out there has several of the issues above and THAT IS WHY the digital camera is having trouble going mainstream. Until you can pick one up and snap 5-6 photos in a row , very easily and fast, the digital camera will never see mass consumption like traditional cams. These manufacturers have proven they can do all of these things they just cant seem to produce 1 camera that does them all at the same time. 
+
+
+Good Luck
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

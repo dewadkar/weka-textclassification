@@ -1,0 +1,171 @@
+DOC>
+<DOCID> 16883 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Sony_MVC-FD95 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-2600-39C22D4-396E1AA8-prod4 </URL>
+<TEXT>
+            The excellent, zoom lens, floppy disk storage, and superb features of the Sony Mavica MVC-FD95 make it the perfect toy for camera buffs, but the price will send you into sticker shock. If you can use a computer and a SLR (Single Lens Reflex), you will find this camera completely intuitive to use and be taking incredible photographs in minutes. It is the best camera I have ever owned, and by far the most expensive.
+
+
+<b>Resolution or Image Size</b>
+
+Imagine a sheet of graph paper. Now put a tiny light sensor that detects the brightness of red, green and blue light in each square of that paper. Collect the settings from each of those sensors and store them electronically as an image. That is the basis of a digital camera. The resolution of the camera is how big the sheet of graph paper would be.
+
+At its highest resolution, the FD95 can record an image 1600x1200. That means that it stores 1,920,000 bits of information, or pixels. This is approximately, 2,000,000 pixels or 2 Megapixels. This means that if you were to print the image using a high-resolution color printer, you could make an excellent quality 8x10.inch print. Software allows the camera to extrapolate imaging, making it a 2.1 Megapixel camera in marketing terms.
+
+In addition to the highest resolution, the FD95 has five other image sizes. 1600 (3:2) is still 1600 across but has exactly the same proportions as standard film. 1600 (ECM) is 1600x1200 but is stored with less resolution. I will explain this later. 1024x768 and 640x480 are also available. The 640x480 mode is a good size for viewing in VGA or showing on the Web.
+
+You can also get a 320x240 image in addition to any of the other images by selecting the Email feature. This is all that the Email feature does, so don't get too excited when you read it in the specs.
+
+This is a very broad range of storage capability, which should be ample for amateurs and professionals alike. I usually shoot at 640x480, but when used the higher resolutions, the results were impressive.
+
+
+<b>Image Storage</b>
+
+The images are stored on a floppy disk. This is good because floppy disks are cheap and freely available. You don't need any special cables or software to transfer the images to your computer. How many images you can store per disk varies depending on the options you choose, and the image size. You get about 4 pictures per disk at 1600x1200 and about 30 at 640x480.
+
+The images are normally stored as JPG format, which is a compressed format that may lose some detail. The 1600 (ECM) mode turns up the compression ratio. This fits twice as many pictures per disk but reduces the image quality.
+
+You can opt to store the pictures as TEXT format, which results in a GIF image that captures all the detail. Unfortunately, this image is stored only as a small 10K, black and white image. While this is very useful for copying text documents accurately, it is a pity that the loss-less GIF format was not more broadly available. 
+
+The on board disk drive is very fast, storing an image in just a few seconds. You can also copy files and even the entire disk using only the camera. The only down side of using a floppy disk, is that it is a little bulky, making the FD95 fairly large and heavy for a digital camera.
+
+You can buy an adapter for about $100 that will allow the camera to use a memory stick instead of the floppy disk. A 64MB memory stick will set you back about another $100. It takes about twice as long to save an image to memory stick, which seems odd.
+
+
+<b>Zoom Lens</b>
+
+The 10x optical zoom lens is the largest currently available on a digital camera. This makes the camera about the equivalent of a 50-500 zoom on a SLR. In addition, the camera has a 10x digital zoom. Now normally, I pay no heed to a digital zoom, since using it loses resolution. You may as well just take the picture home and enlarge it with PhotoShop.
+
+However, on the FD95 that is not the case. When you use sizes lower than the maximum, 1600x1200 mode, you are not using all the sensors. That means that you can use some of the digital zoom without losing resolution. For example, if you are shooting at 640x480 mode, you can actually zoom to about 15x without losing information. This is an incredible zoom capability equivalent to a 750mm SLR lens. You can stand 4-5 feet from a flower and take portrait shots of butterflies.
+
+The zoom control is on the front of the camera, under your right index finger and very easy to operate. As you look at the image, you see a white rectangle, a bit like a horizontal scroll bar. A fat white dot shows the current zoom and a vertical line shows the point at which you would start losing information. This sounds a lot more complicated than it is to use.
+
+The FD95 lens is 52mm, bigger than the other Mavicas, which only have a 37mm lens. This allows in a lot more light, giving much better images in low light situations. The lens also has Steady Shot optical image capability. This eliminates camera shake, even at extreme zoom settings. A button on the side will switch it off. Another button will switch it into macro mode, which allows you to photograph things only one inch from the lens. Pretty nifty.
+
+The lens focuses automatically, which is super most of the time, but another switch on the side turns the autofocus off, and you can focus by twisting the focussing ring, just like a SLR.
+
+
+<b>Viewfinder</b>
+
+The FD95 has a nice large, bright LCD viewfinder, which I never use except for showing photographs to friends. Why? Because it also has a through the lens, eyepiece viewfinder just like a standard SLR. The eyepiece, which can be fine tuned to suit your eye or eyeglasses, has a soft rubber cup around it, and it is easy to use in bright light situations. It also saves a lot of power over using the large LCD, and automatically switches off when you are not looking through it. You can see all displays and operate all functions through either viewfinder.
+
+<b>Flash</b>
+
+A button activates the pop-up-flash, just like the headlights on those fancy European sports cars, It is normally set for automatic, but you can set it for always, red-eye and off too. You can also adjust the intensity. The camera also has a hot shoe for external flash. At the moment, this seems limited to Sony flash products but in time third party flashes should become available.
+
+<b>Other Buttons</b>
+
+A spot meter button allows you to preset the focus for a particular spot and shoot repeatedly without waiting for the camera to focus. This would be useful for photographing sports events like auto racing.
+
+A white balance button allows you to adjust the intensity of white as it relates to other colors. I am not sure why you would need this feature.
+
+A program button allows you to select from the many programmable features. To put it simply, this allows you to do everything you could do with a standard SLR. Normally the camera picks the aperture and speed. However, with the program buttons you can pick the aperture and let the camera pick the speed, or you can pick the speed and let the camera pick the aperture. You can add too or subtract from the exposure time. You can get the camera to adjust itself for various light settings. For everyone who wants to get into the mechanics, there is a feature to play with, and it is all clearly understandable by watching the numbers and icons through the viewfinder. Then again, you can just point it and shoot, getting an excellent photograph 99% of the time. This camera is only as complicated as you want it to be.
+
+Buttons on the back allow you to turn the camera on/off, the display on/off, the LCD on/off change the flash settings, adjust the volume, and set the mode. Of course, you also have the disk eject button and the shutter.
+
+
+<b>Menu</b>
+
+A menu button, rather like the little mouse button on a laptop, allows you to operate the menu system. In STILL mode, you can set the date and time, timestamp your pictures, choose image size, and select many other options and special effects too numerous to document. This is also where you can set the time delay, so you can get into your own pictures. Hey, it's like Windows with a mouse. Point and click, it's totally intuitive. 
+
+In PLAY mode, you can preview your shots, delete or copy one or all of them and set up slide shows. A cable provided allows you to connect the camera to a TV set and create slide shows. One of the settings in still mode allows you to talk to any currently used TV system, NSCT, PAL etc.
+
+You can also cut, paste, crop, edit, and do several special effects right in the camera. It would probably be easier to do these on the computer, but if you are away on a trip, this is a super feature.
+
+
+<b>Sound</b>
+
+Those that were paying attention, may have noticed the volume buttons. Through the menu, you can activate the sound feature. That adds a five-second, sound track to each photograph, super for documentation. This does reduce the number of pictures per disk slightly.
+
+
+<b>Movies</b>
+
+The final setting of the mode switch is MOVIE. Guess what this does? Okay. You guessed it. You can make a short movie, complete with sound. The movies are stored in MPG format.
+
+The movie can be 15 seconds long in 320x240 resolution or 60 seconds long in  180x120 resolution. (This appears to be limited by the internal memory of the camera and not be the available space on disk, as I had originally posted - sorry for the mix up.)
+
+Many of the more advances features will not work in movie mode, but this kind of capability in a STILL camera is impressive. This is probably the easiest way available to make a short MPG to email to friends and family.
+
+
+<b>Batteries and Charging</b>
+
+The camera comes with a rechargeable lithium battery and a charger/power lead.
+
+When fully charged the battery has about 120 minutes of power. This is enough to take over 200 photographs in daylight using the viewfinder. Using the LCD cuts that number down, using the flash cuts it down more. The battery life available is visible at all times through the viewfinder.
+
+The first day I used the camera I did not know what I was doing and had to fiddle around a lot. I started with 90 minutes of power, took about 60 photographs, and had about 30 minutes left.
+
+You can plug in the power lead and use the camera, even if the battery is flat. This would be good for flash photography at home, making movies, and using the camera to do disk copying, image editing and slide shows. When the camera is off, the battery charges. A charge light switches off at "normal" charge, which is about 90 minutes. You can leave the camera charging for another hour to bring it up to 120 minutes. This is a bit odd, but workable. I guess for most purposes you don't really need that extra time.
+
+The battery charger/ power lead is pretty amazing itself. According to the book, it will automatically adjust itself to the power and frequency standards around the world. This means that on vacations, you can use it in the 110-volt, 50 cycle USA, the 240-volt, 60 cycle UK and a whole host of other places. Of course, you will still need an adapter to fit the local plugs.
+
+
+<b>Software</b>
+
+The camera comes with a CD full of image processing software for both Mac and PC. I am sorry, I really can't tell you anything about it. My PC already had a nice selection of software, and the images are stored on floppies in standard formats.  I had no reason to load the disk. 
+
+I promise, if I get round to testing the software, I will add my observations to this review.
+
+
+<b>Other Stuff</b>
+
+In addition to everything else, the camera comes with a lens cap and a carrying strap. The TV cable supplied will fit most modern TVs. There is a tripod socket under the camera near the battery holder.
+
+
+<b>Appearance</b>
+
+The camera has a futuristic appearance and is extremely good looking. It looks expensive, which is unfortunately true, and not necessarily a good thing is some neighborhoods. It is as big as a SLR with a moderate zoom lens but, at about 1.1 pounds, it weighs much less.
+
+Ergonomically, this camera is superb. Every switch and button is easy to hand and exactly where you would want it to be. It fits comfortably into to my not overly large hands.
+
+
+<b>Accessories</b>
+
+You should order an Ultra Violet filter for about $30 when you order the camera just to protect the lens from scratches. This lens is too classy to put at risk. I believe a long life battery is available. You can get wide angle and telephoto attachments, to extend the already incredible capabilities of this camera.
+
+One annoying point is that you do not get a case with the camera and have to pay extra. Since you have to take out a mortgage to buy one, you would think Sony would have supplied a free case. 
+
+
+<b>Using the Camera</b>
+
+The camera is a little odd when you first use it. When you press the shutter button softly, a green light flashes in the viewfinder while the camera sets up the shot. After a second or two, the green light stops flashing and the camera is ready to take the shot. Press down harder and it shoots.
+
+When I first started using it, I pressed hard and held the button down. Unfortunately, either my target or my aim would move during the pause, and I got a few shots of half ducks and half squirrels. It takes about a day to get used to this pause.
+
+Fiddling around with the settings and options can change and even eliminate this pause, which is probably essential for action photography such as sports events.
+
+<b>Summary</b>
+
+A novice will be able to use the MVC-FD95 camera as a point-and-shoot device and take super pictures in five minutes. An experienced SLR photographer, will grasp the more powerful features in moments, and be able to take fabulous photographs even in extreme conditions. The book that comes with the camera is thick, clear and comprehensive.
+
+If all you do it take snapshots of family and friends, this camera is overkill. Get the 3x zoom on the MVC-FD83 for half the price. For wildlife, sports and vacation photography where a high power zoom is useful, this camera blows away the competition. The price is steep, but the features and capabilities are unmatched by anything else currently available.
+
+I have set up a sample page for you. You can see several actual images at:
+
+<b>http://DragonQuest.com/mvcfd95.htm</b>
+
+Of course, I only bought this camera so I could review it for you fine people. Now, will you please ask <b>30,000</b> friends to read this review so I can afford to pay for it.
+
+
+<b>Latest News</b>
+
+The Sony Mavica MVC-FD97 is the upgraded version of this camera. Read, Thanks for the memory ( <a href='/content_63018602116'>http://www.epinions.com/content_63018602116</a>), for my review of the new camera. This review also contains essential Advanced Mavica FD95/FD97 Users Tips, which I was not able to include here.
+
+
+<b>See Also:</b>
+
+Sony Mavica MVC FD95: <a href='/elec-review-2600-39C22D4-396E1AA8-prod4'>http://www.epinions.com/elec-review-2600-39C22D4-396E1AA8-prod4</a>
+Sony Mavica MVC FD97: <a href='/content_63018602116'>http://www.epinions.com/content_63018602116</a>
+Fuji Finepix S602 Zoom: <a href='/content_64254873220'>http://www.epinions.com/content_64254873220</a>
+
+Digital Cameras for Bunnies: <a href='/content_2654445700'>http://www.epinions.com/content_2654445700</a>
+CD Burners for Bunnies: <a href='/content_2645663876'>http://www.epinions.com/content_2645663876</a>
+
+Just cut&paste the URL into your browser's address window.
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

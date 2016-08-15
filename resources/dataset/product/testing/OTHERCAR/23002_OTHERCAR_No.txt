@@ -1,0 +1,30 @@
+DOC>
+<DOCID> 23002 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_PolaroidPDCC-Polaroid_PhotoMax_PDC-640 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-338C-68903DB-37E67FA9-prod1 </URL>
+<TEXT>
+            Do not buy this camera....and I make the bold statement to include any camera in its class into this warning as well.  
+
+First, we will start with my camera, the PDC640, and explain its shortcomings and few advantages before we move onto a general Polaroid complaint.
+
+My Camera...good points:
+
+  For a digital camera, this one was relatively inexpensive.  I did get it as a gift, but I know it wasn't top of the line because that would have been too much money to spend.  For the price, the camera had some nice features though.  There are various options available for picture quality (4 or 5 levels), there are flash options, it comes with a timed picture option, and you can plug directly into your serial port on the computer, or a TV/VCR to view or record your pictures.  This was nice for 5 minutes of entertainment since the TV feed could also be used as a live video feed with some slow frame rates, giving the effect of a cheesy karate movie.  Finally, the phone customer service was pretty good.  I am sending in my camera now to be fixed, so I may write a separate review only dealing with customer service at a later date.
+
+--------------------------I got my camera back today...they gave me a new one (or fixed the old one) for free and shipped it to my Fraternity.  That was good service, and it didn't take long.  I think I will raise them one star for that----------------------------
+
+And now onto the bad points:
+
+1.  Since I am an electronics freak, and since this camera was a gift, I obviously took exceptional care of it.  Still,  in about a month the display screen already had problems.  Lines started running the length of the screen, at times making it impossible to even see my pictures.  Then, about a month or two later, the buttons started to become unresponsive.  I would press a button to view the pictures I had taken, and it wouldn't do anything.  I would press again and again, and finally it would register.  This is very bothersome to me.  In this electronic age, we expect an 'on' button to turn something on, we expect a 'menu' button to show us a menu.  We don't expect that behavior one out of five times either, it should work every time.
+
+2.  The software that comes with the camera to interface with it is Absolutely Horrible.  This seriously reminded me of some hack program made by someone just learning to program.  Many times the program wouldn't be talking to my camera correctly and nothing would happen.  Then I would have to restart my computer (sometimes a couple of times) until the program decided to pick up the info it needed.  For someone who keeps his computer on nearly all the time, this was very annoying to me.  More on the program...the error boxes popped up behind some other windows.  So, at times it would seem like the program was frozen, and you would have to shut it down.  The only way around this was to move each window to the side of the screen as it popped up, then do a picture download or something.  That is the only way to see the errors that may occur (and did occur 3/4 of the time).  This program also had a horrible picture editor included with it.  It wouldn't allow you to do much of anything.  If you wanted to really edit a picture you had taken, you had to save it with this program (because nothing else interfaced with the camera at all) and re-open it elsewhere.  My final complaint on this software is my biggest.  Their default file extension for the picture software was .jpg (an already existing format).  This would have been fine if the program didn't change all my .jpg icons automatically.  The worst part, though, is the rest of my picture files then became inaccessible.  Anything that i had previously had as a picture on my computer would no longer open with a double click.  I had to open Netscape and drag the file into the window to force it to use that program.  Otherwise it would tell me the file could not be found.  I had to manually go into my file extension list on my computer and change everything about how a .jpg was handled, which wouldn't be an option for many users (if they didn't know how).
+
+3.  The worst customer service on the internet.  That is how I can sum up this company's approach to my problems.  My email to their service department was very professional and helpful.  I told them what my software had done, and how I was able to fix some of the problems on my computer.  I then asked if there was a better way for me to fix the problems, and that I hoped that my email would assist them in resolving some possible software problems for future releases.  My reply email made me very mad.  Their answer to my questioning the pop-up error boxes (see above) was just to move my other windows aside.  Well sure, that works, but it is inconvenient, unintuitive, and simply moronic.  Make any error on any computer and it will be right there in your face in the middle of the screen.  What makes their software any different besides poor programming?  The worst part is they didn't even acknowledge that I had given resourceful feedback, and they didn't bother to answer my question about the .jpg renaming.  They either didn't know or didn't care.  I will say they don't care, because it has been another 4 or 5 months and I still haven't heard anything.  Either way it was poor poor service.
+
+You should always end with a strong point, or an important theme...notice how the few good things I had to say were all at the very beginning?  Hmmmm, that should tell you what my important theme is here.<br><br>
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

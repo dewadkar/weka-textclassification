@@ -1,0 +1,41 @@
+DOC>
+<DOCID> 13085 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Sony_DSC-V1_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_113869885060 </URL>
+<TEXT>
+            After researching 5MP cameras for several months, I decided on the Sony DSC-V1, and am very pleased with the decision.
+
+The V1 is Sony's top-of-the-line compact digital camera.  It is rated as a 'prosumer' camera because it has all the features of a professional SLR in a compact consumer camera.
+
+The quick synopsis (read on for in-depth review):
+Pros: Great compact camera with all the features of a professional camera. Fast response times. Good metering.  Clear, sharp LCD. Night-Framing is excellent for lining up low-light shots.  Smart-zoom prevents digital zooming when it would affect image quality.
+
+Cons: The camera is difficult to hold steady with the flash up because there is nowhere to put your left hand (solution: use a mini-tripod).  Battery life is fine, but short compared to other compacts (solution: get a spare).  TIFF images seem to take an age to write (solution: use TIFF only when absolutely necessary).
+
+Summary: Fantastic, fully featured, bang-for-your-buck camera.  The cons are few and easy to work around.
+
+
+In-depth:
+
+When looking for a 'prosumer' digital camera, here are the common items one should consider:
+
+- Full manual control options.
+The V1 covers the bases well here.  It has a fully automatic, program AE, shutter and aperture priority, and full manual modes.  The metering in all modes is excellent, and caters well for both 'point-and-shoot' auto modes and difficult, technical subjects requiring pinpoint adjustment.  The addition of an exposure histogram is an added bonus.
+
+- Plenty of memory capacity.
+The V1 is compatible with Memory Stick Pro, allowing cards of up to 1MB to be used.  The cost of high-capacity Memory Sticks is currently significantly more than Compact Flash, but this is offset by the fact that MS is generally faster than CF.  The alternative is to buy several 128MB memory sticks, which are price-competive with CF.
+
+- Fast response times.
+The V1 feels very fast.  About 3 seconds from power-on to ready is an excellent result for a compact camera with an extending lens.  Shot-to-shot times are excellent, unless the camera is set to TIFF mode, when it takes 20+ seconds to write the image.
+
+- General features:
+Nightshot is a gimmic, but Nightframing is a godsend!  Nightframing puts the camera into infrared 'nightvision' mode so that you can line up your subject in low or no light.  When the photo is taken, the camera switches to normal mode, measures exposure, and takes the photo.  Great idea Sony!
+
+- Other stuff:
+Others have complained about lack of digital zoom, but this 'smart-zoom' is in fact a great feature of the camera.  Digital zooming is disabled when it would affect the image quality (i.e. when the camera is set to full resolution).  In these instances you are much better off taking a shot in TIFF mode, and using an editing package to do the zooming.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

@@ -1,0 +1,84 @@
+DOC>
+<DOCID> 31429 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Canon_PowerShot_S50 </PRODUCT>
+<URL> http://www.epinions.com/content_98327039620 </URL>
+<TEXT>
+            This review covers the use of the Canon PowerShot S50 camera and the Canon WP-DC300 underwater housing in an Underwater environment only. 
+
+I discussed the special considerations that come into play in an underwater environment in depth in my review of the <a href="/content_97330040452">Digital Elph S400</a>. Please refer to that article for if this summary of color drop off, backscatter and external strobes is not detailed enough. 
+
+<b>Special consideration for underwater camera use (short version):</b>
+
+<b>Colors at depth: </b>
+The deeper underwater one goes, the more the longer wavelength colors are filtered out. First red is lost, then orange, then yellow, until all you're left with is blue. To compensate for the loss of color most photo situations require their own light source. 
+
+<b>Position of light source: </b>
+If the flash it too close to the lens underwater, the light from the flash will illuminate the particulate matter that is suspended in the water. This is called "backscatter." For this reason, most underwater cameras have a light source, normally a strobe (flash) that is positioned somewhat away from the lens. Synchronizing the external strobe with the camera's shutter, in the case of most digital cameras where the camera is encased in a thick plastic housing, requires that the external strobe is triggered by a light sensor which watches and synchronizes with the cameras built-in strobe. Because the camera's internal strobe will cause backscatter it is usually blacked out with fabric except for where the external strobe's sensor attaches. This is not an optimal system, but with the S50, it is a workable solution.
+
+The S50 has exceptional control over the flash, including allowing the user to manually set the strobe to 1/3 power. Such a low powered flash does not cause internal reflections within the housing and does not drain the battery. Further, the S50's flash can be set to not "pre" flash it's initial evaluation flash, so it is compatible with non-digital strobes. This overcomes all the problems encountered with the <a href="/content_97330040452">S400</a> flash. This is the biggest reason I switched from an S400 to the S50. Other flash features include a flash lock, single fire compensation flash, adjustable slow sync and early and late strobe triggering (first, opening, shutter and second, closing, shutter).
+
+But as soon as I received the S50, my love affair with the flash control began taking a backseat to my general dissatisfaction with the product.
+
+<b>Resolution and sharpness:</b>
+As usual, the first thing I did with the new toy was run an optical resolution test. The S400 (4 megapixel) had a respectable 1200 dpi. From this, I expected the S50 (5 megapixel, or 20% more pixels) to have a 20% better resolution, or 1440 dpi. Unfortunately, the resolution of the S50 was a sorrowful 1050 dpi, that's 13% <b>less</b> resolving power. A whopping 33% less resolution than it should have.
+
+Once I saw the interpolation and unsharp mask filter, I fixated on it. I shot high-contrast images with many sharp edges just to point out the obvious halation, fringing, and comparative blurriness of low contrast elements. But I will admit, I'm a detail fiend. I want to be able to clearly see, not just the fish, but the ridges on it's scales. So, for those of you that shoot at setting other than full-sized RAW, I will persevere. 
+
+<b>Lens:</b>
+35mm film equivalent: 35 to 105mm (f/2.8 at 35mm to f4.9 at 105mm)
+
+Underwater, the ideal lens is 24 to 28mm. Having the minimal zoom at 35 mm means you will need to get farther back from your subject to get the whole thing in the frame. Since you're farther back, you'll need a more powerful flash and there will be more water and particulate matter to illuminate. But almost every digital camera has a 35mm or worse minimum focal length, so mute point. The minimum focus range in macro is 3.9 inches, which is adequate for most U/W photos. One very bad thing about the camera is the flimsy lens cover. It's plastic and feels like it's going to break any minute now. It's also how the camera is turned on and off. Needless to say, it's fixed in the open position when it's mounted in the housing. There is a way to turn on and off the camera without using the lens cover, but I can never remember how.
+
+<b>LCD view screen:</b>
+The LCD is a big 1.8 inches. This is another feature that makes the S50 such an attractive package for underwater photo. Underwater, you cannot use the viewfinder as it's embedded in a plastic housing and you're wearing a mask. All you've got is the LCD; so the bigger the better. The LCD display doesn't quite cover the entire resulting image. The resulting image is about 3 to 5% larger than what is seen in the LCD. This is a minor problem as it effectively reduces you real pixel resolution by 3 to 5%. The viewfinder is very much out of alignment and proportion with the finished product; as would be expected with parallax-prone viewfinders.
+
+<b>Size & Weight:</b>
+The S50 weights in at 9.2 oz. and measures 4.41 x 2.28 x 1.65 in.(16.59 cu. in total.) It's twice the size and 1/3 heavier than the S400. The WP-DC300 housing is only a little bit bigger than the WP-DC800 housing for the S400. It doesn't really fit in your pocket.
+
+<b>Housing:</b>
+Here's where things get ugly even if you're willing to forgo the loss of 1/3 your total resolution. The housing allows access to left and right and select on the multi-controller, but not readily to up and down. You can get to the "MENU", "WB" and "EV" screens, but you cannot move the cursor up or down or often change values. To move the cursor up or down, you have to press and hold the "MF" button <i><b>in addition to</b> any other button you'll need to press-and-hold to get to the right menu in the first place</i>. Further, you have to remember whether <b>left</b> or <b>right</b> maps to <b>up</b> or <b>down</b>. When you add this to all the other press-and-hold, twist and nudge buttons... all done simultaneously, the camera becomes something close to impossible to adjust underwater. This is the main reason I returned the camera. [updated Fri, May 23, 2003]
+
+<b>Auto focus: AiAF (advanced intelligent auto focus): </b>
+The focusing worked somewhat alright. It wasn't as fast, accurate or darkness agnostic as the S400. The focus aid light was blue rather than S400's orange. 
+
+When I read the feature list, I saw that, along with a number of focusing modes, the S50 had a focus bracket mode. This is where the camera takes a number of shots at slightly different focus points and you later choose which one was the sharpest. This would be great for underwater photography as you're usually very close to the subject, making focusing critical, and you're often fighting a current or surge to stay in place. However, the nifty focus bracket mode is disabled entirely in that it only works in manual focus mode and without the flash.
+
+Finally, the zoom button is un- necessarily small. It's a bit difficult to adjust. Zoom seems to be stepped, rather than continuous. No matter how light or fleeting the touch, the zoom always seems to proceed from one position to the next, skipping all the points in between.
+
+<b>Manual Adjustments:</b>
+Almost everything in the camera is easy to adjust manually. It is the opposite of the S400 in this regard, but not quite as capable as the Canon PowerShot G3. It even has a "C" or custom mode that allows the user to save their configuration. This is absolutely great for underwater (and in fact, without the use of the "cursor" button, necessary) as you can have all your specific underwater settings available with a twist of the knob. You can control the flash, zoom setting, aperture, shutter speed, ISO, white balance (two custom for shallow and deeper water), exposure value (EV), macro setting, etc. An added bonus of the non-automatic functions is that you get to see, in a general sense, how your changes are effecting the image. If you choose a faster shutter speed without changing the aperture, the image in the LCD darkens. It's like the aperture preview button on a 35mm, but for shutter speed as well.
+
+<b>Movie mode:</b>
+The camera can record 3 minutes at 320 x 240. Neat for the shallows or shooting kids cannonball, but would require a video light to be useful underwater.
+
+<b>Low Light Photography:</b>
+The camera, as mentioned above, didn't focus as crisply as the S400 when it was dark, but the DIGIC Processor (Digital Imaging Integrated Circuit) was very capable of keeping the noise down on long exposure shots.
+
+<b>EXIF support:</b>
+EXIF and IPTC are ways to tag an image with meta information such as shutter speed & aperture (in the case of EXIF) or title and caption (in the case of IPTC.) Most digital cameras support a subset, if not most of the EXIF version 1 tags. Version 2.2 of EXIF allows the image to contain printing instructions as well as the standard setting records. The S50 fully supports EXIF 2.2 when saving as a JPEG. Saving the images as RAW 8-bit per channel (24 bit) does not support the full EXIF image info seen in the JPEG. Saving the images in RAW 16-bit per channel (32 bit) supports even fewer EXIF tags
+
+<b>Power:</b>
+The S50 has a considerable advantage in terms of battery life and flash power to the S400. But, like the S400, the AC to camera adapter is optional, so unless you buy a second (or third) battery, the camera will be out of commission when recharging
+
+<b>Other notes:</b>
+The main dial affirmatively snaps into position. This is great for underwater work as it's really hard to feel detents through the seals, dials and gloves.
+
+The usability of the review mode takes a bit of getting used to. It has dozens of functional combinations, mostly tied to the state to the sliding door/lens protector. Suffice to say, there is a learning curve, but it often functions as expected.
+
+The construction isn't as excellent as other Canon cameras I have tried. There are slightly misfitting parts and dangley bits.
+
+<b>Conclusion:</b>
+The fake extra megapixel is a real drag, but can be overlooked with time, but, due to the inability to adjust many of the features of this camera while it's in it's underwater housing, this camera is not suitable for underwater use. 
+
+
+<i>
+* The test was preformed on a calibrated copy stand shooting a planar image-set 4800 dpi resolution test page. Measurements where made with both line and checker test patterns. 
+
+For the purpose of this review, the term, "resolution" and "sharpness" mean, "indicator of spatial resolution" or "the ability to delineate lines or dots" not accutance, i.e the ability to resolve gray levels.
+</i>
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

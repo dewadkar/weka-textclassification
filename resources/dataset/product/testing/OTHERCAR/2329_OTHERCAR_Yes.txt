@@ -1,0 +1,43 @@
+DOC>
+<DOCID> 2329 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_ToshibaPDRR-Toshiba_PDR-M4 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-1C59-2E63062-38C55B2D-bd1 </URL>
+<TEXT>
+            (<i>Scroll to the bottom to view updates as of May, 11, 2000</i>)
+
+Two days before a big college basketball game at my alma mater, I thought to myself, &quot;Self, wouldn't it be cool to be able to take some pictures at the game?&quot;  I replied, &quot;Yes, but I'm such an amateur photographer that I don't want to waste film.&quot;  I needed a digital camera.*
+
+Now I had thought about buying a digital camera since the week before, when I bought my HP P1000 Photo Printer (which prints color documents, okay? Not like I ran out and bought a photo-only printer without a camera...sheesh! Just because I think to myself...anyway).  I had read a lot of articles about what some of these digital camera terms mean--MegaPixel, SmartMedia, CompactFlash--and I still wasn't completely sure what I wanted, except that I wanted high quality picture resolution should I could either print it OR use it on my web site. But some had no zoom, some had optical zoom, and yet others had digital zoom. Fortunately, I finally got some advice to guide me: don't buy less than 2 MegaPixels if you want quality pictures, and buy a separate device to speed up the transfer of photos to the computer. With that in mind, I came across the Toshiba PDR-M4. Within minutes after getting it home, I was snapping pictures left and right, and transferring photos FAST without a separate device. Although the game was a loss, the convenience of having a good quality digital camera at my disposal provided some consolation.
+
+<b>Ease of Use</b>
+If you buy a PDR-M4, you'll soon realize just how easy it is to use.  Even without charging the battery, you can plug in the AC adaptor and start having fun. Pop in the included 8 MB SmartMedia card, turn it on, point and click, and start flipping through the manual to find more features...a very low learning curve indeed!
+
+<b>Rechargeable battery and AC Adaptor</b>
+If you know anything about digital cameras, you'll know that they're infamous for going through batteries like the government goes through tax dollars.  Most other comparably priced cameras use your run-of-the-mill AA batteries, and they drain those pretty fast. You'll probably end up spending more time at CostCo buying batteries than taking pictures.  The PDR-M4, however, runs on an included rechargeable Lithium-Ion battery, which you can charge with the included AC adaptor, meaning the cost of however many batteries you'll need to use is essentially included in the price of the camera.  Of course, this only encourages me to take more pictures of trivial things...
+
+<b>Fast Download!  No...I mean FAST!</b>
+With a lot of other cameras out there, you need to buy a separate card reader to speed up the transfer from your camera's memory media to your computer. I have never had to buy such a device.  Now, I tend to leave my resolution setting to the maximum, so these photos get pretty big.  But the download from this camera is pretty fast - I can pretty much download 8 high resolution images in the time it takes me to go through my e-mail. And this is with the included serial cable! The included USB cable is supposed to allow for even faster transfers! Of course, the only reason I don't use the USB cable is because you need Windows 98, not just Windows 95 with USB support, in order to use it.
+
+Just as a test, I even tried using the transfer device built into my photo printer. I was waiting quite a bit longer to get photos onto my computer!
+
+<b>What was that about 2 MegaPixels?</b>
+A MegaPixel means the photo is made up of a million pixels. Having 2 MegaPixels means the photo is made up of two million pixels.  The more pixels, the better the print quality.  And if you want to print large photos, you shouldn't look at anything less than 2 MegaPixels.  This camera gets you to that level for the price comparable to that of lower MegaPixel cameras.
+
+<b>But what about the zoom?</b>
+Okay...the lack of optical zoom had me worried. After all, how would I, sitting 40 rows up, be able to get close-ups of the cheerleaders...err, I mean, the mascot (yeah, that's it)...without optical zoom?  Well, fact of the matter is, you can't really get close-ups. The camera does have 2x digital zoom, but it doesn't help that much. The camera makes up for this shortcoming with the 2 MegaPixel picture quality...you can blow up the picture a bit more on your computer and try to pick out details that way.
+
+<b>Parting Shots</b>
+I'll admit: paying $500 for my first digital cameras when there are quite a few cheaper ones out there made me pretty hesitant.  Then again, I knew that if I bought a camera that didn't have good picture quality or didn't performed very well, I would have a very negative opinion about digital cameras in general, plus I'd be out my initial investment plus whatever batteries I burned through along the way. This way, I have a functional camera that I can bring wherever I go (it's quite small and lightweight) and not have to worry <i>too</i> much about poor picture quality or not having enough film (you can review and delete pictures using the camera's LCD interface so you can take more pictures).
+
+* Conversation with self was dramatized for artistic purposes. No personalities were created or harmed as a result of this article.
+
+<b><i>Update, May 11, 2000</i></b>
+Okay, now that I have Windows 98 on my new Sony Vaio PCG-XG19 laptop, I've determined that Toshiba's USB interface allows you to download a 500KB (highest quality) image in about one second.  I had barely taken a sip of my drink and I had already downloaded 17 images from my camera!
+
+Also, Toshiba offers a firmware upgrade through its website for the PDR-M4  to allow you to use 64 MB SmartMedia cards (instead of a max of 32 MB).<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

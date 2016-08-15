@@ -1,0 +1,27 @@
+DOC>
+<DOCID> 5396 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_CanonPowerShott-Canon_PowerShot_A5 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-5370-3ACF743-38904860-prod5 </URL>
+<TEXT>
+            We just picked up this little digital camera, and for the price (on sale for around $300) we are very very impressed... The quality of the images is excellent. We have been doing a lot of camera research for a while now, and after reading some other positive reviews here on epinions decided that this would be the one to buy! 
+
+The camera has five settings to take pictures.small 640x480 pixels (normal 106 images with jpg compression or fine 61 images with jpg compression ) large 1280x960 pixels (normal 43 images with jpg compression  or fine 23 images with jpg compression ).
+
+I have taken some pictures to send my brother by email; for these I used large/fine with jpg compression/1280x960 setting. He tells me at the other end that it downloaded quite quickly.
+
+The best image quality would be CCD RAW (1280x960 pixels) with no compression but with the flashcard that came with the camera I could only take two pictures!!  The flashcard is only 8meg but you can buy cards that are 48meg..
+
+The zoom can be set from wide angle, 4.3mm (35 mm film equivalent: 28mm), to telephoto, 10.8 mm (35 mm film equivalent: 70 mm).
+It has a video plugin to set it up to a VCR or TV.  You can edit the pictures right on the camera, delete the Images you don't want, view a slideshow of the pics you have taken..
+
+I'm still going over the features of the camera....  I just got the drivers working today!!  I had to download the twain software for the S10... <b> this is the camera you should get!! </b> 
+
+It's the newest mid-range canon digital camera.
+ 
+<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

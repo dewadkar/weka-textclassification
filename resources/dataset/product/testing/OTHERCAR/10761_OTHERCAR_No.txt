@@ -1,0 +1,22 @@
+DOC>
+<DOCID> 10761 </DOCID>
+<PRODUCT> Digital_Cameras/Toshiba_PDR_3310_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_121620827780 </URL>
+<TEXT>
+            The camera itself functions just fine, and takes rather excellent pictures, especially if you're the type who likes to use manual features. However, there are some issues which a prospective buyer must be aware of:
+
+1. I received my PDR-3300 with version 1.02A of the firmware, which was incompatible with the latest SandDisk SD cards (at least those that are 64MB or larger). It violates your warranty to upgrade the firmware on your own, and Toshiba will want to charge you to do it for you.
+
+2. The battery life on this camera is miserable. Granted, there aren't many digital cameras which boast great battery life (Olympus is about the only one I can come up with), but my camera gets between 40-70 shots on 2000mAh Lenmar NIMH batteries. Manual mode chews batteries, as it requires the use of the LCD.
+
+3. The camera is bulky and heavy. I mean, it's not like it's any worse than most regular film point and shoot cameras with zoom, but this is not the kind of camera that you can fit in your pocket and forget is there.
+
+4. Toshiba's customer support is functionally non-existent. Like most companies these days, they outsource to third parties who don't know what they are talking about. I was lied to and given the run around on the phone by those people, and even Toshiba's national director of customer support (a *real* Toshiba executive) was less than pleasant to deal with.
+
+On the other hand, if you can get past all of that, the camera is not all that unpleasant, and in fact is downright fun to use because it has so many features. Plus, I got mine for $200, which is really cheap for a camera of this resolution. In hindsight, I'd rather have an Olympus (or maybe a sony or a canon), but if you're looking for a bargain and luck out with getting the latest firmware, you're in for a treat.
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

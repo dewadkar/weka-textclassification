@@ -1,0 +1,33 @@
+DOC>
+<DOCID> 22054 </DOCID>
+<PRODUCT> Digital_Cameras/Kodak_DC215_Zoom_Digital_Camera__Camera_185_3175 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-50C3-2A457EFF-39972781-prod5 </URL>
+<TEXT>
+            I had initially set out to find a cheap digital camera that can do 640 x 480 in color, and hopefully at around $50. Just something to take pictures of random things with and post on the web, etc. After finally inching up towards the $300 mark, I went out to a retail store to look at a few models in that price range: an Olympus, a Fuji, a Kodak, and an Epson.
+
+All offered 8MB media, while the Kodak offered only 4MB, but for a good reason. The Fuji and the Olympus (I can't recall any specific models, since this was almost a year ago) felt very flimsy, and I was afraid that it would fall apart too easily. The Epson was almost twice the size of the rest, and I wasn't interested in anything that wouldn't fit in my pocket. The Kodak DC-215 had solid construction, as well as rubber where the hands would be holding it, which made me feel more at comfort with this model. It also had optical zoom, while the others were simply digital zoom -- definitely a plus. The resolutions were similar: the lowest which was 1152x864 for the Kodak, and 1280x1024 for the rest. For me, the tiny bit of extra resolution and a tad bit more storage didn't outweigh the sturdiness and the optical zoom of the DC-215, so here I am, a happy owner of a Kodak DC-215.
+
+The camera supports 640x480 and 1152x864 (1 megapixel) resolutions, in &quot;good&quot;, &quot;better&quot;, and &quot;best&quot; qualities. Also supports time-stamping, JPEG or FlashPix formats, zooming in review mode, NTSC or PAL video output, 7 languages (for menus, etc), and so on.
+
+Now, as for the downside: it seems that people with larger fingers would most likely have trouble trying to take the compact flash (CF) card out, since the lever to remove the card isn't exactly protruding from the camera, and also the flap / cover for the CF may get in the way. This would be especially true with some cables plugged in, with the jacks being right next to the CF slot. Another thing I noticed is that it does not save any (that I can think of) button-set settings, such as the flash (automatic, always-on, always-off, etc), red eye reduction, and so on. So every time you turn the camera off and back on, you'll have to re-do the settings, if the defaults don't suit your current needs.
+
+It has only a serial port, which can seem to be excruciatingly slow, rather than USB. But then again, you must remember that this is a $300-range camera, and all other cameras in that range that I am aware of also have serial connections only (built-in to the camera). The good side is that you can get a SanDisk USB card reader (&quot;ImageMate&quot;) for around $30 - $40, which will get you blazing-fast speeds for transferring files to/from your memory card. I believe the Millennium edition of the DC-215 has one included, although I'm not sure whether it's from SanDisk or not.
+
+The battery life, using the included Kodak PhotoLife batteries, lasted only about 50-60 640x480 &quot;better quality&quot; pictures (see above), with about 40% flashes. Using DuraCell Ultra batteries, I was able to get around 75 1152x864 pictures (same quality / flash ratio).
+
+The recovery time between pictures seems to be a bit long, and I noticed this to be a bit annoying during events such as my Universal Studios tour, when you're on a moving trolley / bus / whatever and things are happening very quickly. Not sure whether this is standard for cameras in this range, but I'm accepting it.
+
+Kodak ships with some decent software, including Adobe PhotoDeluxe and of course the drivers for the camera. All is easy-to-use, and seems intuitive enough for a &quot;newbie&quot; to use.
+
+And recently, I purchased a pair of 16MB RCA CF cards for $30 or $40 each, I think, which at the time was seen as normal retail store pricing. If I had more time to shop around and perhaps buy online, I'm sure it could have been gotten for a lower price.
+
+The picture quality seems to be average, or standard, for cameras in this price range if not slightly better.
+
+All in all, I think this was a great purchase for the $300 + tax that I paid, and am still happy with the purchase with no regrets whatsoever. A great camera for &quot;all-around&quot; use for the average Joe.
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

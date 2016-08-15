@@ -1,0 +1,28 @@
+DOC>
+<DOCID> 30228 </DOCID>
+<PRODUCT> Digital_Cameras/elec_AgfaePhotoo-Agfa_ePhoto_Smile </PRODUCT>
+<URL> http://www.epinions.com/content_44895997572 </URL>
+<TEXT>
+            It is not often that I completely bash a product. I believe that just about every piece of electronic equipment has some kind of place with some kind of audience. Evolution of marketing, if you will.
+
+Yeah. Then there's this thing. I'm not even sure it counts as a camera. It's tiny and cute, but if you actually want to take pictures with the thing you're in trouble.
+
+Just looking at the E-Photo Smile I'm not impressed. It has an extremely tiny aperature (the part of the camera that the light actually goes through) with a lens that's easily as small as the head of a pin. The smaller the lens (and aperature) the less light at a time the camera can take in, and the longer the exposure it takes has to be. With the pinhole in the front of the Smile I'm surprised it can get in a shot with under a two second exposure time. At least it comes with a flash. It doesn't help much, but it's a start.
+
+As far as I can tell, the Smile also lacks any sort of focus mechanism whatsoever. It is fairly common for bargain bin point-n-shoot cameras to have a fixed focus, but usually this fixed focus is... well, focused. Any shot I took with the Smile was way off- Half the time I had to squint just to make out what I was pointing it at. Long distance shots, short distance shots, it didn't matter. The camera cheerfully churned out JPEG encoded patches of fuzz.
+
+There's also the resolution issue. Digital cameras produce pictures that are made up of arrays of pixels. The sheer number of how many pixels the camera can cram into a shot generally determines the level of detail the camera can capture. This detail is called image resolution, and is measured by how many pixels wide and high the pictures the camera generates are. Agfa quotes the Smile as taking 640x480 pixel pictures... Which it does not.
+
+What the camera does is take 160x120 pictures and blow them up to 640x480 in a process called interpolation. Not only that, but it does a horrible job of it to boot. Interpolation always produces inferior pictures. The process takes a smaller picture and stretches it to look bigger. Since it only starts with a set number of pixels, it has to guess what colors the pixels "in between" of the ones it stretches are. You can't pull detail from thin air- A stretched or interpolated image won't have any more quality or detail than the smaller picture you started out with.
+
+This in itself is bad enough, but Agfa LIES about it. I have an email from a technical support representative wherein he swears up and down that the Smile does something magical and achieves an "optical 640x480 resolution" by interpolating the image. I hate to bust your bubble, Agfa, but interpolated and optical resolutions are two entirely different things!
+
+The thing eats batteries like popcorn, too.
+
+Not recommended in the least.
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

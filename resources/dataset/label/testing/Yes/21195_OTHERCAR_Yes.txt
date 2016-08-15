@@ -1,0 +1,50 @@
+DOC>
+<DOCID> 21195 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Vivitar_Vivicam_3715_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_118661615236 </URL>
+<TEXT>
+            Our first digital camera was a little polaroid that got about 1/4 megapixel for resolution (320 X 280 around there?) without a flash. Then we stepped up to a Vivicam 3500. It was only 1.2 megapixels. It had a flash and took pretty decent pictures, but had a terrible lag between each. Now we've moved up to the Vivicam 3715, having paid LESS for it than we did the 3500, and we're overall pretty happy with that one, too.
+
+Reason I bought it was our Vivicam 3500 will no longer power on. It works WHEN it's on, but getting it to turn on is the miracle. Something happened to the power button I believe as if you ever do get it to turn on, it will not turn off again.  I'm not sure how much that will cost and being as it really wasn't MY camera I wanted one of my own as it was.  So with a little research I decided to buy the budget friendly Vivicam 3715.
+
+The Vivicam 3715 offers a flash as well as 4x digital zoom (which I don't use-you want optical zoom) and 3.3 megapixel resolution.  The lag between photos is not nearly as bad, and when the flash is on the picture snaps almost instantly.  It is versitile enough to take pictures in bright daylight or in the low light of night (with a tripod).  For $132.88 I certainly couldn't ask a digital camera to do more.  Comparitively, the fuji camera with similar resolution was about twice as much.
+
+Photo quality is very good. I was happy enough with the Vivicam 3500 to not use a film camera unless I needed a faster shutterspeed. That camera was poor for moving pictures. This camera can take moving pictures BETTER but shutter speed is still a lot slower than the potential speeds of a professional digital camera or a film camera.  I typically don't feel I need a film camera when I have this little guy around as I'm generally happy enough with the pictures to print them up off my computer as they come from this camera.  I believe that it captures detail very well, even on medium size and quality (which I feel is plenty for most purposes), but still leaves a little to be desired when looking for fine detail or the ability to zoom or do macros.  It DOES do macros, but I'll get to that.
+
+Size is a great improvement over the 3500. It's much smaller in dimensions (I'd say half the size) and much lighter. I don't know the exact weights but I'd say the old camera with batteries weighed around 1 lb whereas this one I'd put at 6-8 oz.  These are estimates!  So it's much friendlier to your neck while it's hanging there.  
+
+It offers a great display screen that has vibrant and clear colors. It could be larger, but probably not with keeping the camera the same size and weight, but for most picture taking purposes I found it to be adequate.  
+
+The controls are easy once you get a hang of them.  On the back to the right it has a dial that is used to select camera mode, picture viewing/editing mode, movie mode, and setup mode.  Switching between them is very easy, just click to the little icons (which are easy to understand what they are).  
+
+To the upper right corner of the screen there is a control pad that has an OK button in the middle and directional arrows for up, down, left, and right around it.  This is ALL the same button, but selection is made by pushing it on the desired side. This does get a little bit painstaking as I've many times hit DOWN or UP while trying to push it straight in for OK.  The function of these buttons are different depending on what mode you're currently in.  In camera mode they serve as flash options, zoom in and out, and timer.  In menu mode they are the move, change, and select buttons.  In view mode they are the next, previous, delete, and single/multi view buttons.  All of that is easy enough to understand, however you will probably hit up or down a few times while trying to use OK.  I did that in setup once, and being as the first option is LANGUAGE and the default is English I tried to hit okay. Instead I hit down and OK and ended up with everything in CHINESE!!  I can't read chinese so I was lost! I did fix it eventually but that was certainly good for a few laughs! (Moral is be careful of that OK button)
+
+There is also a menu button that allows you to select different options for picture quality, size, and ISO, white balance, etc (in picture taking mode).  In view mode this gives the option for protect, delete all, slide show, and screen brightness.  This can also be adjusted by pushing the little screen button below the control pad to get the LCD options.  
+
+Last two buttons are the power and picture taking buttons. Pretty self explanatory, easy to find, and easy to use.  Sometimes I have to push power again as you have to push it and hold it a second to get it to turn on.
+
+The camera offers three picture taking modes: macro, normal (people), and scenery.  I believe this adjusts the focus, however I have seen LITTLE difference between them while taking some experimental pictures. I certainly wouldn't buy the camera on it's Macro abilities.
+
+Another option it has is a TIMER. Yes, way cool. . a timer! It gives you 10 seconds to run in and sit down, smile pretty, and have the picture snap.  It works pretty well, which I've discovered QUITE by accident!  The timer button is the little "clock" icon or the "right" on the directional control pad.
+
+The flash is quite adequate for close up pictures (close up meaning less than 12 feet-approx). It does tend to produce a lot of red eye but if you push the flash button (the lightning bolt or the LEFT on the control pad) you will eventually see a flash symbol with an EYE next to it beneath an A.  This means automatic flash with red-eye reducer. You'll notice it flashes before the actual picture and flash take place.  Drives your subject nuts but seems to help a bit.  The flash takes awhile to charge, unfortunately, which causes the only real delay between pictures. (Without it in good light it's very short)
+
+Night pictures can be taken on NO flash mode (hit the flash button till a circle and strike through symbol appear over the lightning bolt) however you need a tripod or very steady hand to take them.  If you don't get the right kind of lighting or if it's a little yellowish then the whole picture looks yellow.  It seems to take about 10 seconds to finish a picture, whatever the shutterspeed is I don't know, but I do know most of mine turned out blurry without a tripod.  Please also note that means if anything you're picturing MOVES that will blur, too.  The more light it has for the exposure the quicker the picture snaps, but it is painfully slow if you're trying to hold it still!
+
+The camera comes with 8 mb internal memory but also utilizes SD memory cards. I have a 32 mb card in it right now. The confusing part is if you take pictures on the card and pictures direct on the camera they don't show up in the same place.  So when loading pictures from the camera you'll have to load with and without the card if you used both.  (Just use the card if you have it) You can opt to save pictures on the card to the camera, but I like the cards better as they are a more stable form of memory (I believe)
+
+The camera uses a USB connection which should make it easy to install, however it wasn't. Since I have many items on the USB including a 4 hole port it was causing some conflicts with my ZIP drive.  My ZIP drive is supposed to be removable disk DRIVE D and when the camera was plugged in IT was removable disk DRIVE D.  So nothing wanted to read the pictures and I kept freezing. What I ended up having to do is have them BOTH plugged in and assign them each permanent drive letters so now the camera is drive E.  Since then I have no problems.  
+
+Think of the camera when it's hooked up like an extra disk drive. You open it and view the photos like it's a floppy disk, however don't save pictures TO the camera-use the SAVE IMAGE AS and put them somewhere else or just copy the lot to a different folder on a disk or the hard drive and edit them from there.  If you save to the camera you'll get an INVALID FORMAT picture when you look at it again.  I have some troubles with Corel Photo House giving me a sharing error, but usually I can get around it by trying one more time. I have PSP 7 but it's been malfunctioning lately so I can't use it to view pictures from the camera. It does come with MGI photo suite, but I don't like the program so never use it.
+
+Battery life with Energizer e2 batteries is far improved from that of the Vivicam 3500 which just ATE the batteries (4 AAs at a time!).  This one only uses 2 batteries (AA) and would also eat them if I didn't spend the money for the nicer high drain device batteries.  It does pretty good, but could be better considering those batteries are more than 2.00 a PIECE! I haven't tried rechargables, but that would PROBABLY be the better option in the long run. One set of batteries took more than 100 pictures without problem except then i left it connected to the computer and it drained them deader than a doornail! (So don't do that)
+
+The camera has it's little quirks as you've probably seen from the things I've described but for the money I'm perfectly happy. Had I paid more than 200.00 for this camera I'd probably take it back as my expectations would have been higher, but for 132.88 I think this little camera does great!  One word of advice, however: be sure to buy an ac adapter (3.3v) as it doesn't come with one and it'll save your batteries while loading pictures.
+
+
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

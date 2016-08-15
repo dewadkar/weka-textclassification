@@ -1,0 +1,19 @@
+DOC>
+<DOCID> 12808 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_CanonPowerShott-Canon_PowerShot_S20 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-2ACB-EB4DDD7-39ABE612-prod6 </URL>
+<TEXT>
+            GOOD:
+Supports Type II CF Cards - The S20 supports Type I and Type II Compact Flash Cards.  This means you can use the IBM Microdrive (340MB) for storing photos.  This is the only real reason to buy the S20 since the Microdrive can hold almost 200 photos at the highest resolution (nearly 400 at normal resolution).  Be careful though, the Microdrive is not cheap ($250 online).
+
+
+BAD: 
+I took the camera to Alaska and the cold weather made the camera virtually inoperable.  The stylish metal case gets incredibly cold (even in 50 degree weather) and as a result, the lithium battery suffers.  I was lucky to take even one picture before the camera would shut itself down since cold weather reduces the performance of the battery.  This is a serious problem that has been echoed by other digital camera owners and is probably specific to the S20.
+
+<br><br>
+            
+<label> Yes
+<rating>  2.0
+
+</DOC>
+<

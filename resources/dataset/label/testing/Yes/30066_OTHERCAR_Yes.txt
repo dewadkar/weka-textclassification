@@ -1,0 +1,19 @@
+DOC>
+<DOCID> 30066 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_KodakDCC-Kodak_DC-280 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-2FFC-68B4A23-395A3163-prod1 </URL>
+<TEXT>
+            The DC280 produces great images, but some words of advice.  Get at least a 40MB flash card for the unit if you want to take more than 20 pictures in between computer downloads.  Also, the 280 burns up batteries if you use the LCD screen in back - I got the rechargeable batteries and I'm always recharging them.  Finally, the unit is a bit bulkier and heavier than typical 35mm non-SLR cameras, so be prepared for a little extra weight.
+
+One design feature that Kodak might consider:  move the LCD screen from the left side of the back of the camera to the right side -- when you look through the viewfinder with your right eye, your nose will hit the LCD, creating oily smudges. A mild annoyance.
+
+The price point on this camera for 2 mega-pixel is the best I found.  The USB interface is fairly easy, though the fastest way to download is to get the $10 PCMCIA adapter for the flash card and plug into a notebook...
+
+Overall, a successful camera that can still be improved upon.
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

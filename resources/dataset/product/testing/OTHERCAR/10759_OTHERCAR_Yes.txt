@@ -1,0 +1,43 @@
+DOC>
+<DOCID> 10759 </DOCID>
+<PRODUCT> Digital_Cameras/Toshiba_PDR_3310_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_107421208196 </URL>
+<TEXT>
+            I bought this camera online at Chumbo.com when the camera first came out. I was looking for a camera to take on a trip and went online looking at reviews and in the stores checking them out. I found this only online at the time since it was so new and the one or two stores that had it was way to over priced. This camera has been great at taking pictures for me. It takes the best outside like most cameras but depending on the light inside I did have to tweak a few of the final pictures on lighting. Most times I use my camera on automatic settings instead of manual. In manual you can tweak most settings like exposure, white balance etc. It comes with a 8 mb secure digital card that I replaced with a 64 mb card so as to be able to take a lot of pictures. Most time I use medium size pictures because they take up less space and I dont care to print 11x10 pictures. The camera can take up to a 256 mb card. Full picture size is 2048x1536, Half is 1024x768 and small is 640x480. The camera uses AA batteries instead of a rechargeable pack. I recommend using a rechargeable 1800 mAh NiMH AA battery because they last a long time. If you use a regular alkaline battery then you won't get many pictures as the camera takes a lot of juice to operate. I use a tripod on some pictures but the SD card is in the bottom next to the batteries so it can not be changed while on the tripod. The camera comes with a remote and also has a timer you can set. It takes video with no sound but I didn't care because I use a video camera for that so it did not bother me. The camera has many features. On the dial you have setup mode, pc mode, playback mode, auto photography mode, manual mode and movie mode, all of which have submenus to choose your options. There are a lot of features you can set on this camera to take pictures. To many to name here.
+
+The specs. are:
+
+Compression system: jpeg
+Image file format: Exif ver. 2.1, AVI
+Conversion rules: DCF ver 1.0
+Pickup elements: 1/18 CCD sensor (3.2 Megapixels)
+Sensitivity: iso 100/200/400
+Lens: 2.8x optical zoom lens F2.9 - F4.8
+Focal Length: F=7.25mm-20.3mm
+Auto focus: TTL system AF, focus adjusting range:    
+  approximately 0.10 m (0.33 ft) to infinity 
+  Detection system: Contrast detection system 30Hz
+Exposure control:
+  Metering system: spot metering, multi metering
+  Control system: AE, aperture-priority AE, shutter  
+    priority AE
+  Exposure compensation: -2.0 EV to +2.0 EV
+Shutter speed: 1/2 to 1/1,000 sec. 
+White balance: auto selected, manual settings ( 5 modes)
+Focal range: standard: 0.8 to infinity
+             macro: 0.10 to infinity
+Flash: modes: auto, red eye reduction, forced flash,  
+              suppressed flash
+              Effective range: 0.5m ~ 2.9m
+LCD monitor: 1.6" TFT
+i/o terminal: DC IN terminal: DC 5V
+              Digital terminal: USB
+              Video terminal: NTSC or PAL system
+Dimensions: 115.5mm(W) x 69.2mm(H) x 46.1mm(D)
+Weight: 230g
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

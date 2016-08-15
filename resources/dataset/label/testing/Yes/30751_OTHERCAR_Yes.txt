@@ -1,0 +1,44 @@
+DOC>
+<DOCID> 30751 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Olympus_D_340R </PRODUCT>
+<URL> http://www.epinions.com/content_6971559556 </URL>
+<TEXT>
+            I have always loved pictures.  I love sharing with people some of the things that I have seen, but I always have trouble with film.  I own about five cameras from a little Kodak 35mm "normal film" point-and-shoot to a Kodak Advantix and a really nice Nikon 35mm manual.  Well each camera has its place, but I have had lots of trouble with the film.  I either forget it, lose it, or destroy it.
+
+Well I have spent untold amounts of money on film that didn't come out right or never made it to be developed.  Because of this I decided I wanted a digital camera.  Besides many of the people I want to share the pictures with are 1.500 miles away.
+
+My decision to get a camera was not a quick one.  I am a college student and a computer professional (read: geek) so I wanted an inexpensive camera, bit it had to be good and work with BeOS (I don't use Windows any more).
+
+Well a little research showed that there are a number of cameras available that are very good, but most cost $500+, and I don't have that money.  So I checked on eBay.  I found many of these cameras for MUCH less.
+
+Going back to the information I started looking at photo quality and features.  Quality was a big one.  Many of the cameras were advertising that they take pictures at 640x480 or 800x600.  These are not very big.  I keep my monitor at 1280x1024 and I expect a picture I take to be able to keep up with my monitor.
+
+Besides if you have a smaller picture and need to crop it then get it to "normal" 8x10 you don't have much much room with smaller sizes (blowing up a picture too much results in pixilation).  With a big 1280x960 photo size I can mess with the photos a lot and still resize them to 8x10 (or leave them bigger for computer viewing) without blowing them up and getting pixilation.
+
+Also the D-340R has a resolution of 1.3 Megapixels (the epinions summary is wrong, it says only 1.2.  You can actually read the 1.3 on the lower left of the camera that is in the epinions picture) this camera takes super smooth pictures.  The colors are crystal and the edges are sharp.  In general there is no difference in the quality of these photographs than what you would see in a "film" camera.
+
+One thing that I have noticed is that in low light if you turn off the flash there will be dots in the background.  Anything behind the focus tends to be fuzzy with red dots due to the lighting.  Of course this is under really low light where the camera is not meant to be used without a flash.
+
+As for features:  I love the digital display.  Some people complain about it, but I haven't had a problem.  I even took this camera skiing with me and so had it in bright light, but never had a single issue with seeing the display.
+
+There are also some on camera features like sequence shoot (which takes repeat shots for sequence effects), a macro mode for close up shots, and a panoramic feature (this requires the use of included software).
+
+When viewing the pictures there are also a few little features:  there is a video out port so you can plug the camera right into a TV and view your pictures, and there is a slide show feature which allows you to chose which pictures in the camera to show in what order and then to play the show.  Very neat if you have the camera hooked up to the TV.
+
+As for connecting to the computer: it couldn't be easier.  There is a single (serial) cable which plugs into the back of your computer and then into the camera.  Simple.  A lobotomized chimpanzee could do this.
+
+As for the software:  I couldn't tell you about anything that comes with the camera, I don't use Windows or Mac.  For those BeOS users out there I can tell you that the D-340R is fully supported and all you have to do is connect the camera to the computer and use the Camera program (which comes with BeOS R5) to Auto-Probe and download the pictures.  Nice and simple once more.
+
+Since the pictures are all jpeg files they can be manipulated by just about any image editing software.  Adobe is known for their amazing Photoshop which would be great with this camera, but any old image editor should do.  It's nice that there aren't any proprietary formats here.
+
+Any how I have taken quite a lot of photos with this camera, and I love it.  I spend a lot of time using the digital display and so have resorted to using two sets of NiMH rechargeable batteries.  This way I always have power for my camera and with an 8mb SmartMedia card I can spend all day filling up the 36 pictures.  
+
+Of course you can also use the camera to delete individual pictures or wipe the card clean and take more without returning to a computer (with the nifty "picture lock" you can specify which pictures to save and then wipe all the others off the card quickly.  This is very nice if you want to save four pictures and delete the other 32, you don't have to go through one by one.)
+
+Well I have rambled a bit.  My final judgement is that this is a great camera.  You are also not very likely to find another camera in this price range that is nearly as good.  If you want a good, but simple, digital camera to try this out, go with the D-340R.  The pictures are great, it's easy to use, and at $200 on eBay you aren't going to get much less expensive.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

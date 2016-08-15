@@ -1,0 +1,59 @@
+DOC>
+<DOCID> 21530 </DOCID>
+<PRODUCT> Digital_Cameras/Canon_Powershot_S200_Digital_Zoom_Camera__Camera_7646A001 </PRODUCT>
+<URL> http://www.epinions.com/content_64187174532 </URL>
+<TEXT>
+            <B>Background</B>
+I've owned the Canon S300, Canon S110, and now I own the Canon S200.  I bought the S300 when it came out last year because I wanted a small camera, but I switched to the S110 because although the size difference looks small on paper, the S110 really is quite a bit smaller than the S300.  I really liked both cameras and was excited enough about the S200 that I quickly sold my S110 and ordered the S200 when I heard it was being released.  I'm happy to say that the S200 is even better than the S110!  Read on to find out about the S200 and how it has been improved over the S110.
+
+<B>Description of Hardware Features</B>
+The S200 is the same size as the S110, but feels a little lighter than the S110 to me - it also feels less solid.  Although the camera is still very attractive and quite well made, it seems that the metal case is made of a thinner material in this new version of the camera.
+
+The button layout is excellent and features several improvements over the S110.  The sliding mode switch can now toggle between Replay, Movie, and Still modes.  With the S110 one had to fiddle with quite a few button presses to switch between Movie and Still mode.  The new arrangement makes it much easier to shoot occasional Movie clips and still not miss those golden photo opportunities.  In addition to the 4 buttons below the LCD, there is another cluster of 4 buttons arranged in a circle designed for navigating menus which are new to the S200.  The addition of these 4 new buttons along with a greatly revamped and improved software interface make using the camera very easy.  All of the buttons are nice and relatively large, a welcome improvement over the small rectangular buttons on the S110.  The S110 was a great camera but was a little awkward to configure - the S200 is a great camera which is a joy to use.
+
+The LCD screen on the back, while small at 1.5", is really easy to read and has a great anti-reflective coating on it. The LCD is more accurate than the optical view finder so I almost never use the view finder unless I'm really trying to conserve battery power.  A new feature of the LCD screen is that it can optionally display a whole host of information about photos you've taken.  This information includes long shutter mode, shooting mode, exposure compensation, white balance, photo effects, ISO speed,  flash setting, macro/infinity, metering method, resolution, compression, and even a histogram to help you evaluate the brightness balance of the photo. 
+
+The lens is really nice and I've read that this camera can take photos comparable with some cameras of higher mega pixel resolution because of the relative quality of the lenses.  The lens retracts fully into the camera body when not in use and includes a built-in lens cover.  Although this camera only offers 2x optical zoom versus the 3x zoom found on the S300 and S330, I was willing to trade off on this feature for the smaller size. In addition to the 2x optical zoom the camera has a smooth digital zoom up to 2.5x so you can adjust the picture after optical zoom anywhere from 1x to 2.5x.  This camera has an option to turn off the digital zoom which is nice since digital zoom usually isn't truly useful.
+
+The built-in flash is powerful enough for most purposes although larger cameras probably do better in this area. The flash can operate in auto, red-eye reduction, manual on/off, and slow sync modes (for night photography).  
+
+The camera now features a built-in orientation sensor which will auto-rotate pictures depending upon whether the camera was in a horizontal or vertical position when the picture was taken.  When the pictures are transferred your computer you will not need to manually rotate them.  You can turn this feature off if you wish.
+
+This camera accepts only compact flash type I. Because of its small size it can't accept the larger type II format which rules out the use of IBM's microdrive. While it would have been nice to have 1GB of storage, it's not really a big deal. This is, after all, a 2.0 mega pixel camera and not a 3.3+ mega pixel camera. 
+
+<B>Picture Quality</B>
+This is the third version of this camera and Canon has had lots of time to fine tune it.  Each version has improved upon the previous and this camera undoubtedly takes better pictures than the S110, just as the S110 was improved over the original S100.  Outdoors I don't have any complaints and indoors it's pretty good, as well, except that the flash could be stronger.  I can't really make any serious comments in this area except to say that it's more than good enough for me. :)  
+
+I will be taking the camera on a trip through Europe in a couple weeks after which I'll update this review with a more thorough criticism of the camera's abilities.
+
+<B>Configurability and Special Features</B>
+You have three options for picture resolution: 1600 x 1200, 1024 x 768, and 640 x 480. You can also choose between 3 levels of compression: superfine, fine, and normal.  The 8MB card included is probably okay for the 2 lower resolutions, but if you plan on taking photos at 1600 x 1200 with lower compression settings you'll definitely want to invest in some higher capacity compact flash cards. 
+
+The S200 offers improved white balance adjustability including the ability to set a custom white balance.  Also new is the ability to switch between AiAF (artificial intelligence auto focus) and a fixed center frame AF.  The S200 has an improved AiAF which evaluates different zones of the picture and tries to determine the optimal AF settings.  The visual feedback of this process is represented by 3 white squares which appear horizontally across the LCD.  When the shutter button is pressed half way, some of those squares will turn green indicating exactly which part of your picture the camera has decided to focus on.
+
+The new light metering functionality works hand in hand with the auto focus features discussed above.  You can switch the camera between evaluative and spot AE point light metering.  With this feature you can override the evaluative light metering for situations when your subject is strongly backlit.
+
+Another small but useful feature is the ability to turn off the AF-assist lamp which shoots a beam of white light upon a subject to aid in the focusing process.  There are sometimes situations when you do not want to signal that you are about to take a picture.  When you turn off the AF assist lamp, pictures may not be focused as well but as least you have the option.
+
+The S200 also brings to the table improved ISO configurability, a slow-synch flash setting, long shutter setting, AF lock, exposure lock, and flash exposure lock.  These are all options which may come in handy for trickier photo situations.  I imagine that most purchasers of this camera will never need to use these more advanced capabilities, but their presence is nice and definitely adds value to the camera.
+
+The S200 has some new Photo Effects available which can also be used in Movie mode.  The photo effects available are Vivid, Neutral, Low Sharpening, Sepia, and B/W.  I haven't used these effects much yet and honestly think they're just a gimmick, but that's what I thought about being able to shoot movie clips before!  
+
+The camera has a mode which will help you to "stitch" multiple photos together. This is when you take multiple photos and then later merge them into one large photo once you've uploaded them to your computer using software which is provided with the camera - useful for taking pictures of large scenic settings, etc.  I've used this feature to take pictures of landscape and even large groups of people.  It works surprisingly well.  
+
+Also fun to use is the continuous shooting mode which will allow you to shoot multiple quick photos.  This is useful for outdoor sporting events or other high speed activities.  You can snap a bunch of photos and keep the ones which turn out the best.  No more pictures of the back of your friends head as he runs back down the field. :)
+
+Although I was not initially planning on using the ability to shoot short video clips with sound, I quickly came to like this feature quite a bit.  With the flip of a switch you can begin shooting Movie clips with audio in three resolutions: 640x480, 320x240, or 160x120.  Each resolution has a different maximum clip length.  This length limit is dictated by the size of the camera's internal buffer memory - when this becomes full the camera stop shooting the Movie clip to dump it to the memory card.
+
+<B>Accessories</B>
+The camera comes with a wimpy 8MB compact flash card.  You will need to replace this for sure.  Also included are a new NB-1LH battery, a great compact battery chargers, USB cable, and video cable.  The battery is a new version and offers more power than the batteries which shipped with the S110 for longer camera performance.  I still recommend picking up an extra battery if you plan on being away from an outlet for a whole day.
+
+<B>Conclusion</B>
+I can heartily recommend this camera.  The price is incredible (I secured mine for less than I sold my S110!) and Canon has produced a truly extraordinary camera with this third generation Digital Elph.  The camera not only takes better pictures and offers a fairly significant increase in feature set, it is also much easier to use.  I realize that 2.0 mega pixels doesn't seem like a lot with the recent proliferation of consumer 4+ mega pixel cameras, but none of those cameras can match the price or size of this little beauty.  In my opinion, this camera really does make the perfect point and shoot camera.
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

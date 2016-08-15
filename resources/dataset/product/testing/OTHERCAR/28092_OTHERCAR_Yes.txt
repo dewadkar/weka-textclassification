@@ -1,0 +1,92 @@
+DOC>
+<DOCID> 28092 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_PolaroidPDCC-Polaroid_PhotoMax_PDC-700 </PRODUCT>
+<URL> http://www.epinions.com/content_55270805124 </URL>
+<TEXT>
+            Last year I was starting to seriously get into web design and realized that I needed a decent digital camera if I was going to be putting any kind of pictures up on my site.
+
+I knew that I didn't need an insanely high resolution and price was also a consideration so I started looking at cameras in the under $250 price point.
+
+Most of what I found didn't thrill me. 
+
+A friend recommended the Polaroid PDC 640 to me and so I went to take a look at it but after getting to the store I decided that the 640 was a bit less than what I was looking for. Then I noticed the PDC 700 sitting next to it on the shelf. I looked over the specifications and as it had just about everything I was looking for and was priced at $189 I decided to take it home.
+
+When I got it out of the box I was pleased to see that it came with a set of batteries thus letting me start experimenting with the camera immediately.
+
+<b> Ease of Use</b>
+
+The PDC 700 was up and ready to take pictures less than a minute out of the box. However simply taking a picture and really knowing what you are doing are two different things so before I did much more than power it up I went ahead and started going through the documentation. Looking over the instructions which came with the camera wasn't too difficult. They are fairly well written and walk you through the camera's functions without too many headaches. It did take a few minutes of reading and experimenting with the settings on the camera before I felt comfortable putting the paperwork back in the box and going ahead with the camera "solo" but once I did I was ready to give the PDC 700 a serious workout.
+
+<b> Features </b>
+
+The PDC 700 is a fairly "barebones" unit lacking a zoom feature any kind either physical or digital. For me this wasn't an issue as most of the pictures I will be taking are from fairly close range but this should be noted for people who have other priorities in a digital camera. The PDC 700 has two resolution settings 640x480(VGA) and 1024x768(XGA) as well as three settings for detail (Superfine, Fine, and Normal) in each mode. This give you essentially 6 different settings to use for controlling image quality versus memory usage. Memory comes in the form of 4mb of internal storage and optional external flash cards which can be purchased separately. A small LCD on the back of the camera provides you with a means of previewing the images taken. A 15 second timer in the camera gives you the option to take photos of yourself.
+ 
+<b>Image Quality</b>
+
+Image quality on the PDC 700 I think is quite decent for the money. A Macro switch adjusts the PDC 700's focus for close up shots ( as close as 8 inches) while the normal setting seems to retain a clear focus up to 35 feet distance.
+
+At the highest resolution and detail settings, pictures are clear and color is quite sharp. Keep in mind however that at these settings the PCD 700 can only store about a dozen pictures at a time. In the lowest resolution and detail settings the camera can hold eight times as many pictures but at that point the image quality will be degraded past the point I am satisfied with. I have found that the XGA setting in Fine mode is about right for my tastes sacrificing little in image quality while increasing storage to about 18 pictures.
+
+<b>Downloading pictures </b>
+
+Downloading can be done either with the enclosed serial cable or via the PDC 700's USB port. Downloading via serial should be avoided if at all possible as it can take over 20 minutes to load the full 4 megs of memory to your PC while the USB port can deliver the same data at least 3 times as fast. The camera is fully Twain compliant so downloading to just about any photo viewing/editing program is simple and straightforward. 
+
+<b>Software</b>
+
+The enclosed software is a bit disappointing. It is functional and can do the job of getting the pictures saved to your hard drive but I found it's lack of features and unattractive interface to be enough to convince me to go out and spend $30 on a copy of Adobe Photodeluxe.
+
+<b>Problems</b>
+
+The only real problem I have had with the PDC 700 is the insane way it goes through batteries. Without using a flash I manage to drain a set of four AA batteries in about ninety minutes, sixty minutes if I use the flash. Even if you don't use the camera, simply leaving the batteries in it for a week can completely drain a set of four. I imagine that this is due to the camera trying to keep the capacitors for the LCD charged but no matter what the reason the constant need for batteries is a serious negative against using this as your only camera for trips or events which extend over more than one day. It does come with an AC adaptor so you can avoid burning through batteries around the house or when downloading though.
+
+For my uses (taking photos around the house for web content) the PDC 700 is just about perfect, but if you are looking for a camera to take with you for trips or vacation photos I'd either look into another model or invest in a <b> lot</b> of rechargable batteries.
+
+ Features: 
+1024 x 768 XGA image resolution 
+4 MB internal memory 
+Expandable memory card (CompactFlash storage card) 
+JPEG image compression 
+LCD viewfinder and display 
+Two resolution settings (1024 x 768 and 640 x 480 pixels) 
+Flash modes: off, auto, and on 
+Automatic and manual exposure 
+Video compatible 
+USB compatible (models manufactured 1/2000 and after) 
+1.8 inch (4.6 cm) LCD monitor/viewfinder 
+Automatic date and time recording 
+Self-timer 
+Tripod mountable 
+Compatible with any TWAIN-compliant image editing program 
+ 
+  
+Specifications: 
+Resolution Modes: 1024 x 768 and 640 x 480 pixels 
+Number of Photos: 
+12 (high quality), 
+25 (medium quality),  
+50 (low quality) at 1024 x 768
+
+22 (high quality), 
+45 (medium quality),  
+90 (low quality) at 640 x 480 
+
+Internal Memory: 4 MB 
+Removable Memory: Optional 
+Batteries: Four AA 
+Flash Range: 3 to 8 feet (0.9 to 2.4 m) 
+Focus Range: Normal (18 inches to infinity); 
+             Macro (8 inches to 18 inches) 
+Self-timer: 10 seconds 
+ISO: 160 equivalent (film sensitivity) 
+Cycle Time: 6 second 
+Lens: 5 MM, f/5.6 (35 mm equivalent: 52 mm) 
+Serial Output: Digital, RS232 
+Dimensions (HxLxW): 2.6 x 5.4 x 1.9 in. 
+Weight: 10 oz. (with batteries)  
+
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

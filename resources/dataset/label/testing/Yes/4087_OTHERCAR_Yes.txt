@@ -1,0 +1,14 @@
+DOC>
+<DOCID> 4087 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Buick_Park_Avenue </PRODUCT>
+<URL> http://www.epinions.com/auto-review-2FEE-2EE74DF-38D01CB6-prod1 </URL>
+<TEXT>
+            This is Buick's spacious flagship. The base $31,130 version has a 3.8-liter, 205-horsepower V-6, while the $36,025 Ultra model has a supercharged, 240-horsepower V-6. Even the base model is loaded with equipment. The standard V-6 provides lively acceleration and works with an alert four-speed automatic transmission. The supercharged V-6 has the performance of a strong V-8. But it isn't as smooth as, say, the Cadillac V-8. One might feel that the 240-horsepower V-6 should be ordered with the $200 Gran Touring package, which contains a sport suspension that enhances handling. But the Ultra's base suspension works with big 60-series tires to provide good handling, besides an ultrasmooth ride.
+
+<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

@@ -1,0 +1,22 @@
+DOC>
+<DOCID> 16701 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Sony_MVC-FD85 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-6211-115FC382-39C6885F-prod3 </URL>
+<TEXT>
+            If this camera cost a mere $99.99, then I would argue that it is the greatest camera of all time. However, if it costs $699.99, then instinct makes me look for faults.
+
+The pictures are fuzzy. This camera along with every Mavica (and even every other digital camera) uses the JPG file storage format. This means that its 1.3 megapixel retina is forced to produced small image file sizes. In other words, if the retina were to produce all the digital information it could, the image file size might take up several floppies. However, because file compression is used to fit more pictures per floppy, the user can see errors in picture detail such as eyes, faces, ears, and flesh colors. An 8&quot;x11&quot; print shows the errors clearly. The cure is to offer the BMP file storage convention and an alternate upload method.
+
+The floppy drive may fail. The camera is used in indoor and outdoor environments. Floppy disks are put into and out of the camera. With a 4x speed drive, how long will it take to jam the drive rendering the camera inoperative? There is no alternative for picture uploads!
+
+Rain may demolish the camera. There is neither a plastic housing available for this camera nor is there any insulation within the camera. Rain can soak the camera, and damage it permanently.
+
+Repairs will cost a mint. Getting repair parts for any sony product is an exercise in frustration. Finding a qualified repairman is equally difficult. Once the warranty expires, the $699.99 camera will cost an equal amount to restore to proper operation. However, I must add that I do have sony video and audio equipment dating back up to thirty years that works perfectly and without repair. The mavica is still a costly risk not worth taking.
+
+It's not worth the price. I figure if I buy polaroid film for my old folding camera, I can process the print on the spot, and then scan the image for electronic transmission. That's a more prudent way to go.<br><br>
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

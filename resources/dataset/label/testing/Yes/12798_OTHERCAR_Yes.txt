@@ -1,0 +1,45 @@
+DOC>
+<DOCID> 12798 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_CanonPowerShott-Canon_PowerShot_S20 </PRODUCT>
+<URL> http://www.epinions.com/content_7190580868 </URL>
+<TEXT>
+            After seeing so many of my friends toting digital cameras, and realizing that I barely ever get around to developing my pictures from my film camera, I decided to take the plunge and buy a digital.  The Powershot S20 has turned out to be a far more useful and wonderful product than I ever expected!
+
+Plenty of people have already posted the technical specs, so I think I will just talk about what some of these specs do for your image taking abilities:
+
+<b>3.1 MegaPixels:</b>
+This is a measure of the number of pixels that actually store the picture.  The more pixels, the greater the clarity of the picture, and the more detail you can get when you crop your pictures (explained more in detail below).
+
+<b>Accepts both kinds of Flash Memory - Type I & II</b>
+This means that you can use a basic flash memory card (8, 16, 32, 64 MB card) or you can use IBM's MicroDrive.  What the Microdrive get you?  Well, you can get a Whopping 384 MB of pictures saved on one card, or around <b>350(!)</b> pictures at the maximum resolution.  I highly recommend spending the extra cash on this - it is well worth it.
+
+<b>Super Fine, Fine & Normal Resolutions</b>
+This basically deals with the quality of the image that you can snap.  I always leave mine on Super Fine because I use the Microdrive and don't need to worry about size of the images.  
+
+The advantage of using the highest setting is that you can use software to crop the images and take "Pictures of your Pictures" if you want.  For instance, I take images of the moon through my ETX telescope (see my review on that for more details) and often want to crop them to get more detail.  Cropping is essentially cutting out a portion of the picture to get more detail from a smaller part of the original picture.   Usually, the problem with doing this is that the "zoomed in" new image is of a lower quality.  However, when you have all 3.1 million pixels firing for you, you can cut out a million or so and still have a very high quality photo.  To clarify, let me illustrate with a few examples:
+
+Say I take a picture of the whole moon that fills my computer screen.  Now I crop the image around one of the small craters, and expand that cropped image to fill my screen once again.  Without using the highest setting, my new image would be blurry.  However, with the Super Fine setting, I have a beautifully detailed image with essentially the same quality as the larger, original image of the entire moon (even at 1024x768 monitor resolution).  
+
+Or, another example: Do you ever get photos and want to "zoom in" on a piece of it, but when you try it gets blurry?  The S20 allows you to zoom (again, works best in super fine mode) and see no noticeable degradation in quality of the image.  What about cutting out that ex-girlfriend or boyfriend from that amazing image of the waterfall?  No problem if the picture was taken with this camera.  Use the included software (Adobe PhotoDeluxe) and you'll be able to blow it up with the same size and quality of the original image - minus the ex.
+
+<B>Video Jack for plugging into a Television</B>
+This is an absolutely great feature.  Ever wanted to show those pictures to your friends, but can't show them all at once because it gets too crowded around the little 4x6 prints?  No problem anymore.  Show them on the TV.  If you have the pictures stored on your flash card (or better yet, your Microdrive card) you can run through a slide show for all your friends on the nearest TV.  All the TV needs is one of those yellow colored video inputs (found on most TV's purchased in the last 5-10 years or so).  This is one of my truly favorite features.  I sometimes upload pictures after having downloaded them to my desktop simply for this purpose.  The pictures show up full-screen and look beatiful on any size TV.
+
+<b>So what's special about this 3.1 megapixel camera versus the others?</b>
+1.Well, basically it's compact and easy to take with you.  If you like, you can throw it in your shirt pocket and go.  
+
+2.IBM microdrive compatibility, which I HIGHLY recommend.  When else can you carry more than 300 pictures around with you and still have room for plenty more?
+
+3.The video to TV capability.  I believe that other cameras on the market have this ability, but if they don't have microdrive capability, it's not as useful.
+
+<b>Costs</b>
+To get some of the benefits I described above, you will need to buy the IBM Microdrive.  This is another $250 over and above the $650 for the camera.  I will suggest that this is a necessary evil to really get the best use out of this camera.  You will also want to purchase the Recharger kit and some extra rechargeable batteries.  Pretty much all digital cameras eat batteries, and you will want some quality rechargeables.  All told, I spent just under $1000 for the package.  But it is SO worth it.  It will allow you to use this camera with ease and never worry about running out of room on the flash card, or running out of battery power (I bought 3 rechargeables to rotate around).  
+
+And toting around your personal photo library to show on the nearest TV is a truly great thing.
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

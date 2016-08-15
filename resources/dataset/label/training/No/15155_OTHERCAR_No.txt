@@ -1,0 +1,22 @@
+DOC>
+<DOCID> 15155 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Toshiba_PDR_M60 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-2632-454BA8A3-3A4B7318-prod3 </URL>
+<TEXT>
+            My boss bought this camera because he thought it was a good, durable camera for the price.  All we wanted was something simple to get decent pictures on the web and maybe print some photos as well.  At first, it seemed to be but the more I used it the more flaws I found.
+
+First of all, the AA batteries didn't last more than 5-10 minutes.  After trying out (and draining) 8-12 batteries, I took the camera back and exchanged it thinking maybe something was wrong with that particular camera.  We also bought rechargeable batteries just in case.  I don't know if it was the new camera or the rechargeable batteries, but whatever it was, at least it kept a charge.
+
+The photo quality isn't too bad, but to take the higher resolution pictures, you obviously had to sacrifice the number of pictures you could take at a time. At the highest quality, I think you could take 7 before it ran out of room.  (At the lowest, I think it can get around 50).  I did notice that some of the pictures were yellow/pink tinted but I was able to fix most of that with photo editing software.
+
+Things seemed to be ok for the most part until I tried to upload the pictures and had problems with the USB connection.  For whatever reason, out of nowhere it stopped communicating.  I had uploaded 2-3 batches of pictures with no problems then it just quit.  I shut down the PC, checked all the connections and tried again but nothing was going to work.  I hooked it up to another PC and had no problems, that is until the next time. The same thing happened. I finally did get the pictures to upload but what a hassle.
+
+I wasn't a big fan on the USB to begin with.  It just seems so much easier to use floppies - they're inexpensive and you can keep reloading without the hassles of hooking up the camera to the PC to get your pictures. Plus, with floppies you don't need software to upload the pictures to the PC. My biggest concern is that when you're having problems uploading you're pretty much stuck - you can't get the pictures off the Smart Media card without the USB. If you need to take more pictures before you're able to clear the card, your only option is to use a spare media card and hope you'll eventually get the USB to work.  If those little cards weren't so expensive and I had more patients, maybe that would be ok but at about $25 for a paper-thin media card, I'd rather be a little less high tech and feel more secure with a floppy. They're faster and more durable.
+
+Maybe I'm just too picky, but this camera doesn't seem to be worth the hassle for our purposes.  <br><br>
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

@@ -1,0 +1,18 @@
+DOC>
+<DOCID> 28652 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_KodakDCC-Kodak_DC-200 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-4429-69D8F5-388E36C8-bd3 </URL>
+<TEXT>
+            I bought this camera back in October of 1998.  I believe I paid $425 from http://www.hardwarestreet.com.  It was retailing for $499 at most brick-and-mortar stores at the time.  When I bought it, it was the best camera for the money.  There are certainly better cameras out now, but for the current price (around $290) it's a steal.  No zoom, but you can add additional lenses, unlike most of the other Kodak series cameras.  I have a 2X zoom lense, 3 different macro lenses (to get as close as 7 inches) and some other filters to enhance picture quality.  Wide-angle and Super-Wide Angle lenses are also available.
+
+Picture quality is good, best at 3-5 feet away from the subject.  Some outdoor pictures can look a little fuzzy in parts.  Great for taking pictures to put on the web.  When I bought it it came with a 4MB picture card, I believe it comes with an 8MB one now.  I bought two 16MB cards, each one can hold 56 regular-resolution(1152x864) pictures, or 240 low-resolution(640x480).  Enough for a very long vacation :)  If you don't have a laptop with a PCMCIA socket, I suggest either getting a desktop PCMCIA socket or a SanDisk Compactflash USB card reader.  The serial-port transfer takes FOREVER.  
+
+Nickel-metal hydride batteries are a necessity as well, I got the kodak ones and they are super.  Regular alkalines will be drained in 50-60 pictures, the NiMH ones go for 150-200 or more, depending on whether you're using the flash or LCD display.  
+
+Great budget camera, good picture quality, a definite good buy.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

@@ -1,0 +1,24 @@
+DOC>
+<DOCID> 28500 </DOCID>
+<PRODUCT> Digital_Cameras/HP_C8908A_hp_612_digital_camera__Camera_C8908A </PRODUCT>
+<URL> http://www.epinions.com/content_93442903684 </URL>
+<TEXT>
+            With digital cameras price go down, it is the best time to buy a digital camera as manufacturers are giving out rebates and bonus accessories.  With so many digital cameras, which one is good?
+
+That all depends on your needs.  If you need a camera that just do internet sharing, this HP Photosmart 612 is good for you.  It features a 2.3 Mega pixels, 2X optical zoom, and internal 8MB storage.  These features should be enough for beginners of digital photography.
+
+The JogDial allows user to scroll through different settings of the cameras, from DPOF print, delete, thumbnails, magnify and set up.  These are accessible through the LCD screen.  There are also 3 buttons on top of the camera, which set up image quality, self-timer and flash.  Those button are self-explanatory.
+
+Images taken from the camera are adequate for internet use.  Although it features a 2.3 Mega pixels and have max resolution of 1792x1200, the print of the pictures have quite a few obvious JPEG artifacts.  If you decide to print the photos out, expect a few blurry points.  The lens of the camera is made of plastic, therefore the images comes out a bit soft.  Since it uses JPEG compression, the images are limited to 72dpi and contains a few artifacts which may degrade the images during the editing on the computer.
+
+This camera is slow comparing to other mid-range digital cameras.  One obvious is start time, lag between shots and flash.  It takes about 1-2 second for the camera to focus and take the shot.  Don't use this camera for fast actions.  Since the camera does not have any cache memory, storing and scrolling images are a bit slow.  This camera also has a bug: often when you turn the camera on, the LCD never turns on even when you press the LCD button.  To resolve this problem, HP recommends turning off and on the camera, or even remove the batteries a few times and it should be fine.  Two HP 612 cameras I tested and they possess the same problem.
+
+The optical viewfinder on the camera is off the image, I recommend the use of LCD instead.  The trade-off for LCD is the battery, this camera takes batteries like crazy.  The AA batteries comes with it only takes only 60 flashes.  I recommend getting NiMH batteries to save some money.
+
+Overall, this camera is good for some casual shots.  Don't expect good print-out from this camera.  The plastic casing is durable and doesn't get scratch easily.
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

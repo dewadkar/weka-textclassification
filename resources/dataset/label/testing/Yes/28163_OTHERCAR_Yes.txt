@@ -1,0 +1,69 @@
+DOC>
+<DOCID> 28163 </DOCID>
+<PRODUCT> Digital_Cameras/Fuji_FinePix_S602_Zoom_Digital_Camera___Camera_FP_S602Z00 </PRODUCT>
+<URL> http://www.epinions.com/content_122463030916 </URL>
+<TEXT>
+            I've owned the Fuji s602z for almost 1 1/2 years now.  I owned an Olympus C720 UZ prior to this, but I returned it and bought the Fuji.  (You can read my review about the Olympus on this site and why I ditched this in favor of the Fuji.)  This was a decision I have not regretted in the least!
+
+I switched from film to digital photography because I was tired of sending film to photo labs only to have certain photos look different than the way I had intended on my Canon Elan IIE film SLR.  I wanted more control over the look of my photos.  The Fuji made the transition from film SLR to digital VERY easy with its 6x optical zoom (no more packing around lenses), EVF (electronic viewfinder), and manual options -- the main things I was looking for in a digital camera.
+
+I've decided to organize my review into categories.  Be patient -- my review is very detailed because I know this camera practically inside-out!
+
+What I wanted, and what the Fuji s602z provides:
+- Large optical zoom (6x).
+- EVF (electronic viewfinder).  Optical ones are useless to the more advanced photographer!
+- Command Dial for very quick adjustment of settings.
+- Ability to quickly change several key features using external SHIFT button without having to navigate internal menus.
+- Large aperture range (f2.8-f11).  Nearly all digicams only go to f8.
+- Very fast auto-focus (AF) in well-lit conditions.
+- Excellent manual focus (MF), esp. when used with Focus Check button.
+- External flash hot shoe.  I use a Vivitar 283 flash, and it gives INCREDIBLE results!
+- Metal, centered tripod mount (won&#146t strip like plastic ones).
+- Several accurate white balance (WB) modes.
+- SLR feel and capability without the bulk and extra lenses.
+
+Ingenious features that I wasn&#146t looking for, but LOVE now that I have them:
+- Preview mode, which displays a picture just taken without having to enter Playback mode.  Picture can be accepted, deleted before it&#146s written to the card, or zoomed-in on to check focus.  (You can also disable Preview mode.)
+- AMAZING macro capability in TWO modes.
+- Focus Check button.  Absolutely indispensable for MF, esp. in low-light conditions.
+- One-touch AF while in MF mode.
+- High-quality movie mode (640x480, 30 fps!!!) with sound, limited only by size of your storage card.
+- The TWO 5-frame continuous shooting modes.
+- Two customizable WB modes.
+
+What I wish it had:
+- AF assist lamp.  Low-light auto-focus is horrible, and only MF with Focus Check helps in this situation.
+- Adjustable continuous mode settings.  Instead of just a 5-frame burst over 1 second, how about options to add more frames and/or more time?  Examples:  5 frames over 2 seconds (more time), 10 frames over 2 seconds (more frames), etc.
+- ISO 800 and ISO 1600 modes in resolutions larger than just 1 megapixel (1M).
+- Automatic external flash capability.
+- Faster image playback.  Some digicams have instantaneous playback despite file size. 
+- Greater number of sharpening options, such as on a scale from 1 to 5 (1 = none, 5 = hard).
+- Options to adjust color saturation and tone, again each with a 1 to 5 scale.
+- Ability to zoom and re-focus in movie mode.
+- Ability to rotate images on-camera.
+
+Suggestions for improvement to Fuji:
+- See &#147What I wish it had&#148, plus ...
+- Battery level indicator should remain on viewfinder/LCD at all times and show four or so different levels of battery life.
+- Give us the choice of whether to reset file numbers or not.
+- Provide TIFF file format option in native-resolution 3M mode and not just in interpolated 6M mode.
+- Include a manual focus distance scale.
+
+Problems:
+- Switching between CF and SM cards gives an error message, even after having this problem &#145fixed&#146 by Fuji Canada (Vancouver repair facility).
+- Battery level indicator appears only seconds before the batteries die.
+- You need to use a SM card or a high speed CF card or else movie mode using a CF card may stop unexpectedly even if remaining storage space is large, i.e. CF card sometimes doesn&#146t write fast enough.  (Hint:  avoid regular "Sandisk" or "Sandisk Ultra" CF cards, but go for the "Sandisk Ultra II", "Lexar" 40x, etc.)
+- The resetting of file numbers to zero once you delete image files from a storage card.
+- Camera does not switch back to previous megapixel setting after you&#146ve used ISO 800 or ISO 1600 at 1M setting.
+- The manual focus indicators don&#146t seem to appear in low-light situations, thus requiring the Focus Check feature.
+
+WHAT'S MY OVERALL OPINION?  No camera is perfect, but this camera is excelled by only a few.  Most of the so-called 'problems' are minor ones and are less numerous than on most other cameras.  In fact, its problems are miniscule compared to the large number of excellent and unique features.  I would still recommend this camera to anyone!
+
+By the way, the successor to this camera, the Fuji s7000, has taken care of several of the things that I listed under "What I wish it had", "Suggestions ...", and "Problems".  However, the s7000 has also made a few key trade-offs that still make the s602z very desirable.  If you can find a used s602z in excellent condition, you'll still own simply one of the best digital cameras around, even when compared to the newest models!!!
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

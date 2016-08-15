@@ -1,0 +1,56 @@
+DOC>
+<DOCID> 916 </DOCID>
+<PRODUCT> Digital_Cameras/Minolta_Dimage_X_Digticam_2Mpix_3X_optical_zoom_digital_Cameras_built_in_Flash__Camera_2776_301 </PRODUCT>
+<URL> http://www.epinions.com/content_60877147780 </URL>
+<TEXT>
+            GOOD THINGS:
+
+You don't appreciate how small this thing is until you sit it next to any other real digital camera on the market.  I have two Olympus models, a C-2040Z and a Brio D-150.  I thought the D-150 was small, but the Dimage X makes it seem huge in comparison.  It even makes the Canon ELPHs seem porky.
+
+This camera is easy to use with simple menus and intuitive controls.  I had it all figured it out in just a few minutes without looking at the manual.  If you have Windows 2000, ME or XP, you just plug it into your USB port and it pops up on "My Computer"--no software drivers required.  
+
+It's very quick to turn on (no lens to extend) and is reasonably quick at taking pictures depending on the image size/quality and if you're using the flash.  The flash can take about 6 seconds to recycle but that's typical.  It has a "multiple shot" mode as well.
+
+Commonly used controls like the flash mode, display on/off and exposure correction are accessible directly without using the menus.  There are only 4 menus and they're really easy to navigate.  You can choose from 3 image sizes and 4 quality levels including an uncompressed TIFF mode.
+
+Battery life seems AMAZINGLY good given that the battery is literally the size of some postage stamps!  I ran around for over an hour with the display on taking tons of pics, downloading them, messing with the menus, etc. before it gave me a low battery warning.  The reviews say you can leave it on all day with the display off and take several hundred pictures all on one charge.
+
+The case is nearly all stainless steel.  It should stand up to a fair amount of use/abuse.  The lens is covered by a sliding motorized door when it's off.  There should be less to break/go wrong compared to cameras that have to extend the lens every time you turn them on.
+
+BAD THINGS:
+
+My biggest gripe is the picture quality.  Other $400 two megapixel cameras are significantly better.  My Olympus C-2040Z takes sharper pictures with fewer artifacts under any conditions and completely blows the Minolta away in low light.  With a much bigger (conventional) lens, however, that's to be expected.
+
+The Dimage X images are a bit "soft"--especially in the corners and edges.  You don't really notice it on most casual shots, but if there's fine detail in the corners and along the edges, it's a bit fuzzy.  
+
+Perhaps more annoying, there are "chromatic artifacts" visible in many pictures.  These seem to be worse at the wide angle end of the zoom range.  You get either a red, yellow or blue band next to sharp high contrast lines.  This is likely due to the prism used to "fold" the lens and from keeping the weird lens design so small.  It's part of the price you have to pay (at least right now) for a camera this compact.  There are reviews on the net that have samples pictures that show this flaw quite clearly.  Have a look at: http://www.dpreview.com/reviews/minoltadimagex/ 
+
+The lens has a smaller maximum aperture than many comparable lenses on bigger cameras so it forces the Dimage X to use slower shutter speeds to make up for it.  This means camera shake is more of a problem in lower light.  It also means it can't focus as well in low light and the LCD viewfinder doesn't work as well either.
+
+The charger is a standalone unit and while fairly small, requires a plug in cord.  It's just one more thing to travel with.  You have to take the battery out of the camera to charge it.  
+
+There's no manual focus mode (there is a focus lock where you can focus on something else, hold the shutter button part way down, and then take the picture).  In really low light, like most digital cams, it can't focus at all--at least it defaults to 6 feet.
+
+The LCD display washes out more than some do in bright outdoor light.  At least they give you a shortcut to the menu to adjust the brightness.  You also have to push a button twice every time you turn on the camera if you want to turn the display off to greatly extend the battery life.
+
+The flash is kind of weak (or the small lens is hurting it) as the flash is only good to about 8 - 10 feet or so and even then the edges are darker at the wide angle zoom setting.
+
+There's no manual white balance, just presets.  So if you're in tricky lighting, you're stuck.  The auto setting also tends to be on the warm side under most conditions.  This isn't a huge deal as you can always tweak the color later on your PC.
+
+OTHER STUFF:
+
+Extra batteries are still hard to find, but retail for $39.  You'll want one.  The AC adapter is $49 but can be found for $39 you might want to buy a cheap card reader instead.  MMC/SD cards are more expensive than SmartMedia and CF, but they make sense for this camera because they're much smaller.  I doubt Minolta could have found room for the older flash cards.  Besides, MMC/SD will keep dropping in price I'm sure--they're the newest technology right now.  There is a note in the manual that MMC cards take longer to store pictures than SD (which is due to the card design).
+
+CONCLUSION:
+
+It's not perfect, but it's currently in a class by itself.  The Canon ELPHs take slightly better pictures but are significantly bigger.  If this is going to be your ONLY (or your best) digital camera, you hopefully put a much higher priority on size/portability rather than image quality and elaborate features.  If it's going to be a second camera for more casual use, it's an excellent choice.  I take this camera places I'd never take my C-2040 or even the D-150 Brio.  What good is a nice camera if it always stays home?
+
+I'm sure other manufactures will follow with their own ultra compact digital models.  Minolta will improve on this one as well.  But as a first effort, it's pretty amazing.  
+
+If image quality is a big priority, I'd look at the cheaper Olympus C-2040Z or Canon A20.  If you want something that's small with slightly better quality than the Dimage X,  consider a Canon ELPH.  If small/light/easy are big priorities, the Dimage X may be well worth buying.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

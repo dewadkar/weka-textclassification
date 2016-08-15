@@ -1,0 +1,28 @@
+DOC>
+<DOCID> 30344 </DOCID>
+<PRODUCT> Digital_Cameras/510621_Argus_DC1500 </PRODUCT>
+<URL> http://www.epinions.com/content_75101605508 </URL>
+<TEXT>
+            I bought one of these Argus digital cameras in a cigarette shop, of all places. I had seen the DC1500 advertised in Office Mmax ads for $25 for a long time, and even though I knew that at that price it was probably a piece of junk, I thought it would be fun to try it out, and for that low price I wouldn't be too mad if it indeed was junk. So when I saw the same camera in the smoke shop for 25 bucks, I plunked down the cash and started planning my first camera shoot...
+
+The camera came with a USB cable and a CD with a few low brow imaging editing software programs and an AVI video program. Since I already have Photoshop, I only installed the driver and the AVI program. The camera operates on 3 AAA batteries, and can also operate on the computer's power when attached via the USB cable.
+
+There are two resolution modes you can shoot at -- low resolution (up to 80 pics) or high resolution (up to 20 pics). I first tried shooting some pics with low resolution in my basement apartment. If there's not enough light, the camera sounds a low beep and will not take a picture. A high pitched beep means there is enough light and a picture is taken. After taking 20 or so pics, I hooked up to my PC and downloaded the pics ... I was horribly disappointed in the results.
+
+All the pics were terribly pixelated, grainy, and speckled. Not a clear shot in the bunch. The photos were small, also, roughly 2.5 by 3 inches or so on the screen at 72 dpi. I then tried shooting at "high' resolution, only to get the same horrid results, only larger grainy, speckled pics (4X 5 inches). I tried shooting some outdoor shots, even though it was cloudy, and those pics came out much better.
+
+In the instructions that came with this camera, it says it works best with bright lights indoors and for sunny outdoor shots. This is very true. The only place in my apartment I can shoot halfway decent photos is in my brightly lit bathroom. It would have been great if this camera came with a flash. Even with bright lighting, however, the pics are  washed out looking, and it takes a bit of Photoshop work to get them looking worthy for the web. The colors are also off, with a greenish color cast. 
+
+However, after playing with this camera for a few days, I have had some fun and have taken some shots that were good enough to post on the web. What I really like is being able to take bunches of pics and keep what I like, spending no money on film. With my regular camera, I usually only get 3 or 4 pics out of a roll that I like. The AVI video maker is also a blast to use - you can shoot up to 12 seconds worth of video in low resolution mode, but only two seconds in high resolution mode. This cam also has a self-timer, which is good to have.
+
+I tried printing out some of my photos on my 1440 dpi Epson printer on glossy paper, and they actually looked pretty good, especially when scaled down a bit. Since the photos are all 72 dpi images, when printed at 100% scale (which prints a 4 x 5 inch photo) the edges appear jagged if you look closely. So you definately can't print nice, big 8 x 10 photos from this camera.
+
+This is a fun toy to play around with and take low quality pics for the web, but if you want QUALITY photos, you can't get 'em with this camera. Then again, for $25, what do you expect? This cam is fun to play with, but next time I will spend more money for a better product. 
+
+TIP: in Photoshop, I use the levels adjusment to get rid of the washed out look, and the dust & scratches filter to get rid of any speckles. I then give 'em a bit of Unsharp mask to get 'em a little less blurry. That's how I process this camera's pics.
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

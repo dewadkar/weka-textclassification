@@ -1,0 +1,23 @@
+DOC>
+<DOCID> 33820 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_CanonPowerShott-Canon_PowerShot_A50 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-5094-74128E4-395C0B5B-prod3 </URL>
+<TEXT>
+            I purchased this unit as a replacement for my Kodak DC 210 Plus, which suffered from horrible customer support and therefore took a one-way trip back to Kodak.  This camera was new at the time when this happened, and purchased it without any real reviews.  
+
+When I first received this product, I was highly impressed with the construction of the unit.  It was extremely well built, made out of Magnesium alloy, as opposed to the plastic Kodak.  It had a serial interface, which was OK at the time, but now has been replaced by a SanDisk CompactFlash USB reader.  Even the little attachment for the hand strap was well engineered, and did not get twisted around your hand like others.  I inserted the 2CR5 battery (more on this later) which was included, and shot some pictures.  The coolest thing I noticed was the lens-opening maneuver...a small metal flap gets slid aside inside the camera, and the lens quietly emerges.  The controls are easy to use, however check to make sure that you lock the battery cover underneath, or the camera won't start up.  The default modes are excellent for general picture taking, and the program modes allow you to modify many settings such as white balance, compression, resolution, flash, and the like.  This camera has the unique ability to store uncompressed images (at approx. 3MB each) on its included 8MB flash card (and any compact flash card, for that matter).  The camera's LCD panel is also very bright, with excellent refresh rates when used as a viewfinder.  The A50 also sports an optical viewfinder.  The zoom on the unit is good, although at only 2X not as powerful as I would like.  A clever feature on the unit is the stitch assist mode, which allows the photographer to create panoramic shots with great ease, using the LCD panel.  The included software is also top-notch, especially the photo cataloging programs.
+
+
+As I downloaded the pictures (SLOWLY over the serial link), I realized the best thing yet - the quality of pictures are amazing!  Not exactly the 3.3MP CoolPix, but beautifully saturated pictures that look great even at 8x10 print sizes.  One thing that quickly becomes apparent is the lack of battery stamina, and at $11 a battery, this becomes a costly problem.  Thankfully, Canon sells a cleverly designed rechargeable battery kit (Part Number DK110) for about $70. 
+
+Compared to other DigiCams, the A50 ranks in the upper-middle class.  I've compared this to my coworker's $3000 Sony digital SLR, and found that besides from the resolution, the cameras shoot pictures of similar qualities (although the Canon lacks the sheer picture access speed of the Sony).  However, speaking of picture access, after taking a picture, the PowerShot can get it down to disk in about 5 seconds...not bad for a 1.3MP camera.  
+
+Overall, this camera is a good buy even today.  However be prepared to spend about an extra $130 on a Rechargeable Battery and a CompactFlash reader.  This is a great unit for those who want to wade in the waters of digital photography, or who have a camera from a few years back and are ready for an upgrade.
+
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

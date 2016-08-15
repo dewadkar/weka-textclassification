@@ -1,0 +1,62 @@
+DOC>
+<DOCID> 821 </DOCID>
+<PRODUCT> Digital_Cameras/_SIPIX_iQuest_DualCam__616602 </PRODUCT>
+<URL> http://www.epinions.com/content_56239492740 </URL>
+<TEXT>
+            I was dying for a digital camera, but my college budget cringed at the price tags of the popular brands.  Then I stumbled across an ad in a mail-order catalog for the SiPix iQuest DualCam.  At $29 after a $20 rebate, I couldn't pass it up.  Was it worth thirty bucks?  Well, what digital camera isn't?  Here's my take on the DualCam:
+
+<b>Hardware</b>
+
+The iQuest DualCam is a palm-sized unit with run-of-the-mill features for a low-end digital camera.  It boasts a built-in flash, a lens cover that doubles as a power switch, a USB port for PC connections, and a video output jack for viewing images on any TV/VCR with an RCA input.
+
+The controls are well-organized in five buttons on top of the camera.  A quick run-down of functions:
+
+A single button scrolls through the flash options (On/Off/Auto).
+
+Another button does double-duty as a quality selector and self-timer switch, cycling through high and low quality settings with and without the timer.
+
+There's a Play/Record button, primarily for use when viewing images on an external video source.  Play mode lets you view and delete images (as expected), but record mode was a little disappointing.  The camera displays a decent quality live-feed image on a TV, but only allows you to capture still images.  Several cameras on the market (some of the popular pen-cams, for instance) let the user capture video on the go.  The DualCam's web-cam feature, however, is only available when connected to a PC.  
+
+Finally, the delete and shutter buttons serve only their stated purposes.
+
+It should come as no surprise that a camera in this price range isn't equipped with a built-in LCD image viewer.  I will give SiPix props for the layout of their status indicator, though.  It's easily deciphered, even if it isn't very eye-catching.  
+
+<b>Accessories</b>
+
+The connection ports of the DualCam bug me.  They're easy to get to, but their position on the lower left side of the unit makes use as a web-cam bothersome.  With the cables connected, the camera tends to shift under the weight of the cords and leans to the side.  Why the connections weren't taken around the corner to the back of the unit is boggling.  I've worked around this problem by clamping the cords to the side of my monitor, but it was nonetheless a nuisance.
+
+The optimal solution would have been to place the connections in a cradle/stand, but that would probably have jacked the price up.  The stand that <i>is</i> supplied leaves a little to be desired.  It secures to the camera via a short bolt with a plastic knob on the bottom.  This is the same type of attachment many tripods have, but for a tiny webcam it's overkill.  
+
+On a more pleasant note, the DualCam comes with all its cables, and SiPix even includes a pair of AA batteries to get you started.  The people at SiPix apparently appreciate the fact that it's nice to be able to play with a new toy right out of the box.
+
+<b>Performance</b>
+
+While including batteries is a nice gesture, the one pair won't save you much money.  The DualCam is a glutton in the power department.  Energizers in my camera have an average life-expectancy of 1-2 hours.  Thankfully, the unit turns itself off after a few seconds of inactivity.  But the power drain is still impressive.  I just wish I was as impressed by the quality of the images as I am by the device's power consumption.  
+
+The DualCam offers two levels of picture quality, but despite my most intense inspections I can't see any real difference between Low and High.  The only noticeable effect is that switching to high quality drops the storage capacity from 24 images to 6.  
+
+When transferring images to my PC in Adobe Photoshop via the supplied software, I get 640 x 480 pictures on either setting.  At a high level of zoom in Photoshop there are a few less pixel distortions, but the difference is negligible.  And with no option to increase memory, the high setting certainly isn't worth the number of pictures it costs.
+
+The camera seems to perform best in the 6-10 foot range.  I've managed some near-disposable-camera-quality images at such distances, and with some creative blurring of backgrounds they don't look too bad.  The clarity, however, remains far inferior to an actual disposable camera and a scanner.  
+
+<b>Wrap-Up</b>
+
+There are other aspects of the unit that could be discussed (one second delay between shutter press and confirmation chirp, two second delay between confirmation and ready-light for next picture), but I think the image quality pretty well sums up the overall experience.  That's what you buy a camera for in the first place.
+
+I will mention that the DualCam is adequate as a webcam.  Capturing at 30 frames/second, it keeps up with the rest of the pack of camera/webcam combos.  But if I had wanted a webcam, I would have bought just that and gotten more focused software and options.  
+
+Do I feel like I was ripped-off?  No, not really.  Despite all the shortcomings of the DualCam, it does allow me to snap occassional pictures and quickly access them through my PC.  For $29 I feel good about my purchase.  Had I paid any more for it, I might be less forgiving.  
+
+If you're looking for a high-quality digital camera, you'll have to pay high-quality prices - higher than thirty dollars, at least.  But if, like I was, you're simply bursting at the seams to get your own digital camera, the DualCam is a nice, cheap starter (if you can find it on sale).  
+
+I'm withholding my recommendation on the DualCam primarily because the quality of the images is so low.  For someone who's new to the digital camera game, or who doesn't require crisp photos, this camera would still be pretty good for the price.  
+
+As a brief side-note, I do think this camera would make a good gift for younger users.  It performs consistently, and if it gets broken or used as a coaster, you're not out $250.  
+
+On that, thanks for reading my review.  I hope you've found it useful.
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

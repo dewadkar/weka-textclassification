@@ -1,0 +1,36 @@
+DOC>
+<DOCID> 31483 </DOCID>
+<PRODUCT> Digital_Cameras/elec_AgfaePhotoo-Agfa_ePhoto_1280 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-2616-409B7BF-37E01B17-prod1 </URL>
+<TEXT>
+            The Agfa ePhoto 1280, possibly a discontinued model, has been selling recently for under $300.  As of the summer of 1999, this is a very good price for the features you get.
+
+I was looking for the best price for a digital camera with the following features:
+* Optical zoom (1280: 3x optical zoom)
+* Macro/closeup mode (1280: approx. 6 inches)
+* Manual exposure (1280: yes)
+* 1024x768 resolution (1280: up to 1280x960 but see below)
+
+The Agfa ePhoto 1280 satisfied my conditions quite handily.  (The Nikon Coolpix 700 also appeared to be an excellent choice, but cost several hundred dollars more.)  The camera comes with one 4MB SmartMedia card, a serial cable, a video cable, four AA rechargable batteries and a charger.
+
+After a month and several hundred exposures, I am reasonably satisfied with the camera.  The picture quality is excellent at up to 1024x768 resolution: reasonable focus, good color and contrast under a variety of lighting conditions (from full sun to a dimly-lit room).  The highest resolution (1280x960) looks much better if resized down to 1024 or less.  Close-ups look very good, but (as with any camera, I suppose) careful lighting is vital if you are reproducing 2d artwork.  The autofocus usually works well, and there are settings to bias the autofocus for close-ups, middle-range (portraits), or distance.  
+
+The camera has a bright, clear LCD screen -- normally quite handy, but it's barely visible under bright light, and it fades at awkward angles.  As in many &quot;viewcam&quot;-style cameras, the screen can be tilted to allow you to frame a shot from other than eye-level.  With years of experience with traditional cameras, it's taking me a while to really grasp the possibilities this opens up.  Unfortunately, from certain angles -- particularly when holding the camera sideways for portrait orientation -- the screen image fades and becomes useless.  There is no optical viewfinder as a backup.  A dark mode makes the viewfinder operate even under low light, to a point.
+
+The camera is fairly heavy and awkward to hold, and it's almost impossible to operate one-handed except for the actual snapping of pictures.  To operate the zoom or adjust resolution, focus, and exposure settings, it's usually necessary to steady the camera with the left hand.  The camera heats up with use, and the black case really soaks up the sun.
+
+This camera, like most digital cameras, is slow: it takes several seconds to start up, store or retrieve a picture, or switch between record and playback modes.  Worst of all, there is a noticeable delay between pressing the shutter release and the actual capturing of an image.  In playback mode, you can get a convenient, if slow, visual menu of your currently stored images to view or delete.
+
+A set of batteries doesn't last very long -- perhaps 50-100 exposures.  I immediately bought a second set ($12-15) to keep ready.  It takes about 6 hours to charge the batteries in the included charger.
+
+The included software, Agfa PhotoWise, is good, though limited: you can organize photos by folder, and crop, resize, and adjust contrast, color balance, sharpness, etc.  It can automatically set the date and time on the camera whenever you connect it -- a nice touch.  When you're making corrections, a very nice preview window helps you compare before and after.  If you're really serious about it, though, get Photoshop.
+
+The camera comes with one 4MB SmartMedia card, but I bought several 8MB cards (about $13 each at buy.com -- strangely, they are usually much more expensive than that).  For some reason, this camera does not work with larger cards. At my favorite setting -- high-quality, 1024x768 -- an 8MB chip feels like a 24-exposure roll of film because it holds about 25-30 images.  Using the included serial cable, it takes up to half an hour to download 8MB of pictures from the camera-- longer if you let PhotoWise &quot;enhance&quot; your images as it downloads them, which I don't.  Serial's limited speed would of course be the same for any camera.  Using an adapter to plug the SmartMedia cards directly into the computer would be much faster; unfortunately, PCMCIA adapters for SmartMedia are much more expensive than those for the competing CompactFlash format ($50 vs $15). 
+
+A cable is included to connect the camera to a television.  This can be a very nice way to preview or show off your pictures.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

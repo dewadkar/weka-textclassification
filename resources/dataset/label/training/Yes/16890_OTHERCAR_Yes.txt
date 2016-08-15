@@ -1,0 +1,55 @@
+DOC>
+<DOCID> 16890 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Sony_MVC-FD95 </PRODUCT>
+<URL> http://www.epinions.com/content_50401808004 </URL>
+<TEXT>
+            I've been a Sony camera fan for over 5 years and have upgraded numerous times.  Though I no longer have my FD95, I still would recommend this type of camera.  In this review I'll explain the features and why I upgraded to a newer model after about a year.  This information should help you decide if the FD95 is for you.
+
+You can get the full technical specs on this Sony camera from http://www.imaging-resource.com/PRODS/FD95/FD95DAT.HTM
+Because of this I'm not going to waste my time or yours, rewriting every specification.
+
+The first thing I noticed about this camera is the size.  It is just over 2 pounds, which is quite heavy for a digital camera.  The measurements are approximately 5 x 5 x 7 inches which takes up a hefty amount of space. If your going to be lugging this camera around on a hiking trip or vacation, you'll definitely want to take that under consideration.  I did carry it around Europe with me for 5 weeks and after awhile I didn't notice the weight; however I was constantly aware of the bulkiness.
+
+The highest picture resolution is 1600x1200 pixels.  When this camera was first manufactured, this was quite impressive.  Many cameras still use this resolution now.  Although, today you can get cameras with much higher pixel counts.  1600x1200 will give you high quality pictures that are 8x10 inches when printed.  If you plan to produce pictures that are larger than 8x10, then the FD95 is not for you and you'll want to opt for a higher res camera.
+
+This Mavica comes with an amazing 10x optical zoom.  Even today many camera don't come with more than 5x optical.  This zoom is equal to about 40mm - 400mm on a regular camera. There is an additional 2x digital zoom, bringing total zoom to 20x.  However, you will loose picture quality when using digital zoom.
+
+The LCD where you view your pictures is approximately 2.5" which is large compared to other cameras.  The quality is very good.  It can be a bit annoying in bright sun light, even when you adjust the screen brightness.  Sony added a view finder to combat this problem.  This view finder is not optical, it is also LCD.  So you will see better through the view finder in bright light, but not as well if it was optical.
+
+This camera has 9 aperture values ranging from F2.8 to F11 and 17 shutter speeds ranging from 1/500 to 8 seconds.  These options are only available when you switch to shutter priority mode or aperture priority mode.  In normal mode, the camera makes the choices automatically for you.
+view finder
+
+The 4x floppy drives is much faster than a regular floppy disk.  However, you will still see record/save times of up to 7 seconds at high resolution.  The size of the camera is partly caused by the ability to save to floppy disk.  Some people may complain, but there no need for cables or extra software to get your pictures onto a computer with a floppy.  However at high res, you can not fit many pictures on a floppy disk.  One way around the floppy is purchasing a memory stick and memory stick floppy adapter.  This will allow you to save directly to a memory stick via the adapter.  You will gain storage capacity, but no real decrease in save/record speed.  You'll need to install software on your computer in order to read the memory stick floppy adapter in your floppy drive.  Another note, the adapter requires 2 small watch type batteries.  They can run out in about 2 months of continuous use.
+
+The FD95 has 5 flash modes.  These are external (the mavica does have a hookup for an external Sony flash), suppressed (no flash), forced (always uses flash), red eye reduction, and auto (flashes when necessary). It has a range of about 3 - 8 feet.
+
+This Mavica has automatic focus and a manual focus ring.  When you switch to manual mode, you can use focus ring to get finer detail in a picture.
+
+There's a 10 second self timer.  Basically, this allows you to focus on a picture, press the timer button, and then run over to be in the picture too.  I used this feature multiple times while traveling and found it very useful.
+
+There is a white balance button that allows you to adjust the camera for automatic, indoor, outdoor, or one push.  This is useful in correcting the tinting of your pictures.
+
+FD95 has a "Program AE" or scene selection mode that includes: aperture priority, shutter priority, twilight, twilight plus, landscape, and panfocus.  Twilight and twilight plus are for night time pictures.  The plus mode makes the camera more sensitive to light.  Landscape, sets up the camera for subjects that are further away from.  Panfocus allows you to more quickly change focus between objects that are close or far away. The twilight modes actually worked very well for me when I took pictures of fireworks!
+
+As with most Sony cams this one has a few image filters or picture effects included.  These are black and white, negative art, solarization, and sepia.  I've enjoyed these modes.
+
+The included battery will give you about 1 hour of continuous use.  You can order the NP-F550 which will close to double your time use time.
+
+The camera comes with charger and ArcSoft photo editing software which was quite useful.  Though I found myself turning to other software for more advanced features.
+
+My final thoughts...
+
+This sony camera is easy to use, especially because of the floppy disk.  The size is a bit prohibitive, but you gain 10x optical zoom, a large LCD screen, and floppy ability.  The prices is a reasonable $400-500 today and qives you 1600x1200 resolution which is more than many people require.
+
+I upgraded to gain faster record times and higher resolution.  The features came at a higher cost and the expense of less zoom.  Additionally, I now need cables/software because of the loss of the floppy disk ability.  
+
+If you are looking for an easy to use camera and don't want the mess of cables, the the FD95 is for you.
+
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

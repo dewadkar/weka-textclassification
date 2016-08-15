@@ -1,0 +1,70 @@
+DOC>
+<DOCID> 232 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_Powershot_G1 </PRODUCT>
+<URL> http://www.epinions.com/content_14831750788 </URL>
+<TEXT>
+            I've found that choosing a digital camera is like electing a president. All the candidates have good qualities but they all have some trait that's really annoying. I've been researching new digital cameras and like Florida, none of them had anymore votes then another. For my price range it seemed to be a battle between the Olympus C-3030 and the Nikon CoolPix 990. Then the clouds cleared and I discovered the Canon Powershot G1 which had the best of both.
+
+
+<b>Swivel LCD screen</b>
+Hold the camera over your head or down at your knees and you can still see the LCD screen. Heck, you can even take a photo of yourself. I had a similar feature with my Agfa ePhoto 1680 and I couldn't consider a new camera without a similar feature. It was the primary reason I was considering the Coolpix but the screen on the G1 is even cooler. The Coolpix 990 doesn't support CompactFlash II and has redeye problems.
+
+When not in use the LCD screen wraps into the back of the camera is protected from dust and finger prints. It's smaller then I expected but has a nice solid frame around it so you won't be touching the screen when twisting it.
+
+The screen also provides all sorts of feedback so even under automatic you'll see what settings are being used under different situations.
+
+<b>Flash Hot-shoe</b>
+It's always amazed me that digital cameras don't seem to have the same methods to expand as regular cameras. This camera has a standard Canon TTL flash hot-shoe that allows you to choose from a bunch of flash attachments.(even wireless) Now I can finally take photos without redeye!
+The built in flash works great and the camera includes a AE Focus Assist lamp.
+
+<b>CompactFlash Type II</b>
+Now that the size of photos are getting larger we really need more memory on the camera to store photos. While I already have a bunch of SmartMedia chips, you can't find SmartMedia chips as large as CompactFlash memory. Unfortunately, the CompactFlash is still really expensive.
+
+Enter the IBM Microdrive!!!  IBM now has 1 GB MicroDrives for $400. The camera has a huge internal buffer so even though the Microdrive is slightly slower, you can still take plenty of photos before having any wait.
+The best part of IBM's MicroDrive is it came with a PCMCIA adaptor. I can also use it as an addition 1 gig HD on my laptop!
+
+<b>USB</b>
+I LOVE USB connections.  No more having to find available IRQ's or swapping serial connections.  While I do have a USB drive for my SmartMedia having a USB connection right in the camera allows me to download photos to just about any computer. No additional devices required.
+
+<b>Learn to be a real photographer</b>
+I LOVE this camera. While it's my 4th digital camera I have no background is regular photography. I'm finally learning what FStop, White balance,ISO and Aperture settings really mean. The G1 provides an automatic point and shoot mode, a completely manual mode and a bunch of commonly used settings like Pan Focus, Portrait, Landscape, and Night scene. When using any mode the camera will display the settings on the LCD and even saves all the other camera data as comments in the file. It's been interesting to take photos of the same subject with the same lighting under different settings and compare the results.
+
+<b>Movie Mode</b>
+I never thought I'd use this mode but I've had a lot of fun creating short AVI videos complete with sound. You can create up to 30 second AVI files at 320x240 and 15 fps.
+I'm finally found a reason to use the Windows Movie Maker program.  I don't understand why but the optical zoom can't be used in this mode. 
+
+<b>Stitch Assist Mode</b>
+Canon has a really cool way of letting you take photos that can be matched up with previous photos. This allows you to create a wonderful panoramic view but don't expect to create 360 view with it.  You really need a fisheye lens and center based tripod mount. Canon did a good job at letting you access the battery and Compactflash port while using a tripod. Unfortunately, the tripod mount is a little off center.
+
+<b>Battery Life</b>
+You probably know that battery life is one of the biggest complaints of digital camera users. The G1 uses a proprietary Lithium-ion battery that is rechargeable and could kick the Energizer Bunnies fluffy little tail. 
+
+Ok, now for the annoying stuff.
+
+<b>Boot Time</b>
+I swear I have versions of Windows that boot up faster than this camera. It takes about 6 seconds after turning it on to actually taking a photo.  When used with a MicroDrive it's 2 seconds more. What this means is I tend to leave the camera on if there's any chance of taking photos.  Luckily, the great battery life for the G1 makes this possible.
+
+<b>Lens Cap detection</b>
+Canon also went one step too far in user friendliness. It detects if the lens cap is on when you turn on the camera. If so, you have to turn the camera off, take off the cap and turn it back on again. You think Canon customer support got too many calls from people saying the camera wasn't working when they forgot to remove the lens cap?  
+
+<b>Connection cover</b>
+Most reviews you read will mention the soft rubber cap which covers the USB and power connections. The cap is just barely connected to the camera and I'm sure within a month this little hinge will be broken. Luckily, the cover also has soft rubber plugs that push into the ports.
+
+
+<b>Other Cool Stuff</b>
+* Max Resolution 2048x1536
+* RAW file format with no compression (8 MB)
+* Excellent Menu User Interface
+* ISO 50 setting
+* Solid Construction
+* Great image and color quality.
+* Combination wrist/Shoulder even neck strap
+* Infrared Remote control
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

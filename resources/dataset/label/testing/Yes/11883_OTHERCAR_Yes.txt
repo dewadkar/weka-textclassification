@@ -1,0 +1,34 @@
+DOC>
+<DOCID> 11883 </DOCID>
+<PRODUCT> Digital_Cameras/509166_Agfa_ePhoto_780 </PRODUCT>
+<URL> http://www.epinions.com/content_32097930884 </URL>
+<TEXT>
+            I bought my 780c in November of 1999. I knew already about issues with battery life with digital cameras in general, so I also bought a set of Kodak NiMH rechargeable batteries. Expensive, but well worth the cost, since I figure they paid for themselves the first week. I've never used regular batteries in it, because judging at how quickly the rechargeables lose their juice, I'd likely just be depressed. In fact, I still have the batteries that came with the camera, unused.
+
+Anyway, in reading a few other reviews I've noticed that the camera is supposed to include a 2 MB SmartMedia flash memory card. Mine, as many others, came with a 4 MB card. Not knowing this when I purchased it, I bought an additional 8 MB card so there would be little risk of running out of "film" if I was separated from a computer for quite a while.
+
+The camera is well-designed, with a chunky feel to it that feels more reassuring for the clumsy than Canon's line of near-microscopic cameras. The bright blue and silver color scheme is...noticeable, but I can't say I really like it. The buttons are mostly self-explanatory, and with the onscreen help features, it's very easy to figure out, with or without the instructions.
+
+The 780c has four settings for picture resolution 320x240 low-res 320x240 high-res, 640x480, and 1024x768 "Photo Genie", with each one taking a corresponding amount of memory. With the 8 MB card, I can take 45 1024x768, 90 640x480, 142 320x240 high-res, and 330 (!) 320x240 low-res. Most of the pictures I took were for use on the web, and some clarity was required. I typically use the 640x480 (three-star according to the camera) resolution for all my pictures. Experimenting with different resolution settings, it seems that it's the best compromise, and Agfa's highly touted Photo Genie "megabit" resolution is just a zoomed-out 640x480 shot. Save memory and use three-star.
+
+The Agfa software that came with the camera is fine and easy to use, but it has the annoying tendency to re-associate JPEGs with it, so every time I pull pictures out of the camera I have to associate JPEGs with my default image viewer. 
+
+The serial-only output of the camera is kind of a drag--I had to buy an extra serial card for my old computer, which caused the sound card to stop working until I removed another card, freeing up an IRQ for the sound card. A minor hassle, but most boards manufactured later than mine (it was a ca. 1996 board) will have extra serial ports. People will complain that the serial connection is slow, but I've experimented with the Agfa CL30's USB connection and it's not any quicker in the real world. Set it to grab all the images and get a cup of coffee. It should be done or nearly so by the time you get back.
+
+The camera has three range settings: Macro (6" to 18"), Portrait (18" to 5 feet), and Landscape (3'+). They work pretty much as advertised, but experimentation with different range settings can be interesting. The flash seems to time itself differently depending on your range, so if you're getting a washed out image, try another setting.
+
+The flash settings are also very easy to use. There are four modes: No flash, auto flash, red eye reduction, and flash on. The flash does take a bit to warm up, particularly when the batteries are low, but no complaints with its performance.
+
+The LCD screen is great for dilenttante photographers like myself, in that you can see exactly what you've done wrong within a second or two of taking the picture and work to correct it. Other cameras have them too, I realize, but the 780c's seems to display images quicker than the others. The onscreen controls also let you lock, delete, or review the images quickly so your memory card doesn't get filled up with "oops" pictures.
+
+Getting back to battery life issues, it does run through batteries like mad, but buying a set of rechargeables and a charger can help you get past this. Once you have the charger, it's fairly inexpensive (about $20) to buy a backup set of rechargeables too, for extended trips away from power outlets. 
+
+As far as tips on saving battery power, using the flash, obviously, uses a vast amount of power, but to help conserve, don't take a group of flash pictures in a row. I've had batteries last through 60 or 70 photos, taken with and without flash over the course of 8 or 10 hours, and I've seen the battery die after 20 flash photos taken in quick succession (under 10 minutes' time). Spacing out the time in between shots will increase battery life by huge amounts. Using the LCD extensively will also shorten life, but is an extremely handy thing to have. The camera also has an input for an AC adapter, so if you're not going far, that's also an option.
+
+Altogether, it's a great starter digital camera for the casual user or the technology addict without a lot to spend. I saw one advertised online not long ago for about $109. Buy rechargeables and a charger, maybe a spare memory card, and you're set up.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,94 @@
+DOC>
+<DOCID> 4789 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Kodak_DC-5000 </PRODUCT>
+<URL> http://www.epinions.com/content_26905972356 </URL>
+<TEXT>
+            Kodak DC5000 Zoom Digital Camera
+
+<B>Quick Specs</B>
+2.0 Megapixel (1760 x 1168 pixels)
+2x physical zoom (30 to 60 mm equivalent)
+3x digital zoom (read: less quality)
+
+4 individual modes:  Capture, Review, Setup, Transmit.
+
+
+<B>Intro</B>
+I've just completed a month's worth of testing on the DC5000 camera for both snapshot taking as well as computer controlled picture taking.
+
+The camera itself was easy enough to figure out without consulting the manual the first time I went out with it (I looked through it later), and the software installed on two PC Win98 machines with USB and grabbed pictures from the camera flawlessly.
+
+
+<B>Camera</B>
+The camera takes 4 AA batteries, and CompactFlash cards (this one came with a joke of a 8MB card).  Both the access doors to these have neat little rubber seal locking mechanisms, to protect the camera.
+The back of the camera has a color LCD screen, menu button, left, right, up, down, and Do-It buttons, a power switch (pretty easy to use), and mode dial (pretty easy to switch to something else), a Zoom control, viewfinder and two indicator lights next to it.
+The top has the shutter button (easy to press), Self-timer/Distance/Flash buttons (tiny), and the ubiquitous B&W LCD status/display panel.
+The front has the viewfinder port (this is not TTL (Through The Lens) viewing), a lens with screws for attaching filters (or MAYBE other lens bits).], light sensor, blinky light for the self-timer, and a flash that doesn't have to be popped up.
+The interesting Side has the door with access to the CompactFlash card slot, Power plug, video-out plug, and Serial/USB port.  The neck straps anchors are in the side and are really solid, too.
+The bottom has the battery door and a tripod socket.
+
+The camera has two resolutions (1760 x 1168 and 896 x 592) and three levels of JPEG compression.  Yes, you're limited to JPEG compression (that means you lose pixel data...at the highest mode you may not notice, but the more subtle the colors, the more you lose, especially as you compress it at the other two levels).
+
+The camera also has three "sharpness" levels.  These are algorithm which help define edges or blend values which run on the image data after/as the picture is taken, sort of like a Photoshop filter.  Soft, Standard, and Sharp.
+
+<B>PROS</B>
+� The DC5000 does have it's advantages:  It is rugged.  They state you can drop it from 3 feet and it'll be just fine.  I know the one I tested was knocked off my desk a couple times in it's cardboard box and it never had a problem.
+� It is weatherproofed, so when you get a little rain (or snow) during the state Cross Country finals, you don't need to run and hide.  The lens is enclosed and covered with a protective clear 'filter' so there are no moving parts exposed to the elements.  The only "moving" parts that are exposed are the various control buttons and they all seem well protected.
+� The Picture Authentication Module can test whether or not a picture that was taken with a PA camera has been altered with other products (such as Photoshop).  So anyone who's in a position where images are important (legal evidence for police, lawyers, insurance inspectors, etc.) can now guarantee that their image assets have not been tampered with.  While perhaps out of the scope of most consumers of 2.0 Megapixel cameras, this does have an important function for some commercial applications.
+� The ActiveX controls for this camera are pretty spectacular.  If you have needs of controlling this camera from a PC, you probably can do it with this controller.  C++, Visual Basic, even Macromedia Director can interface with this camera's controls easily.
+
+<B>Cons</B>
+� I disagree with several of the claims of Eastman Kodak Company in the advertising.
+ 1.  The camera doesn't really have oversized buttons, except MAYBE relative to the other Kodak cameras.  I couldn't imagine wearing a simple pair of Isotoner gloves and being able to hit most of the controls on the back of the camera.  Of course it is that weatherproofing that makes the buttons hard to press.  Just taking pictures really only requires switching the power switch (easy with gloves), (possibly) selecting the mode (not easy, not entirely hard with gloves), and pressing the shutter button (easy with gloves), so maybe that's what they are referring to.
+ 2.  The resolution isn't up to my (resolution wh�re that I am) standards.  2.0 Megapixels = 1760 x 1168.  Kodak claims that this is great "Spectacular 2-Megapixel resolution delivers excellent picture quality�even on 8" x 10" prints."(1)  But that means printing at a maximum 176 or 146 dpi, which is hardly the sort of quality I'd want to show off.  Sure, with the right interpolation software you could go to poster sized, but we're talking about the camera, not other algorithms. (and 1760x1168 is close to a 3x2 ratio, not 5x4 ratio...)  To me, an 8x10 means I'd want to have 300 dpi or 2400x3000 which is 7.2 Megapixels.
+Point: NEVER listen to "good for printing at this size" advertising.
+� JPEG compression is lossy.  This is your only option on this camera.
+� The Picture Authentication Software is hard to find on the website.(2)  As far as I can tell, any DC5000 has it built in, you just need to install the firmware to do it.  Or you can may an extra $200-300 for only with the firmware already installed (what a joke of a ripoff...).
+� The Video-Out is for going through the pictures like a slide show, or as a live video feed, but it's not possible to have the live video feed and have the camera USB port plugged into your camera.  I don't expect to have video feed constantly and be able to take pictures, but this makes it impossible to have the video feed on and take pictures without physically plugging in a cable (which kills the video feed).
+� The camera comes with a 8MB CompactFlash card.  This won't hold a whole lot of images, only around 12 at the largest resolution and least compression.  Ok, it's a joke.  You'll want to get something larger, at least 16MB.
+
+<B>Specs</B>
+CCD Resolution:  2.1 megapixel 
+Image Resolutions: 2.0 megapixel (High 1760 x 1168, Standard 896 x 592) 
+Image Quality Settings: Best, Better, Good  
+Image Storage: COMPACTFLASH Card  
+Viewfinder: Real-image optical viewfinder  
+LCD: 1.8" for preview and review  
+Lens: Auto focus 2X optical zoom and threads for optional lenses  
+Digital Enhancement: 3x digital zoom  
+Lens Focal Length: f/6.5-f/13 (30-60 mm) 35 mm equivalent  
+Focus Distance: Regular (.5M-infinity)
+Macro (1/4-1/2 meter)  
+Shutter Speed: 1/2 sec. - 1/755 sec.  
+Aperture Range: Wide: f/3.0 � f/7.6
+Tele: f/3.8 � f/9.6  
+ISO Equivalent: 100  
+Self-timer: 10 seconds  
+Tripod Mount: Standard  
+Flash: Strobe flash (auto, fill, red-eye, off) to 9.8 feet (3.0 meters)  
+File Format: JPEG/EXIF  
+Video Out: NTSC/PAL (user-selectable)  
+Special Effects: Three B/W modes, sepia mode, borders, video, NTSC/PAL  
+Interface: USB, serial, CompactFlash card  
+Power: 4 AA batteries (included) with AC adapter/charger (optional) or rechargeable batteries (optional)  
+Dimensions: WxDxH (mm)
+140 x 89 x 83  
+Certifications: FCC, CE, Ctick, IEC 529 Class 4  
+Weight: Without batteries 1.0 lbs (459 grams)  
+Warranty: One year  
+
+<B>Conclusion</B>
+This isn't a bad camera, and it's probably THE camera to take with you out into the outdoors (swamp, forest, Burning Man, etc.).  The Authentication systems could also be vital for some people.  The ActiveX control available is well stocked with features.  I realize that I may be more demanding of a camera's resolution than many, but if you aren't having needs for weatherproofing/authentication/ActiveX met with this camera, I wouldn't recommend it due to the resolution limitations.  For users like me, I'd recommend considering the DC4800 which can be had as a Refurbished model from Kodak for the same price.
+
+I'm giving this camera a 'Yes' recommendation, based upon having one of those 3 needs, only.
+
+
+<B>Footnotes:</B>
+(1) http://www.kodak.com/US/en/digital/cameras/dc5000/
+(2) http://www.kodak.com/US/en/developers/tools/07-5.jhtml
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,22 @@
+DOC>
+<DOCID> 4534 </DOCID>
+<PRODUCT> Digital_Cameras/Fuji_FinePix_F601_Digital_Camera__Camera_FINEPIXF601 </PRODUCT>
+<URL> http://www.epinions.com/content_118111178372 </URL>
+<TEXT>
+            Overall the Fuji F601 is a very nice 3MP digital camera but has one major drawback: in auto mode you need to be outdoors with a lot of light to get sharp pictures. 
+
+First the positives. The camera is very nice functionally with a few exceptions. The display is sharp but slightly too small. Takes great movies but eats up memory very quickly. On my 128MB card I only have about 5 minutes of storage. In bright daylight the picture quality is great.
+
+The negatives. The main disadvantage of this camera is that I've had many, many poor quality pictures (i.e. out of focus due to movement) because the shutter speed slows down too much in auto mode. Even outdoors when it's not sunny I have to be very careful to hold the camera just right and steady or it'll be a blown shot. Forget indoor shots without the flash. Even in well lit areas like an airport terminal the pictures will come out fuzzy without the flash. You can operate it in manual mode but going through the menus to control everything is not why I bought a compact camera. I expect quality pictures without having to fuss with every shot I take. The F601 doesn't come close to meeting this. A funny thing is that without a flash the preview display will show a well lighted, indoor preview but once it's taken the actual picture will be very dark. The zoom in/out button is also too small and difficult to operate. 
+
+The menus operate well and are intuitive. An interesting note is that if you inadvertently delete all your pictures you cannot recover them with third party recovery software. Apparently Fuji does an initialize on the smart card precluding any recovery. 
+
+The docking station and software work great.
+
+Overall I would not recommend this camera for the beginner or intermediate user because they'll end up blowing a lot of shots. I know from experience.
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

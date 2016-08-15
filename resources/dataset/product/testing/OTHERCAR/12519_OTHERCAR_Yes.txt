@@ -1,0 +1,125 @@
+DOC>
+<DOCID> 12519 </DOCID>
+<PRODUCT> Digital_Cameras/Sony_DSC_F717_Cyber_shot_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_91496418948 </URL>
+<TEXT>
+            <b> My background </b>
+
+I believe that it is important to understand the reviewer's background when it comes to a product like this since terms such as "easy to use or learn" or "difficult" are subjective.
+
+It drives me nuts when someone tells me that something is easy and then I learn that they have years of experience.  
+
+I was formally trained in photography 30+ years ago but lately I've only been taking occasional snapshots with a SLR or even disposable cameras.
+
+Aside from one brief unpleasant episode with a Sony DSC-S85 that I bought and quickly returned, I have no other experience or knowledge about digital cameras. This is the first digital camera that I have actually used and owned.  I now have nearly 3 weeks experience with digital cameras.
+
+I haven't read a book about digital cameras and knew extremely little about digital cameras at all when I purchased this camera.
+
+<b> My unfortunate experience with the DSC-S85 </b>
+
+I initially purchased the Sony DSC-S85 and intensely disliked it for a variety of reasons, most particularly the 6 second boot up time.  I wrote a brief review about this camera here: <a href="/content_89674256004">http://www.epinions.com/content_89674256004</a>
+
+Some people might say that it is not fair to compare a $400 camera to an $800 camera and to an extent they might be correct.  After all, wouldn't a $1600 camera or a $3200 camera be even better?  Perhaps, but the law of diminishing returns applies and I'm still comparing one Sony consumer camera to another.  As an analogy, I make my own pizza.  I was often buying and discarding one cheap broken pizza cutter after another.  I finally bought a restaurant quality pizza cutter that cost several times as much as the regular household utensils but it still like new after 10 years of frequent use.  Buying too cheap can be very expensive in the long run.
+ 
+<b> Initial impressions of the F717 </b>
+
+I have used the camera for about 3 weeks now and aside from a few issues, I love the camera.  The boot up time is basically non-existent -- by the time you turn on the camera and bring it up to your eye, the camera is operational.
+
+Although I expected it to be difficult to learn to use a digital camera because of my film background (and my age), I was surprised by how easy it was for me to learn most of the camera's functions within a few days. I found the menus to be fairly intuitive.  I'm still a little hazy on the usage of the histogram.
+
+<b> What comes with the camera? </b>
+
+1 32MB memory stick.  Way too limited for storing higher resolution images. I recommend buying one or two 128MB sticks.  They cost $70 each.
+
+1 long-life rechargeable battery.  I recommend buying at least one additional battery. They cost about $60 each. 
+
+A recharger. This recharges the battery in the camera. They sell devices for about $40 that will recharge batteries outside of the camera. 
+
+A camera strap.
+
+A lens cover.
+
+A cable to connect to your computer to transfer your images and a cable to connect to a television.  I spent $20 for a USB Memory Stick Reader/Writer so that the camera wouldn't have to be tethered to the computer and drain the camera's batteries.
+
+A CD that has the device driver (make sure that you don't connect the camera to the computer before installing the device driver!) and some photo programs (I haven't used them so I can't comment on them).
+
+<b> The manual </b>
+
+One would think that the manual for the Sony DSC-S85 would be more detailed and descriptive since the camera is appealing to a more entry-level user.  Unfortunately, that is the not the case.  The manual for the Sony DSC-F717 is far more helpful and includes B&W pictures (color would have been nicer) showing the effects of various settings.
+
+<b> The flash </b>
+
+I am not thrilled with the flash.  I don't like the way it pops up and I believe that if it is left open and takes even the slightest whack, it will be expensive to repair.
+
+Even at the lowest setting, the flash can be too bright.
+
+On the other hand, the flash recharges very quickly and I was able to snap one picture after another in fairly rapid succession.  I was very impressed.
+
+<b> Manual focus </b>
+
+There have been times when auto-focus didn't perform the way I wanted it to and I would have preferred to manually focus the camera myself but the screen does not have the resolution to accurately determine when the picture is in focus or not.  I guess this is where I've been spoiled by traditional SLR's.  
+
+<b> Photo quality </b>
+
+The quality of the photographs at the highest resolution setting blew me away.  Absolutely fantastic. It reminds of the sequence in Harrison Ford's film 'Blade Runner' where he keeps expanding the photographic image in the mirror.  While not quite as dramatic as the movie, I am able to zoom in to see the little details. 
+
+I found absolutely no difference in quality between the 16MB TIFF and 2MB JPEG images. Saving 16BM images takes a very long time and wastes a lot of disk space.
+
+<b> Red eye reduction </b>
+
+My advice is not to use it; it's time-consuming and distracting. Besides, there are software programs that remove the red eye effect.  The camera sends out several weak flashes that close down the iris of the subject's eyes which doesn't reflect back the red (blood) color from the back of the eye.  Not only does this add some additional time to taking the photograph, I've found that the subject tends to squint or shut their eyes altogether.  I couldn't capture a single picture of my cat with her eyes open.
+
+<b> Photographing in the dark </b>
+
+Although I don't have a real reason for taking pictures in the dark, the camera's ability to focus in the dark with the laser hologram in truly remarkable. The speed is also reasonably fast. 
+
+NightShot. I can't believe that this feature is available on a consumer camera.  I'm surprised that it would even be available to civilians.  I guess that shows you how out of touch I am with technology.  NightShot allows you to see and take black and white still photographs or movies in 100% darkness with no flash or visible lights (it uses infrared).  It's like something out of the movies. I just tried it in out in a totally dark room and while viewing images is not as good as what one sees in the movies, it is still fairly impressive.  My first few photographs came out remarkably well.  
+
+<b> White balancing </b>
+
+There are several settings to compensate for various lighting situations.  For example, setting the camera for incandescent lighting removes much of the yellow light.  There is also a manual setting using a white piece of paper for achieving near perfect white balancing.  My son taught me some of the fundamentals of Adobe Photoshop and I was able to make any additional color corrections.  As a result, I stopped worrying about trying to achieve a perfect image using the camera alone.
+
+<b> What don't I like about the camera? </b>
+
+I believe that all of the door hinges are very flimsy.  I treat them with a great deal of respect. 
+
+The 'ok' button is not too positive.  I often wind up pressing another button on the rocker by mistake when I meant to press 'ok'.
+
+The flash is often too bright even at the lowest setting.
+
+Sometimes it is difficult to auto-focus at close range even with a lot of bright light.  My camera's serial number is not within the range of the cameras that had a known auto-focus problem.  I can send the camera in for a check (there's only a 90 day labor warranty) but the turnaround time is 3 weeks and I need the camera in the meantime. I'm still not sure if it's me or the camera yet.
+
+What you see in the LCD is not what you get. Many times after I've taken a picture and reviewed it on the LCD, the image appeared to have the correct exposure but when I viewed the image on a computer it was off.  I now always bracket exposures of my important pictures either manually or by using the exposure bracket feature.  While images can be lighted or darkened with PhotoShop and other imaging software, I prefer to start with the best possible image.
+
+<b> What do I like about the camera? </b>
+
+- The speed.  Very fast and responsive.
+- Quality of images at highest resolution setting is absolutely terrific.  Images at lower resolution settings are still very good.
+- Easy to learn and use the basic functions.
+- White balancing feature (items that are white turn out white despite the lighting)
+- Spot meter and exposure lock.
+- Ability to set the area of focus (6 positions) and focus lock.
+- Battery life is extremely long and rechargeable. Extra batteries cost about $60. Recharger is included. I bought an extra battery.
+- Ability to focus in dim to complete darkness.
+- Ability to set zoom or focus with the ring on the front of the lens.  I found this particularly helpful since it is similar to traditional cameras.
+- The camera has a "point-and-click" setting so that you can hand the camera to anyone without teaching them anything more than where the shutter button is.
+- I like the feedback of the simulated shutter noise (which can be turned off).
+
+With the convenient features and simple menus of this camera, I was easily able to make the huge conceptual leap from a Nikon FTN to a digital camera.  In fact, I could never go back to the restrictions of a 35mm film camera.
+
+<b> Would I buy this camera again?</b>
+
+Yes! This camera is an absolute keeper.  The more I learn about this camera, the more I like it. I recently needed to take a variety of photographs for an expensive item I was selling on eBay.  Since the camera was so easy to use and the image quality so high, I was able to obtain terrific photographs.  The item sold on eBay for higher than we expected I believe in part due to the quality of the photographs.  One person even wrote to me and complimented the quality of the photographs. 
+
+<b>Some good sources of information about the F717</b>
+
+http://www.steves-digicams.com/2002_reviews/f717.html
+
+http://www.dpreview.com/reviews/specs/Sony/sony_dscf717.asp?dontcount=1
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

@@ -1,0 +1,37 @@
+DOC>
+<DOCID> 16287 </DOCID>
+<PRODUCT> Digital_Cameras/188278_Hewlett_Packard_PhotoSmart_C200xi </PRODUCT>
+<URL> http://www.epinions.com/content_44083875460 </URL>
+<TEXT>
+            Far too long in the world of digital photography there has been a chasm- On one side lie the high quality but spectacularly expensive cameras of the professionals, and on the other side lie the cheaper but far lower quality toys of the lower classes. Fortunately for those of us with camera budgets confined to triple digits, the HP C200 cheekily parks itself in the middle of this divide.
+
+Quality HP products rarely win awards for their atheistic. The C200 is an average looking lump of gray plastic, in this regard. For it's price, however, it delivers stellar performance.
+
+The C200 has a true optical resolution of one megapixel. A megapixel is the term used to describe a picture made of one million pixels, or an image size of 1152 x 872. This resolution is good enough for any 3 x 5 inch print, and probably a good deal larger with a decent printer. In budget cameras, resolution comes as a premium- Often a manufacturer will quote a resolution that is far beyond the real capabilities of the camera. The picture you take with one of these is scaled up to the quoted size on your computer after you download the pictures from the camera, which sacrifices a great deal of image quality. The C200 pulls none of these tricks, instead delivering exactly one megapixel per shot. Images are clear, and have good color depth. Most shots are comparable to the output of any off-the-shelf 35mm film camera, which is once again very remarkable for a digicam in this class. (Get used to that, you're going to hear it a lot in this review.)
+
+This camera stores its pictures on a fairly universally compatible CompactFlash card, and unlike many cheapo digicams does not require charged batteries to hold it's picture information. It comes with a 8 megabyte card, which is very remarkable considering the usual 2 or 3 megs that most budget cameras give you. The impatient sorts can remove the card and insert it into a handheld PC or card reader to look at their images in a larger screen. This is in fact preferable- To get the pictures from the camera to your PC you need to use the included serial cable. Serial connections are slow, and it can take some time for your PC to suck a full card's worth of pictures down that wire.
+
+The C200's screen is nothing remarkable. It displays whatever the camera happens to be pointing at if you have it turned on while the lens cover is open, and it shows the images stored in the camera's CompactFlash memory card when the cover is closed. Though the on screen menu you can mark, delete, and preview images, as well as set your zoom and manual exposure controls. The number of shots remaining, as well as your current image quality and flash settings are displayed on a separate black and white LCD on the top of the camera.
+
+One of the most interesting features of the C200 are the manual exposure settings. Employing an option found in the on-screen menu, one can set the camera to take a long exposure for low light situations, or a short one for very brightly lit scenes. This is quite a useful little option to have in places like museums and parks where people get picky about your usage of a flash.
+
+The most apparent shortcoming with the C200 is its lack of an optical zoom. The camera sports a 2x digital zoom, accessible through the menu, but nothing optical. There is an important difference between digital and optical zooms that every consumer should be aware of: Optical zooms enlarge the image by manipulating the lens of the camera to change its focal length, and increase the picture of the image projected on the film or image sensor. Optical zooms are the "real deal". They don't distort or pixelate the picture, being purely optical. Digital zooms are another story. A digital zoom uses a computer to enlarge the image. The original image for a digitally zoomed and an unzoomed picture are the same, so digitally zooming in on a picture does NOT increase its detail. Since digital pictures are made of squares of color, devices that digitally zoom an image have to guess what the colors between the squares are. Though this can work tolerably well up to a point, an image digitally zoomed beyond 2x is generally worthless and no better than the unzoomed version of the same thing. The C200 does a good job, as far as digital zooms go, but it's no optical zoom.
+
+To atone of this, HP offers add-on lenses for the C200, ranging from the mundane 2x to the utterly insane (for a camera of this caliber) 32x. These lenses are cheap, so I suggest you pick one or two up.
+
+When taking a picture with the C200, there is a delay of a second or two between the time you press the shutter button and the time the camera actually takes the picture. During this time the camera is adjusting its focus. You can eliminate this delay by pressing the shutter button halfway. After the camera settles itself, pressing the button the rest of the way will result in an instant shot. Be forewarned- The default mode of the camera is "infinity focus", which lacks a real focal point. Though this setting is good for most outdoor or portrait shots, for real detail you need to set the camera for "automatic focus" mode. In auto focus mode the camera will fairly accurately focus on whatever it is pointed at when you press the shutter halfway, and keeps that setting until you press the button the rest of the way to take the shot, or release it to abort the focus. Auto focus mode will also allow the camera to take macro shots (close up pictures of small subjects) if the camera is closer than eight inches to the target. Unfortunately, none of this is documented in the camera's instructions. Consider it a hidden feature.
+
+The lens of the C200 is offset to the left of the camera, which can make macro shots rather irksome when you are trying to use the viewfinder. The optical viewfinder is more towards the center of the camera, which makes it accurate for medium and long range shots, but inadequate for close up work. Luckily, the LCD screen shows exactly what the final picture will be when you take it, which is more than I can say for just about every Polaroid camera ever made.
+
+Battery life is very good for a digital camera (their high current drains are notorious for sucking batteries dry in short order), yielding perhaps 250 shots between changes, and even more if you use NiCad or NiMh rechargables.
+
+Now for the part that will really get you interested: When I got my C200 the price was near 200 dollars. However, the last time checked the price of C200's had fallen below the 140 dollar mark. For the money you pay, the C200 is indeed quite a lot of camera.
+
+Recommended.
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

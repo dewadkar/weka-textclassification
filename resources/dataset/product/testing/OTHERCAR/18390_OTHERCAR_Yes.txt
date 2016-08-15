@@ -1,0 +1,42 @@
+DOC>
+<DOCID> 18390 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Vivitar_ViviCam_3500 </PRODUCT>
+<URL> http://www.epinions.com/content_29361081988 </URL>
+<TEXT>
+              I don't like to get pictures developed so I decided a digital camera was my best option. I found a new Vivitar ViviCam 3500 at auction for $100, so I bought it. 
+
+  The ViviCam is small(about 2 1/2 inches tall by 4 1/2 inches wide and a little over a inch deep) and very well built. It comes with a 8mb card for storing pictures and built in flash. It has a 7mm F5.6 macro lens with 2x zoom and a small 2 inch LCD color display. To operate it requires 4 AA batteries and that is it. All cables and 110 plug in AC adaptor is included along with a wrist strap and soft case. There is even a cable included to show pictures on your t.v through RCA inputs.
+
+  Being new to the digital camera area it took me awhile to get the best picture results and set up the time, date, options, etc. There are 3 quality setting for your pictures and the less quality you pick, the more your smart card will store. With a 8 m.b card you can store 70 economy pictures, 40 in normal mode, and 20 in fine mode. I prefer the fine mode for highest resolution and real looking digital pictures. The maximum size memory card for the Vivicam 3500 is 48m.b and are pretty cheap(around $30). There is also many features on the 3500 worth writing about. One is the self timer that comes in handy, the time/date stamp on pictures, t.v outputs, flash, macro mode for close ups, auto white balance, image erase protection, and zoom(2x)to name a few. It is also a 1.5 megapixel and comes with the software for downloading and printing pictures on your computer(MGI Photsuite SE).
+
+ I really like the Vivitar and it's ease of use. I wish the zoom was more than 2x though. One thing to note, in a dark room you can't see anything on the LCD so you have to make sure you use the viewfinder. Also, keep your hand real steady when taking the pictures for best results. there is also a setting to take 9 pictures one after another, which is great for getting just the right picture.
+
+  The things I do not like about the Vivicam 3500 is that there is no protection from the lens getting scratches and when you use the flash, the camera takes a few second to recharge the flash again. Also, the battery life is very low and goes through batteries very fast. Especially if you view your pictures after you take them.
+
+  All in all I would recommend the ViviCam 3500 to a novice in the digital picture arena and if you can find it for $100 to anyone, it is well worth it.
+
+
+Update 5/27/02
+  After using this camera for awhile now I have found a few things I would like to add. First, if you use this camera a lot, buy rechargable batteries. If I take enough pictures to fill the 8 m.b card that comes with the camera and review them, the batteries are used up. Also, this camera works on twain drivers to download to your computer, but the drivers do not work in windows XP. So if you use XP and want this camera, you will need to buy a card reader for your system to download the pictures. Other than those two things I just mentioned, this has been a excellent camera and has held up the abuse I have thrown out to it.
+
+Requirements for computer use are as follows:
+
+Pentium 200 mmx cpu or higher
+32 MB or more ram
+SVGA color display
+Windows 95 0r 98, also I have Windows ME and it works fine
+Application software must be compatible with Twain protocol
+
+MACINTOSH requirements:
+
+System 7.5 or later
+Power Mac
+32 MB of ram or above
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

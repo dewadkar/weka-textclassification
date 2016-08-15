@@ -1,0 +1,65 @@
+DOC>
+<DOCID> 21536 </DOCID>
+<PRODUCT> Digital_Cameras/Canon_Powershot_S200_Digital_Zoom_Camera__Camera_7646A001 </PRODUCT>
+<URL> http://www.epinions.com/content_66075266692 </URL>
+<TEXT>
+            Canon's PowerShot S200 Digital ELPH
+
+What a great camera! Its small size, metal casing, great picture quality, and compact flash memory more than make up for the problems I have with the software.
+
+Before you buy a digital camera you really should decide what you want out of a camera. I currently own and use 4 different cameras. Each one fits a need.
+
+This camera is a point and click snapshot camera that will make the average computer/Internet user very happy. It is not a professional level camera to be used to take glossy pictures to be blown up or sold as art. It is not a cheap little thing that produces grainy images that you have to strain at to figure out.
+
+What it will do is allow anyone with basic computer skills and the ability to frame a decent picture take great in-the-moment pictures of their friends and family. Then if you want you can email those pictures around the world and print them out with an inexpensive ink jet printer at sizes up to 8 x 10.
+
+At 2.1 Megapixels with a maximum image size of 1600 x 1200 this camera should only be compared with point-and-shoot cameras intended for snapshots and family photos. At around $350 this camera is very competitive even against APS based film cameras once you add in the cost of developing a years worth of photos.
+
+<b>What To Buy</b>
+I highly recommend that you do not just buy the camera and think that you are done. You should also buy another battery, at least a 128 MB memory card, and something nice to carry the camera, extra battery, and battery charger in.
+
+<b>Pictures</b>
+The pictures that this little camera takes are fantastic. You will never want to go back to a film-based camera again. Blues and greens are reproduced exceptionally well and reds are reproduced better than other cameras in the same class. Just like other digital cameras there are some problems reproducing subtle shadows, but when taking snapshots of the family having fun, this will never be noticed.
+
+<b>Memory Cards</b>
+With a 128 MB memory card you can expect to get about 100 pictures with the highest quality settings. The subject of your pictures has a real bearing on the file size of the image. A 1600 x 1200 image that is mostly sky or other solid color may be as small as 492k and a picture with a lot of detail, like grass, can be 1,200k.
+
+There are now memory cards available in the 512 MB range available in most stores selling this camera, memory cards in even larger sizes are available elsewhere. I do not believe in ever removing the memory card from the camera and chance loosing or damaging it. So I suggest you buy a memory card large enough to hold all of the pictures you are like to take while away from a computer that you can download to. 128 MB would be a minimum and anything over 512 MB would probably be overkill for most.
+
+This camera will <b>NOT</b> accept the IBM Microdrive in its 1 GB format. (Sorry I had that wrong)
+
+<b>Battery Life</b>
+I am usually able to get 75+ pictures in a day out of a single battery charge using the LCD view finder exclusively.
+
+The recharger that comes with the camera is very nice. It is just a brick about the same size as the camera, that plugs into an outlet and the battery drops into the brick. A light on the charger will tell you that the battery is charging and will go out when the battery is ready for use.
+
+The only problem with the charger is that its brick like shape makes it difficult to use on an outlet with other items plugged into the same outlet. Not a real problem, just not always convenient.
+
+<b>Video</b>
+The camera is capable of taking AVI videos with sound. This is a really neat feature and is handy for emailing short footage of friends and family. But you are limited by the internal memory of the camera to 3,800k or so. Meaning that your videos will be really short, under 8 seconds, or really small, 160 x 120. Again, the detail in the picture can make a big difference in how much time you can shoot.
+
+The quality of the movies is definitely good, but the limited length of the movies is a problem for me. I choose to not use the movie feature very much and just focus on how great of a still camera it is.
+
+<b>Software</b>
+Here comes the only bombshell. You must have software installed on any PC that you want to use to download pictures from the camera. This software <b>IS NOT</b> available from the Canon web site, although a TWAIN driver is.
+
+But once the software is set up and you have given it a place to put the pictures it downloads everything is automated. You plug the cable into the camera and turn the camera on, then plug the cable into your PC and the software launches automatically and asks if you would like to download the pictures from the camera.
+
+After awhile the pictures are finished downloading and available on your hard drive ready for manipulation separated into folders named by the date that the images were downloaded.
+
+I do not use the software for anything other than downloading the pictures to my hard drive. Any further image manipulation is done with Adobe PhotoShop.
+
+I would prefer that all digital cameras acted as USB Storage Devices and appeared as another removable drive when plugged in, removing the need for any software other than a basic driver.
+
+<b>Conclusion</b>
+This is a great little camera that travels well and takes wonderful snapshots. It should make the tourist, parent, or partygoer in all of us very happy.
+
+For a much more detailed review I highly recommend Steve's DigiCams Camera Reviews.
+http://www.steves-digicams.com/hardware_reviews.html
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

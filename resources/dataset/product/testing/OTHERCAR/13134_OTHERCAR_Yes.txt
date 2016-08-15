@@ -1,0 +1,20 @@
+DOC>
+<DOCID> 13134 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Minolta_Dimage_E323_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_128610438788 </URL>
+<TEXT>
+            When I started looking at zoom digital cameras I was considering a 2Mp camera. I then found the Minolta E323 at around the same price point as many 2Mp cameras. It is possible to get 3Mp zoom cameras around this price but not many from recognized camera companies.
+
+It actually looks better in the flesh than any of the pictures I've seen of it. It's a very simple layout with most functions being controlled by on screen menus. Being long sighted I would actually prefer a control dial for the basic picture modes as I wouldn't need my glasses for the most common functions.
+
+I did consider a more advanced camera with more manual control. In the end I decided that if I needed that level of control I'd use my film SLR. I want to use this camera for simple point and shoot situations and decided my money was better used buying more resolution, which I'll use on every shot, than on features I'll use very rarely.
+
+I think the one function I really miss is the ability to set the ISO manually. Using the EXIF data I can see what ISO setting was used, the shutter speed and aperture. There have been a few occasions when I would have chosen to use a higher ISO and therefore a higher shutter speed than the camera selected. I haven't yet figured out how the software selects the ISO setting but it generally seems to go for the lowest setting possible. 
+
+What really matters of course is the results and I am very pleased with these. Provided there is enough daylight or else I stay within the range of the small built in flash the pictures are as good as I would want.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

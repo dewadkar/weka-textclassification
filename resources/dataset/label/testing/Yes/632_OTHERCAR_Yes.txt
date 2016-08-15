@@ -1,0 +1,41 @@
+DOC>
+<DOCID> 632 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_NikonCoolpixx-Nikon_Coolpix_950 </PRODUCT>
+<URL> http://www.epinions.com/content_24623353476 </URL>
+<TEXT>
+            This is the camera I've been waiting 25 years for.
+
+When I was a little kid, I got a camera as a present. After spending the day carefully composing and shooting dozens of photos, the awful truth was revealed -- cameras need FILM! In a huff, I decided to shelve my photo ambitions until Nikon produced the Coolpix 950.
+
+Other reviews can help you decide whether this camera has the features you need, or is easy enough to use. I am going to focus on the essential aspect of brightness, which is the trickiest thing about this camera.
+
+By default, I found almost all outdoor pictures come out too dark on my computer screen. They look fine on a composite monitor or TV using the camera's video output. This requires basically the same adjustment for each photo: compressing the dynamic range so that the lighter areas get brighter while the darker areas stay the same. This brings out detail that's otherwise hidden in shadows, and makes the colours much truer. I use either Image Composer from Microsoft (the only part of FrontPage that's worthwhile) or the latest version of Acdsee which features photo enhancement features.
+
+You could increase the exposure while taking the picture. The exposure variation (EV) control -- the dial on the front for your right index finger -- is about the only control that I twiddle on a regular basis. But I prefer to play it safe and shoot a little dark because a dark picture can be recovered, while a washed-out picture is ruined. Another safeguard is to take two variations of any photo with bright lighting:
+
+* Take one metered directly on the subject, point and click at the same spot.
+
+* Take the other with the shutter release pressed halfway while pointed at some uniformly dark or light area of the scene. Then bring the subject into view and press the button the rest of the way. This may help avoid bad metering for scenes with lots of reflected light or backlighting.
+
+Indoor pictures have their own lighting considerations:
+
+* I find the camera does well where the subject is in range of the flash. As a safeguard, take one picture with flash and one without, because the camera is good about adjusting exposure on no-flash pictures, even in low light.
+
+* In a museum or other setting where flash is prohibited, use the "best shot" setting and take a dozen pictures while holding down the shutter release. Otherwise you might find the picture is out of focus because of camera jiggle, which is magnified when the camera lengthens the exposure to adjust for low light.
+
+* Also in museums, aquariums, etc. where the subject is behind a transparent barrier, make frequent use of the manual focus feature, where you use the dial to set focus to 1 foot, 2 feet, etc.
+
+My one beef with the way the camera operates is that the "LCD on/off" control is only available in manual mode. In point-and-shoot mode, the LCD always turns on by default. This is the opposite of the way it should be -- most of the time in point-and-shoot mode, I can just use the optical viewfinder since I'm not likely to need the on-screen menus. While in manual mode, I'm always switching between continuous/best-shot, sunny/automatic metering, etc.
+
+The motor that controls the focus died relatively early, and Nikon replaced it under warranty. I also got them to upgrade the firmware. The newer firmware does make the LCD brighter. To use it outdoors, you do need to up the brightness also using the on-screen menu. Since the firmware upgrade though,
+
+* The flash absolutely will not fire in manual mode.
+* Occasionally if I shoot a very bright subject with an exposure the camera strongly disagrees with, it locks up and requires popping out the memory card.
+
+Despite these complaints, I love this camera and the freedom from film. On a long-weekend vacation I might shoot about 1000 photos, of which about 40 make it into the album. Next up is an Epson 875DC so I can make my own prints. (Sorry Shutterfly!)
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

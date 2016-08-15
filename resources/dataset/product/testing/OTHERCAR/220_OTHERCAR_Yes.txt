@@ -1,0 +1,88 @@
+DOC>
+<DOCID> 220 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_Powershot_G1 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-7DEC-26D0D598-3A3C87E7-prod2 </URL>
+<TEXT>
+            When I decided to get a digital camera, I made up a base set of criteria
+(pretty minimal!):
+
+- True 3.1 megapixel resolution
+- Raw or TIFF file format, and a solid low-compression JPEG setting
+- Minimal shutter release/autofocus lag time
+- Accurate and predictable autoexposure and autofocus
+- Good optics, good color rendition/saturation
+- Ability to override white balance
+- Good point-and-shoot capabilities, but also the ability to go to full manual mode
+
+Based on various reviews, I narrowed the field to three cameras: Olympus C3030Z/3000Z, Nikon CoolPix 990, and the Canon Powershot G-1.
+
+Prior to buying the G-1, I had the opportunity to use the Olympus C3000Z for a week, and the Nikon CoolPix 990 for a weekend. All three are excellent cameras, but each has its own peculiarities. Overall, I liked the Canon best. The G-1 came out only recently, and it seems like Canon 
+took advantage of the delay to address a lot of things the other two 
+overlooked.
+
+Here are the things I didn't like about the Olympus:
+- Forgets custom settings when turned off
+- Top LCD has little information on it
+- The lens barrel has to extend even in playback mode
+- Proprietary external flash synch connector
+- No flash shoe, so external flash requires flash bracket
+- No lens cap leash
+- Short battery life
+- Rechargeable battery and charger NOT supplied
+- White balance is pre-set, and can not be fine-tuned
+- Smart Media memory - 64 MB max capacity
+- Weak Optical viewfinder
+- Internal flash is borderline
+
+Here are the things I didn't like about the Nikon:
+- Controls not laid out as well as the C3000. It was harder for me to use quickly.
+- Price - $999 locally (San Diego)
+- Extremely difficult to extract the Compact Flash card
+- No flash shoe, so external flash requires a flash bracket
+- No lens cap leash
+- Short battery life
+- Rechargeable battery and charger NOT supplied
+- Remote release is wired (not IR), and is not supplied
+- LCD display has a noticeable lag tracking moving images under low light
+- Weak Optical viewfinder
+- Internal flash is borderline
+
+The G-1 addresses a lot of these things:
+- Custom settings remembered
+- Full info on top LCD
+- Lens stays retracted during playback
+- Regular flash shoe with advanced connections for Canon Speedlites
+- Lens cap leash
+- Uses a hi-capacity rechargeable Lithium battery for extended use, and an AC recharger is included
+- Accepts standard Compact Flash, also type II micro-drives
+- Price is less than either the C3030 or CoolPix 990 (but more than the C3000)
+- IR remote is included
+
+It also has a bunch of small features that seem to work well:
+- The flip-out LCD is great! It rotates so that it is protected when closed, or can be rotated so you can see it when in front of the camera (great for self-portraits, family shots with squirmy kids).
+- Uses a separate small light to assist the autofocus in low light
+- Has a white-balance sampling mode - when adjusting white balance, you can put it in a mode where all you have to do is frame a white surface in an LCD &quot;spot meter&quot; bracket, and the camera adjusts white balance for you.
+- ISO 50, as well as 100, 200, 400
+- I found the user interface to be the easiest to use of the three
+- Supplied strap can be used either as a neck strap or a wrist strap
+- You can adjust the LCD image review delay to 2 or 10 seconds, as well as &quot;Off&quot;.
+- Includes a basic image-management database system in the software package, as well as the usual Photoshop LE.
+
+Many people have criticized the rubber door shielding the USB port and the AC power plug as &quot;designed to be broken&quot;. Perhaps so, but I am probably going to be using a CF reader rather than the USB port, and will probably buy the external battery charger anyway. 
+
+G-1 Annoyances:
+- Any shutter speed over 1/500 sec is restricted to F8. Is this why they added ISO 50? Not an issue for most of the pictures I take.
+- Wish they would have included a soft case
+- Weak optical viewfinder
+- Internal flash is borderline, but at least it has a built in flash shoe! I bought a Speedlite 200EX and am extremely happy with it. It is small, plenty of power for quick snapshots, and has full integration with the G-1. It does take a little monkeying with the flash exposure controls to prevent overexposure in certain conditions.
+- Manual focus does not show actual distance, and macro mode manual focusing does not have a magnifier function (Olympus and Nikon both show a magnified image in the LCD to facilitate manual focus in macro mode.)
+
+It is as fast or faster on the shutter release lag than the other two cameras. For the photos I take, image quality is on par with the other two. That is to say: extremely satisfying. I wouldn't go as far as some of the other people in saying a 3.3 megapixel camera is a replacement for 35mm, but it is very, very, very close at print sizes up to 8 x 10/ 11 x 14, and the convenience of instant review and the power of digital editing can not be overstated.
+
+Overall, I am very satisfied with the camera, and would highly recommend it.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

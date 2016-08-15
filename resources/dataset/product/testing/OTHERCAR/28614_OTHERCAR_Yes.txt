@@ -1,0 +1,73 @@
+DOC>
+<DOCID> 28614 </DOCID>
+<PRODUCT> Digital_Cameras/Fuji_Finepix_a101_DIG_cam_1_3Mp_8MB__Camera_FP_A101 </PRODUCT>
+<URL> http://www.epinions.com/content_49018867332 </URL>
+<TEXT>
+            This camera was a winner after my research for one-mega-pixel, under $200 class compact digital cameras.
+It has nice features, delivers good quality and is very compact (pocket-compatible).
+
+The camera is a 1.31 mega-pixel CCD and fixed (no-zoom) lens camera with 1.6 inch LCD monitor and flash. The camera has advanced Fuji technology for finer color pixels (see Fuji website for more info). This is supposed to produce more realistic and finer color resolution pictures.
+
+<b>In the box: All you need to get started</b>
+
+The box comes with the camera, wrist strap, set of two AA batteries, 8MB SmartMedia card, USB cable, CD-ROM with the FinePix software and drivers, and documentation (registration and warranty cards, user's manual for the camera and user's manual for the software).
+
+This is all you need to start taking pictures. To print them you need a PC with USB port and MS Windows.
+
+Items NOT included (but desired) are: power adapter for the camera, larger SmartMedia card, camera case, rechargeable batteries and charger. I got 3v power adapter for Fuji cameras (DigiPower Solutions ACD-FJ3, bought at CompUSA, $25). The adapter package says that it is meant only for Fuji FinePix 4700 camera, however, if you check the Web, you will find out that it is compatible with many 3-volt Fuji cameras, including FinePix A101. The adapter works great, it is also European-voltage (110-220V) compatible, so you can use it when you travel.
+
+Note, I also tried generic (cheap) power adapter with 3V selected, however the camera just beeped but did not work. My guess is that the adapter has to have a decent voltage precision and stabilizer for it to work (and not to damage the camera).
+
+<b>Basic features: Nice and simple</b>
+
+FinePix A101 will make shots with or without flash, as needed. The picture quality modes are "Fine-Normal-Basic" at 1280x960 resolution, and "Normal" at 640x480 pixels (VGA). The camera will focus between 2.6 feet to infinity.
+
+The time between shots is close to negligible, and the flash recharging time is quite fast. One can even record a movie, however with no sound and limited resolution.
+
+The pictures can be reviewed and deleted on the camera. However for that you need to watch them on the LCD, and that will drain the batteries!
+
+<b>Advanced features: Nice, if you care</b>
+
+You can play with exposition time, 6-selectable white balance, five flash modes (Forced on, forced off, red eye (not very effective), automatic, slow-sync). This way you can achieve quite nice effects, for instance if you want to make a portrait with dark foreground and bright background, such as people at sunset on an ocean beach. The users manual has nice suggestions with example pictures on how to use the advanced modes.
+
+There is a macro-switch for the camera that allows close-up shots at a distance between 3.1 to 5.9 inches (for flowers, bugs :-)). There is also a 2x digital zoom.
+
+The camera is capable to shoot video at 320x240 pixels and 10 frames per second. However, as expected, this is very memory consuming. Also, the camera does not record sound.
+
+Camera can also be used as a web-cam, for instance, for video conferencing. Except you will still need your own microphone attached to your computer (unless you speak sign language).
+
+<b>User interface: Easy</b>
+
+The camera has the following buttons: four arrows for menu navigation, "Menu/OK" button and "Back" button. There is also a "Disp" button to turn on/off the LCD display. I suggest you keep the LCD off when possible, that way a lot more pictures can be taken with the same set of batteries, even when the camera tells you that the batteries are low. Finally, there is also the button, which you press to take the pictures :-)
+
+Thus there are no too many and confusing buttons. All the menus are easy to navigate, and they can be viewed on the color LCD display. The camera has two built-in languages: English and French, selectable in the setup menu. However most of the menu items are iconic and intuitive.
+
+<b>Transfer to computer: Fast</b>
+
+The transfer of the digital pictures to a computer can be done via USB cable. The transfer is very fast (a few seconds for the whole 8MB SmartMedia card, which is included in the package). Alternative is to take the SmartMedia card out and use some adapter to transfer the files. However I do not think you will gain much performance this way. 
+
+The picture file format is JPEG. File sizes range between 100K and 900K depending on the picture size and quality. This way you can fit between 80 and 8 pictures on the included SmartMedia memory card.
+
+It is recommended that the camera is powered with power adapter instead of the batteries during the file transfer, just to make sure the batteries will not die in the middle of the transfer. See above my suggestion on which adapter to use.
+
+As soon as you plug the camera in the USB port, the picture-preview and transfer program starts automatically. It will allow you to manipulate the pictures, and rename them according the date and time they were taken (you can customize this). This way every picture will have the time-stamp in its file name.
+
+Once the camera is turned on and plugged into USB port, it is recognized as an external removable drive. Thus you can copy and delete picture files any way you want, with or without the software.
+
+<b>The software: Simple</b>
+
+The camera comes with a software bundle. There are programs for transferring and viewing photos, simple editing. Driver for the USB connection. Nice software to print photos. You can choose many templates, for instance to print 3 same-sized photos on a letter sized page, or one bigger, a few smaller an a few tiny pictures on the same page. The pictures can be the same or different. That way you can save the expensive photo paper by choosing the most appropriate picture variety, sizes and layout. This was quite useful, I could even print pictures that I had from other sources.
+
+The software does not include any sophisticated features, however it has very simple interface.
+
+<b>My experience: Happy :-)</b>
+
+I am very satisfied with the camera. It was bought as a present to relatives, so that they could take pictures and send them over the email. Therefore, the pictures had to be compact, good quality and camera had to be intuitive and easy to use. The camera stood all the tests, including the pictures with or without flash. The only disappointment was that the red-eye reduction was not very efficient. But one can make it up with a decent picture post-processing software (however not included in the package). 
+The ultimate test was to make a photo and prepare a print for Letter-size-paper picture, which was transferred on a T-shirt. The results are very nice.
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

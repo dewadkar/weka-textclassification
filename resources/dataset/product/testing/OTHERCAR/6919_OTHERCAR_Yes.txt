@@ -1,0 +1,80 @@
+DOC>
+<DOCID> 6919 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Honda_Insight </PRODUCT>
+<URL> http://www.epinions.com/content_34659929732 </URL>
+<TEXT>
+            Q: Is this an electric car?  
+A: Yes and no.  It has a hybrid drive system. Think of it as about half electric, half gasoline powered.
+ 
+Q: Do you ever have to plug it in?  
+A: No!  That's what's so great about it.  It makes it's own electricity out of energy that's normally wasted when braking (slowing down) or cruising.  This is a very practical car for today!
+ 
+Q: How many miles per gallon does it get?
+A:
+    a) you get 55-60+MPG around town (seriously)
+    b) you can get 75MPG if you're on a long highway trip and never break the law (stay at 65-70 MPH)on mostly flat surfaces
+    c) if you drive it really fast and hard, it still gets 48.5 MPG 
+    d) I average about 52 MPG because I like to drive it pretty aggressively!
+ 
+Q: Fuel type?
+A:  87 octane gas + self generated electricity
+ 
+Q: How far can you go on a tank?  
+A:
+    a) 10 gallons gets you between 480 and 750 miles (!)
+    b) I've done LA to SF on 3/4 of a tank...for about 13 bucks.  Sure beats a Land Rover ($88...11 MPG on 92 octane gas)!
+    c) I've beaten a friend to SF from LA...he was driving a Porsche 911...I beat him because he had to stop twice for fuel and there was the usual traffic preventing him from going much faster than me.
+ 
+Q: How fast is it?
+A:
+    a) O-60 in less around 8 seconds if you really stand on it.
+    b) top sustainable cruise:  103 MPH -- and yes that was on a private track ;-)
+    c) top-top speed:  112...I've had it to 107 (also on a private track)�ahem.
+ 
+Q: What kind of motor does it have?
+A:  It has two motors:
+    a) a small internal combustion motor: 3 cylinder, 1.1 liter, 4 valves per cylinder, Honda VTEC technology...very clean.
+    b) a smaller electric motor: permanent magnets bonded to the drive shaft of the gas motor.
+    The motors are on the same drive shaft and integrated into the same engine housing.  Small, light, powerful�the equivalent of around 110 shaft horse power combined.
+ 
+Q: Where does the electricity come from?
+A: Two sources:
+    a) regenerative braking: the energy from going fast gets turned into electricity by reversing the polarity of the electric motor when you hit the brakes...it turns into a generator and voila!, free saved energy that's stored in a battery pack right behind the seats
+    b) when you are driving at normal speed and the onboard computer senses you don�t need all the gas engine's horse power for moving along, the electric motor is turned into a generator. 
+ 
+Q:  Is it hard to drive?  
+A:  No.  Except for its futuristic looks, you'd never know it was different from any other car.  There is a great piece of software that handles all the calculations about whether you need electric boost power or whether it's time to turn the electric motor into a generator.  Note:  It's a 5-speed manual, but Honda is coming out with an automatic soon.
+ 
+Q:  How much does it weigh?  
+A:  It's very light...a little over 1,800 pounds.  Many of its body parts are made of aluminum & space age plastics.
+ 
+Q: Is it safe?  
+A:  I think so.  Honda claim's it's as safe as an Accord...one of the safest cars on the road.  It has two airbags, and front & aft crumple zones.  It�s very light, so it stops faster than just about any other car I've ever driven...more like a motor cycle with four wheels worth of traction.  It also has anti-lock-brakes...so you can stop on a dime without swerving.
+ 
+Q: Is it practical?  
+A:  It holds two grown-ups and 10 bags of groceries and it has plenty of room for a weekend's worth of skis and gear.  It has great air conditioning and an OK stereo/CD changer (don't leave out the rear speaker option!).  It's just like any other car, but way better for the environment and your pocket book.
+ 
+Q: How does it drive?  
+A:  It's very nimble -- one of the most fun cars I've ever had.  It's low center of gravity and light weight let you blow past most other cars on twisty roads...and it's really comfortable and quiet on the highway -- all the way to over 100MPH because it's so aerodynamic.
+ 
+Q: How much does it cost?
+A: About $20,000 -- depends on the options you add.
+ 
+Q: Does it really turn off its engine at stop lights?  
+A:  Yes.  If you're not in 1st gear, the gas engine turns off whenever you stop.  But remember, you've got a powerful electric motor that can get you going...so the second you put the car in gear, the electric motor gives you power *and* starts the gas engine  (they're on the same drive shaft)�it�s very elegant, and very quiet!
+ 
+Q: Does any other company make a similar vehicle?  
+A: Yes.  Toyota makes the Prius, which is a bit bigger and has four doors.  Ford is making a hybrid drive Explorer...but don't hold your breath until that gets to market. There's also a hybrid drive Hummer under development by the US Military and Unique Mobility that doubles the cruise range, MPG, and max climb speed up a 60 degree hill (yikes).  It uses a 1.9 liter diesel generator (55KW) coupled via batteries only (unlike the Honda where the gas motor and electric motor are mechanically coupled by a common drive shaft) and four 100KW electric traction motors.  This one is definitley not coming to civilans any time soon.
+ 
+Q:  Does the government offer any rebates to buyers of these cars?  
+A: Not yet. As usual, the government is a bit behind on this one.  I figure they'll get around to it now that electricity is so scarce.  
+ 
+For more info see Honda's web site:
+http://www.honda.com
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

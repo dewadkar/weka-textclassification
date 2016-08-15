@@ -1,0 +1,83 @@
+DOC>
+<DOCID> 32687 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Minolta_Dimage_A1_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_117229784708 </URL>
+<TEXT>
+            I have had this camera for about a week now, and I have tested it indoors and out, in a variety of lighting and shooting scenarios from sports to portraits.  I never tried the Minolta 7 series models that the A1 replaces, so you will not see me drawing comparisons based on experience. Although I hear the A1 is a major step up from the 7 series cameras in terms of battery life, quality of the EVF, and a few other features.
+
+Spec info is abundant in magazines and on the web &#150 but here are some of the things that I view as key highlights that make this camera special compared to some others in this price range and feature set:
+
+Anti Shake Feature: The CCD actually sits on tiny pistons that adjust for your body movement when shooting. I found it to work extremely well - surprisingly so. Especially in low light and at the limit of the optical zoom, the difference was noticeable. However there are limits - it cannot compensate for an unlimited amount of movement (as one might sensibly expect). But for the typical issues of blurry shots in low light and in telephoto where shooting by hand it makes a world of difference.
+
+Flex Focus Point: Allows you to pinpoint the focus area within a shot via the control pad on the back of the camera. 
+
+Focus Tracking: Once setting the focus subject within the shot, the camera will automatically continuously focus on the subject so that even movement towards or away from you as you depress the shutter release does not result in an out of focus picture. 
+
+Shutter speed from 30 seconds up to 1/16000 second! No that is not a typo. 16,000. That is fast enough to freeze an Indy car moving at top speed.
+
+Zoom Lens (7x optical) is manually controlled. I like this &#150 it gives me full control of speed of zoom and saves on battery power. Also no annoying whine of a motor moving the lens in and out. Also there is a manual focus ring for when you need to take focusing matters into your own hands.
+
+AF activation sensor on the grip. When set to continuous AF, you can set the camera so that it only starts the AF when your hand is on the grip. This saves battery power.
+
+EVF rotates a full 90 degrees for more comfort when using the eyepiece at odd angles. Also the EVF is quite good. One of the best I have seen.
+
+EVF is hooded somewhat and works very well in bright outdoor light (a problem with other EVF's I have seen - the image can get washed out in bright outdoor scenarios). The A1 does not have this problem.
+
+Sensor automatically switches between EVF and rear view screen when you put your eye to the eyepiece.
+
+Lens takes a standard 49mm filter. No adapter or anything needed. I know this might sound like a small thing but it is annoying to me that so many other high end compact digitals in this price range require adapter kits for filters (or cannot take a filter at all). I like at least a UV filter on my lenses so that they are protected.
+
+When doing movie clips (Quicktime, 28fps, 320 x 240 up to 15 min with mono sound) you can also zoom in and out. Some other big zoom digitals that do movies do not allow you to change the zoom once you start filming.
+
+When AF is on you can still do manual focus adjustments via a manual focus ring on the lens. This feature is called "direct manual focus". This is fantastic for those situations where the AF is bamboozled - and locks up and won't focus right (which I find to be a rare occurrence -but nonetheless the situation does arise on occasion). With this feature turned on, you can quickly tweak the focus to get it right. You can even dynamically magnify the shot before taking it, to aid in making sure your focus is tight.
+
+Comes with lens hood for bright outdoors. This is a nice extra.
+
+Comes with a nice, quality neck strap. And the camera hangs well around your neck without pointing up or down.
+
+Some other pertinent facts that I always want to know about when looking at a digicam:
+
+- Includes RAW and TIFF formats in addition to JPEG up to just over 5 megapixels
+- Takes a lithium Ion battery that charges up fully in about 80 minutes. I have yet to run the battery down in shooting a couple of hundred shots in an afternoon, included a few movie clips and some flash use and playback.
+- Takes type I or II compact flash, including IBM microdrive, up to one GIG
+- Fully adjustable Aperture, Shutter, Exposure, White Balance with presets, etc. You have full control.
+- There is custom settings storage in memory for several different features (custom white balance, and just about every other setting)
+- several continuous shooting modes
+- bulb exposure mode
+- hot shoe and flash sync terminal connection
+- several pre-programmed settings in addition to aperture priority, shutter priority, and auto/program modes.
+- ISO from 100 to 800
+- Pop up flash (you must flip it up manually) is included.
+- status display is on the top of the camera to show you battery status, shots remaining, etc. Illuminates when you depress the shutter button half way.
+- menu navigation is very easy/intuitive and the included instruction booklet is clear and informative.
+- lots of accessories; macro lens, bottom mounted power pack, AC adapter, remote control, external flashes, etc etc.
+- only comes with 16MB memory card. Come on, Minolta! Practically useless. Well, they had to blow it in at least one little area. I can think of worse things to get wrong.
+
+CONTROLS / FEEL
+
+Controls are very well placed and ergonomics are excellent. I have no complaints. This camera is on the bulky side for a compact digital that is not an SLR. Lets just say that you are not going to be slipping this puppy into a pocket!But then again most other high-end compact digicams that have a bigger zoom lens (Sony, Nikon 5700 ,etc) also are a bit on the bulky side, in order to accomodate the optics. But it is still a lot less bulky than the digital SLRs out there. The grip that fits into your right hand is very comfortable and this camera feels very steady in either 1 or 2 hand shooting. Control switches and dials are easy to reach and you can tell someone spent a lot of time in a lab tweaking the ergonomics.
+
+BUILD QUALITY
+
+I do not for an instant feel that this camera feels "cheap" or "plastic". Go to a store and take a look at one and pick it up. You will see what I mean. It has an alloy body and feels substantial. Controls are high quality. The manual lens movement is a little sticky, but other than that in my epinion this camera is well built and solid. The quality of the EVF and the display panel on the back is excellent. Balance is great, and this looks like a serious piece of equipment. I like the fact that it does not weigh 75 lbs - that does not mean it isn't sturdy or well made. Actually I applaud Minolta for making this camera so well without making it so heavy that it feels like a brick around your neck. I am sure they paid attention to trying to keep this camera as light as possible to make it less of a strain to handle. 
+
+PERFORMANCE
+
+I found image quality to be excellent. Colors are very true to life, sharpness is excellent, detail is very very good.  Metering is excellent in a wide variety of situations. The AF is VERY fast and very quiet. Shutter lag is almost nothing. I mean it is noticeably faster than the Nikons (5400 and 5700) Canon G5, Olympus, etc that I have tried.
+
+Buffer for continuous shooting could be better &#150 can only do 3 shots at a time (5 for RAW).
+
+Does very well in low light. The anti-shake helps. I have read some complaint that AF assist is not a feature of this camera - and is needed on this camera for low light situations &#150 but I have not seen that as an issue in my experience. I have done a lot of indoor shooting in tungsten lighting and just plain dim situations, and have had pretty good success. The ability to manually focus quickly when needed helps too. Display increases and goes to black and white in very dim situations to help you see better.
+
+IN CONCLUSION:
+
+I shopped around quite a bit and have a few other digicams that my family uses; the A1 is the most impressive I have seen in terms of image quality and AF speed &#150 and in terms of shutter lag &#150 in a compact digital (without moving up to a much bulkier, more expensive digital SLR). When it first came out and was priced at over 1200 bucks, I hesitated. When it came down to below $1000 I jumped in and have had no regrets since. I highly recommend this camera if you want full control and advanced features and technology. It&#146s a great design and a great performer.
+
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

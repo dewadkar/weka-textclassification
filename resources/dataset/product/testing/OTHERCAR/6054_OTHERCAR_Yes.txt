@@ -1,0 +1,248 @@
+DOC>
+<DOCID> 6054 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Olympus_C-740_Ultra_Zoom_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_111133363844 </URL>
+<TEXT>
+            The new Olympus C 740 is a digital camera to be reckoned with, it provides consumers with a dazzling array of features, prosumer performance, and SLR like ergonomics.  Most currently available 3 megapixel digicams offer purchasers a 3X or 4X zoom, but the C 740 sports the biggest gun in town, a 10X optical zoom, making it the lone wolf in a world of sheep.
+
+The C 740&#146s target audience is serious amateur shutterbugs who want a broad range of manual exposure options, but it&#146s also designed to appeal to family photographers who want point and shoot simplicity and the extra reach for shooting kiddie soccer games and school plays.  The Olympus C 740 manages to nicely meet the needs of both groups, and at a reasonable price.  The C 740 should also appeal to travelers, backpackers, and nature lovers. 
+
+<b>How does it compare with it&#146s big brother the Olympus C 750 ?</b>
+
+The C 740 is essentially a slightly stripped down C 750.  The C 750 is a 4 megapixel digital camera, while the C740&#146s resolution is 3.2 megapixels.  The C 750 has a hotshoe for external flash units, but the C740 doesn&#146t.  The C740 is about $100.00 cheaper than the C750.
+
+<b>Nifty Features</b> 
+ 
+The C 740 features Digital ESP multi-pattern and spot metering, user adjustable white balance, in-camera image adjustment, and proprietary Olympus TruePic technology (which optimizes sharpness, contrast, and color saturation). 
+
+<i>NUTS & BOLTS</i> 
+
+<b>Viewfinder/LCD</b>
+
+The C 740 is equipped with the same electronic viewfinder as the C 750.  EVF provide through-the-lens image framing just like SLR cameras. My major problem with EVF&#146s is that they just aren&#146t sharp enough for critical focus and they usually aren&#146t refreshed rapidly enough to avoid some jerkiness and blur when panning or following unfolding action.  I&#146ve never been a big fan of EVF&#146s, but on cameras with long zooms (more than 5X) an optical viewfinder would make the camera substantially larger and much more expensive. 
+
+The C 740 provides diopter correction and a relatively high eyepoint, but eyeglasses wearers can expect some vignetting (darkened corners) when using the EVF.  The C 740&#146s EVF appears to be a bit brighter than average, but the refresh rate seems to be a bit slower than average (evidently a compromise designed to prolong battery life).
+The C 740's 1.5&#148 LCD screen is bright and quite sharp and provides a detailed information/status readout that includes f/stop, shutter speed, white balance, and sensitivity settings.  The C 740 features a live histogram display that graphs brightness/contrast distribution across the frame (allowing users to fine tune exposures) a very useful feature that allows shooters to spot over or under exposed areas and correct settings before making the shot. 
+ 
+<b>Lens</b> 
+
+The C 740&#146s major selling point is its all glass 10X zoom, an incredibly versatile and relatively fast f2.8-f3.7/38-380mm (35mm equivalent) lens that allows the camera to be used for shooting sports, wildlife, concerts, auto racing, and just anything else that requires a very long reach.  The C 740&#146s zoom provides a threaded mount that allows the use of auxiliary 55mm &#147add-on&#148 lenses and filters, but users will need to purchase the optional adapter.  
+Not only does the C 740&#146s zoom have more reach than any other zoom in its class, but the long zoom ain&#146t too shabby up close and personal.  The C740 (in the Super Macro setting) allows focusing as close as 1.2 inches and close ups can be shot using the spot metering option which virtually guarantees correct exposure.  The C 740's lens retracts into the body when the camera is powered down. 
+
+<b>Auto Focus</b>
+
+The C 740 uses Olympus&#146 iESP TTL (through the lens) contrast detection system as the default AF mode.  There is also a full time AF mode that adjusts focus continuously (as opposed to only when the shutter button is slightly depressed) and two special AF modes.  In iESP mode, the camera bases focus on the entire frame, automatically determining the primary subject, based on closest focus priority. The Spot AF mode bases focus on the AF spot in the center of the frame.  The C 740 also permits users to shift the AF area anywhere in the frame. 
+ 
+<b>Manual Focus</b>
+
+C 740 users can manually adjust focus using the up and down arrow keys and a distance scale superimposed on the LCD screen.  The central portion of the frame is enlarged 2x (to help with focus accuracy) in MF mode. Like most P&S digicams with a manual focus option, the system is neither fast nor convenient.
+
+<b>Flash</b>
+
+The C740&#146s on-board multi mode (Off, Auto, Red-Eye Reduction, Fill Flash, Night Scene, and Night Scene with Red-Eye Reduction) pop-up flash does a very good job.  Users can mimic second curtain flash synch with the Slow Sync mode or adjust flash intensity  /-2 EV.  Olympus claims the maximum range of the flash is between 12 feet and 16 feet (depending on sensitivity setting) but 10-12 feet is more accurate.  Flash recycle time is between 6 and 7 seconds.
+
+<b>Power</b>
+
+Power management is very impressive.  Even with the EVF/LCD, a powerful on board flash, and a 10X power zoom the C 740 makes its batteries last and last.  We used the camera for two days of fairly heavy shooting without exhausting the original batteries.  The C 740&#146s  uses four AA or two CR-V3 batteries. 
+
+<i>EXPOSURE</i>
+
+The C 740 provides users with a very impressive range of exposure flexibility, including Auto (for point-and-shoot simplicity), Program, and six easy-to-use Scene modes.  The scene modes make shooting great looking images easy by automatically optimizing exposure settings for specific shooting situations like Portrait, Landscape, Night-Low light, and Sports.  The C 740&#146s more advanced exposure options include aperture priority, shutter priority, and a full manual mode.
+
+<b>Special Exposure Modes</b>
+
+<b>Movie Mode</b>
+
+The C 740's Movie mode allows users to record short video clips (without audio) @ 320 x 240 or 160 x 120 at 15 fps.  The maximum length of the video clip is dependent on the resolution setting and the capacity of the xD Picture Card.
+  
+<b>Audio Notation</b>
+
+The C 740 allows users to record short (up to 4 seconds) post exposure audio notes to accompany images. 
+
+<b>Panorama Mode</b>
+
+C 740 users can shoot panoramas (but only when using an Olympus branded xD Picture Card) combining up to 10 consecutive images.
+
+<b>Sequence Mode</b>
+
+The C 740&#146s AF Sequence mode (other manufacturers call this AF bracketing) shoots 3 images, varying the focus distance slightly in each case (one exposure slightly behind the camera selected AF distance, one at the camera selected AF distance, and one slightly in front of the camera selected AF distance).  AF Bracketing is a great option when shooting rapidly changing action (like kiddie sports) and offers some insurance that users can grab that once in a lifetime zoom shot of Junior kicking the ball straight into the net. 
+ 
+<b>My Mode</b>
+
+My Mode allows users save personalized or frequently used exposure settings and then access them easily and quickly through the Mode Dial.  
+
+<b>Metering</b>
+
+The C 740 provides three metering modes; Digital ESP (default ) metering measures light from multiple points in the image to determine the best aperture/shutter speed combination based on brightness and contrast across the frame. Spot metering bases exposure on a small area at the center of the frame, allowing photographers to bias exposure toward the most important element in the composition.  This is especially useful when the subject is backlit or lighter/darker than the background.  Multi spot metering (manual mode) bases exposure on averaged data from up to eight &#147spots&#148 selected by the user. The C 740&#146s advanced metering options virtually guarantee proper exposure, kudos to Olympus for providing users with a level of versatility that&#146s rare in a three megapixel digicam. 
+ 
+<b>White Balance</b>
+
+White balance settings include Auto, Daylight, Overcast, Tungsten, Daylight Fluorescent, Warm White Fluorescent, Cool White Fluorescent, and Custom.  Users can bias white balance  /-5 steps (plus steps warm the color balance toward red and minus steps cool the exposure toward blue).  The ability to tweak the color balance is very helpful for advanced photographers and is a feature seldom seen on consumer level digital cameras. 
+  
+<b>In-Camera Image Adjustment</b>
+
+The C 740 permits shooters to tweak color saturation, contrast, and sharpening &#147in camera&#148.  For example if you are shooting under bright lighting you can lower contrast to preserve shadow detail or on an overcast day color saturation can be increased to boost the &#147pop&#148 of an image.  The Sharpening function can help shooters avoid the soft look that detracts from images shot at the telephoto end of the C 740&#146s 10X zoom. Sharpness, contrast, and color saturation can be adjusted in ten incremental (-5/ 5) steps.  This feature coupled with the great range of white balance options provides serious photographers with an almost unlimited range of creative input.
+   
+<b>Exposure Compensation and Auto Exposure Bracketing</b>
+
+The C 740 offers photographers the option of biasing exposure  /-2 EV in 1/3 EV increments to compensate for tricky lighting. The Auto Exposure Bracketing (AEB) mode ensures (by shooting several successive images at slightly different exposure settings) that users will get at least one keeper when getting the shot just right is critical. 
+ 
+<b>Noise Reduction</b>
+
+The C 740 performs fairly well in low light settings but higher sensitivity (ISO 400) and longer shutter speeds can produce lots of noise.  The C 740&#146s Noise Reduction mode significantly reduces image noise in long exposures and 400 ISO exposures.  Noise reduction is automatic on long exposures.
+
+<b>Sensitivity</b>
+
+The C740 provides an Auto setting or user-selected settings of 100, 200, and 400 ISO (35mm equivalent) settings.  This is an adequate range of sensitivity settings, but I would have liked to see an ISO 50 setting.  
+
+<i> DESIGN, CONTROLS, & ERGONOMICS</i>  
+
+The C 740 is a stylish digital camera based on the compact Olympus C 700 design. It&#146s a bit too large to drop in a shirt pocket but slips easily into a jacket pocket, backpack, fanny pack, or small purse---the camera weighs just over 10 ounces.  
+
+The C 740 is very similar to earlier C 700 family models with the most commonly used controls on the top deck.  The rear panel holds the rest of the C 740&#146s controls.  The camera handles like a 35mm SLR with all controls logically placed and easily accessed----menus are straightforward, intuitive, and simple to navigate. The C 740 is an imminently usable digital camera that will perform like a champ in an exceptionally broad range of picture taking situations. 
+  
+<b>Image Formats & Storage</b>
+
+The C 740 saves images in either uncompressed TIFF or compressed JPEG  formats. Images are stored to the new postage stamp sized xD Picture Card.  The xD picture card is a replacement for Olympus&#146 venerable Smart Media storage cards. 
+ 
+<b>Technical Specifications</b> 
+
+Resolution: 3.2 megapixels (2048 x 1536) plus interpolated 3200 x 2400 image size in Optimum Image Enlargement mode 
+Viewfinders: EVF (electronic viewfinder) and 1.5&#148 TFT color LCD
+Lens: f2.8-f3.7/38-380mm (35mm equivalent) all glass optical zoom (11 elements in 7 groups with 2 aspherical elements for improved color and clarity)
+Exposure Modes: Auto, Program, 6 scene modes (Portrait, Sports, Landscape / Portrait, Landscape, Night Scene,  and Self-Portrait), Shutter priority, Aperture priority, and full Manual modes.
+Exposure Compensation: Yes  /-2EV in 1/3EV increments
+Auto Exposure Bracketing: Yes  /-2EV for 3 or 5 images in 1/3 EV increments
+In Camera Image Adjustment: Yes&#151Contrast, Saturation, and Sharpening ( /- 5 steps)
+Noise Reduction: Yes&#151Automatic on shutter speeds of one second or longer
+Flash: Built-in Multi Mode--- Auto, Red-Eye Reduction, Fill-In Flash, Slow Synch, Off   
+Image Formats: TIFF and JPEG   
+Metering: ESP Digital TTL and Spot
+Auto Focus: iESP TTL AF, and Multi area spot AF	
+Shutter Speed Range: 1/1000th of a second to 16 seconds
+Sensitivity: Auto, 100, 200, & 400 ISO equivalents
+White Balance: TTL iESP multi-pattern auto TTL, One-touch, Pre-set manual (Daylight, Overcast, Tungsten, 3 Fluorescent settings), and Custom  
+Image Storage: xD Picture Card
+Connectivity: USB 1.1 and A/V out
+Power: four AA or two CR-V3 batteries 
+
+Street Price Range $350.00---- $479.00
+
+<b>Included</b>
+
+16MB xD-Picture Card, 2 CR-V3 batteries, USB and V cables, software CD-ROM, neck strap, lens cap, Quick-Start Guide, and User&#146s manual
+ 
+<b>Optional</b> 
+
+Wide-angle, telephoto, and macro auxiliary lenses, Olympus lens thread adaptor, RM-1 remote control, and Olympus PT-018 Underwater Housing 
+
+<b>In the Field/Handling & Operation</b> 
+
+My friend (who sells new and used digital and analog photography equipment) and I got together to check out Olympus Camedia C 740 on a dark rainy Saturday afternoon.  The weather was so nasty that all we could do was stay inside and run our usual tests. Over the past couple of years we&#146ve developed a simple color test that works very well and allows us to compare results from one digital camera to another. We use a large cardboard box (with the front and top panels cut away) lined with white photographic background paper. We first auto white balance the camera (using the white background) and then set up and shoot a selection of brightly colored (red, blue, green, and yellow) plastic children&#146s beach toys with the camera mounted on a tripod under a very simple lighting set-up. 
+The C 740 passed the test with flying colors (no pun intended).  Color accuracy was excellent, although both of us thought the reds were just a tiny bit hot. Overall, the C 740&#146s color is relatively neutral---bright, vibrant, and well saturated, but not garish. 
+
+After we finished with our color tests the rain had stopped but the skies were still dark and the lighting was pretty ugly. Since the sky dark and dead flat we decided to shoot some close-ups of the Caladiums on display at a local business.  The large leaves were almost riotous (due to all the rain we&#146ve been getting) with brick red centers and mint green borders.  The display covered an area of about 3 or 4 square feet and every leaf was covered with beaded water drops from our earlier rainfall.  We found a couple of interesting compositions and with the C 740&#146s flash set for fill we shot several very nice close ups with the red & green Caladium leaves filling the frame from corner to corner.  The images were sharp as a tack with very good color (close up photography works very well in overcast lighting because the lack of glare, reflected light, and shadows makes colors appear more intense) and the individual water droplets stood out beautifully. 
+
+After we finished with the Caladiums we headed for the Heine Brothers Coffee shop to get a cappuccino and try some interior shots.  The coffee shop shares an old Victorian house with Carmichael&#146s Bookstore so it&#146s a great place to catch an eclectic collection of Highlands neighborhood characters.  Because of the rainy Saturday afternoon weather the joint was packed.  An alert photographer can usually squeeze off a few grab shots without attracting too much attention, but we got busted the very first shot (the 10x lens and powerful flash really attract attention in a dimly lit place) which got us a mini lecture with our cappuccinos.  We moved out on the patio and shot early date night cruisers and foot traffic on Bardstown Road.  The 10x zoom is great for shooting street and travel style images and we were able to easily reach out and catch some nteresting compositions without the subjects being any the wiser. 
+
+Sunday morning started out pretty nasty with dark skies and more heavy rain, but things cleared up just after noon and we had a couple of hours with robins egg blue skies and masses of dramatic clouds.   We headed downtown to Louisville&#146s Extreme Park. Skateboarders gravitate to the park at all hours of the day and night (even in less than perfect weather) to work on their moves in the twenty-four foot full pipe, the eleven-foot bowl, and the six-foot quarter pipe. The Park is a photographer&#146s dream with stunning visual opportunities (the colorfully clad boarders, bikers, and bladers stand out beautifully against the snow-white concrete) and the bowls and pipes are perfectly placed for getting incredible action shots of extreme sports aficionados &#147catching some air&#148 in gravity defying leaps.
+
+We&#146ve been several times to shoot the boarders with 3X and 4X zoom digicams (which requires getting a bit too close to the action) so my friend thought it would be interesting to shoot with a 10X zoom and the C 740 mounted on an old Slik 444 Sport tripod.  After a visit earlier this year from Tony Hawk and a couple of photo features on Louisville&#146s new extreme park in national skateboarding magazines our new Skate Park is developing a reputation as one of the nicest extreme sports venues in the country so when the boarders see anyone with a tripod or a big camera they start showing off. Since my friend had the big camera (he&#146d brought his Pentax 67) he got all the attention and I was able to set up and shoot the kids up close as they went through their death defying leaps. The C 740&#146s 10X zoom really worked great allowing me to zoom in on the action and compose my shots without getting close enough to get into the action.  
+
+Really good skateboarders move at fantastic speeds and the C 740 has just a bit too much shutter lag for optimal timing on action shots. It was very hard to frame and freeze the boarders in mid air, but I did manage to get a couple of fairly good shots.  After about an hour the rain returned and we got thoroughly soaked on the run back to the car. 
+ 
+<b>Shutter Lag/Timing</b>
+
+The C 740&#146s boot up cycle is a bit longer than average, between five and six seconds.  Shutter lag is a bit above average, but fairly quick if you pre-focus and track the action.  Write to card times are about average.
+The C 740&#146s 10X zoom is a large and complex optic, so obviously it won&#146t focus as rapidly as a 3X or 4X zoom.  AF Speed is decent and the lens is surprisingly fast when the light is good. The C 740&#146s AF speed drops to dead slow in low light but AF is accurate.   If you want to use the C 740&#146s monster zoom to shoot action you&#146ll have to practice pre-focusing and learn to anticipate the decisive moment by about half a second.  Overall, the C 740 is a little slower than average.
+
+<b>Image Quality</b>
+
+After looking at the images we&#146d shot over the course of our weekend with the C 740 we both agreed that the images were well exposed, the color was great, and overall image quality was nothing short of remarkable.  Excellent 8X10 enlargements are virtually guaranteed and very good 11X14 enlargements are a realistic option.  The C 740 consistently produces very good to excellent images with accurate color under good lighting, but you&#146ll need to use a tripod, pre focus, and anticipate the decisive moment to get the very best out of this compact little Olympus. 
+
+The C 740's auto white balance setting is accurate, but the overall look is a bit warm.  Manual white balance eliminates the warmth and produces remarkably accurate color balance for a non SLR digital camera.  Skin tones are handled very well and portraits look natural.  Overall, the C 740&#146s images are equal or superior to every currently available three megapixel digital camera.    We printed one 8X10close-up of raindrop spotted Caladium leaves and two 5x7&#146s of mid air skateboarders with an Epson Stylus Color 785EPX printer on Kodak photo paper---the images were all excellent, the long zoom shots of the boarders were sharp and the Caladium shot was sharp enough for an 11x14 enlargement. 
+   
+<b>A Few Concerns</b> 
+
+The C 740&#146s 10X zoom lens is very good, but like all complex multi element wide angle to telephoto zooms, it suffers from noticeable optical distortion.  There is minor barrel distortion (straight lines bow out) at the wide angle end of the zoom and pincushion distortion (straight lines bow in) at the telephoto end of the range, but neither is excessive. We didn&#146t notice any Chromatic aberration (purple fringing) with the C 740, but our two day shooting adventure was all under overcast or fairly flat lighting.  We did notice minor Chromatic Aberration with the Olympus C 750 (which has the same lens) so I would expect to see the problem with the C 740 especially at the telephoto end of the zoom&#146s range in strongly backlit situations.  There is also some noticeable corner softness in the super macro mode.  The C 740 suffers from above average image noise in low light/long exposures, however the automatic noise reduction should help eliminate most of the problem. 
+ 
+I can&#146t understand why Olympus could build what is arguably the most capable 3 megapixel digicam on the market, but couldn&#146t include an auto focus aid beam for low light shooting or add image stabilization to the C 740&#146s 10X zoom lens.  The two megapixel Olympus C2100 (introduced several years ago) had both a focus aid beam and image stabilization.
+ 
+<b>Conclusion</b> 
+
+The C 740 fills a niche that no other manufacturer (with the possible exception of Fuji&#146s Finepix 3800Z) has adequately addressed and I&#146m willing to bet the camera will do quite well with demanding consumers----especially amateur photographers who want a camera that can grow with them as their skills develop, budget-conscious family photographers who want the flexibility of a prosumer camera and the simplicity of a point and shoot digicam, and travelers and nature lovers who want a 10x zoom and creative photography options in a compact package.  
+
+Photographers who need the 10X zoom, creative flexibility, and advanced features will love the C 740, but this is not the best choice for casual photographers or snapshooters.  If you like the C 740's feature set and can ante up a hundred bucks more, go for the four megapixel C 750---you&#146ll get a thirty per cent increase in resolution and the ability to use external flash units for your C note.
+  
+Remember, Epinions is <i>always</i> your best source for independent professional quality reviews of the gadgets and gizmos you yearn for. 
+
+<b>Links</b>
+ 
+Check out my review of a bargain priced and very capable photo quality ink-jet printer, the <b>Epson Stylus Photo 785 EPX</b> ink-jet printer 
+<a href="/content_60776812164">http://www.epinions.com/content_60776812164</a> 
+ 
+For definitive advice on <b>How to Choose a Digital Camera</b> please see my review: 
+<a href="/elec-review-2E46-17B174E2-39A418E3-prod1">http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+For more information about comparable/competitive three megapixel Digital Camera models you may find the reviews listed below informative: 
+
+<b>Nikon Digital Cameras</b> 
+
+Nikon Coolpix 3100
+<a href="/content_108112285316">http://www.epinions.com/content_108112285316</a> 
+
+<b>Canon Digital Cameras</b> 
+
+Canon Powershot A70
+<a href="/content_99985034884">http://www.epinions.com/content_99985034884</a>
+
+<b>Olympus Digital Cameras</b> 
+
+Olympus Camedia Stylus 300 
+<a href="/content_103093997188">http://www.epinions.com/content_103093997188</a> 
+
+Olympus D560Z
+<a href="/content_108798971524">http://www.epinions.com/content_108798971524</a> 
+
+<b>Fuji Digital Cameras</b>
+
+Fuji Finepix 3800Z
+<a href="/content_81234595460">http://www.epinions.com/content_81234595460</a> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

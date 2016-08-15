@@ -1,0 +1,28 @@
+DOC>
+<DOCID> 835 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Hewlett_Packard_PhotoSmart_C618 </PRODUCT>
+<URL> http://www.epinions.com/content_87403171460 </URL>
+<TEXT>
+            When I decided to take the plunge and go digital, I wanted three things from a camera: affordability, high resolution and manual operations. I chose the HP 618 because it had 2.1 mega-pixel & manual ops at decent price, and glowing reviews. Others that looked similar on paper were up to $500 more.
+
+On the whole, I'm pleased, but there are a few disappointments:
+
+Resolution: it's measured in image dimensions rather than DPI. Perhaps I should have done more research into the differences in mega-pixels but at any rate, I was displeased to find that 72 (web quality) was the max possible with this camera. Even the best and sharpest captures will have some amount of 'noise' or speckling, which will need correcting in Photoshop or some other application. 
+
+This is not to say the 618 takes poor pictures - it takes great pictures, and more often than not it takes very usable point-and-shoot pictures with little work on the users' part. It just means post-shutter manipulation on your part if you want them for high-quality, non-web displays. 
+
+Manual operations: although they are possible, they're best confined to still-life images. Going to manual focus means getting out a white sheet in order to show the camera exactly what it's supposed to be focusing on. This is also the case when you want to focus on an off-center object. 
+
+In short - while the advanced operations are there, that they are such a pain in the backside to actually use (and that there's no hard copy of the owners' manual doesn't help) means you'd be better off going with a camera with equal photo quality but fewer costly features, or a more expensive one where the advanced ops are less time-consuming to utilize.
+
+Batteries: best get an NIMH rechargeable set up. Additionally, you'll help battery life by getting a USB compact flash reader that you can pop the card directly into and not use your batteries for uploading. 
+
+Portability: although the camera will plug and play for Macintosh, Windows requires a driver. When I used the camera while vacationing at a friend's, we couldn't upload to his computer. He didn't have the software, I didn't bring the CD, and HP doesn't make the drivers available on their website support (this may have changed, you'll need to check on your own). Prepare accordingly.
+
+
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

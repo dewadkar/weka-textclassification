@@ -1,0 +1,35 @@
+DOC>
+<DOCID> 25382 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Argus_DC1510_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_107536486020 </URL>
+<TEXT>
+            I picked up the Argus DC1510 at our local superstore figuring I'd try it out, as it was very low cost, and occasionally it's nice to be able to take a snapshot and be able to get the results immediately without having to wait for an entire roll of 35mm film to be used up.
+
+The camera comes with a USB cable, and a CD including the software titles "Multimedia Email," "Photo Studio," and "Photo Printer."
+
+Three AAA batteries are required.
+
+The camera does not use flash memory or anything of that sort, but rather a built-in non-expandable 2MB SRAM chip, which allows it to hold 20 hi-res (352x288, pretty small actually) or 80 low-res (176-144, practically thumbnail-sized) photos. 
+
+The camera can also double as a web-cam. 
+
+Frankly, I've had little success with this camera.
+
+There is no preview screen to show you what the image you just took looks like, which I originally thought would be OK as most normal film cameras don't have this feature either. 
+But with this camera, such a high percentage of the photos you take don't turn out that it would have been nice.
+It's VERY sensitive to shaking, and you'll get a blurred photo if the camera moves even slightly when taking the picture. It's nearly impossible to not move the camera at least a -little- when pressing the shutter button. 
+
+The camera has no flash, and needs nearly full-out sun to expose correctly. Taking photos indoors, even with every light in the room on, will normally not come out at all, or come out in some odd color like orange. 
+
+Because the photos are stored in RAM, this camera is using the batteries all the time, even when it's turned off. As a result this camera goes through batteries faster than a kid going through a pack of Lifesavers. And if it happens that the batteries die before you get a chance to get your photos uploaded to your PC, you're just out of luck - they're gone. 
+
+The software that comes with it is clumsy - for some reason, the software you use to upload the images from your camera can't actually save the images - it can only export them to another program. So as a result, you have to load up the image-upload program, load in your images, select an image you want to keep, tell it to export it into PhotoStudio, then save the image to a file from within PhotoStudio. Repeat for each and every image you want to keep. 
+
+Overall this camera would be OK as long as you're not planning on doing anything even semi-serious with it - if you just want something to take along with you for the occasional fun snapshot, or for something for the kids to practice taking pictures with without having to pay for film and film processing. But never bank on your photos coming out (they seem to actually come out about 1/2 the time, and even the ones that work are pretty grainy) and use rechargable batteries as they seriously seem to only last about a week in this thing. 
+
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

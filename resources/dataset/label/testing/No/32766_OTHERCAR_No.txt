@@ -1,0 +1,99 @@
+DOC>
+<DOCID> 32766 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Canon_PowerShot_S400 </PRODUCT>
+<URL> http://www.epinions.com/content_97330040452 </URL>
+<TEXT>
+            This review covers the use of the Canon S400 Digital Elph camera and the Canon WP-DC800 underwater housing in an Underwater environment only.
+
+<b>Special consideration for underwater camera use:</b>
+
+<b>Colors at depth:</b>
+The deeper underwater one goes, the more the longer wavelength colors are filtered out. First red is lost, then orange, then yellow, until all you're left with is green and blue; then finally just blue. Some photographers place a reddish filter on their cameras to compensate for the loss of red, but the result of this is a false red applied equally to all elements at depth. A better way to compensate for the loss of color is to provide your own light source that is able to project a full color spectrum onto the subject.
+
+<b>Position of light source:</b>
+On land, when a camera's internal flash is too close to the lens, the result is often red eye. To solve red eye, either you can pop the flash off like a strobe light which causes your subject's eye's to avert and dilate or you can move the flash away from the lens. Underwater, the flash-too-close issue is much more severe. If the flash it too close to the lens underwater, the light from the flash will illuminate the particulate matter, such as sand, plankton, tiny fishes, etc. that are suspended in the water. This masks your subject in a whitish spotty haze and reduces the contrast and saturation until the image is unusable. This particulate illumination is called "backscatter." The only solution for backscatter is to move the light source away from the lens.
+
+A good underwater camera will have a light source that is positioned somewhat away from the lens. External self-contained strobes provide a great deal of light for a minimum of battery usage and are therefore the most common light source used in underwater photo.
+
+But how do these external strobes synchronize with the shutter of the camera so that the strobe fires when the shutter is open? On land, there is usually a hot-shoe or PC sync port on the camera that a cord which leads to the external strobe is attached to. The camera triggers the flash through this cable. Underwater, the camera is encased in a housing, or sealed plastic box. The housing for the S400 has no such cable support. Instead, the external strobe is switched into what is called a "slave" mode where it uses a light sensor that is built in to the external strobe itself to trigger the flash. When the light sensor perceives a flash from the camera's internal strobe, it too fires.
+
+However, having the camera's internal strobe fire will cause backscatter. So, to solve this, the camera's internal strobe is covered and blacked out with fabric all over except for a tiny hole where sensor, such as a fiber-optic cable is placed. The fiber optic cable then leads up to the external strobe's light sensor. When the camera's internal flash is fired, the light travels up the fiber-optic cable and then triggers the external flash. Result: pretty picture with no backscatter.
+
+Unfortunately, with the S400, and a lot of digital cameras, that's not the complete story. The problems start with blacking out the camera's internal flash. The S400, in a normal shooting mode, fires it's strobe twice. The first time is to evaluate the scene to help decide how much light the second, or main flash, will need to correctly illuminate the scene. There are three separate problems with this series of events:
+
+<i>First,</i> when the first flash occurs, the external flash will read that as it's go-time and fire. It will then take the external flash a while to recharge, so it will miss the second, or "real" flash when the shutter is actually open.
+
+<i>Second,</i> since, being blacked out, there was practically zero light returning from the first, evaluation flash, the second flash will be at maximum power. The camera housing is made of crystal clear polycarbonate that reflects and pipes light almost as well s a fiber-optic cable. The camera's internal strobe will put out so much light that unless the blackout material covers the entire camera, there will be some light leakage: resulting in strange light patterns all over the resulting image.
+
+<i>Third,</i> making the camera fire it's strobe at full power for each picture will decrease the battery life of the camera by 60% or even 70%. This will cut your dive short, but more importantly, cause you to have to change batteries in less than ideal; sometimes less than dry, conditions. The deep cycling of the strobe will also cause considerable delay until the next shot as the flash powers back up again.
+
+The first problem, the external strobe firing when the internal strobe does it's "pre" flash can be solved by buying one of the new "digital" strobes such as the Sea & Sea YS 25 or YS 90. These external strobes can be set to ignore the first, pre, flash and then fire on the second, main, flash.
+
+The second problem can be solved by spray painting the front half of your housing black or being meticulous with your blackout material coverings. 
+
+With the S400, there is only one way to solve the third problem, and it's a drag. But it does have the added benefit of solving the first and second problem in one swoop. The camera has a "flash exposure lock" (FEL) mode where it locks in a flash setting and continues to use that setting until the camera changes modes (or turns itself off.)
+
+<b>Here's how to do it: </b>
+First, put your open palm a few inches away from the lens. Then set the external flash to full power and point it directly at your hand. Then press the shutter halfway down and hold it there until you've reached over with your thumb or your third hand to press the metering button on the back of the camera. The pre-flash will now fire and the camera will be set and hold these exposure values. Since you used the external flash at full-power, your hand will be over-exposed. This will set the internal flash to it's minimum power level and therefore not cause reflected light patterns, drain the battery or cause slow cycling. The camera will be set at this exposure and only flash once until it turns off or it is switched to review mode. It's likely you'll have to preform this procedure a dozen or more times per dive. 
+
+<b>The S400 features (as they effect underwater photo):</b>
+
+<i>[If you want the full details as they apply to land use, check Howard Creech's excellent review]</i>
+
+<b>Real 4 megapixels:</b>
+When tested in shooting a resolution test pattern against a known 3.2 megapixel camera the resulting image was very close to 20% better (1200 dpi vs. 960 dpi undistorted.) Images where sharp-ish and crisp-ish in relation to other digital cameras.
+
+<b>Lens:</b>
+35mm film equivalent: 36 &#150 108mm (f/2.8 at 36mm to f4.9 at 108mm)
+For underwater digital photography purposes, the ideal zoom would start at 24 or 28mm. The closest focus range for this camera is about 2" in macro mode. This is very good for underwater photography. On an aside, the digital zoom did a surprisingly good job hiding the interpolation (fake resolution.) 
+
+<b>LCD view screen:</b>
+The LCD is 1.5"; which is surprisingly large for such a small camera. Underwater, you want the LCD to be as big as possible since you'll always keep the camera a good distance from your eye (the closest you can get is the front of your mask.) One big benefit of the S400 is that the LCD covers virtually 100% of the resulting image. Many consumer-level cameras only show 85% or so of the resulting image in the LCD. I guess this is to help prevent cutting uncle Earl's head off. But for those of us who carefully frame each shot, the 85% coverage means a real loss of 15% of our resolution, as we must now crop off the unwanted edge.
+
+<b>Size & Weight:</b>
+The S400 only weighs in at 6.5 oz. and measures 3.43 x 2.24 x 1.09 in (8.37 cu. in total.) This is only a little bigger than an Altiods box. The Pentax OptioS would comfortably fit inside the S400, but the OptioS does not have an underwater housing. I was drawn to the small size not primarily because it would fit in a shirt pocket, although that's pretty cool, but more because every additional inch of O-ring seal on a housing provides a fairly significant increase in flooding possibilities.
+
+<b>Underwater housing:</b>
+The Canon manufactured underwater housing (WP-DC800) has a built-in flash refractor and sells for about $200. Housing made by manufacturers other than the camera makers tend to run about $1000.00. The control layout and general product quality are excellent. I only have two gripes about the housing. First, the area surrounding the flash, including the lens clearance tube, where made of clear polycarbonate. This allows the light from the in-camera flash to bounce around and form picture-ruining highlights, reflections and flash artifacts in the image. Second, although this is endemic to all underwater housings, it is very hard to tell exactly how much pressure needs to be applied to the shutter release for it to be in it's "half way down" focus and ready mode. The housing button for controlling the shutter release adds a lot of resistance. I ended up taking a number of shots before I was ready; thinking that I was only focusing.
+
+<b>Metering </b>
+All the fancy metering modes the camera provides are of little use submerged; if it's too dark, you (manually) turn the external strobe up; too light, turn it down.
+
+<b>Auto focus: AiAF (advanced intelligent auto focus):</b>
+The auto focus worked very intuitively and fairly quickly underwater. The S400 places zero to six little green boxes around high-contrast elements that it plans on using for it's point of focus. If you don't like what it has chosen to focus on, you can release the shutter and press it half way down again to acquire different little green focus boxes (usually). The camera can not be set to manual focus.
+
+<b>Manual Adjustments: </b>
+The camera is pretty obstinate when it comes to making it do what you want. For example, there is no way to tell the camera what aperture to use. This was a big disappointment as practically all underwater photography is done with an external flash; and external flash photography is all about aperture.
+
+<i>Sensitivity ISO:</i>
+You can select an ISO sensitivity as either Auto or from ASA (ISO) 50, 100, 200 or 400. This didn't seem to have much effect, though.
+
+<i>Exposure suggestion EV:</i>
+You can also bump up or down the EV (exposure compensation) from -2 to 0 to  2 stops. This range was pathetically small when you consider that you have no control of the aperture. It also didn't seem to have much of an effect on the resulting image.
+
+<i>Shutter speed:</i>
+Long shutter speeds are fairly meaningless in both flash and underwater photography. On a positive note, the S400 did a fantastic job controlling the CCD noise (colored dots appearing all over the image) when shooting very long exposures. Very long exposures are nearly impossible underwater.
+
+<i>Manual white balance:</i>
+The S400 allows the camera's white balance to be manually set. Just point the camera at some sand, or the palm of your hand at shallower depths, and boom, perfectly adjusted color compensation. Due to the color drop-off mentioned at the top of this review, this will only work to say 30 feet down. If you do a manual white balance at a depth where there is no red, the camera will provide a false red wash over everything. This is why most underwater photography uses a flash or external lighting of some sort.
+
+<b>Macro Mode:</b>
+If you're not using an external flash underwater, macro is pretty much you're only usable flash mode. Unfortunately, the position of the flash and the layout of the U/W housing causes uneven illumination of the subject until you're about 5 or 6 inches away. At that distance you're just starting to see real bad backscatter.
+
+<b>Movie Mode:</b>
+If you've got video lights, rather than a strobe, you've probably also got a video camera. But movies in real shallow water can be a fun distraction.
+
+<b>Low Light Photography: </b>
+The DIGIC Processor (Digital Imaging Integrated Circuit) does a great job processing low light images in both maintaining detail and reducing CCD noise.
+
+<b>In-camera Effects:</b>
+Photo Effects allow you to do some very basic in-camera image manipulation. You can "vivid" (make cartoonishly bright) or neutral (make muddy) color saturation. You can hype the contrast level to 2D paper-cut-out level. You can apply a "low sharpening" effect in case you don't want sharp images?!?. And of course you can apply the old sepia or B&W effects. All less than useless. I feel these are just there because some marketing VP thought the camera wouldn't sell without them.
+
+<b>Conclusion </b>
+This camera is great to people who want to have a digital camera with them underwater, but don't want the camera to be the focus of the dive. It's housing is the smallest available. However, this small size comes at a price: namely that 9 step flash exposure lock procedure you'll have to go through each time you want to take a picture.
+            
+<label> No
+<rating>  4.0
+
+</DOC>
+<

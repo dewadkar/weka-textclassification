@@ -1,0 +1,32 @@
+DOC>
+<DOCID> 34086 </DOCID>
+<PRODUCT> Digital_Cameras/511642_Olympus_Camedia_C_3040_Zoom </PRODUCT>
+<URL> http://www.epinions.com/content_37163208324 </URL>
+<TEXT>
+             I've just got the 3040z a week ago, but it's obvious that this is a high quality digital. It's got a lovely solid feel to the unit, so its very nice to hold. The color saturation looks absolutely spot on. The metering is sufficient to make the 3040z a powerful point and shoot unit. 
+ 
+ I moved up to this camera from the Olympus 2020z, mostly for the higher resolution and faster (1.8) lens. But the 3040 has a number of other features to recommend it, and it's really better deal than any of Olympus' lesser models. 
+
+ Unlike the 2020, this camera allows you to specify which parameters will be active every time you start the camera, and which will be automatically reset. Say you like to use Aperture priority, with file compression set to HQ and sequence mode activated -- but you want some other things, like macro mode or spot metering, to revert to the default each time you shut off the camera. This is a nice feature and saves you a lot of steps if you like to get away from the Program (or point 'n shoot) mode.
+
+ Not that you'd have to, though. The 3040's program mode is very precise and is hard to fool. It's difficult to shoot a poorly exposed picture with this camera.
+
+ The 3040 has a 32-meg buffer, with lets you shoot longer mini-movies (some people love this feature; I couldn't care less) and makes possible the camera's impressive still-picture sequence mode: around 3fps for 5 frames, even at full resolution. 
+
+ The 3040 also comes with a little built-in microphone, to let you annotate still pictures or add sound to the aforementioned mini-movies. Again, this appeals to a lot of people but I haven't yet found it too useful.  
+
+PROS:
+  
+ Superb image quality. Full range of manual controls. Impressive burst mode. Very easy to bracket exposures or change EV on the fly. Fast 1.8 lens improves on the already good low-light capabilities of earlier Olympus cameras. Precise auto and spot metering. And, lest I forget: it's black. Which to me is the proper color for a camera.  
+
+CONS:
+  
+ Manual focus is difficult to use. Too many features are buried in the menu system, which takes some getting used to. LCD does not tilt and can be hard to view in sunlight. The lens shows slight barrel distortion at full wide angle.  
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

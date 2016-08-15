@@ -1,0 +1,33 @@
+DOC>
+<DOCID> 21159 </DOCID>
+<PRODUCT> Digital_Cameras/Sony_DSC_U10_Cyber_Shot_U_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_82852155012 </URL>
+<TEXT>
+            I've had this for about three weeks, and boy did I want to love it. It has one great advantage: size, but many niggles that detract from the whole.
+
+Let me repeat the advantage: this thing is small. It fits easily in a pocket, so bring it with you wherever you go. The idea was for me to take instant snapshots and candid pictures of my friends.
+
+However, it isn't working out as well as planned. There are several things that need improvement. 
+
+1) a snapshot camera needs to be fast: both to start up, and to focus. With bright light and a small memory stick, this is the case. Unfortunately, a 128MB memory stick takes up to 4 seconds to turn on, which is unacceptable.  Also, in low light (ie, indoors without bright illumination, not necessarily at night!), the autofocus can seldomly focus, so unless you notice this and manually focus, you will end up with a crap shot. This segues to points 2 and 3:
+
+2) The interface is fiddly fiddly. As soon as you shut off the camera, all flash and focus settings are reset. To manually focus the camera to ~2 yards involves working the very small menu buttons for a couple of seconds. The camera should come with preset buttons like a car-radio, allowing you to remember one or two preset combinations. As it is, it is virtually impossible to quickly take a good indoor picture.
+
+3) The view finder works only for framing the shot. Playback lacks a zoom facility, so there is no way to tell whether the picture was in focus: the only thing it is good for is  counting the number of heads.
+
+4) the flash is too close to the lens: so close that red-eye reduction merely reduces red-eye, instead of  removing it. Plan on becoming a photo-shop wizard.  I'm not overly concerned with this, given the size of the camera.
+
+So. If you want to take quick snaps outdoors, or don't mind making your subjects wait while you fiddle, this camera is a win. However, in both of those situations, the camera's biggest  feature, its diminutive size, is less of a benefit. Since for the same price you can get larger and more capable cameras, the snapshotability due to the size is really the <i>only</i> feature. 
+
+About the lag: it is instantaneous if focused (or running in fix-focus mode): it does the standard half-press-to-focus full-press-to-shoot. Focussing can take just over a second, or as little as effectively instantaneous. 
+
+
+<b>In summary</b>: this camera is meant to take quick pictures, and openly trades features such as resolution and zoom for small size.  However, the slow startup time with bigger memory sticks, inability to focus in low light, and lack of quick presets (or at least persisitence) for manual settings make it effectively impossible to take an acceptable quick snap with the camera.
+
+I would instead recommend the minolta X is only slightly bigger, and more capable on every front -- including a 3x optical zoom, better playback, better resolution, and lower total (including startup and fiddling with settings) delay to take a snapshot.
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

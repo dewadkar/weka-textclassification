@@ -1,0 +1,26 @@
+DOC>
+<DOCID> 10463 </DOCID>
+<PRODUCT> Digital_Cameras/Canon_PowerShot_A200_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_74553069188 </URL>
+<TEXT>
+            Complete specifications and reviews of this camera are available at other sites (e.g. http://www.imaging-resource.com/, http://www.steves-digicams.com/) so I won't go into those details. Instead I'll provide insight from a non-professional camera user who was sold on the reviews but not thrilled with the camera usability. I considered exchanging the camera for something else, but for the money this was the best I could find at the time. Here's some additional information that I didn't initially realize from reading the professional camera reviews.
+
+The A200 uses Compact Flash Type I memory, which is quite common. Though the camera comes with a 8MB card, I suggest getting a 32MB or 64MB card (sometimes the retailer provides this for free). 32MB allows for about 50 pictures at max resolution and medium compression. To read the Compact Flash memory there are three choices: a PCMCIA reader for a laptop (about $10), a USB card reader (about $20), or you can connect the camera directly to USB. Hooking up the camera directly drains a lot from alkaline batteries. It's not as big of a hit to my 1700mA rechargeables. (Technical note: Windows XP and Me use a WIA transfer mechanism while Windows 2K and 9x use TWAIN).
+
+The A200 uses 2 AA batteries. The alkalines that came with the camera lasted through a dozen pictures and two uploads. I have been very pleased with my mini Sony AA 1700mA NiMH batteries and charger. These batteries last through about five dozen pictures and two uploads. I recommend getting 1600mA or higher rated rechargeable NiMH batteries.
+
+Digital zoom is a useless feature. The pictures are recognizable but certainly not worthy of framing. For optical zoom you'll generally pay at least $50 extra but it's worth it.
+
+It's easy to point-and-shoot out of the box if you only touch the 'on' button. If you start pushing buttons without reading the manual you could get lost. Many functions are available only in certain conditions (whether shutter is open or closed, whether manual or auto mode, whether in still or movie mode...). There are few hints on how get to where you want to go. Sometimes you touch Menu for options; sometimes you touch Set for options. You just have to memorize the menu.
+
+One camera feature that I've found quite handy is photo stitch assist. This allows you to take a series of stills and stitch them together. A partial image of the previous still is displayed on the LCD so you can roughly match up the next shot. Software provided with the camera seamlessly stitches the photos together, even if you didn't quite line up the shots exactly.
+
+The A200 comes with software (ZoomBrowser EX, PhotoStitch and more) to upload and manage your photos. It's fairly intuitive and easy to use. It doesn't come with AVI rotation software (to switch from portrait to landscape) which is a bummer. One downfall is that if you try to manage photos through a Windows Explorer window it messes up ZoomBrowser's indexing so you have to refresh it. This process asks you to indicate whether you want the photos to be returned to their original location or to be re-indexed where they are. There is no "yes to all" or "no to all" selection so if you manually moved a directory with 100 photos you have to answer the question 100 times. Yuck.
+
+This camera really needs a mechanical mode control. The only mechanical control is for open shutter / movie mode / close shutter. The manual makes reference to changing the ISO setting, but doesn't indicate how to make the change (which requires that the shutter be open). It also fails to indicate that the movie mode switch is the shutter switch (press shutter control once for stills, twice for movie).
+            
+<label> No
+<rating>  4.0
+
+</DOC>
+<

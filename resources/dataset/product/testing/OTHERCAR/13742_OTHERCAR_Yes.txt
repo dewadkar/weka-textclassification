@@ -1,0 +1,211 @@
+DOC>
+<DOCID> 13742 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Sony_DSC-P92_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_112742796932 </URL>
+<TEXT>
+            The Sony Corporation offers consumers an incredibly wide selection of digital camera models, enough to cover the needs of just about every consumer from bare bones entry level models to serious semi pro offerings.  The new DSC P92 lands right in the middle of that broad line up.  Most five megapixel digicams are targeted toward the photo enthusiast market niche, but Sony&#146s designers have stepped out in a new direction and the P92 is intended for casual photographers who want a high performance digital camera but don&#146t want to learn advanced photographic skills. 
+
+The Sony Cybershot DSC P92 features five megapixel resolution, automatic exposure control (with a small selection of "scene" modes), and a creative Picture Effects menu for and point & shoot ease of use.  The P92 is cheaper and less feature rich than Sony&#146s prosumer digicams like the DSC F717 so consumers will have to accept a few compromises (a Sony zoom instead of the Zeiss optics found on its more expensive siblings) but the P92 is an excellent choice for novice photographers who want to take great pictures without having to deal with complex exposure decisions.  The DSC P92's high resolution, rich feature set, durable metal body, and P&S ease of use make it an almost perfect choice for snapshooters, travelers, and family photographers who want a high performance digital camera. that&#146s small enough to drop in a large pocket or small purse and take along anywhere.   
+
+<i>NUTS & BOLTS</i> 
+
+<b>Viewfinder/LCD</b>
+
+The Sony DSC P92 provides a bright eyelevel &#147tunnel style&#148 real image zooming optical viewfinder with a field of view of  about 80% of the frame. 
+
+The P 92&#146s 1.5&#148 LCD screen is bright and fluid with good color.  The minimal information display provides an aperture and shutter speed readout, which is a rare feature on mid level digicams.
+
+
+<b>Lens</b>
+
+The DSC P92 is equipped with a 3X zoom that retracts into the camera body (an iris style lens cover automatically clicks into place) when the camera is powered down.  The lens is relatively a fast f2.8-f5.6/39-117mm (35mm equivalent) optic and it&#146s surprisingly sharp.  
+
+<b>Auto Focus</b>
+
+Three AF area Multi-Point AF (automatically selects the closest subject to one of the  3 AF points) or Center AF (available through the record menu) point only.  Focus is locked by slightly depressing the shutter button.  The autofocus system works well and AF is fast and accurate, but macro focus is not the P92&#146s strong suit.  There is an AF focus aid beam for low light focusing.  
+
+<b>Manual Focus</b>
+
+Manual focus with most prosumer digital camera is cumbersome and slow----but it does work when needed----The P92&#146s rudimentary manual focus option is more like the old scale focusing collapsible lens cameras of the fifties----it offers a range of fixed focus distances (.0.5, 1, 3, 7 meters, and Infinity) and is, in actual use, virtually worthless because there is no fine focus adjustment and it's difficult to see any difference between the settings on the tiny LCD screen.  Here&#146s a question for Sony&#146s engineers----why include a manual focus option on an auto exposure only camera designed for snapshooters who are unlikely to use manual focus?
+
+<b>Macro Focus</b> 
+
+The P92&#146s minimum (macro) focusing distance is 4.0 inches, close enough for e-bay items and flower portraits, but not quite tight enough for in your face bug shots.
+
+<b>Flash</b>
+
+The DSC P92's multi mode built in flash provides Auto,  Fill (forced), and off settings.  Slow synch (Twilight Portrait mode only) and red eye reduction modes are enabled through the setup menu.   Flash output can be set for high, normal, or low. The P92&#146s maximum flash range is (according to Sony) 12.5 feet, which seems fairly accurate, at the high output setting.
+
+<b>Memory</b>
+
+The DSC P92 saves images to Sony&#146s proprietary Memory Stick and Memory Stick PRO formats.  Cards are available in capacities up to 128 MB (Memory Stick) or one gigabyte. (Memory Stick PRO) and a 16MB Memory Stick is included with the camera.  P92 purchasers will need to buy a higher capacity memory card (five megapixel images eat up storage space pretty quickly).  Memory Stick PRO cards are faster than standard Memory Sticks (about equal in speed to xD Picture cards) but they are substantially more expensive than comparable flash media.
+
+<b>Connectivity</b> 
+
+USB 2.0 and A/V out 
+
+<b>Power</b>
+
+Sony has finally started listening to consumer complaints, for years purchasers of Sony digital cameras were stuck with proprietary Sony batteries and proprietary Sony image storage media.  The complaints were valid, Sony&#146s batteries were more expensive than readily available AA cells and Memory Stick media was limited to 128MB.  Sony&#146s newest digital cameras run on AA batteries and the new Memory Stick PRO cards go up to one gigabyte in capacity, a real usability victory for consumers. 
+
+The DSC P92 ships with two Ni-MH AA rechargeables and charger.  Right on Sony!!!  Battery life and power management is very good and alkaline AA&#146s can be purchased just about anywhere when users run out of juice in the field.
+
+<i>EXPOSURE</i> 
+
+Exposure with the DSC P92 is automatically controlled, there are no manual exposure options.  In Automatic (P&S) mode user input into the exposure process is limited to minor exposure compensation adjustments. Select Program mode or one of the pre-programmed Scene modes (Twilight, Twilight Portrait, Landscape, Snow, or Beach) and user input includes manually setting ISO sensitivity, White Balance, Exposure Compensation, Spot Metering, and Picture Effects (B&W, sepia, Solarize and Negative Art).
+
+The camera arbitrarily makes most exposure decisions (Program mode limits the slowest shutter speed to 1/30th second, Landscape mode sets focus at infinity, and the twilight scene modes use slower shutter speeds---up to 2 seconds--- and slow-synch flash to light foreground subjects). Users have no control over shutter speed or aperture.  Noise reduction is automatic on all exposures longer than � a second.  
+
+<b>Movie Mode</b>
+
+The P92 allows users to shoot very good quality video clips (with audio) @ 640 x 480 at 16 fps with audio.  The only limitation on clip length is Memory Stick capacity.  Elapsed recording time and remaining time available are displayed on the LCD.  The optical zoom can't be used during recording, but you can preset the zoom before recording begins. Movie clips can also be recorded Negative Art, Sepia, B&W, and Solarize. The P92 also permits users to record short audio notes to accompany images. 
+
+<b>Metering</b>
+
+The P92&#146s default metering mode is Sony&#146s Multi-Metering (evaluative) mode (which evaluates several areas of the frame to determine proper exposure).  The P92 also provides Spot Metering (enabled through the Record menu) for more accurate exposures in high contrast, backlit, and close-up images.  The multi-pattern metering system does a good job and handled everything we tried with good results.
+<b>White Balance</b>
+Auto plus pre-sets for Daylight, Cloudy, Fluorescent, Incandescent, and Flash. 
+
+<i>CONTROLS, DESIGN, & ERGONOMICS</i>
+
+The DSC P92 is a stylish light weight (about seven ounces) ultra compact digital camera that will easily fit into a large shirt pocket or small purse.  The camera&#146s controls are logically placed and easy to use.  Ergonomically, the P92&#146s long shape initially seems a bit strange (with lens at the end of the body rather than in the center) but the camera is comfortable to hold and easy to operate
+
+<b>Technical Specifications</b> 
+
+Viewfinders: Real image zooming optical and 1.5&#148 LCD
+Lens: f2.8-f5.6/39-117mm (35mm equiv) all glass (7 elements in 5 groups including  3 aspheric elements) Sony zoom hic
+Exposure: Automatic 
+Metering: Evaluative and Spot
+Exposure Compensation: Yes  2/-2EV in 1/3 EV increments
+White Balance: Auto, Daylight, Cloudy, Fluorescent, Incandescent, and Flash.
+Sensitivity: Auto, 100, 200, 400 ISO equivalent
+Shutter Speeds: 1/2000th of a second to 1/30th of a second
+Noise Reduction: Yes (automatic on long exposures)
+Connectivity: USB 2.0 and A/V out
+Image Storage Media: Memory Stick/Memory Stick PRO
+Power: 2 AA batteries
+
+Street Price Range $349.00---$399.00
+
+<b>Included</b>
+
+16MB Memory Stick, wrist strap, USB &A/V cables, Two AA NiMH batteries with charger, Software CD, User&#146s manual. 
+
+<b>Optional</b> 
+
+LCS-CP2 Soft Case, SonyVAD-PEA lens adapter for auxiliary lenses, Sony AC adapter
+
+
+<b>In the Field/Handling & Operation</b>
+
+My friend (who sells new and used digital and analog cameras and photographic equipment) turned up on a recent Saturday afternoon and asked if I wanted to come along while he checked out Sony&#146s new DSC P92 five megapixel point and shoot digital camera.  I remembered testing one of the P92&#146s predecessors (the DSC P50) a couple of years back so I was definitely interested. We shot some color tests first which allowed us to check the P92&#146s color accuracy and white balance system.  The P92 did great although both my friend and I thought the images had a slight yellow cast.  We were able to use the camera during two weekends, so the P92 got a slightly heavier workout than most of the cameras we test.  Below are the areas where we used the camera, and how it performed in a demanding and varied selection of photographic venues. 
+ 
+<b>East Main Street</b>
+
+We spent our first afternoon with the P92 shooting Victorian architectural details and the colorful cast iron storefronts along East Main Street.  Louisville is lucky to have one of the best-preserved nineteenth century business districts in the upper south.  East Main Street was the heart of the Louisville&#146s commercial core during the mid and late nineteenth centuries.  The area is filled with three and four story warehouses used to store cargo from the thousands of steamboats that used to ply the Ohio, Mississippi, and Missouri Rivers.  Louisville&#146s profitable Bourbon Whiskey and Tobacco Industries created hundreds of prosperous merchants who commissioned ornate and highly decorative cast iron fronts for their East Main Street buildings.  Most of these cast iron building fronts were cast just up the river in Madison Indiana.
+
+The whole area was sort of forgotten after World War Two and allowed to fall into a state of genteel neglect.  Recently the area has been rediscovered and many of the old buildings have been lovingly restored.  We spent a couple of hours shooting architectural details and close ups of the brightly painted cast iron work.  The P92 did pretty well, although its AF system hunted a bit when shooting shape/form/pattern/texture shots.  Detail and color were excellent and flash coverage was very good with no flash falloff in the corners (we used fill flash mode with the low output setting). 
+ 
+<b>Cave Hill</b>
+
+Our first Sunday with the P92 the weather was absolutely beautiful (mid seventies, blue skies, and puffy white clouds) so we headed for Cave Hill Cemetery (Louisville&#146s only arboretum and a favorite shooting location for both of us).  Cave Hill is a huge green space filled with ancient trees, flowers, bushes, two small lakes, old 19th century native limestone grave markers, grandiose mausoleums, and hundreds of geese and ducks so there is always something to photograph. 
+
+It was one of those absolutely wonderful late summer days with almost perfect front lighting that we often get here in the Ohio Valley.  We spent about an hour photographing all the folks feeding the ducks and geese and got several interesting interactions between small children and the hungry waterfowl.  Children feeding ducks/geese/swans is virtually guaranteed to provide a couple of excellent images.  The P92 is perfect for shooting kids being kids---it is quick enough to follow the action and small enough to be unobtrusive.
+
+<b>Cherokee Park</b>
+
+Our second weekend with the P92 we started out at Cherokee Park on a gorgeous afternoon to shoot some outdoor images. We hit the scenic loop (which winds through a couple miles of steep hillsides covered with old growth trees on both sides of Beargrass Creek) Just past the Daniel Boone statue at the entrance to the park we pulled over and parked on the shoulder and walked up the hill beside a small seasonal creek.  The creek was running pretty good so we were able to find some subjects.  We stopped once to shoot a small patch of wildflowers and another time to shoot a small clump of ferns.  The lighting was pretty poor under the old growth canopy so we were able to check out the P92&#146s low light capabilities.  
+
+After we finished up at the little creek we drove down the Scenic loop looking for some people pictures to shoot.  The park was absolutely packed with runners, rollerbladers, bikers, Frisbee tossers, and dog walkers.  It looked like almost everyone in the Highlands neighborhood was at the Park.  After a couple of hours shooting folks having fun we called it a day.  In bright outdoor lighting the P92 shines, the camera is fantastic in good light. And does a great job of rendering virtually any well-lit outdoor scene accurately. 
+
+<b>Seneca Park</b>
+
+Our final outing with the P92 was on a gray and rainy Sunday.  We decided to drive over to nearby Seneca Park and shoot one of my favorite nature subjects, a very small waterfall on Beargrass Creek right at the edge of the golf course.  I&#146ve shot this waterfall in every kind of lighting and weather imaginable.  We parked just past the bridge and walked down to the creek and spent about half an hour shooting the tumbling water and rocks and branches poking above the surface.  We&#146ve had a lot of rain the past couple of weeks, so the little waterfall was looking pretty good.  We used the P92&#146s landscape scene mode to soften the tree-shaded background and make the little waterfall stand out prominently. 
+
+One of the secrets of famous landscape photographers is to choose a few interesting local subjects and shoot them year-round under every sort of lighting and in every kind of weather---you&#146ll become more and more familiar with the spirit of the subject and your images will get stronger and stronger.  By early afternoon the weather had turned rainy and windy and we decided to call it a day, before we got thoroughly soaked.
+
+<i>PERFORMANCE</i> 
+
+The DSC P92&#146s user interface is straightforward----operation is automatic with only a few external controls and a simple well designed menu system..  Exposures are consistently accurate but the dynamic range is limited and exposures are a tiny bit flat with a tendency to lose detail in highlights and block up shadow areas.  Overall, exposure accuracy is a bit above average for automatic P&S digicams. 
+
+<b>Image Quality</b>
+
+The Sony DSC P92 does a good job in the image quality department---color is accurate and well saturated, but there is a very slight yellowish cast in most images (clearly interpolated for a warmer look----something casual photographers demand). Skin tones are very good (just a tiny bit warm) and natural looking.  Outdoor shots with lots of foliage show greens that are boosted just a bit but the end result is pleasing and not garish, just a bit more vibrant than nature intended.
+
+Resolution is very good and images are sharp.  Noise is well controlled and shouldn&#146t be a problem except in very dim light. Macro performance is about average for P&S digicams, with slightly soft corners and moderately harsh flash (overexposure is going to be a recurring problem)  
+After our two outings with the P92 we printed two 8x10 enlargements (with an HP 1215 on Kodak photo paper) and both were sharp with good color and a decent tonal range.
+
+<b>Timing/Shutter Lag</b>
+
+The P92&#146s boot up cycle (camera on, extend the lens, and ready for the first shot) is about 6-7 seconds, noticeably longer than average.  Shutter lag is quite good, typically less than one second, and if you pre-focus shutter lag virtually disappears.  Shot to shot times are above average (between 1 and 2 seconds).  AF lag is about average in good light and better than average in low light.  Digital cameras don&#146t do well shooting action, but the P92 is quick enough to shoot kiddie sports, family outings, and baby&#146s first steps.  Flash recycle timing is noticeably slower than average.
+ 
+<b>A Few Concerns</b> 
+
+Sony&#146s digital cameras have one glaring shortcoming that purchasers should consider carefully, unlike their major competitors (who offer a  one year warranty), Sony provides only a 90 day warranty on parts and labor.  Users who want to take advantage of the enhanced speed and expanded maximum capacity of the Memory Stick Pro format will be obliged to pay a higher tariff for the privilege ----Memory Stick Pro cards cost substantially more than comparable competitive storage media.  Unbelievably, Sony&#146s design folks failed to include a portrait scene mode---which is pretty weird considering that people are probably the world&#146s most popular photographic subjects. 
+
+Both my friend and I noticed  a very slight yellowish cast in virtually all of the images we shot with the P92.  I suspect that slight color cast is a result of the P92&#146s interpolation programming, Sony&#146s engineers compromised color balance slightly in favor of a slight bias toward warmer images and more vibrant greens.  The P92 is targeted at casual photographers who want to be able to shoot striking photographs in full auto mode with all default (including white balance) settings in place-----the slight color cast will not be noticed by most users----but the vibrant greens in outdoor pictures and overall warm bias is likely to appeal to casual photographers.  
+
+Barrel distortion is a bit higher than average at the wide-angle end of the P92's optical zoom, but pincushion distortion at telephoto end is very minor.  There is minor coma and very minor chromatic aberration visible, especially in brightly lit images.  Minor corner softness is visible but shouldn&#146t be a problem for the P92&#146s target audience.  Overall, the P92&#146s lens is very good, especially considering the cameras cost.
+
+<b>Who is the DSC P92 Best Suited For?</b>
+
+The P92 is best suited for beginning and casual photographers who want high resolution images but don&#146t want to deal with complex exposure/composition decisions.  It&#146s also a good choice for shooters who want compact size, enough flexibility to handle a wide range of exposure situations, and a bargain price. 
+
+<b>Conclusion</b>
+
+Five megapixel digital cameras are becoming more common and affordable, yet just a couple of years ago the selection of five megapixel digicams was very small and prices were out in left field. Users who view the DSC P92 with realistic expectations will get a snazzy and capable little five megapixel Point & Shoot digital camera that is tough enough to go just about anywhere and produce excellent images in most situations.
+
+<b>Links</b>
+ 
+Check out my review of a bargain priced and very capable photo quality ink-jet printer. 
+
+Epson Stylus Photo 785 EPX ink-jet printer 
+<a href="/content_60776812164">http://www.epinions.com/content_60776812164</a> 
+
+For definitive advice on How to Choose a Digital Camera please see my review: 
+<a href="/elec-review-2E46-17B174E2-39A418E3-prod1">http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+If you&#146re looking for a compact five megapixel digital camera, you may find the reviews below informative 
+
+<b>Canon Digital Cameras</b> 
+
+Canon Powershot G5 
+<a href="/content_104580419204">http://www.epinions.com/content_104580419204</a> 
+
+Canon Powershot S50 
+<a href="/content_93226503812">http://www.epinions.com/content_93226503812</a>
+
+<b>Sony Digital Cameras</b> 
+
+Sony Cybershot DSC V1
+<a href="/content_107584589444">http://www.epinions.com/content_107584589444</a> 
+
+Sony Cybershot DSC P10
+<a href="/content_110160154244">http://www.epinions.com/content_110160154244</a> 
+
+<b>Olympus Digital Cameras</b> 
+
+Olympus Camedia C50
+<a href="/content_81891724932">http://www.epinions.com/content_81891724932</a>
+
+<b>Minolta Digital Cameras</b> 
+
+Minolta Dimage F300
+<a href="/content_92347993732">http://www.epinions.com/content_92347993732</a>
+
+ 
+
+
+
+
+
+
+
+
+
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

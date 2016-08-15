@@ -1,0 +1,18 @@
+DOC>
+<DOCID> 30106 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_KodakDCC-Kodak_DC-280 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-7A17-7A47A61-395D099E-prod3 </URL>
+<TEXT>
+            The DC 280 gets gorgeous, right on color and is easy to use. I'm VERY happy with it --- my second digital camera. There's lots of flexibility, and the on-screen menu is very user friendly - no trying to figure out lots of cryptic mini symbols obscurely etched on most digicams.
+
+The one problem has been the TWAIN driver. The software shipped with the camera overwrites the existing TWAIN driver and causes an unfixable crash/freeze when using TWAIN acquire with Corel Photopaint or Corel Draw. Nothing seems to help. Kodak says its Corel's problem, and Corel, after much hand wringing, says its Kodak's problem. The TWAIN acquire function works fine with the Adobe software that ships with the camera. Que sera sera. So much for standards.
+
+So, instead of using a direct TWAIN acquire connection directly, I bought a nifty little SanDisk Compact Flash disk reader, which actually is much better than downloading and managing pics from the camera (without an AC adapter, downloading pics is a big battery drain.)
+
+Its a great camera! Two thumbs up. But Corel users should realize you may need to jump through some hoops to make this work for you.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

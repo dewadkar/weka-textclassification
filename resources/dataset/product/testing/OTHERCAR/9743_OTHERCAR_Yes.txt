@@ -1,0 +1,34 @@
+DOC>
+<DOCID> 9743 </DOCID>
+<PRODUCT> Digital_Cameras/Nikon_Coolpix_2500_2_0_Megapixel_Point_and_Shoot_Digital_Camera__Camera_25502 </PRODUCT>
+<URL> http://www.epinions.com/content_72465616516 </URL>
+<TEXT>
+            Why did I want a digital camera?  Well, mostly so that I could take pictures without worrying about film, film processing and scanning.  The major pluses of a digital still camera is that it has those benefits, thus providing a digital file right from the start of the picture taking process.  I chose the Nikon Coolpix 2500 because it had both a fully automatic setting for those who would be taking pictures that would like to do 'point and shoot' and multiple settings for different lighting conditions available to those who are more familiar to that sort of thing.  These two categories are:  1)  people who want to 'take your picture' when you are at a restaurant or family members who 'couldn't take a good picture to save their life', and, 2) the owner of the camera (me).
+
+I seriously considered the Cannon Powershot line of products, but decided it suffered from featuritis and a non-intuitive user interface.  In the Nikon family of cameras the 2500 has a very easy to learn interface for accessing/disabling features that made it a clear winner to me.  In addition the slim form factor and ability to swivel the lens to take pictures in difficult aiming situations (crowded rooms or high lighting conditions hitting the viewfinding screen) were a bonus.
+
+So, all of that said, the big question was that of taking decent pictures.  My test subjects at home were my cats.  For those who try to take pictures of cats, you know that they have lenses in their eyes which will reflect back just about any camera flash used on them.  And, while I am skilled at the use of Adobe Photoshop, I still have problems getting cat pupils back to their wonderful deep, dark, translucent black.  
+
+Thus the first pictures using the anti-red eye flash on the 2500 was actually far worse than a single, normal flash.  The pre-flash for the anti-red eye work actually tended to make the actual flash reflect back more than normal, so that dropped out of the running.  Next up was normal flash in varying lighting conditions, the best of which is good foreground lighting on the face of the cat.  Very, very good pictures that way!  Finally, I decided to try a night-time long exposure with no flash which can work wonders if the cat stays still.  Any color artifacting from the amount of background light can be Photoshopped away.  Now if I could only get my cats to stay still...
+
+For pictures of people at parties and in varying lighting conditions I basically turn the camera on to its fully automatic mode and it does a good job.  The built-in range finding capability of this camera does make you wait a half second or so while it determines the distance to your subject and then get its optimal settings, but that is no worse than manually adjusting such settings on a normal camera.  Unfortunately it doesn't always guess right, thus leaving some red-eye artifacts in the photo or getting the photo under/over exposed.  These can all be dealt with, to some degree, in a software post-processing on a computer.
+
+The only really annoying thing this camera does is the amount of time it takes to actually snap the picture.  From pressing the button to final picture capture can be over a second and a half, which isn't bad for humans but is an absolute eternity for cats.  Felines will not wait out for eternity, but will tend to want to chase it instead...
+
+When I purchased my Nikon Coolpix 2500 I did get a 128 MB compact flash card for it, so that the camera can hold over 200 pictures in its 1600x1200 good quality mode.  And for every day snapshots that will end up on a web page or 4x6 prints that is more than good enough!  I do recommend getting a second battery at purchase as the battery life of active picture taking use is a bit under 4 hours.  And as the battery discharges the entire camera takes a bit longer to recharge its flash and save its pictures to the CF card.
+
+As I picked this camera up for quick travel purposes, I would also recommend getting a good and sturdy camera bag for it.  After a bit of pocket time the viewfinding screen has lost one column of pixels that now show all cyan.  The actual pictures do not show this artifact and it does not impede camera function in any way, but it is a bit annoying.
+
+And this camera's plastic housing feels a bit flimsy and I would not want to drop it on the ground from any height.  It probably is rated for a 3 foot drop somewhere in Nikon's labs, but I just don't trust the lightness of construction that went into it to survive that sort of abuse.
+
+A final recommendation for this camera is to pick up a good photo-editing software package.  Since I am an Adobe Photoshop user for a number of years, that is what I use.  But lesser, more consumer friendly, software packages like Photoshop Elements would also serve the purpose.  The camera does have some on-board sharpening and color balance capability, but low-light and long exposure photos using incandescent light sources tend to give a yellow/orange cast to the entire picture.
+
+This camera comes with a suite of software for downloading pictures via an enclosed USB cable to a computer, which is very handy.  I purchased a separate compact flash card reader in case I ever need that instead of tying the camera down to a single computer for the download time necessary (which is only a few seconds per picture).  Photos are saved using JPEG lossy compression, which is no big deal if you don't constantly open and resave the pictures later.  File size runs between 300 KB and 470 KB, so even a couple of hundred of them shouldn't make a big dent in a large hard drive.
+
+The upshot of all of this is:  it is a nice camera, it takes good pictures, and it needs some care an attention as it definitely feels light weight.  It definitely suits by needs for light to moderate picture taking, without requiring that I need to teach everyone who uses it how it should be programmed.   And if you take a bad picture, you can erase it immediately!  Never another wasted shot of film for me again...
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

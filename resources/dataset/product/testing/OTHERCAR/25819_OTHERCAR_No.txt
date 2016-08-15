@@ -1,0 +1,209 @@
+DOC>
+<DOCID> 25819 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Fuji_Finepix_S7000_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_120479321732 </URL>
+<TEXT>
+            The Fujifilm Corporation has created some very impressive and useful digital cameras.  Consumers loved the Finepix 6900Z, the 3800Z and the 2600.  Fuji&#146s innovative update of the 6900, the Finepix S602 was one of the big hits of 2002.  The new Finepix S 7000 (the S602&#146s replacement) was supposed to put Fuji in a position to challenge Canon&#146s dominance of the very popular (and very profitable) prosumer digicam market niche. 
+
+The 6.3 megapixel Finepix S7000 is the first Fuji model (along with its&#146 3 megapixel sibling the S5000) to sport the company&#146s 4th generation SuperCCD HR sensor.  Fuji&#146s &#147Super CCD&#148 imagers use octagonal sensors rather than the ubiquitous square sensors used in other digital cameras.  The octagonal sensors form a honeycomb-patterned array that is slightly more efficient and consequently able to record a bit more image detail than conventional sensor arrays. 
+
+The S7000 can (using a process called interpolation) double its&#146 native resolution from six megapixels to twelve megapixels (the Camera&#146s CPU analyzes the image and adds a same color duplicate pixel for each original pixel) ---- sort of like stuffing a size eight girl into a pair of size four jeans.  Hypothetically (because individual picture elements are so tiny) the added pixels create a shaper denser image----in reality this isn&#146t always the case. 
+
+Photographers can use interpolation as one additional tool in their imaging arsenal to subtly improve color saturation, marginally increase contrast, and slightly boost apparent depth and image detail---just keep in mind that the process doesn&#146t work for every image or in every picture situation. 
+ 
+<b>How does the S7000 differ from the S602?</b>
+  
+The biggest difference is the resolution increase from 3 megapixels to six megapixels---which drops the S7000 into the same resolution class as all currently available entry level digital SLR&#146s.   Camera operation and menu navigation are changed slightly from the S602, but shooters who&#146ve previously used Fuji digicams should have no trouble using the S7000 after briefly scanning the user&#146s manual.  The most interesting change is the new "F" button next to the LCD screen.  This button streamlines menu options and makes navigation faster and simpler. Another nifty new feature is the "Chrome" color option, used to bias exposures for high contrast bright colored scenic shots that are supposed to look like slides. Another neat new feature is the addition of a dedicated continuous auto-focus option (the camera continuously adjusts focus to track moving subjects). 
+ 
+<i>NUTS & BOLTS</i>
+ 
+<b>Viewfinder/LCD</b>
+
+The S7000&#146s EVF (electronic view finder) is one of the best I've used, and that&#146s high praise because I don&#146t like electronic viewfinders. Color accuracy and fine detail are amazing for such a tiny screen. There's a diopter correction adjustment for eyeglasses wearers.  
+The S7000&#146s 1.8&#148 LCD screen is equally impressive. The color is bright, images are crisp, and there&#146s no lag between &#147real time&#148 in front of the camera and what you see on the LCD screen. LCD brightness can be adjusted.  The EVF/LCD button allows users to quickly and easily switch between the EVF and the LCD.  The LCD&#146s exposure information display is excellent and there&#146s a live histogram display for fine-tuning  
+ 
+<b>Lens</b>
+
+The Fuji Finepix S7000 is built around a 6X Super EBC Fujinon f2.8-f/11/35-210mm (35mm equivalent) aspherical zoom lens.  The S7000&#146s zoom setting can be manually adjusted in AF mode using the lens ring.  Minimum focusing distance (macro mode) is 4 inches. There&#146s also a Super Macro mode that permits focusing as close as 0.4 inches.  The S7000&#146s lens shows visible barrel distortion at the wide angle end of the zoom range, but pincushion distortion (at the telephoto end of the range) is well controlled.  I didn&#146t notice any vignetting (darkened corners) but there is some visible chromatic aberration (purple fringing) in high contrast color transition areas.
+
+<b>Auto Focus</b>
+
+The FinePix S7000 features a precision passive AF sensor (the tiny window above the lens) that quickly determines subject distance for the TTL (multi AF point) contrast-detection AF system. That 1-2 combination results in consistently fast and accurate auto focusing. 
+
+The S7000 provides three focus options: Continuous AF (the camera focuses continuously until the shutter is tripped), Single AF (press the shutter button half way to lock focus), and manual focus. Press the &#147one touch AF&#148 button in manual focus mode and the camera will auto focus while allowing users to fine tune focus manually.  There is no focus-assist beam and the passive AF sensor provides little assistance in low light situation.
+
+<b>Manual Focus</b>
+
+In manual focus mode the lens ring becomes the focus ring (just like with traditional camera lenses) however the focusing ring is electronically ---rather than mechanically---linked.  Manual focusing can be used in conjunction with one touch AF, which is a neat feature.  In MF mode the Focus check function allows users enlarge the center of the image (2X) for critical focusing, but there&#146s no distance scale.
+
+<b>Flash</b>
+
+The built in multi mode (Auto&#151available only in the AUTO mode, Red-Eye Reduction, Fill, Slow Synch, Slow Synch w/Red-Eye Reduction, and off) flash must be manually popped up.  Fuji claims the maximum flash range is almost 28 feet, which seems very optimistic to me.  Flash output can be adjusted from -0.6EV to  0.6EV in 1/3EV increments.
+Above the EVF is a standard hot shoe that will accept most third party external flash units. The camera must be set to "external flash" when a separate flash is mounted.  Only automatic flash units (users dial in the ISO speed and aperture setting) can be used. The S7000 also features a very useful external flash white balance setting.
+ 
+<b>Memory Media</b>
+
+The FinePix S7000 has dual slots for xD-Picture Card and CompactFlash types I & II cards (and Microdrives) and that&#146s neat because it provides users with much greater flexibility in image storage options.
+ 
+<b>Image File Formats</b>
+
+JPEG & CCD-RAW (CCD-RAW images can be converted to TIFF format with included software)
+
+<b>Connectivity</b> 
+
+USB 2.0 and A/V out 
+
+<b>Power and Battery Life</b>
+
+The S7000 is powered by four AA type batteries. Fuji supplies four starter alkalines but users will need to buy at least four (eight is better) 1700-2100 mAh NiMH rechageables and a charger.   Fuji claims the S7000 is good for 300-350 exposures (full time LCD/EVF use and occasional flash use) with 2100mAh NiMH batteries, but those numbers are based on best-case scenarios---realistically users can figure 250-300 exposures with xD or CF media and slightly fewer if using a MicroDrive.  
+
+<i>EXPOSURE</i> 
+
+<b>Auto Mode</b>
+
+In full Auto mode the S7000 makes all exposure decisions, all users have to do is frame the composition and push the shutter button.
+ 
+In Program mode users have substantial input into the creative process while still allowing the camera to make most major exposure decisions; for instance users can engage "program shift" and cycle through sets of shutter speed/aperture combinations, which permits users to select a faster shutter speed (if you don't have a tripod) or a smaller aperture (for more depth of field). 
+
+<b>Scene Modes</b> 
+
+The S7000 automatically maximizes all exposure settings for portrait, landscape, sports, and night scenes
+
+<b>Manual Mode</b>
+
+The S7000 offers a full complement of manual controls including continuous focusing, continuous (five frames) 12MP mode, auto bracketing, custom (manual) white balance, shutter speed, and aperture settings. 
+ 
+<b>Movie Mode</b>
+
+The S7000 has a very good movie mode.  Users can capture short video clips (with audio) at 640X480 @ 30 fps until the memory card is filled. 
+
+<b>In-Camera Image Adjustment</b>
+
+The S700 provides a useful range of in-camera image adjustment options including: Sharpness (Hard, normal, soft), color (normal color, chrome---with higher contrast and more saturation, and black & white), AE Bracketing ( /- 3EV in 1/3EV increments), and multiple exposure (combines two images-- one over the other-- to create one image)
+ 
+<b>Metering</b>
+
+The S7000 provides users with a broad range of metering options including: Multi-Pattern (default), spot and center-weighted averaging
+
+<b>White Balance</b>
+
+TTL Auto, custom (manual-- store two custom white balance settings in memory), sunlight, shade, fluorescent x3, and incandescent 
+
+<b>Sensitivity</b>
+
+TTL (through the lens) Auto (which shifts between ISO 160-800 depending on lighting--- is only available in full auto mode) 200, 400, & 800 ISO (35mm equivalent).  The 800 ISO setting is only available at 3 megapixel or lower resolutions.  The S7000&#146s ISO settings are limited and very restrictive for a prosumer digicam---Fuji should have included an ISO 50/100 setting and allowed the ISO sensitivity to be set to auto in all exposure modes 
+
+<i>CONTROLS, DESIGN, & ERGONOMICS</i>
+
+Appearance wise there isn&#146t much difference between the S602 and the S7000 (the S7000 is a bit larger).  The S7000 is a bulky professional looking polycarbonate bodied camera with a substantial built in grip.  The camera is comfortable to use (if you are right handed) and has a real SLR like feel.  The controls are well laid out and logical in their placement.  The Shift button (users hold it down and press one of the other buttons to change settings) and the F button (fast and simple menu navigation) are particularly useful. Pressing the info button (in record and playback modes) displays camera settings and a live histogram on the S7000&#146s LCD screen. 
+
+<b>Technical Specifications</b> 
+
+Resolution: 6.3 megapixels (2048x1536) and 4048 x 3040 (12.3 megapixels) Interpolation enhanced images
+Viewfinder: EVF (Electronic Viewfinder)
+LCD: 1.8&#148 TFT LCD
+Lens: 6X optical Fujinon EBC f2.8-f11/35mm-210mm(35mm equivalent) Zoom 
+Exposure Modes: Program AE, Auto, Scene Program modes, Aperture Priority, Shutter Priority, and Manual exposure modes. 
+Metering: Multi-Pattern (default), spot and center-weighted averaging
+Image Storage Media: xD picture cards and Compact Flash (CF) Type I & II (including Microdrives)
+Image File Formats: JPEG and CCD-RAW (convertible to TIFF with included software)
+Flash: built in multi mode Speedlight and hot shoe for external flash units
+Movie Mode: Yes 640X480 @ 30 fps with sound
+Auto Focus: Combined Passive IR AF and contrast detection AF system 
+Sensitivity: Auto, 200, 400, & 800 ISO (35mm equivalent)   
+White Balance: TTL Auto, Custom (1&2), sunlight, shade, fluorescent (1,2,&3), and incandescent
+Connectivity: USB 2.0 & A/V out 
+Power: Four AA batteries  
+
+MSRP $699.00 Street Price Range $599.00-$649.00
+
+<b>Included</b> 
+
+16MB xD-Picture Card, four AA alkaline batteries, neck strap, lens cap, USB cable, AV cable, software CD, and users manual 
+
+<b>Optional</b> 
+
+Fuji AC adaptor, 1700&#1512100 mAh NiMH AA batteries and charger, filter adapter (users can attach 55mm filters and add on wide angle and telephoto converter lenses). 
+
+<b>In the Field/Handling & Operation</b> 
+
+My friend (who sells digital and traditional film cameras) and I both love to play with new photographic toys.  So I wasn&#146t too surprised on a recent Saturday morning when he stopped by with a new Fuji Finepix S7000 digital camera and asked me if I wanted to go along and help him test Fuji &#145s newest Finepix.  
+
+Saturday morning was absolutely beautiful, but very cold.  We&#146d gotten our first snow of the season the night before.  We wanted to take the S7000 to Cave Hill Cemetery and shoot the rows and rows of small white marble headstones on the small hill that serves as a final resting place for some of the thousands of Union soldiers killed in Kentucky during the Civil War.  The top of the hillside has a smaller number of Confederate graves making this area is the only place in the country where Northern and Southern troops lie at rest together.  The hill slopes down to a small pond at the edge of a group of old growth trees.  It has long been a favorite shooting site for my friend and I.  The patchy snow and uniform rows of headstones against a cobalt blue sky made for some dramatic patterns from the road that separates the rebel and yankee headstones.  We spent about an hour shooting the brightly frontlit headstones before the cold drove us back to the car for a quick trip to Heine Brothers coffee shop on Bardstown Road for warm up cappuccinos.
+
+After we finished our cappuccinos we drove over to nearby Baxter Avenue to shoot the huge coffee pot and cup outside Lynn&#146s Paradise Caf�.  We lucked into some very nice lighting on Lynn&#146s &#147kitschy&#148 signature sidewalk sculptures.  I switched the S7000 to the nifty &#147Chrome&#148 color option. We both agreed that the enhanced color saturation and slightly increased contrast did not actually mimic the look of a 35mm slide, but as a creative option it worked very well.  The huge concrete kitchen symbols absolutely glowed with high contrast color and superb detail. After we finished up at Lynn&#146s we called it a day. 
+
+We started off Sunday morning by running some color tests.  Over the past couple of years we&#146ve developed a simple color test that works very well and allows us to compare results from one digital camera to another. We use a large cardboard box (with the front and top panels cut away) lined with white photographic background paper. We first auto white balance the camera (using the white background paper) and then set up and shoot a selection of brightly colored (red, blue, green, and yellow) plastic kiddie beach toys with the camera mounted on a tripod under a very simple single softbox lighting set-up.  The S7000&#146s color accuracy was relatively neutral---bright and well saturated, but not garish. 
+ 
+Sunday morning was much warmer than Saturday (low sixties) with blue skies and wispy clouds.  We headed downtown to East Main Street to shoot the colorful Victorian cast iron storefronts along one of the nation&#146s best-preserved nineteenth century business districts. East Main Street was the heart of Louisville&#146s commercial core during the mid and late nineteenth centuries. The area is filled with three and four story warehouses.  Louisville&#146s profitable Bourbon Whiskey and Tobacco Industries created hundreds of prosperous merchants who commissioned ornate and highly decorative cast iron fronts for their East Main Street buildings. 
+
+The area was sort of forgotten after World War Two and allowed to fall into a state of genteel neglect. Recently the area has been rediscovered and many of the old buildings have been lovingly restored. We spent about an hour shooting architectural details and close ups of the brightly painted cast iron work. The S7000 did a very nice job of capturing the rich colors and rough gritty textures of the cast iron.  After we finished up on East Main Street we headed for the nearby Extreme Park to shoot skateboarders in action.  Skateboarders gravitate to the park at all hours of the day and night to perfect their moves.  The place is a photographer&#146s dream with stunning visual opportunities (the colorfully clad boarders stand out dramatically against the snow-white concrete of the twenty-four foot full pipe, the eleven-foot bowl, and the six-foot quarter pipe.  The bowl is perfect for getting action shots of boarders &#147catching some air&#148 in gravity defying leaps. 
+ 
+Really good skateboarders move at fantastic speeds and the S7000 was able to keep up pretty well.  By this time the sun was starting to dip below the horizon and we wanted to catch a skateboarder in mid air silhouetted against the blue and pink sunset sky.  After several tries we were able to get the timing right, but that was the easy part.  What was much tougher was to get the framing and body language just right.  We spent about fifteen minutes shooting several very skillful boarders showing off for us, but we never did manage to put all the pieces together.  We did grab a couple of decent shots, but nothing that was really spectacular. After we finished up at the Extreme Park we spent about an hour reviewing all the images we&#146d shot over the course of the weekend.
+  
+<i>PERFORMANCE</i>
+ 
+<b>Shutter Lag/Timing</b>
+
+The S7000 is quick to start (the boot-up cycle is less than 3 seconds) and has very fast shot to shot times (due to the large buffer). Shutter lag is quite short, easily equal to (or better than) the average for five/six megapixel prosumer digicams.  Because it accepts a wide range of image storage media (xD Picture cards, CompactFlash cards, and Microdrives) the S7000&#146s write to card times will vary noticeably, depending on the media used, but overall write times are faster than average. AF speed is also very good.  Based on my subjective and un-scientific tests the S7000 appears to be one of the fastest digital cameras on the market. 
+
+<b>Image Quality</b>
+
+Because of the diagonal arrangement of the honeycomb shaped individual sensors, slightly more image information is captured than with a standard square sensor array.  The S7000&#146s interpolation software uses this additional picture data to record noticeably sharper images with slightly increased tone (contrast and shadow detail) and color saturation.  The S7000&#146s color balance is slightly improved over the S602 and quite good when compared to its&#146 competition----my friend thought the S7000&#146s color was the best in it&#146s class. The result is an enhanced image with a subtle but clearly visible difference in depth and &#147look&#148 when compared to most other five/six megapixel prosumer digital cameras. The S7000&#146s White Balance system also worked beautifully handling several different types of outdoor lighting very well, however there was a much higher than average level of noise present in all images we shot over the course of our test. We didn&#146t shoot any macro shots, so I can&#146t comment on macro image quality.  We printed two 8X10&#146s with an Epson Color Stylus 785 EPX  (on Kodak photo paper) and the images were sharp with excellent color, but the high noise level did rob our enlargements of some detail.
+
+The S7000&#146s six megapixel CCD-RAW images tend to be a bit noisier than average, but the highly touted 12 Megapixel mode produced consistently noisy images that would show noticeably reduced detail if printed.  JPEG images are even noisier, due to very aggressive processing and compression.  If image quality is an important consideration, plan on lots of post exposure image manipulation.  For point & shoot photographers the S7000&#146s warts probably won&#146t be very important, but then this camera wasn&#146t designed for point & shoot photographers.
+  
+<b>A Few Concerns</b> 
+
+There is noticeable barrel distortion at the wide-angle end of the S7000&#146s zoom but pincushion distortion is well controlled.  Images are much noisier than they should be for a six hundred dollar prosumer digicam---Fuji&#146s engineers need to completely redesign the S7000&#146s noise reduction system.  
+
+The S7000&#146s most serious fault is the incredibly restrictive ISO mode. The Auto setting  (which shifts between ISO 160-800 dependent on lighting) is only available in full auto mode making ISO 200 the minimum user selectable sensitivity setting.  Prosumer digicams are supposed to offer most of the benefits of an SLR without the bulk and complexity, but the S7000 restricts shooters by making the ISO 160 setting available only in full auto mode and the 800 ISO setting (useful for shooting in low light situations) available only at the 3 megapixel  (and lower) setting.  Fuji should have included an ISO 50/100 setting and allowed the ISO to be set to auto in all manual exposure modes.
+
+To put the ISO shortcoming into perspective think about it like this----you&#146ve just bought a fast Mustang GT only to discover that the transmission doesn&#146t have a first gear (ISO 50/100).  Second gear (ISO 160) can only be used when the cruise control is engaged and fifth gear can&#146t be used for highway cruising, it can only be engaged in heavy traffic.
+
+Finally, the focus/zoom ring is electronically (rather than mechanically) linked.  When the ring is turned it isn&#146t actually moving the lens elements it is really just telling the CPU which direction to direct the power focus/zoom in.  It just isn&#146t sensitive or precise enough to be really useful.  
+
+<b>Conclusion</b> 
+
+Fuji&#146s S7000 is going to be compared to Sony&#146s new 8 megapixel Cybershot F828.  The most likely assessment  is going to be that Fuji&#146s newest prosumer digicam failed to measure up.  Fuji&#146s design folks and engineers failed to push the envelope, the S7000 could have offered consumers a real alternative to Sony&#146s F828 and at just about half the price.  Fuji&#146s timid update of the S602 killed what might have been THE digital camera of the 2003 holiday buying season and that&#146s too bad because the potential was clearly there.
+
+<b>Links</b>
+
+Check out my review of a bargain priced and very capable photo quality ink-jet printer. 
+
+Epson Stylus Photo 785 EPX ink-jet printer 
+<a href="/content_60776812164">http://www.epinions.com/content_60776812164</a> 
+
+For definitive advice on How to Choose a Digital Camera please see my review: 
+<a href="/elec-review-2E46-17B174E2-39A418E3-prod1">http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+For more information about comparable Digital Camera models you may find the reviews below informative: 
+
+<b>Nikon Digital Cameras</b> 
+
+Nikon Coolpix 5700
+<a href="/content_70131814020">http://www.epinions.com/content_70131814020</a>
+
+<b>Canon Digital Cameras</b>
+
+Canon Powershot G5
+<a href="/content_104580419204">http://www.epinions.com/content_104580419204</a> 
+ 
+<b>Sony Digital Cameras</b> 
+
+Sony Cybershot DSC V1
+<a href="/content_107584589444">http://www.epinions.com/content_107584589444</a>
+
+<b>Olympus Digital Cameras</b> 
+
+Olympus Camedia C5050
+<a href="/content_82693164676">http://www.epinions.com/content_82693164676</a>
+
+ 
+
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

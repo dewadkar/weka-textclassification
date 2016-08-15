@@ -1,0 +1,94 @@
+DOC>
+<DOCID> 11100 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_RicohRDCC-Ricoh_RDC-2 </PRODUCT>
+<URL> http://www.epinions.com/content_17704455812 </URL>
+<TEXT>
+            Several years ago - Christmas of 1997 - I received a <b>Ricoh RDC-2 Digital Camera</b> with a load of extras and addons as a gift.  The total package included the camera itself, a removable LCD Monitor (DM-2), a carrying case, a rechargable battery pack, bundled software (PhotoStudio), a carry strap (or something of the sort), several useful manuals, an upload cable, and an AC adapter (AC-2).  I don't believe all of these things are included with the bare bones purchase, but since this is the package I received, it is the package I will review.  <i>Note that all of these things are <b>Ricoh</b>, and not just compatible accessories bought separately.</i>
+
+
+<b><i>The Camera</i></b>
+
+At the time, this camera was probably one of the best on the market, in its price range.  If you ask me, it's still not even close to the bottom of the barrel, and it is, after all, several years old.  In fact, the <b>RDC-2</b> has features that many of the newer digital cameras still don't.  Whether or not these are features you're looking for is the issue.
+
+<b>Two Zoom Levels</b>
+
+A simple zoom switch is positioned conveniently near the release button, so capturing exactly the picture you want is a piece of cake.  This way, you don't have to change positions - or even look away from your target - when you want to take a closer up or further away picture.  While there are only two zoom levels, this is still better than many cameras.
+
+<b>Three Compression Levels</b>
+
+Since there is not a lot of internal memory, the three compression levels that this camera offers can really come in handy.  All compression levels produce images that are 768x576 pixels, but the disk size and quality differ quite a bit.  At the lowest level quality, the camera's internal memory can hold 38 pictures - they are each roughly 48k, which is impressive, considering the resolution.  The quality also does not suffer nearly as much as you might think, unless you have a highly detailed picture.  At mid-level quality, the camera can hold 19 pictures, and the file size is roughly 96k.  At the highest setting, the camera can hold 9 pictures, each one being around 192k.
+
+It is really the size that is affected the most by the compression levels.  Some images will show compression more than others, but, in general, there is not a whole lot of difference.  Unless I am taking pictures that will be made into prints, or used at high resolution, I usually stick to the lower quality levels.
+
+<b>Sound Recording</b>
+
+While this isn't the best sound recording obtainable, it is a handy feature to have and it can be a lot of fun.  You can record 7:46 (minutes:seconds) of sound alone, or you can take stills with sound (the PhotoStudio software will make these into AVI format).  I believe you can do video with sound if you have a PC card (memory card), but I really can't comment on this since I don't have one to try it with.
+
+<b>Memory Cards</b>
+
+I am not sure on the specs of what cards are acceptable, but I'm sure it wouldn't be hard to find out.  There is a button on the camera that allows you to switch between memory card and internal memory - so you can store more pictures, video, and sound.  Without a memory card, I do not believe videos can be made.
+
+<b>Two Usage Modes</b>
+
+One of the handy things about this being a digital camera is the fact that you have a playback mode as well as recording mode.  This way, you can preview the image (using AV out or an LCD monitor) or play back sounds at any time, and delete any that you don't want to keep.
+
+<b>LCD Monitor</b>
+
+Having the LCD monitor is definitely a major plus.  Personally, I hate looking through the little view boxes on cameras, since I have glasses and horrible vision without them.  The camera does, of course, have one of these little view boxes, complete with a focus, but the removable LCD monitor gives you a better idea of what the picture is going to turn out like - if the colour will be distorted, what the light level will be like, etc.
+
+With the monitor, you have added control over sound volume, and there is a brightness control for your monitor - which is very handy, considering the way LCD tends to respond to different levels of light.  There are times, however, when sunshine renders the monitor virtually useless.
+
+<b>Upload Cable</b>
+
+The upload cable connects to a COM port and plugs into the camera alongside the AC adapter and AV out.  While the cable itself is pretty heavy duty, the end that plugs into the camera is the <i>only thing</i> I've ever had a problem with.  Mine wore out after a couple of years, and, though it still works, it has to be held in while uploading, or the connection will die.  This is very annoying, but probably easily replaced.  At least it still works.
+
+<b>AC Adapter</b>
+
+This is definitely something you'll want to get, assuming you take a lot of pictures indoors or near an outlet.  The <b>RDC-2</b> really goes through batteries.  <i>Really.</i>  I think plugging it in is also necessary if you're using rechargable batteries, which are also a good idea.  Otherwise, you'll be going through AA batteries (it takes 4) like snakes go through skins.  Actually, more...
+
+<b>Interface Layout</b>
+
+The interface is nicely laid out - there are not too many buttons, and they're arranged in a straight-forward manner.  The release button is situated appropriately, so you will be less likely to end up with your thumb in the picture (though you may cover the flash if you hold the camera with two hands), and you shouldn't be accidentally pressing any other buttons.  The zoom switch is nearby, so no time will be wasted searching through the buttons for it.
+
+In the main control area, there is a small display panel that will tell you options and settings while in recording or playback mode.  This is very handy, since it cuts down on the number of buttons necessary, and it is easy to see.  All of the buttons are themselves clearly marked as well.
+
+The camera is itself a nice looking piece of equipment - modern looking, but easy to hold on to.  The designers were not so concerned with making it <i>look cool</i> that they laid it out poorly - it is smooth and silvery, but effective and comfortable to use.
+
+
+<b><i>Overall Durability</i></b>
+
+This camera has lasted very well, considering all of the abuse that it's been dealt.  My pets have repeatedly knocked the camera off tables and counters, it has been dropped, packed around, smacked into walls, smooshed in suitcases and bags, slapped for taking unflattering pictures (<i>it's all the camera's fault, I say!</i>), and buried in endless piles of junk.  The only complaint I have remains that nasty upload cable - well, and the battery usage.
+
+The camera itself does have a very nifty feature to help combat the overusage of batteries, however - it automatically powers off if it isn't used for a short while.  This has the potential to be irritating, but it is nonetheless handy if you're anything like me - easily distracted and terribly forgetful.
+
+
+<b><i>Picture Quality</i></b>
+
+The quality of the pictures taken by the <b>RDC-2</b> is excellent compared to many others I've seen.  The flash (which can be turned on or off) is somewhat hinky, sometimes bleaching out features and fading backgrounds, other times tinting everything funny colours, but it <i>does</i> handle almost all light levels very well.
+
+The amount of detail that the camera picks up is actually very good, though, as I said, the colour is not always true.  This is fairly easily corrected with photo software, though, and is not a big enough issue to cause a major problem.  I would rather have a bit of discolouration, which can be fixed, than a lack of detail and crisp edges.  There is little to no noise or interference in the pictures that I have taken with this camera - unlike webcams and some digital cameras.
+
+The camera doesn't seem to handle high levels of sunlight very well.  This will sometimes bleach everything entirely, leaving you with a lot of white spots.  For instance, I took some pictures of the ocean off Big Sur in midday and the water reflecting the sunlight ended up mostly white, seriously high contrast.  They were pretty, but.. very glittery.  The LCD was also really hard to see.  But for most occasions, this is not an issue.
+
+I would say that the pictures are usually high definition, though obviously better in ideal light circumstances.  However, I think this is true with any camera, and I don't count this against the <b>RDC-2</b>.
+
+
+<b><i>The Software</i></b>
+
+<b>PhotoStudio</b> is a straight-forward, handy photo editing program that is included with the camera.  It gives you several options for editing and correcting your photo, as well as picture albums and AVI playback for those videos or pictures than include sound.
+
+The "special effects" are actually somewhat similar to those in <b>Adobe Photoshop</b>, with many of the same useful tools - such as hue/saturation, brightness/contrast, tone, and rotation adjustments.  Additionally, most of the same toolbar goodies - smudge, gradient fill, airbrush, etc. - are available in <b>PhotoStudio</b>.
+
+Though I haven't used the software much (I usually upload directly into <b>Adobe Photoshop</b>), it is really a nice program - especially considering some of the awful stuff that scanners and cameras tend to come with.
+
+
+<b><i>Conclusions</i></b>
+
+I have been very satisfied with the <b>RDC-2</b>, and I highly recommend it to those who are looking for these kinds of features in a digital camera and have the money to spend.  It is fairly pricey, though it has probably come down some since 1997.  Though it is not the best on the market, I believe that for the average person, it has the durability and quality to be worth consideration.
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

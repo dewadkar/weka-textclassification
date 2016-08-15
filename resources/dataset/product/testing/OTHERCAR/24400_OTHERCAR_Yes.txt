@@ -1,0 +1,31 @@
+DOC>
+<DOCID> 24400 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Casio_Exilim_EX-M20_2_11_Megapixel_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_120990764676 </URL>
+<TEXT>
+            I ran out and bought this camera as soon as it came out (which is just a month ago, at the time of this review).  I <i>love</i> it.  I used to have an Exilim EX-S3; I replaced it with the EX-M20U because I missed having a "macro" lens, I like having an audio recorder handy, and the EX-M20U is even smaller than the EX-S3, it is truly easy to carry this camera all of the time.  If you like playing MP3, then this camera offers that as well, and it takes good movie clips with audio.  It does everything but polish your shoes!
+
+The EX-M20U is so small I'm actually carrying it in the side pocket of the belt holster I use to carry my cellphone.  OK, so I'm a little nerdy; just call me a "technophile".  You might wonder why I don't just use a combination camera-cellphone, but the picture quality on the EX-M20U is in a completely different league than any of the VGA camera-cellphones I've seen.
+
+I don't miss having a zoom on the EX-M20U, I never used that anyway.  But I do wish it had more megapixels, because I often crop pictures, further reducing the resolution. It's only 2 megapixels (which I must admit was just fine, a few years ago).  Perhaps Casio will come out with a higher-resolution version of the EX-M20U.  But this camera is just dandy in the meantime.
+
+The EX-M20U takes great pictures.  It focuses down to 12" distance.  The shutter speed is 1 sec to 1/8000 sec, and it seems to adjust very well for various light conditions.  The built-in flash and red-eye reduction work fine, though not for longer distances (the specs say 5 feet max, but it works to 8 feet or so).  It has a digital zoom which I never use (why throw away resolution until later when you know what you want to crop?).   Like the other Exilims it has a "best shot" mode which allow you to quickly adjust for different lighting conditions, and also provides some interesting extra features, like allowing both you and a friend to get in a picture by taking two shots and merging them.
+
+This camera uses the same thin rechargeable battery as the other Exilims.  It runs for about 3 hours of audio recording, 7 hours of MP3 playback, or several hundred camera pictures.  It automatically recharges whenever the camera is in the provided docking station.  Like the other Exilims, the docking station also doubles as a USB connection to your PC, to allow uploading of your photos.
+
+The EX-M20U comes with the same PC software as the other Exilims, which I find quite handy.  When you push the button on the docking station (just like pushing the button on a Palm Pilot cradle), or if you initiate a synch from your PC, it uploads the photos.  It automatically creates one folder for each date, filled with the photos you took that day, and it creates HTML-browsable thumbnail pages for each day and for each month.  That might be enough photo organization for some people, but for those who want to index their photos with keywords and do more sophisticated searches by date, it's easy enough to use Adobe Photo Album or equivalent, leaving the photos in the same directories already set up by the Exilim software.
+
+Like the other Exilims, the camera itself has some handy features.  You can set two user-selectable shortcut buttons; I set mine to turn on the flash and to switch between modes (movies, audio recorder, MP3, camera, and "best shot" camera).  It also has controls to switch between camera/playback, macro/normal, and display on/off.  In playback mode, a single button deletes a photo (with confirmation) and a single button moves to the next photo.  The menus are easy to navigate for additional features.  It's a great user interface design for such a small camera.
+
+The EX-M20U uses SD cards, currently available up to 256MB.
+It has a built-in microphone and speaker.  You'll want to use the provided stereo headphone adapter for audio playback and MP3; note that this adapter is an extra dongle to carry.  There's an identical model (the EX-S20U) with no MP3 and no audio recorder.
+
+This is truly an amazing camera.  I keep staring at it, marveling how Casio fits the camera lens and mechanism, SD card, removable rechargeable battery, viewfinder, 1.6" TFT display, flash, microphone, speaker, electronics, docking connector, and 7 controls into this tiny  3.27" (W) x 2.08" (H) x .44"(T) form factor!
+
+You can see the specs for this camera at Casio's web site: http://exilim.casio.com/m20uspec.htm
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

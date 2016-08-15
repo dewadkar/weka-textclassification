@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 21148 </DOCID>
+<PRODUCT> Digital_Cameras/614730_Sony_DSC_F505V_Cyber_Shot_Digital_Still_Camera </PRODUCT>
+<URL> http://www.epinions.com/elec-review-1324-243768C5-3A1A1BE4-prod5 </URL>
+<TEXT>
+            I recently purchased this camera and found it to be a very capable system. My favorite feature was the swivel view finder. It made taking pictures at odd angles a snap. The problems arose when I tried to load the software and configure the camera to mate to my computer via the included USB cable. The software loaded well with a few odd questions about computer configuration that might throw a novice user for a loop. After loading the software and connecting the camera the computer did not recognize the camera. After several calls to the customer service department, dealing with people with no more knowledge base than there help system provided I gave up. I contacted the service department for my computer and found the answer. The  Sony USB system was not compatible with my computer USB. Not shocking, but the fact that their customer service department was unaware of the incompatibility with a common, name brand computer USB. Sony�s answer was for me to purchase a $50 floppy disk adapter on top of my $1000 camera. I returned the camera and purchased a different brand with no more difficulty. <br><br>
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

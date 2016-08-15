@@ -1,0 +1,44 @@
+DOC>
+<DOCID> 24497 </DOCID>
+<PRODUCT> Digital_Cameras/613020_Sony_MVC_CD300 </PRODUCT>
+<URL> http://www.epinions.com/content_34866957956 </URL>
+<TEXT>
+                 I got this camera a few weeks ago, but really tested it just this past week on a trip to Seattle.  I had been looking for a digital camera for about 6 months, going to comparative photos at http://imaging-resource.com , as well as reading stuff on other sites, and had basically decided that, for my purposes, I needed at least 3 megapixels.
+
+UPDATE: I've now owned this camera for about 19 months.  I've added further comments to the original review to show how this camera has performed over that time.   
+
+     My main use of this camera would be to get just a few very high resolution photos of my work, that I would be able to print out in an 8x10 format with good results.  Judging from what I read and saw on the web, it would handle this task quite well.
+
+UPDATE: The resolution on this camera at 3.3 megapixels is really not high enough to print out high quality 8x10 photos without a good bit of software enhancement.  However 4x6 prints are as good as any I've seen from 35mm film.
+
+     I also wanted something that would replace the 35mm "snapshot" camera that we have used at parties, and on vacations over the past few years.  So many bad photos, so much wasted film over all that time.  Everybody's done that.  Well, this camera solved both problems, and does a number of cool things I never even counted on.
+
+     The manual is pretty long, but it's fairly strait-forward, and if you read it once you'll probably be able to do anything you want.  I don't know about you, but I'd rather have a manual that explains too much, than one that explains too little.  Pretty good index, too.
+
+     I was attracted by the the exposure options on this camera, which run the entire gamut.  Full auto, to full manual, and just about everything in between.  It has a burst mode that takes three quick shots at the same exposure, but what's really cool is it's bracketed exposure mode that takes three quick shots at three different exposure levels, so it's almost impossible to overexpose or underexpose a shot.  That's what had the friends drooling.  If you're worried about recording space for taking three separate exposures for each shot, don't worry.  I've calculated that a single disk will hold at least one hundred 2048 x 1536 JPEG images, and most times you won't want anything that detailed, so chances are you can get about twice that amount
+
+     The video is pretty jerky, but it can produce some decent short clips. So if you want a video camera, buy one.  Just don't count on this camera, or for that matter, any other digital still camera to produce what your camcorder does.  I'm just counting on it capturing my awful golf swing, so maybe I can work on that.
+
+UPDATE: I got lots of video of that golf swing.  I can see what I'm doing wrong, but correcting it is another story.
+
+     The InfoLithium battery seems to provide plenty of power, considering what it is being asked to do.  It also gives a good display of the available power, so you'll know when it's getting low.
+
+UPDATE:  These batteries are great.  I've got a backup, but have seldom had to use it.
+
+    One minor problem is that you have to keep the camera relatively still for a few seconds after each shot (or series of shots) so that it can write the image to the disk.  You don't have to be a "statue", but you want to try to not jerk the camera around too much.  The audio sounds pretty good, though.  One other drawback is that it seems reluctant to accept disks not made by Sony, and Sony disks cost about 3 times what the average generic does.
+
+UPDATE:  Shutter lag is a bit of a problem, about a second. Sometimes people think you've taken the shot, and start to turn away by the time the camera actually takes the picture.
+     
+     It was really easy to dump the files off of the CD-RW disk onto my computer and format the disk for the next round of shooting.  The USB cable worked fine, but was slow.  I found that it was best to "finalize" the disk and then just put it in the CD drive to make the transfer.  One cool thing is that you can actually use the CD-R capabilities of the camera to store or transfer data files from your computer.  It's like your buying a Mini CD-RW drive when you buy the camera.
+
+UPDATE:  One major problem I've encountered is trouble with the disks.  I've been mostly using rewritable disks, and if you accidentally mar the surface it can wreck the whole disk, if the camera tries to write on that spot.  For some reason the data has to be ordered properly and if that "stream" is disturbed, the camera can't deal with the flaws.  Also be sure to never fill a disk completely, because if it runs out of space to complete the file, it can make the disk unreadable.  For example, once I filled a disk to almost completely full, and tried to finalize it.  In the finalize process, it writes data to the end of the disk.  Since the disk didn't have enough space it stopped halfway through the procedure, and for whatever reason, this made the disk useless.  The photos are still there, but they cannot be "seen" by the computer you are trying to upload to.  Not even through the USB cable.  You can see them on the camera display, but not when you remove the disk and put it in the CD drive of your computer.  This was a SONY disk, not a generic.  I tried some file recovery programs on it, but no luck.  I could probably get them off with some high-end (i.e. very expensive)recovery program, or send the disk in to some recovery company (about $80, but they weren't THAT important.  My suggestion with this camera is that if the photos are important, make sure you upload through the USB cable, rather than the finalize process.
+
+     Really too much to go into, but all in all, a very cool piece of work.
+
+UPDATE:  Despite some problems that have cropped up, I'm pleased with the overall performance of this camera.  It's taken a few knocks over the past 19 months, and still works like new.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

@@ -1,0 +1,223 @@
+DOC>
+<DOCID> 21811 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Canon_PowerShot_SD100_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_114288463492 </URL>
+<TEXT>
+            The new Canon PowerShot SD100 (Digital ELPH) is an updated version of Canon's very popular S230   digicam, a tiny stainless steel digicam that was regarded by many as the ultimate &#147shirt-pocket&#148 camera. If you&#146ve used the S230 (or the S400) you&#146re already familiar with the SD100, it looks (and handles) very much like its&#146 ultra compact siblings.  I was a bit puzzled when I heard that Canon was updating the S230, since the camera is still selling well, but the first thing potential purchasers will notice about the SD100 is that it&#146s even smaller than the S230.  The S230&#146s advanced performance and superb feature set made it an immediate hit with gadget guys, extreme sports fans, and casual picture takers. I predict the SD100 will turn out to be even more popular with Canon&#146s target audience. 
+
+The SD100 is a sexy little digicam that can be taken along everywhere and whenever something neat happens users can amaze their friends by whipping out the tiny shiny Digital Elph to record the moment. Canon&#146s new Powershot SD100 is an excellent choice for travelers, gadget freaks, outdoor aficionados, and snap-shooters who value compact size, point & shoot ease of use, and advanced features and performance.
+
+<b>What&#146s new?  How does the SD100 differ from the S230?</b>
+
+The PowerShot SD100 (called the Digital IXUS II outside the U.S.) is Canon&#146s smallest  (3.3&#148 x 2.2&#148 x 0.9&#148) digital ELPH camera.  The major differences between the S230 and the SD100 is that the SD100 is the first Canon digicam to use SD / MMC cards (instead of Compact Flash cards) for image storage.  The smaller SD/MMC cards and new smaller proprietary battery allowed Canon&#146s camera design staff to make the SD100 even smaller than the tiny S230.
+ 
+<i>NUTS & BOLTS</i> 
+
+<b>LCD</b> 
+
+The SD100 uses the same 1.5" LCD screen featured on the S230.  The display is bright and fluid but resolution is a bit lower than the S230's (to better manage power from the SD100&#146s smaller battery). The LCD features a glare reducing anti-reflective coating and the brightness level can be adjusted via the setup menu.  The LCD is easy to use even in moderately bright outdoor light.
+
+The SD100's LCD screen can be set to display shooting mode, exposure compensation setting, white balance setting, photo effects mode, ISO setting, flash setting, metering setting, resolution/compression data, and a histogram to help evaluate dynamic range in saved images. The LCD screen (which shows almost 100 per cent of the frame) is more accurate for framing and composition than the small optical view finder, but full time use of the LCD will lower battery life substantially.
+
+<b>Optical Viewfinder</b>
+
+Directly above the LCD is the standard tunnel style (Galilean) real image optical viewfinder that covers a bit more than 80 per cent of the frame. The eye level optical viewfinder is bright and zooms with the lens, but there is no diopter correction for eyeglasses wearers.  
+
+<b>Lens</b>
+
+The SD100 features the same f2.8-f4.0/35-70 (35mm equivalent) all-glass zoom lens used on the S230.  When the camera is powered down the lens retracts into the camera body and a shutter style lens cover slides over the front element.   There&#146s no lens thread for add-on lenses or filters 
+
+<b>Auto Focus</b>
+
+The SD100 features the same nine-point AiAF (Artificial intelligence Autofocus) system utilized by the S230.  The system uses nine AF points to determine the primary subject (closest subject priority AF) even when off-center and calculate the camera to subject distance for more accurate auto focus.  Users can turn AiAF off, and default to the center of the frame AF. The SD100 also features an AF assist beam for quicker and more accurate AF in low light.
+
+<b>Manual Focus</b>
+
+The SD100 has no manual focus capability. 
+
+<b>Macro Focus</b> 
+
+The SD100&#146s minimum focusing distance (macro mode) is 3.9 inches at the wide angle zoom setting.  Macro images are fairly sharp with good detail and good color.  The optical viewfinder is not accurate for close up work (parallax) but the LCD viewfinder does a great job.  Flash coverage is good but (like most micro digicams) the top and center are a bit too hot up close.  Corners are noticeably soft, but this is a pretty common fault with ultra compact digital cameras.  The SD100 is adequate for shooting E-bay images and general close-ups, but it&#146s not the optimum choice for critical or precise macro work.
+
+<b>Flash</b>
+
+The SD100&#146s built-in multi mode flash provides Auto, Red-Eye Reduction, Slow-Synchro, and off settings. Maximum flash range is (according to Canon) 9.8 feet, which is a little bit optimistic---7-8 feet is more accurate and realistically anything beyond six feet is going to be pretty dark, unless you shoot in light colored surroundings and have lots of ambient light. 
+
+<b>Memory</b>
+
+The SD100 is the first Canon digital camera to support any memory storage media other than Compact Flash.  The SD100 stores images to SD/MMC cards.  SD cards are available in capacities up to 512MB.  Canon doesn&#146t support the use of MMC cards with the SD100.  
+
+<b>Connectivity</b>
+
+USB 1.1 and A/V out 
+
+<b>Power</b>
+
+The SD100 utilizes a newly designed (and smaller battery) than its&#146 predecessor.  Improved power management actually allows the smaller and weaker NB-3L to last longer than the S230&#146s battery. Canon claims the NB-3L is good for in excess of 300 exposures (with half time LCD and occasional flash use).  A more accurate assessment would be 200 to 250 exposures (with heavy LCD and occasional flash use).  This number will be further reduced by constantly reviewing saved images because heavy use will drain batteries faster.  
+
+The SD100 ships with a CB-2LU 2-hour rapid charger.  The charger charges the battery pack out of the camera.  If you plan on extended trips or daylong shooting sessions, a second battery is probably a good investment.  Micro cameras use tiny batteries and tiny batteries obviously can&#146t store as much power as larger batteries and there is no way to get around this except to carry a back up battery. That said, the SD100 does an excellent job in the power management department.  
+
+<i>EXPOSURE</i> 
+
+<b>Auto mode</b> 
+
+In auto mode, the SD100 functions as an auto everything &#147point&#146n&#146shoot&#148 digital camera. The default evaluative metering system produces accurate exposures and the new AiAF, DIGIC processor, and iSAPS technology combine to consistently generate almost faultless images.  Kudos to Canon for an auto everything that does more than just average exposure information. The SD100&#146s images in auto mode are noticeably better than images shot in auto mode with similar cameras from other manufacturers. 
+
+<b>Manual Mode</b> 
+
+The SD100&#146s "manual" mode is something of a misnomer since the camera still controls aperture and shutter speed, however user&#146s do have limited input into the creative process with the ability to adjust ISO setting, exposure compensation, white balance, and metering options. 
+
+<b>Photo Effects Mode</b> 
+
+Photo Effects is a nifty creative option (first seen on the Canon G2) that allows users to select spot metering, exposure compensation, vivid or neutral color saturation, contrast level, low sharpening, and sepia or B&W tonal effects. You can accomplish the same effects in Paint Shop Pro or Adobe PhotoShop, but in-camera image adjustment is always easier than post-exposure image manipulation.
+<b>Movie Mode</b>
+
+The SD100&#146s movie mode allows users to shoot short video clips (up to 30 seconds) with audio at 640X480 @ 20 FPS (up to 3 minutes with lower resolution). 
+
+<b>Metering</b>
+
+The SD100&#146s evaluative metering system (the camera divides the frame into zones and separately evaluates each zone to determine the best shutter speed/aperture combination) consistently renders accurate exposures in all but the most difficult lighting situations.  A Spot metering option biases exposure on a small area at the center of the frame (useful for off-center, high contrast subjects, or portraiture). There's also a Center-Weighted metering option, which bases the exposure on a much larger area at the center of the frame. 
+
+<b>White Balance</b>
+
+The SD100&#146s White balance system is accurate, but fairly standard with settings for: Auto, daylight, cloudy, tungsten, two fluorescent modes, and a custom (manual) mode. 
+
+<b>Sensitivity</b>
+
+TTL Auto, and settings for 50, 100, 200, and 400 ISO (35mm equivalent).
+
+<i> DESIGN, CONTROLS, OPERATION, & ERGONOMICS</i>
+
+<b>Design</b>
+
+Like the S230, the SD100 is a stylish, ultra compact, stainless steel bodied, retracting lens point & shoot digital camera
+
+<b>Controls</b>
+
+For such a tiny camera the SD100&#146s controls are laid out very well and will quickly become intuitive.  Folks with larger hands will need a little hands-on practice to avoid the &#147fumble fingers&#148 syndrome. 
+
+<b>Camera Operation</b>
+
+The SD100's user interface is intuitive and uncomplicated.  Most commonly used camera controls are external and the well-designed menu system is identical to the one used in the S230.  Most users will have no trouble using the right out of the box with no more than a brief perusal of the user&#146s manual.
+
+<b>Ergonomics</b>
+
+The SD100, the smallest member Canon&#146s digital elph family, like it&#146s siblings (the S230 and S400) the SD100 is ultra compact, lightweight, comfortable to handle for long periods, and easy to use.  
+
+<b>Technical Specifications</b> 
+
+Resolution: 3.2 megapixels (2048X1536) 
+Lens: f2.8-f4.0/35-70 (35mm equivalent) fully retractable 2X all-glass zoom 
+Viewfinders: Real-image optical zoom & 1.5" LCD 
+Auto Focus: TTL AiAF nine-point autofocus system 
+Exposure: Program AE (Automatic) and Manual modes 
+Metering: Evaluative, Center-Weighted, or Spot 
+Exposure Compensation: Yes + /- 2EV in 1/3-step increments 
+Flash: Built-in multi mode (no provision for external flash units) 
+White Balance: TTL auto and presets for daylight, cloudy, tungsten, fluorescent, fluorescent H, and custom (manual) 
+Noise Reduction: Yes&#151automatic on long exposures 
+Photo Effects: Low Sharpening, Vivid Color, Neutral, Sepia and B&W 
+Low-light focus assist illuminator: Yes 
+Shutter speeds: 15 seconds to 1/1500th of a second 
+Sensitivity: Auto and ISO 50, 100, 200, & 400 (35mm equivalents)
+Memory Storage Media: DS/MMC cards 
+Image File Format: JPEG 
+Connectivity: USB 1.1 & A/V out 
+Power: Rechargeable Lithium-ion battery (type: NB-3L) 
+
+Street Price: $329.00-$369.00 (but this may fall to as low as $299.00 by the end of the holiday buying season) 
+
+<b>Included</b> 
+
+16MB SD card, NB-3L Li-ion battery w/charger, wrist strap, USB & A/V cables, Printed users manual and software manual, Canon Software 
+
+<b>Optional</b> 
+
+Extra NB-3L Li-ion battery, soft case, WP-DC10 waterproof case,  Canon AC adapter
+
+<b>In the Field/Handling & Operation</b>
+
+One of the primary signs that summer is really over here in Louisville is the annual Adam Mathews Cheesecake Balloon Festival.  Louisville businessman Adam Burckle (the founder of Adam Mathews Cheesecake) has sponsored this festival (the largest in Kentucky) for the past five years. The AMCBF draws entries from all over the mid-west and upper south and this year&#146s festival was the fifth largest ballooning event in the country (with more than 100 hot air balloons).  For local photographers the Adam Mathews Cheesecake Balloon Festival presents an incredible opportunity to shoot hot air balloons.  The kick off event is the Friday evening balloon glow. I met my friend (who sells new and used digital and analog photographic equipment) and another photographer pal at Bowman Field Friday evening about an hour before dark to shoot images of the huge crowd (60,000 people) and check out the balloons.
+
+There were plenty of photographic opportunities, starting with a decent sunset with dark clouds with pink highlights lining the western horizon. Like most outdoor Louisville events the festival was a sea of noisy children and wired dogs, which provided the opportunity to shoot lots of &#147candid/street&#148 type images. Families and couples spread out on quilts and blankets laid on the ground, just hanging out waiting for the balloons to get set up.  There was a storm front moving in so it looked for a while as though it might be too windy for the event to take place.  Eventually the winds died down and we ended up having almost perfect weather for the event. 
+
+At a balloon glow the balloons are inflated (using fans) and then, just after dark, propane burners begin to heat the air inside the balloons (this also gives the balloons lift).  The burners make the huge colorful balloons glow against the dark night sky like giant light bulbs.  Multiply that visual by 100 balloons and you&#146ll have a pretty good idea of the photographic opportunities available at a balloon glow.  What really sets the Adam Mathews Cheesecake Balloon Festival apart for photographers is that festival spectators are allowed complete access to the balloons. You can get up close, talk to the crews, and shoot pretty much anything you like.  This provides the opportunity to shoot some absolutely stunning color images of the balloon crews (in silhouette) surrounded by the brightly glowing and colorful balloons.  The balloons are huge when you are able to get up close, but most of the burners only flare up for a couple of seconds, so it was very difficult to time exactly when to trip the shutter. The SD100 did a good job and the short shutter lag (with pre-focusing) was a real help in getting the timing right. 
+
+We did a couple of longer exposures with the SD100 mounted on an old Leitz Tilt-all tripod right in front of a balloon and that worked out fairly well.  There was some blur, but it actually contributed to the immediacy of the shots.  I managed to get a couple nice shots of brightly lit balloons aglow against the inky black sky.  My friend shot some very good images of the crowd before darkness fell and I was quite impressed with the ability of the SD100 to go from shooting people/event images (a typical use for the point & shoot SD100) and then capture really super night shots a couple hours later with the same camera.
+
+We left early (the end of the balloon glow brings traffic to a complete standstill on Taylorsville Road) before the fireworks display (a new addition this year) with plans to return the following afternoon.  This year (for the first time) there were two Balloon Glows, one on Friday night and the second on Saturday night. A thunderstorm passed through in the early morning hours Saturday so the morning skies were overcast with massive dark clouds.  I got up early enough to see the Balloons fill the skies around Bowman Field.  By the way, whoever designed the gigantic green dinosaur balloon---putting the basket directly below where the rear legs and massive tail join--- led some of the neighborhood kids to make some really rude observations.  Diffuse overcast lighting was the order of the day until late morning when the skies turned blue and temperatures rose into the mid 60&#146s.  The massive clouds remained making for some very dramatic skies for the antique car show. 
+
+Every major city (and many small towns) in the U.S. have regular old car shows, so here&#146s a tip for getting some really dramatic images, even for beginner photographers.  Check your owner&#146s manual and set color saturation and contrast to maximum.  Get in really close and fill the frame with details like chrome, Marque insignias, and the curvy fenders and grills.  Make sure that you concentrate on an area with no reflections or glare and disable the flash.  You&#146ll get dramatic images that focus (no pun intended) on shape form, pattern, and texture.  Even if you are not a very good photographer you&#146ll be amazed at how striking your close up images are.   
+ 
+<i>PERFORMANCE</i> 
+
+We got together Sunday morning and shot some color tests using brightly colored children&#146s plastic beach toys against a white background. The SD100 produced images with accurate auto mode white balance, no blooming, and barely noticeable chromatic aberration (purple fringing)------ an incredible accomplishment considering the tiny size of the 2X zoom lens. Color accuracy was very good (although saturation was a bit lower than expected) and resolution was excellent. The lens showed no visible pincushion distortion at the telephoto end of the zoom range and only minor barrel distortion at the wide-angle end of the range.    
+
+<b>Image Quality</b>
+
+The SD100 is obviously designed for amateur photographers, however image quality is quite good.  The SD100&#146s color is consistently accurate and well saturated, but not garish.  Caucasian skin tones are a bit warm (typical for amateur cameras) and reds and blues are slightly over saturated (also typical). White balance is excellent, especially for such a tiny camera. 
+
+Macro photography is not the strong suit of micro digital cameras, but the SD100 did pretty well shooting close-ups.  Pollen covered Bugs and ultra close-ups of flower details are not going to work, but E-bay items should present no problem.  The SD100&#146s flash does a pretty good job in macro mode but users will have to watch for hot spots (especially with lighter backgrounds) so be prepared to shoot several shots of anything important.  I was amazed at how well the SD100 did in our night/low light shots.  The tiny little digital elph did an exceptional job where many digicams fail miserably.  If you&#146re looking for a capable party camera, the SD100 will deliver the goods. 
+
+We printed a couple of 8X10&#146s (one of the glowing balloons and one of the grill and front fender of an old Ford coupe with an Epson 785EPX printer and Kodak photo paper and both were really good. The colors were accurate and vibrant and the resolution was pretty impressive.
+
+<b>Timing/Shutter Lag</b>
+
+The SD100&#146s boot-up time is fairly quick, about 3seconds, a bit better than average for three megapixel micro digital cameras. If users pre-focus shutter lag times are quite short, noticeably better than average for micro digicams. Write to card times are better than average (1.5-2.0 seconds at maximum resolution) and AF lag is pretty good as long as the camera doesn&#146t have to hunt.  Overall, the SD100 is a bit faster than average for 3 megapixel micro digicams and noticeably faster than the S230. 
+ 
+<b>A Few Concerns</b>
+
+If purchasers have realistic expectations there shouldn&#146t be any serious concerns about the capabilities and performance of the little SD100, it does as well or better than its competition, across the board.  I didn&#146t use the included software so I can&#146t comment on its quality or usability.  Images are just a tiny bit soft, especially around the corners and there's no way to turn up the in-camera sharpening.  Chromatic aberration was very low, showing only faint purple fringing in high contrast dark-light convergences.  
+
+
+<b>Who is the SD100 best suited for?</b> 
+
+The SD100 is almost perfect for bikers, hikers, backpackers, and outdoor enthusiasts because its small profile allows it to be taken (and used) virtually anywhere. Travelers and tourists, gadget guys, extreme sports fans, party shooters, and casual picture takers will also love the newest (and smallest) digital elph.
+
+<b>Conclusion</b>
+
+Photography has always been about compromises, so there will never be a perfect camera. Tiny cameras have certain inherent limitations that cannot be overcome like shorter battery life and reduced optical capability (small physical size limits battery capacity and lens size). The key to how well a camera does its job relates directly to how well the engineers and designers were able to balance performance and reality. Is Canon&#146s tiny SD100 as good (or better) than its predecessors? The answer is yes.  Photographers who want a tiny &#147tough as nails&#148 three-megapixel digital camera will find Canon&#146s new SD100 hard to beat.  If you're looking for a tiny user friendly digital camera with auto-everything operation (and if very limited manual capability isn&#146t a problem) then the SD100 should go right to the top of your short list. 
+
+<b>A Final Word</b>
+
+There really isn&#146t much difference between the new SD100 and the S230, if you aren&#146t invested in a large supply of SD cards you may want to wait and see how deeply Canon discounts the older S230 during the holiday buying season---you might be able to save a few bucks without having to give up anything important.
+
+<b>Links</b>
+
+Check out my review of a bargain priced and very capable photo quality ink-jet printer. 
+
+Epson Stylus Photo 785 EPX ink-jet printer 
+<a href="/content_60776812164">http://www.epinions.com/content_60776812164</a> 
+
+For definitive advice on How to Choose a Digital Camera please see my review: 
+<a href="/elec-review-2E46-17B174E2-39A418E3-prod1">http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+For more information about competitive/comparable three megapixel micro digital cameras you may find the reviews below useful:
+
+<b>Nikon Digital Cameras</b>
+
+Nikon Coolpix 3100
+<a href="/content_108112285316">http://www.epinions.com/content_108112285316</a>
+
+<b>Canon Digital Cameras</b>
+
+Canon Powershot S230
+<a href="/content_78900203140">http://www.epinions.com/content_78900203140</a>  
+
+<b>Minolta Digital Cameras</b>
+
+Minolta Dimage Xt
+<a href="/content_108112285316">http://www.epinions.com/content_108112285316</a> 
+
+<b>Pentax Digital Cameras</b>
+
+Pentax Optio S
+<a href="/content_102275059332">http://www.epinions.com/content_102275059332</a> 
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

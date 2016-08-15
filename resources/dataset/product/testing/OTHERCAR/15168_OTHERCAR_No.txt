@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 15168 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Toshiba_PDR_M60 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-3EED-4EFEBBE3-3A50795B-prod6 </URL>
+<TEXT>
+            I received the PDR-M60 as a gift for Christmas this year.  On the surface, this camera has a lot of &quot;bang for the buck&quot;, with its decent resolution and features. I promptly took a 4mb card's worth of pictures, and then displayed them on the TV.  The pictures looked great.  Later, I tried connecting the camera to my Macintosh G4.  The included software couldn't communicate with the camera, and as an added bonus, it crashed the whole system every time I attempted to use it.  I called toshiba tech support, and was placed on hold for 33 minutes.  ARRGH!!  When I finally got to a tech support person, she said that I must disable all extensions and reboot whenever I attempt to connect to the camera, then it &quot;should work.&quot;  I calmly explained that I would like to be able to print my pictures on my fancy USB printer, and disabling extensions would render the printer unusable.  She then explained I could still print......after I rebooted with the extensions on. Sierra Soft, makers of the included Mac application, admit the PDR-M60 is not officially supported by the bundled software.  Altogether, a very disappointing product experience.  Imagine buying a brand new bike, only to find that you can't ride it outside (even though it was built for speed), and you'll understand what it feels like to own a PDR-M60<br><br>
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

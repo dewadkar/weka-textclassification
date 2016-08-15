@@ -1,0 +1,56 @@
+DOC>
+<DOCID> 4889 </DOCID>
+<PRODUCT> Digital_Cameras/Sony_Cybershot_DSC_P1_Digital_Camera_Kit_3__I___Camera_dscp1ik3 </PRODUCT>
+<URL> http://www.epinions.com/content_23598632580 </URL>
+<TEXT>
+            Talk about a great all-around camera for the photographic novice or enthusiast--the Sony DSC-P1 is a quality piece of hardware.  (I refer to the DSC-P1 as the "P1" from this point onward.)
+
+<b>Never pay retail</b>
+In early May 2001 I got the P1 at Best Buy for $699.99 (the full retail), and later discovered that MicroCenter sold it for $559.99. I quickly went back to Best Buy to refund me the difference (thanks to their price-matching policy).  My wallet hurts a lot less, and the camera feels closer to being a value purchase, rather than a fanciful one.
+
+<b>Initial impressions</b>
+I was not impressed at first until I learned to use the camera properly.  This being my first digital camera, I didn't know that you were supposed to hold the shutter button down only halfway until the blinking green focus light was solid before pressing the shutter button down all the way.  As a result, most of my shots were not clear at all.  Once I did use the camera properly, I had no more complaints about the image quality.  Several other reviews of this camera on this site complain about blurry pictures, and not using the green focus light seems to be the likely culprit.
+
+<b>Is the P1 for me?</b>
+It must be said that this camera is not for you if you want all-manual focus and f-stop controls.  Sony isn't targeting you with this camera.  I'd recommend Nikon's CoolPix 990 for you, and I plan to get one once the price drops a bit more.
+
+The P1 is excellent, however, for shoving in your pocket (Sony's recently released $19.95 LSC-CP1 case for the P1 is highly recommended, however) and having it at the ready for any photographic opportunity that might arise.
+
+<b>Image Quality</b>
+From what I've learned so far (I've had the camera just over two weeks), it takes great outdoor shots.  Night shots don't seem to fare so well unless the lighting is just right, or else your shots will be grainy.  The flash is next to useless, as most compact camera flashes are.  The shutter speed is not for capturing fast-moving objects, to be sure, unless you want photos that look almost like time-exposure shots.
+
+<b>Memory Sticks</b>
+The Memory Sticks are very nice, especially if you can get the 128 MB version (my brother picked one up for me when he was in Japan recently for only US$175).  The supplied 8 MB stick that comes with the unit is laughable.  They're also so small that it would be very easy to lose them if you're not careful.  Again, having a carrying case (a sin of omission on Sony's part, considering the price of the unit) would solve this problem.  In fact, if you register your P1 within 30 days of purchase, you'll get $20 off any online purchase from Sony, which I immediately applied to the carrying case.  Good deal.
+
+<b>Battery</b>
+Sony came up with the innovative InfoLithium "Stamina" batteries for their various electronics, where the battery tells you how much juice is left, and allegedly lasts for some time before recharging.  The first part is right: the camera does show clearly how many minutes are left before it goes kaput.  The "Stamina" part I have a beef with.  I get about 60-85 minutes of real-world use from the camera before having to recharge it.  So will I buy more batteries?  
+
+First of all, the battery is a proprietary lithium-ion type, so you can't just buy some alkalines from the corner store in a pinch.  Secondly, the battery is not cheap (over $50), so I'm holding out till Sony can make a battery that will last much longer.
+
+<b>The LCD display</b>
+The LCD is bright, to be sure, and the menus are fairly simple to navigate.  You will, however, want to go through them several times to figure out what features are where so you can alter them if you need to on short notice.  For instance, you should at least know how to quickly change resolutions when you know you only need a low-res shot.
+
+<b>File transfer</b>
+The integrated USB is great--if it works with your computer.  It works perfectly with my home system, but not at all with my work machine.  Sony has extra drivers on its site (don't try to find it on their site, the navigation is awful--try http://www.ita.sel.sony.com/support/dvimag/), but their USB implementation is just fussy.  
+
+If it is compatible with your machine, however, it'll work flawlessly.  Since I can't get it to work with my work machine, I am thinking of the following options: USB Memory Stick reader, Memory Stick mouse, or the Memory Stick floppy adapter (which, oddly enough, requires drivers to make it work!).
+
+<b>Nice touches</b>
+The aluminum casing is nice, and (according to Sony's "Story Behind the DSC-P1" on their site) the purple strip around the unit is made to cushion it from a fall.  I don't know how much protection it could possibly offer, so you should 1) get the carrying case and 2) always wear the wrist strap.
+
+For utter frivolity, the camera lets you record movie snippets and audio.  You can also apply effects, like sepia tones and so on.  I prefer to capture images the way they appear, and manipulate them on my computer later.  For instance, if you shoot a regular color image, you can apply effects to it in Photoshop to make it sepia or whatever.  But if you shoot a sepia image, trying to colorize it in Photoshop would not be fun.
+
+Like most cameras, the P1 is designed for right-handers, with even a little thumb indentation on the back of the unit.
+
+The camera also has an A/V out jack on the side to plug it right into your TV/VCR/PC capture card!  Very nice.
+
+<b>Conclusion</b>
+Get this camera if you want an easy-to-use device that you can take anywhere.  What use is a point-and-shoot camera if you have to lug make compromises just to carry it?
+
+If you're a pro who has to have the big-gun, all-pro camera, go for the Nikon CoolPix 990.  If you're a poseur who has to have the big-gun, all-pro camera for no good reason, do some more research and figure out what you want before jumping on what might be overkill for you.  The Sony DSC-P1 will likely suit you just fine.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

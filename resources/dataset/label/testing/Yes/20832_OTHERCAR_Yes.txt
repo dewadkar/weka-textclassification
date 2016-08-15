@@ -1,0 +1,26 @@
+DOC>
+<DOCID> 20832 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2001_Toyota_Prius </PRODUCT>
+<URL> http://www.epinions.com/auto-review-A99-71F3315-39B7EBBB-prod1 </URL>
+<TEXT>
+            I took an extended test drive of the new 2001 Toyota Prius, a hybrid gas/electric car engineered as an ultra low emissions/high fuel economy automobile.  The Prius is rated at 52 mpg city, 45 highway--inverted from the usual pattern of highway mileage being the higher number.  Several technologies are used in this vehicle to reclaim as much energy as possible from a gallon of fuel:
+
+*Regenerative braking--Braking generates electricity to charge batteries.
+
+*Continuously variable ratio transmission--allows peak efficiency to the wheels at all times.
+
+*Gasoline motor charges batteries when load is moderate or low.
+
+The Prius will likely not win any beauty contests, but clearly this is form following function, and the results, both inside and outside the car, are aesthetically acceptable.  The car is solidly constructed, and is built to be practical in everyday use, with four doors and comfortable seating for 4+.  The dash layout and ergonomics are excellent, though not particularly conventional.  For example, the transmission lever resembles a refrigerator handle on a 1953 Kelvinator--you have to pull it toward you as though it were a slot machine to get it into gear!  
+
+The car comes standard with a good sound system, automatic climate control, power windows and locks, and other amenities.  Toyota quality is evident throughout.
+
+The driving experience was a pleasant surprise.  The car handled and accelerated well, and all systems worked as designed.  There would be some getting used to pulling up to a stop sign with the car dead silent, and pulling away again with barely any machinery noise at all.  The gas engine starts and stops according to power/load/climate control requirements.  The braking was slightly non-linear, with a very short delay after pressing the pedal before really kicking in, but very effective after that.
+
+Though consumers have many choices of &quot;green&quot; products today, most involve compromises in satisfaction.  The Toyota Prius appears to be an engineering mature, well executed example of a product with few liabilities and many advantages.  In fact, given the technology executed here, the car is something of a bargain--no more money than a PT Cruiser similarly equipped.  As the price of fuel continues to climb, folks who value the freedom of motion a personal auto represents would do well to look at the Prius alternative.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,35 @@
+DOC>
+<DOCID> 16203 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Minolta_Dimage_X20_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_122179194500 </URL>
+<TEXT>
+            <b>UPDATE (12/18/03):</b> I forgot to mention that Dimage X20 has an abnormally small 1/3.2" CCD. Majority of consumer digicams in this class have at least 1/2.7" CCD. Even much smaller 1.3MP Sony DSC-U10 has a bigger 1/2.7" CCD. In general the smaller CCD the bigger risk of noise and distortion because of more densely populated pixels inteferring with each other. Lens also have to project light to a smaller sensor surface. I didn't notice especially high levels of noise on X20 but barrel distortion at wide angle end was definetly noticeable.
+
+<i>Original Review:</i>
+
+I always carry with me beloved Sony DSC-U10, it's so small that you really forget you have it in a pocket and it's fast for candid photos. Countless times I was able to capture scenes that I otherwise wouldn't with my other "serious" prosumer cameras.
+
+But 1.3MP and lack of zoom and basic features became limiting. So instead of upgrading to DSC-U30 I, regrettably, decided to try Dimage X20 since it's cheap and seemed to be not that much larger and heavier. Don't get me wrong, X20 is a decent camera for the price but for my intended usage ("slip in the pocket, fire fast") it proved disappointing. 
+
+First it's not so pocketable, at least compared to small cell phone sized Sony U-series. But main problem isn't so much as added size and weight (though quite noticeable) but a lot of small and big protrusions on the camera body. Biggest offenders are elevated LCD screen and nasty protruding metal clips on both sides for hooking the hand/neck straps. These protrusions actually increase width (already not for jeans front pockets) and make it hard to take out the camera in a hurry.
+
+Picture quality overall is OK. Macro performance is excellent. But X20 tends to underexpose, especially indoors and in bright sun light. As a result you have to keep it all the time on positive exposure compensation which blows highlights.
+
+Other feature, besides small size, important for the "candid" pocket camera is speed. Compared to Sony (that doesn't have zoom) X20 seems slower though compared to Canon A70, not speaking of Olympus C-5050Z), it's pretty fast. With X20 speed is a mixed bag. Important boot time is fast (considering internal zoom lens extension) but could be even faster if not for the delay you have to keep On/Off button pressed in order to kick in. Same goes for switching camera off. 
+
+X20's AF speeds in general are on par with Canon A70 but nothing to write home about in terms of both speed, accuracy and ability to focus in deem light. Amazingly AF on toyish DSC-U10 is faster and in general somewhat more precise than even on "best of the class" Canon A70. Shutter lag is short and is also on par with A70 but U10 is faster still.
+
+What really puts me off is erratic behavior of recycle between shots (shot-to-shot time) even when flash wasn't used and is not needed. Sometimes X20 is ready to shoot almost immediately. Then suddenly it would take 10 or more seconds to be ready for the next shot. This gets worse if batteries are half depleted. In this case camera will also switch off LCD while it writes to the card and then switch it on when ready. Since X20 has a very good battery life you can continue shooting for a long time but at a much slower and annoying pace.
+
+On a positive side I should say that for its price and size feature set of X20 is very decent on par with more expensive point-n-shoot cameras. Given camera size LCD is of a decent size and of good image quality though its resolution is on a low side. I think same LCD is used on Canon A70 and even A80. On X20 LCD anti-reflective coating which makes it quite viewable under direct sun.
+
+Interface is also fine with a bit bizarre but anyway simple to understand and use menu system. There're some unique functions like ability to shoot a 9 image grid index photo or totally bizarre function to paste part of one photo into the other. I wish there were dedicated "hard" buttons for common things like flash modes and white balance. As it stands now you can assign one but only one function to the left/right controller keys. Why Minolta doesn't allow to assign one mode to the left key (e.g. flash) and the other to the right (e.g. white balance or ISO) still escapes me. There're no builtin scene modes (like night, landscape, etc.) except for portrait but this doesn't bother me a lot.
+
+Conclusion: All in all I think that for the price, sub-compact size and unique internal zoom lens design Minolta Dimage X20 is a good value as a first digicam for novice or maybe for travel on a light side. But as a second (or 3rd in my case :) "always on" pocketable camera for immediate candid shots it's not very useable especially compared with Sony DSC-U30 and Pentax Optio S.
+
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

@@ -1,0 +1,54 @@
+DOC>
+<DOCID> 32277 </DOCID>
+<PRODUCT> Digital_Cameras/514339_Nikon_Coolpix_995 </PRODUCT>
+<URL> http://www.epinions.com/content_33527795332 </URL>
+<TEXT>
+            I was ambivalent about the shift from the 4 AA cell power setup of the 990 to the proprietary EN-EL1 LiIon battery pack, because I've got a small stockpile of NiMH AA's already, but the energy density is higher, it's lighter and smaller, and it lasts a surprisingly decent amount of time before needing a recharge, so I don't mind it as much. The MH-51 charger brings the pack back up to full charge in short order, and is very compact and lightweight for easy portability. With a second pack and an available outlet, you'll always have a charged pack, because you can charge the second one up quicker than you'll use up the first one.  Popping it out and swapping with a fresh pack is very quick and simple, which is also a plus compared with dealing with four separate batteries.
+Having used it for several months, I've had no complaints about its capacity.
+Spare packs are available for about $35 ($50 list), so add it when getting the camera. Li Ion batteries also retain charge better than NiMH batteries too, so that's a useful characteristic for long periods of disuse where you expect the pack to be charged when you need it.
+
+The macro capability is one of the Nikon 99x series' best features; no other digicam matches the ability to get up close and personal.  It has the ability to take pictures with details that are not visible to the naked eye (try taking a picture of your CRT monitor- you'll be able to see the individual RGB elements that comprise the pixels!)
+
+The quick review mode is very useful, as mentioned; it also allows you to put a picture in a picture while shooting, to see the saved picture vs. the current image being photographed. Comes in handy when doing a series of shots for panoramas to make sure you have overlap, and when taking two shots with different settings for comparison, so you can frame them similarly.  There's also the ability to zoom in on the saved pictures by 6X, and pan all around, allowing you to really scrutinize the picture's details. I often use the camera to instantly record copies of receipts and documents- the 6X zoom and pan capability on review mode allows you to read every word of a full page document. While a photocopy is naturally better, this works well enough for quick and legible printouts of records.
+
+
+
+The BSS (Best Shot Selector) mode offered on the Nikons come in handy for the slow shutter speed shots that are handheld, as it allows you to take a series of pictures, and it automatically selects the sharpest one of the bunch, discarding the rest. I find it very useful, as I rarely use the flash, preferring ambient light shots. Note this is only intended for static subjects; not moving ones where the picture content will change from shot to shot.
+
+The menu setups on the 995 are nicely arranged, and the thumbwheel at the top right can be used to make quick changes to multitude of available settings. 
+Hint: the two mode buttons on top can be set up to your preferences to allow you to make fast changes without having to go through a whole button sequence. By setting the right mode button for the color balance selection, to switch between cloudy, incandescent, sunny, and flash modes just press the mode button while turning the wheel, and it will cycle change the mode, as seen on the lcd display.
+ 
+Another nice feature is that the white balance can be adjusted for all types of light temperatures if you aim the measuring spot at a white card and select "measure". It then nulls out the lighting to provide a neutral white for those lighting conditions. Works very well to provide accurate color balance in unknown lighting conditions (such as the new energy saving fluorescents). 
+
+
+Construction is similar to the 990 except for the use of advanced plastics for the lens housing, so as far as durability and such, no problems.
+
+The sounds it makes when focusing is a bit less than silky sounding, and you can feel the vibrations as it racks to and fro, but I've never heard of anyone having problems with it other than the noise. Can't argue with results..it works- (Like timing chains vs. timing belts maybe?) 
+By the way, I vote for chains over belts just for the longevity aspects!
+
+I never use the automatic mode, because the autofocus remains in continuous mode (it can be set to single AF when you depress the shutter button partially, but only in 'M' or manual mode), but that mode would make it pretty simple for anyone to just pick up and start snapping away. The continual autofocus is just too annoying to me to use, though, so I always use manual mode, customized for single AF. There are so many settings and options, you can set it up for virtually any situation.  So, it can be both simple to use, or difficult to use- your choice.
+
+The 4X zoom capability comes in handy to more precisely frame your subject from varying distances.  One hint when setting up your camera-  if you set up the startup zoom to full Tele, the camera will power up much faster than if you set it to wide, or "last zoom".  This is because the camera will always rack the mechanism out to max telephoto on shutdown. It takes longer to turn on and be ready to shoot if you have it set to wide.  While the "last position" setting is also handy if you normally always set it at mid tele position for all your shots, it does result in a longer "off to shot-readiness" time.
+
+The adjustment for focus can be done manually, and is selected using the thumbwheel while watching the displayed distance setting (handy for very dark conditions where prefocusing is necessary). The manual focus is a bit quirky in that you need to hold the button down while you turn the thumbwheel to focus, but each time you push the button, it switches the focus mode, and starts autofocusing, until you start turning the thumbwheel. Once it detects the thumbwheel being turned while the button is held down, it goes into manual focus mode. You need to start turning the thumbwheel immediately after pushing the button to keep it from racking the focus mechanism away from where you wanted it, otherwise there's a bit of extra delay as it returns back to the position you want.
+ Generally, however, the autofocus works very well in most conditions, so the manual focusing is mostly needed only for flash shots in darkness.
+The camera has a selectable mode which will greatly sharpen the edges of the in-focus areas of the displayed image, which works very well to indicate exactly what is in focus.  This is very useful for macro shots, (with extremely limited depth of field), to ensure you are focused exactly where you want.
+
+The swivel lens is a truly useful feature which you'll miss when switching back to a fixed mount camera; it lets you frame a shot above the heads of the crowd, take pictures of the undercarriage of a car, take pictures less obtrusively by being able to face sideways from the subject, take a picture of yourself, get an ant's eye view of the subject, etc.  
+
+
+This camera can pretty much do it all; it's just a matter of finding the right settings to use. The newer 5000 has a smaller size and more pixels, but there's really nothing that this 995 CAN'T do, and the price advantage is hard to ignore-   This is my 6th digicam, and I have NOT had any desire to upgrade- there's just nothing I find I need to do that I can't do with this.
+ More megapixels?  That'd just be diminishing returns, 3.34 is enough; any more and it's just taking more memory space than I really need.
+ Size?  Well, it would be nice to have a smaller package, but the ergonomics of this is nice too, by not having to squeeze the controls into a smaller space. The 5000 has 3X instead of 4X zoom, so that's a bit of a disincentive to switch.
+Prices have come down over time, and though I paid much more than it's now available for, I've not regretted it-
+
+The 995 is now discontinued, but that's really just a bonus now, by making it available for great prices now- it's still just as capable as any today. 
+
+ Thumbs up on a great camera!
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

@@ -1,0 +1,71 @@
+DOC>
+<DOCID> 12582 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_CanonPowerShott-Canon_PowerShot_S10 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-4666-2A2C872B-3A0604F5-prod3 </URL>
+<TEXT>
+            I really loved my Olympus D-360L.  It was a one megapixel model, it came with rechargeable batteries, auto focus and an all glass lens.  I had three 8-meg Smartmedia cards so I could shoot a hundred pictures without having to download the photos to my PC.  I had taken almost 2000 pictures and had printed many pictures through Photopoint, Ophoto, Shutterfly, and other on-line photo printers.  It was a well-spent $300.  But I felt that I wanted to grow, I wanted to take sharper pictures.  The Olympus was very good, but I wanted better.  It didn�t have a zoom, which I found I wanted at various times.  I wanted a better camera, but I couldn�t justify a new camera only six month after buying the Olympus.
+
+<b>The Deal</b>
+
+Digital photography had become a hobby.  I loved the freedom of taking as many pictures as I wanted and only getting copies of the ones that were �keepers�.  I loved being able to modify the pictures I took with software, rescuing what would have been a bad picture with film.  I spent some time on the Internet at various digital photo sites and newsgroups.  One day I was at the alt.photo.digital newsgroup and I read a post from someone who bought a Canon S10 at Office Max for $250.  Over the next few days, there were follow-up posts from people who bought this camera and couldn�t believe the deal.  
+
+I started researching this camera.  I had had a Canon Rebel SLR for many years and was very happy with it so I did believe in the company behind the S10.  The S10 was a two-megapixel camera with a 2x optical zoom.  As I read up on this camera, the only negative comments were about the battery.  From my Olympus history, I knew that digital cameras were battery hogs.  So this didn�t phase me.  I decided to drive over to my local OfficeMax and check it out.  
+
+They had the S10 in the case, but it was marked $499.  Oh well�I�ll ask them to verify the price.  To make a long story short, the camera was a close-out.  It sold for $300 minus a $50 rebate at the register.  I could not pass this up, no time to check with the wife.  They only had one left.  I quickly justified this purchase in my head.  I�ll sell my Olympus on Ebay, if I can get $200, then I will have upgraded for $50 to a camera that was twice my old one.   A half hour later I was at home with my new toy.
+
+<b>The Camera</b>
+
+After 10 minutes of playing with the S10, I realized it was better than the Olympus in every way.  It was smaller; I was taken aback at how small this was.  But it was much sturdier than the Olympus.  The S10 has an all- metal body.  It feels very sturdy.  I knew I had made a good choice.
+
+<b>The Controls</b>
+
+The Canon�s controls are laid out in a very organized, ergonomic way.  On top are two controls, the shutter release button and a dial, which is used to select different modes.  On the back are three buttons to control different picture taking features: macro mode, flash control, self-timer, and continuous shooting mode.  There is a four-way control pad that is used for the zoom and for making choices from the menu.  Another button controls the exposure compensation and the white balance.  Another button turns the display on and off.  And the final control is a rocker switch that is used to turn on the menu and to make selections from the menu.  There is also a LCD on top, which displays info such as how the different features are set and how many photos you have left.
+
+The menu is used to set features on the camera.  You can set the date/time, which is recorded with each shot.  You can set the compression and resolution that your pictures are recorded at.  The higher the resolution, the lower the compression, the better the quality of the pictures.  But the trade-off is that the photo will take up more memory.  Nothing in the world is free.  
+
+<b>The Specs</b>
+
+Here is a link to the official Canon S10 specs:
+
+http://www.powershot.com/powershot2/s10/specs.html
+
+<b>Panoramas?</b>
+
+My Olympus had a very handy mode where they assisted you in creating panorama shots.  In other words, you could take several pictures of something that was very wide.  Say a wide landscape shot.  You would start on one side and take overlapping pictures and the Olympus would assist you in making sure these pictures overlapped properly.  Once these pictures were downloaded to the computer, you could stitch these pictures together to make a very wide, or very tall picture.  Here are a couple of links to examples of panoramas that I�ve taken:
+
+http://albums.photopoint.com/j/AlbumIndex?u=852891&amp;a=9141756
+
+http://www.zing.com/album/?id=4293433011
+
+I wondered if the Canon would have a mode that would be comparable to this.  Happily, the Canon has an even better panorama mode.  
+
+<b>The Bad Part</b>
+
+The biggest problem with the camera is the one I knew about before buying it.  The battery that it uses is a lithium camera battery, that, while widely available, is very expensive.  They are about $10 - $12.  That pretty much makes the rechargeable battery a necessity.  This will add $70 - $100 to the price.  This will get you the DK-110 rechargeable battery kit.  The kit also is an AC adaptor and comes with one battery.
+
+<b>The Software</b>
+
+The software that comes with the camera is very good.  PhotoDeluxe 3.0 is a good piece of photo editing software.  It doesn�t give you the power and complexity of PhotoShop, but that can be a good thing.  It is very easy to use and can be very powerful in its own right.  The camera also comes with photo organizing software called Zoombrowser.  This is a great piece of software to organize your photos.  It is exactly the kind of software that I had been looking for to organize my pictures.  I have several thousand pictures and this software is a great tool for organizing them.  Also included with the camera is software to stitch together pictures into panoramas.  
+
+<b>USB</b>
+
+The camera connects to your PC with an included USB cable.  All you really need to know is that USB is good.  It is fast.  Very simple.  You plug the camera into the cable, the software automatically fires up and you can quickly download the pictures.  It is a well-designed system.
+
+<b>Memory</b>
+
+The memory that this camera uses is Compact Flash Type II.  People have different feelings on the merits of the different memory types out there; SmartMedia, Compact Flash, and Memory Stick are the major ones.  I like SmartMedia, I used it with my Olympus.  It did its job very well.  But after using Compact Flash with the Canon, I think I like it better.  It is still very small, but the capacities are larger.  With the Canon, you can use IBM�s MicroDrive.  These are tiny hard drives that come in 340 megabyte, 500 megabyte and 1 gigabyte sizes.  These allow you almost more storage than you could need.  Not every camera can take the Type II Compact Flash cards, many can only take Type I.  If you can only take Type I, you can�t use the MicroDrive.  The Canon can use it.  You have the choice to use it if you want.  It is nice that the option is there.
+
+<b>Conclusion</b>
+
+I�ve taken almost a thousand photos with my S10.  I am having trouble finding anything bad to say about it.  The battery usage is a problem than can be rectified with the rechargeable kit.  The photos that it takes are simply fantastic.  Here are some sample pictures that I�ve taken:
+
+http://albums.photopoint.com/j/AlbumIndex?u=852891&amp;a=9756604
+
+I highly recommend this camera.  It is a great piece of technology.
+<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

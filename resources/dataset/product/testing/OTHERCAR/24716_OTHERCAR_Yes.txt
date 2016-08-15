@@ -1,0 +1,55 @@
+DOC>
+<DOCID> 24716 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Sony_DSC-S70 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-10E1-19660358-3A3D8978-prod4 </URL>
+<TEXT>
+            I have been doing photography as a hobby ever since I was a yearbook photographer in high school, so for me it was a big leap to trusting my memories to a digital camera.  I went looking for a digital camera that not only would give me the power and functionality that I needed to control my shots, but would also be usable by my wife, a "normal" birthday-snap-shot-type-of-person.  I found the DSC-S70 to be the best choice for us.
+
+Aside from all the technical specs (3.3 megapixels, 3x optical zoom, etc.) this camera is simply a joy to use.  I get complements about how "cool" it is where-ever I go.
+
+I chose this one because of several reasons:
+(1) Of the 3+ megapixel cameras on the market, I found that it had all the features I was looking for... Manual appeture and shutter control, a good sized color LCD, an excellent (and intelligent) auto flash, spot metering, zoom, USB connector, ability to take many different photo effects (color, B/W, sepia toned), macro capability, ... you can get all the details in other reviews.
+
+(2) I liked the PC interface -- in that the camera simply shows up as another drive letter on my Windows PC so I can easily transfer files from the camera to my PC.
+
+(3) I liked the easy and INTUITIVE menu system -- cursor driven using a 4-way rocker switch on the back of the camera.
+
+(4) I required that I be able to operate the camera using only one hand, and found it to be easy to do -- unlike another camera I tried (Fuji FinePix)
+
+(5) It uses Sony Memory Sticks.  Here's my argument why this is good.  I too faced the question Compact Flash (CF), Smart Media (SM), Memory Sticks.  The only reason anyone said not to use Memory Sticks was because they are "proprietary" to Sony.  This may be true, but what does not being proprietary get you?  Theoretically, you can use SM/CF in other devices if they follow these defacto standards, but can you think of any devices that actually use them other than digital cameras?  I couldn't either.  And, at least with a Memory stick, there are many other Sony products, including the Play Station 2 that will use this technology.  I also found Memory Sticks to be more robust than the others, and MUCH CHEAPER!!  I also heard that Sony had plans for 256 MB and 512 MB Memory Sticks, while I've heard nothing beyond 128MB for CF or SM.
+
+(6) While the DSC-S70 is not the smallest 3megapixel camera out there, it is small enough, and not nearly as bulky as some other choices.
+
+(7) The LCD screen is particularly bright and easy to see, even outdoors.  I absolutely love the ability to view pictures instantly after taking them, then deciding to keep or discard.
+
+(8) The built in speaker is handy for when I take any short MPEG videos with the camera.  I can actually play it back and hear it.
+
+(9) Battery life is awesome!!  And, recharge time is fantastic!!  There's even a readout that tells you how many minutes you have left on the battery, and when charging, how many more to fully charge it.
+
+(10) I've been 110% pleased with the photographic quality.  Pictures come out in focus, and perfectly exposed with excellent color and contrast.
+
+-------------
+
+Well, not all is well in the land of Oz.  Here are some things I don't like about the DSC-S70...
+
+(1) I don't like the fact that there's a separate lens cap.  Fortunately, there's a lens cap leash included.  Still, if I don't remember to take off the cap before turning on the camera, it causes a delay in operation b/c I have to turn off, then back on the camera to reset it.
+
+(2) Recycle time on the camera is slower than my Canon EOS 35mm SLR camera... about 3-5 sec. Some other cameras solve this with an internal memory buffer, but this doesn't have that.  I simply live with the delay, and figured that I don't take many action shots anyways.  It does take some getting used to.
+
+(3) I think the time it takes to initialize the camera could also be sped up.  It takes about 5-8 seconds, and in some more spontaneous situations I find that I've missed my shot because I didn't forsee the need to have my camera at the ready.
+
+(4) Although I seldom take "videos" with the camera, the fact that I'm limited to 15 seconds max is a bummer.  I also think it stinks that once started, I can't cancel a video in the middle of recording. (updated:  Actually, I found out that you can record for up to 60 seconds by holding down the shutter release button continuously.  Ah, for the hidden gems!!)
+
+(5) The included 8MB Memory Stick is woefully inadequate.  At the max resolution TIFF, you can't even fit a single picture on the 8MB stick.  I immediately bought a 32 MB stick to go with the camera.  Ordering online I saved some $$$ and spent it instead on getting a 32 MB stick.
+
+(6) You will find that the Carl Zeiss lens protrudes a bit far out of the camera body.  This is not really a big deal other than the fact that you'll have a tough time finding a small camera bag for it.  I ended up getting Sony's own bag design out of frustration.
+
+--------
+A final note...  The other final contender in my decision was the Olympus 3030, and I decided against it based solely on ease of use and Sony's Memory Stick.  I thought my wife would have an easier time with the Sony, and I liked the Memory Stick story better than either Compact Flash or Smart Media.
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

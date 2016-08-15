@@ -1,0 +1,118 @@
+DOC>
+<DOCID> 13195 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Canon_PowerShot_A70 </PRODUCT>
+<URL> http://www.epinions.com/content_107334307460 </URL>
+<TEXT>
+            ***********************************
+Introduction:
+***********************************
+I've been a photo enthusiast for years.  I've shot lots of black and white using a Rolleiflex medium format, which I did all of my own developing and printing for.  I've shot lots of color 35mm with my Canon SLR, and I worked at a photo mini-lab for a couple of years.  After I quit the mini-lab job, I was never satisfied with my color prints anywhere, since I had become used to printing my own stuff.  
+
+Finally, I took the plunge and bought this Canon A70 digital camera, since it routinely wins out over everything under $400 in digital camera shoot-outs.
+
+***********************************
+The Package
+***********************************
+The Canon A70 comes in a compact box.  It includes manuals in English and Spanish, software installation CDs for Mac and Windows, a USB connecting cable, a composite video connecting cable, a 16MB Compact Flash card and four AA alkaline batteries.
+
+***********************************
+Using the A70
+***********************************
+The interface is very nice - I never had to use the manuals, since I was able to figure out everything by pushing buttons and fiddling around.  That is basically my user interface test; if I have to consult the manual to figure out basic functionality, then I consider the interface to be too cumbersome.  My friend's Canon PowerShot S400, for example, had me kind of confused by comparison.
+
+The aperture priority mode is great for controlling your depth of field, although the numbers don't correspond with 35mm SLR camera aperture settings.  The depth of field tends to be greater with the A70 than with a typical 35mm SLR, due to the size of the CCD relative to the lens aperture.  
+
+The manual override setting is essential for me, and it works well enough.  In manual control mode, you can directly adjust the aperture, and the shutter speed stays where it was last set.
+
+Exposure compensation works well - I've been in lighting situations where the metering system was giving me consistently incorrect exposures, and I just tweaked the exposure compensation to make up for it.  With the instant-preview on the LCD, it's easy to verify that the exposure is exactly how you want it.
+
+Program mode is a safe mode for general snapshots, and it works just like you would expect it to.
+
+Like all point-and-shoot digital cameras, the A70 has an annoying delay between the time that you press the shutter release button and when the camera actually takes the picture.  The A70 has less of a delay than most any of its competitors, but if you're used to a 35mm SLR, it's a tough sacrifice to make.
+
+The flash is surprisingly powerful, although I avoid using it whenever possible - existing light photos almost always look much better if you can get away with it.  The flash has the typical red-eye reduction feature, where it optionally can blast a light into your subject's eyes for a moment right before taking the picture; this causes the subject's eyes to dilate shut a bit, which reduces the red-eye effect.  Funny - it also causes your subjects to squint and look uncomfortable.  I kind of hate flash photos, but you just have to have one for those cheesy night-time snapshots of people, you know?  I'm guilty, anyways.
+
+***********************************
+Image Quality
+***********************************
+First of all, forget the 16MB card.  If you turn up the image quality to maximum, you can fit fewer than 10 pictures on the 16MB memory card.  Buy a 256MB card for $50, and then you can store over 140 pictures per card, and you'll also have room to shoot some movie clips.
+
+Having gotten a reasonable amount of memory, and having set the image quality to maximum, the A70 can take pretty nice pictures.  The sharpness is good, contrast is great, colors look nice.  It's easy to achieve extremely high fidelity photos if you are reviewing them on a good LCD, like the screen of my PowerBook.  If you closely examine the images, you'll see the consequences of interpolation; textures are partially smoothed-over looking.  Consumer-level digital cameras all use interpolation to capture an image at a certain resolution, which they then enlarge to the point of having the advertised number of megapixels.   The Canon A70 suffers from this problem, just like every camera in its class does; it has the effect of running a Photoshop "smooth" filter on your photo.
+
+Adjust the "ISO" setting as low as you can get away with; at 50 or 100 there is really no image noise, and at 200 it is minimal, but at 400 you can't miss it.  This JPEG compression is distinct from the interpolation artifacts mentioned above.  At ISO 400, your photos actually look grainy, in a similar way that 35mm photos can look grainy.
+
+The lens on the A70 is good for its class, but crappy compared to a fixed focal length SLR lens.  The corners of shots are soft, and there is tons of chromatic aberration.  This is really just something that you have to accept for a camera in this price range; the Canon A70 is as good as you can get for under $400 right now, but don't think that you are getting a pro-quality lens on it.  Most people can't even tell, but I'm looking at things from the perspective of someone who is too picky for zoom lenses in general.  That being said, I must add that the lens on this camera is better than what I expected, and I have never complained about it.
+
+***********************************
+Battery Life
+***********************************
+The included alkaline batteries lasted me two days.  I bought a pack of NiMH rechargeable batteries for $20; they are rated at 2000mAh, and they included a charger.  They last me for weeks on a charge.
+
+Just buy some similar rechargeable batteries with the camera, and don't even use the alkalines; they don't last, and they will go straight into a land-fill.
+
+***********************************
+Interfacing with your computer
+***********************************
+After shooting a bunch of photos, I plugged the camera into my PowerBook, and my Mac automatically launched iPhoto and asked me if I wanted to download the pictures.  Couldn't be easier.
+
+If you shoot videos, there will be a delay as the computer scans the Compact Flash card for more images after the videos.  After importing the photos into iPhoto, run Image Capture to grab the movies.
+
+I really wish the camera had FireWire, since USB is only about 1MB/sec max, and I routinely get a couple hundred MBs of photos and movies on the memory card.  It takes several minutes to transfer everything into my laptop, whereas FireWire would take several seconds.  Oh well - give it a couple of years, and digital cameras will have USB2, which will be a really nice improvement.
+
+I REALLY wish that the camera worked like my iPod, with a 10GB hard drive and a battery pack that charged up over the FireWire.  That would be SO cool.  Maybe Apple will make something like that.
+
+I haven't used the A70 with a PC.  If it works so nicely on Mac OS X, it must work fine on Windows too, right?   :)
+
+***********************************
+Playback on a TV
+***********************************
+The Canon A70 allows you to review your photos and movies on a TV, using the included composite video adapter.
+
+This is a common feature these days, but it's loads of fun.
+
+***********************************
+Shooting Videos
+***********************************
+I now keep a video scrapbook on my laptop, thanks to the 640*480 video + audio ability of the A70.  The clips are limited to 30 seconds, which is silly, but it keeps me from making overly long clips.  The frame rate of 15fps looks fine as long as you shoot in subdued or indoor light; the slower shutter speed provides the motion blur to smooth the frames together.  Outdoor, sunlit videos look pretty choppy at 15fps.
+
+If you really want to shoot a longer video clip, you can lower the resolution to 320*240 and shoot for 2 minutes.
+
+The Canon A70 shoots videos with sound, using the built-in microphone. 
+
+You can review the videos, and hear the audio as well, directly on the camera.
+
+***********************************
+Infrared Photography
+***********************************
+I always loved shooting Konica IR750 infrared film with my Rolleiflex.  Just to see if the CCD was sensitive into the infrared range, I held an Ilford SFX filter ($15 cheap) over the lens and shot in BW mode.  The Canon A70 sees infrared!  If you tinker with the exposure, and turn up the contrast on the resulting images, you can get really lovely infrared black and white photos.  You will need a tripod (slow exposure) and bright sunlight to get interesting results - try it out!  A dark red filter will suffice if you can't find an Ilford SFX filter, or you could even waste a bunch of money on a true infrared filter (Wratten 88A or something).
+
+***********************************
+Claymation
+***********************************
+The Canon A70 includes the necessary software to have a computer control the camera through the USB cable.
+
+I set up the camera on my tripod, set everything to manual exposure and manual focus, and I told the camera to take 1 picture every 5 seconds.  I then moved around the room, just a bit each for each exposure.  After the camera had taken about 60 shots, I took the sequence of photos, imported them into QuickTime Pro as an image sequence, and I had a really hilarious movie of myself animated in a claymation style.
+
+It's even easier using clay, but my friends love seeing me animated.
+
+***********************************
+Time Lapse Photography
+***********************************
+Using the same process as above, I made a time-lapse movie in infrared on top of a local mountain on a sunny Saturday.  It looks really great!  I ran the hundreds of photos through Photoshop to increase the contrast and compress the jpegs down slightly, and I now have a 1024*768 infrared movie in time-lapse form.  The clouds move in fast-forward speed, and everything is extremely high-resolution, higher than DVD.
+
+***********************************
+Conclusion
+***********************************
+Although the Canon A70 cannot match the potential image quality of 35mm film, it gets close enough for now.  It has at least as good image quality, speed, and features of any other 3MP camera out there, with as nice of an interface as you are likely to find.
+
+I now carry my A70 around everywhere, I take pictures and videos all the time, and I never am let down with the results.  While the image quality cannot match 35mm, the color balance and ease of archiving more than makes up for it.  I don't miss paying for film and processing either!
+
+I'm even getting into claymation and time-lapse photography, which I've always wanted to do but couldn't afford it.
+
+If you decide on the Canon A70, buy some rechargable NiMH batteries, a 256MB Compact Flash card, and have fun.  This is a great little camera.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

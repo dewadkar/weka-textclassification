@@ -1,0 +1,29 @@
+DOC>
+<DOCID> 31603 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_NikonCoolpixx-Nikon_Coolpix_800 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-149-4AD4FE7-38914F95-bd1 </URL>
+<TEXT>
+            This is my first digital camera.  I chose it because (1) I got a good price on it slightly used, and (2) I was happy with my 15-year-old Nikon SLR and was impressed by the CoolPix's Nikkor lens.
+
+The picture quality does not disappoint.  It's better than I even expected.  It has full auto mode as well as the ability to override most settings:  flash, focus, white balance, etc.  I've been able to get far better photos than I imagined.
+
+The controls are generally easy to handle and the LCD monitor is sharp and easy to see through.
+
+If picture quality were all that counts, I'd give this is a 10, without a doubt.
+
+However, there are a few problems with the camera -- mostly in the annoyance category, but Nikon really should have put a little more care into the design.  I get the feeling that all of these are the result of Nikon's desire to save money by cutting corners.
+
+These problems are:  
+1. Manual is only available on disk. There is a small pocket-sized manual but it doesn't have all the features.  I want to be able to hold the camera in one hand and the book in the other -- not the computer in my third hand.  If I had a third hand.  To make it worse, the diagrams in the online manual are awful.  All the pictures of the buttons look alike, so you really don't know what they're talking about.  I've resorted to trial and error to figure things out.
+
+2. The only connection to the computer is by serial connection.  I happen to have an older Mac that has a serial port, actually 2 serial ports.  But, as I suspect is true for most people, I have a modem in one and printer in the other, so I have to swap out the modem cable every time I connect the camera.  The bigger problem is that the newer Macs (iMac, G3, G4) don't have serial connections, just USB ports.  To use the Coolpix with a USB port, you have to buy a converter for about $60.00  It's a lie for Nikon to say that their camera is Mac compatible.
+
+3. The construction, while lightweight, is a bit flimsy.  For example, there's no tether for the lens cap.  I rigged up a piece of fishing line.  The battery compartment, CompactFlash card compartment and compartment with outlets all have cheaply-hinged covers that will probably break off eventually.
+
+Had Nikon paid a little more attention to their customers and given us USB connectivity and a real hard-copy manual, I'd give this camera a 10.  Otherwise, &quot;10&quot; for photo quality, but &quot;8&quot; overall.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

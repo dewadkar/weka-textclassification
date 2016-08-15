@@ -1,0 +1,80 @@
+DOC>
+<DOCID> 16403 </DOCID>
+<PRODUCT> Digital_Cameras/514341_Nikon_Coolpix_775 </PRODUCT>
+<URL> http://www.epinions.com/content_113309224580 </URL>
+<TEXT>
+            You'll like this camera despite its quirks, if you're willing to take some time to learn to use it well.  For quick point and shoot, it's acceptable, but it won't blow you away.  There are a few types of scene which any digital camera will struggle with, and the Nikon 775 is no exception: under low light conditions, pictures are quite grainy and brownish; action scenes in indoor lighting will be blurry; backlit scenes are troublesome without a fill flash.
+
+Despite the challenges of working with a digital camera, Nikon has made the 775 easy to get used to, and after taking thousands of pictures totalling over 8 gigs I consider myself intimate with it.
+
+<b>Features</b>
+A dial on top lets you pick the type of scene -- backlit, nighttime, glare-filled, sunset, distant scenery, portrait and a "party mode."  Each of these sets exposure, flash, depth of field, contrast and color balance automatically, and they each work reasonably well.  For more options, you can choose an "auto" mode with a few tweakable settings, and after a while you'll find yourself using this more than anything else.  In this mode you can activate or deactivate the flash, as well as set it to a highly ineffective "red eye prevention" mode.  Additionally, you can set the depth of field to any of three modes: "tulip" mode is for extreme closeups, "mountain" mode is for distant scenes, and a standard mode which is perfectly good for just about anything.  Exposure is adjustable as well, ranging in several steps from harsh and washed out to dim and gloomy.
+
+If you can take time to set it up, you can also manually configure the white balance.  Simply point the camera at something white under the lighting conditions you plan to shoot under, and it will adjust itself accordingly.  If that's too inconvenient there are a number of presets for indoor light, sunlight, and flash, as well as an automatic mode which (as with all of the 775's automatic modes) takes perfectly good pictures.
+
+There is a movie mode which will take 15 seconds of silent Quicktime movie, at about 15 frames per second, in a fairly small frame.  This is a neat feature to play with at first, but not something I have found frequent use for; I've probably used this 8 or 10 times since buying the thing.
+
+Even with all those settings to choose from, there are a few other operational modes which make the 775 fun to use.  As well as taking one picture at a time, it can operate in a continuous mode allowing you to snap several shots in a row, one after the other.  A similar mode called BSS (Best Shot Selection) lets you take a series of pictures out of which the camera will save only the clearest.  If you're a frequent victim of camera-shake, as I am, this is a huge blessing and the mode I find myself in most often.  There is a multishot mode which is mostly a gimmick: you can take a series of 16 pictures arranged into a grid in one frame.
+
+On top of all that, there is a sharpness setting which lets you choose how much sharpening the camera will apply to the picture after taking it.  You can manually set this to three levels of sharpening, but I reccommend using the automatic mode or turning it off.  You can always postprocess pictures once you get them out of the camera.
+
+There are three sizes of frame to choose from, the maximum being 1600x1200 pixels ("two megapixels").  The smaller sizes are useful only if you are cramped for storage space.  Crank this up to the maximum and never think about it again.  If you want a smaller picture to email or put on a web page, do that in postprocessing after you download your pictures.
+
+Similarly, because the 775 produces compressed JPEG files, there are three levels of compression available.  As with frame size, it's best to select the highest quality and leave it alone.  If you need smaller files with higher compression, deal with that afterwards.  Picture quality visibly degrades as you use more and more compression.
+
+Focus is semiautomatic: point the camera at what you want to focus on, partially depress the shutter button, and then compose your scene with the button partly pressed.  A light comes on to show that the focus is now set and locked.  Most cameras, digital and film, offer this feature, but it is worth noting because many people don't take advantage of it.
+
+You can also let the camera deal with focus on its own.  As you point the camera it makes minor adjustments to focus and if you simply push the button and take a shot, you'll get a picture as good or better than your average autofocus.
+
+Like every camera these days, the Nikon 775 has a built-in flash.  It's acceptable for casual use but you might find it a little finicky: up close, it's much too powerful.  Ten feet away, it seems weak an ineffective.  Its best use is as a fill flash for backlit scenes in daylight, and at that it excels.
+
+There are two viewfinders on the camera: a peephole which works well and zooms with the lens, as well as a small but bright and easily visible LCD.  The LCDs brightness is adjustable and I've never had cause to turn it up above the minimum.  Be cautious, since cranking up the LCD's backlight uses up a lot of battery power.
+
+<b>Speaking of Zoom</b>
+The 775 has a 3x optical zoom, and a digital zoom on top of that which kicks in if you hold the zoom control down for a second or so after the optical zoom maxes out.  Completely ignore the digital zoom -- you will get far better pictures by shooting without it and cropping and resizing them in your favorite software.
+
+At minimum zoom level, there is a slight "barrel distortion," a subtle curving of the picture at the corners. This is inevitable with the tiny lens on a small camera, and hardly noticeable at all.  At maximum optical zoom, the distortion is completely absent.  There is another review here which utterly pans the camera for this flaw, but it is quite minor.
+
+<b>Storage and Connectivity</b>
+The Nikon 775 doesn't use a weird memory card like many other cameras do.  It uses compact flash (CF) cards for storage.  These are inexpensive, easily available, and can plug right into many other devices for reading.  Bundled with the camera is a small 16 megabyte card.  The first thing you should do is throw this away and pick up a much, much larger card.  I went with a 256M card, which will store as many as 300 pictures at maximum size and quality -- great for bringing along on a weekend away.  If you're not quite that ambitious, a 128M card will serve you well.
+
+A small port on the side of the camera provides USB connectivity.  It's not lightning fast, but it only takes a few minutes to transfer a couple of hundred pictures to your computer.
+
+The same port can, with a cable provided in the box, serve as a "video out," showing whatever is on the LCD viewfinder. Plug it into your VCR or video capture card and you have a pretty fair (if a bit bulky) video camera.  Quality in this mode is far better than the little Quicktime videos the camera will write to its card.  You can also hook up the camera to your TV, turn on the slideshow mode, and flip through your stored pictures.
+
+<b>Does It Eat Batteries?</b>
+In a word, no.  A single battery can last all day, through over 250-300 pictures, if you're contientous about using it and disable the flash.  Two batteries will easily make it through the weekend, so buying a spare is a worthwhile investment.
+
+The camera can run without a battery, on an AC adapter, but one is not provided with it.  Plugging the camera in with a battery in it doesn't charge the battery, though.  There is a separate charger provided which does that.
+
+<b>So What's Not To Love?</b>
+There are a couple of peculiar quirks about the camera that leave me scratching my head.  For one, whenever you turn it off, it immediately forgets your exposure, white balance and sharpening settings.  Strangely, it remembers the shot mode (single, continuous, or BSS) you were last using as well as remembering your picture size and compression settings. Change the battery, and it will forget your shot mode, too.
+
+It would seem hardly a moment's effort to write these settings to the flash card as the camera shuts down, so this is one of the most puzzling flaws.
+
+As I mentioned above, the flash is tricky to take advantage of.  As a fill flash, it works great, but otherwise it's usually better to leave it off.  Unfortunately, there is no way to connect an external flash to the camera.  It has no "shoe" for attaching a flash on top, nor does it have a place to plug in a flash sync.  At least there's a threaded hole for mounting on a tripod.
+
+The barrel distortion is noticeable but very slight.  If you're bothered by it, you'll be disappointed with any similarly sized camera.
+
+The 775 is small but it's slightly bulky for a shirt pocket.  It fits, but you won't forget it's there.  Frankly, a camera much smaller than this would be hard to hold and use.
+
+Picture quality is quite good, and you'd have to be a lot more serious about photography than I am to need more than 1600x1200 resolution.  These pictures are so big they won't fit on most people's screens.  "More megapixels" would simply be silly in my opinion, but there are plenty of cameras out there which do offer higher resolution.
+
+One quirk of the CCD element in the camera is that reds "pop out" slightly.  They seem to be infused with a certain vibrancy that the other colors lack.  The upshot of this is that while almost all pictures will look good, a picture of something bright red, pink, or orange will suddenly seem VERY BRIGHT red, pink, or orange.  To me, this is a fairly obvious flaw but others who have looked at my pictures don't seem to notice it at all, so perhaps it's a bit subjective.
+
+<b>In the Box</b>
+When you open the Nikon 775's box, you'll find a beefy manual, a CD with Nikon's software, a puny 16M compact flash card, the camera itself, a battery and charger.
+
+<b>Software?</b>
+Yes, it comes with some software.  I'm afraid I can't review it since I have never even looked at the contents of the CD.  There is something called Nikon View for downloading your pictures, as well as some bundled photo editing software and probably some other junkware as well.
+
+The camera is recognized without trouble by Windows 2000, Linux, or Windows XP when you plug it in.  XP even offers to unload your camera for you.  Because of this the View software seems superfluous, just more bundled shovelware, but it could very well be of excellent quality and might be useful to you.  Again, I don't know; I've never tried it.
+
+<b>Overall</b>
+I like my 775, and there are times I wish I had two.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

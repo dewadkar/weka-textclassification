@@ -1,0 +1,28 @@
+DOC>
+<DOCID> 29501 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_KodakDCC-Kodak_DC-240 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-58F-8562EC4-38FD8081-prod1 </URL>
+<TEXT>
+            I'm what some would call a professional artist... I've worked as a photographer as well as a graphic artist. Because of this, I like to think that I have a pretty good knowledge of what looks good, and I must tell you that you can get some great pics out of this little guy.
+
+I say little in a figurative sense; this camera is a tad on the big/heavy side. I'm used to full sized working with 35mm SLR cameras, TLR 120 cameras and even 4x5 large format cameras, so I'm not too picky when it comes to lugging a camera around. The Kodak DC240 is not cumbersome in any way, it is simply a little larger than I would have hoped. There are smaller digital cameras on the market, but they don't yield the same image quality and features, so a slightly larger size is an acceptable tradeoff (for me).
+
+Next, we come to the image size (resolution) offered. I've found that for the majority of my uses, the Kodak has actually given me MORE than I end up using. On the average, 600x450 is about the size I use when sending pictures to family and friends, so 1280x960 is more than adequate. It allows me to do something that you can't really do when limited to 640x480 -- Crop and scale, with some room to breathe. =)
+
+The optical zoom comes in handy quite frequently, and I find the option of 2 different light metering modes (center-weighted and 'multi-pattern') to be quite generous... White balance and exposure compensation round out the suite of 'photo' options. Kodak goes beyond this and includes in-camera effects (which can be quite fun) as well as user-definable borders. This is especially useful when you are connecting the camera through the included video adapter cable. I was extremely impressed with the quality of the video output from this little camera; it can be useful for reviewing the contents of the memory card when a camera is not available. 
+
+I really liked the driver software included with the camera, it allows your camera to be seen through Windows98 Explorer (as if it were a Hard Drive or Zip Disk, just no drive letter) and enables you to simply drag and drop the picture you want off of your camera. I found the USB connection speed to be just a little too slow, though it's dramatically faster than some others I've seen. 
+
+Now for the little things that I'm not totally happy with...
+
+The camera offers decent battery life when the LCD and flash are not being used, though it can run through the batteries before you even fill up your memory card with both enabled. I've noticed that the pictures come out a little too saturated at times, and a little too bright at others, so a little tweaking with the photoshop-ish program of your choice may be in order to get the best results. In general though, the images don't NEED to be retouched, it's just a matter of personal preference. Kodak doesn't seem to have included a method to reset the picture count (the pictures are named in sequence) to my knowledge, and I would really like to see some facility for that. 
+
+The only serious flaw I've found in this camera is occasional lockups in the camera itself. I haven't found any mention of this on the Kodak website, and I haven't seen any firmware updates to address the problem either. Regardless, the problem is very infrequent. 
+
+All in all I'd recommend the camera to anyone looking to get into digital photography or just looking for something with a quicker/cheaper turnaround than a 1hour photolab. This camera is perfect for families and small business offices, but nothing beyond that. Film is still the best way to go for real graphics work, and I doubt that digital will be able to completely displace it for quite a while.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

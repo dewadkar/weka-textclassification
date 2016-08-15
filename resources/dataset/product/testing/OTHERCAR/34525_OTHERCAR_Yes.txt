@@ -1,0 +1,62 @@
+DOC>
+<DOCID> 34525 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital-Hewlett_Packard_HewlettPackardCSeriesies-Hewlett_Packard_C20 </PRODUCT>
+<URL> http://www.epinions.com/content_27129646724 </URL>
+<TEXT>
+            ---UPDATE: June 21, 2001.
+
+To address the terrible battery life problem that I was experiencing, I began an immediate search for an alternative power source for the camera.  I came across a 4-pack of NiMH AA's at the local Zellers store (Kinda like Target, for the US people reading this) for the very reasonable price of $16.99.  They are produced by a Toronto-based company which is rapidly expanding called "Leap", and are packaged in a nifty tube...which is basically a marketing ploy, but none the less, It seemed different and caught my attention....  That, and the fact that they were $4.00 cheaper for a set of four versus the local Radio Shack equivalent.
+
+The batteries are 1600 mAh batteries which will accept a 1'ish hour quick charge at 500 miliamps, providing you have the appropriate equipment. Handy!   Any regular charger which will work with NiMH will charge them as well in about 14 hours.  I have successfully charged them from flat dead to fully charged in about 1 hour and 20 minutes using an electronic charger running at 500 Miliamp output.
+
+The difference between these NiMH batteries and regular Alkalines was night-and-day.  I was able to click off at least 100 shots without the battery meter even dropping to the 50% level, and this was using the LCD for the majority of the pictures, as well.  Only after 100+ pictures did the battery meter drop to the 50% level, but it (To my surprise) stayed there, not quickly dropping to the "Dead" level as it usually did with Alkalines.
+
+As an experiment, I left the LCD on with the camera in "Slide Show" mode displaying the 30 odd pictures on the flash card, and let it be to see how long it would run for..  The result?  Allmost 2 (!!) hours of LCD displaying before it finally killed the batteries..
+
+For anyone considering one of these cameras (or any high-drain device, for that matter), seriously look into a good set of high capacity NiMH batteries - it's worth every penny of the investment.
+
+---END OF UPDATE.
+
+The resounding positve feedback on the HP C20 here on Epinions is what caused me to seek one out (Albeit used)  on eBay.  As well, a less-then satisfactory experience with a recently purchased Agfa camera (Which was promptly returned, see my review here on Epinions) meant I needed a new camera.
+
+Now, my last HP PhotoSmart digital camera (The original, older 640x480 model) quit working a few months back after several years of hard use, and surviving alot of abuse.  I think it was the rough and tumbling that my 3 year old son gave it over Christmas that finally did it in.  Anyhow, I was quite happy with it overall, so after reading the many positive reviews here on Epinions about it's newer cousin, the C20, I purchased one of my own, and I'm impressed!
+
+Initial Thoughts:
+
+-  Sleek looking, although since the technology is a few years old, it's not as compact as many newer digital cameras, and weighs more as well.
+
+-  Great lens protection.  The sliding cover doubles as the cameras power switch.
+
+-  The LCD display is handy!  This is my first digital camera with an actual display to show the before/during/after shots, and I must say that although it's not a huge display, it works well.  The ability to show the pictures on the memory card in thumbnail format is nice as well.
+
+-  The standard CompactFlash card means that adding more memory is easy to do, and inexpensively and commonly available.
+
+After some use:
+
+- The LCD is *very* hard to see in bright light, especially in the sun.  While trying to take some pictures this afternoon in the backyard, the LCD was virtually useles, even at it's brightest setting.  Thankfully, the viewfinder, of course, is a satisfactory backup.
+
+- The rubber covers that hide the serial, power, and TV connections seem a little flimsy, and if my 1 year old daughter was to get ahold of them while they were flipped open, I wouldn't be surprised to see them detached from the camera before long...  However, the camera I purchased is several years old, and they are still in good condition, so that must say something positive.
+
+- The serial (Not USB) connection is slooooww...   Having experience with older digital cameras before, I knew that when I was purchasing the C20 I wasn't going to get the speed of the now common USB interfaces, but it was something that I was willing to live with..  However, with 1 Megapixel pictures, it's alot slower then I expected, and unloading numerous pictures from the camera is a process that leaves enough time to do some household chores in the meantime.. :-)
+
+- Great picture quality!  Wow, what can I say - crisp, high definition, and just generally great looking photos!  The camera is not motion sensitve, either, so small jitters, or motion in the pictures subject doesn't effect the outcome.
+
+- The many selectable modes (Flash, red-eye reduction, timer, exposure, autofocus, etc etc) add some great functionality to the camera and broaden it's uses.
+
+Dislikes:
+
+- I'm concerned about the rubber flaps covering the connections, although my concern may be a little unfounded - I've only owned the camera for a short while.
+
+- It would be nice to able to see the LCD in the sun, as the lack of it means that some functions that can only be accessed via the screen require retreat to a dark space to operate in.
+
+- Battery life seems a little short, although I've used the LCD quite extensively, and this is expected.  Investing in some rechargeables is on the priority list.
+
+Overall:
+
+I'm happy!  I have a decent camera again for general-purpose photography, and the best part is that with the ability to take (Albeit mediocre by some of the newer cameras standards) 1 megapixel shots means that printouts will be signifigantly better then my old 640x480 model.  :-)
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

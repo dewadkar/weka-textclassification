@@ -1,0 +1,21 @@
+DOC>
+<DOCID> 29127 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_KodakDCC-Kodak_DC-220 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-4712-AF9C735-396588A7-prod2 </URL>
+<TEXT>
+            I've had my DC220 for a year and a half now.  I've shot nearly 1900 photos with this camera so far, and it's taken a fair amount of abuse.  It's showing signs of wear--the LED that used to flash when it &quot;boots up&quot; isn't working anymore.  It's been dropped (not too far, and never onto rock or other hard surfaces, though) and banged around, and the LED is the only thing that's malfunctioned.
+
+Set at 640x480 with best-quality JPEG images, the image quality is good, though some granularity is visible in the images if I scrutinize them.  4x6&quot; prints are great, but I really wouldn't go beyond 5x7&quot;.
+
+I have two problems with this camera: The images show distortion (stretched out subjects) at the edges when the wide angle setting is used.  This really happens to virtually all cameras, but the degree to which it is apparent in the image varies.  Second, the DC220 is rather large, bigger than most point-and-shoot cameras.  It won't fit in most pockets.
+
+This camera comes loaded with a slew of features, most of which I don't use.  I'm not going to go into detail here since the technical specs can be found elsewhere (http://www.kodak.com/).
+
+A note for Windows 2000 users: The software provided by Kodak does not support USB under Windows 2000 (effectively limiting you to the serial port interface if the Kodak software is used).  However, Windows 2000 does have built-in USB support for the DC220.  Just plug the camera in and the Windows Imaging software takes over.  I actually like the Microsoft interface better than the one Kodak provides.
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

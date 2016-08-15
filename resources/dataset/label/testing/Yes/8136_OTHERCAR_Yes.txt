@@ -1,0 +1,155 @@
+DOC>
+<DOCID> 8136 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Minolta_Dimage_Xt_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_106698870404 </URL>
+<TEXT>
+            Monty Python&#146s John Cleese, (as Her Majesty&#146s tech savvy spy stuff purveyor in the James Bond films) could make a really nifty TV commercial touting the diminutive size and advanced features of the Minolta Dimage Xt digital camera.  The third generation Xt, like its very popular predecessor the Xi, is the smallest three megapixel/3X zoom digital camera in the world.  The Dimage X was Minolta&#146s first foray into the very popular and highly competitive micro digicam market.  Minolta&#146s original game plan was to build a tiny super thin camera to compete with Canon&#146s digital elph models which have always dominated the microcam niche market.  Minolta&#146s tiny Dimage X  (a true shirt-pocket digicam was noticeably smaller than Canon&#146s elph models, but the X had some image quality and design issues.  About the time Minolta introduced the improved Xi model Pentax jumped into the battle with the nifty little Optio S, which was aggressively advertised as small enough to fit in an Altoids tin (although a good soft case is a more prudent choice) and the digital camera miniaturization jihad was in full swing. 
+
+The new and improved Dimage Xt weighs just five ounces (with battery and storage media) and is about the size of a credit card and only marginally (0.8 inch) thicker. 
+Handling the new Xt for the first time, most veteran photographers will immediately think of the legendary Minox from World War II or the jewel like Swiss made Tessina spy cam from the sixties.  Consumers now have more choices, but those who value the &#147wow&#148 factor (a sort of techno awe induced in generally sane people by tiny cameras) must be prepared to accept certain trade offs.  Logically, tiny batteries can&#146t hold as much juice as larger batteries.  Lens aberrations and optical distortion will be more obvious with complex tiny zoom lenses than they would in larger units and coverage from a flash unit that is half the size of a 37 cent postage stamp just can&#146t equal the output power of a unit that is twice or three times as large. 
+
+<b>What&#146s New?</b>
+
+Externally, the only visible differences between the Xi and the Xt are that the Xt is a tiny bit smaller than the Xi (due to rounded corners) and the Xt&#146s brushed-aluminum body is matte silver.  Minolta added a spot metering mode (a nice addition, especially for advanced photographers), re-designed the mode selector (from a sliding switch to a more traditional dial), the power and shutter buttons have been moved a bit further apart (Minolta got lots of consumer complaints about this design gaffe), and there&#146s also a new quick review button. 
+
+<b>FEATURES</b>
+
+The new Dimage Xt retains the Xi&#146s 3 megapixel resolution, quick start-up (the camera doesn&#146t have to extend the lens, which makes start up much quicker), date imprinting, spot AF, and bright LCD.  Minolta&#146s proprietary Cx Process technology enhances image quality by improving sharpness, color reproduction, tonal gradation and helping to reduce image noise. The advanced Cx Process image enhancement technology was first seen on Minolta's Dimage 7Hi
+
+The Xt (like the Xi before it) was designed as a shirt pocket "auto only" point & shoot digital camera and provides a very limited selection of creative photography options.  Advanced shooters can utilize a new spot meter, user selectable ISO settings, exposure compensation, and five white balance options (but no manual WB setting) to marginally affect exposure. The Dimage Xt (like the Xi) doesn't allow the use of screw in filters, supplemental lenses, or external flash units. 
+
+<b>NUTS & BOLTS</b>
+
+<b>Viewfinder/LCD</b> 
+
+The Xt features a standard optical tunnel type real-image zoom viewfinder and a 1.5" LCD screen.  The tiny optical viewfinder shows only about 80 percent of the  image.  The LCD screen is bright (brightness is adjustable via the setup menu), fairly sharp, and color accurate but there is no anti reflection coating or screen shield, which seems strange since the Xt is a third generation shirt pocket camera.  The LCD screen is completely unprotected, so a soft case would be a wise purchase.  
+
+<b>Lens</b> 
+
+Minolta was able to stuff a 3X optical zoom lens into a camera that is less than an inch thick by using a truly unique periscope like lens design.  The zoom is oriented vertically inside the Xt, but the light path is bent 90 degrees at the top so no part of the zoom extends beyond the camera body.  A prism mounted to the rear of the front element is used to fold the light and direct it through the lens elements which are moved by a very small motor inside the camera body. The CCD image sensor is actually at the bottom of the camera&#146s body.  The all glass f/2.8-f3.6/37-111 mm (35mm equivalent) zoom features 9 elements in 8 groups (including three aspheric elements for improved color accuracy and sharper resolution) and is very quiet in operation. An automatic lens cap slides over the lens when the camera is powered down.
+
+<b>Manual Focus</b>
+
+The Dimage Xt is an auto focus only camera with no manual focus options
+
+<b>Macro Focus</b> 
+
+The Xt doesn't have a dedicated macro mode, but the camera will focus as close as 2 inches, which produces fairly good macro images.
+
+<b>Flash</b>
+
+The Xt&#146s tiny built-in multi mode (auto, fill-flash, red-eye reduction, and Night Portrait) flash is noticeably underpowered, but it does a fairly good job, overall  Minolta claims the maximum range is 9.5 feet, but 6.0 feet is more accurate.  The red-eye reduction mode actually works pretty well.
+
+<b>EXPOSURE</b> 
+
+The Dimagre Xt is a "point-n-shoot" type camera and operates in Programmed auto exposure mode only.  The camera is designed for snap shooters who want a tiny pocketable digital camera they can take anywhere and use without worrying about camera settings.
+
+<b>Movie Mode</b>
+
+The Xt records video clips (with audio) @ 320X240 at 15 fps (duration is limited by SD card space).  Video clips can be viewed on the Xt&#146s LCD screen or on a TV with the included video out cable.  
+ 
+<b>Audio Mode</b>
+
+In audio recording mode the Xt can be used just like a digital voice recorder to capture up to 30 minutes of mono audio (however the built in mic&#146s range is very limited) or to add 15-second audio notes to still images.
+
+<b>Controls, Design,  & Ergonomics</b> 
+ 
+The little Xt&#146s silvery brushed aluminum finish is quite stylish and the attractive. The built in grip is useful and the camera is user friendly with almost intuitive operation.  The Xt&#146s control layout is much improved over its predecessors.  It&#146s nice to know that Minolta listens to consumer complaints.
+   
+<b>Image Storage</b>
+
+The Xt stores images to Secure Digital cards   
+
+<b>Power</b>
+
+Minolta uses a proprietary NP-200 3.7V 750mAh Lithium-Ion battery pack to power the Xt.  The tiny battery is good for 160-180 shots with moderate flash and full time LCD use, a noticeable improvement over battery duration with the Xi.  Buy a second battery (about $30) for long trips or extended shooting sessions. 
+
+<b>Technical Specifications</b> 
+
+Resolution: 3.3 megapixels (2048 x 1536)
+Viewfinders: Real Image Zoom Optical and 1.5&#148 LCD monitor 
+Lens: f2.8-3.6/37-111 mm (35mm equivalent)
+Exposure: Program AE
+Metering: evaluative (default) and spot	
+Sensitivity: 50, 100, 160, 200, 400 (ISO equivalent)
+White Balance: Automatic, Daylight, Tungsten, Fluorescent, and Cloudy
+Manual White Balance: No
+Shutter Speed: 1/1000th of a second to 2 seconds
+Exposure compensation:  /-2 EV in 1/3 EV increments
+Flash: Built-in multi mode
+Image File Format: JPEG, TIFF, MPEG
+Media Storage Format: SD
+Connectivity: USB 1.1 and video out
+Power: Lithium-ion Battery (NP -200)
+
+<b>Included</b>  
+    
+16 MB SD card, NP200 Li-ion battery, stand/charger, wrist strap, USB/AV cables, printed camera and software manuals, software CD-ROM
+
+<b>Optional</b> 
+
+CS-DG100 camera case (recommended) and MC-DG200 underwater housing 
+
+<b>In the Field/Handling & Operation</b> 
+
+My friend (who sells new and used digital and analog photographic equipment) and I got together to test the new Minolta Dimage Xi on the nicest day we&#146ve had in two months.  A balmy blue sky July Sunday with very little humidity and temperatures in the mid eighties.  We&#146d tested the Xt&#146s color the day before and shot a few static outdoor scenes at Louisville&#146s Cave Hill Cemetery.  Color accuracy seems improved (both of us noticed a slightly cool color balance with the Xi) and colors seem truer.  Our outdoor shots at Cave Hill were fairly well exposed, but the Xt has a slight tendency toward underexpose.  We tried a few closeup shots (there is always something in bloom at Cave Hill) of flowers and they weren&#146t bad---but they weren&#146t anything to write home about either.  The Xt isn&#146t your best choice if you shoot lots of bugs and flowers closeups, however the little Dimage Xt should be fine for ebay pics.    
+
+Kentucky is one of the most beautiful places on earth during the spring, summer, and fall.  We&#146ve had a pleasant spring with lots of rain and the summer has been warm but not too hot.  Everywhere we&#146ve been this year, nature is putting on a beautiful show in the Bluegrass State.  Since neither of us had been to Iroquois Park since February when we tested the Dimage Xi, we decided the best way to compare the two cameras was to head Louisville&#146s primary south end green space.  Iroquois Park covers a large heavily forested hill that rises more than 800 feet above the surrounding suburbs. Once you are inside the park, it is like you are "out in the country" rather than completely surrounded by a large metropolitan area. Iroquois Park, like most of Louisville&#146s city park system was designed by famed nineteenth century landscape artist Frederic Law Olmsted (who also designed New York City&#146s Central Park and New Orleans&#146 Audubon Park).  The huge park is filled with old growth trees, small wetland areas, tiny meadows, flowers, mushrooms, ankle deep leaf litter, deadfall trees, and small seasonal creeks-----in other words a photographer&#146s dream there is always something to inspire picture taking.  
+
+We stopped at a small clearing near the riding stable that was in dappled shade and filled with small clusters of canary yellow flowers.  We decided to shoot some &#147intimate landscapes&#148---- tight shots of small self-contained landscapes like those made famous by master nature photographer Eliot Porter.  After a short scene scout we found an ancient stump covered on one side with thick dark green moss and surrounded by small clumps of flowers.  The dappled light made it easy to anchor the composition with the shaded old stump and move around until we were able to place the mossy side of the stump and a couple of clumps of bright yellow flowers in the patches of sunlight that penetrated through the old growth trees surrounding the clearing.  After about an hour of crawling around on our hands and knees framing &#147intimate landscapes&#148 we were both getting a little cranky because the bugs had found us.  The Dimage Xt is not really a photographer&#146s camera, we tried to exert some exposure control and improve contrast by jiggling the exposure compensation and adjusting the ISO settings, but to little avail.  If you want to do creative photography; take a tip from two photographers with about fifty years of combined image making experience-----micro digital cameras are great for snapshots.
+
+Once the golden light started to fade, we jumped in the car and drove to the nearby Wynandotte Caf�, a funky old Southside tavern to try the Dimage Xt out in a dimly lit interior setting. When I was kid my sisters and I would often go to the Wyandotte Park pool (right across the street) and the old tavern hasn&#146t changed much in all those years.  The inside is basically <i>oh dark thirty</i> with lots of wood paneling.  There are a couple of pool tables, Several TV&#146s tuned to the sporting event of the moment, and a long old fashioned bar.  The Wyandotte&#146s charm is based on friendly atmosphere, cheap beer, and excellent cheeseburgers made with never frozen ground beef topped with melted pepper Jack cheese and grilled onions.  My friend (like me) is a bar food aficionado, so we ordered a couple cheeseburgers and a pair of cokes and walked to the rear of tavern while we waited for our grub.  We shot a game of pool and each of us used the little Dimage Xt to shoot the other playing eight ball.  The Xt&#146s tiny underpowered flash required that we get tight into the shot, which drew some strange looks from the handful of patrons sitting at the bar. Eventually, our cheeseburgers arrived and we sat down to eat and discuss what we thought of the tiny Dimage Xt.   The final verdict?  The cheeseburgers were really good, but the Dimage Xt left a bit to be desired.
+
+<b>A Few Concerns</b> 
+
+The low light images we shot at the Wyandotte Caf� were fairly good (because of the hanging light above the pool table), but the Xt is not really the best choice for shooting in dim lighting.  Some of our shots were blurred and higher ISO settings resulted in unacceptable graininess and increased noise.  The Xt&#146s unique folded light path zoom manages chromatic aberration (purple fringing) pretty well, but there is a nasty tendency to vignette (dark corners) at both ends of the zoom&#146s range.  There is also noticeable barrel distortion at the wide-angle end of the zoom range, but pincushion distortion at the telephoto end of the zoom appears to be well controlled.  
+
+<b>Shutter Lag/Timing</b>
+
+The Dimage Xt starts up fast and in good lighting the autofocus is very quick, but in lower light the zoom &#147hunts&#148 and AF is considerably slower.  Shutter lag is about average in bright outdoor light but noticeably slower in dimly lit scenes.  Shot-to-shot speed is fairly quick, due to the Xt&#146s  internal buffer, actually a bit better than average.  Overall, the Xi is a fairly quick camera with a very fast boot-up, decent shutter lag/AF lag times, and better than average shot to shot times.
+  
+<b>Image Quality</b>
+
+The Dimage Xt falls a little short of the mark when it comes to image quality.  The pictures are pretty good overall up to 5X7, but there is noticeable softness at 8X10.  This is clearly due to the complex folded light path zoom&#146s optical properties.   In low lighting situations these problems are exacerbated by the Xt&#146s weak flash.  If you want to shoot portraits, the slightly soft images from the Dimage Xt come pretty close to approximating the &#147soft focus&#148 look of classic portraits.  If you plan to stick pretty much with 4X6 prints and not shoot too often in dim/low light then you may be completely happy with the Dimage Xt, but don&#146t even think about 8X10 enlargements unless you like the Olan Mills look.  We judged the Xt&#146s image quality based on one 8X10 inch print and three 5X7 inch prints made using an Epson Stylus Photo 785 EPX ink jet printer and Kodak photo paper.
+  
+<b>Conclusion</b>
+
+The newest member of Minolta&#146s tiny X digital camera family is fun and it&#146s easy to use, but the Xt is as much about style and &#147wowing your friends as it is about taking pictures.  If you view the Xt as a &#147take it along everywhere&#148 camera that can break the conversational ice with strangers and amaze your friends, then you&#146ll probably love it, but this is not the camera for that once in a lifetime backpacking trip to Europe or to document the birth of your first child.  Image quality is roughly equivalent to one-hour 35mm prints from Kodak or Fuji 400 ISO single use cameras.  If your sense of style demands a tiny camera, but your images lean more toward sharp as a tack environmental portraits, action pictures, indoors shots, or night scenes----spring for the extra dough and buy Canon&#146s superb four megapixel S400 or Olympus&#146 nifty little five megapixel C50.
+
+<b>Links</b>
+ 
+Check out my review of a bargain priced and very capable photo quality ink-jet printer. 
+
+<b>Epson Stylus Photo 785 EPX</b> ink-jet printer 
+<a href="/content_60776812164">http://www.epinions.com/content_60776812164</a> 
+ 
+For definitive advice on <b>How to Choose a Digital Camera</b> please see my review: 
+<a href="/elec-review-2E46-17B174E2-39A418E3-prod1">http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+For more information about comparable micro/ultra compact digital cameras, you may find the reviews below enlightening
+
+<b>Canon Digital Cameras</b> 
+
+Canon Powershot S400
+<a href="/content_94761619076">http://www.epinions.com/content_94761619076</a>
+
+Canon Powershot S230 
+<a href="/content_78900203140">http://www.epinions.com/content_78900203140</a>  
+ 
+<b>Minolta Digital Cameras</b> 
+
+Minolta Dimage Xi 
+<a href="/content_89754275460">http://www.epinions.com/content_89754275460</a>
+
+<b>Pentax Digital Cameras</b>
+
+Pentax Optio S
+<a href="/content_102275059332">http://www.epinions.com/content_102275059332</a> 
+
+
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

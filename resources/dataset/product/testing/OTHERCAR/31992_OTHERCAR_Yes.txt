@@ -1,0 +1,53 @@
+DOC>
+<DOCID> 31992 </DOCID>
+<PRODUCT> Digital_Cameras/511597_Hewlett_Packard_PhotoSmart_215 </PRODUCT>
+<URL> http://www.epinions.com/content_27323502212 </URL>
+<TEXT>
+            <b>Resolution and Zoom</b>
+The Hewlett Packard Photosmart 215 (also known as the C8890A) is a very inexpensive digital camera that shoots quality photos at its "Super fine" resolution setting.  It comes with a 4MB compact flash memory card that will hold 5 super fine resolution photos or 10 at fine resolution and 36 at standard.  I would recommend using either fine or super fine because standard really doesn't look very good.
+
+The camera has a 1.3 megapixel resolution and can zoom at 2X.  Using the zoom will automatically use the standard resolution unless you force it to use fine.  You can't use super fine while using the zoom feature.  Using the zoom feature at standard resolution will allow for 24 photographs on the 4MB CF card.  You can change the resolution for each individual picture and after changing the resolution the camera will indicate how many photos can be shot at the resolution setting being used.
+
+<b>Features</b>
+The camera sports a 1.8" LCD screen for previewing and checking pictures.  When you turn the camera on, a Hewlett Packard logo appears similar to the logo on their computers.  The camera has two modes, "camera" and "playback".  
+
+<i>Camera mode</i>
+In camera mode you can set the resolution, adjust date and time, set the flash, focus and self-timer as well as turn the zoom feature on or off.  This is all done by using the "menu dial" located to the left of the screen.  By pushing the dial like a button it turns on the menu features on the screen and by rotating the dial you can choose which feature you wish to use.  
+
+<i>Auto-flash and auto-focus</i>
+You can choose automatic or manual settings for auto-flash or auto-focus.  I use auto for both and have seldom ever had to adjust either to get really good pictures.  However occasionally when the lighting is mediocre the flash doesn't take on it's own and the picture may be somewhat dark.  This is when I will set the flash manually.  You can also set the flash to automatically remove red-eye, which works very well in low light settings when the flash is necessary.  I have never set the focus manually because the camera sets the focus remarkably well on its own but you can if you so desire.
+
+<i>Self timer</i>
+The self-timer can either be turned on or off but you can't set the amount of time for it to wait.  Once you click the button you have ten seconds before the picture is taken.  Each time you use the self-timer; it will turn off after the picture is taken.  You have to turn it back on before taking another timed shot.
+
+<i>Playback mode</i>
+In playback mode you can review the pictures taken on the compact flash card.  You can view all the pictures in thumbnail format or in full screen individually.  The date and time will show briefly in the top left corner and the resolution setting of the picture shows in the top right.  At the bottom it shows the number in the series of the total number of pictures.  For example the first picture of ten would show as 1/10, the next would be 2/10 and so on.  While viewing a photograph you can use the menu-dial to delete the current photo or all photos on the CF card.  You can also toggle thumbnail mode, magnify the current photo or set the current photo as the welcome screen when you turn the camera on instead of the Hewlett Packard logo.
+
+You can also lock a photo so that it can't be accidentally deleted.  Once it is locked you can't delete it unless you unlock it.  
+
+<b>Physical description and accessories</b>
+The camera is silver with a dark blue finger pad on the front.  It is not the best looking camera but it isn't ugly either.  It weighs about 14oz. (roughly) and 5"Wx3"Hx1�"D.  It will fit into almost all the digital camera cases I looked at when deciding which one to get.  There is a cover plate on the side that opens to reveal the CF card slot, USB cable port and AC power adapter plug.  
+
+<i>What you get with it</i>
+It comes with a USB cable to connect to a PC or Mac, four AA batteries and a 4MB CF card.  Unfortunately it does not come with the AC power adapter and batteries do not last very long (about 30-40 photos).  I opted to buy a recharger that came with four AA batteries separate from the camera and it has already paid itself off one hundred fold.  I would still recommend turning the camera off after each photo unless you are taking them pretty fast to save battery time.
+
+<i>Software</i>
+Two software titles are packed with the camera on a CDROM disc.  These are "Photo Montage 2000" and "Photo Impression 2000".  The Photo Montage software I have not yet used nor do I really intend to use it but the Photo Impression software works well for getting the photographs into the computer.  You simply install the Photo Impression software and plug the USB cable into the computer.  When you turn the camera on and plug the USB cable into the camera it will automatically run Photo Impression.  You can retrieve your pictures from the camera and adjust them to your liking.
+
+You can darken, lighten, add contrast, adjust tones and RGB colors as well as crop, paste and print your pictures.  Personally I only use this software to get the photographs into computer then I use Adobe Photoshop 6.0 to do any touch up jobs that are necessary.
+
+One nice feature of the Photo Impression software is that it will keep the photographs in albums according to the date they were taken or the date the album was compiled on the computer.  This makes it easy to find special pictures from an anniversary or birthday and the like.
+
+<b>Conclusion</b>
+If you need a good inexpensive digital camera or are a beginner with digital photography, this is probably the best camera for the price.  I paid $199.00 total for the camera and all the accessories including the separate rechargeable batteries and charger.  Since my purchase I have probably saved over $300 in film and development charges by buying photo paper and printing my own pictures.  With a good inkjet printer and quality photo paper, you can only tell the difference if you look real close and are actually looking to see the difference.  
+
+I hope this helps you decide if the Hewlett Packard Photosmart 215 (C8890A) is the right camera for your needs.  Thanks for reading.
+
+Gr8ful :-)
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

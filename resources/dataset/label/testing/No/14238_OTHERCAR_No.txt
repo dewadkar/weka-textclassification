@@ -1,0 +1,34 @@
+DOC>
+<DOCID> 14238 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Casio_QV-5700_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_95922654852 </URL>
+<TEXT>
+            I just got this cam couple of days ago. Did some test shots with it and here's what I can say so far. 
+
+I also have olympus 3040, so I'll compare qv5700 to it. 
+
+qv takes really great photos -- colors are more vivid, and more correct, I'd say. when taking pics of snowy streets w/ olympus (in automode) photos are dark and I have to adjust levels and sometimes color balance to get the right picture. with qv colors/brightness seem to be correct, snow is white, instead of grayish (as in olympus). macro shots are also great, somewhat better than in olumpus. you have much better control over focus in qv -- it's possible to select an area (one of 9) which will be focused. 
+
+cam is somewhat slow (maybe b/c of microdrive). sometimes it takes several seconds to be able to take next pic (and sometimes there's no wait). 
+
+picture preview is much slower that in olympus (when you choose to view preview of 9 pics per screen) and the way photos are displayed seems to be undeveloped (thumbnails have no border or spaces betweens them -- looks somewhat unprofessional). 
+
+batteries die really fast -- I use same batteries on olympus and can take about 200 pics, and on casio it's less than 100 photos (2 with flash). This also probably happens b/c of microdrive which needs extra power for spinning.
+
+photos in casio at 1600x1200 are 1MB/600KB/300KB in best/good/economy modes in olympus it's 300KB in normal mode (there're only 2 modes in olympus). quality of photos in casio is superior to olympus, though. 
+
+controls of casio are comfortable so far. a lot of wheels to turn   joystic   lots of buttons. unlike in olympus, you can access most of the features by pushing/turning buttons/wheels instead of going to the menu. it feels that after getting used to controls they will be much more comfortable than in olympus (where you need to go to the menu to access most advanced features). 
+
+lcd is *much* better on olympus cam (3040) there you can view it from almost any angle. on qv you should look straight to see correct image, otherwise colors look inverted. 
+
+on my qv lcd there's 1 burned pixel (it's red) -- it is annoying but I wont be exchanging cam b/c of this -- it is a common problem w/ tft screens. as long as there're no burned pixels on ccd I can live with it. Also, yesterday I encountered a strange problem -- I pressed on shutter release to focus and screen went completely white, and remained white until I turn cam off, when it was powered on again screen was ok. I'll investigate more on this problem and if it'll occur again, I'll have to exchange cam. 
+
+qv5700 does take some time getting used to (for someone who was using olympus 3040), but it is really a great cam, loaded with features (which could be easily and quickly accessed). cam has its flaws but nothing is perfect. I hope that I won't have any more "surprises" from this cam and it'll prove to be what I think it is from the first days of using qv.
+
+my friend has the same camera, and it accidentally fell from distance of about 1 foot on the carpeted floor. cam was turned off at that time. after this fall, lens did not pull out anymore and cam became unoperational. it is being replaced by casio, but this process takes them about a month, which is really slow (in europe it's 1 day). I want to note that camera body is not made of cheap plastic. It looks very solid, actually. But I would suggest to protect this cam from "disturbances" at all costs -- it seems to be really fragile.
+            
+<label> No
+<rating>  4.0
+
+</DOC>
+<

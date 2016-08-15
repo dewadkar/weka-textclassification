@@ -1,0 +1,30 @@
+DOC>
+<DOCID> 17130 </DOCID>
+<PRODUCT> Digital_Cameras/Canon_PowerShot_A40_Digital_Camera_7634A001__Camera_7634A001 </PRODUCT>
+<URL> http://www.epinions.com/content_74457124484 </URL>
+<TEXT>
+            After much research I narrowed my choice down to the Canon A40. It was all-around the best camera for the price & options it provided at 2.1 megapixels.  I won't bother with the specs. That can be found elsewhere.  I will list my experience with the camera.
+
+Setup:  all you do is pop in the batteries and start taking photos right away, although it will be necessary to browse the manual to learn what all those pictographs in the menu are on the display window. 
+
+Image editing & uploading:  Photos and movie files can be loaded directly from the camera via software provided by Canon, or (my preference) via a card reader which sees the CF Card as a drive in Windows Explorer.  Both work well and you can transfer & delete easily without any long upload times whatsoever.   I already had my own Photo Editing software so I did not review Canon's software. Their editing software is most likely generic but will do a fair job of editing photos. I had no difficulty installing the software provided.
+
+Assessories Needed:  As with almost all digital cameras, you will have to buy a larger CF memory card. The A40 came only with an 8 mb card.  If you plan to take a lot of photos you will need even more memory, especially if you utilize the movie option.   It will also be cost-effective to have an extra set of 4 rechargeable AA batteries with a charger.  After taking about 60 pictures with the window display on and using the flash often, the batteries will run out of juice. If you don't take all that many pictures then regular non-rechargeable AA batteries will do.  You may also want to consider getting an AC adapter to give the camera unlimited power if you plan on using the camera for long periods of use.  If you don't have a camera case, you will find getting one is very useful to carry the camera, extra batteries, manual, and memory cards.   
+
+Photo Quality:  There are numerous options to take good photos. An amateur like myself may want to read up on exposure settings, shutter speeds, and white-balancing to get the really best shots possible. The Auto setting does a good job, but the manual settings allow for even better pictures. I am hard pressed to tell the difference between a picture taken with this camera and one with a film camera.  The A40 has only 2.1 megapixels so enlarging a photo to a huge size (like 200%) diminishes detail terribly. 
+I did find a few minor issues concerning quality with this camera:  The color red can sometimes come out too bright. For instance, I took a photo of a person with pale pink lips but that person's lips came out a brighter pink. Likewise, I took a picture of a person with dark red shorts but the shorts came out a shade brighter. It's minor but noticeable. It is also recommended when taking panorama shots to be sure to set the camera on the panorama setting for best results. If you don't, sometimes at the edges of a photo some of the details become slightly fuzzy, and subjects furthest away from the camera can lose detail. In low-light situations this camera does a good job, but objects in shadow may become washed out as the camera tries to fudge the details. I would say it is best to use the manual settings in low-light situations. This camera functions best when there is good lighting.  Obviously, if you want to get even better quality you'll have to shell out hundreds of more dollars for more megapixels.  
+
+A word about Macro Mode:  the manual states that 6.5 inches is about as close as you can get to a subject. I have found that if you stay at that distance and use the digital zoom all the way, excellent, detailed close-up photos can be taken.  That is sufficient for most anybody I would say. It wasn't designed to be an electron microscope. Canon makes an optional lens that can be attached to the camera if you are into photographing tiny things like ants and such.  I rarely photograph insects. My shoe or a can of bugspray is all I need when it comes to those subjects! 
+
+Cost:  This is what I spent.  Bargain hunters can certainly do better than I did, especially on the internet: 
+  Camera:        $299 at Best Buy
+  128mb memory:  $70
+  8 NiMh batteris & charger: $36 
+  Card Reader:  Free  Total:    about $406.00     
+  
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

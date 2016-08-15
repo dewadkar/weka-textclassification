@@ -1,0 +1,44 @@
+DOC>
+<DOCID> 35309 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_CasioQVV-Casio_QV-7000SX </PRODUCT>
+<URL> http://www.epinions.com/content_13208948356 </URL>
+<TEXT>
+            Casio QV-7000SX offers a mixture of creative ideas and less robust design solutions.
+
+Casio QV-7000SX is rather large camera. The main reason is 2,5 inch LCD, which takes a big part of the backside of the camera. 
+
+The huge ledge for pins of the right hand allows keeping a device rather strong and conveniently, however revolving optics does not keep any place for the left hand. And generally, it is necessary always to be cautious to avoid of tangency's to that part, where is optics, as just gauges of an exposition and focussing, and also flash there are located.
+
+The revolving disk located on the right at the top of the camera, is used for choice one from ten various modes of shooting - standard automatic, represented by a green rectangle (it is a base mode of shooting), and other, more specialized, which offer to you unprecedented flexibility of tunings: shooting of the black-and-white documents, entry of titles, creation of panoramas, shooting of short films (is present two modes: one, when the frames after pressing a button are noted, and other, when in memory the frames removed directly ahead of pressing), sports competitions, night shooting, entry on the timer (that is possibility of shooting in specific time), and, at last, manual are noted. Many from sets found by menus for the first time at QV-7000SX, are present in videocameras, rather than to photocameras.
+
+All functions are simple and easily are used. The one problem can become only impossibility of highlighting of illumination of the LCD-display, which would help better to consider a screen in bright solar light. Really, in such situation the camera without the optical range finder and protective shutters can turn to the completely useless tool. Only one method though something to see - it to place maximum expocorrection, and before shooting to return to a normal position (to not return the last century from it by black additions for the photographers).
+
+QV-7000SX has a small 1/3 inch matrix with 1 250 000 effective elements (that is used for image generation), which ensures a maximum resolution 1280 � 960 of pixels. The auto focal point is realized by a phase method. A manual focussing of this camera very smooth and convenient. For a measurement of exposition in the camera there are two systems: multizone and system of a dot measurement.
+
+QV-7000SX stores photos on a CompactFlash-card (in package is the card of volume 8 Mbytes) enters which is placed in the covered compartment in a not so successful place at the bottom cameras. Therefore camera practically cannot be used as studio (in addition to it there is no possibility of management from the computer). All this infringes one from main requests presented to studio shooting - possibility to look through an outcome, not displacing the camera, that after the analysis to introduce a necessary correction and to repeat shooting.
+
+The browse mode shoots, opposite, is capable to satisfy even the most refined needs. You can look through already pasted together panorama, to see a film-fragment or to take advantage of a mode of enlarged survey of any part of an image.
+
+And one specific property of the camera QV-7000SX it would be desirable to pay the special attention. It is the generator HTML. The perfect system of ordering of shots, accessible through the customizing menu, automatically creates a full system of view, suitable for use in anyone Web-browser. 
+
+To look images on the television, the menu of the camera allows choice of the standard NTSC or PAL, ensuring, thus, universal compatibility practically worldwide.
+
+Quality of shots is rather good. By default the multizone sampling of an exposition is used which has shown itself from the best side for creation of the well-balanced images. I have marked, what even in a situation with high contrast scenes (for example, with alternation of the covered and shaded areas) the shots were well treated by the camera.
+
+At the expense of a number of the previously "programmed" modes of shooting the camera is easy in use and can considerably simplify life of the photographer - amateur. The modes give the actual help and ensure fast deriving of rather quality shots that especially it is important in conditions of rigid restriction in time.
+
+Defect QV-7000SX is the rather high degree of compression when saving of shots even in the high quality mode. As a result photos are received not so contrast, with many errors, intrinsic to a format JPEG.
+
+User interface it is very simple. As Casio QV-7000SX has not any other indication, LCD-screen is used and to show the user all current parameters of set-up of the camera. The board works rather tolerably, unless on it direct solar light hits and there is no possibility turn the display from bright rays.
+
+QV-7000SX is delivered with the special program QV-Link, which can contact to the camera with connection on the serial port or infrared junction. This simple, but effective program ensures access to all photos. And in it are possible even to realize and some editing to adjust brightness, visibility, to change nuances saturation and sharpness. QV-Link allows also to add the text and graphics to obtained shots and to change a size of an image. Besides on site of the company Casio there is the standard TWAIN-driver for work with the camera from other graphic programs. However, unfortunately, QV-Link and TWAIN-driver can not control the camera directly from the computer. But the present highlight of the camera is the generator HTML. 
+
+Besides the firm Casio supplements a set by two interesting programs from the company PictureWorks: Spin Panorama and Spin PhotoObject. The first program allows creating panoramic images on shots noted by the camera in a mode "panorama". The program Spin PhotoObject, on the contrary, can "to rotate" object.
+
+Thus, the camera QV-7000SX is completed by the software and for business applications, and for entertainment.
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

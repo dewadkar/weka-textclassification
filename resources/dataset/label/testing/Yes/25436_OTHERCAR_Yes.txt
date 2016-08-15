@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 25436 </DOCID>
+<PRODUCT> Digital_Cameras/SIPIX_D164B00_632224 </PRODUCT>
+<URL> http://www.epinions.com/content_73825685124 </URL>
+<TEXT>
+            This camera is great for home use!  It works as a webcam as well as a still cam!  It shoots pictures at 640x480 resolution and the pictures are very high quality!  I love the CF slot!  The only thing is that it's max is 32 MB.  I use a CF card all the time and can then take it out and insert it into my pda and view the pictures anywhere!  I had a little trouble installing the drivers on my Windows XP machine, but finally got it to work.  It DOES have flash, contrary to what the main page says!  The internal memory is 8 MB of RAM.  The problem with RAM is that once it loses power, the data is lost.  BUT, they have included a backup battery so that as long as your backup battery is good, you can change your batteries without loss of data.  I personally just use my Compact Flash card since it doesn't require power to retain data and since I can view the pictures on my PDA!
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

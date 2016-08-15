@@ -1,0 +1,50 @@
+DOC>
+<DOCID> 8453 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_C_3030_Zoom_Digital_Camera__Camera_225160 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-1A72-3ED86E0-39F715F6-prod1 </URL>
+<TEXT>
+            I bought the Olympus C-3030 Zoom digital camera in anticipation of a long planned trip to the American Southwest.  
+
+The Good:
+
+1)  The best thing about this camera is HIGH RESOLUTION up to 3.34 megapixels.  Photos can be saved in JPG format (good for web use) or the higher quality TIFF format.  The quality of the photos I took with this camera is superb and, frankly, better than my old film camera.  The beauty of going digital is that you don't have to worry about the developer ruining your film and treasured memories of your vacation.  You also have complete control over the color balance in your photos - if it doesn't turn out right, you can edit the photo and make it right or at least better.  After my American Southwest adventure, I'm set for life for desktop wallpaper!  
+
+2) While I primarily bought this camera as a still photo camera, the Olympus C-3030 Zoom also takes short 2-3 minute sound movie clips. This is a really great feature, particularly for parents of young children who may not want to spend the money for a movie camera in addition to a still photo camera.  Also, since it doesn't look like a movie camera, it can go places where movie cameras aren't allowed.
+
+3) Battery life is excellent, much better than I expected!  The camera came with two battery packs that were both DOA.  However, 4 AA size batteries work just fine.  I used Duracell batteries designed for longer life in electronic appliances and these lasted 3-4 days, taking up to 80 photos a day and turning the camera on and off several times a day (which uses battery to drive the motorized lens).  If you don't use the camera for a while, it will go into standby mode which conserves battery life, but this is NOT set to such a short time that the feature becomes an annoyance.
+ 
+3)  When I first held the camera in my hand, I was amazed at how lightweight it was, coming in at less than a pound.  This was in sharp contrast to my old Nikon 4004 with its three lenses, a hand me down from my father.  The camera was a joy to carry around (except for our 2 mile ascent of the Grand Canyon's North Kaibab trail at 9000 feet elevation...).
+
+4)  Instead of film, the camera uses SmartMedia chips, which come in sizes ranging from 8MB - 132MB.  These are small and don't take up nearly as much room in luggage as film cannisters.  I put them in my fanny pack and kept on hiking.  I would have needed a knapsack to carry rolls and rolls of film.  I bought a 64MB chip which holds about 70 photos at SQ2 normal 1024x768 resolution.  Your mileage may vary depending on the actual number of pixels per photo, however, I was fairly consistently able to get up to 79-84 photos at this resolution.
+
+5) The optical zoom lens is fantastic!  It is built into the camera, so that you don't have to change lenses as you might have had to do with  older cameras.  Because the zoom is optical, the quality of your photos will not be compromised, as would happen with a digital zoom.  However, with all cameras using a zoom lens generally requires the shutter to be open longer in order to get enough light to take the photo and this can be a problem when using the zoom while taking a low light photo.  I noticed that when taking a low light photo of the moonrise over Monument Valley and another one of sunset in the Painted Desert, that the camera failed to focus.  This is probably correctable by adjusting the exposure, although I didn't yet know how to do that when taking those photos.  This camera also includes a digital zoom that you can use if you want to, although I haven't yet done so.
+
+6) The Olympus CamMedia Master software that comes with the camera is easy to install and use.  The camera comes with a USB cable that you can use to connect the camera to your computer.  It's really easy to download photos from the camera, store them on your computer, and then erase the SmartMedia chip.  No directions necessary - just remember to install the driver!
+
+7) The camera is feature rich, but doesn't overwhelm you with its technical abilities.  While this is probably too advanced a camera for an outright beginner, it is possible to use it right out of the box.  It takes an evening or two of pouring through the manual to figure out what settings you want and then set and save them, but once you've done that, it's point and shoot!
+
+The Bad:
+
+1) The manual is very technical and not suited to beginning photographers.  For example, you can't look up a section on taking digital photos in low light conditions.  You already have to know that you want to manually adjust the exposure and then read about how to do that for this camera.  
+
+2) The lens cap falls off at every opportunity with the slightest jolt.  This is particularly bad when on the outside platform between the cars of a moving train.  A better design would have been to have the lens cap attached to the camera via a small cord.
+
+3) Since the camera is not a single lens reflex, you aren't prompted to remove the lens cap when looking through the viewfinder.  Thus, if you forget to remove the lens cap before turning the camera on, the motor that pushes the lens out makes a horrible whirring/grinding sound before shutting itself off and giving you several warning beeps.  This can't be good.  Also because it is not a single lens reflex camera, the photo you take has a slightly larger field than what you see through the viewfinder.  But, hey - it's digital!  You can cut any unwanted parts out!
+
+4) The motorized lens is driven out when the camera is turned to display mode from the off position.  This is poor design because it requires taking off the lens cap, even if all you want to do is view the photos you've already taken.
+
+5) When using the viewfinder to take photos, the display panel gets smudged by your nose.  This seems to be a problem with most of the digital cameras that I've looked at.
+
+6) The camera is pricey, at between $800-$999.  
+
+7)  The technology for getting the photos out of the digital camera and on to your computer is still evolving.  If you have an older computer that doesn't support USB, you may have a problem.  The newer Smart Media Flash Path floppy disk adapter will read up to 64MB chips, but not the newer larger chips.  The older floppy disk adapter that came with my husband's older digital camera only reads 8MB chips, despite upgrading the Flash Path software.  
+
+8) At $40-$150 per chip, you don't buy SmartMedia in the same mass quantities that you might film.  If you plan on taking this camera on long trips, a laptop becomes essential, because you need to have some way to store the photos and reuse the SmartMedia chip.  The laptop should either have USB and run Windows 98.  Why Windows 98?  Because previous versions of Windows may not have adequate PCMCIA or USB support.  PCMCIA support is required if you intend to purchase a PCMCIA SmartMedia adapter to read the chip.  We found this out the hard way when we discovered that an old Win 95 laptop wouldn't work, despite having a USB port and PCMCIA slot.  Our most expensive camera accessory was, therefore, a new laptop.
+
+On balance, this is a great camera and I'm not sorry I bought it, despite its quirks and high price.  It performed admirably during my vacation and the photos it has produced are simply stunning.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

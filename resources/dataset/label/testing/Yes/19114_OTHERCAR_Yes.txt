@@ -1,0 +1,24 @@
+DOC>
+<DOCID> 19114 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1988_Mazda_B2200 </PRODUCT>
+<URL> http://www.epinions.com/content_104280198788 </URL>
+<TEXT>
+            This truck is about as basic as you can get.  While it's available with air conditioning and power steering, many models were made without both.  The manual steering is only difficult when negotiating a tight turn such as pulling into a parking space.  The built-in vents that vent natural air (and a great deal of it) directly from the outside helps make up for the lack of A/C, except on extremely hot days.  The rear axle ratio of 3.909 for the 5-speed helps deliver a good amount of torque from the engine to the wheels, and it handles the half-ton cargo capacity (1095 pounds to be exact) quite well, even on steep inclines.  
+
+The basic nature of this truck and its commonality with other vehicles leaves it wide open for modifications.  For example, the same engine block was used the the Ford Probe GT, so the turbocharger from the Probe can be bolted directly to the B2200 engine, although some realignment of the exhaust pipe may be necessary.  This is a popular truck for being lowered and "tricked out", or "hooked up" as my daughter likes to put it, and there is plenty of room under the hood for working on the engine and adding modifications that need mounting space, like a car alarm siren, aftermarket cruise control, etc.
+
+The big drawback to the B2200 is the engine block.  The high nickel-carbon content of the alloy creates a very hard surface which can cause excessive oil control ring wear, especially if the oil is routinely neglected.  This causes the engine to smoke badly when first started until it warms up.  Sometimes this symptom can be attributed to bad valve stem seals or valve guides, but most often these components do not correct the problem when replaced.  At a minimum the engine will have to be disassembled and re-ringed.  But if cylinder or piston wear is excessive, the engine will have to be rebuilt or replaced with a short or long block.  Parts can be expensive, so often buying a short block and reconditioning the existing cylinder head is the most economical course to take.  Buying a block that uses premium piston rings will help prevent this problem from recurring, but oil maintenance is the biggest issue.
+
+The only other big problem I had was with the carburetor.  There's an air/fuel solenoid inside the carb that, when stuck or broken, stays open and causes the engine to draw much more fuel than it needs, which doesn't affect it's running so much as its ability to pass emissions.  Although the engine runs perfectly, the emissions of hydrocarbons can reach almost 700 ppm (limit is 217, norm is 50) and Carbon Monoxide can shoot up to 6-7% (limit is 2.1%, norm is 0%).  Cleaning the solenoid with a spray cleaner made it work sporadically, then it would quit working again.  The A/F solenoid is not available separately, so I had to either replace the carburetor or fix the solenoid, which don't recommend to average shadetree-ers, by cutting the solenoid open and cleaning the internal parts directly.
+
+The only other things I don't like about this truck are; the rear view mirror had no day/night setting, and was mounted to the dome light instead of the windshield, so I had to cut that one off and install an aftermarket mirror.  The windows on both driver and passenger sides are nearly impossible to roll down in winter weather.  I haven't figured out a fix for that yet.
+
+Fuel economy is good.  My driving is a mix of town/hwy, so I get about 23 mpg.
+
+I have a forum for Mazda pickup owners where you can discuss issues about your truck.  It's at http://www.cowpensvets.org/carboard/.  I don't make any money from it so hopefully the owners of this board won't mind me posting this URL.  
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

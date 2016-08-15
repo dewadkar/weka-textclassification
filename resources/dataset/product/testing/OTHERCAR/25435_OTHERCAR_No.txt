@@ -1,0 +1,33 @@
+DOC>
+<DOCID> 25435 </DOCID>
+<PRODUCT> Digital_Cameras/SIPIX_D164B00_632224 </PRODUCT>
+<URL> http://www.epinions.com/content_82245619332 </URL>
+<TEXT>
+            Had the Camera for a little while now.. I got it primarily for it's ability to capture a motion sensing video stream.. 
+
+   My Primary concern was the Lack of common sense in the battery monitoring feature.. You see,you get to learn the hard way that this camera will disable the Flash feature on you (not documented ANYWHERE) if it thinks the batteries are low... The Camera will disable it's flashing ability (YOU CAN'T OVERRIDE) at around 1.2 volts. Cute. I like to use NiMh Batteries which operate around 1.2-1.38 volts. 
+So you guessed it again.. I get 2-3 shots before the camera disables it's Flash (and yes: a CMOS is totally worthless without the flash unless you're in direct sunlight)
+(nowhere does it say "non-NiCad" compliant)
+
+The Camera can support a compact flash card.. This feature Works well. haven't had a compatibility problem with my array of sandisk cards at all.. works well with my Lexar Card reader. JPG output has never been corrupt.
+
+  The Win2000 drivers and application software is memory hoggish, sometimes runs without being windowed (twian DDE links that I have to kill in the task manager to go on with life that day).. Anyway the Drivers for the camera do work but are pretty much the win98 drivers on Speed. (But thats just because any application that is built on the Microsoft-USB SDK is unbelieveably memory and CPU intensive.. Even to do trivial tasks such as 240*320 streaming video, which was pheasable with the hardware from 1995)
+
+   This claim of motion Detection was rather comical. The "motion Sensing" feature was NOT done in firmware..
+Furthermore the "sensing" logic wasn't even carried out on the Camera, it's done on the Host PC. This is Maniacially irresponsible since (you guessed it) it's a 3rd party software package thats been rigged with some DCOM/COM interfaces to talk to the SiPix USB driver. and As you can imagine the 3rd party software has to CONSTANTLY watch the dataStream and compare Frames to decide if there's been a "Change" (clocking your Pentium4 to 100% indefinetly).. in which case it relays back a signal to the SiPix driver to start a Video Capture...
+ OK.. it "kind of" works. Except when a cloud goes over the capture area.. the Camera makes a Light adjustment, (you know those ones where the entire picture gets lighter?).. this of course Sets off the Motion sensing Software.. 
+
+So I guess we need to put on the box: Don't use on cloudy Days... 
+and: Don't use if your p4-2.5Ghz PC has ANY other purpose.
+
+The Email Motion dected Movies feature works.. and yes I got 258 movies emailed to me at work the first (and Last) day as the camera went into a domino effect movie taking rage for what unknown reason I'll never known myself.
+
+It's only saving grace is a camera.. I give it a 3 out of 10
+too bad when It actually does flash the Picture is usually overExposed (as it doesn't compensate for it's own flash very well) .. I taped a bit of white paper over the flash module and it helped a quite a bit. 
+
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

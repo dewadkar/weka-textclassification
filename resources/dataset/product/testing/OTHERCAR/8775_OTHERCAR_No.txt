@@ -1,0 +1,34 @@
+DOC>
+<DOCID> 8775 </DOCID>
+<PRODUCT> Digital_Cameras/Kodak_mc3_Portable_Multimedia_Device_Portable_Audio </PRODUCT>
+<URL> http://www.epinions.com/content_61329608324 </URL>
+<TEXT>
+            My boss's son is a  bit of a  technology freak. Whenever he sees a new toy, he has to have it. So it was that he recently saw an advert for the Kodak mc3 - a combination digital still camera, digital video camera and mp3 player, and showed up a couple of weeks later with it. We spent a couple of hours playing with it, and all I can say is I'm glad he spent his money on it, because I was not impressed. 
+
+The Kodak MC3 is sort of the technological equivalent of a Swiss army knife - it does a little bit of everything but is nothing you would use if you had the real thing. This camera/MP3 player is pocket portable. It measures 4.1 inches by 2.6 inches by1.5 inches. With 3 AAA batteries installed, it weighs in at only 7 ounces. It comes with either 16MB (for about $175) or 64 MB (for about $250) cards. The price has come down over the past year, though hhere in Poland, it's still quite expensive. It is possible to purchase a 32MB or 128 MB card also, but I will focus on those options that come with it. 
+
+All the applications - mp3 and the camera functions share the same memory card. The 16 MB memory card can hold 150 still photo images, or 20 minutes of mp3 files, or 5 minutes of video at 10 frames per second or 1 minute of video at 20 frames per second. Thus, if you load in 20 minutes of music, you have no space for anything else. In my mind, 20 minutes of music is not very much and I would expect to have that much on any music player. If I did that however, I would have no room for anything else. Thus, if i wanted to take pictures, I would probably limit myself to 2 or 3 songs. As quickly as the video takes up space, i can't imagine having any music here and trying to capture video. In my opinion, if you're going to get the Kodak mc3, the 16MB card is a ridiculous option.
+
+At 64MB, the options finally begin to make sense. With this memory card you can store 600 photos, or 90 minutes of mp3 files or 20 minutes of video at 10 frames per second, or 4 minutes of video at 20 frames per second. This would allow saving of 45 minutes or an hour of music and still enough room for video or still photos.
+
+Now, to the individual elements. The MP3 player is the best of the three. The playback is decent. The small screen makes navigating easier than on some other systems. It has a built-in speaker in back  and there's a standard mini-plug jack for use of headphones. If you are primarily interested in an MP3 player and would like to be able to take an occasional picture, this is not a bad option. 
+
+This is not, however, the camera you would want with you on vacation or when the pictures are a primary concern. The camera takes photos at 640x480 through a fixed focus lens. Photo files are saved in JPEG or EFIX 2.1. The camera leaves you stuck with ambient lighting because it  has no flash. Neither does the camera have a viewfinder. Instead, it has what Kodak calls an "innovative reflective color screen" The 1.8 inch screen works well in bright light, but is terrible in any but the brightest light. It would have been better if there had been a backlit display so you could adjust according to conditions. However, the idea of this screen seems to be to save batteries, so I guess not backlighting it achieves some of that. 
+
+The video is so limited in terms of time available and quality that its hardly worth having at all. Video is limited to 320x240 and to whatever storage you have left over after putting music on. Video taken at 10 frames per second was a pathetic quality and hardly worth the download. (Celluloid films, by comparison, run at 27 frames per second - nearly 3 times this rate.) At 20 frames per second, the quality was acceptable - though not great. The video is stored in Quick Time Format. One minute of video takes up 16 MB of storage, so even with the 64 MB card, you're limited to four minutes (assuming you've stored nothing else.) 
+
+The unit comes with the Kodak MC3 unit, a cheap pair of headphones you are likely to want to replace rather quickly, Compact Flash Type I card of either 16MB or 64MB size, a USB cable, a software CD, instruction manual, other documentation and---on the plus side---batteries ARE included.
+
+The software can run on either a PC or a Mac system. When we were playing around the unit, the software was loaded onto a PC and there were no problems with it. The software installed easily and ran without incident. On a PC, you will need Windows 98 or later, a Pentium 266MHz or the equivalent and 64MB of RAM. On the Mac, you'll need to have a Power-PC based system with MAC OS 8.6-9.0.4, and 32 MB of RAM. Both systems will require 70 MB of hard drive space to install the software, a color monitor with at least 256 colors, a CD or DVD-ROM for software installation, and a USB port.
+
+In the end, this is not a unit I would spend my money on. I suspect in time to come there will be more of these combination units coming out with better quality components. This unit is an expensive toy which provides poor quality video, mediocore quality still photos and decent quality music. 
+
+MP3 players and digital cameras are both improving in quality and dropping in price. I suspect that more and better combination units will hit the market before long. For now, if you're going to get an MP3 player and want to spend a bit extra for the additional toys, it's not bad. If, however, you're planning to buy a digital camera, skip it. You'll be disappointed.
+
+As I said earlier, I'm glad my boss's son spent his money on this because it's not something I would have wanted to spend my money on. I can tell you that it has been two weeks now since I first saw this and three weeks since he bought it. It appears that the novelty is wearing thin for him already. I don't see him carrying it around anymore. He's back to his CD player and a CD wallet - more music and better quality he says...and it doesn't require loading everything to the computer and back to the player.
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

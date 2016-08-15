@@ -1,0 +1,28 @@
+DOC>
+<DOCID> 28813 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_KodakDCC-Kodak_DC-210 </PRODUCT>
+<URL> http://www.epinions.com/content_26958466692 </URL>
+<TEXT>
+            I first got the Kodak DC-210 Plus over two years ago, and its has been used for well over 1000 shots (and countless AA batteries). Back then, a mega-pixel was considered a lot for digital, and serial interfaces were standard.
+
+<b>Opening the shutter</b>
+The box contained everything needed to start using the camera, including a serial PC cable, a TV cable, a power adapter, and a camera bag. The bag is fairly good quality, and has a belt clip and straps for extra batteries (a must have). An 8MB CompactFlash memory card is also included.
+
+<b>No Hotshoe?</b>
+The DC210 Plus is a standard Point and Shoot digital camera, so everything is automatic. It does, however, include zoom, red-eye reduction, and a tripod connector. The lens are built into the camera, and to attach extra lenses or filters, an �adapter� is provided by Kodak, which is just a small bracket that sites on the camera. The memory is removable, as the camera has a standard "Type 1" CompactFlash slot. I have been able to use larger cards with the camera without a problem.
+
+<b>The Kodak Moment</b>
+Turning on the camera usually takes some time. After hitting the button, there is a short delay, and the camera will then give the �green light� when it is ready to take a picture. The picture is taken by first looking through the viewfinder and then shooting. The camera will then �preview� the images on the LCD screen, so the person behind the camera can see how the images came out. There is the option of deleting it (if it is a bad shot) and going back to see it later in �Preview� mode. A small LCD display on the top displays status of items such as how much space is left on the CompactFlash card and the battery level.
+
+<b>In the Darkroom</b>
+The camera includes a serial hookup cable for downloading images to a PC. Serial technology is old and file transfers are slow. To get around this, I went out and got a parallel port CompactFlash card reader. Instead of having to connect the camera to the PC (and waste precious battery lift), I just have to pop the card out of the camera and plug it into the reader. I later went with a USB reader as well, as it was faster and easier to connect (and less of a nightmare to use under Windows).
+The camera also includes a TV output jack, so one can preview the images on a big screen. It supports both PAL and NTSC (I was able to hook it up to the TV when I went over to the UK for a few days).
+
+<b>Where�s the Juice?</b>
+The biggest downfall on this camera is the battery life. I always have to take along extra batteries when I use it, and I keep the AC adapter handy at all times. I think that it would have helped to have an option to save batteries by not having the camera �zoom out� whenever it is turned. I have found that the camera will also turn itself off often, usually when in the middle of capturing a moment. This is annoying, but it doesn�t seem to happen when using the AC adapter.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

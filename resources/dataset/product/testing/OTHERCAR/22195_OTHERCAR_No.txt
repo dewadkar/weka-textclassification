@@ -1,0 +1,34 @@
+DOC>
+<DOCID> 22195 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Kodak_DC-3400 </PRODUCT>
+<URL> http://www.epinions.com/content_78393151108 </URL>
+<TEXT>
+            If you don't mind using a truly archaic, poorly designed and marginally functional software program to get your pictures from the camera to your computer, the DC3400 is a good buy.
+
+The camera itself is quite functional compared to others in its price range, and produces nice picture quality - IF you can get those pictures out of the camera onto your computer's hard drive. You can, if you're willing to suffer with 1994 model year software instability and inconvenience.
+
+Having used this camera and it's software with both Windows 98 and Windows 2000, I can testify that the only useable part of the Kodak software package is the wholly outmoded and difficult to use "mounter".
+
+I have tried Kodak's software from the furnished CD-ROM, and from Kodak's impressively bloated 40-MB download. Results are the same. Kodak's Twain driver causes a fatal error Microsoft's Publisher 2000, Photo Editor, and Imaging, as well as in Ulead's PhotoImpact, when using Windows 2000.
+
+Kodak's Twain driver is sometimes useable, though unstable, when using Windows 98 Second Edition. It uniformly causes fatal errors in Microsoft's Publisher 2000. It sometimes works and sometimes doesn't with the other graphics editing programs I have listed above.
+
+These results are identical with computers using both AMD and Intel microprocessors.
+
+This month (October 2002), Kodak's tech support finally admitted in writing that its Twain driver is not useable with Windows 2000 - and offered no alternatives or hope of software upgrade.
+
+Since the whole purpose of digital photography is to be able to transfer images from camera to computer for manipulation and use, Kodak has an essentially useless product for those who are even mildly familiar with graphics acquisition and editing software.
+
+If you want to shoot digital pictures and drop your memory cards off at the nearest Walmart for processing, the DC3400 may be your cup of tea. If you're accustomed to easily importing images from scanners or cameras with your favorite graphics editing software, forget the DC3400.
+
+Maybe Microsoft has solved Kodak's problem with Windows XP. However, I paid Kodak for useable software, and they haven't furnished it, despite their claims.
+
+My first Kodak camera was a Brownie, more than 50 years ago. Their DC3400 is my last.
+
+My advice: Buy a camera from a vendor that provides useable software for YOUR computer. That isn't Kodak and its DC3400.
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

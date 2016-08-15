@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 23473 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Ford_Taurus </PRODUCT>
+<URL> http://www.epinions.com/auto-review-62BD-241C7300-3A19D6E0-prod5 </URL>
+<TEXT>
+            As a former car salesman at Altavista Motor Co., I have demonstrated many of the different models of passenger cars.  Overall, I would have to say that the Ford Taurus is the most for the buck.  What i like about the Taurus, is the many different saftey features.  One of these features is the reinforced tubular saftey cage.  This allows for superior protection from front, rear, and side collisions.  It also allows the car to flip over while still protecting the passengers.  Another of the features that I believe is very important is the computer that controls the airbags.  It takes many factors into consideration before engaging the airbag, like, speed, position of impact, driver position, and wether a seatbelt is being worn.  The vehicle rides and handles beautifuly.  There is a lot of power in the optional DOHC V6.  I think that anyone that wants a reliable and safe car, should buy a Ford Taurus.  The Taurus is not only to be purchased by family people, it should also be considered by single peoplle also.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

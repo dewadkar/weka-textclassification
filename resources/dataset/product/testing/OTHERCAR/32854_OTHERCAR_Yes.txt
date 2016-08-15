@@ -1,0 +1,59 @@
+DOC>
+<DOCID> 32854 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_NikonCoolpixx-Nikon_Coolpix_880 </PRODUCT>
+<URL> http://www.epinions.com/content_51866930820 </URL>
+<TEXT>
+            I think the basic feature list has been covered more than sufficiently in other reviews, so I'd like to concentrate more on what I have done and discovered with my 880.
+
+<b>Picture quality</b>
+
+I have been waiting until 3+ megapixel cameras became reasonably-priced.  With that level of detail, you can make great-looking 8x10's, or have enough detail to crop and zoom, when necessary.
+
+The 880 produces great looking pictures, with lots of detail and color.  Other reviews commented on how sharp the pictures looked.  It took me a while to realize that "sharpness" was turned on by default.  While this may actually make for a very sharp snapshot, in some cases, too much sharpness will cause "ringing" (or fringing) around objects, which may affect enlargements more than snapshots.  I have one shot in particular that would have been much better without this artifact.  Since I can always sharpen in my photo software, I prefer this option to be off, and then I will sharpen when I want. 
+
+When I have photos printed (uploaded to a web site, and they send back the prints), they look fantastic.  I think pictures look better than those taken with my automatic 35mm.  Digital photography is finally here!
+
+<b>Taking pictures</b>
+
+I really don't make much use of the "scene" modes, although, I do think that they might come in handy when you don't have the time to mess with the manual feature and/or don't remember what settings to use.  Typically, putting it into "auto" will take good shots most of the time.  I can hand the camera to someone else, and there's no mystery.  This is particularly an important feature if you want more manual control, but your spouse does not.  :-)
+
+Here's a feature that is better than a typical 35mm automatic camera: it will focus through glass, at a subject, rather than focusing on the glass.  (With an autofocus camera, you often have to go into landscape/infinity mode and hope for the best, or manually adjust the focus distance, if that feature is available.)  On the 880, it is also possible to manually set the distance (but not while in the automatic mode).
+
+The manual modes were a selling point for me.  There are some other cameras that have a wider range of manual adjustments (Canon G1, I think), so the 880 is a bit of a compromise.  However, if you're like me and trying to move beyond the beginner stage and take more interesting pictures, it provides a lot more options beyond the usual automatic camera settings.  If you're an experienced photographer who is used to an SLR, there may not be enough adjustments for you.
+
+If you have stitching software, the 880 has an "AE Lock" mode which will allow you to take several pictures with the same exposure settings.  This allows you to create panoramas and have the same exposure across the entire panorama.  (Without such a setting, each picture would get a different brightness or even color, and it could be an unpleasant effect when you stitch them together.)  Don't forget to "reset" or turn "off" the AE Lock mode when done!  I have done a couple of neat 360 pictures (viewable on the computer), but it's hard to find a situation where there's something nice to look at in all directions.  :-)
+
+I have tried using the BSS (Best Shot Selector), but it seems too inconsistent to me.  It's supposed to take multiple shots and choose the ones with the least amount of blur, but perhaps the real problem is that it's too easy to take a blurry shot.
+
+That brings me to one of the negative points (and perhaps this affects other digital cameras, however, most of my experience is with this camera, so I can't compare) -- it's very easy to blur pictures, particularly in low light situations.  It does a fantastic job of giving you a picture in low light conditions, but it needs to hold the shutter open longer to do so.  As long as the camera is very stable, and the subject doesn't move much, you can get a great shot with very natural-looking lighting.  I really like to attempt these shots, however, many photos turn up blurry.  With a flash, you get a stable picture even in lower light conditions, but then the battery is drained even faster.  I also do not always like the harshness of flash -- sometimes it looks good, sometimes not.  (Not to mention that the flash is only suitable if the subject is within several feet.)  If you can stabilize the camera (say, by resting it on something or leaning against something), you can get more stable shots even without a tripod.  That technique has been helpful, particularly when I am fortunate enough to be able to line up the shot and use the timer so that my hand does not even touch it when it snaps the picture.
+
+I think it is worth noting that often times the "blur" that people notice is mostly when zooming in on the detail of the picture.  If printed as a 4x6 snapshot, you often will not see a problem, or not enough to bother the eye.  At 3+ megapixels, that's far more resolution than is needed for a 4x6, so you have to consider that it looks worse when zoomed.  In other words, if you had the same amount of camera shake using a lower-resolution 2 megapixel camera, when you zoomed into the latter, it would appear "less-blurred", but you're really looking at less detail as well.
+
+Having said all of that, I spend a lot of time trying to compensate to avoid blurring/shaking.
+
+It's worth noting that the camera defaults to "normal" picture quality mode.  I always use "fine" mode, which doubles the size of the picture, but reduces the jpeg artifacts to a very low level.  If you can afford the memory, you might as well get the clearest pictures possible.
+
+If you run low on memory, and you know you don't need anything more than 4x6" prints, you can lower the resolution and take quite a few more pictures.  I only do that when I'm desperate and fill up my memory (which I do pretty often, actually).  I'd rather have more detail than I need, rather than the other way around.
+
+<b>Accessories</b>
+
+Boy, are they expensive!  You pretty much need to buy the power adapter and battery, though.  Not to mention a larger CF card.
+
+I might like to get additional filters or lenses, but they are a bit pricey.  Also, the remote shutter trigger is very expensive.
+
+For a case, I purchased a small Lowepro which is built tough with lots of padding.  The 880 fits this particular model like a glove.  They have an entire series for digital cameras that has slots for holding memory cards, batteries, and other handy features.
+
+<b>Software</b>
+
+The main thing I thought was interesting about the included software was the (limited edition?) fractal file format plugin.  Using this (only works as a plugin to certain paint programs), you can load pictures and enlarge them to much higher resolutions, and it fills-in detail better than typical paint software.  This works best if you at least have good detail in the original picture (without blurring/shaking).  However, I haven't found this to be as useful as I expected, as 3 megapixels seems to do a fine job of 8x10s.
+
+<b>Summary</b>
+
+I'm very happy with the output of the camera, and I enjoy experimenting with the extra features.  My wife enjoys the automatic mode, and claims to be happy with the results.
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

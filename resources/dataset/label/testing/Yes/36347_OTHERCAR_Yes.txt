@@ -1,0 +1,67 @@
+DOC>
+<DOCID> 36347 </DOCID>
+<PRODUCT> Digital_Cameras/511641_Polaroid_PDC_1300_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_31078190724 </URL>
+<TEXT>
+            I got this on sale, and found out that there is a $50 rebate (since expired), so it was a good deal.
+
+I'm a Mac user, so the fact that it comes with all kinds of Windows stuff was a disappointment. With a little ingenuity, however, I was all set: the camera uses a Compact Flash (CF) card. With the Simple Technology CF PC Card adapter that I bought, I can just put the CF card into the adapter and then put the PC card into my laptop - the images appear just like a floppy disk! Another option, for those with desktop Macs, is to use Virtual PC along with the PC software and the USB cable. It's not the fastest way to get the images, but it works, so it's not a bad workaround.
+
+On to the camera...
+Operation is very simple: flip the main switch to record and start taking pictures. If you want, you can use the LCD to better frame the images (sometimes you think you have everything, but you've just clipped someone's head...).
+
+You can use the little scroll wheel to change the settings:
+resolution
+flash
+focus
+timer
+zoom
+options
+
+The resolution options range from 640x480 up to 1280x960. I've found that the "super" and "high" resolution images (both 1280x960) are pretty similar, so I can't tell why "super" is, but what the heck - it's another option.
+
+You can turn the flash on, off, set it to auto, or set it to red eye. The red eye feature is pretty good, and auto sometimes flashes when you really shouldn't need it. I've had the best luck with red-eye, which I turn on when I think I need it - too much light is better than not enough.
+
+Focus is pretty much "auto-focus" (aka from 3 feet to infinity) or macro mode, for close-ups. I haven't tried the macro (one of the samples should have used it), but I'll try it soon and fix the flower picture - I have no reason to think it wouldn't work though.
+
+Timer is pretty self explanatory - it waits about 10 seconds, then takes the picture.
+
+Zoom switches the camera to low (640x480) mode and then does a digital zoom. I recommend using the LCD for this (to make sure you've got what you want in the picture). The zoomed pictures are pretty clear though.
+
+The options are pretty basic:
+quick review - not sure what this does!
+exposure - let's you adjust the virtual f-stop
+reset - resets all settings to the default
+time and date - lets you adjust the time/date stamp (seems to only affect usage with the Polaroid software)
+
+When you're done taking pictures, you can move the main switch to play to review your pictures. You scroll through them with the little scroll wheel, and use access the menus the same way - "click" it.
+Options for play are:
+multi - shrinks the images you've taken down to thumbnail size, for easy previews
+delete - lets you delete one or all images
+lock - lets you lock an image, to prevent accidental deletion
+dpof - no idea
+zoom - neat! lets you zoom in on the image, on camera. includes the ability to scroll around
+info - lets you get some info on the image
+logo - lets you save a particular image as the "default" image - seen when you power up the camera
+
+The ability to review/delete the images on the camera is nice, as is the ability to lock certain images - that way, you can lock the ones you want to keep, and then delete everything else.
+
+Using the PC software is a little slow, but it's pretty easy to use, and pretty thorough. It offers a bunch of features, but I haven't tried any of them - I use Photoshop on the images once I've got them on my computer.
+
+There are features of the camera that I don't know about/haven't tried yet. I'm sure they're covered in the pretty thorough manual, but I don't care - I was able to take it out of the box and start using it, which is all I care about. If it's not that easy, it's not really worth owning.
+
+Here are some sample images:
+adam.gerstein.net/epinions/pdc-1300/PDC_0003.JPG
+adam.gerstein.net/epinions/pdc-1300/PDC_0004.JPG
+adam.gerstein.net/epinions/pdc-1300/PDC_0005.JPG
+adam.gerstein.net/epinions/pdc-1300/PDC_0005a.JPG
+adam.gerstein.net/epinions/pdc-1300/PDC_0006.JPG
+adam.gerstein.net/epinions/pdc-1300/PDC_0007.JPG
+adam.gerstein.net/epinions/pdc-1300/PDC_0031.JPG
+(you'll have to copy and paste the URL's because of epinion's policies)
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

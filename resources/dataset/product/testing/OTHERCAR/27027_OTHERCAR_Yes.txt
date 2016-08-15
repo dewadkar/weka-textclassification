@@ -1,0 +1,52 @@
+DOC>
+<DOCID> 27027 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_OlympusDigitall-Olympus_D-450_Zoom </PRODUCT>
+<URL> http://www.epinions.com/elec-review-27B4-492B4D-388DE320-bd3 </URL>
+<TEXT>
+            Olympus D450Z
+This camera is well worth the $499 dollar price tag.  It is a 1.3 mega-pixel
+camera with a resulting picture resolution of 1280x960.  1.3 meg-pixel is
+all you need for prints from wallet size up to 5x7 inch.  There is also a
+640x480 resolution mode which will produce prints up to about 3x4 inches.
+Anything larger will appear pixelized.
+
+The image quality is very good, the lens system, and auto focus system seem
+accurate.  This camera has a 3x true optical zoom lens as well as a 2x
+digital zoom.  The optical zoom is very important for a digital camera since
+it allows filling the frame with your subject.  Digital cameras have more
+limited resolution than 35mm cameras, you don't have as much leeway in
+cropping the image after-the-fact without losing resolution.
+
+There are a number of other cameras available that include only the digital
+zoom.  This is really no zoom at all, since this is just cropping the center
+portion of the image array, taking the 640x480 pixel center portion of the
+image array.  You can do the same thing by taking a full resolution 1280x960
+pixel image and manually cropping down to 640x480.   However, if you
+normally take 640x480 images anyway, you may find the 2x digital zoom
+useful.  Also the digital-zoomed images take less memory than full
+resolution images.
+
+The best all-around image setting to use on this camera is 1280x960 HQ mode.
+1280x960 SHQ images take up twice as much memory and the difference in
+quality between HQ and SHQ modes is negligible. You can get about 36 HQ
+pictures on an 8MB smartmedia card.  (1280x960 SHQ gets 18 pictures, 640x480
+SQ mode gets 122 pictures)  Since you can't just pop in another roll of film
+when you are away from your computer (like when you are on vacation), you
+may want to invest in some additional smartmedia cards. The larger storage
+cards are a better deal per megabyte.  A 32Megabyte card which will hold 146
+HQ images cost about $100 retail.  8 megabyte cards are $30-$40 each retail.
+Many mail order and e-stores have even better prices on smartmedia cards.
+
+I would recommend that you invest in a set on NiMH rechargeable batteries.
+Digital cameras in general including this one EAT ALKALINE BATTERIES FOR
+LUNCH!  I get about 300 pictures from a set of charged NiMH batteries,
+alkalines are only good for 50 to 75 pictures.
+
+
+<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

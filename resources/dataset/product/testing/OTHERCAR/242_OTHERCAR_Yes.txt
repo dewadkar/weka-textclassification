@@ -1,0 +1,42 @@
+DOC>
+<DOCID> 242 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_Powershot_G1 </PRODUCT>
+<URL> http://www.epinions.com/content_41868562052 </URL>
+<TEXT>
+            Earlier this year I was interested in buying a digital camera, but I knew I couldn't afford to buy one unless I was sure it was a well constructed, functional device. At the time the Canon Powershot G1 was Epinion's number one recommendation for digital camera's, so I read through all of the reviews for this, and many other highly recommended digital cameras before making my choice.
+
+I had several criteria for choosing a Digital Camera, and the G1 fit everyone of these:
+
+1. Long battery life -- If a camera is going to be useful, it shouldn't be necessary to carry a box full of replacement batteries on long trips. Many of the reviews for other digital cameras in the 3+ megapixel class indicate that these cameras burn through batteries like wildfire. The G1 comes with a Lithium Ion battery, and in the four months since I bought this camera I haven't had a battery run out on me yet. I do try to keep the batteries (I bought a backup for extended trips) fully charged whenever I think I'll use the camera, but it can easily handle 400 - 500 photos between charges.
+
+2. High Resolution -- I would have settled for a 2 megapixel camera if it met the rest of my needs, but I was really looking for a good 3 megapixel camera, and the G1 fit this requirement perfectly. The G1 takes great pictures, with a good choice of resolutions: 640x480, 1024x768 (perfect for wallpapers!) and 2048x1536.
+
+3. Large Storage Capacity -- Specifically, I wanted a camera that supports IBM's MicroDrive. With 3 megapixel cameras, it is very easy to fill up a 16 MB memory card, and I wanted to be able to take pictures all day without feeling tied to my laptop. The 340 MB MicroDrive was the perfect compromise between price and storage capacity, allowing me to take about 360 high resolution photos before I have to download them. The MicroDrive itself deserves a review, but as a camera storage accessory it is unmatched, and the G1's MicroDrive compatibility was a definite advantage.
+
+4. A Good Lens -- A lens is easily the most important part of a camera, and a good lens makes all the difference in your photographs. Larger lenses have a greater light gathering capability and create less distortion than smaller lenses. The G1 has a moderately sized lens, not as big as those on professional cameras, but still larger than those equipped on most digital cameras.
+
+5. Price -- I was looking for a camera that could meet all of my criteria, and still come in under a $1000. The G1 by that time was well under a grand, although the addition of the MicroDrive and a few other accessories pushed my final price up to about $1200.
+
+The G1 has definitely lived up to my expectations, and I love the fact that I don't have to worry about wasting film -- now I can take frivolous pictures that I would avoid on a film camera, and discover some real gems among these later on. Since I bought the G1, it's dropped in price another $100, so at this point in time it's a real deal. I've just discovered that Canon has released a 4 megapixel G2, but I would still recommend the G1, as it has just about everything that anyone besides a professional photographer would demand: in addition to the benefits listed above, it comes with a remote control that makes group pictures much easier, and the rotating LCD screen makes it possible to take pictures from seemingly impossible angles. And unlike many cameras in this class, the G1 takes 30 second movie clips *with sound*.
+
+Lest you think that I've been paid by Canon, I should mention some of the G1's flaws. 
+
+If you've read any of the other reviews here, you know about the rubber flap that covers the data port and power connector. Despite how flimsy it seems, it hasn't broken off my camera yet, but I try to leave it alone as much as possible.
+
+The G1 also takes forever to start up, since the lens needs to extend before you can take pictures. It's not nearly as long as it takes Windows to boot, so it's bearable, but it makes it difficult to take spontaneous photos unless you leave the camera on most of the time, or are good at anticipating your next shot.
+
+The camera also will not turn on in record mode if you leave the lens cap on, requiring you to turn it back off, remove the cap, and turn it back on before you can take a picture, but after a couple of times, you'll remember not to do this.
+
+I've noticed that the shutter release sometimes will not respond properly. When you press the release button halfway down, it detects lighting conditions and focuses for the shot (depending on what mode you're in, anyway) but sometimes my G1 will refuse to take a picture unless I release the shutter, wait a beat and try again. This can be aggravating, but it happens less often when you get used to the camera's quirks.
+
+Indoor pictures are difficult to take without a tripod or excellent lighting. The auto mode is absolutely useless indoors, and about half of the portrait mode pictures I take indoors have at least some blurring to them. Oddly enough, though, I don't seem to have this problem when I take Black and White photographs.
+
+Finally, the camera is slightly to big to fit into a pocket, but it does come with a great wrist/neck strap -- although I do worry a bit about the camera swinging around so much on a long hike.
+
+These problems are really minor when compared to the dependable performance and excellent photographs offered by the PowerShot G1.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

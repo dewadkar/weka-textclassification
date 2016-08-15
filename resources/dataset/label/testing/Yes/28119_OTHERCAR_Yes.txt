@@ -1,0 +1,25 @@
+DOC>
+<DOCID> 28119 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_PolaroidPDCC-Polaroid_PhotoMax_PDC-700 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-3A58-176A9507-388B3B5D-prod3 </URL>
+<TEXT>
+            The Polaroid PDC 700 Digital Camera is a very good buy in my opinion. Some of its great features are:
+-1024x768 pixel resolution digital camera (XGA)
+-4MB internal memory
+-1.8&quot; LCD Color Display
+-Includes Polaroid PhotoMAX Image Maker Software and Polaroid PhotoMAX Pro Software.
+
+Pro
+
+The 1.8&quot; LCD Color screen is very nice, it let's you preview your pictures or even lets you use it as a viewer. The camera has the ability to turn on or off the flash or have the camera decide when to use the flash for you (auto). When previewing pictures you can view one picture full screen, or you can view 9 of them at a time. After you take a picture it shows how the picture came out and if you don't like how it did you have 5 seconds to erase it right then and there! The camera can hold 25 pictures on its 4mb of memory. The software is very nice, it makes it so that anyone from a computer guru to a computer newbie can import their pictures into their computer. Because the camera is TWAIN compliant you can use it with any of your high-end graphics programs also!
+You can even hook the camera into a vcr or tv and record or watch yourself right on the tv!, but there isn't  any sound which is a downside.
+
+Cons
+
+The batteries run low very fast if you use the lcd screen as a viewscreen, so I recommend using the old fasioned hole to take your pics. The importing of the images to your computer is VERY slow, because the wire only supports 28800 bps.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

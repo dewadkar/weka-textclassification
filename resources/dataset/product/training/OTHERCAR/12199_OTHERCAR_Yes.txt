@@ -1,0 +1,19 @@
+DOC>
+<DOCID> 12199 </DOCID>
+<PRODUCT> Digital_Cameras/Aiptek_Mini_PenCam_1_3_Digital_Camera__Camera_PCM13 </PRODUCT>
+<URL> http://www.epinions.com/content_70430002820 </URL>
+<TEXT>
+            I've been looking for a cheap digital camera to keep in my car, and take when I'm not comfortable lugging a full sized SLR, or my Nikon Coolpix 885. When I saw this one at Best Buy, I just had to have it. This really fits in the palm of your hand, and takes descent 1.3 MP images (1280x960). Startup time and shutter lag is very low. Both under 1s. It's builtin 32MB memory stores 50 high res, or 150 low res (640x480) images which area easilly transfered using the included software. There is a macro adjustment ring for close-up pictures. But there is no flash, so in low light settings (especially indoors) you will have a hard time getting a good picture.
+
+This camera also records video in AVI format, and can be used as a PC Camera (up to 640x480 20fps). It can be powered from the mini USB cable when connected to a PC.
+
+The two major problems with this camera are that high resolution pictures are relatively poor compared to a more expensive digital camera. The colors look good, but the pictures look a bit blurry, objects at infinity never seem quite in focus, and contrast is a bit high. At low res, the pictures look excellent. The other problem is the lack of an LCD display to see view pictures.
+
+Overall, I'm very pleased with this camera.
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,28 @@
+DOC>
+<DOCID> 3025 </DOCID>
+<PRODUCT> Digital_Cameras/510620_Canon_PowerShot_Pro90_IS </PRODUCT>
+<URL> http://www.epinions.com/content_56422076036 </URL>
+<TEXT>
+            The Canon Pro90IS is my fifth digital camera (others were Olympus D340R, Olympus D400Z, Nikon Coolpix 950, and Canon S100 Elph.) The Pro90 replaced my Nikon 950. In my opinion, the Pro90 is the best overall package in a digital camera under $1000. Is it perfect? Nope. But I can live with its shortcomings.
+
+The first big plus for the Pro90 is of course the 10x zoom with Canon's excellent Image Stabilization (that's where the "IS" in the name comes from.) The IS system allows you another 2 to 4 stops in most situations. So a picture that you would be able to handhold at 1/60 shutter on a normal camera, you could handhold at 1/15 or maybe even 1/8 with the Pro90. This of course also helps stabilize the camera when using the long zoom.
+
+The second thing that I like about the Pro90 is the SLR form factor. The Nikon 950 was an excellent camera but it had an awkward shape that was a bit difficult to get used to. I also had people asking me about what kind of camera it was all the time. The Pro90 looks like a camera is supposed to look and you can hold it like you would hold an SLR. The tiny LCD in the viewfinder is very usable and I find myself using it 90% of the time. The other 10%, I use the excellent flip-n-twist LCD on the back of the camera. This LCD is bright and clear and does not wash out in bright sunlight like the Nikon's did. Another great feature.
+
+The main thing that I disliked about my Nikon was its lack of a flash hotshoe. In order to use an external flash with it, you had to use a cumbersome and awkward bracket. The Pro90 solves this problem with a flash hotshoe on top of the camera. It is compatible with the E-TTL mode of the Canon EX speedlights. These are the <b>ONLY</b> flashes that work in TTL mode with the Pro90. All other flashes will fire at full power every time, whether they claim full Canon E-TTL compatibility or not. Even Canon's own EZ series flashes don't work properly with the Pro90. But with the 420EX (the flash that I use with it,) the results are excellent every time.
+
+And speaking of excellent results, the pictures that the Pro90 produces are beautiful. The colors are very accurate, the details are crisp, and the overall look of the pictures is top notch. Some might knock it for being "only" 2.6 megapixels, but I have printed 8x10s on my Epson Stylus Photo 780 printer that are very suitable for framing. The "lack" of resolution on the Pro90 is no problem whatsoever.
+
+Which is a good segue into the few things that ARE problems with the camera. First and foremost as far as I am concerned is its partial compatibility with the EX flashes. Yes, the flashes do work in E-TTL mode just fine. But there are a few capabilities that the flashes have that the Pro90 cannot take advantage of. First is the AF (autofocus) assist light. All of the EX flashes have a bright red AF assist light right on the front of the flash. Since the Pro90 has no AF light at all, the light on the flash would be perfect. Unfortunately, the camera is unable to tell the flash to turn it on. This is a feature that works on the sub-$300 Rebel 2000 film body but not on the $800-1000 Pro90. There is no excuse for this. I have talked to Canon about this and they tell me that there is nothing that can be done to fix it -- that's just the way it is. The camera is also unable to use the second curtain sync mode with the 420EX, although the much more expensive 550EX can do second curtain because it can be set on the flash. The camera is also unable to use the flash's modeling light capability. When I pay $900 for a camera and another $200 for a flash, I expect them to work as designed. Call me silly.
+
+My only other gripe with the Pro90 is the low light autofocus ability. The Canon G1, which is basically the Pro90 with a 3x zoom, has an AF assist light built into the camera but the Pro90 doesn't. I'm not quite sure why this is, but as a result it is unable to focus in low light. A small flashlight fixes the problem, but again this is an expensive camera to be missing such a basic (and cheap) feature.
+
+Overall, the Pro90 is an excellent and very capable prosumer camera. I forsee keeping it until I jump into the world of digital SLRs, probably in the next year or so. If you wish to see pictures from this camera, please look at my website at http://twalker.d2g.com
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

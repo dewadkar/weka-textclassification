@@ -1,0 +1,100 @@
+DOC>
+<DOCID> 34085 </DOCID>
+<PRODUCT> Digital_Cameras/511642_Olympus_Camedia_C_3040_Zoom </PRODUCT>
+<URL> http://www.epinions.com/content_28953775748 </URL>
+<TEXT>
+            Quick update December 2003
+
+About 3,500 photos on and it's still going strong. It's not had a rough life, but I take it *everywhere* I go, and has been dropped a few times onto carpeted floor accidentally, and survived.
+
+I've added more memory cards, they're only US$40 now! It's still a shame that smartmedia's limit is 128MB, but that's enough for 150 high quality pix. Some memory cards are definitely faster than others, so it's worth looking at better brands. Apparently power consumption can vary by 75% too, but I can't tell you how to determine the best card as the full technical specifications are rarely published, all I can say is that with the small difference in prices when buying online, to go for a good name brand.
+
+My father has now gone digital and bought a Canon A60. Although in theory his camera should be better, the images are noticeably very slightly worse especially in poorer light. I was puzzled by this, naturally, as I thought technology should have moved on.
+
+After some investigation I found out that not only have very few mid-range digital cameras matched the lens that Olympus fitted to the C3040Z and its replacements, but in this model Oly fitted a 1/1.8" ccd image sensor, whilst other manufacturers were fitting and have continued to fit smaller sensors... the extra 30% area increase over the 1/2.5" and f1.8 vs the typical f2.6 lens means there's more light for the sensor to work without noise.
+
+In practise, from what I've read, 3M to 4M is about the optical limit of resolution for typical digicam CCDs and their lenses - it's only when you get to the larger sizes used by the SLR-type cameras and the quality of lenses; adding more pixels to the sensors simply gives each one less light, and the smaller lenses simply don't have the resolution.
+
+Update 29th May 2002.
+I have now lived with my 3040Z for a year and have a few more things to add.
+
+Firstly, memory. The Oly uses smartmedia, which I think is a dying format, as Compact Flash seems to be the way of the future. So, my advice is to make sure you buy at least one spare card if you're ever going to need it.
+The largest sm card you can buy is still only 128MB, which I think is a design limit, though CF now goes up to 1GB. However, the card does hold ~150 pictures in high quality mode (these are 700K per image, roughly); the picture quality in this mode is very good, more than good enough to print a 10x8. New cards are now less than $60 for third-party makes, but then you don't get the panorama feature (I'm told that Oly have a special firmware fix to make their cards do something special to enable panorama feature) that you would with Oly media. I've got two 128MB cards (one is Oly), and the original Oly 8MB which came from the camera, and only twice ever had to use the 2nd card, so it's not a big deal. I sometimes used my Olympus to store downloaded files (there's a leased line at work, and I only have a modem at home), hence would like bigger memory.
+
+Secondly, speed. The small delay when you press the shutter button has been a bit of a niggle; it's ok when taking portraits, landscapes etc, but for motorsport it requires a lot of practise to anticipate. You can help by pre-focussing, but you end up taking a lot of bad pictures. My advice is, before buying any digital camera, to try and borrow one of that type from a friend to see if you can live with it. I've learned to live and love, despite faults, my Oly.
+
+Thirdly, 3rd party s/w. I have discovered a really nifty bit of Windows software which allows you to remote control your Olympus camera, and do things like time-lapse photography, reconfigure it etc. Find it at http://www.pinetreecomputing.com/camctl.asp
+Finding this program was a real blessing, I love it! You'll be wanting a mains adaptor if you want to do any time-lapse photography though.
+
+Apart from that, my 3040Z has been trouble free despite getting quite wet at times, has only ever had one corrupted picture (low battery, so my fault), and many people have commented on the good picture quality. I still recommend it. Reviews of the 4040Z indicate that the extra resolution doesn't give you a benefit, because the size of the lens and the CCD is the limiting factor. However, they have improved the firmware, so unless you're not saving a packet, the 3040Z will probably do everything you want and probably is much better value for money than the 4040Z.
+
+Some sample photos from my vacation last year in California here: 
+http://paul-motorbiking.fotopic.net/show_collection.php?id=1982
+I made no special attempts to clean up these photos, they have only been cropped.
+
+--
+I have now lived with my Oly 3040Z for two months and taken a wide variety of pictures with it and a few motion jpeg movies. I have taken pictures in normal daylight, dusk, and night time, and generally been quite impressed.
+
+I would agree with other's findings that the flash can often over-expose; it's easy to tweak it down to -0.3 in the menus, so it's not really a big deal.
+
+I bought the camera with a second genuine olympus 128MB memory card, as only Olympus memory has a specific feature allowing panorama stitching. When I last looked, late May 2001, Olympus memory cards were about 30% more expensive than standard ones.
+
+I tried the Camedia Master software which came with the camera, on both my Windows 2000 machine (a laptop) and desktop Win98, and it is ok except neither machine recognise the camera is connected, so I can't do any fancy setup tricks. However, you can crop, rotate (not lossless I think) and resize pictures, and save with different quality levels. There's also a "panorama" stitch feature in the software, which I haven't used which automates the process a bit. Overall I would recommend instead using "irfanview" or ACDSEE (search http://www.tucows.com for them) as both support lossless jpeg rotation (irfanview needs some plugins for this).
+
+The movie file format is motion jpeg, and you play it with Quicktime (http://quicktime.apple.com). The camera allows you to change the start and end of the movie, creating a new movie or overwriting the old one, which is handy if you don't have any quicktime editing software. The free quicktime player doesn't allow this, the paid-for one does.
+
+
+    Pros:
+Excellent picture quality and excellent lens, and you can get adaptor to allow use of video camera tele/wide adaptors. I have a 2x tele converter, and a 0.5x wideangle converter, these are about GBP100 or USD140 each for reasonable quality items
+
+Good battery life - takes 4 AA batteries (so you can buy spares in any store if you've run down your rechargeables), and much cheaper to buy extra rechargeable batteries than say camcorder ones! It also means you can use the same charger, which helps when you go on holiday. The genuine Olympus charger is quite good, and is universal voltage, even though the pack doesn't say so, you don't even have to remember to switch it over.
+
+Automatic mode is relatively foolproof - it gets it right most of the time, and a little practise with the exposure lock means 99% of my photos were easy
+
+Semi-auto and manual exposure modes are useful, but I found the exposure lock to be good enough so I don't need to change modes much at all.
+
+Has manual focus and focus-lock option, occasionally useful, though manual focus is quite fiddly and would take too long to use for anything other than still life!
+
+It takes pictures quickly, and is ready for the next shot in seconds, EXCEPT IN RAW/TIFF MODE!
+
+The video (motion jpeg) is fun and occasionally useful, and you can edit the movie in the camera very easily
+
+Very easy to connect to computer (I use Windows 2000), just plug into USB port, and the cable is supplied!
+
+Flash sync modes allow trick night-time photos - first or second curtain in slow flash sync mode. There's a tiny connector for an external flash gun, which might be very useful.
+
+Can connect to TV or VCR to make a slideshow tape (mono sound, composite video only) - the lead is supplied
+
+remembers your settings including all the customisations and is easy to reset back to factory
+
+the tripod screw hole is nice and robust, and central
+
+the battery compartment locks securely
+
+the LCD screen is easily viewable in daylight, you only need to shield it a little bit in sunlight
+
+--- Cons:
+
+Doesn't come with rechargeable batteries, but given it uses four AA cells, these are quite cheap from any decent store like Frys or BestBuy - make sure you get at least 1200mAH capacity cells though (I bought the real Olympus ones with the Oly charger; which are 1400mAH capacity and last a very long time)
+
+Viewfinder is slightly awkward at first
+
+Like other digital cameras, pressing shutter button isn't immediate
+
+The video (motion jpeg) takes just a bit too long to start up to be useful for spontaneous "filming"
+
+I couldn't switch between NTSC and PAL video out, so beware if you buy abroad where video system is different. Most new TVs in Europe will accept NTSC, but you can't record with a VCR of course unless you buy an expensive (GBP100 or more) converter.
+
+Raw/TIFF mode is very slow, which is to be expected!
+
+Front element of lens is hardly recessed, and it's not possible to protect with a filter, so you do need to be careful when handling. The lens cap can fall off easily, so I've managed to put some big juicy fingerprints on the lens when the cap has fallen off and I'm groping inside the camera bag.
+
+When connected to TV, the slideshow always has some overlay of information which spoils the presentation a little, and it can take a while to flick between pages - there's a blank screen for a significant fraction of a second.
+
+The bottom line? As good as anything I'll ever want!
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

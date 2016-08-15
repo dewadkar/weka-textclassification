@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 9300 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1999_Ford_Contour </PRODUCT>
+<URL> http://www.epinions.com/auto-review-4637-9894FA3-38A9B749-prod7 </URL>
+<TEXT>
+            I bought this Contour SE because my old car died on me.  The Ford company was advertising a sale.  My husband and I looked around at all the cars on the lot, and we liked the Contour the best.  We took a test drive, and we were sold.  I like feeling safe while I'm driving.  It is a very dependable car.  The interior is very comfortable.  The seat fits me like a glove.  The sound system is good.  There are things that I dislike also.  The cup holders are too far down for the driver to reach safely.  The car has a distinct roaring sound while driving down the road.  I wish that it came with a real spare tire.  The car drives very well.  All of the gauges are easy too see.  If you are looking for a sporty car, this one is not for you.  It makes a good family car.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

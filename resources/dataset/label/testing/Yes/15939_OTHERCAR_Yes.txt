@@ -1,0 +1,24 @@
+DOC>
+<DOCID> 15939 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_EpsonPhotoPCC-Epson_PhotoPC_650 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-7081-A847685-3A177153-prod4 </URL>
+<TEXT>
+            I started with a really basic cheapo digital camera with no flash that I bought at a show that used the compact flash cards.  I wanted to keep using the memory cards I already owned in a newer camera.  In Florida, smartmedia cameras are everywhere and it took a bit of searching to find a camera that used the compact flash cards.  It's been my experience that compact flash is a tiny bit cheaper than smartmedia and just by looking at it, it would seem to be made of sturdier stuff than the flash card.  I have dropped compact flash cards with no ill effects but I don't think I'd want to try that with a smart media card.
+
+The epson 650 has a color lcd screen on the back of the camera.  The on/off switch is located under the lense on the front and it slides to turn the camera on and open the built-in lens cover.  Additional controls are available on the top left corner of the camera including flash settings, timer, battery display and a handy feature that tells you exactly how many photos the current memory card will hold according to what quality setting you have chosen. 
+
+The quality settings are great as you can choose quality according to what you are using the photos for, and you can even change for a particular shot.  A 16 meg card (around $60.00 will hold 80 pictures at a reasonable quality setting.  The features are easy to use and useful, the camera can be set to display each photo for a few seconds to give you a chance to easily erase it.  During playback it can show shots individually or in kind of proof sheet that shows tiny thumbnails of multiple shots.  A slideshow feature is available but the power saver seems to kick in whenever you are trying to watch your pictures this way, individual display works better.
+
+I love the camera and the pictures it takes, the buttons on the back could use some work as they are a bit touchy and it takes some practice to hit them with the right pressure when setting the clock or changing camera settings.  Everyone who has ever picked up this camera comments on how easy it is to use and what great pictures it takes.  The camera is extremely low light. I recently went to visit a piece of a spanish monastery and was taking many pictures in heavy shade and indoors with a large amount of backlighting.  The backlit pictures were properly exposed for the foreground and the flash rarely activated at all in the indoor scenes and yet the pictures were very bright and full of detail.  I took many pictures of white marble statues which I expected to be very washed out and undetailed but I was surprised to find that my pictures were full of detail and contrast and reproduced the original quite well.  
+
+The camera has a somewhat larger body than many digital cameras but it's still easy to hold onto.  The camera comes with an 8 meg compact flash card but it will accept cards of other capacities.  The camera comes with a software program that will perform color corrections, crop, etc. but I find that those functions are rarely needed because the pictures come out of the camera so good in the first place.  The front of the lens is threaded and will accept photographic screw-on filters of the correct size, I don't know of too many cameras in this price range that offer that feature.  AA size battery life (uses 4) seems to be quite acceptable.  I shot several hundred pictures and reviewed many of them and the battery gauge didn't even change from full.  It also accepts nickel metal hydride rechargeable batteries that can be purchased at many stores. A battery pack is available from Epson.
+
+My only complaint is that it comes with a serial cable to download pictures, this is painfully slow and you must have a ac adapter to use it or the camera will go into power saver mode and shut off while you are downloading.  I have a pcmcia card reader on my desktop machine so I don't use the serial cable but this seems to be all that cameras in this price range come with these days.  A usb compact flash reader can be purchased for around $30.00 and it's probably worth the investment in terms of time.
+
+For a sub 300 dollar camera this is a very nice useable camera that I'd recommend to anyone.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

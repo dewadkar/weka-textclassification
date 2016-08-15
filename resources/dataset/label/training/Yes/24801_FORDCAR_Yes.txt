@@ -1,0 +1,67 @@
+DOC>
+<DOCID> 24801 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Ford_Mustang </PRODUCT>
+<URL> http://www.epinions.com/auto-review-6A4E-27197F46-39FE2631-prod3 </URL>
+<TEXT>
+            <b>This review is not a standard review on a car; this review will give a step by step guide in modifying your 2000 Mustang in order to gain performance.  Because I have a V6 Mustang as opposed to the V8 which comes with the GT, this review will be focused on upgrading the 1999-2001 Mustang 3.8L.  Owners of the V6 will appreciate this review hopefully, due to the lack of modification information on the 3.8L on the internet.  Here we go...</b>
+
+
+<b>Simple Modifications to Gain Horsepower</b>
+To begin, I am going to go through the basic, simple modifications that can be done without getting in to the big bucks.
+
+<b><i>Removing the air intake silencer</i></b>
+One of the easiest ways to gain a couple extra horsepower free of charge is to rip out the air silencer.  Open up the hood, unclamp the air box, and the air silencer is the rubber tube protruding from the plastic filter housing.
+
+<b><i>Get a K&amp;N Air Filter</i></b>
+This upgrade will cost you about $40.  The stock air filter on the Mustang is garbage, so upgrading it will increase air flow and horsepower.  K&amp;N makes the best air filter, and you can buy it at pretty much any auto part store.  This will give you about 8-10 extra horsepower and even more on the GT.
+
+
+<b>More advanced Modifications to Gain Horsepower</b>
+
+<b><i>Gear Swap</i></b>
+Changing the gear ratio on the Mustang will give you better acceleration at the cost of gas mileage.  The stock gear ratio is 2.73:1.  Changing this to 3.27, 3.45, or 3.73 will cause your engine to get to higher RPMs quicker and at a slower speed in a given gear.  There is more horsepower at higher RPMs so this will definitely give you an increase in acceleration power.  Some negatives from doing this is a loss in gas mileage and a lower governed max speed.  Since the maximum speed is governed at a certain RPM in the highest gear, with a higher gear ratio, this RPM will be reached at a lower speed; this means that instead of say 120 MPH max speed, it could become 95 MPH depending on the gear ratio.  This modification could cost anywhere from $200-600.
+
+<b><i>Exhaust</i></b>
+The stock exhaust system on the V6 Mustang can be described as a bottle neck.  Power can be gained by opening it up.  I recommend upgrading to a true dual exhaust system.  Flowmaster and Borla are some great exhaust companies that you might want to look in to.  This procedure can bring about an increase of up to 20 horsepower on the V6 Mustang.  Converting your system to dual exhaust will cost you about $300-400.
+
+<b><i>Adding a Superchip</i></b>
+Adding a chip to your car can add a solid 10HP to the stock V6 Mustang.  The chips will be custom programmed to your specifications.  http://www.superchips.com is a great dealer for these chips.  They will cost you about $250.
+
+<b><i>Underdrive pulleys</i></b>
+Underdrive pulleys bring about an increase in horsepower by drawing power from other appliances in your car such as stereo, air conditioner, etc.  These pulleys can add up to 10HP on your V6 Mustang.  They will cost about $100-200.
+
+
+<b>Suspension Upgrades</b>
+
+<b><i>Springs</i></b>
+Many people choose to lower their Mustang an inch or two.  This will help in handling and also improves appearance.  Steeda sells their springs for about $200.
+
+<b><i>Chassis Stiffening</i></b>
+When under harsh conditions, the chassis of your Mustang will flex which will cause slipping.  In order to improve handling, you can stiffen the chassis.  Some things that will help do this are strut tower braces and subframe connectors.  These things will stiffen the body of the car.  I encourage checking out Steeda or Saleen as they sell suspension upgrade kits that will significantly improve the handling of your Mustang.
+
+
+<b>Appearance Upgrades</b>
+
+<b><i>Wheels and Tires</i></b>
+The stock V6 wheels and tires are absolute garbage.  The first upgrade I did to my Mustang was to get new rims and tires.  Although expensive, getting new rims definitely changes the entire look of your vehicle.  The Cobra R style rims are definitely the most popular for Mustangs.  I chose 17&quot; Cobra R Chrome rims with Bridgestone Potenza 255/45/17 tires.  Upgrading rim size will also make your tires wider which will help the handling and suspension.
+
+<b><i>White Face Gauges</i></b>
+Get the look of an SVT Cobra by getting white face gauges for the interior of your Mustang.  These add alot to the interior of the car.  They will cost anywhere from $100-160.
+
+<b><i>Body Kit</i></b>
+You can change the entire look completely by adding a body kit to your Mustang.  My favorites come from Saleen and Xenon.  The complete Saleen body kit will cost about $1500 plus installation while the Xenon will cost probably about $800 plus installation.  If you choose to add a body kit, you will definitely set apart your Mustang from the rest of them on the roads.
+
+<b><i>Light Bar</i></b>
+This is becoming a more popular addition for late model Mustangs convertibles.  The look of a roll bar with a third brake light on it really adds to your Mustang.  These cost about $400.
+
+
+
+<b>I hope that this modification guide will help those who own Mustangs, specifically the 3.8liter Mustang.  I will probably add to this guide as time goes on, so be sure to check it out often.  Thanks.
+
+</b><br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 17510 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Kia_Spectra </PRODUCT>
+<URL> http://www.epinions.com/content_105503428228 </URL>
+<TEXT>
+            The Kia Spectra is an attractive option for first-time buyers, college students (like myself), or simply those looking for a good car for a competative price.  It is definitely not the car for those who travel frequently, as it provides less than comfortable seating, poor ride quality and control above 60mph, and poor gas mileage for its class.  Gas mileage ranges between 23 and 25 city and 24 to 28 highway.  The 1.8L 4cyl engine is less than adequate for proper acceleration, often requiring the engine to rev above 6000 rpm's for simple interstate merging.  The brakes require ample pressure and shake when applied at higher speeds giving an uneasy feeling.  Transmission shifting can be unpredictable in the automatic model and use of the air conditioner zaps any extra horsepower the Spectra may have.  
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

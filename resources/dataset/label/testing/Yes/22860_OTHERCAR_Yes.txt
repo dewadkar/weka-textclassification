@@ -1,0 +1,20 @@
+DOC>
+<DOCID> 22860 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1993_Cadillac_Seville </PRODUCT>
+<URL> http://www.epinions.com/auto-review-1EFE-1678ADB-39F0A049-prod1 </URL>
+<TEXT>
+            
+<B>Comfort and Amenities:</b><HR>Totally plush, every imaginable option.  Remote start might have been nice though.  Seats are fantastically comfortable(6-way power with heat and adjustable lumbar support).  Some people might find the exhaust note slightly intrusive, if so, look at the next generation STS where the note is muted.  Personally, I love it!    Also, the radio plays even if the keys are removed from the ignition.  This will take a little getting used to, as will the &quot;Twilight Sentinel&quot; lights.  The auto-dimming rear view mirror is a really excellent idea, well implemented.  The Delco/Bose Gold audio system is excellent, although a fair amount of people have experienced problems with the CD portion of the unit.  You can get a replacement for $180-220. <br>
+<B>Performance and Handling:</b><HR>Outstanding motor (Northstar, of course).  The transmission is also superb.  This is &quot;The Caddy that screws&quot;.  Handling is very good, although it's slightly vaguer than I might like.  This could be an indication of the age of my particular car though.  Also beware of the very expensive electronically controlled struts ($500/ea).  If the car comes up with a &quot;Service Ride Control&quot; message, you might want to look elsewhere unless the dealer is willing to take care of the problem, and you trust them.  It is possible to fool the control/diagnostic system into thinking that the electronic struts are no longer installed, therefore averting the service message! This is good if you choose to use aftermarket equipment though.  Being able to access the diagnostic system from the cockpit is a very useful feature, and can save you from buying a lemon.  See http://web2.airmail.net/nunnally/sts/index.html
+for instructions on how to run diagnostic checks.  It's not hard and it's a really good idea to do it before you buy.<br>
+<B>Safety:</b><HR>Structural rigidity is excellent, dual air bags, crumple zones, safety cage, ABS, traction control, etc... All in all a very safe car.  The Canadian version of this car has DRLs, and I believe it is possible to adapt them without too much problem.  The passenger side mirror could be a little bigger, but like I always say, &quot;You don't have to worry about what you've already passed&quot;.<br><B>General Comments:</b><HR>In general, this is an excellent car at an excellent value, if you shop smart.  Caddys generally don't hold value as well as the German and Japanese competition, but if you are a smart shopper, you can benefit from this.  Things to watch out for:<br>
+Oil leaks - The Northstar block is a unique design, consisting of two halves.  It is not uncommon to have some oil leakage where the block halves meet.  Because of the nature of the engine/transaxle package, it is necessary to remove the motor to fix the leak.  BIG money ($1500 plus).
+Electronic/electrical gremlins - The distributed control system in the Seville is fabulous, arguably the most advanced package anywhere.  However, it is subject to some nasty glitches.  A lot of these problems can be detected by using the diagnostic check mentioned above.
+Strut failure - See above.  
+Condensation in rear taillights - more of a &quot;pain in the neck&quot; than an actual problem.  A weep hole drilled in the bottom of the housing should do the trick.<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

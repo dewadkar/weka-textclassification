@@ -1,0 +1,38 @@
+DOC>
+<DOCID> 30352 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Aiptek_Pencam_SD_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_109127700100 </URL>
+<TEXT>
+               I'll try to avoid repeating information that is easily available elsewhere. I'm giving my personal, out-of-the-box, first impressions of the camera.  I don't yet have the required SD/MMC chip, so I can't comment on the video capabilites, other than the PC webcam mode.
+   I'm a long-time of owner of Sony Mavica 1.2 megapixel cameras, and long-time owner of an Aiptec PenCam VGA camera.
+   
+Picture quality:
+   Comparison to the Sony Mavica is only about image quality, as it is not realistic to compare features of the bulky, expensive, floppy-drive camera with the little Aiptek.  Simply put- although both cameras are 2.1 megapixel units, the Sony's expensive optics gives much better color quality, focus and depth-of-field. That's as far as I'll go with the Sony comparison.  After all- I bought my Aiptek PenCam 1.3m SD for the price of the Sony's battery!
+
+What I like:
+   First thing I liked is the horizontal design of the camera body.  Now I can make photos without gettng my knuckle in the way of the lens, as happens way too often with the vertical-layout of the old VGA PenCam.  Also, the camera does not have a wrist-strap, as some websites have stated.  It does have a cool neck-lanyard with a well-designed quick-release near the camera body.  (It would be great to have a smaller lanyard to serve as true wrist strap.  The small tripod that comes with the camera is light, simple, and strong. I like it.
+
+Software:
+   The camera is packaged with a CD ROM containing the needed drivers, and a decent camera-manager application.
+   I have not yet installed the Ulead photo management software because I don't like the way Ulead products have imposed settings on my system in the past without my knowledge.  For instance, when I right click on an icon I'm presented with a choice to "open with Ulead Explorer".  This happened when I installed my VGA PenCam, and uninstalling Ulead Explorer did not remove the menu item from the registry.  (Enough of that). I was happy to find that my Windows98 system will allow the managers for both cameras to coexist on my hard drive.
+   I use either PhotoImpression 2000 or Adobe PhotoShop to edit my photos.  (Either of these can get images from my digital cameras without using the packaged camera managers.)
+   I'm not impressed with the "space-age" camera-manager console design.  I would prefer a simple interface without the "Zoom zoom zoom" features. (The VGA PenCam has a clean interface that doesn't maximize to dominate the whole screen.)
+
+Suitabilty:
+   Compared to the old PenCam, it's much improved.  I use the little cameras in my property management work, and small size and USB connection, with a decent image quality is what led me to the PenCams.  I think the 1.3m PenCam will do a great job.
+
+Don't like:
+   So far, my main complaint is the need to set the picture mode to "L" (640 x 480 pixels) every time I turn the camera on, as it defaults to the "H" mode (1280 x 960pixels). Most of my photos are intended for Internet use, so I don't need the larger format images, which I'm sure would be great for photo prints. (The old VGA PenCam remembers my settings as long the batteries are in place.)
+
+Update:
+Okay, I've had the camera 3 days. I've had fun with it- took some really nice pictures.  But-- one real problem: The battery door is not secure.  On 3 occasions the door has unlocked, causing loss of all my photos.  I like this camera.  Everything I said stands.  It takes pretty good photos for a tiny, low-cost camera, but I'm returning it.  I just can't stand the idea of taking pictures that may or may not get saved.  It's like a cute, tiny outboard motor that may or may not get you back to the dock.  Not worth the gamble.  It's supposed to be fun!  My old VGA PenCam never lets me down this way!
+
+So--- Maybe mine is a fluke. If you get one, you may want to tape the battery cover to avoid loss of power.  I intend to take my refund and consider a higher-end AipTek camera. 
+
+   
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

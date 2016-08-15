@@ -1,0 +1,26 @@
+DOC>
+<DOCID> 21853 </DOCID>
+<PRODUCT> Digital_Cameras/HP_715xi_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_67481800324 </URL>
+<TEXT>
+            The HP Photosmart 715 is a highly automated, easy-to-use digital camera.  The lack of manual controls, however, is this camera's downfall.
+
+Images in bright sunlight look excellent, and this seems to be the only way to take decent pictures with the HP 715.  Indoor shots taken without a flash were blurry and had a yellowish hue, as white settings are impossible to adjust manually.  Flash photos taken indoors at varying distances didn't have the yellow tinge, but instead turned out too dark and had to be enhanced with a photo editing program just to bring them up to acceptable brightness.
+
+Another problem encountered while using the indoor flash is the camera's reduced ability to properly focus in normal room lighting.  Numerous pictures taken during a wedding reception had to be deleted because the intended subjects were blurred beyond recognition.  The camera's auto-focus tends to zero in on people and objects closer to the camera even though they are in the peripheral regions of the view field -- for example, a dancing couple located smack in the middle of the image appeared badly blurred, while a spectator seated at a table off to the side was in sharp focus.  This problem happened consistently and was definitely not due to faulty picture-taking techniques.  A manual focus would have helped here, but sadly the 715 has no such feature.
+
+Cycle time between shots was annoyingly long.  Snap a photo and you'll have to wait about 5 seconds for the camera to store the image and become ready again.  Power consumption was not a problem, yielding around 140 shots on a fully-charged set of 4 size-AA NiMH batteries while taking mostly flash photos.
+
+HP is quick to point out that the USB interface on the 715 conforms to USB version 2.0, which it does.  But keep in mind that there are two flavors of USB 2.0 -- Full-Speed (12 Mbps) and High-Speed (480 Mbps).  This camera uses the Full-Speed (slower) version of USB 2.0, which happens to move along at the same rate as older USB 1.1.  This I found out only after contacting HP to find out why my high-resolution photos were taking so long to download.  Granted, even many of the more expensive cameras have yet to get past USB 1.1.  Just don't let yourself get carried away with expectations of super-fast downloads when you see USB 2.0 in the specifications.
+
+An e-mail to HP tech support requesting assistance with the problem of underexposed images resulted in advice to uninstall and reinstall the camera drivers and software on my computer.  Doing so resulted in no improvement whatsoever.
+
+In short, if you want to take pictures that are sure to look better than those from an HP Photosmart 715, head to the convenience store and buy a disposable camera.
+
+
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

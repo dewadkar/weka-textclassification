@@ -1,0 +1,22 @@
+DOC>
+<DOCID> 32958 </DOCID>
+<PRODUCT> Digital_Cameras/_SIPIX_SC_2100__616532 </PRODUCT>
+<URL> http://www.epinions.com/content_56154885764 </URL>
+<TEXT>
+                 I bought the Sipix SC-2100 with hopes it would defy the small pricetag for a 2.1 MegaPixel Camera....but I have been quite disappointed.
+
+     The first thing that I noticed about the camera was it's extremely slow shutter speed.  This translates to many, many blurry photos.  Seriously, you cannot be moving an inch when you take a photo, nor what you are taking a photo of.  There's no way to get around this, all action photos will be blurry.
+
+     Second, the camera is constructed in cheap plastic.  After owning it for 4 weeks, the battery compartment is already slipping open. Also, the LCD cannot be viewed in daytime at all.  Though, you probably want to use the LCD rarely because it drains the battery.
+
+     Downloading photos is a pain (if it works at all!).  The cam comes with terrible TWAIN Driver softwareto use with a the USB cable.  I installed it as instructed on my Win2000 machine.  First time I got it to work, and I was able to import 5 photos I had taken.  Next time I took over 100 photos.  Then when I hooked it up, it wouldn't even allow me to see thumbnails, much less download them.  I used Sipix's "fixes" from their website and it still hasn't helped.
+
+     Fifth, Controls for the camera are very poor.  If you click on the "flash" button, it may take between 1-3 seconds to actually respond.  You'd have to use the camera to understand, but if you're trying to take a shot real quick, and you have to wait 6 seconds to cycle through flash options, you may miss your shot.     The main control button on the camera is designed poorly, not allowing you to select options on the menu precisely.  Rather it may slip onto "delete all" instead of "slide show".  More expensive digital cameras I have used, utilize the same control button, but they are more sturdy, allowing proper selection.
+
+    Overall, avoid this camera.  It's not worth $100 in my estimation.  Only thing it's good for is taking photos of still objects, and even then good luck downloading them !
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

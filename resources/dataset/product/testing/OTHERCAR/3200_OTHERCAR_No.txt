@@ -1,0 +1,51 @@
+DOC>
+<DOCID> 3200 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Sony_CyberShot_DSC_S85_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_89674256004 </URL>
+<TEXT>
+            Not knowing anything about digital cameras (but I have extensive experience in SLR and larger format cameras) I went to Circuit City to "test drive" a number of cameras. I was determined to stay in the $400 range.  Of all the cameras that I tried, the DSC-S85 seemed to have the best features and a menu that seemed straight forward.  I had no intention of buying a camera that night since I wanted to check out the reviews of the cameras that I made notes of.
+
+The next day I spent several hours reading reviews.  Most of the reviews for the Sony S85 were highly favorable.  The next day I bought the camera for $469 from Best Buy (Circuit City was out of stock).  I spent the next day becoming familiar with all of the features.  I found the manual rather lacking and I had to figure out on my own how to make some things work properly.
+
+I spent the next few days taking pictures and movies and I was initially very favorably impressed but the little annoying things started to grate on my nerves to the point where I couldn't stand the camera.
+
+<b> Auto power off and long power up </b>
+
+The camera auto powers down after 3 minutes to conserve battery life. The user cannot change this time.  Why couldn&#146t they have just shut off the LCD then shut the camera down after a longer period of inactivity?  What makes this so bothersome is that it takes 6 seconds for the camera to power up again.  I do not have the patience to wait 6 full seconds to take a photograph.
+
+<b> Poor auto focus in less than bright light </b>
+
+I tried taking a picture of a dark item indoors during the daytime.  I simply could not get the camera to properly auto focus until I moved the object into the sunlight. 
+
+I tried other indoor situations where the auto focus failed. I found it way too difficult to manually focus the camera.
+
+<b> Auto focus red light very distracting </b>
+
+The bright red light used by the auto focus precludes any changes of a spontaneous photograph; children, adults and dogs always look at the source of the bright light.
+
+<b> Limited selection of lenses </b>
+
+I bought the camera with the expectation of taking a lot of wide angle photographs.  Unfortunately, due to the unusual size of the lens thread, only one wide angle lens (0.7X) is available (from Sony and 3rd parties) which didn't meet my needs.
+
+<b> Long shutter lag time </b>
+
+Although I read a number of other comments that stated that there was an appreciable lag time from the time you press the shutter button to the time the picture is acquired, I didn't realize just how long it was until I used the camera for a number of days.  
+
+<b> Lackluster manual </b>
+
+I was very disappointed in the user's manual. The manual was very sparse and in some cases misleading or had omissions. For example, when I turned the manual EVS on then turned it off, I couldn't get the EVS value and symbol off of the LCD. By experimenting, I found that the EVS value had to be set to 0 before the icon and EVS value could be removed from the screen (remember, this was with the manual EVS turned off).  This was not mentioned in the user's manual.
+
+The Date & Time stamp feature does not work as stated. One can obtain Date or Time or <b>Day</b> of month and time but the full date and time (e.g. 01/27/03 11:45am) will never appear on the photograph.  What good is day of month and time?  I found a free software program (Exif) that does reveal the date and time information embedded within the image but there are those occasions that I need a full date and time stamp right on the photograph.  It would have been nice to have the seconds' value instead of just hour:minute so that I knew the order and exact time of the photographs.
+
+<b> The quandary </b>
+
+Stay with a camera that I don't like or spend more money for a camera that doesn't frustrate me so much?
+
+Including a wide angle lens and a number of other accessories I spent over $800 on a camera that I wasn't satisfied with.  I didn't want to spend more but I know that the S85 camera was going to gather dust.  Ultimately, I decided to return the camera and after reading a large number of reviews I bought a Sony F717 over the Internet. The package deal included a 0.5X and 2X lenses, extra battery, 128MB memory card, a card reader, tripod, camera case and a 3 year warranty (making for a full 4 year warranty).  This cost me $1200 including shipping.  The F717 camera alone was $812 versus $999 that Circuit City and Best Buy is charging.  Yes, I am spending way more than I initially intended to, but I didn't want to spend so much on a camera that I was never going to be satisfied with.
+
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

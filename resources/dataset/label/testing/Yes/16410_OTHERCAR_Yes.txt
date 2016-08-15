@@ -1,0 +1,24 @@
+DOC>
+<DOCID> 16410 </DOCID>
+<PRODUCT> Digital_Cameras/514341_Nikon_Coolpix_775 </PRODUCT>
+<URL> http://www.epinions.com/content_66545225348 </URL>
+<TEXT>
+            I'll admit that I chose the 775 over competition largely due to its styling, but overall the camera served me well and repeatedly impressed friends who used more expensive digital cameras.
+
+I remember reading reviews by professional photo sites that listed the 775's photo quality as subpar to Canon's line of 2 megapixel digi-cams; however I personally doubt the casual user would notice the difference.  If you need professional quality photos, then why are you messing with wimpy 2-MP cameras?
+
+I'll have to agree that the camera is definitely slow to start up.  Combine this with an over-enthusiastic auto-off feature, and you end up missing photo opportunities.  Fortunately you can change the auto-off to wait longer than the default 30-seconds before shutting off, thus mostly circumventing the problem.
+
+My biggest gripe with the 775 is that it seemed extremely slow accessing the memory card.  To be honest, I don't know if this is the fault of the camera or the SanDisk 128-meg Compact Flash card that I purchased for it.  There is definitely a delay of around 5 seconds between shots, which could be unacceptable for users.  And for some odd reason, deleting pics from the camera took something like 30 seconds.  Of course, with a 128-meg card, it was usually easier just to leave the bad pics alone and delete them after they had been uploaded to my PC.
+
+Speaking of which, for some reason, I never did get the camera to interface directly to my PC via usb.  It was some kind of conflict with Adaptec software, which is sort of lame considering how popular Adaptec CD creator is.  I ended up purchasing a Lexar card reader.
+
+At any rate, I took a lot of GREAT pics with this camera.  Learn how to disable the red eye reduction, which really adds to the pre-photo pause.  And learn how to use all the pre-set auto modes.
+
+Unfortunately, my apartment just got robbed, and my CoolPix 775 was one of the casualties.  It's been discontinued as far as I know, but I'd definitely consider buying a digital camera from Nikon again.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

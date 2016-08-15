@@ -1,0 +1,14 @@
+DOC>
+<DOCID> 36088 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Ford_Focus </PRODUCT>
+<URL> http://www.epinions.com/auto-review-18A4-290EBFDB-39940C02-prod5 </URL>
+<TEXT>
+                The new Ford Focus came highly recommended to me when I was looking to buy my first new car. I researched its history and found that it received great reviews for comfort and safety during its European release. Test driving the car, I found it to be comfortable, well-equipped and stylish. I have now driven the car for for 6 months and have put only 5000 miles on it. While I have been happy with the overall performance of the car, I have been sorely disappointed with the workmanship involved. Realizing that 'new models' are notorious for having 'manufacturing bugs', I felt somewhat reassured that these would have been worked out from 1998-1999 during the first European release. I was wrong. My car has been in the repair shop a total of five times for manufacturer's defects including a flooded passenger compartment (repaired twice to date), faulty master clutch cylinder, misaligned striker plate on seat back latch, broken break switch and cruise control.
+    While I really love my car, I would hesitate to recommend it to any but my worst enemies. Time will tell if the problems my Focus has had are unique or are related to intrinsic design flaws.
+<br><br>
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

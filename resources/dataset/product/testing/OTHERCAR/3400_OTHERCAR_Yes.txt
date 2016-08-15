@@ -1,0 +1,74 @@
+DOC>
+<DOCID> 3400 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Polaroid_PhotoMax_PDC_1075_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_105238662788 </URL>
+<TEXT>
+            I'm a fairly picky digital camera consumer. I own a high-end Coolpix that takes gorgeous low light photos, with astounding detail. I'm accustomed to using 3, 4, and 5 megapixel cameras. I'm one of those people who likes to "get lost" while exploring all the incredible detail at, say 400%  on screen, and I like to order 8 x 10's from dotphoto (you need at least 3 mexapixels for perfect resolution on an 8 X 10 print). 
+
+So why in the heck am I shilling for a tiny (4 ounces), unknown, wannabee like this Walmart-distributed Polaroid PDC 1075? 
+
+Here's why: Have you missed a precious photo because it was just too much trouble to bring along your full-sized camera? I do that all the time. And I always kick myself afterward. 
+
+Of course, the <i> best </i> solution would be to buy a tiny digital camera like the Casio Exilim series, or the Canon Elph series.... One of those gorgeous little stainless steel numbers that are about the height and width of a credit card, and the depth of maybe 10 or so credit cards. They're great! But after blowing nearly a thousand dollars on a professional-quality Nikon, it's been too hard for me to justify ANOTHER digital camera.  
+
+If that sounds familiar, then the Polaroid PDC 1075 may be a solution for you, too. It costs under $100 -- in some cases, way under $100. And it has the exact same shape, size, texture, color, sex appeal, and heft (or rather, lack of heft) of those high-end credit card digital cameras. You'll feel good about how it looks with your new dress / suit. And it takes surprisingly good, detailed photos in OK light. 
+
+( If you haven't seen this model, there's a photo of it on the Web at http://www.walmart.com/catalog/product.gsp?cat=3946&dept=3944&product_id=2161936&path=0:3944:3946:3959:4468. The photo doesn't really do the camera justice. It's really tiny and pretty! )
+
+I bought this camera as a "why not try it?" thing. I'm surprised to report I've not only kept it, and rely on it a lot now. <b> Here are some more of its good points: </b>
+
+-- Truly plug-and-play, at least with Win XP. The camera and its docking station are instantly recognized as a removeable hard drive, and XP fires up to ask you what you want to do with the photos on it. 
+
+-- 16MB built-in memory allows you 20 "super-high resolution" photos (1280 X 960) or a lot of lower-res pictures (I never use the low-res settings).
+
+-- up to 128 MB SD card (not included) allows a zillion high-res photos.
+
+-- Built in flash, viewfinder, joystick control, keychain ring, etc.  
+
+-- designed to function as an always-on "web video camera" when plugged into your computer. 
+
+-- a really gorgeous overall appearance, including a surprisingly well-conceived docking station that looks really good on my desk. Overall, this camera and its docking station seem like a matched set of jewelry, or like things that would be at home in a modern design exhibit. 
+
+-- A genuine metal (stainless/titanium finish) case; feels quite sturdy in my hand, just like the Elphs, Exilims, etc.
+
+-- Really good outdoor high-light (and indoor if very well-lit) photographs. Moderate-light indoor photos are okay if you don't mind quickly boosting brightness and autobalancing color in your photo editing program. I find those touchups are a very quick way to bring the pictures up to a high quality look. (Yes, this is extra work, but you won't mind so much if you think "hey, it could be worse -- before I bought this little guy I would have missed the shot altogether.") Truly <i> low </i> light photos, such as candle-light, are not good. 
+
+-- A (rudimentary) manual exposure adjustment.
+
+-- It's so light, miniscule, sturdy, and pretty, that I carry it with me everywhere! (Unlike it's "big brother" who I only bring with me when I specifically <i> anticipate </i> taking photos.)
+
+-- Color LCD viewfinder.  
+
+-- Decent documentation. 
+
+-- Pretty typical "shutter lag". 
+
+Of course, at $75-$100 Walmart "street price", you're not going to get all the features of a $400 Elph. 
+
+<b>Here are the main corners that I've noticed were cut:</b>
+
+1. The flash is rudimentary. It casts a yellowish glow which I can usually get rid of with Photoshop. I hate using built-in flashes in general -- they look so artificial to me. I think this flash is fairly typical of entry-level cameras. It's certainly not one of the programmable / "intelligent" flashes.  
+
+2. The lense is "fixed" -- no zoom, and no adjustable focus. This means that the focus isn't quite as razor-sharp as my expensive Coolpix in some situations. I expected a fixed lense to yield unacceptable snapshots. Instead, I'm surprised by how much I enjoy the photos it takes. Many of them -- not all -- compare favorably to the Coolpix at any reasonable on-screen viewing size, and in 3X5 or 4X6 prints.
+
+3. The color LCD viewfinder is not color-accurate. (But do you really need it to be accurate, for snapshots?) 
+
+4. Battery life is marginal (perhaps only 80 or so exposures per charge, depending on how quickly you power-off between shots, or about 30 minutes of average-duty continuous use), is only factory-replaceable if it dies, takes about 4 hours to fully charge, and is only rechargeable off a USB port. (However, the USB charging arrangement isn't as handicapping as it sounds. It seems to me there's no need to tote a notebook computer around for recharging. You can just buy a tiny USB hub -- for under $10 now -- and use it as your recharging device when you travel.)  
+
+5. There's no built-in lense cap. This isn't as crazy as it sounds, because the fixed lense is TINY -- about the size of a large LED -- and is surrounded by an open-ended metal projection that protects it against most forms of direct injury. In theory getting dirt in there would be bad for the camera, but in practice, I've actually kept it in my pocket with various combinations of loose change, crumbs, dirt, etc., with no noticeable damage or change in the photos. It's quite easy to swab the tiny lense clean with a cue-tip.  Also, it would be quite easy to create or find a plastic cap to fit snugly over it. I bet the local hardware store could find something to do the job. 
+
+6. It's "only" 1.3 megapixel. Again, that's enough resolution for impressive detail in normal-sized on-screen displays and 4X6 prints. 
+
+
+<b> As I've said, none of the drawbacks proved fatal. </b> All in all, this overperforming cheap and little (really little!) guy has earned a place in my front pocket... Where nobody can tell he's there! 
+
+In a year or two, I'll probably upgrade to an Elph. But until then, at least I'm not missing those spontaneous photos any more...
+ 
+-------------
+NOTE: The documentation is quite confusing regarding whether you need to install a driver in Win XP. It turned out I DIDN'T need to install their unsigned driver. Win XP autorecognized the camera/docking station without any Polaroid driver or Polaroid software. You can skip the installation CD-ROM altogether in XP. 
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

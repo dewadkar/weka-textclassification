@@ -1,0 +1,60 @@
+DOC>
+<DOCID> 18761 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Casio_WQV1-1CR_Wrist_Camera_Watch_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_42698247812 </URL>
+<TEXT>
+            Well, here I am again, reviewing another new toy in my collection (it seems I am a low-end digital cam collector/fanatic. 
+
+This time the new toy is the casio WQV-1-BNDL (what Sears.com called it, it's the black plastic (resin) version of the wrist cam. 
+       First off, I have read a few reviews of this cam both here, and elsewhere, and I think some people may be expecting more from this cam than it can do. This wrist cam is NOT meant as a replacement for a multi-megapixel (or even a single megapixel or 640x480) digicam, in fact, given it's low resolution, I see it as more of a complimentary cam, one you can have handy all the time, and ready to go in a second for that quick picture, I have had mine a few days now, and have allready found it very useful, in places a regular digital cam (or any cam really) would have been out of place. 
+       I work in a Staples store, and I have to constantly look up info for customers who call in to my store, well, I used to have to write things down when there were a lot of items I needed to find. Now I just take a pic of the shelf tags for each item, then when I am looking, I review the pics til I find the one I am looking for, I actually, use 2 digital cams for this purpose, the other is my Aiptek Pencam VR, though I only use that one for it's voice recorder functions when at work)
+  Another use I have is of course, as a spy-cam, I like taking candid pics of people, and let's face it, when people see you whip out a cam, they either ham it up.. or shy away, either way, they aren't natural pics.. now the Pencam VR is good in these situations, til you take the first pic, and someone sees the camrea in your hand, now, I just seem like I am checking the time a lot, no one usually asks what I am doing, so I get rather good candid pics (granted, in black and white, but still)
+  As I said earlier, I have an Arsenal of small digicams, most of which I have reviewed here (the Pencam Trio, the WebcamGo Plus, and my Yahoo cam) I am waiting til Epinions gets a section for the Aiptek PenCam VR, plus I also just got a I-zone Digital combo, which I'll review here soon, and I usually have at least one or 2 of them with me at all times (when I go places I usually have all my digital cams with me *smiles*) Lately it's been the PenCam VR and my Wrist Camera.
+ Anyway, back to the subject at hand, or should I say Wrist *smiles*
+   I have allready taken upwards of 200 pics with this cam,
+different types of pics, candid, scenic, etc, and have started finding it's strengths and weaknesses.
+   It takes a clear picture, as long as you don't try to blow it up too much beyond it's normal size. 
+   It doesn't like lowered room lighting. 
+   It does respond to IR light sources (not great, but still fun to play with). 
+   Most people don't notice it til it's too late, and even then, they usually forget about it after a while. 
+   It would be nice if it had a backlight for the screen, and maybe a light source of some kind (either IR or regular light) but all in all, it's an excellent device, and does what it's designed to do, and sometimes more.. if I want printable color pics, I take out my Fuji 1400Zoom.. if I want lower res stuff, I have my arsenal of goodies I mentioned earlier, and now, I can take pics whenever I want, without always carrying the cam bag around with me. most times, I'll just have the 2 cams with me.. the wrist cam and the pencam VR, as they are the easiest ones to carry (in the case of the pencam vr, I also have the pencam trio, but's it's lower res, and not much smaller)
+
+  I haven't covered the watch functions much, suffice to say, it's a basic digital watch, with 5 alarm settings, stopwatch, and countdown timer.. it also has a visual databank function, where you can take a pic, then give it some text, like a name and or phone number..
+
+  One other thing I like about this cam is, I can upload pics back to it, so I can always have my fav pics I have taken with it (or any other cam for that matter, it allows you to convert other pics to upload to the wrist cam)..
+so I usually have pics of my wife, niece, and other family on it, always with me, yes the pics are small, and in black and white, but I can still see them whenever I like
+
+   I also like that the lens isn't as wide angle a lens as other cams I have... no fish-eye effects here
+   Mine also came with the IR interface for the computer and software, all for 129.00 at Sears.com
+   I like that the one I got was the black plastic model, as I find the metal wristbands tend to pull the hair on my arm, whereas this one doesn't
+  
+ well, that's enough for now.. sorry if this Epinion seems somewhat disjointed, I was writing things as I thought them (plus it's also about 2:15 am here, I'm kinda tired *smiles*) if I think of anything, I'll post an update..
+ Thanks for reading
+
+P.S. as to my Photo Quality grade, the grading system is scaled towards printing the pics, so this cam would score low, however, my real choice woudl be more like a 3-4 as actual quality is concerned)
+
+UPDATE 10/09/01
+   Hello again, it seems I forgot to mention some of the specs & functions of this wristcam. I figured they were mentioned in other reviews, so I didn't want to rehash them, but, here they are.
+   1) The first and foremost feature (to me) is of course, the Camera mode. It takes 100 pictures. When viewed on the watch screen, the pics are at about 120x120 pixels (or 14400 pixels) however, the actual imaging sensor has more like 25-28 thousand pixels.. (though the book still says the pics are 120x120 on the computer)
+ The camrea has 1 mb of memory for the pics, and it's flash ram, meaning you won't loose your pics when the battery is changed. 
+ The lens has a f stop od 2.8 fixed, and a focal length of 1.1 mm, focal distance is 30 cm to Infinity
+ the camera uses full screen average light metering and ALC Exposure control.
+ the Digital shutter speed ranges from 1/11 to 1/1660 (auto)
+   also, the images are in 16 shades of gray, and there are 3 recording modes, Normal (16 grayscales), Merge (16 grayscales) where you take one pic that uses 1/2 the frame, then another for the other half, you can use this mode for taking combo pics (pics of couples you normally wouldn't see together for example) and finally, the third mode, which they call Art more, which is 2 grayscales, I haven't used these last 2 modes much yet, but will sometime
+
+  The Camera uses IR to transfer the images in memory to the computer (or another watch or PDA) and back again. Mine came with the IR device also (some dealers sell the system seperate from the watch) It transfers at 115,200 bps so it can get done fairly quickly.. the device hooks to the computer via the Serial port (I heard some people saying they used the USB port, but mine uses Serial)
+
+ the Watch/cam is powered by 1 CR-2032 Lithium battery, which should last about 6 months of normal use (1 minute of camrea time a day)
+
+ 2) the other functions fall under the Timekeeping mode. In this mode you have access to the normal timekeeping functions, (time and date, alarms (5) countdown timer and Stopwatch).
+ The countdown timer ranges from 1 to 60 minutes.. the Stopwatch mode goes up to 23:59' 59.99" , in 1/100 second intervals, and has elapsed time, split time, and 2 finishes..
+ Anyway, I think I have it covered now, if I think of anything else, I'll add to this Epinion again, or if you have other questions, let me know
+ again, Thank you for reading
+
+     
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

@@ -1,0 +1,42 @@
+DOC>
+<DOCID> 7892 </DOCID>
+<PRODUCT> Digital_Cameras/514230_Canon_PowerShot_A20 </PRODUCT>
+<URL> http://www.epinions.com/content_30889971332 </URL>
+<TEXT>
+            _I had always loved photography but moving to digital posed a few problems, but at the same time had many benefits over conventional photography. At the time that I started "playing" with digital, picture quality was nowhere near 35mm. Also, cameras were horribly expensive and required a computer (no problem, already had one) and good (therefore expensive) photo editing software. But... time has passed and digital camera technology has advanced greatly and the prices have dropped considerably. It was time to get out of my old digital (640x480 Polaroid) and possibly lay my 35mm to rest. It would all depend on what I could find...
+
+_I looked all over the net for a camera that would have the features I wanted. Let me list what I was looking for:
+
+<b>Clear picture prints, to at least 6x4</b> (standard photo size)
+<b>Removable media
+Optical zoom, at least 2.5x</b> (digital zoom unnecessary)
+<b>Easy "point-and-shoot" option for most conditions.
+Advanced options for "other" conditions</b> (exposure control, ect.)
+<b>Variable compression, preferably a Tiff option
+The camera to be fairly light and small
+Under $500</b>
+
+The first camera I found that met all needs was the HP 615 (I'm a real HP freak). However, the camera was difficult to find and when I did find it, it just didn't seem right to me. It was very large, heavy and not very easy to use on a day-to-day basis. So, while I was there (Best Buy) I decided to look at the next on the list. The Cannon A20.
+_The A20 did not have all the features of the 615, but it had all the features on my list and was $100 cheaper. Well, it had <i>nearly</i> everything I wanted. It didn't have a Tiff mode, but it did have very low compression settings. Also, the media card was <b>VERY</b> small, only 8 megs. It would only hold 7 shots at lowest compression/ highest resolution. But, that was easily fixed. I could just buy a bigger card with the $100 I had saved. I bought a 32 meg card and that fixed that problem. The new card could hold 31 uncompressed photos at 1600x1200 (I know, the math doesn't add up. 4x7=28 not 31).
+The camera is very easy to use under most conditions. Just "point and shoot". But... I do have a few gripes. The "red eye" feature is disabled by default and must be selected each time the camera is turned on or the amount of red-eye is unbearable. Also, the flash will turn on under "mid-light" conditions when the pictures come out just fine without it. The result is a bleached look on your target and a dull, dark background. Most of the time, for indoor use, I turn the flash off.
+_The camera, for the most part, is wonderful! Let me sum up it's features for you.
+
+<b>*High resolution 2.1 mega pixel ccd
+*3 resolution modes 1600x1200/ 1024x768/ 640x480
+*3 jpeg compression levels (no Tiff)
+*3x optical/ 2.5x digital zoom
+*1.8" LCD screen (good quality)
+*8 meg Flash media card
+*Very powerful advanced features for you shutterbugs
+*Over 800 pictures per battery change with LCD screen off
+*Over 200 pictures with the screen on (I get about 150 with Nmh rechargeables)
+*USB Connectivity</b>
+
+_Well, that is about it. If you do decide to get the A20, may I make a few suggestions? Get a bigger media card and better photo editing software (Photo Suite 4 is great! $20 for standard and $50 for the Platinum version). Also, you may want to get a card reader as it will speed up the download process and has a familiar Windows interface.
+Thanks for looking and check out my other opinions! (and my home page as it has many photos that were taken with the A20)
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

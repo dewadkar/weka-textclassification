@@ -1,0 +1,29 @@
+DOC>
+<DOCID> 12746 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_FujiMXX-Fuji_MX-2700 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-3672-826DB4A-38A61A79-prod5 </URL>
+<TEXT>
+            Picture quality is excellent with 3 different quality to choose from (Fine, Normal, Basic).  The bundled 8Mb card is more than enough for regular picture taking if you only use 640*480 (1800*1200 is also available, but is too big for most purposes), taking 47 picture in Fine quality, 90 in Normal quality, and 141 in Basic quality!
+
+I love the look of the cam.  The look of the camera is sexy and futuristic, but the downside to that is most other people don't know how to work it at the first time.
+
+The LCD is cool but I don't use it often because it eats up too much battery.  I only use it for setup and photo management purposes.  If you use it in front of bright lights you ended up not being able to see it at all.
+
+The red-eye feature doesn't work well.  Many time pictures end up with red-eye even the red-eye feature is turn on.
+
+The upload from the camera is slow as the throughput of the camera is low, most 640*480 pics takes 2-3 minutes to upload.  The only accessory for PC upload is a serial cable!  How about including an USB cable for better upload?  I ended up buying a Smartmedia upload kit w/ USB to upload pictures.
+
+----NEW NOTE 6/21/2000----
+In the last 4 months since my original review, I found flaws in this camera and here is my list:
+1. Although this camera can take up to 2.3M pixels, the pixels aren't of great quality because you will see dithering and untrue colors (very apparent when you take high res pictures)
+2. Intervals in between shots are too slow, something like every 3 seconds.
+3. The reaction time of when you pressed the button and when the picture actually taken is a fraction second but significant delay when you are taking action shots of sports or anything that requires pinpoint timing.
+4. Camera startup time too long (4 secs).
+
+Still great fun to use and its compact size will allow you to take it anywhere (I take it up to black diamonds slopes when I snowboard), but if you want something more than leisure purpose, I would recommend another cam.<br><br>
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

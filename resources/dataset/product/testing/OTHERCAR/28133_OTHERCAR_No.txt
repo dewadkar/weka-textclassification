@@ -1,0 +1,43 @@
+DOC>
+<DOCID> 28133 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_PolaroidPDCC-Polaroid_PhotoMax_PDC-700 </PRODUCT>
+<URL> http://www.epinions.com/content_13449268868 </URL>
+<TEXT>
+            The Polaroid PDC700 was my first digital camera.  At first I bought it mainly to post pictures on the internet which it did a good job.  Then I grew to wanting a digital camera to replace my 35mm film camera.  The PDC700 was not able to give the resolution needed even on its highest setting.  My main complaints are it uses batteries very quickly, if possible, every chance you get, plug this camera into an outlet to save your batteries.  It is slow uploading to the computer since it uses a serial cable connection.  No zoom feature.  Could not see picture on the LCD panel in sunlight.  Because of the placement of the lens it was easy to catch a picture of your finger if not careful.  
+As far as good qualities go.  Lets see.  Has an automatic off timer to shut the camera off after a period of not being used.  The exposure value can be changed and I found I had to use this feature a lot.  Inexpensive, but you get what you pay for.  Has self timer for group pictures, now the photographer doesn't have to get left out of the picture. 
+I ended up selling the Polaroid PDC700 and buying an Olympus C-3000 Zoom.  I am much happier with the Olympus.       
+  
+Specifications
+*24-bit color
+*1024x768 resolution (XGA)
+*640X480 resolution (VGA)
+*4mb internal memory 
+*1.8" LCD color display (30 frames per second)
+*Three image resolution modes: Superfine, Fine, and Normal
+*5mm, f3.5 lens
+*Flash modes: Auto, Flash, Flash Fill, and Flash off
+*Flash range: 16" to 10'
+*Focal range: Normal (18" to infinity); macro (8-18")
+*JPEG compression
+*electronic shutter speed: 1/10-1/10000
+*ISO 160 equivalent
+*Self-timer (10 second delay)
+*Optional date and time stamp on image
+*NTSC video output
+
+Minimum System Requirements
+*IBM compatible PC
+*Microsoft Windows 95 or 98
+*2x or faster CD-ROM drive
+*16mb available hard drive space
+*Hi-Color Display Adapter (True Color recommended)
+*Sound Card (recommended)
+*Mouse
+*16 -bit display card (24-bit recommended)
+
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

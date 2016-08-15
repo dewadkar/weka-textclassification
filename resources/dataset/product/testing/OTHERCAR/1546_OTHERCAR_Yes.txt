@@ -1,0 +1,117 @@
+DOC>
+<DOCID> 1546 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Accessories-All-AW_DC300_WATERPROOF_CCASE_POWERSHOT_S30_S40 </PRODUCT>
+<URL> http://www.epinions.com/content_111091551876 </URL>
+<TEXT>
+            The <i>Canon PowerShot S45</i> is the lowest of Canon's "high-end" line of cameras (one step up is the PowerShot S50, then the G3, then the G5).  As such, it is perfect for the non-professional photographer who needs a compact camera for everyday use, but also the control-freak who likes to take unique shots in a wide variety of styles and locations.  It is great for both photography novices and enthusiasts!
+
+<b>Some Features:</b>
+
+&#187; 4 Megapixel CCD
+&#187; 3x Optical Zoom lens with 3.6x digital zoom, 11x combined zoom (the equivalent to 35-105mm in the 35mm format)
+&#187; Advanced image processing, including primary colors on the CCD chip, digital signal processing and proprietary noise reduction
+&#187; Movie mode - takes movies up to 3 minutes long!  With sound!  Can edit and cut-out scenes on the camera itself.
+&#187; Image size options of 2272x1704, 1600x1200, 1024x768 and 640x480, and can store images in JPEG compressed and Canon raw image format
+&#187; Compact dimensions (4.4 x 2.3 x 1.7) in a stylish body (brushed-silver)
+&#187; 1.8-inch color LCD viewfinder/monitor
+&#187; The 9-point AiAF lets you focus on your subject no-matter where he/she/it appears in the viewfinder (my old 35mm camera always focused to whatever was in the middle of the frame - driving me crazy on more than a few occasions).  Flexzone lets you select which part of the frame you wish to focus on, so I can focus on my kid on the left side of the frame with a beautiful sunset centered in the background.
+&#187; Uses compact flash memory cards as the storage medium
+&#187; Can print directly to certain Canon Bubble Jet and Card Photo printers (we don't have a Canon printer, so I haven't done this).
+
+<b>Included with the camera are:</b>
+
+&#187; Battery charger
+&#187; Wrist Strap
+&#187; AV Cable
+&#187; USB Interface cable
+&#187; "Digital Camera Solution" CD-ROM
+&#187; "ArcSoft Camera Suite" CD-ROM
+&#187; Lithium Battery Pack (with terminal cover)
+&#187; Compact Flash Card (with case)
+&#187; User's Guide (181 pages)
+&#187; Software Starter Guide (132 pages)
+&#187; Quick Start Guide (28 pages)
+&#187; Various system maps & advertisements
+
+<b>Optional Additions:</b>
+
+&#187; Car Battery Charger
+&#187; AC Adaptor
+&#187; Waterproof case (allows you to take it boating or even scuba diving)
+
+<b>Yet more features:</b>
+
+To turn the camera on, you simply move the sliding lens cover (and wait for the lens to extend) -- you cannot get much simpler than that.  It is also easy to review the images on your memory card without turning on the camera itself, and to move between "photo mode" and "review mode" (just slide a button, and you're there).
+
+For the more advanced users, the <i>PowerShot S45</i> allows you to set a variety of aspects (ISO settings, shutter speed, flash intensity, exposure metering, manual focus, white balance, etc).  In fact, you can set nearly everything, from the various sounds the camera makes (at startup, when a picture is taken, etc) to the image displayed when the camera is turned on.  These options, particularly the ones you want quick-access to during photo-taking sessions, are easily accessible.  An ingenious 4-way button (that can move up, down, left, and right) enables you to quickly and efficiently get around.
+
+Reviewing the pictures you've taken via the LCD is a breeze, you can view a single image full-screen or show an array of 9 images at a time (3 rows with 3 images each).  Canon even has an "intelligent orientation sensor" which detects whether you are holding the camera vertically or horizontally when you take the picture, then rotates the image for you so that it is displayed properly when reviewed or printed.  You can also select the level of additional details that is displayed with each reviewed image (with information such as date-taken, image quality, even a histogram and highlight of over-exposed areas, if you want them).  Also on the LCD, you can use the zoom lever to zoom in on the image you are reviewing -- so you can make sure that you captured the level of detail you were going for.  I love this feature, because sometimes it is hard to see the details on the little screen, and I like to zoom in and make sure I captured a good smile.
+
+You have a variety of options when it comes to the detail/size of the images you capture, each of which requires a different amount of storage space.  There are 3 compression modes (the more the compression, the worse the picture): Normal (the most compression), Fine, and Superfine.  There are 4 resolutions (the larger the resolution the better the picture): small (640x480), medium 2 (1024x768), medium 1 (1600x1200), and large (2272x1704).  Another option is the RAW format, which is compressed a little bit (resulting in a larger file than the other formats, but still smaller than uncompressed TIFFs) and gives the best picture quality of all.  For an idea of how much space these formats take up, on a 32mg card (included with the camera), you can fit 7 RAW images, 27 Large/Fine images, 94 Medium/Fine images, or 337 Small/Normal images.  If you are planning to print 4x6 images, Large/Fine is probably the setting for you -- however if you want 8x10's you should up it to Large/Superfine or RAW.  If you are just going to put images on the web, Small/Normal or Small/Fine should meet your needs perfectly.
+
+You get a variety of helpful "modes" you can shoot in.  Some of the pre-programmed "Image Zone" Modes include:
+&#187; <i>Portrait</i> - used to focus sharply on a single subject, slightly blurring the background
+&#187; <i>Landscape</i> - Focuses to infinity, perfect for expansive landscape scenes
+&#187; <i>Night Scene</i> - used to capture subjects against a backdrop of evening sky or night.  Subjects are captured with light from the flash while the background is captured at a slow shutter speed (using a tripod in this mode is recommended)
+&#187; <i>Fast Shutter</i> - Use to capture fast-moving objects
+&#187; <i>Slow Shutter</i> - Use when you want to shoot moving objects with a blur-effect to indicate movement (example: river rapids)
+&#187; <i>Stitch Assist</i> - Use to shoot a series of overlapping frames that can be merged together (stitched) to create a panoramic image (the manual recommends using the "PhotoStitch" software included with the camera to merge the images on your computer).
+&#187; <i>Movie Mode</i> - captures full-motion video and sound clips up to 3 minutes long.  Movie size is either 320x240 or 160x120 pixels.
+&#187; <i>Macro Mode</i> - Use to shoot extreme close-ups (3.9 inches to 1.6 feet from your subject).
+
+Your other, non-specialized photo-shooting modes include:
+&#187; <i>Auto</i> - the "point and shoot" mode where everything is set as optimally as possible for you.  You can manually set a limited number of features (flash mode, image size, etc)
+&#187; <i>Program AE</i> - much like the "Auto" mode (everything is set to an optimum default), except you can manually change many of the settings (such as exposure compensation, ISO speed, flash exposure, light metering, which balance, etc).
+&#187; 3 other settings (TV, AV, and M) have different combinations of what is pre-set and what you must do manually (TV sets the aperture to match your manually selected shutter speed, AV sets the shutter speed to match your manually selected aperture, etc).
+&#187; <i>Custom</i> - allows you to save your manually made settings (from the Program, TV, AV, or M modes) so you can rapidly go back to them.
+
+There are a variety of pre-set photo-effects you can choose from, including:
+&#187; <i>Vivid</i> - emphasizes the contrast and color-saturation, recording in bold color
+&#187; <i>Neutral</i> - tones down contrast and color saturation, recording in neutral hues
+&#187; <i>Low Sharpening</i> - records subjects with softened outlines
+&#187; <i>Sepia</i> - records in sepia tones
+&#187; <i>B/W</i> - records in black and white
+&#187; <i>Custom Effect</i> - you set the contrast, sharpness, and color saturation
+
+For data transfer (if you do not have an external card reader), I/O ports for A/V Out (handles both audio and video, in NTSC or PAL) as well as a USB port are also found on the camera.
+
+<b>Why I finally went digital, and what I was looking for in a digital camera...</b>
+
+I had actually been resisting the digital camera for home-use urge for a long time.  I absolutely loved my little 35 millimeter camera, and my husband's old digital camera was fantastic but was very difficult to use (it takes great pictures when you fiddle around with the settings long enough).  What with the birth of our child, I was taking so many pictures I had to run to the developers practically once a week with my latest roll of film.  To update my son's massive website (so our out-of-town relatives can stay up-to-date on his antics), I had the additional step of scanning in each photo to get the images onto the computer.  My husband uses his digital camera for his side-job (building and painting models), which requires taking extreme close-up pictures of small, stationary objects, thus we needed to change nearly every setting on it whenever we wanted to use his camera to take pictures of our extremely active little boy.
+
+So what I was looking for in a digital camera was something that would be easy to use given a second's notice should I want to take a quick shot of my kid, but have enough features that I could still take artsy or wildly different pictures when the mood struck me.  I'm also very much into doing photo manipulation on my computer (I'm a Photoshop enthusiast), so I needed the images to be of good enough quality to allow me to do whatever I wanted to them.
+
+So far, the <i>Canon PowerShot S45</i> has been the perfect camera for us.  I've been able to print photographs of excellent quality -- with details and colors rivaling that of your average 35mm film-developer.  I've printed gorgeous 4x6's and 5x7's, and even my 8x10's (with some dpi-boosting from PhotoShop) look fantastic!  My husband has been able to shelve his old digital camera, because with Canon's excellent "macro" features he can focus as close as 4-inches to his subjects and get the fine detail he needs.
+
+<b>Our Experiences:</b>
+
+We purchased our <i>Canon PowerShot S45</i> new on eBay for a great price plus a bunch of extras (including a camera bag, 64mg memory card, and USB card reader).
+
+It takes a bit of practice, but I've found the menus to be quite intuitive and the buttons to be logical and easy to use.  Speed is of the essence when attempting to capture the "perfect" images of my child, and the <i>Powershot S45</i> gives me the flexibility I need and the ability to set what I need to quickly and easily.
+
+Although it came with a variety of software, I haven't loaded a bit of it.  We already had a card-reader, so that's how I get my images from the camera to the computer.  I'm a big fan of Photoshop for my image-manipulation needs.  I'm very pleased that I didn't need to load any additional drivers or need to hunt for open ports on my computer.  From browsing the manuals the included software appears to be quite nice, but I'm glad you are not required to use it for anything.  In fact, we also have a Canon Camcorder (<a href="/content_105384873604">200MC Mini DV Camcorder</a>) that we love dearly, and the flash memory cards are completely interchangeable between the two devices (and any other that takes compact flash, for that matter).  Props go to Canon for not using any proprietary formats or drivers!
+
+We've had our camera for a while now -- we've captured beautiful, expansive, outdoor images of animals (and our little tyke) at the local zoo, as well as my little guy at the local playground.  The outdoor shots are beautiful, with excellent colors and crisp details.  Inside, in a dimly lit room, we had to play with the flash to tone it down a bit (which surprised me as the flash is so small, I figured it might not have enough power).  Our indoors/flash pictures also impressed me, and alerted me to the fact that the flash on my old, 35mm camera tended to give images a yellowish tint.  Color me impressed!  My husband has fully tested the macro features, and is pleased to report that it does extremely well focusing and bringing out the finest of details on the tiniest of subjects.  I've even tested it out in near darkness -- where the flash illuminated my subject (my son, of course) with just enough light to take a decent picture.  I cannot say enough good things about this camera!
+
+...that being said, I should probably try to find something bad to say to make this a somewhat balanced review.  It's too bad you cannot buy batteries with a longer life (like we could with our Canon camcorder).  You cannot add additional lenses (but I wasn't planning on doing that anyway).  Sure, the CCD's could be higher or the zoom longer, but that's what makes the S45 different from the S50 and other higher (more expensive) cameras.  I really cannot find many bad things to say about the <i>PowerShot S45</i> at all!
+
+There are still some extra features that we haven't even played with yet (such as the ability to record 60 seconds worth of sounds to accompany your photographs).  This camera has an amazing amount of features in such a small body.
+
+<b>Further Observations &amp; Recommendations</b>
+
+My first bit of advice is to invest in a larger flash-memory card.  If you plan on printing the pictures, you need to use the larger resolution/lower compression settings, which require more memory.  The 32mg card included with the camera is fine, but we also had a couple of 64mg cards that we now use in the camera as well (and if you are going to do a lot of RAW or Large/Superfine images, you might want to opt for the bigger sizes -- you could fit 272 RAW images on a 1GB memory card!).
+
+My second suggestion is to buy a back-up battery.  Of course, the battery drains a lot faster when you use the LCD -- I only average 100+ shots with the LCD on before I need to recharge (but that's usually with the flash and with heavy use of the LCD, because my little boy likes to look at the images of himself after I take them).  With the LCD off (or without using it to review pictures all the time) you should get a heck of a lot more images on a single charge.  After the battery indicator starts flashing, I'm usually able to take around 15-20 more images (depending upon the LCD and flash usage) before the battery finally gives out.
+
+As a last bit of advice, if you are looking for a digital camera to replace your 35mm and cut down on your photo-processing costs, remember that you will also need a good-quality photo printer, or a service that prints digital images.  These days many photo labs can print from digital sources, but we use and love <a href="/content_114308189828">Ofoto</a>, on online photo-sharing and print service.  We also have a printer that prints on photo paper with excellent quality (the HP DeskJet 5550), but we take so many photos that we would spend all of our spare time printing them if we did it all ourselves.  I do love our printer, but I love <a href="/content_114308189828">Ofoto</a> too -- they compliment each other well.
+
+<b>Final Thoughts:</b>
+
+I love it.  I put off getting a digital camera for personal use for a while now (mostly due to my love for my 35mm camera), but by <i>Canon PowerShot S45</i> has made a real believer out of me.  It is very compact, yet chock-full of advanced features and options.  It is easy enough for the greenest novice to use with no problem, yet complex enough to satisfy the photo-savvy enthusiast.  It's a high-end camera with a price tag that isn't too outrageous.  I have found it to be an excellent value for the money.
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

@@ -1,0 +1,37 @@
+DOC>
+<DOCID> 6974 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Sony_Cyber-Shot_DSC-F828_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_125263580804 </URL>
+<TEXT>
+            01_08_04
+
+This is my fourth digital camera (1. Ricoh point-n-shoot, 2. Olympus point-n-shoot, 3. Sony DSC-D700).  I also shoot Contax 35mm and Mamiya TLR medium format gear.  I've got professional tastes with a "serious amateur" budget.
+
+For the most part, I am thrilled with the 828, I just got it yesterday.  As I pulled it out of the box, I was immediately impressed with its build quality.  I found the controls logical and comfortable.  The menus are intuitive, and the features plentiful.  I found it easy to compose using the rear LCD, but the LCD viewfinder has yet to grow on me, it's too much like a camcorder.  I'd prefer an optical viewfinder- when panning with something in motion, it's as though the refresh (frame rate?)of the display is not high enough.
+
+Flash features are great.  The on-camera flash output adjustment is quite appreciated, now I don't have to tape tissue in front of the flash!  The hotshoe is nice too, I can shoot off-camera strobe (NO PC CONNECTION though, I use a hotshoe to PC adapter).  TTL is nice as well.  
+
+On-camera popup flash is still too close to the lens to completely prevent red-eye.
+
+Focusing is outstanding for this kind of money.  The laser matrix it spits out has a definite cool factor, and it really works well, even in low light.  It focuses faster than many 35mm AF SLR's, and it is accurate.  When you get a focus lock, the display changes to indicate which portion of the scene was used for the focus distance.  Neat!
+
+Image quality:  8MP is nice, no doubt about it.  I haven't been able to shoot outside yet, but the indoor stuff I've shot at 64ISO has been sharp, well exposed, and had good white balance, with flash and without, under incandescent and fluorescent.  I can't honestly discern what the 4 color system is doing for me.  Suffice to say that I'm happy with image quality all the way around, EXCEPT: CHROMATIC ABERRATION.  (those purple hazy halo sections around contrasty highlights- ex., a reflection from the flash on a chrome doorknob).  With the name Zeiss on the lens, I hoped for more, but then again, this is not a APO lens.  In my opinion, THIS is the main thing I sacrificed by not paying for a DSLR capable of high-end lenses.  I retouch my photos in Photoshop before printing anything, so I will end up solving the problem in software.  
+
+Other stuff:  
+The strap mount sometimes interferes with opening/closing the door that access the CF slot.
+
+8MP TIF in fine mode or RAW take 10-15 seconds to store.
+
+I have read in message boards that folks have been unable to create MPG files in fine without using the Sony Memory Stick- I'm here to debunk that myth- I have recorded 640x480 video with my Lexar 256MB 16x CF card.  It seems dark to me, but I need an on-camera light to really judge the quality.
+
+-Fast powerup times.
+
+The supplied lens hood: 
+-great looking, but prevents easy zoom ring access if on lens in "storage position"
+-also casts shadow if used with flash at wider focal lengths.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

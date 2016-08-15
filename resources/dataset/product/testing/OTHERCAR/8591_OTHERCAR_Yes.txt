@@ -1,0 +1,53 @@
+DOC>
+<DOCID> 8591 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Pentax_ist_D_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_121715396228 </URL>
+<TEXT>
+            First, a little background to put this review into perspective....
+
+I've been a fairly sophisticated amateur film photographer for more years than I care to admit.  I own 3 Pentax bodies (ME, LX and 645) and many Pentax-compatible lenses, flashes and other accessories.  I've also been using a Fuji MX-2900 for digital snapshots but, while I was very pleased with the image quality, I really needed more creative control than the Fuji provided (although it was actually very good for what is essentially a 'point and shoot' camera).
+
+After a little less than one week of ownership, the Pentax <i>*istD</i> has met all of my expectations and exceeded a few.  Rather than provide an extensive feature review, I'll detail a few of the more interesting things I've discovered over the past 5 days.
+
+Size/Ergonomics
+
+The body is textured, slightly 'grippy' plastic with a contured grip on the right.  Manual controls all fall readily to hand (the two thumbwheels are very well-placed) but the grip and dials are somewhat small and some controls are close to body radii.  The CF slot is also very compact but I've not had the 'card removal' problem described by some other reviewers. 
+
+Overall ergonomics and camera balance with most lenses is very good - for me, at least.  I have small hands that the <i>*istD</i> fits like a glove but anyone who wears a medium or larger glove should definitely take a 'test grip' before buying.
+
+Functions
+
+The viewfinder is the brightest I've seen on any digital SLR - every bit as good as that on my LX with the matte focusing screen.  All critical camera functions and settings are visible in the finder as well as .95x of the final image.
+
+The viewfinder's autofocus map is extraordinarily well designed.  You know <i>exactly</i> where the camera is focusing before you take the shot and can quickly pre-set the autofocus point to one of 13 locations if necessary.  Focusing is quick and precise with little hunting even in relatively low light levels as long as there is sufficient contrast.  The camera fires either the internal or Pentax-compatible external flash to assist with low-light autofocusing.
+
+The Hyper Program mode is well thought out, quickly switching to aperture or shutter priority mode with the turn of a dial.  Two small thumbwheels allow quick setting of many manual functions including ISO and shutter speeds, aperture, and white balance.  A single push of the green 'auto' button restores default full auto settings.
+
+Images
+
+JPEG mages at the highest resolution and lowest compression setting are very good to excellent with little, if any, noticeable compression artifacts and extremely low noise through ISO 800.  Some reviewers commented on the apparent image softness, but I really haven't seen it.  Frankly, even if they are a touch soft, the lack of electronic noise compared with some other digital SLRs makes up for it.  You can always sharpen the image in Photoshop if absolutely necessary.
+
+Some reviewers indicated the need to change default auto exposure settings to improve accuracy.  That hasn't been my experience - the default settings work well in virtually every lighting situation.  However, I did notice that metering is very sensitive - switching to spot (instead of the default average) metering mode is helpful in difficult lighting conditions.  Of course, this is often the case with any camera, including my LX and MX-2900.
+
+RAW images are excellent - but with one significant provision.  Pentax RAW files can only be processed and converted with the included Photo Laboratory software.  Unfortunately, Photo Laboratory has one <b>major</b> limitation.  The photo image preview cannot be resized, making it <i>very</i> difficult, and sometimes impossible, to determine the effect of a given change, especially true when processing on a 15" laptop screen.  A software upgrade is desperately needed (are you listening, Pentax?) or a good Photoshop converter.
+
+Pentax Legacy Compatibility
+
+Overall compatibility has been very good, so far.  All my automatic (none are autofocus) lenses have worked fine as long as the <i>*istD</i> settings are properly adjusted.  Flash compatibility is good, too, with viewfinder "ready" flag, autofocus assist flash and full auto-TLL.  The new Pentax AF360FGZ flash offers additional features including full two-way interactive communication.
+
+Miscellaneous
+
+As with any 6.1 MP camera, data transfer speed is critical. Don't skimp on the CF card - a standard card just doesn't have the speed to process a 3 to 6 MB (or larger) digital file, especially if you're shooting in continuous mode.  The same can be true of microdrives, too, if they're not at full speed when you start to shoot.  Best bet is one of the new 40X WA (Write Acceleration) Compact Flash cards - you'll <i>really</i> appreciate the additional speed.
+
+The <i>*istD</i> gives you several power options - CR-V3 and AA lithiums, AA NiMH (2000 mah or better), even AA alkalines in a pinch.  That's a <i>whole</i> lot better than the proprietary batteries used by some of the other digital SLRs and really improves flexibility in the field.
+
+I'd like to see the ability to view a histogram immediately after a given shot, rather than only during  preview, but I've never found them all that useful in the field.  It's easier to use the auto-bracket function (in 1/3 or 1/2 steps) to make <i>sure</i> you've got the shot you want.
+
+All things considered, Pentax did a near-great job with their first digital SLR - but <i>please</i> do something about Photo Laboratory!
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

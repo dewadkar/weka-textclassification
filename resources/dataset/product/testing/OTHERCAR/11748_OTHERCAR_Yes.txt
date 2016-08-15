@@ -1,0 +1,58 @@
+DOC>
+<DOCID> 11748 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Kodak_DC3200 </PRODUCT>
+<URL> http://www.epinions.com/content_58163433092 </URL>
+<TEXT>
+            There are more to the pros and cons of this camera.  Please read on!
+
+Yes, that is right!  This is THE camera you'd want to take to a football game, with friends at a party, or let your kids use.  Let this be the Vivitar of your camera collection!  A cheap, but still useful, digital camera!
+
+I personally own a high end Nikon CoolPix 995 (a nice cool $1,000 camera...at least at the time).  I was very afraid to use this camera in many of the situations that I want to take a camera WITH!  Defeats the purpose of buying this camera, right?  Well, I did needed it for good professional quality shots at times, but for most occasions, I feel very protective of it when taking it out.
+
+I decided I needed something inexpensive ($100 or less), but nothing cookie-cutter (nothing lower than 1024x768 res, please!).  It was hard to find such a camera, as most of them under this price are no-name brands with old CMOS pickup sensors, internal memory (or use NexTel sticks), and only captures in 640x480 and 320x240 resolutions.  NOT enough for me!
+
+So why the 1024x768 sweet spot?  Because most computer display resolutions are now standardized in 800x600 with most set at 1024x768.  I wanted my picutres to be able to display full screen without much pixelation (stretching the picture, etc).  Also, I've noticed when those times I took my CoolPix 995 with me on those "normal-everyday-bring-a-disposable" days, I always set the resolutions to around 1200x1024 anyways (save memory space for MORE PICS!).  I've decided that my digicam compainion should at least do 1 Megapisel (for that 1024x768 res).
+
+The next thing that made it so hard for me to find such a dream camera was I wanted it to use the same CF cards my Nikon used.  It is obvious why I want that... so I can reuse the existing CF cards I already invested for the NIkon with the cheapy camera.
+
+I've been eyeing on the Kodak DC3200 and the DC3400 (the latter had more features and a USB port), but the prices were still high ($130 for the DC3200, $140 for the DC3400).  It was then I found that Circuit City was having a clearance sale on this model (it still may, so go check it out! 3/6/2002).  I jumped on the chance!  Although the price tag was $79.99, I read that people were getting them rung up at $59.99!  Unfortunately, that didn't happen with me, but $79.99 for this camera is still a deal!  I finally found my dream camera!   ....
+
+... at least on paper (specs).
+
+Although I will still testify that it is a great companion (sidekick?) to my muscular camera, I am begining to find a few quirks.
+
+Most annoyingly, the delay of the shutter.  You must first push it half way in (like many high end cameras...which surprized me that I had to do it on this one!) which will allow the DC3200 to set the exposure (focus is fixed, as it has a fixed lens).  Once it is ready, you push it all the way in.  Wait a minuite... it didn't take the picture!  *Turns the camera around.*  At this point, I get blinded by the flash.  0_o;
+
+It takes a FULL SECOND (a FULL, NON-EXAGERATED second) from the time the shutter release is pushed, to the actual shutter snapping the picture!
+
+Ah, the other con ...  is that the camera does not last long with alkline bateries.  The manual suggests rechargeable Ni-MH batteries, which can cost $12.00 for 4 AAs (at Walgreens... cheaper elsewhere, trust me).  To help remedy this, there is a setting in which I recomend taking...  have it turn off the LCD screen by default  (which is adaqute, but a little on the small side, BTW), but leave the "Previews" on.  This combination will allow the LCD to be off until AFTER you snap the picture (with the viewfinder).  After you snap the picture, the LCD will come on to show you what a crappy picture took, and turns the LCD off after 3 seconds.  Long enough to let you see what you took, short enough to NOT drain your batteries.
+
+However, even with that method, the batteries (alkline) will be dead in 2 - 3 days when sparingly used (about 2-3 hours straight use, mixed flash and non-flash).
+
+The internal memory is VERY SLOW.  Writes and reads from the camera will always remind you of that.  It is best to use the 2 MB internal memory for those "just in case" moments.  I suggest using a CF card for the main storage medium.  It's WAY faster.  And no need for those nice Lexar 4x/8x CF cards, either!  Formating the internal memory takes about 20 seconds.  Formating an 8 MB CF card?  3 seconds.  A 128 MB card?  3 seconds.  :)  (CF cards have their controller built in).  Also, by using a CF card, you don't have to wait too long for the next shot, as it will take a shorter time to write to memory.
+
+There is a COPY option in which you can copy the contents of the internal memory to the CF card.  Why is this important?  So you can AVOID THE SERIAL CONNECTION!  I already have a nice CF/SD/MMC USB reader, and having all your pictures on a CF card will allow you to avoid the hassle of connecting up your camera to the PC.  Not only that, but you won't have to deal with the drivers that came with your camera!  In the Kodak's case, this method is great because you will avoid the horridly slow serial connection!  There is NO USB tranfers with this camera.  I knew this before I jumped in, so I am giving you guys fair warning now.  :)  Pictures took about 10 minutes to download off the 2 MB internal memory.  Just imagine trying to download from the higher capacity CF cards with this camera!  Do yourself a favor, and just get a USB card reader.
+
+Picutre quality, however, is somewhat mixed.  Although the colors came out very vibrent, it has that "cheap CMOS sensor" quality to it.  This problems is most glaring when using the flash.  Outdoor pictures are crisp, and color representation is not as accurate as my other higher end cameras (the Nikon CoolPix 995 and the Kodak DC290), it is still very good.  Don't get me wrong...the quality is PERFECT for web, emails, and even printouts.  I'm just very picky when reviewing cameras.  :)
+
+The flash is very powerful, and seem to have greater range than my Nikon.  Too close, and everything is white!  You can almost never be too far for the flash.  :)  Because of the powerful flash, flashed pictures tend to have very bright colors, which saturates the sensors, which probably gave the captured pictures the "cheap CMOS sensor" quality.
+
+Quality settings are as listed:
+
+Best (close to 1024x768 res, low compression)
+Better (close to 1024x768 res, high comression)
+Good (close to 640x480 res, low compression)
+
+I find that everyday pictures can be handled with the "better" setting, as it will eat up less memory (and lets you stuff more pictures there).
+
+As you can see, the "good" setting lowers the resolution, but still keeps a low compression setting.  However, because of this lower resolution, you are only able to use the 2x digital zoom in this mode.  All the zoom does, pretty much, is to use the full capacity of the CMOS sensors (the entire 1024x768 res), and cut out 640x480 within the frame, which in effects, "zooms" in on the subject.  The lens is fixed, so there is no physical movement.  Also this is a STEPPED zoom, whcih means you can only take picutres in 1x or 2x, and nothing in between.
+
+The other feature is the White Balance settings.  Read the manual for that feature, as it explains it there.  Generally left in AUTO for the camera to decide, sometimes it just doesn't choose correctly when indoors.  Typically, the AUTO err on deciding majority of the time.  My suggestion is to stick with DAYLIGHT, even under incandecent lighting, unless you notice that colors are really off in your situation. 
+
+In all, this is a great 1st time digital camera!  Very easy to use, very few options, but enough to get by.  Great for the kids to use, and you won't pull your hair out (or at least AS MUCH) if you loose this compared to loosing your nice 5 Mega MEGAPixel digital camera.  I mean it still feels flimsy and plasticy, so be careful with it.  :)  It's better than handling a heavier camera, though (again, like those mega MEGA pixel cameras!)
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

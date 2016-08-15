@@ -1,0 +1,63 @@
+DOC>
+<DOCID> 29685 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Kodak_EasyShare_CX6200_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_118229274244 </URL>
+<TEXT>
+            <i>A Little History</i>
+
+
+I have only owned two digital cameras previous to this one. Both were cheesy at best and neither took very good pictures. I generally found the quality too be equivalent to most of the camera phones out there now, very grainy and poor quality overall. I wanted a decent digital camera that was compatible with XP (the previous two weren&#146t), easy to use, cheap, but still took good quality photos. I didn&#146t need this for studio purposes, I just wanted it for simple point and shoot everyday use. I looked around on the internet for pricing to get some idea of what I should expect to pay and came across some very low priced units by Kodak, Lexmark, and Vivitar. 
+
+I couldn&#146t find any reviews for the Lexmark at all, so that option was immediately out. The remaining two retailed for about $129 each, which was acceptable to me. I found reviews on both and found them to be enthusiastic for a camera in this range. I then proceeded to look around for deals and found plenty on the web for $89-$99 plus shipping, but I also saw an ad for the Kodak at Circuit City for $99. It was a no brainer and I got it that evening.
+
+
+
+<i>First Impressions</i>
+
+
+I wasn&#146t expecting too much from 2 megapixels, certainly not when I pulled the camera out of the box. It seemed flimsy at best when I first held it. The plastic and the construction both seemed a little cheapy. As I have had time to use this, rather extensively, I have a lot more confidence as it seems about as sturdy as necessary. I don&#146t see it living past even a minor drop to the floor so I treat it very carefully. The other key thing that sticks out is that it has no lens cover. This has already become a problem as I have accidentally touched it more than once and it&#146s so small cleaning is a little annoying. As it is now, I currently keep it a little Crown Royal bag as it was the softest thing I could find.
+
+The software was easy to install but I recommend a custom install to those that are even vaguely comfortable with that. The Kodak software does it&#146s best to take over all your media files and can really cause problems if the auto update is selected. I found my system locking up a few times and when I went to the task manager I found the auto update always not responding in the background, consequently locking up the transfer program. This was my experience at least. I just uninstalled it, and reinstalled custom and now I have no problems. The software itself is very easy to use and lots of little tweaks available to adjust the picture in many exciting ways. I am a big fan of the sepia and B&W modes. 
+
+
+
+<i>Use and Performance</i>
+
+
+This camera really is just point and shoot. I slapped the batteries (included) in and off I went. After a few minutes of fiddling around with the menu functions I quickly found the pictures modes, sizes and resolutions and all the other things I needed. There is a small dial on the top of the camera that has three simple choices: Off, Video, and Pictures. These functions are represented by two icons (a camera and a video cam) and the word off.  I tuned the dial to pictures and started shooting. 
+
+On the highest resolution setting the internal memory will hold nine pictures and at the lowest setting will hold 40. There are measurable decreases in the picture quality as you move down the scale. I generally just shoot on the highest resolution when possible, but occasionally will move it a notch down just because I need more storage. Right now I don&#146t have any SD cards, which is what this camera takes for removable memory. SD cards are pretty reasonably priced vs. memory sticks or Kodak flash cards. A 256MB SD card only runs about $70 delivered.
+
+Without a doubt, for this camera to be useful, you really need to get additional memory. Relying on what&#146s onboard will just get you into trouble when you really need more space and can&#146t afford to delete any photos you&#146ve already taken. Video is short lived too. You can only get about 25secs of video on the onboard memory, so again, you really need to get an SD card or two. Getting a larger card is usually the best band for the buck, especially since 64MB SD cards can go for about $30.
+
+The pictures this camera can take are amazingly vivid and clear for a 2MP unit. Even at a few feet away one can still pick out individual hairs or the lightest of freckles on the highest resolution. Facial features are clear and precise and the color is, although a little washed out sometimes, usually pretty realistic. The flash is pretty effective for controlling red eye, I&#146d say about half the time. Even if there is some red eye, the software included with the camera is very effective at removing it.
+
+The video is grainy and not incredibly clear. It operates at 15fps and needs a lot of light to really be able to see what&#146s going on. Outside in full daylight it&#146s not too bad, but it&#146s still a little jumpy. I didn&#146t expect the video to be handycam quality and I&#146m too disappointed really. It&#146s a feature I wasn&#146t really thinking about when I got this camera, so I see it as kind of a freebie.
+
+
+
+<i>The Good</i>
+
+
+This camera is very easy to use. That was one of the key things I was looking for when I set out to get a cheap camera. Whether taking a picture, deleting it, moving it or zooming the image, it&#146s all very straightforward and well placed. The pictures look great and you can pics pretty quickly. The software has a lot of available options for changing the photos you&#146ve taken or photos you already have. The video function is fun to use even if the resolution is lacking. If things get dire with your battery life, you can always shut down the LCD screen as a viewfinder and do it the old fashioned way. Having the screen set to off is supposed to increase overall battery life, but I haven&#146t tried it both ways to be sure. Speaking of battery life&#133.
+
+
+
+<i>The Bad</i>
+
+
+This camera chews through batteries something fierce! The batteries included were done in a matter of two hours. My experience with some Energizer &#147E titanium&#148 AAs has not been too bad, but I think the answer is simply to spend the money on 4 Ni-Mh rechargaebls and a charger. I figure the amount of pics I take will cost me a lot in the way of new batteries, so rechageables really seem to be the way to go. The fact that there isn&#146t a lens cover or cap of any type will probably prove to be this cameras downfall, or at least I wouldn&#146t be surprised. I have touched it by accident several times with my finger and always left a spot. I am just really nervous about scratching it.
+
+
+
+<i>Final Thoughts</i>
+
+
+Overall, I am very happy with this camera. It was cheap, only $108 with tax, and is very easy to use as well as being very intuitive in its layout. It is widely available, though not necessarily at that price, I got it on sale.  It&#146s a great starter camera and would make an outstanding gift at a reasonable price. I would certainly be stoked if I received this as a Christmas or birthday gift. The camera doesn&#146t have to have one of the Kodak bases for it to work correctly. There are some added features if you do use it, but simply running a USB cable (included as well) will do everything you need and probably more. I don&#146t want to make this camera sound like it&#146s all that and a bag of chips, it&#146s a very basic camera, but performs quite impressively. If you are looking for a starter camera or something basic but high quality, give this model a thought.
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

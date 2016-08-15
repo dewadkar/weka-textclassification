@@ -1,0 +1,14 @@
+DOC>
+<DOCID> 20363 </DOCID>
+<PRODUCT> Digital_Cameras/484522_Argus_DC2000 </PRODUCT>
+<URL> http://www.epinions.com/content_43647143556 </URL>
+<TEXT>
+            I received my camera for my birthday in the year of 2000.  I immediatly started taking pictures with it.  I was so excited to see the little fotobee(a little bug which represents that the software is communicating with the camera)dancing around in circles.  I was brought my index of images delighted to see all the nice pictures I took of my cat.  I choose my first picture.  I see the progress indicator bar moving, but very slowly.  I was getting worried that I got a bad camera.  When the photo was opened, everything was pixelated and fuzzy, and had a "salt and pepper" effect.  This is unusual for a digital camera, more common for a scanned image.  I was disappointed deeply.  I decided to edit the image in paint shop pro, and suddenly, the picture was much better qualiy! Still not great but it looked alot btter in paint shop pro than in the Fotobee software.  I was happy with it for a couple of months, but now, I have to hold the camera very still to get a decent picture.  This is an annoying product.
+
+The camera uses a serial port to communicate with the PC.  This is a very slow communications port and outdated.  USB is now preffered.
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

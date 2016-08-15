@@ -1,0 +1,37 @@
+DOC>
+<DOCID> 29637 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_EOS_D30 </PRODUCT>
+<URL> http://www.epinions.com/content_19907251844 </URL>
+<TEXT>
+            I've had my EOS D30 for about two months now. I've taken about 1250 pictures, most with a 28-200mm zoom lens(effective 45-320), but also using 14mm (22) and 20mm (32) wide-angle lenses and a 100mm (160) macro lens.
+
+The numbers in parentheses represent the effective focal length of a given 35mm SLR lens when installed on the D30. The D30 has a CMOS sensor array about 63% the size of a 35mm transparency or negative, which reduces the field of view accordingly. The factor to keep in mind when considering the effective focal length(s) of whatever lens you put on the camera is 1 /0.63, or 1.6X. For example: just multiply your 28-105mm zoom lens to come up with 45-170 effective lengths.
+
+The viewfinder has been designed to present this reduced field of view, so the casual user wouldn't have to give much consideration to this. Remember, you still get the full 3.3 mega-pixel image, its just corresponds to an area 37% reduced from what a 35mm film-plane would see.
+
+There's an upside and a downside to this 1.6x business. The downside is that it that when you want wide-angle it's a challenge, since your beautiful 20mm lens is really like a 32mm on this camera. (I make QuickTime VR panoramas so I went out and bought a rectilinear (non-fisheye) 14mm, which equals the 22mm wide-angle that I really need). The strong upside is that your telephoto lenses are also 1.6x longer than their normal measurement, so a 300mm telephoto is more like 480mm. Wow! Imagine a 2x tele-adapter on a 400 zoom on the D30 and you have an effective 1280mm, which should be sufficient to photograph a newspaper at 110 feet and then read it in the stored image! (Yes, I actually did it at 55 feet, without the EF-2X-II adapter, which is on backorder).
+
+I have a 1GB IBM Microdrive in the D30, which has been a solid performer. There are five picture save quality modes: Canon raw ~13MB, fullres JPEG high ~1.2MB, fullres JPEG med, halfres JPEG high, halfres JPEG med. I use the full-resolution (2160x1440) JPEG high mode, which I believe is equivalent to JPEG quality 11 in photoshop. This means it can store about 725 pictures on the microdrive ... though the most I've stored before offloading was about 300.
+
+The manual is very well-written and covers everything. The TWAIN photoshop plug-in isn't very good, but you can just mount your Microdrive in a CF reader (or in a laptop PC slot, with PC adapter) and copy all the files directly, which is much faster.
+
+[Warning: After much ado, I have not been able to get any USB compact-flash (CF+ Type II) reader to install drivers (blue screen of death!) under Windows 2000 on several different computers. So if you get a Microdrive and want to mount it on your desktop, I suggest getting a Parallel CF2 reader, not USB. Besides they're only $30 so you could always get a USB one later once drivers are ready for prime-time. They're so cheap now that they often come bundled with a Microdrive. If you get one this way, I suggest you try to install it, if it doesn't work, call the pc/cf-reader vendor and ask for a swap with the parallel equivalent.]
+
+As with all digicam CCD/CMOS sensors, they pick up a lot of noise (expecially visible in shadows) on long exposures (3-30 seconds).
+
+Overall I'm quite pleased with Canon EOS D30. It's easy to operate and the resolution of pictures is incredible. It feels quite solid, especially with the battery grip option.
+
+I just wanted to share an overview of my experience to-date with this camera, not provide a full review. If you would like a soup-to-nuts incredibly thorough review of the EOS D30, I suggest you visit these two sites:
+
+	http://www.dpreview.com/reviews/canond30/
+	http://www.photo.net/photo/digital/canon-d30.html
+
+Both www.dpreview.com and www.photo.net should be on your favorites list. You can spend hours and hours (and hours) absorbing the incredible volume of interesting and valuable content found on these sites (reviews, articles, discussion forums, images, ...). Both of these sites are truly amazing.
+
+(BTW, I bought mine at Adorama, which has great prices, low-cost shipping, great order status & tracking and good inventory. I'd give them an A on the four orders I've had with them this year.)
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

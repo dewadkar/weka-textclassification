@@ -1,0 +1,35 @@
+DOC>
+<DOCID> 24512 </DOCID>
+<PRODUCT> Digital_Cameras/_Nikon_CP885__619837 </PRODUCT>
+<URL> http://www.epinions.com/content_71630098052 </URL>
+<TEXT>
+            This is my first digital camera. Previous to this I owned a mid-range 35mm Canon SLR which I always thought took excellent shots, until I saw the photos from the Coolpix 885. 
+
+Image Quality - 
+
+Comparing some similar scenes in similar lighting situations with photos from both cameras it appears the Coolpix is able to pick up far more detail and makes the photo well exposed and crisp. However, as most other reviewers have commented the reds are inaccurate to say the least and I am at a loss to understand how Nikon has gone so well with everything else in the image quality department yet they made this small error. This problem is so easy to fix up in Photoshop or the like that I can't understand why they haven't added a firmware update to resolve this.
+
+Features - 
+
+Features-wise, this camera is excellent. It allows you to take good auto-mode photos and still keeps me entertained with manual settings if I have the time to do so(and if the object I am photographing is not moving). One of my favorite features would be the 4x image playback zoom, massively useful for checking things like focus and presence of noise. Movie mode is slightly useless unless its used outside in good light. Be better if it had sound too and wasn't capped at 40 seconds. Lens cap on a string is a really poor system, looks like Nikon ran out of time when developing the camera and so didn't design an internal sliding cover, as in many cameras of this price. TFT screen is small but very clear and with good contrast - but what you see on it is not accurate in color or contrast, the image looks better than it does on the monitor or in print. 
+
+Build Quality - 
+
+Being a final year design student I can say that this camera is very well put together, the thing is so solid it feels like its a solid chunk of aluminum or something. The aesthetics are excellent, looking like a baby SLR style camera and the body feels and looks like its made of metal, though its actually plastic. All buttons feel good to press, shutter button is well positioned and has good feel, good position of power-on switch around it. The doors for the battery and compact flash card compartments are probably the best I've seen, far better than other cameras. The ergonomics are also very good, a nice chunky hand grip makes it comfortable to hold, shutter button and zoom keys in easy reach. 
+
+
+Ease of Use/Battery performance - 
+
+As soon as I received the camera, I ripped it out of the box and within about 30 seconds of inserting the battery I had taken my first photo. Others who have used the camera agree it is very easy to use, the menu system logical and easily understood. Even the provided Nikon View software is very good - Just plug in the USB cable and it automatically pops up asking if you want to transfer the images. 
+Big problem with this camera is how long it takes to 'process' everything. It seems like the 'CPU'(if it has one) in it is quite slow. Forgot using this camera for action shots, it seems that when the shutter is pressed and camera goes and makes itself a coffee and idly flips through the morning paper before deciding to take the shot. 
+To me, the battery seems very good - I have used a few others' cameras powered by rechargeable AA's and these die very quickly- after all they are only supplying 2.4v - whereas the Nikon rechargeable battery pumps out 7.4v. Here in Australia we are shipped with the rechargeable battery and charger, though the camera is $1000AU. 
+Flash takes a long time to recover when the battery is getting low, would have been good if there was a battery status indicator rather than a 'your battery is almost flat' indicator. 
+
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

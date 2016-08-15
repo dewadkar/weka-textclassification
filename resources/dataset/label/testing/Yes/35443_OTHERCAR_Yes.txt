@@ -1,0 +1,39 @@
+DOC>
+<DOCID> 35443 </DOCID>
+<PRODUCT> Digital_Cameras/Sony_DSC_F707_621066 </PRODUCT>
+<URL> http://www.epinions.com/content_59478544004 </URL>
+<TEXT>
+            Just a short while ago, the digital cameras produced pictures that couldn�t be compared to the regular 35-mm photos. And they cost much more than the film-based cameras. Although the prices are still higher than those of the film-based models, the digital cameras� resolution and features keep getting better and better.
+
+The <b>Sony DSC-F707</b> is a digital camera with impressive 5.2-megapixel CCD, which can produce resolution of up to <b>2560x1920</b>. Although its price and features put it closer to digital camcorders, the digital camcorders at this price point usually have 0.4 � 0.7 megapixel CCDs and only the best models reach 1.5-megapixel.
+
+The camera uses Sony�s <b>Memory Stick</b> (16Mb Stick is included) and you can transfer your photos to your computer using the USB interface. The camera uses a Li-Ion battery and charger similar to Sony camcorders.
+
+The F707 uses Carl Zeiss Vario-Sonar lens with 5x optical zoom. The 10x digital zoom is also available. The auto focus with hologram AF uses laser to focus precisely. You can also focus manually using a ring around the lens. The NightShot system allows you take pictures in low light conditions.
+
+The camera includes a high-resolution 1.8� LCD (123,200 pixels). You can take pictures at the resolutions ranging from <b>2560x1920</b> to <b>640x480</b> and can also shoot short MPEG1 movies (with mono sound) and the camera has a built-in mono microphone and a speaker. You can also shoot still pictures with audio (audio uses MPEG compression, still pictures use JPEG).
+
+There are several modes for still pictures � <b>JPEG</b> (compressed using <b>JPEG</b> compression), uncompressed <b>TIFF</b> (also records the compressed <b>JPEG</b>), <b>TEXT</b> (<b>GIF</b> in black-and-white). EMAIL mode records 320x240 <b>JPEG</b> file in addition to the selected image resolution.
+
+The shutter speed is adjustable between 30 � 0.001 sec. The camera has a built-in flash (the through-the-lens metering determines the amount of light needed) and an external flash terminal.
+
+There is a A/V out as well as a <b>USB</b> terminal. The camera comes with a 16Mb Memory Stick, an <b>InfoLithium</b> battery (<b>NP-FM50</b> battery, also used in Sony camcorders), AC adapter/charger, USB and A/V cables, CD with software. The AC adapter/charger is the same as Sony camcorders use with two separate cords (AC cord and DC cord attached to the charger).
+
+The A/V out can be switched between <b>PAL</b> and <b>NTSC</b>. The audio tract is mono. The battery charging time is about 2.5 hours. There are several recording modes � in <b>MPEG</b> mode you can select between 320-pixel High Quality (16Mb Stick holds 40 seconds), 320x240 (160 sec) and 160x112 (640 seconds). MPEG1 is not as advanced as MPEG2, so there may be artifacts <b>:-(</b>
+
+The still pictures can be recorded in <b>Standard</b> or <b>Fine</b> mode. The highest-resolution files are large and the 16Mb Stick will only hold 5-7 of them in Fine mode or 10-14 in Standard mode. And the <b>TIFF</b> files are so <b>huge</b> that only one of them can fit on a 16Mb Memory Stick.
+
+The images can be resized and rotated after the shooting using the camera controls. The special effects include Sepia, Solarize and Negative Art. The programmed AE modes are Landscape, Twilight and Portrait, and you can also use manual adjustments: aperture priority, shutter speed priority, manual exposure, focus, macro setting.
+
+There is a self-timer mode (10-second delay), burst mode (takes 3 pictures), exposure bracket (takes 3 pictures with different exposure settings). The camera has a standard mounting hole to attach it to tripods. The Date/Time stamp mode allows you put date and time on your pictures.
+
+<b>Bottom Line</b>
+
+<i>The F707 is a very advanced digital camera with its 5-Megapixel resolution and cool features. And the picture quality it produces is much better than still pictures produced by digital camcorders.</i>
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

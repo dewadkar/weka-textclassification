@@ -1,0 +1,28 @@
+DOC>
+<DOCID> 7885 </DOCID>
+<PRODUCT> Digital_Cameras/514230_Canon_PowerShot_A20 </PRODUCT>
+<URL> http://www.epinions.com/content_71718243972 </URL>
+<TEXT>
+            After owning the PowerShot A20 for about 6 months I love this camera. On the hardware side everything is great: the battery life is good, the picture quality is good. I use a 128MB Compact Flash card (~$50) with the camera, which can store more than 400 pictures at medium resolution (1024x768), which is plenty good enough for posting on websites.  CF cards are pretty cheap nowadays (~$100 for 256MB), so you can take as many shots as you want and store an entire vacation's pictures on one or two fairly cheap cards.  That's nice.
+
+The camera takes 4 AA batteries.  I'm using the Canon Ni-MH batteries ($45 with charger), and they last quite a long time, especially if you keep your use of the LCD screen to a minimum. Using alkaline AAs gives a much shorter battery life, but it's always there as a backup option, if you're stuck somewhere without the charger and need new batteries.
+
+My only quibble with the camera itself is that you have to hold the power button down for a second or so to turn the camera on.  That's a little bit annoying, but not a show stopper.
+
+The big downside for this camera is the software. Canon provides a Windows application called ZoomBrowser to use with the camera. It has lots of fancy graphics, and also lots of user interface problems. Although the ZoomBrowser interface can fill the screen, only a very narrow band is dedicated to the pictures on the camera, making it difficult to see what's there.  
+
+The interface allows you to see all the pictures on your hard drive in different folders, with miniature thumbnails of each image sized so that all images are displayed on one screen.  That's an OK concept, although in practice it's fairly cumbersome.  I would have much preferred an Explorer like grid of thumbnails showing all the images on the camera, with the ability to drag and drop files to the hard drive.
+
+If you use Windows explorer to move picture files around on your computer, the browser interface can get out of sync with the files on your hard drive, and show files that are not actually there.  Pretty confusing.  Also annoying is the way that whilst downloading images the ZoomBrowser window constantly pops to the front, so you can't simultaneously do any other work on your computer.  
+
+Overall ZoomBrowser is a bloated package which has lots of useless features, and does a very poor job of the one thing for which it is necessary -- downloading images. 
+
+I did find a better solution -- for $10 you can buy the shareware Cam4You utilities from http://jpegclub.org/cam4you/. This program does a much better job of downloading pictures from the camera, without all the cruft.  You can have it name your images using a variety of different templates, including date and time of the photo, and it will allow you to rotate images  that you took with the camera sideways, as part of the download process.  The interface is a little unpolished, but for the most part it stays out of the way and does the job, which is more than can be said for the Canon effort.
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

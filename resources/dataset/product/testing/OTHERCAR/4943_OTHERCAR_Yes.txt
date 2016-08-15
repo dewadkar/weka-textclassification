@@ -1,0 +1,225 @@
+DOC>
+<DOCID> 4943 </DOCID>
+<PRODUCT> Digital_Cameras/Nikon_Coolpix_4300_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_80569470596 </URL>
+<TEXT>
+            Nikon has been one of the world&#146s premier camera/optics firms for more than half a century, and since the beginning of the digital photography revolution Coolpix digital cameras have been among the most popular (and best selling) in the high tech electronics marketplace. The newest member of this distinguished family, the Coolpix 4300, is a solid update of Nikon&#146s very popular CP885 digital camera.  The Coolpix 4300 was designed to appeal to both beginners who want a digital camera that is easy to use and to serious amateurs who want a camera with lots of creative potential. 
+
+The new Nikon CP4300 boosts the CP885&#146s resolution from three to four megapixels for sharp hue accurate images with excellent contrast.  Nikon wisely retained the CP885&#146s excellent 3X Nikkor zoom lens, &#147point&#146n&#146shoot&#148 simplicity, and scene modes.  The CP 4300 is small enough to take along where ever you go (although the camera is a bit too large to drop in a shirt pocket).  Factor in Quick Review, One-Touch Upload to the Web, an excellent macro mode, and user-friendly controls, and what you have is probably the best over-all balance between features and cost of any digital camera currently available. 
+ 
+One of Nikon&#146s biggest problems in the ongoing digital camera wars has been the consumer perception that Nikon cameras were geared toward pros, serious amateurs, and photo enthusiasts.  To counter this misperception Nikon has introduced several easy to use entry-level digital cameras targeted toward snap shooters (the CP880, CP885, CP2500, and CP2000) over the past few years.  Ordinary consumers want to be able to take good digital pictures without the need for an advanced course in photography.  Nikon&#146s Coolpix Junior models make it simple for people who don&#146t want to learn about &#147f&#148 stops, shutter speeds, and fill flash ratios to shoot great pictures. 
+ 
+The CP 4300 features a comprehensive Auto mode and 12 automatic Scene Modes (Nikon pioneered  "Scene" modes --camera settings programmed for specific picture-taking situations) that allow users to shoot great pictures in a wide variety of lighting situations with just the touch of a button. The Small Picture function allows users to easily configure images &#147in-camera&#148 for e-mail and Internet applications. Unlike most entry-level point & shoot digital cameras the Coolpix 4300 can shoot uncompressed TIFF images, allowing the camera to be used for more demanding photographic applications.  
+
+<b>Viewfinder/LCD</b>
+
+The CP4300 features an optical viewfinder (approximately 80 per cent coverage) that zooms with the lens and a1.5-inch LCD screen that can be set to come on automatically when the camera is powered up, or it can be turned on and off manually to conserve battery power. Two viewfinder LEDs indicate flash and focus/CF card status (there is no diopter adjustment).  The LCD screen provides a detailed information/camera status display even in the full Auto mode, a nice touch.  Users can enable a histogram display that provides a graphic readout of the tonal range of the image and save exposure information as a text file.
+
+<b>Lens</b>
+
+The CP4300 retains the excellent f2.8-f4.9/38-114mm (35mm equivalent) 3X optical zoom Nikkor first seen on the Coolpix 885.  The 3X zoom is very fast in operation covering the range from wide-angle to telephoto in about two seconds.  The CP4300&#146s 4.0-megapixel CCD imager was lifted from the prosumer CP4500 and shoehorned into the CP885 body so the CP4300 produces color accurate high-resolution images that make superb 8x10 enlargements.
+  
+<b>Auto Focus</b>
+
+Auto focus is quick and accurate.  The AF Area selection mode allows users to select from five focus points, or allow the camera (closest subject priority) to enable the focus area that is closest to the subject automatically.
+
+<b>Exposure</b>
+
+The CP4300&#146s Exposure Options include Program (Auto), Movie, Scene modes (Portrait, Party / Indoor, Night Portrait, Beach / Snow, Landscape, Sunset, Night Landscape, Museum, Fireworks, Close Up, Copy, and Backlight) Custom (CSM) modes, White Balance bracketing, Metering, Best-Shot Selector, Image Adjustment (Contrast, color saturation, and Brightness), Image Sharpening, ISO settings, Auto Bracketing, and Noise Reduction 
+  
+<b>Flash</b>
+
+The built-in multi mode speedlight has settings for Auto, Red-Eye Reduction, Fill Flash, Slow Sync, and off.  The CP 4300, like other Coolpix cameras really shines when it comes to close-up work.  The dedicated macro mode allows the lens to focus as close as 1.6 inches, but the on board flash is in a poor position (like most point & shoot digital camera flashes) and because of parallax issues can't adequately light macro shots at the minimum focusing distance. Bug and Flower shooters can purchase Nikon&#146s nifty optional macro Cool-light for ultra close up work   (or use the camera on a tripod with a long exposures and stationary subjects) but the CP4300 has no provision for use of external flash units. 
+
+<b>Power</b>
+
+The CP4300 uses the same EN-EL1 battery used by the CP4500 and CP5700.  Non-rechargeable 2CR5 batteries can be used in a pinch.  The CP4300 ships with an EN-EL 1 rechargeable battery and a charger (the CP885 didn&#146t include a charger) 
+
+<b>Ergonomics, Design, and Controls</b>
+
+The Coolpix 4300 is a compact camera but the large handgrip makes it very easy to handle and use.  Controls are well laid out and logical and the menus are easy to navigate.  Exposure compensation, flash, focus, zoom controls, record mode, and the quick review function are all easily accessible via external controls. The CP4300 can be carried and used for long periods with no fatigue.
+
+<b>Technical Specifications</b> 
+
+Resolution: 4 megapixels (2,272 x 1,704)
+Viewfinder: Optical (zooming Real-image)
+LCD: 1.5-inch color display
+Lens: 3X f/2.8-f4.9 /38-114mm (35mm equivalent) all glass Nikkor zoom 
+Exposure: Full Auto, Program AE, Manual, and 12 preset Scene modes 
+Shutter speeds: from 1/1,000th of a second to eight seconds and Bulb (maximum 60 seconds). 
+Flash: Built-in multi mode (Auto, Off, Red-Eye Reduction, Slow Sync) no provision for external shoe mounted flash units
+Image Adjustment: Yes-- Sharpness, Contrast, Image Brightness, and color saturation 
+Sensitivity: Auto, 100, 200, & 400 ISO equivalents 
+Noise Reduction: Yes (automatic for long exposures)
+Creative Options: Yes-- Best Shot Selector, Auto Exposure Bracketing, and 
+White Balance Bracketing 
+Focusing Options: Manual and automatic focus control, with user selectable AF area. 
+Auto Focus: 5 AF area TTL Contrast Detection 
+Auto Focus Assist Light: No 
+Metering: 256-segment Matrix metering, Center-Weighted, Spot, and AF Spot 
+Image Storage: CompactFlash Type 1 
+File Formats: Uncompressed TIFF (only at 2272 x 1704) & JPEG 
+Movies: Yes QuickTime 320X240 @ 15 fps (up to 40 seconds) no audio
+Connectivity: USB 1.1
+Video Out: Yes 
+Power: 2CR5/DL245 or Rechargeable Li-Ion EN-EL1 
+
+<b>Included</b> 
+
+16MB CompactFlash card 
+EN-EL1 rechargeable Li-ion battery 
+Battery charger 
+Wrist strap 
+USB cable 
+Video cable 
+Lens cap w/strap 
+Software CD-ROM 
+Printed Manual 
+
+ <b>Optional</b>
+ 
+LCD hood, wired remote control, extra Battery EN-EL1, Battery Charger MH-52, AC Adapter/Battery Charger EH-21, ES-E28 Slide copier, Lens Adapters UR-E4 and UR-E7, Nikkor TC-E2 (2x) or TC3ED (3x) tele lenses, WC-E63 or WC-E68 wideangle lenses, the FC-E8 fisheye lens, and the Nikon SL-1Macro Cool-Light  
+
+MSRP $499.00----Street Price Range: $399.00-$450.00 
+
+<b>In The Field/Handling and Operation</b> 
+
+Because they&#146ve been selling as quickly as he can get them, it took my friend (who sells new and used digital and film cameras and photographic equipment) a couple of weeks to shake loose one of Nikon&#146s new Coolpix 4300s for us to check out.  We got together for our first photographic outing with Nikon&#146s newest digital camera on a cold cloudy day. 
+
+We always shoot some color tests using the same display, a set of bright red, blue, green, and yellow children&#146s plastic beach toys.  We shoot the kiddie toys against a white background. Consumers consistently complained about the CP885&#146s &#147hot&#148 reds and we were curious to see what Nikon had done to overcome this problem.  The CP4300&#146s four megapixel CCD produces images that are almost perfectly color balanced. 
+
+We decided that the flat overcast lighting (there are no reflections or glare under overcast lighting, so colors appear more intense) was perfect for shooting the peak of our local fall color at Louisville&#146s only arboretum, Cave Hill Cemetery at 701 Baxter Avenue.  The grounds of the old cemetery are absolutely beautiful in the autumn.  We drove around the small curving roads looking for Eliot Porter style &#147intimate landscapes&#148 among the hundreds of old trees in fall color.  We were able to easily fill a 64MB CF card with images.  The CP4300&#146s matrix metering handled exposures in the overcast late afternoon lighting perfectly.  When it started to drizzle we packed everything up and headed for Farmington (3033 Bardstown Rd) one of Louisville&#146s most famous historic homes. The Federal style house was built in 1813 from an architectural plan drawn by Thomas Jefferson. In its heyday, Farmington was a 500-acre hemp plantation.  The house and several original outbuildings are set in a grove of ancient hardwood trees. We wanted to shoot the old house surrounded by beautiful trees in peak fall color.  We spent about half an hour taking pictures and got a couple of really nice shots.  
+
+For our second outing with the CP4300 we wanted to duplicate our tests of the CP885 as closely as possible so that we could compare the differences between the three megapixel CP885 images and four megapixel images from the CP4300.  We started out at Hadley Pottery on Story Avenue (the salesroom is located in a converted 1848 warehouse in Louisville&#146s old Butchertown neighborhood) to shoot some close-ups of the colorful holiday pottery displays that mark the beginning of the Christmas season for many Louisville natives.  Hadley Pottery has been famous since 1940 for colorful hand painted pottery and stoneware.  Nikon Digital cameras are highly regarded for their excellent macro/close-up capabilities, and the CP4300, like its siblings, does outstanding work up close. 
+
+After leaving Hadley Pottery we drove to nearby Frankfort Avenue, the main artery of Louisville&#146s Crescent Hill neighborhood.  The area is home to a fine collection of Victorian homes, one of a kind antique shops, and trendy restaurants.  Both my friend and I love shooting architectural details, especially at the old nineteenth century firehouse on Frankfort Avenue.  The long narrow street is shaded by hundreds of beautiful old hardwood trees and we found several haloed with gorgeous late afternoon backlighting that made the red, orange, and yellow leaves just glow.  When the sun started to set we stopped at Genny&#146s Diner. The building has a classic fifties &#147roadside Diner&#148 look, with lots of glitzy Neon (including the world&#146s only six foot neon pickle). We spent about half an hour challenging the CP4300&#146s low light capabilities by shooting the diner and neon signs as the sun went down.  
+
+Genny&#146s was very busy so we drove over to Kaelin's  (the birthplace of the &#147Cheeseburger") on Newburg Road for a cup of coffee and a dish of biscuit pudding (bread pudding "old south" Louisville style) with Bourbon sauce.  Kaelin's has been a Louisville tradition since 1934 and the original sign still sits out front (it says "if you can't stop, wave"). The small restaurant is friendly and relaxed so it&#146s a great place to get in out of the cold for a while.  We reviewed the images we&#146d shot that day and discussed the performance of the CP4300.
+
+We got together the following afternoon to compare the images we shot a year ago with the CP885 and those we&#146d shot with the new CP4300.  The four megapixel images from the CP4300 are considerably sharper and more detailed than the three megapixel images we&#146d shot with the CP885.  Even more important, the CP885&#146s red bias is completely gone.  Here is what I said a year ago about the red bias in the CP885, &#147Reds were very strong, almost too saturated (my friend called them &#147Velvia&#148 red) while the greens shifted just a bit toward blue.&#148   The CP4300&#146s colors are hue accurate, well saturated, and consistent.  What amazed both of us was that the CP4300&#146s increased resolution, coupled with the tack sharp 3X zoom Nikkor (which is actually sharper than the 4X zoom Nikkor in the new Coolpix CP4500) generated images that are equal/superior to every four megapixel digital camera currently available (including the Canon G3) and they are equal to a couple popular five megapixel digital cameras.  The CP4300&#146s Matrix Metering was right on the money, with accurate exposures in all lighting conditions and in every shooting mode. ISO 100 images were noise free, and the ISO 200 setting produced very good results too. The contrast and sharpening options offer some serious creative input into the CP4300&#146s internal image processing. The scene modes and the full auto mode work so well that even total tyros will be able to shoot stunning digital images. 
+
+<b>Battery Life</b>
+
+If you use the LCD and flash full time the CP4300&#146s EN-EL1 battery will expire pretty quickly.  On our first outing we used the LCD viewfinder full time with lots of fill flash (dim overcast lighting) and the battery hung in there for just over eighty minutes (Nikon claims 90 minutes in the heaviest use scenario).  Using the optical viewfinder mostly and occasional fill flash we weren&#146t able to exhaust the battery on our second outing.  
+
+<b>A Few Concerns</b> 
+
+The Coolpix 4300 continues the Nikon tradition of not providing users with an autofocus assist lamp, but maybe that&#146s because Nikon&#146s engineers didn&#146t want to call attention to the CP4300&#146s average low light performance.  Even more disturbing is the lack of a top deck LCD info display.  Clearly Nikon feels that few buyers will utilize the optical viewfinder, so why duplicate the information display from the rear LCD screen?  The CP4300&#146s 3X optical zoom is one of the best digital camera lenses I&#146ve seen to date, but there is some very minor distortion at the wide-angle end of the zoom range.  Distortion at the telephoto end of the range is virtually invisible.  Chromatic aberration (purple fringing) is very well controlled (although barely visible around very bright objects in the corners of the image).  
+
+<b>Shutter Lag/Timing</b>
+
+Overall, the CP4300 is a relatively quick camera, however the start-up/cycle times, which are a bit slower than average, could cause some frustration over the long term. 
+Shot to shot times are very good and write to card times are quicker than average, except when saving uncompressed TIFF files. 
+
+<b>Image Quality</b>
+
+If you want stunning four megapixel digital images, but you don&#146t want to kick up the higher tariff for the CP4500 or the Canon Powershot G3, then the CP4300 may be just what you&#146ve been looking for.  Both my friend and I were amazed with the CP4300&#146s images, they were just as good as the images from the Coolpix 4500 or the Canon G3.  We printed two 8X10&#146s from our visit to Cave Hill with an HP1215 and compared them with recent 8X10&#146s from the Canon Powershot G3, the CP4500, and the Sony DSC F717----amazingly the CP4300&#146s image quality was competitive with all three digital cameras, pretty good for a four hundred dollar digi-cam.   Outdoor shots were consistently excellent, however indoor and low light shots were average  (like the CP880 and CP885) which isn&#146t really a criticism since most digital cameras don&#146t perform well indoors or in low light situations.   
+
+<b>Conclusion</b>
+
+The CP4300 offers everything an amateur shooter or a more serious photographer on a budget could want-- including compact size, stylish good looks, a full range of automatic features and manual exposure options, 4.0 Megapixel resolution, and an excellent 3X Optical Nikkor zoom lens.  The 4300&#146s scene modes allow even novice photographers to take good pictures and the auto mode is great for people who don't want to deal with anything except lining up the shot and pushing the shutter button. The CSM mode permits serious shooters to take control of camera operations for more creative photography. Nikon&#146s excellent metering system can handle almost any lighting situation and the outstanding 3X Nikkor zoom provides resolution on par with the best four megapixel digital cameras available.  
+
+Nikon&#146s newest digital camera is really quite a bargain at less than four hundred dollars and savvy shoppers will snap them up in huge numbers because the latest Coolpix Junior has the features and performance of a much more expensive camera. So if you&#146re looking for the perfect gift for the that special someone in your life, almost everyone will be delighted if they open their presents on Christmas morning and find a new CP4300 under all the shiny paper and colorful bows. 
+
+Links 
+
+Are you considering spreading your imaging wings and setting up a home digital darkroom? Check out my reviews of a pair of bargain priced and very capable photo quality ink-jet printers. 
+
+Epson Stylus Photo 785 EPX ink-jet printer 
+<a href='/content_60776812164'>http://www.epinions.com/content_60776812164</a> 
+
+Epson Stylus Photo 780 ink-jet Printer 
+<a href='/content_54223670916'>http://www.epinions.com/content_54223670916</a> 
+
+For definitive advice on How to Choose a Digital Camera please see my review: 
+<a href='/elec-review-2E46-17B174E2-39A418E3-prod1'>http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a> 
+
+For more information about specific Digital Camera models you may find my Digital Camera reviews informative: 
+
+<b>Nikon Digital Cameras</b> 
+
+Nikon D100 
+<a href='/content_72201965188'>http://www.epinions.com/content_72201965188</a> 
+
+Nikon Coolpix 5700 
+<a href='/content_70131814020'>http://www.epinions.com/content_70131814020</a> 
+
+Nikon Coolpix 4500 
+<a href='/content_69311368836'>http://www.epinions.com/content_69311368836</a> 
+
+Nikon Coolpix 2500 
+<a href='/content_65176440452'>http://www.epinions.com/content_65176440452</a> 
+
+<b>Canon Digital Cameras</b> 
+
+Canon Powershot G3 
+<a href='/content_78672989828'>http://www.epinions.com/content_78672989828</a> 
+
+Canon Powershot S230 
+<a href='/content_78900203140'>http://www.epinions.com/content_78900203140</a> 
+
+Canon EOS D60 
+<a href='/content_73529200260'>http://www.epinions.com/content_73529200260</a> 
+
+Canon Powershot S40 
+<a href='/content_59617087108'>http://www.epinions.com/content_59617087108</a> 
+
+Canon Powershot S30 
+<a href='/content_59041746564'>http://www.epinions.com/content_59041746564</a> 
+
+<b>Olympus Digital Cameras</b> 
+
+Olympus C 4000 
+<a href='/content_79317208708'>http://www.epinions.com/content_79317208708</a> 
+
+<b>Sony Digital Cameras</b>
+
+Sony DSC F717
+<a href='/content_79857684100'>http://www.epinions.com/content_79857684100</a>
+
+<b>Fuji Digital Cameras</b>
+
+Fuji Finepix S2 &#147PRO&#148 
+<a href='/content_76963548804'>http://www.epinions.com/content_76963548804</a> 
+
+Fuji Finepix S602 
+<a href='/content_75291266692'>http://www.epinions.com/content_75291266692</a> 
+
+<b>Minolta Digital Cameras</b> 
+
+Minolta Dimage F100 
+<a href='/content_76963548804'>http://www.epinions.com/content_76963548804</a> 
+
+Just &#147cut&#146n&#146paste&#148 the URL into your browser&#146s address bar/window.
+
+
+
+ 
+ 
+	
+
+
+	 
+ 
+ 	
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

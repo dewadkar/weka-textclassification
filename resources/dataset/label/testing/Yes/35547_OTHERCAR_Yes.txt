@@ -1,0 +1,48 @@
+DOC>
+<DOCID> 35547 </DOCID>
+<PRODUCT> Digital_Cameras/613417_Aiptek_PenCam_Trio_VGA </PRODUCT>
+<URL> http://www.epinions.com/content_90580553348 </URL>
+<TEXT>
+            I was looking for a webcam but I didn't want to spend much money.  The first one I tried in this price range was junk, back it went to the store.  This was my second effort.
+
+What's in the box:
+The pencamera
+driver cd and a copy of ulead movie maker se
+miniplug to flat b usb cable of a reasonable length
+manual
+warranty card
+sticker for the camera showing what all the lcd codes means
+deskstand for when you want to use it as a webcam
+two triple A batteries
+
+Setup:
+Put the stand together (two pieces)
+install the batteries in the camera
+load the driver software first(camera manager)
+plug the cable into the side of the camera and then into a usb port or hub (using mine on a hub no problems)
+After windows is done installing your device it should be ready to go.
+
+Operation:
+If you want to use the device as a camera unplug it from the usb cable.  There are two buttons, one on the top right and one on the back next to the viewfinder.  The button on the back controls the several modes displayed as two letter codes in the lcd window on the back, the button on top is the shutter button for still and movie mode. 
+
+My camera came with 1.1 of the software, there is a newer version on aiptek's site, however, it seems to have a different name and it doesn't upgrade the earlier version to the newer version.  In my XP professional system I have to leave both versions on the system, if I take off the 1.1 version the newer one doesn't work apparently because the driver has been removed and XP won't let me reinstall it without reloading the 1.1 software (stupid installer if you ask me). 
+
+So far I've not used it as anything but a web cam which is the main reason I bought it. The camera manager is easy to use and has many functions, depending upon the speed of your system you can adjust for up to 30 frames per second in live mode.  
+
+There are buttons provided for three lighting situations, daylight, office and home (because incandescent lights are a different color than flourescent lights and daylight is also a different color temperature).
+
+There are sliders provided for exposure, gamma, brightness, hue, saturation, sharpness, and white balance & backlight adjustment(neither of which seems to be adjustable on this camera). In an office setting this thing would probably be fine using the default settings, in my home where the computer is in a rather dark corner it took a bit of fiddling to get a picture, but once I got it adjusted the picture is acceptable, not fantastic, but good enough for chatting.  I'll probably end up having to buy a clip on lamp for my desk that I can turn on when I want to use the webcam.  Even with a lot of adjustment color seems to be only so, so, the camera will work in fairly low light as a webcam but the pictures are almost black and white--this should get better when I add a lamp to my desk.
+
+I haven't tried the movie maker se yet, Ulead has a good rep for their movie software, I'll post more when I get a chance to play more with that.
+
+For the price of this toy it's an ok webcam with other functions thrown in. The stand is decent and weighted and holds the camera in good position.  The lens is such that I get a good picture when putting it towards the back of my desk. There is no focus knob on the camera, it must be a fixed focal length lens such as is used in cheap film cameras.
+
+update: Yahoo chat can use your webcam, it will not work right out of the box with this camera.  A simply registry edit must be performed before it will work with yahoo chat, yahoo gives complete instructions on how to perform the edit and what key to add in what location. Added a clip on lamp to my desk and it improved the image quality considerably.
+
+
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

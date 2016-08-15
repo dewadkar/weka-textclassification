@@ -1,0 +1,57 @@
+DOC>
+<DOCID> 17128 </DOCID>
+<PRODUCT> Digital_Cameras/Canon_PowerShot_A40_Digital_Camera_7634A001__Camera_7634A001 </PRODUCT>
+<URL> http://www.epinions.com/content_69820386948 </URL>
+<TEXT>
+            I am not going to list all the specifications and features of A40. I firmly believe that's the job of a printed camera manual not mine.
+
+Now comes to MY personal experience with the camera:
+
+Built:
+
+A40 seems to be of quality built. Although it is not metal but the high grade plastic does have a metalic look and the camera is pretty heavy. The camera is not exactly small enough to fit in your pocket. The only thing I hate is that the serial number at the bottem of the camera wore out in less than a week (I know at least 3 or 4 people have the same problem and I have no idea what will happen to the warranty if the serial number is gone.) So you'd better save that camera box which has the serial number on it. I like the lens cover, it closes as soon as you power off the camera and it feels much stronger than the sliding door type lens cover come with the Kodak DX series.
+
+LCD and Menu:
+
+The LCD is rather small (1.5 inch) for a camera of this size. However the LCD is VERY bright so you shouldn't have any problem looking at it even under direct sunlight. The menu and controls on the LCD is a little confusing though. And canon didn't provide a 4 way controller to adjust the setting. I think this is a big mistake. It takes quite some time to learn how to set the tons of settings on the menu. Fortunately the camera did come with a printed manual and it is very good with detailed description.
+
+Features:
+
+This is probably the most feature rich camera under $300. To name a few of the features: Full manual mode, shutter priority and aperture priority (although only 2 aperture settings to choose from), panorama mode, photo effects (B/W, sepia, vivid, neutral and some others), can attach wide angle and telephoto lens, long shutter speed (15 sec) for night shot, etc.
+
+Focus, picture quality and expendability:
+
+In auto mode uses aiaf (can turn it off and use spot meter). One of the biggest problem of A40 is totally out of focus at focal length 13.4mm in zoom mode (the level next to the largest zoom). Yes, my A40 also has this problem and I assume ALL canon A40 up till now have this problem. The problem has been so notorious that Canon is forced to publish a fix on their website about a week ago under the pressure of user complaint. This fix is aimed at the 13.4mm out of focus problem and it seems to be working.
+
+Other than the problem mentioned above, in general the auto focus is pretty accurate. The photos taken with this camera outdoor usually are of good resolution with nice saturated color (Not as saturated as Kodak digital cameras though. Kodak DC280 and DC290 are great for taking high contrast photo with saturated color and I still prefer Kodak color although Canon's color might be more accurate). Photo taken with A40 look a little soft comparing with some of the sharp images taken with cameras such as the Fuji 2600Z but the resolution is still pretty good. (A little soft focus seems to be the tradition of Canon digital cameras and A40 is not an exception here) The indoor shots is not as good though. I found that the camera needs lots of light to generate good photo and the photos comes out look pretty "red".
+
+A40 has full manual mode so you can set your prefered shutter speed and aperature (only 2 aperature settings are available). I haven't have time to test it though.
+
+I found that the Macro mode is a little weak on this camera. I often have to step back a little from my intended objects (flowers, etc) to have the focus locked. Once in focus, the picture is very good with nice detail.
+
+You can attach wide angle and telephoto lens (both are available) to the A40 and I heard you can also find a underwater case for it. You can not attach external flash though.
+
+A40 doesn't come with an uncompressed mode such as tiff or raw format. I guess I can't expect everything to be perfect and if they did provide the uncompressed mode there is no doubt that A40 will become a serious threaten to Canon's more expensive product line: the S30 and S40s. At Super fine mode at highest resolution (1600X1200), the jpeg size of A40 is pretty big (Mine can reach 1.6-1.7 meg). This shows that Canon is pretty converative and didn't use an overly agreesive compression algorithm to reduce the file size. This is good news to customer because less compression usually means less artifacts and better photo quality. 
+
+Movie mode:
+
+Movie at 320X200 can only last 20 secs at most. It does come with sound but movie mode (in avi format) needs good light condition to be of use. I am buying a digital camera not a camcorder so this is no big deal.
+
+Battery:
+
+This camera seems to have very good battery life. It takes 4 AA alkaline battery or NIMH AA rechargables. I heard A40 can't use lithium AAs but don't know whether this is the case. I am very satisfied with the alkaline battery usage and I am impressed because this seems to be the only digital camera that I have used that can get lots of shots from a set of alkaline batteries. (4 AA batteries lasted more than 120 photos and they are still going). Normally I recommend NIMH AAs but you might be able to get away with alkalines if you have the A40. Thumbs up.
+
+Colorwise Kodak DC series sure look better, for sharpness Fuji 2600 might be a better choice, for macro shots nikon compacts might do a better job. But overall it is really difficult to find a 2MP digital camera does everything as well as the Canon A40s.
+
+Overall I think A40 is a great entry level (2MP) digital camera with lots of control and huge potential to expend and it takes excellent photos in good daylight settings. And it probably will become the standard that other manufactures are aiming at when producing 2MP digital cameras. Combining with its low price tag (I got mine online for $271, including $20 shipping). Good job for canon and good value for customers.
+
+
+
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

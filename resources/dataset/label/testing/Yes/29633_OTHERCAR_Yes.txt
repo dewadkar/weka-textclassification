@@ -1,0 +1,98 @@
+DOC>
+<DOCID> 29633 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_EOS_D30 </PRODUCT>
+<URL> http://www.epinions.com/content_53256818308 </URL>
+<TEXT>
+            Interested in some serious digital photography? Willing to spend stratospheric amounts to get the very best of SLR capabilities in a digital environment? Want over 3 megapixels to boot? Want the quality and assurance of the Canon EOS name?
+
+Then open up your check book, starting writing a whole lot of zeroes and say hello to the <b>Canon EOS D30 Digital SLR Camera</b>.  With the <b>EOS D30</b>, you'll not only get the best of both SLR and Digital environments, you'll get it in a package that was built from the ground up to be the very best digital SLR available - anywhere.  Instead of just slapping on digital technology on top of an existing SLR body, Canon created the <b>EOS D30</b> the right way.  Adding the latest technological and photographic elements to create a sure-fire hit.  But it is at a price - $2000 for the body alone.
+
+The <b>EOS D30</b> offers an incredible high-quality image. Canon's new large-area imaging element, the CMOS sensor is the driver behind the resolution. It allows you to get a better picture with more definition, 3.11 million pixels to be exact. Canon also established a 2:3 aspect ratio just like the pros use. The result? More professional pictures even if you're not a professional.
+
+The key to the SLR is lens compatibility & accessories. The <b>EOS D30</b> uses all EF lenses without restrictions or limitations. According to Canon, that's over forty current lenses and nearly 100 since the series began in 1987.
+
+And because this is an EOS camera, you can use many EOS series attachments such as EX-Series Speedlites and N3-series remote control accessories without modification to enhance its performance. 
+
+The built-in flash system featuring high precision E-TTL Retractable Autoflash, is linked to focusing points, so your subject will always get the correct exposure even when it's off-center. 
+
+The <b>EOS D30</b> supports USB and NTSC/PAL Video Out for instant access to your digital images.  The NTSC/PAL Video Out option allows you to view your images on a TV and other audio/visual devices.
+
+The <b>EOS D30</b> provides 5 data recording formats, allowing you the flexibility of assigning increased (or decreased) resolution per picture. 
+
+The continuous shooting feature allows you to always be ready for the next shot, even when the action gets fast and furious. The <b>EOS D30</b> supports continuous shooting up to 8 consecutive frames in Large/Fine mode at a rate of approximately 3 frames per second. If you switch to Large/Normal mode or one of the Small resolution settings to more than double the maximum number of consecutive frames.
+
+The list of features and abilities of this camera go on and on.  Clearly, for the price, you get a tremendous amount of digital power all coupled in your awaiting hands.  If you have the means, and you're ready to get serious about digital photography, then the Canon <b>EOS D30</b> is likely the camera for you.
+
+Full camera specifications follow.
+
+Thanks, as always, for reading. 
+
+<b>Camera Specifications</b>
+
+* Camera Type: Eye-level single lens reflex (SLR) digital camera, 36-bit full color RGB capture (12bits per channel), one-shot type 
+
+* Lens mount: Canon EF mount (full electronic control type) 
+* Lenses used: Canon EF lenses (focal length/angle of view conversion factor is approximately 1.6X compared to full-frame 35mm filmformat) 
+
+* Viewfinder: Full-frame reflex type, coverage approximately 95% horizontal and vertical, 0.88X magnification and 20mm eyepoint 
+
+* Focusing modes: One-shot AF, AI Servo AF with focus prediction, AI Focus AF, and manual focus 
+* Focusing points: Wide-area AF with 3 selectable focusing points 
+* AF working range: EV 2-18 (ISO 100, standard chart) 
+
+<b>Exposure Control</b>
+* Metering modes TTL maximum aperture metering with a 35-zone silicon photocell. 
+* 35-zone Evaluative metering linked to all focusing points 
+* Centerweighted average metering 
+* 9.5% central-area partial metering 
+ 
+* Metering range EV 2-20 (at normal temperatures, EF 50mm f/1.4 USM, ISO100) 
+
+* Shutter speed 1/4000 sec. to 30 sec. plus Bulb, maximum X-sync at 1/200 sec. 
+
+* White balance 7 types, including auto, preset and custom  
+
+* Built-in flash Retractable-type. Guide Number is 12/39 at ISO 100, m/ft. 
+* Flash contact Accessory shoe for EX-series Speedlites; PC socket also built-in on left side of camera body 
+* Flash metering Supports E-TTL and FEL with built-in flash; E-TTL, FEL and FP flash (high-speed synchro) with EX-series speedlites 
+
+* Continuous photography Up to approximately 3 frames per second for up to approximately 8 frames, when camera is set for Large/Fine recording. 
+* Sensitivity Equivalent to ISO 100-1600 (adjustable in 1 EV increments) 
+
+* Recording media CF (CompactFlash) card, Type I or II, single slot 
+* File format Design Rule for Camera Format (DCF) 
+* Recording methods JPEG and Canon RAW 
+
+* Resolution/Compression/settings
+   1.Large/Fine (2160 X 1440) 
+   2.Large/Normal (2160 X 1440) 
+   3.Small/Fine (1440 X 960) 
+   4.Small/Normal (1440 X 960) 
+   5.Lossless compression (2160 X 1440) 
+
+* Interfaces
+   Digital: USB 
+   Video Out: NTSC/PAL (switchable) 
+   Camera: N3 remote control socket, PC terminal for studio flash, dedicated accessory shoe for EX-series Speedlites 
+
+* Power source BP-511 lithium-ion battery  
+   AC operation via DC Coupler DR-400 and Compact Power Adapter CA-PS400  
+   Up to two BP-511 batteries via optional Battery Grip BG-ED3 
+
+* Camera Specifications
+   Dimensions 149.5(W) X 106.5(H) X 75.0(D) mm, 5.9(W) X 4.2(W) X 3.0(D) in 
+   Weight 750g/26.5oz. w/o battery or CF card 
+
+* Digital unit Imaging elements High-sensitivity 3.25-million pixel CMOS sensor.
+   (Total pixels 2226 X 1460) (Effective pixels 2160 X 1440) 
+   Sensor size 15.1 X 22.7 mm (aspect ratio 2:3) 
+   Burst rate Approximately 3 frames per second for up to approximately 8 frames in Large/Fine mode or 17 frames in Large/Normal mode 
+   Driver software Comes with USB TWAIN driver for PC and Adobe Photoshop plug-in for Mac OS 
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

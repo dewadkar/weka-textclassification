@@ -1,0 +1,246 @@
+DOC>
+<DOCID> 31980 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_C_730_Ultra_Zoom_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_86851030660 </URL>
+<TEXT>
+            Olympus&#146 new Camedia C 730 is the third generation update of the popular Olympus C-700 Ultra Zoom series.  The C 730 builds on the success of the C 720 and adds several improvements that offer consumers a unique feature set at a bargain price.  The C-730 is marketed toward more advanced photographers who want a compact camera with the longest zoom currently available and a broad range of manual and automatic exposure options.  The C 730 provides the extra reach to capture close-ups of sports events like kiddie soccer games, long exposure settings for shooting night and low light subjects, and point and shoot simplicity---- all in a stylish and affordable package that weighs less than twelve ounces.
+  
+<b>What&#146s New ?</b>
+
+On the surface, the C 730 UltraZoom looks almost identical to the C 720.  It is the same size and retains most of the C 720&#146s popular features.  The main differences are the increased zoom ratio (10X vs 8X) and enhanced manual control options like a user adjustable AF area, longer exposure times, and more Scene modes.  The versatile little C 730 also features a 5-pin TTL connector for external flash (so you can use the Olympus FL-40 speedlight), dual media storage support (SmartMedia and xD-Picture Cards). 
+ 
+<b>Features</b> 
+ 
+The C 730 offers Digital ESP multi-pattern and spot metering, user adjustable white balance, very versatile flash options, auto bracketing, and exposure compensation. The C-730 also features proprietary Olympus TruePic technology, which optimizes image information (sharpness, contrast, and color saturation) captured by the CCD before the data is saved to card---excellent for creating sharp colorful low res email JPEGS.  A pixel mapping function automatically calibrates the CCD and image processor to produce sharper resolution, brighter colors, better contrast, and fewer image processing errors. 
+ 
+<b>Viewfinder/LCD</b>
+
+The C 730 features an EVF (electronic viewfinder) essentially a smaller version of the 1.5-inch, TFT color LCD monitor. The C 730's EVF is bright with a high eyepoint and a diopter adjustment (good for eyeglasses wearers).  The EVF provides the same camera status and menu displays shown on the LCD.  The EVF is active (on) whenever the camera is powered up.  The C 730&#146s EVF seems to be a bit brighter and more usable under low light conditions than most EVF&#146s.  The EVF&#146s refresh rate is a bit slow (obviously designed to save power and prolong battery life) and quickly moving objects or rapid panning will leave the camera trying to catch up, however the effect is not disconcerting or limiting and users will quickly get used to it 
+
+The C 730's 1.5&#148 LCD monitor is bright and sharp (users can toggle back and forth between the EVF and the LCD with the Display button).  The LCD provides a detailed information/status readout that includes, exposure settings, f/stop, shutter speed, and exposure compensation adjustments.  The LCD permits users to zoom in up to 4x when reviewing saved images, select the Index display option which shows four, nine, or 16 thumbnail-sized images at a time, or use the "quick view" function to check the last image shot.  
+
+<b>EXPOSURE</b> 
+
+<b>Exposure Modes</b>
+
+The C 730 offers a really impressive level of exposure options including Program, mode for point-and-shoot simplicity in most picture situations and the easy-to-use Scene modes for fully automatic exposures optimized for specific shooting situations like Portrait, Landscape, Night-Low light, and Sports shots.  The C 730&#146s advanced settings include aperture priority, shutter priority, and manual mode for more experienced photographers who want full control. 
+
+<b>Special Exposure Modes</b>
+
+<i>Movie Mode</i>
+
+The C 730's Movie mode is one of the most versatile and best designed I've seen.  For example, most digicams that offer sound recording in the movie mode disable zoom use during recording (because the sound of the lens would be a distraction and mask important audio) Olympus allows the user to choose between video clips with audio (and no zoom) or video clips without audio (the zoom can be used) a very intelligent and logical design. The C 730 records video clips at 320X240 @ 15 fps.  Record time is limited only by available memory.
+
+<i>Audio Annotation</i>
+
+The C 730 permits the user to record short (4 seconds) audio notes to accompany still images. The Audio Annotation option is enabled through the record menu and begins right after the shutter is released. You can also record sound post exposure.
+
+<i>Panorama Mode</i>
+
+Olympus digicams offer users the option to record panoramas, but only when using Olympus brand SM or xD cards.
+
+<i>My Mode</i>
+
+My Mode allows users to save custom or frequently used settings and access them easily and quickly through the Mode Dial. Four different sets of My Mode settings can be saved. 
+
+<i>Exposure Compensation and Auto Exposure Bracketing</i>
+
+The C 730 offers photographers the option of biasing exposure  /-2 EV in 1/3 EV increments to compensate for tricky lighting situations. The Auto Exposure Bracketing (AEB) mode will automatically shoot either 2 or 4 successive exposures on either side of the initial exposure ( /-2EV in three or five exposure increments) ensuring that you&#146ll get at least one perfect shot when getting the exposure just right is critical.
+  
+<i>&#147In-Camera&#148 Image Adjustment</i>
+
+The C 730 provides the option to adjust color saturation, contrast, and sharpening &#147in camera&#148 which permits advanced photographers to fine tune exposures.  For example if you are shooting under bright lighting you can lower contrast to preserve shadow detail.  On a heavy overcast day color saturation can be increased to boost the subjective &#147look&#148 of an image.  The Sharpening function can help shooters avoid the soft look that detracts from images shot at the telephoto end of the C 730&#146s 10X zoom.
+
+<i>Noise Reduction</i>
+
+The C 730 performs well in low light settings but higher sensitivity (ISO 400) and longer shutter speeds (up to 16 seconds) can produce noise in low light images or long exposures.  The C 730&#146s Noise Reduction mode significantly reduces image noise in long exposures and 400 ISO low light shots.  Noise reduction is automatic on long exposures
+
+<i>Metering</i>
+
+The C 730 provides three metering modes; Digital ESP metering measures light from multiple points within the image frame and intelligently evaluates exposure data to determine optimal settings. Spot metering bases exposure on a small area at the center of the frame, allowing photographers to bias exposure for he most important element in the composition (and then recompose).  Multi spot metering (manual mode) bases exposure on averaging data from up to eight &#147spots&#148 selected by the user. A small histogram display shows brightness/contrast distribution across the frame (allowing exposures to be fine tuned prior to tripping the shutter).  The C 730&#146s incredibly flexible metering options virtually guarantee proper exposure, a very sophisticated metering system for a consumer digital camera.  
+
+<i>White Balance</i>
+
+White balance settings include Auto, Daylight, Overcast, Tungsten, Daylight Fluorescent, Warm White Fluorescent, Cool White Fluorescent, and Custom.  Users can also bias white balance  /-5 steps (plus steps add warmth---moving the color balance toward red.  Minus steps cool the exposure toward blue).  The ability to tweak the color balance is very helpful for advanced photographers and is a feature seldom seen on consumer digital cameras. 
+  
+<i>Sensitivity</i>
+
+The C730 provides Auto, 100, 200, and 400 ISO (equivalent) settings, an acceptable range of CCD sensitivity options.  
+
+<b>OPTICS & FOCUS</b>
+
+<i>Lens</i> 
+
+The heart of the C 730 is the newly designed all glass 10X monster zoom (equivalent to a 38-380mm zoom in 35mm photography).  The lens is a relatively fast (f/2.8-f/3.5) wide angle to long telephoto lens with a super macro (close focus to 1.2&#148) function.  The C 730&#146s incredibly wide range and super versatile lens is what really sets this camera apart from every other three megapixel digicam.  The C 730 is very compact but the 10X zoom allows the camera to be used for shooting sports, wildlife, concerts, auto racing, and anything else that requires an extremely long reach.  The C 730 also provides a threaded mount that allows the use of conversion lenses and filters.
+  
+<i>Auto Focus</i>
+
+The C 730 utilizes a TTL (through the lens) iESP AF (autofocus) system.  In iESP mode, the camera bases focus on the entire frame, automatically determining the primary subject, based on closest focus priority. The Spot AF mode focuses on the AF spot in the center of the frame.  The C 730 also permits users to adjust the AF area (through the Record menu) using the arrow keys to move the AF target anywhere in the frame (only in Spot AF mode).  The C 730&#146s AF speed ranges from quick to slow (in low light), but it is usually very accurate. The C 730&#146s 10X zoom is large and complex, so obviously it won&#146t focus as rapidly as a shorter simpler zoom.  Speed issues are going to come up most often in low light situations.  The lens is surprisingly quick when the light is good.  
+
+<i>Manual Focus</i>
+
+The C 730 features a nice manual focus option. Pressing the "OK" button will bring up the AF/MF menu and a distance scale (the scale can be set for meters or feet). Users can adjust focus distance with the up and down arrow keys.  The central portion of the frame enlarges (to help ensure focus accuracy) when you adjust the focus settings. It&#146s neither fast nor convenient, but it works.
+
+<b>FLASH</b>
+
+The C730&#146s on-board multi mode pop-up flash is incredibly versatile (Off, Auto, Red-Eye Reduction, Fill Flash, Night Scene, and Night Scene with Red-Eye Reduction modes).  Users can mimic second curtain flash synch with the Slow Sync mode or adjust flash intensity  /-2 EV (both selected through the record menu). In addition the C 730 has an external (proprietary) sync connector that supports external flash units. The connection can be used to mount the Olympus FL 40 or users can purchase an optional Olympus to standard "PC" adaptor and use third party flash units. 
+
+<b>Controls, Design,  & Ergonomics</b>
+ 
+The C 730 is a compact lightweight digital camera, a bit too large for dropping in a pocket but the camera fits easily in a backpack, fanny pack, or purse.  The C 730&#146s control layout is logical and easily accessed.  Like all Olympus digital cameras the C 730 is menu driven, but the menus are well designed and relatively quick once users gain familiarity with the camera. 
+
+<b>Power</b>
+
+The C 730&#146s power management is a real credit to Olympus&#146 engineering.  Even with an EVF, menu driven operation, a powerful flash, and a 10X zoom the C 730 makes its batteries last and last. 
+ 
+<b>Technical Specifications</b> 
+
+Resolution: 3.2 Megapixels (2048x1536)
+Viewfinders: EVF (electronic viewfinder) and 1.5&#148 TFT color LCD
+Exposure Modes: Program, 6 scene modes, Shutter priority, Aperture priority, and full Manual  
+Image Formats: Uncompressed TIFF and JPEG    
+Metering: iESP TTL and Spot
+Lens: 3X f2.8-f3.5/38-380mm (35mm equivalent) zoom (10 elements in 7 groups with 2 aspherical elements for improved color and clarity)
+Auto Focus: iESP TTL AF and Multi area spot AF 
+Shutter Speed Range: 1/1000th of a second to 16 seconds
+Flash: Built-in Multi Mode Pop-up---external flash units can be used
+Exposure Compensation: Yes  /-2EV in 1/3EV increments
+Auto Exposure Bracketing: Yes-- /-2EV-- 3-5 images in 1/3 EV increments
+Sensitivity: Auto, 100, 200, & 400 ISO equivalents
+White Balance: TTL iESP, six presets, custom
+Image Adjustment: Yes&#151Contrast, Saturation, and Sharpening
+Noise Reduction: Yes&#151Automatic on shutter speeds of one second or longer
+Image Storage: xD Picture Card or SM card
+Connectivity: USB 1.1 "auto connect" and A/V out
+Power: four AA or two CR-V3 batteries 
+
+
+MSRP: $599.00------Street Price Range----$429.00-$499.00
+ 
+<b>Included</b>  
+
+1 16MB xD Picture Card, 4 AA alkaline Batteries, USB cable, A/V cable, Software CD-ROM, neck strap, lens cap, printed users manual
+
+<b>Optional</b> 
+
+Optional lens converters for wide-angle, and macro, Olympus lens thread adaptor, Olympus WL-40 Speedlight, PC flash adaptor, RM-1 infrared remote control
+
+<b>In the Field/Handling & Operation</b> 
+
+My friend (who sells digital and analog cameras and photo equipment) and I have been testing a lot of new Olympus digital cameras over the past couple of months.  The C 730 is a three megapixel update of a popular entry-level Olympus digital camera.  We had just tested the D 550 so getting an opportunity to compare it to the C 730 while that camera was still fresh in our memories was great. Our weather here in Louisville has been very cold.  Saturday was bright and sunny with a cloudless blue sky, but the temperatures were in the low twenties and there was a brisk wind that quickly froze fingers and left ears and toes tingling.
+
+We started out at the Fourth Street Wharf to shoot the stately old sternwheeler the Belle of Louisville.  Early in 1962 Jefferson County bought a decrepit old steamboat called the Avalon (she&#146d been launched as the Idlewild) at auction in Cincinnati Ohio for $34,000. The Avalon was towed to Louisville where the old steamer underwent an extensive renovation.  The Avalon was renamed the Belle of Louisville and in May of 1963 she was ready to race the Delta Queen as part of the annual Kentucky Derby Festival.  For the past forty years the gallant old steamer has raced every year as part of the Kentucky Derby celebration.  When she isn&#146t racing, the Belle is popular for her summer dance cruises.  Anyone who&#146s read &#147Huckleberry Finn&#148 or studied the Civil War or listened to Levon Helm sing &#147The night they drove old Dixie down&#148 understands the romantic appeal of Steamboats.
+
+The Belle is the oldest steamboat (built in Pittsburgh in 1914) still plying the rivers of the United States. She&#146s brightly painted and makes a wonderful photographic subject, especially on a bright sunny day.  We wanted to use the Olympus&#146 C 730&#146s monster 10X optical zoom to shoot details like the bright red paddlewheel and the old Victorian gingerbread pilot house between the Belle&#146s two tall stacks.  
+
+After finishing up at the Belle we were both freezing (the breeze off the river was like a knife, it cut right through our coats and gloves). We both wanted to get inside and sit down to something hot and hearty to warm us up. 
+
+A couple of weeks ago my friend took us to Morris&#146 Deli to try their White Bean Soup, so I suggested that we go to my favorite location for Kentucky white bean soup, Check&#146s Caf� (1101 E. Burnett Street).  Check&#146s has been a popular Germantown neighborhood bar for decades.  There&#146s a small L-shaped bar, a scattering of mismatched tables, and dark wood paneled walls hung with beer signs and framed B&W photos. Check&#146s is your basic neighborhood saloon, warm and homey, with a couple TV&#146s always tuned to locally important sports events. 
+
+The menu hangs above the bar and is heavy on upper south comfort food like fried fish, fried chicken, rolled oysters, pan fried oysters, burgers, fries, chili, and home-made white bean soup.  Drink choices are limited (soft drinks, beer, coffee, iced tea, etc.), portions are large, and the prices are quite reasonable (a bowl of white bean soup costs $1.65).  The atmosphere (the term ambience just doesn&#146t fit Check&#146s) in this historic old Germantown pub is relaxed and friendly, the absolute antithesis of chain restaurant chic.  Two bowls of bean soup, a couple of cokes, and the tip came to just over $6.00.  After we ate (we agreed Check&#146s and Morris&#146 Deli are locked in a dead heat tie for the best White Bean soup in Louisville) we used the Olympus C 730&#146s LCD screen to review our shots of the Belle of Louisville and sneak a few surreptitious &#147candids&#148 inside the dimly lit old bar to test the C 730&#146s low light capabilities.  
+
+Sunday morning when we got together to finish our tests of the Olympus C 730 the sun was shining and the sky was a beautiful cobalt blue, but the temperature was still in the twenties. We drove out River Road past the Louisville Water Company&#146s ornate white marble Water Tower to Locust Grove.  We wanted to shoot the house and some of the outbuildings to complete our outdoor tests. 
+
+2003 is the bicentennial of the Lewis and Clark expedition.  Merriwether Lewis joined William Clark, his Co-Captain, here and the two planned the trip and recruited the Corps of Discovery at the falls of the Ohio.  During the planning stage of the expedition Lewis and Clark spent much time at Locust Grove, a Georgian mansion built in 1790 by Clark&#146s bother in law William Croghan. The expedition officially ended in 1806 when Clark and Lewis were feted at a gala welcome home ceremony at Locust Grove.  Locust Grove is the only structure visited by the expedition that still stands. 
+
+General George Rogers Clark (William&#146s older bother, a Revolutionary War hero, and the founder of Louisville) died at Locust Grove.  The grand old house has had many famous visitors including three U. S. Presidents (Andrew Jackson, James Monroe, and Zachary Taylor), Vice President Aaron Burr, and wildlife artist John James Audubon.  Famed abolitionist Cassius Marcellus Clay fought duel on the grounds with Robert Wickliffe (Governor of Louisiana from 1856-1860) in 1841. Locust Grove ---561 Blankenbaker Lane (just off River Road) (502) 897-9845. 
+ 
+<b>A Few Concerns</b> 
+
+Photography has always been about compromises and obviously any compact digital camera with a 10X zoom lens is going to have to make some compromises. The C 730&#146s newly designed 10X zoom lens is actually quite good, however like all complex multi element wide angle to telephoto zooms, this lens suffers from distortion at both ends of the range.  Pincushion distortion is well controlled but slightly higher than average at the wide-angle end of the zooms range and barrel distortion is noticeable at the telephoto end of the range.  Chromatic aberration (purple fringing) is remarkably well controlled for such a complex optic, but visible at the telephoto end of the zooms range---especially in strongly backlit situations. 
+
+The C 730 suffers from above average image noise in low light/long exposure situations. Pixel mapping, the noise reduction mode, and post exposure image manipulation can eliminate most of this problem.  The C 730&#146s printed manual leaves a lot to be desired, you&#146ll need to study the full users manual on the CD-ROM (or print it out) to take full advantage of all the C 730&#146s features.   I don&#146t like EVF&#146s (electronic viewfinder) because it is hard to tell if the image is really in sharp focus on the tiny screens, however the C 730&#146s EVF is clear and bright (except in very low light---where it is virtually useless). You&#146ll need to use the LCD for critical focus. 
+
+I am mystified as to why Olympus didn&#146t provide an auto focus aid beam for low light shooting and why the C 730&#146s 10X zoom lens isn&#146t stabilized (the Olympus C2100 had both a focus aid beam and image stabilization).
+
+<b>Shutter Lag/Timing</b>
+
+Shutter lag and AF lag with C 730 range from average to a bit slower than average.  The startup cycle is quite slow (not surprisingly, considering the 10X zoom) and shot to shot timing is about two seconds.  The C 730 has a large buffer for rapid sequence shots but autofocus speed is about average for long-zoom cameras.  Write to card times are about average, except for TIFF images, which are fairly slow.  If you want to use the C 730&#146s monster zoom to shoot action you&#146ll have to practice pre-focusing and learn to anticipate the peak moment by about half a second to one second.
+
+<b>Image Quality</b>
+
+The C 730 consistently produces very good to excellent images with accurate color under virtually all shooting conditions. The C 730's auto white balance setting is accurate, but the overall look is a bit warm.  Manual white balance eliminates the warmth and produces remarkably accurate color balance for a prosumer digital camera.  Skin tones are handled very well and portraits look natural.  Overall, the C 730&#146s images are equal or superior to most currently available three megapixel consumer digital cameras.    We printed one 8X10 image of the paddle wheel of the Belle of Louisville (bright red wheel, snow white stern, and blue skies) with an Epson 785EPX printer on Kodak photo paper---the image was striking with sharp as a tack resolution and bright accurate colors.
+ 
+<b>Conclusion</b> 
+
+My friend and I were both very impressed with the Olympus C 730, but is it worth five hundred bucks?  Yes, for photographers who need the 10X zoom and advanced features.  Both my friend and I are wondering if Olympus has plans to shoehorn the new five megapixel CCD from the C50/C5050 into the C 730 at some future date.  Boosting the C 730&#146s resolution to five megapixels, the addition of image stabilization to the monster zoom, a focus aid beam, and some serious professional level image processing technology would make the C 730 a real contender for the best prosumer digital camera ever.  In the meantime the C 730 fills a niche that no other manufacturer has adequately addressed, so I&#146m willing to bet it will do quite well in the marketplace.  Here&#146s hoping that Olympus engineers are already at work on an updated C 730. 
+
+<b>Links</b>
+ 
+Are you considering setting up a home digital darkroom? Check out my review of a bargain priced and very capable photo quality ink-jet printer. 
+
+<b>Epson Stylus Photo 785 EPX</b> ink-jet printer 
+<a href="/content_60776812164">http://www.epinions.com/content_60776812164</a> 
+
+For definitive advice on <b>How to Choose a Digital Camera</b> please see my review: 
+
+<a href="/elec-review-2E46-17B174E2-39A418E3-prod1">http://www.epinions.com/elec-review-2E46-17B174E2-39A418E3-prod1</a>  
+
+For more information about specific Digital Camera models, you may find my Digital Camera reviews informative: 
+
+<b>Nikon Digital Cameras</b> 
+
+Nikon Coolpix 4300 
+<a href="/content_80569470596">http://www.epinions.com/content_80569470596</a>
+
+Nikon Coolpix 4500 
+<a href="/content_69311368836">http://www.epinions.com/content_69311368836</a> 
+
+Nikon Coolpix 2500 
+<a href="/content_65176440452">http://www.epinions.com/content_65176440452</a> 
+
+<b>Canon Digital Cameras</b> 
+
+Canon Powershot S45 
+<a href="/content_84242173572">http://www.epinions.com/content_84242173572</a> 
+
+Canon Powershot G3 
+<a href="/content_78672989828">http://www.epinions.com/content_78672989828</a> 
+
+Canon Powershot S230 
+<a href="/content_78900203140">http://www.epinions.com/content_78900203140</a> 
+
+Canon Powershot S40 
+<a href="/content_59617087108">http://www.epinions.com/content_59617087108</a> 
+
+Canon Powershot S30 
+<a href="/content_59041746564">http://www.epinions.com/content_59041746564</a> 
+
+<b>Olympus Digital Cameras</b> 
+
+Olympus D 550 
+<a href="/content_85994606212">http://www.epinions.com/content_85994606212</a> 
+
+Olympus C 5050 
+<a href="/content_82693164676">http://www.epinions.com/content_82693164676</a> 
+
+Olympus C 50 
+<a href="/content_81891724932">http://www.epinions.com/content_81891724932</a> 
+
+Olympus C 4000 
+<a href="/content_79317208708">http://www.epinions.com/content_79317208708</a> 
+
+<b>Fuji Digital Cameras</b> 
+
+Fuji Finepix S602 
+<a href="/content_75291266692">http://www.epinions.com/content_75291266692</a> 
+
+Fuji Finepix 3800Z
+<a href="/content_81234595460">http://www.epinions.com/content_81234595460</a>
+
+<b>Minolta Digital Cameras</b> 
+
+Minolta Dimage F100 
+<a href="/content_76963548804">http://www.epinions.com/content_76963548804</a> 
+
+
+ 
+ 
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

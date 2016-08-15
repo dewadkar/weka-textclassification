@@ -1,0 +1,30 @@
+DOC>
+<DOCID> 680 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_NikonCoolpixx-Nikon_Coolpix_950 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-30E6-11DBB011-38389362-bd1 </URL>
+<TEXT>
+            I've been using my 950 for 4 months.
+Primary uses:
+	photo's of my daughter (now 11mo old)
+	documentation of surgical procedures(xrays and subjects)
+	photo input for powerpoint presentations
+Strengths:
+	good image quality
+	auto whitebalance does reasonable job
+	swivel design is rugged so far and very useful for shooting in aukward
+		positions.  Definately a plus.
+	battery life is excellent.  With NiMH rechargables I can shoot over a 
+		flash photos.
+Cons:
+	Severe Red Eye problems with the flash.  It is almost colinear with the lens and the pre &quot;flash&quot; is ineffective and creates a lag, bad for candids.
+	Most photos need a tweak from photoshop to really look good.  Autolevel and Unsharp mask together work best.
+	Serial download speed even on my mac, &gt;220bps is intolerably slow.  CF reader is a must.  USB support like Kodak's would be nice.
+	The built in flash tends to wash out the subjects, but external flash support is good if  you have a nikon flash.
+
+Overall, It serves my purposes well, but you need the CF reader, you need to tweak in photoshop, and you have to fix red eye.<br><br>
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

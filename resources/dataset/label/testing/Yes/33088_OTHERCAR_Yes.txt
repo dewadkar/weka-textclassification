@@ -1,0 +1,38 @@
+DOC>
+<DOCID> 33088 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_Stylus_400_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_106093907588 </URL>
+<TEXT>
+            After my Canon Powershot 300 died in a puddle in the bilge of a sailboat, I went in to the local camera ship to replace it. I was looking for something similar: a compact point and shoot digital camera. I figured I'd upgrade to 4 megapixels, which is no problem since most of the newer compact cameras offer this level of resolution. I did have a look at the new Pentax Optio S, known as the camera that "fits in an Altoids tin," but, frankly, it's just too small. 
+
+I was looking at the new Canon Powershot 400, telling the story of how the last one died, and the sales guy showed me the Olympus. I have been very happy with the Canon, and they have a reputation for excellent image quality, so I was a bit reluctant to try a different make, but after he showed me the water- and dust-resistant seals on all the openings (ports, battery, etc) on the Olympus, I was sold. I travel quite a bit, and the fact that stray dust, sand, salt, and water won't get into the innards of the camera is very attractive. Of course, this is not a waterproof camera, you cannot immerse it (for that you need a waterproof housing), but I don't know of any other manufacturer that has put this sort of attention into their stock compact camera housings. 
+
+  water- and dust- resistant design: all the openings have rubber gaskets so that the camera won't die if splashed or dropped in a puddle. The gaskets also prevent sand and dust from getting into the innards. 
+
+  design: very sexy, and certainly small and light enough. I checked out the new Pentax Optio S, which is known as the camera that fits in an Altoids tin -- the thing is just too small, unless you have very small hands. I would love a camera that light (~4 ounces instead of ~8 ounces for the Olympus), but not quite that small, unless they can make the controls a bit larger. 
+
+  user interface: relatively easy to figure out, quick to navigate, and the features don't get lost in the shuffle. I did a quick read of the manual, and now I remember (and use!) many of the features regularly, and this is after only 10 days. 
+
+  USB drivers: the camera's USB interface is set up so that the camera appears to the computer just like a removable drive, so it doesn't require any special software to copy images from the camera to the PC. 
+
+  4 megapixel resolution: both SHQ ("super high quality") and HQ ("high quality") images end up at 2272x1704 pixels; HQ eat about 1Mb each, SHQ's about 2.5Mb each. This means that my 128Mb XD card will hold about 128 HQ pics or about 50 SHQ's. 
+
+  night shooting mode: permits exposures up to 4 seconds. In combination with the self-timer or remote control (and possibly a tiny little portable tripod), you can do some fun stuff at night with this camera. 
+
+  remote control: comes with the camera, allowing remote shutter release. Of course, you can just use the self-timer, but the remote is a nice touch. 
+
+~ picture quality: seems quite good, although I have not printed anything yet. 
+
+~ XD memory card format: why another new format? XD is only a little smaller than SD. XD's backers say that it's faster and the spec can handle larger capacities than SD, but I doubt there's actually any difference. 
+
+~ battery life: seems fine. I'll update the review once I have more detail. As usual, there is no detailed battery level indicator. 
+
+- the battery charger has a cord. If you're familiar with the Canon cameras, their battery chargers simply plug directly into the wall socket, without a cord, saving a bit of space and tangle in your travel bag. If you need a cord, you can always use an extension. A small point, but I prefer no cord. 
+
+- no audio or voice recording function (would be nice)
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

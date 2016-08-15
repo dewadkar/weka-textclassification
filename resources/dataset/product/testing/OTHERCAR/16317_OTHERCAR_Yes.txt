@@ -1,0 +1,26 @@
+DOC>
+<DOCID> 16317 </DOCID>
+<PRODUCT> Digital_Cameras/188278_Hewlett_Packard_PhotoSmart_C200xi </PRODUCT>
+<URL> http://www.epinions.com/elec-review-3FDF-5381D55-3863BA95-prod1 </URL>
+<TEXT>
+            Picked this up at Staples for $299 w/ free HP 3200C scanner AND 15Mb memory card as bonuses. I based the decision on the great reviews that the C30 was getting (e.g., see CNET). Apparently the C200 is the follow-on to the C-30 w/ lower price and better SW.
+
+Overall, I figure any megapixel camera for under $300 is a deal -- especially with these bonuses. After about 350 photos here are my observations:
+
+The C-200 is extremely easy to use w/ autofocus, autoflash, autoexposure all working effectively to deliver high quality photos. Generally, the intermediate resolution (get 75 of these w/ my bonus 15mb memory card -- but 8mb is standard) is sufficient for most normal photo situations. Exceptions would be landscapes, aerial photos or photos which are going to be cropped or printed to sizes over 8x10. This camera could be used by just about anyone since it's point and shoot. The lack of many manual overrides could frustrate professionals however. 
+
+I do not use the LCD to frame photos -- preferring the optical viewfinder. Using the camera that way, the batteries seem to last almost forever. I've taken over 300 photos -- most w/ flash and the original batteries still report half charge!! I generally shoot in intermediate resolution mode. Note that this observation does not match some of the other reviews that have been written. This implies that other users have been using the LCD unnecessarily. So, if you want long battery life use the viewfinder and minimize use of the LCD. I use the LCD for short bursts to review photos and erase the camera. That's about it.
+
+Serial connection to the camera is slow -- expect it to take about 30 seconds to transfer each photo. For $15. I picked up a PCMCIA adapter for the SmartMedia card which makes the transfers virtually instantaneous and works fine even on Windows 2000 (RC3). Using this adapter, the images on the memory card appear as jpg files on a removable media device. 
+
+
+My frustrations are that the camera is boxy. It's too big for a shirt pocket and uncomfortable in your pants pockets. Generally, you will want to carry it in a jacket pocket or around your neck w/ the included strap. Also, it lacks optical zoom (big surprise for &lt;$300 right?). The digital zoom must be invoked through the LCD (batteries!) so I don't use it.
+
+Generally, this is a very satisfactory camera and a great value.
+<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

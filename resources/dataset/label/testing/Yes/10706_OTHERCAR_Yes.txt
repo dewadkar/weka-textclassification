@@ -1,0 +1,60 @@
+DOC>
+<DOCID> 10706 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_D_40ZOOM_621937 </PRODUCT>
+<URL> http://www.epinions.com/content_126410067588 </URL>
+<TEXT>
+            Pros:
+
+1.Its small and light
+2 It uses AA batteries
+3 It has 4.0 Mega Pixels with near 3X optical zoom 
+4 It uses flexible and cheap AA batteries 
+5 Smart Media Cards are dirt cheap.
+6 Noise reduction system
+7 Remote control.
+
+D40 has them all!!
+
+After several month of use I can say that D40 delivers the goods, although its still not perfect.  In this review I am not going to repeat its good qualities as many other reviewers have already done so.  I am just going to state things which I didn't like from my personal experience.
+
+Also please keep in mind that I also own a Canon G2 which is an awesome camera and the benchmark in this review.  
+
+Some of you may feel that I am being unfair since G2 is a much bigger camera, but these two cameras were both in the market at the same time.  Both were priced similarly and have similar feature/functions and most importantly, I happened to own them both.....  
+
+Cons: (when compared with my G2)
+
+1.  
+Flash Recharge time is too long.  It takes around 5-7 seconds before the flash is ready again.  Not a problem if you shoot outdoor under good light, but a pain if you use it indoors.  Maybe it was caused by the use of low-voltage (1.2V NiMH AA rechargeable batteries)
+
+2.  
+Image is often noisy/grainy and the white balance isn't great indoors in the AUTO mode.  Olympus includes a "P" mode so you can save a custom setting.  You can lock the ISO at 100 and fiddle around with the white balance to solve this, but my G2's auto mode does a better job so I don't have to.  This camera has an effective noise reduction system but does not kick in all the time (only kicks in at higher ISO/Shutter speed in AUTO mode I believe)
+
+3.
+Purple Fringing in bright contrast visible.  Most camera has this problem, but D-40's is worse than average
+
+4.
+Battery life is ok.  It not great, but certainly not as bad as many other reviewers stated in their reviews.  I use a pair 1850Mah NiMH AA rechargeables and keeps another charged pair on hand and that is enough for hundreds of photos.  Don't use the LCD more than you have to will extend the life of batteries greatly.  I also suggest to invest some quality batteries (2200Mah AAs are available now) and a good charger.  One thing to keep in mind though is that NiMH batteries looses 40% of the charge in 30 days while not in use, so always charge the batteries before use.  Some "intelligent/smart" chargers can trickle charge the batteries when you leave them in charger indefinitely so they are always full.  I also found that the "low battery" indicator comes on way too early when I am using rechargeable NiMH batteries.  Maybe it was caused by the lower-than-alkaline battery voltage (1.2V on NiMH vs 1.5V for the alkaline) so maybe the camera was fooled by the low voltage and flashed the low battery light early.  I am  always able to shoot many more pictures after the camera flashes the low battery light.. duh.
+
+5. 
+The metal sliding lense cover/power switch feels a bit flexy.  And I kind of expected that a camera this expensive should have a full metal case.  Although the build quality of this semi-metal camera is superb.
+
+6.
+Maybe I am being picky here, but I think this camera is not very novice-friendly.  It has tons of features not found in other ultra-compact cameras, but also one of the most complicated to use, and did I mention I already own a Canon G2? 
+
+Conclusion:
+
+I guess my review is not entirely encouraging if you are looking to buy a D-40 now (I guess a used one, since they are no longer available new).  
+
+Don't be, this is a great camera, period.  Many of the short comings I mentions are also shared by other digital cameras.  In fact, I am very happy with it.  It might not perform as well in some areas as my full-sized and weight Canon G2 but against other compact and ultra-compacts D-40 will definitely hold its own.
+
+When compared to other compact/ultra-compact cameras I have owned or tried (Fuji 4700Z, Minolta Dimage X, Kodak DX-3900 etc.) and my D-40 totally blows them away.
+
+
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

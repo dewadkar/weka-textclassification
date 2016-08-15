@@ -1,0 +1,31 @@
+DOC>
+<DOCID> 30249 </DOCID>
+<PRODUCT> Digital_Cameras/elec_AgfaePhotoo-Agfa_ePhoto_Smile </PRODUCT>
+<URL> http://www.epinions.com/elec-review-466B-1C2472BB-39E21960-prod3 </URL>
+<TEXT>
+            People will tell you that you get what you pay for when you buy this camera. That is not true. With this camera, you get less than you pay for.
+
+I read all the reviews before buying this, but thought that I didn't need high resolution or high quality for the work I was doing. This camera was so bad that I had to return it, and could not make any use of it at all.
+
+I have been doing digital imaging for 7 years now. I had digital cameras way back when they took 1 minute to take the picture, and you had to stand motionless while it took the picture. The pictures were blurry, and the colors bled. Resolution would be 320x200 at best.
+
+The ePhoto Smile is worse than those old cameras. I would prefer a black and white camera. This camera creates images that are 320x200 and then scales them up to 640x480. That's right! The width is increased by a factor of 2, and the height is increased by a factor of 2.4! No effort is made by their special software to smooth the pixels or blend them at all. You see large blocks for each pixel. I would have preferred if the images where sent over as 320x200 instead of the weird manipulation they do.
+If you have ever seen a JPEG image at 1% compression, where it is all blocks, well this camera is worse than that.
+
+It is hard to understand what is contained in the pictures. The software stinks.
+
+The nice thing is that the camera is small and looks attractive.
+
+The camera is not worth the $59 I paid for it. Maybe for $10. I would not give this camera to anyone. It would be an insult. 
+
+This is not even a kid's camera. This would most likely hurt anyone's eyes after looking at the images for too long.
+
+Read the other reviews. It is probably the only digital camera I have seen with bad reviews. 
+
+I will never buy an AGFA camera again after having put out such an atrocious product. <br><br>
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

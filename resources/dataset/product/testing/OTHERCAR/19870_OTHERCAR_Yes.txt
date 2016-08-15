@@ -1,0 +1,65 @@
+DOC>
+<DOCID> 19870 </DOCID>
+<PRODUCT> Digital_Cameras/509292_Hewlett_Packard_PhotoSmart_C30 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-2F2E-5511A8F-3983995C-prod6 </URL>
+<TEXT>
+            When I first started looking a digital cameras, I didn't know that much about them.  I am much more familiar with 35mm slr's and medium format cameras.  I will try to pass on what I have learned and why I think the <b>Hewlett Packard Photo Smart C30</b> is a good deal.
+
+When looking for a digital camera, I believe you need to look for several major features.  The first of which is the resolution, or the amount of pixels that are contained in a photograph.
+
+Pixels are kind of like the the grain of a negative.  The more pixels you have, the better the photo will hold together when you try to enlarge a photograph.  The same is true with a negative.  The more smaller the grain, or the more you have basically, the better the image enlarges.  
+
+The HP C30 has one megapixel resolution (1152x872).  This is the resolution at its highest setting.  There are three settings on this camera.  Each setting progressively reduces the amount of resolution that a photo contains.  This is a great feature when you are trying to save room on your memory card.
+
+This leads to the second thing you need to look for when deciding on a digital camera.  The memory of a digital camera is in essence the film you are shooting your photos on.  Some of the cheaper cameras do not have a removable or upgrade-able memory card.
+
+The HP C30 I bought came with a 8MB Compact Flash card.  The memory card is about one and half inches square.  This makes in convenient if you want to carry more than one card.  The memory cards can also be bought with more memory allowing you to store more photos with out having to change the card or downloading images.  You can store 17 superfine images, 40 fine images, and 80 basic images.
+
+Another very important thing to look at when deciding which digital camera to buy is the way in which you download photos to the PC.  The HP C30 is downloaded to the computer through you serial port.  The camera comes with a 9-pin serial PC cable.  This is slow process and I think it is the major drawback of this camera.  A USB download would have been  much more beneficial.
+
+Additionally, you want to be aware of the type of power source that it needs.  If you buy a camera that is a battery guzzler, you can be out of luck when you really need it or want it.  
+
+The HP C30 uses four AA batteries.  If I buy good alkaline batteries, I get much longer use of the camera before I have to change them.  Hewlett Packard estimates that the camera's battery life is like this, 500 photos without a flash, and 200 photos with a flash.  I would say that this a pretty good estimate.
+
+Lastly, in identifying a good digital camera in my opinion is what kind of accessories the camera comes with, this includes the software.  This camera came with Microsoft Picture It, and HP Photo Smart Photo Finishing Software.  
+
+I personally love the HP software.  It makes downloading the photos very easy.  This program is also good when balancing color and exposure.  Another great part of this program is the way it allows you to print the photos.  It's got a great feature called paper saver, allowing you get the most out of your photo printing paper.
+
+One thing to look for is an LCD display, but I don't believe that it is as important.  This is usually for a preview/post-view display.  The HP C30 comes with a 1.8&quot; color display.  Although using it to take the picture is a little hard.  This is due to the fact that it is not like a typical video camera image but refreshes the image every second, making the image appear to skip around.
+
+Another great feature of this camera is the fact that you can display your images on a television.  The camera comes with a cable that can be hooked into the television.  Then you can slide show the photos in your camera.  In addition, you can record the slide show onto a video tape to create easy and lasting memories, or to torment your family and friend with.  I do recommend using the ac adapter while doing this so as not to drain your batteries.
+
+<b>Overall this is a great camera for the money.</b>  I did buy this camera about a year ago, and at the time it was the biggest bang for the buck. I think in comparing digital cameras today that are available, that it is still is a great buy.
+
+<b>Here are the specs...
+*1 megapixel resolution
+*2x digital zoom
+*24-bit color
+*ISO 100 exposure system
+*Mechanical shutter,1/500 to 4 seconds
+*Color 1.8&quot; LCD display
+*Normal focus 2' to infinity
+*Macro focus 10&quot; to 2'
+*NTSC/Pal video connection
+*Dimensions:5(w)X3.15(h)X1.9(d)in.
+*Weight.68lbs (without batteries)
+
+Minimum Host PC Requirements
+*486/66 Mhz or faster CPU; Pentium recommended for NT 4.0
+*For use with Microsoft Windows 95/98 and NT 4.0
+*16 MB RAM; 32 MB recommended
+*20 MB available disk space for HP PhotoSmart photo finishing software
+ 80 MB available work disk space recommended
+*90 MB available disk space for creative software
+*CD-ROM drive, 4x speed recommended
+*256 color monitor, 16-bit or higher recommended</b>
+
+
+
+<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

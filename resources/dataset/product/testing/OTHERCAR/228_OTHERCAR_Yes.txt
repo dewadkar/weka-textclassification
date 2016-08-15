@@ -1,0 +1,50 @@
+DOC>
+<DOCID> 228 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_Powershot_G1 </PRODUCT>
+<URL> http://www.epinions.com/content_36647243396 </URL>
+<TEXT>
+              I bought this camera almost as soon as it came out.  I was debating between the Nikon 990 and the Olympus 3030 for months when I saw a review for this camera.  Only two days later, I ordered online the Canon G1 because of how impressed I was of that review.  Did I make the right decision?  I think so, overall I am very happy with the quality of camera I got.
+
+<B>Image quality</B>
+I will start off on what I consider to be the most important aspect when I choose this camera.  The pictures I saw in the review were sharp and clean.  I wasn't disappointed when I started taking my own pictures.  The pictures were excellent.   This camera has an low (good) ISO setting of 50 which produces clean images.  There is almost no "noise" to the image.  Other cameras in the G1's range only go down to ISO 100, which add some noise to the image.
+
+The image sharpness is also superb.  The Canon lens combining with the 3.3 megapixel sensor produces some very sharp images, even at the maximum resolution.  I often find myself going back  to the large photos and examining details that my eyes missed but the camera got.  Very impressive.
+
+ One large annoyance I have with this camera is that it sometimes seems to forget how to expose the picture correctly.  This happens mainly in flash shots, where the subject becomes underexposed, but I have also seen it in daylight, where the photos comes out with a dark cast to it.  The real annoying part of it is that you don't know when it is going to happen, I can take one picture and have it turn out fine, but the next picture under almost the same lighting conditions can come out to dark.  This has been a minor annoyance since it has only occurred occasionally.
+
+One other minor annoyance, I wish you could take an image size somewhere between the 1024x768 and 2048x1536.  The 2048x1526 seems to big while the 1024x768 is too small for my taste.
+
+Minus the two annoyances I have with the image quality, I am extremely happy with the photos it takes.  I often feel the photos that I take qualify as professional (I am only an amateur).
+
+<B>Features</B>
+
+  Another plus for this camera is that it is loaded with features.  On the top dial, you have a choice of 12 modes to be in.  If you want to simple point and shoot, there is a mode for that, the "Auto" mode.  There is also an even more automatic mode, which just uses a fixed focus set up so that when you shoot your picture, you don't get the auto focus shutter lag.  If you are interested in more control, there are two modes to either have the camera calculate the aperature while you specify the shutter speed and vice versa.  You can also take it fully manual by putting it in manual mode.  There you have just about as much control as you can get, including manual focus.
+
+  Then there is the movie mode, which allows you to take up to 30 seconds at a time a video clip.  This came in real handy when during the University of Arizona riots after the Wildcats lost the NCAA Basketball championship last year (I know, sore losers).  I got some movies of a lot of people who were having too much of a good time.  The quality on the movie mode won't replace the camcorder(not even the old VHS camcorders), but it is nice to have the ability to shoot film when all you have is your camera.
+
+<B>Design</B>
+  The camera feels solid, but a little bit boxy when you hold it.  With it's heavy weight, it also feels fragile.  I would never drop it even from a few inches.  It makes up for it's boxiness with it's flip out LCD.  At first I thought that this was just a gimmick, but I am ending up using it all the time.  It allows you to get angles you would have never thought of before.  I rarely use the low quality viewfinder, not because I can't get the quality I want out of it, but because the LCD is such a huge asset.
+
+  This camera is relatively easy to use.  If you just want to take a quick snap, put it in auto mode, and let the camera do the rest.  One thing that is aggravating is the mode dial.  The mode dial and power dial share the same axis, so if you turn on or off the power, it is easy to switch modes.  So I make it a habit when I have just turned on the camera, to check that the mode is where I want it.  
+
+  Playing back photos and film is easy and suprisingly quick.  Even the 3.3 megapixel shots take less than a second to load to the viewfinder.  
+
+  The design could be more ergonomic, and the camera could feel less fragile, as long as the flip out LCD screen stays.
+ 
+<B>Battery</B>
+
+Another consideration when buying a camera is how long the battery will last when you are away from power access or batteries.  This camera does well in that department.  I can easily take 100 shots with the LCD on, and not have to worry about batteries dying.  The disadvantage to the Canon G1 setup is that it doesn't take standard batteries, but Canon's own proprietary system.  That means if you want to buy a spare battery, it will cost you.  
+
+<B>Internet Updates</B>
+
+One cool thing I found about this camera is that occasionaly, there will be a firmware (the software inside the camera) update posted by Canon on the web.  When I bought the camera, there was a few bugs, like the clicker sound not always going off, or the camera couldn't handle a certain light condition, that was fixed when I installed the new firmware.  Now upgrading your firmware isn't an easy task and requires a lot of caution (you can fry the existing firmware if you don't do it right), but I found it worth it to get the most bug free, and best photos you can get out of this camera.  Also, hypothetically, if they wanted to add certain features to the camera, the could through the firmware update.
+
+<B>Conclusion</B>
+
+I hope you can tell that overall, I am pleased with this camera.  The quality of images is excellent, and I am sometimes surprised that I am the one behind the lens taking the shots.  So if you are in the market, for a G1, just make sure to not expect a perfect shot everytime, but the 95% that do, you will be impressed.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

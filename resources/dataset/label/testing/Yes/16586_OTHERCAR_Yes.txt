@@ -1,0 +1,41 @@
+DOC>
+<DOCID> 16586 </DOCID>
+<PRODUCT> Digital_Cameras/Sony_DSC_P50_Digital_Camera___Camera_dcsP50 </PRODUCT>
+<URL> http://www.epinions.com/content_60592787076 </URL>
+<TEXT>
+            Finally, Sony has come out with a digital camera that's well within the reach of most of us, and offers quality that can very well compare with models nearly double it's price from the same manufacturer.
+
+First, the key points. If you have been doing your homework on digital cameras, you should know by now that more than for any other product, you <b>have</b> to know what you are going to use this product for <b>before you buy</b> your next digital camera. If all you are going to do is show the pictures to your parents and friends over the internet, viewed on a screen of average resolution, or maybe take a few prints at no larger than 4"x6" size, then 2 megapixels is good enough for you - chances are, if you buy a 4 megapixel camera, you'll never come to realize where the extra pixels, and double the money, went. So, if you are considering the P50 and are still reading this review, I am assuming that you fall into the category I just described - see the pictures on the screen, take 4"x6" printouts, want a snappy camera that can go anywhere and not make you look like a magazine photographer ... you get the general idea.
+
+First, the rants. Here goes:
+
+<B>1. Battery life</B> - if the Lamborghini is a gas guzzler, this is a battery guzzler. Duracell, or comparable, alkalines last for about 8 shots, with the flash and LCD on. Don't even think of going on a trip with nothing but alkalines. You'll need a backpack, and a really strong back to go with it. <B>NiMH batteries are a must</B> if you plan to use this camera to it's capacity. My experience says you can take a good 40+ pictures on a set of charged NiMH's (1800 mAH). Buy a pack that comes with a car charger and a multi-volt adapter, and you are good to go anywhere in the world and not worry about juice for the P50. Sony offers an InfoLithium battery pack as an accessory - highly recommended if you don't mind the extra money. If I ever get around to buying this accessory, I'll update this review and let you know. FYI - the newer P51, that's out to replace the P50, comes with a charger and a pair of NiMH's.
+
+<B>2. Memory out-of-the-box</B> - I have no clue why camera manufacturers are still handing out the wimpy little 4MB memory sticks. The slightly higher priced P51 out now offers 16MB to start with, but then to really get anything out of this camera, you should go for a minimum of 128MB. Plan to spend about $100 on memory alone.
+
+<B>3. Zoom level</B> - compared to the Olympus Camedia series, this offers much less optical zoom. Forget about the digital zoom - you can do a much better job on photoshop - and this holds for any digital camera. It's the optical zoom that you are really paying for, and this one has a mere 3x, compared to a whopping 10x in the Olympus C700.
+
+<B>4. Custom Controls</B> - again comparing to the Olympus C700, which stands a mere $150 higher in price to this one, custom controls are practically missing from this camera. Yes, it sure makes taking pictures a very simple task .. but then there are times when you want to spend some time fiddling with the settings before taking a picture. If that's the way you want to take pictures, this camera is not for you. In my opinion, you are much better off with a 35mm SLR, preferably one with manual controls.
+
+'nuf said. Now for some raves:
+
+<B>1. Great looks</B> - IMHO, nothing beats a Sony when it comes to user interfaces and cool looks. OK - with the exception of the IMac series. This camera looks and feels great. The petite structure is well tamed in just one hand, and taking pictures becomes a very casual fling, instead of having to steady shots with both hands and drawing your breath in. Sony has taken care of the details by providing a hand strap, and a nifty little cord to hold the lens cap when it's off the lens.
+
+<B>2. Great interfaces</B> - most digital cameras are up and running on USB now, so this is not one of the features that stands out - but it's well worth the mention. Once you have gone through the pains of installing the driver on your computer, all you have to do to upload your pictures to your computer is plug the USB cord - into your computer, and the other end into the camera - and switch the P50 on. The camera shows up as a removable drive in your computer's file browser, and you can cut-copy-paste the pictures to your favorite folders, and clean up the space on the memory stick. Nothing can be simpler - unless, of course, you are talking about BlueTooth and all the new wireless technology. Now, that's an entirely different story. A word of caution - make sure your batteries are full juice when you start the upload - Sony says that your pictures may be lost forever if the batteries die in the middle of a transfer.
+
+<B>3. Variable ISO</B> - this camera can handle Auto/100/200/400 ISO settings, making it capable of taking good pictures in low (indoor) light conditions. However, the higher ISO settings seem to cause some errors - color noise - in the darker areas.
+
+<B>4. Macro mode</B> - the camera automatically focuses objects as close as 8cm from the lens - great for copying pictures from books or magazines, if you ever need to double up your camera as a portable scanner.
+
+<B>5. Image formats</B> - apart from the 1600x1200, 1024x960, and 800x600 picture sizes, this also allows you to choose between the compressed, marginally lossy jpeg format and the uncompressed, monstrous TIFF format. If you slap on the 128MB (or larger) memory stick, go for the TIFF .. the difference is 'clear'.
+
+Most of the remaining features are pretty commonplace, and don't really deserve explanations .. clear LCD viewfinder, power-saving eyepiece, custom functions to setup the camera, removable memory stick, power adapter, review modes to flip through your pics, quick review (by pressing the left arrow button) in record mode to show you the last picture taken ... the list is endless, you'll have to read a reasonably thick manual to get to all that.
+
+If you are about to purchase this camera, make sure you get all the <B>recommended accessories: NiMH batteries, charger, 128MB memory stick </B>, and a <B>camera case</B>. Happy shooting!
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

@@ -1,0 +1,58 @@
+DOC>
+<DOCID> 13074 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Sony_DSC-V1_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_102815993476 </URL>
+<TEXT>
+            After debating whether to buy the 5.0 MP Sony Cyber-Shot DSC-P10 or the Canon Powershot S50, I opted for the higher-end Sony Cyber-Shot DSC-V1 instead.  The DSC-V1 has the capacity for add-on flash and filters that the other two cameras do not offer, so I feel it will be more flexible and functional in the long run.  
+
+The DSC-V1&#146s main competition will probably be Canon&#146s highly anticipated 5.0 MP G5, which unfortunately has a MSRP of $899.  I was able to buy the DSC-V1 for $572.33, which is well below its MSRP of $699.99.  A few online retailers I found through cnet.com, pricescan.com, and mysimon.com advertise prices that are almost as low, but they also tack on applicable sales tax and shipping.  Many of these online, through-the-mail retailers with the lowest prices also have the most negative feedback from previous customers.
+
+<b>WHAT IS INCLUDED</b>
+The DSC-V1 comes with a 32MB Sony Memory Stick, NP-FC11 InfoLithium battery, AC adapter/battery charger, wrist strap, USB cable, Audio/Video cable, CD-ROM featuring Pixela ImageMixer software and USB drivers, and a 130-page manual.  The manual is comprehensive, but flimsy.  The photo transfer and ImageMixer software are basically hard drive space-wasters.   I prefer transferring, viewing, and deleting pictures from my Memory Stick using the Camera and Scanner Wizard in Windows XP.  I often use the File Browser feature in Photoshop 7.01 for viewing and editing images, also.
+ 
+<b>LENS</b>
+The DSC-V1 has a Carl Zeiss Vario-Sonnar lens, with a 4x optical zoom and 4x digital zoom.  This lens is the 35mm equivalent of 34-136mm, with an aperture of f/2.8-4.0.  There is a macro focus mode for close ups and the lens accepts 52 mm filters with an adapter attached.  The DSC-V1 uses a 5 Area Multi-Point Auto Focus system to focus on the subject.  The 5 Points can be used for manual focus, also.  With Sony's unique Hologram AF illuminator, a cool infrared grid lights up on the subject for more accurate focus, even in low or no light.  Continuous Auto Focus helps maintain focus with fast-moving subjects.
+
+<b>RESOLUTION</b>
+The DSC-V1 operates on a 1/1.8&#148 5.0 MP effective Super HAD CDD, which can produce high quality prints as large as 8x10.  Other image sizes available on the DSC-V1 are 4.5 MP (for 3:2 prints), 3.1 MP (printing A4 size images), 1.2 M (printing postcard size images), and VGA (creating home pages).  With the DSC-V1, Smart Zoom helps prevent  deterioration when enlarging an image.  Unfortunately, Smart Zoom does not work when the image size is 5.0 MP or 4.5 MP.
+
+<b>STORAGE</b>
+The DSC-V1 package includes a 32 MB Sony Memory Stick.  At 5.0 MP resolution, this can hold 12 images in fine resolution or 23 images in standard resolution.  I&#146ve been happy using my 128MB Lexar Memory Stick at 5.0 MP fine resolution, which can hold 51 images.  51 is more than enough pictures for a typical weekend trip, since the magic of digital technology makes it so easy to delete any bad shots instantly.  I&#146ll still carry the 32 MB Memory Stick as backup and may buy a second 128 MB Memory Stick in the future.
+  
+<b>SHOOTING MODES</b>  
+The DSC-V1 records still images as JPEG, TIFF, Burst, Auto Exposure Bracketing, Email, or Voice Memo.  The Auto-Burst mode is fun, capturing 16 sequential images at three possible interval settings.  This is handy for capturing action shots.  Burst mode captures 3 images in sequence.  The DSC-V1 also records MPEG movies in MPEG VX and MPEG Video Mail.  Canon cameras only allow three-minute movies but the DSC-V1 can record for as long as you have space on the Memory Stick.
+
+There are also several Scene Modes available by using the jog dial at the top of the camera and the Menu button.  These modes include Beach, Snow, Portrait, Landscape, Twilight Portrait, and Twilight.  Unfortunately, there is no panoramic mode.
+
+Two unique features on the DSC-V1 are the Nightframing and Nightshot modes.  Using the LCD, Nightframing allows you view your subject in darkness while using the flash for color images.  The Nightshot feature allows you to shoot images in complete darkness.  Nightshot images have a slight green/gray tint and mainly captures a central point within the frame, like what you would see if you pointed a flashlight.
+
+<b>COLOR CONTROL</b>
+In addition to the automatic white-balance setting, the DSC-V1 also has Daylight, Cloudy, Florescent, Incandescent, Flash, and One-push white-balance settings.  It is also easy to adjust the Saturation and Contrast levels through the Menu.  The Solarize, Sepia, and Negative Art Picture Effects makes it easy to create quick, artsy images. 
+
+<b>EXPOSURE CONTROL</b>
+If you don't want to just point and shoot, the DSC-V1 has several ways of handling exposure.  The jog dial has Aperture Priority, Shutter Priority and Manual Exposure modes.  While in Program Auto Exposure mode, you can still select aperture/shutter speed combinations.  There are several metering modes and a variety of light settings (auto, 100, 200, 400, 800).  The live histogram display also makes it easier to adjust the exposure for more creative photography.
+
+<b>POWER</b>
+With the Sony InfoLithium battery, you&#146ll always know to-the-minute how much battery life is left.  This battery takes about two hours to charge using the AC Charger and lasts about 75 minutes in shooting mode at 5.0 MP with the LCD on.  In view mode, the battery can last about 175 minutes.  You&#146ll know the charging is done when the yellow charge light turns off.  
+
+There is also a Power Save feature that allows you to shoot for a longer period of time.  With Power Save on, the flash recharges somehow by turning off the LCD momentarily.  The lens will also retract after a short period of non-use in order to save power.
+
+Since the battery life is not that great, I plan to eventually buy an extra battery ($59.99).  A portable AC Charger ($69.99) is also available for charging two batteries at a time. 
+
+<b>DESIGN AND PERFORMANCE</b>
+The DSC-V1 starts up fast and, in most modes, doesn't take long between shots.  Sony's menu system is user-friendly and more commonly-used features can be controlled through the buttons or jog dial.
+
+The long-term durability of the pop-up flash concerns me, but I was confident in buying a Sony in part because Consumer Reports indicates that Sonys are the least repaired brand of digital cameras.  Canon holds the second place position.  I also prefer Sony's use of the silver casing versus Canon's black casing for their newer, high-end digital models.  
+
+Like the Sony Cyber-shot DSC-P10, the LCD has a cover, but I cut a PDA Screen Protector to size to further protect the cover from scratches.  The LCD is incredibly hard to see in sunlight, no matter how you adjust the setting.
+
+<b>OVERALL RECOMMENDATION</b>
+At this price range, the Sony Cyber-shot DSC-V1 is only worth buying if you plan to take advantage of the manual controls and advanced features.  If you want a point-and-shoot camera, consider something less expensive, like the Sony DSC-P10, which can still take 5.0 MP images and has many of the same features, but requires little to no effort.
+
+I am happy with my purchase of the DSC-V1.  It is not only small and attractive in a strange retro yet techie way, but is loaded with more features than I know how to use at this point.  I especially like the DSC-V1 because it has easy-to-use automatic settings, yet enough manual controls to play with and grow into.  There are also many accessories available which can increase its functionality.  The Sony Cyber-shot DSC-V1 is definitely a camera with good long-term value.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

@@ -1,0 +1,29 @@
+DOC>
+<DOCID> 1893 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Agfa_ePhoto_CL18 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-50C-8915AD3-39DCD686-prod1 </URL>
+<TEXT>
+            This camera is almost a total flop!  I was hoping to use the CL18 for pics of my eBay items and some quick snapshots for email to friends and family, but no matter what I do, it doesn't seem to work well.  
+
+The image that Epinions has used for this camera is wrong!  You can find the right image here: http://www.agfa.co.uk/graphics/hsocl18.gif
+
+I was given this camera for my birthday, and I've been fooling around with it for quite a while.  I have a fair amount of experience with normal photography (I even got an A+ in a University course), but as yet I've been somewhat disappointed with this camera and have been unable to get it to take decent pictures of my books.
+
+<i>Setup</i>
+The setup for this camera is very simple indeed.  If you install all of the software that comes with this camera, you should be prepared to devote a large portion of your hard drive space to it.  There is so much data that they needed two entire CDs to hold it all (over 100MB).  If you should opt for it, it comes with a photo editor (Corel Photo House 5), a Print Project Editor (Corel Print Office 5), NetMeeting Videoconference software, ArcSoft Video Editing (since you can take video with this camera), VideoMail, Agfa Internet Print Service and much more (and many MB more).  I, however, opted to install more or less nothing but the driver and use my favorite freeware program, Irfanview, to edit my pictures.  I also have Adobe Bloatoshop for more complex jobs.  I tried out the video software too, but I realized that my modem can't really handle the video, so it has been canned. The installation programs are very easy to use, and are relatively quick.  Of course if you  install all 100MB, it will take you quite a bit longer than it took me for installation.
+
+<i>Accessories</i>
+You can't fault Agfa for not providing the goodies.  You get a handstrap and soft-sided carry case, USB and Video Cable (so you can display on a TV), a small tripod, and (believe it or not) batteries ARE included.
+
+<i>The Camera</i>
+What initially drew my Dad to this camera was the fact that this camera was USB capable and for its relatively low price.  It is so incredibly easy to hook this camera up to my computer and download the pictures.  The camera has only a 640X480 pixel resolution which isn't great, but it should be enough to take pictures for eBay.  It also has a flash, 2MB of flash memory (enough for 32 standard quality pics or 16 high quality pics).  I used this camera on a variety of  subjects and found that for large objects like my 9 year old cousin, the camera works great.  The flash worked fairly well in this type of situation as well.  Where the camera didn't perform was when I attempted to take pictures to use for my eBay auctions.  I tried the camera using several backgrounds, from many different angles, and with and without flash.  <i>SUPPOSEDLY</i> according to AGFA you should be able to get a good picture from about 2 feet from your object.  BZZZZZZZZZT.  Try again!  At anywhere from 2 feet to 5 feet all the books I tried to capture ended up looking extremely fuzzy without flash or completely whited out with flash.  The fuzziness was a problem even when the book was put directly under a strong light source.  When I backed up to about 6 feet, I got a better image, but at that point the books are microscopic, and not even Adobe Photoshop could rescue the image!  Oh well, back to my slow scanner :-(
+
+The camera did do OK when I tried to take "normal" pictures of people and did especially well outdoors, but it does have a very long lag (about 4 seconds or so) between pictures.  The processor seems very slow!  The sensitivity of the digital sensor is supposedly equivalent to 200 ASA.
+
+In the end, I guess this is a decent camera for the low price range, but unfortunately, I don't think it will do what it was bought for.
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

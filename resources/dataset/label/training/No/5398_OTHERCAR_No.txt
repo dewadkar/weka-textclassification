@@ -1,0 +1,21 @@
+DOC>
+<DOCID> 5398 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_CanonPowerShott-Canon_PowerShot_A5 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-31D9-C47AB24-380A947D-bd1 </URL>
+<TEXT>
+            The PowerShot A5, while smaller and higher resolution than my old Olympus D220L, takes off-color pictures and has a poor user interface.
+
+I bought the new camera because I wanted something small that I could more easily carry in my pocket.  The A5 fits that bill nicely; 10.25 x 3.25 x 6.75 cm.  It has a solid nickel-metal-hydride (NiMH) battery, which weighs less than the Olympus' 4 AA batteries.  It wins on portability (and decreased cost -- 4 NiMH AA batteries + charger = $50).
+
+Unfortunately, the camera takes bad pictures.  The files are close to a megapixel at 1024x768, but the color balance is poor.  Pictures appear very dark.  The camera is not very sensitive to light (about ASA 100 equivalent -- you can only turn the flash off in direct light).
+
+The user interface is also poor.  The camera requires nine (9) button presses to delete a single image.  Also, the downloading software is a TWAIN plug-in.  This means that even though the images are stored on the camera as JPEG files, you can't just copy the files to your hard drive.  They get automatically uncompressed for you, so you have to re-compress them when you save them, possibly further degrading image quality.
+
+I sold my Olympus to buy this camera.  I gained portability, but I lost image quality and ease-of-use.
+(This review of the original PowerShot A5, not the A5 Zoom or A50.)<br><br>
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

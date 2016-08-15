@@ -1,0 +1,28 @@
+DOC>
+<DOCID> 3525 </DOCID>
+<PRODUCT> Digital_Cameras/509295_Hewlett_Packard_Photosmart_C315xi </PRODUCT>
+<URL> http://www.epinions.com/content_8220479108 </URL>
+<TEXT>
+            I have been itching to buy a digital camera for over a year now, and have finally found the quality and price that I've been looking for in the HP C315 digital camera.
+
+The C315 is a 2.1 megapixel camera, meaning that it can take images large enough to print on 8x10 paper (photo paper, preferably) without losing any quality.  It also has the options to take the images in a smaller size, so as to take up less space on the 8 megabyte card that is included.
+
+The camera uses CompactFlash memory cards to store the pictures.  It comes with an 8 MB card, but additional cards can be purchased in sizes of 8, 16, 32, and higher.  This is wonderful because it makes the camera expandable.  At the highest quality mode, the 8 meg chip can hold 12 images.  At midlevel, it holds 20, and at the lowest level (640x480 size), it can store 80.  To change the quality level you simply hit a button on the top of the camera.
+
+The C315 uses 4 AA batteries, which are included.  I've taken at least 50 or 60 pictures with my camera so far, and have also reviewed them and played around with the LCD viewer, and I still have half of my battery life (there is a power meter on the camera as well).  I went ahead about bought an extra 4 pack of AA's when I purchased my camera, and keep them as backup.
+
+The LCD viewer is very small and colorful, and the menus and options are quite intuitive.  In fact, to get to any menu, you shouldn't have to press more than 2 buttons and you are there.  You have the option of viewing thumbnails of pictures taken, as well as deleting them.
+
+When you take a picture, there is about a 1.5 second delay from when you press the button to when the image is captured, so you have to get used to holding the camera still for a few seconds while photographing anything.  I've used it on several moving objects (mainly, my poor dog turning his head away), and there was no blurring from the motion.
+
+When porting the images from the camera to your pc (in either Windows or Mac), it is done via USB cable and only takes a few seconds.  My previous experience with a digital camera involved a serial connection and it was SO SLOW!  The included HP software is very no-frills and easy to use.  It's not like you need a lot of options to copy pictures from one place to another.
+
+I really wish this camera came with an A/C adapter.  You can purchase one for roughly 40 bucks, and it also helps recharge the batteries when needed.  I could really use it when I am porting the pictures into my computer.  I may eventually pick one up, depending on how often the batteries need replacing.  The camera also does not come with any kind of bag or case, which isn't that big a deal for me, but they could have at least included a simple cloth bag to keep dust out of it.
+
+All in all, this is a great camera for 300 bucks.  It is expandable, easy to use, and would be great for webmasters or for people who do a lot of selling on Ebay.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

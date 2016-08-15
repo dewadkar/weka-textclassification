@@ -1,0 +1,30 @@
+DOC>
+<DOCID> 27722 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_PowerShot_S100 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-1A35-7BF0A00-3978B15F-prod4 </URL>
+<TEXT>
+            I have been thinking about buying a digital camera for about a year now, and have had my heart set on one of the S-series from Canon since the first press-releases.  The S10 and S20 were the smallest available digitals, and could take those great Microdrives from IBM.  Then Canon stepped it up a notch with the S100, and I decided I just needed to get one.  This camera (it fits in the Elph chassis) makes the S10/S20 look humongous.  And what do you sacrifice?  Well it's only 2.1MegaPixels compared the the S-20's 3.1MP, but the only real sacrifice in my opinion was the Type-I flash card (which can't take those cool IBM Microdrives).  But not to despair...Halodata (www.halodata.com) has announced that they will have 250MB hard drives that can fit in a Type-I slot within a few months, and that they'll retail for about $300 (which isn't bad considering that CompactFlash cards are going for $2-$3 per Megabyte).
+
+What I love about this camera:
+  Portability!  With the retractable lens and automatic lens cover (and did I mention the size?) this camera can slide into a pocket, and you'll forget it's even there.  And even this tiny camera is very easy to use.  The buttons and zoom knob are right where you want them.  All of the features can be set using just 4 buttons just below the LCD.  And it comes with a rechargeable (2hr recharge time) battery, which is more than its larger siblings can say.  The flash is the standard Elph flash, with red-eye reduction, and it can be operated in the always-on, always-off, and automatic modes.  Also theres a great feature built into the camera to simplify panoramic shots.  You take one picture, then with the LCD viewfinder you can line up the next one very easily.  The included software will then merge them together.
+
+What is missing:
+  Okay, I knew it when I got it, but this is really a point-and-shoot camera.  You have some very crude settings for exposure, but there isn't anything at all as far as shutter speed or aperture goes.  And the speed is set as if you have 100-AFS film, so you really need a tripod (and yes it has a mount for one) if you want to take night shots.  Speaking of which, the black level is closer to a dark grey, but that can be easily fixed by post processing.
+  One thing that I was disapointed at was that you can't change the image resolution in full-auto mode.  This isn't too big of a deal, since manual mode is still pretty automatic, but you can't take advantage of the faster shutter speeds when the camera is in manual mode, so if you really need that high-speed shot, and want it at the high or low resolution, it'll be a tad bit more blurry.
+  I was very surprised that the camera only comes with an 8MB flash card as well.  Resign yourself to getting a bigger card immediately (or if you're like me and waiting for the 250MB halodrive, you'll be stuck downloading pictures very frequently)
+
+The Software:
+  The software that comes with the camera is Canon's own ZoomBrowserEX, and Adobe PhotoDeluxe HomeEdition.  The ZoomBrowser isn't bad for downloading from the camera, and cataloging your pictures, but I bring all of my images into PaintShopPro to do the post processing.  I wasn't at all impressed with PhotoDeluxe, I only used it for half an hour, and by then was fed up with its lack of features.
+
+Image quality:
+  I'm very happy with the quality overall, though the colors look a bit matted to me, and images are perhaps not quite as crisp as I'd like.  But these are very subjective measures, and I think they are very minor issues.
+
+Overall Impression:
+  This is a great digital camera, for those who want the ultimate in portability.  You'll miss out on some of the features of the bigger cameras, but that is what my 35mm is for.  A larger flash card is mandatory, but the inclusion of a rechargeable battery is a great move by Canon.  I hate to bring it up, but at $539+shipping (from electrified-discounters) it is certainly a pricey point and shoot camera
+ <br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

@@ -1,0 +1,39 @@
+DOC>
+<DOCID> 32281 </DOCID>
+<PRODUCT> Digital_Cameras/514339_Nikon_Coolpix_995 </PRODUCT>
+<URL> http://www.epinions.com/content_69533535876 </URL>
+<TEXT>
+            I purchased the Coolpix 995 camera after going through a lot of digital camera reviews in the past year. Camera prices have been coming down steadily (and should continue to do so). Nikon's Coolpix 895 and 995 had received really good reviews on PC Magazine and PC World. Besides, Nikon does have a stellar reputation in the camera business.
+
+I purchased it for $600 (incl sales tax) on WolfCamera.com. This camera is an absolute beauty. I couldn't put it down for the first few days. It is quite good in <b>Automatic</b> mode where the camera sets the focus/exposure/white balance/color compensation. Its real power lies in its <b>manual</b> mode. There are quite a few ways in which you can customise the settings on the camera including:
+shutter speed
+focus
+exposure
+noise reduction
+a best-shot selector option (it will take 10 snaps and pick the best one of them)
+flash with red-eye reduction on/off
+continuous/single autofocus. 
+
+It has an LCD screen and an LED display. You can quickly preview a photo and delete it if you don't like it.
+I didn't find the previews of the photos on the LCD screen that I had taken very accurate compared to what you see on the PC - so I don't neccessarily delete the pics just judging them by the image on the LCD.
+It stores images in Hi/Fine/Normal/Basic quality. Hi mode is uncompressed and a real memory hog: ~10MB/image in tiff format. The others are various levels of compression in jpeg format.
+
+You can attach a tripod to it. There are plenty of accessory lenses provided by Nikon such as the Fish-eye lens. I've also seen an underwater frame provided by some 3rd party maker -- but you'll have to research that product separately if you are interested. You can attach an external flash light too.
+
+There's a 40sec movie mode that'll save as a quicktime .mov file but that's not really this camera's forte. You can format CF cards too. Its got support for CF I and II types.
+
+It works with the PC and the Mac. A USB connection to the PC makes transferring images a breeeeze. Windows 98 autodetects the camera and a new drive will show up in Windows Explorer and you can view the images off that drive itself. As its a USB connection, you don't need to turn off/on camera or computer. There's also a bundled software - nothing out of the ordinary. I don't use it. The integration via "Removable Device" drive in Windows Explorer is perfect for me. 
+One of my *very few* gripes with the camera is that it really drains the supplied battery. If you're using the LCD display and flash, the battery will require charging after about 15-20 shots, 50+ if you don't use flash. 100+ if you don't use the LCD and flash. So you should think about getting a new EN-EL1 battery. Just don't do it from Provantage.com. (see my other review). Also the supplied 8MB CF card is not enough capacity. It's aptly named "starter card". You're supposed to purchase another card if you're serious about using the camera. The camera comes with a strap and a lens cap.
+
+Included Accessories:
+Besides the battery, there's a battery recharger and the 8MB Lexar CF card. There are two well written manuals in English and Spanish with plently of pictures. There's an "OPEN ME FIRST" packet containing the warranty card and other information.
+
+<i>The one difference that I can state between this camera and the 950 model is that the built in flash snaps up in CX995 instead of the inbuilt mode as in the CX950 model. Nikon says this reduces the "red-eye" effect.</i>
+
+Upshot: If you've got $600 to put down, then go for this camera!!
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

@@ -1,0 +1,36 @@
+DOC>
+<DOCID> 30531 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Concord_EyeQ_4060AF_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_120315940484 </URL>
+<TEXT>
+            Just a short while ago, I saw the Concord 4060AF digital camera on sale for just $150 at a local store. From the brief details provided at the store, I thought it was an absolutely excellent deal! 4 mega-pixel quality, can record movie clips, 6X zoom, 16MB memory card included, etc... My previous digital camera is quite a few years old now (Kodak DC3200) and I felt compelled to purchase the new digital camera due to its unbeatable price. I mainly use digital cameras to take photos of items I sell at online auction sites, and figured that since I was going from a 1 MP to 4 MP and this new camera offered much more, the quality of my auction pictures should certainly be better. However, I couldn't be more wrong. Let me split this review up into four different sections: 
+
+<b>Ease-of-use </b>
+
+After taking the camera out of the box and skimming over the manual, I was able to pop the batteries in, turn the camera on, and start taking pictures all within a matter of minutes. The camera features auto-focus and auto-exposure so even if you are a complete rookie at Digital Cameras, you will have no trouble using this device. The actual layout of buttons and such is a little complex, and using the navigation joystick may take a little while to get used to but isn't all that bad. All of the functions and features that you need are available on the same side of the camera that you look through, with the exception of the Macro function which must be activated from a switch on the opposite side of the camera. Nothing too serious, and most of the actual settings are found in the MENU so there aren't but a few actual buttons and switches on the camera. After taking pictures, transferring them to your computer is a snap. I didn't even need to put the bundled CD in my computer ever, since I have Windows XP and the camera is automatically detected and added as another 'removable device' which can be accessed like any hard drive. The camera uses standard memory cards and uses USB to transfer the pictures to your computer (nice and fast). Even if you have Windows 98 or above, it is very easy to learn how to get files off the camera and onto your computer.
+
+<b>Picture Quality </b>
+
+As I brought up in the beginning of this review, the quality I had hoped for simply isn't there. The camera has options to set the 'quality' and 'size' of the pictures you take. The quality refers to how much compression each picture should undergo and you can select between Fine, Normal, and Economy. The picture size refers to the actual resolution of each image you wish to take. The resolution ranges from 2272 x 1704 to 640 x 480. One highly annoying problem with this camera is that the image quality and size settings are NOT saved after you turn the camera off. The camera always defaults to Normal quality and 2272 x 1704 resolution, which is certainly not what I need when taking pictures for use in auctions and on websites. Also, the Flash setting always defaults to automatic and this really eats away at the battery life (more on this later on). 
+
+After turning the camera on and setting the size to 640 x 480 I decided to take a few indoor pictures. My house is fairly well lit and I took the pictures in the day-time. I first left the camera on 'auto-flash' thinking that it was certainly bright enough so the camera would NOT use the flash, but I was wrong. So then I turned the flash off and finished taking a few pictures. Upon transferring them to my computer, I was dumfounded after discovering each picture was INCREDIBLY dark and couldn't even be lightened to look decent with photo editing software! I then tried to set the light mode to 'Tungsten' from the default 'Auto' setting, and the new pictures still looked the same. The camera does have an 'ER' exposure setting, where supposedly you can increase the value if the pictures are too dark. But even on the highest setting my picture(s) still ended up too dark unless I use the flash. The quality of pictures taken at the MAX (default) resolution is acceptable. It is mildly sharp and due to the 1/1000 speed shutter it normally won't be blurred. However, when I take photos at the 640 x 480 setting the quality is just awful. I took a picture of a wreath (with twigs) and each twig appeared to be cut-out badly and had many jagged pixels around it. It is far worse than my original Kodak camera, and I can't even use the pictures for any real purpose due to the quality problem. Even when taking the photos outdoors, the focus point is off and it seems to have exposure difficulties, and not all of the pictures turned out as expected. 
+
+The macro function doesn't take very high-quality close-up shots of objects, and thus renders this part of the camera virtually useless. So, quality-wise it is a fine camera if you plan on using the HIGHEST resolution setting. Anything less than that and the quality degrades immensely. This is why I suppose the default is the top resolution, cause anything less and the picture quality is bad. 
+
+<b>Extra features</b>
+
+The camera comes with 6 preset 'scene' functions. They range from a setting for taking pictures of 'Parties' indoors, to firework displays and sunsets. I tried using the 'Night landscape' setting to photograph christmas lights, but it really didn't show off as many details as I had hoped (all you saw were tiny lights, nothing else). 
+
+The camera can also record movie clips at 320 x 240 resolution. I am assuming you need to install their special software to view the videos, as I was unsuccessful at doing so when I transferred the footage to my PC. The camera has a built-in image/movie viewer, and an LCD display so you can see what you are taking pictures of. The LCD screen unfortunately doesn't always portray exactly what your picture will look like (Brightness wise). The settings are easy to navigate and setup, but most of the items on the menu are NOT saved after turning off the camera so it becomes very time consuming if you don't want to use the default setting.
+
+<b>Battery life</b>
+
+The camera takes 2 AA batteries, and has NO adapter hookup ability. I was highly disappointed in this as it uses up battery power just transferring pictures to the PC. I then was shocked to see that after taking roughly 10 pictures with the flash, the new batteries had dwindled down to nothing. Lucky thing I have rechargeable batteries but really dislike how fast they are used. I have used the same batteries in my old digital camera for countless pictures with and without the flash, and they are still working fine. Unless you get rechargeable batteries or have lots of money to spend, I would suggest looking for a less resource-intense camera.
+
+So, in conclusion. This camera takes nice pictures if you use the flash and set the quality to the max. However, if you are looking for a camera to take pictures that will be used in online auctions, e-mails, or websites, then this is not for you. On the other hand, the price is reasonable and it offers a high mega-pixel quality when compared to others of the same price.
+            
+<label> No
+<rating>  2.0
+
+</DOC>
+<

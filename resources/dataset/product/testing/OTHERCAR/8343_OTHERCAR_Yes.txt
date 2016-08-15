@@ -1,0 +1,47 @@
+DOC>
+<DOCID> 8343 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Largan_Lmini_350 </PRODUCT>
+<URL> http://www.epinions.com/content_52447186564 </URL>
+<TEXT>
+            My father wanted a low-end camera for taking 640x480 pictures to send to family & friends via email.  Upon researching cameras under $100, I found the JamCam 3.0 and Largan LMini350 were about the only two choices available.
+
+We chose the Largan, mostly because we found it for $26+S&H at compgeeks.com
+
+<b>Setting it up</b>
+My father received it just today, and so I stopped by to help him hook it up.  The CD-ROM auto-ran a screen for you to install Adobe PhotoDeluxe and LMini350 TWAIN drivers.  As it turned out we had to go to:
+http://64.225.79.163/downloads/drivers/lmini_setup.exe
+to get the picture transfer utility for transferring the pictures from the camera to the computer.
+
+Once the software was installed, everything worked very well.
+
+Accessories included with the camera are a camera case, software on CD-ROM, AC/DC adapter, battery, and serial cable.
+
+<b>Features, controls, buttons, displays...</b>
+To turn the camera on, simply flip up the flash arm.  To turn it off you can flip the flash arm down or it will automatically turn off after a couple of minutes.
+
+There are three buttons - shutter, mode, and select.  I found the shutter button activates much too easily, and it'll snap a picture if your finger happens to press the shutter button as you lift the camera off a table...
+
+To delete pictures through the camera buttons involves pressing and holding down both the select and the mode buttons at the same time.  This would not be difficult except for the fact that the buttons are in-set when you press them and are very close together, making it a very difficult task for people with adult-sized fingers.
+
+The display is more like a film camera than a digital camera, but it works fine.  There is no color LCD screen, there is only a status LCD panel that shows number of pictures taken (or remaining, if you configure it as such), flash status (Auto/Always/Off), resolution status (Hi/Lo), Timer (On/Off), and battery status.  The same LCD shows icons for deleting the last picture or all pictures as well.
+
+As an added bonus, the camera has a tripod socket!
+
+The camera comes with 2MB built-in memory, and is NOT expandable.  This amount of memory can hold 32 640x480 pictures, or 64 320x240 pictures.
+
+<b>Taking pictures - the flash</b>
+This one falls under the category, "What the heck were you thinking, Largan!?"
+I had read other reviews stating that the flash was far too bright (or that the exposure wasn't compensating correctly) and this is a very true statement.  I do stop short, however, of recommending just turning the flash off, as indoor pictures do not look too good if the only light in the room is artificial light (i.e. night time, no natural light).
+<b>What I found worked:</b> take a piece of paper just a little thinner than printer paper and cut it rectangular to be a size just a little larger than the flash lens/glass.  Next, place the paper to cover the lens completely, and tape over it with one strip of normal scotch "invisible" tape (the hazy tape, not the clearly-see-through tape).  Finally, trim off any overhanging tape.  The combination of the paper and tape seems to reduce the flash intensity and disburse the light fairly well!  If the thing catches on fire or something, however, please don't blame me...
+
+Daylight pictures do come out very well, you can view some at the Largan website.  Since only one day's worth of pictures have been taken so far, I will update this review in a few weeks after more pictures have been taken.
+
+The final unknown with the camera is how long the battery will last.  The battery type is CR123A which is a photo-style battery and is more expensive than if the LMini 350 could have used common/cheaper AAA batteries.
+
+Overall, the camera would have been better with a few minor adjustments before releasing the product (software, flash).  There is no complaint though when you consider the price!
+            
+<label> Yes
+<rating>  3.0
+
+</DOC>
+<

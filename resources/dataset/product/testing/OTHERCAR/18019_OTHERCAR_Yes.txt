@@ -1,0 +1,30 @@
+DOC>
+<DOCID> 18019 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_OlympusDigitall-Olympus__D-620L </PRODUCT>
+<URL> http://www.epinions.com/content_30350347908 </URL>
+<TEXT>
+            I wanted a decent digital camera as I often take pictures for the sole purpose of web posting.  Film cameras are very wasteful in that matter as if you have no desire to to view a print, why take a such a photo?  I have a traditional 35mm SLR and while I will always prefer its image quality, I needed greater convenience for images meant only for the internet.
+
+I have always been impressed with the Olympus lineup of fixed zoom lens SLR cameras.  My father had an IS-3 that was a great performer.  The IS-10, which the D-620L shares its optics with, has always garnered excellent reviews.  Olympus optics have never been any worse than "above average."  So, I decided on the digital version of the IS-10, the D-620L.
+
+I have been quite happy with this camera, but since I am a serious nitpicker when it comes to photography, I have found some small flaws.  But first, I will discuss the high points.  The colors are bright and crisp.  I find the results comparable to 35mm films in the 200-400 speed range.  Even with the bright colors, contrast is not excessive as is the case with 35mm slide films as well as the late, lamented Kodak Royal Gold 25.  SLR viewing is also a big plus for me.  Getting close to subject matter with rangefinder cameras leads to composition problems as you run into parallax errors.  What you see in the viewfinder of the D-620L is exactly how it will appear in the final image.
+
+This camera has a plethora of options.  My favorite is spot metering.  For those unfamiliar with that term, spot metering is a system in which a small area within the viewfinder is marked (a spot).  Where you place the spot over is where the camera bases its exposure from.  Traditional metering reads the overall light levels of the entire frame.  While this works well in most situations, it can produce undesirable results in others.  If you have a subject with heavy backlighting, the standard metering will read the heavy backlight and decrease exposure.  This will result in the subject being too dark.  With spot metering, you simply place the spot over the part of the scene that you want to be properly exposed and meter from there.  It ignores the rest of the scene.
+
+There are also other options such as manual white balance settings, self timer, macro focusing, rapid fire mode.  There is probably not many picture situations that this camera could not handle.
+
+However, this camera is not without its flaws.  This camera uses passive contrast detection autofocus.  While this is nice because you can shoot through windows (active infrared focusing will bounce off the window), it stumbles in low light whereas active AF systems can focus in total darkness.  Rather than offer true manual focusing, Olympus offers three focus presets, 1.5ft, 8ft, and infinity.  I would have prefered a manual focusing mechanism with the abilty to prefocus at any given distance, much like that of an 35mm SLR lens.  If you shoot in low light or flash conditions at maximum zoom with the focus presets, you had better be very close to the preset distance or your images will be fuzzy.  Also, very high contrast situations, like photographing a dark object against a very light object, can fool the AF system into giving a fuzzy picture.  While similar is design, the AF system is nowhere near as accurate as a modern day 35mm SLR or the newest crop of digital SLRs.  In fact, the AF system in my 1987 vintage Canon EOS 620 is more accurate.  However, the images are in focus the vast majority of the time.
+
+Battery life when using alkalines is just dreadful.  Expect to see only 15-25 photos when using Duracell Ultras.  Thankfully, Olympus provides a set of four AA Nickel-Metal Hydride (NiMH) batteries and a charger with the camera.  NiMH batteries can store much more current than an alkaline and Nickel Cadmium (NiCad) batteries.  Shooting yields quadruple, quintuple, or even greater, when using the NiMH batteries.  It would be a good idea to buy a second set of NiMH batteries to have on hand but if you are forced to use alkalines, better have at least an 8pack if you plan on doing extended shooting.
+
+Olympus provides a serial port download cable but do yourself a favorand buy either a USB card reader or, if you do not have USB ports, a floppy disk adapter.  It took me 20 minutes to transfer the contents of an 8MB card via the serial port.  When I purchased a USB reader, I could transfer the contents of the 32MB card in 40 seconds.
+
+Some other complaints.  The D620 can only accept up to a 32MB card.  This can be a problem if you have a 64MB card or greater from other cameras.  Also, I question Olympus's decision to use SmartMedia over Compact Flash memory.  Memory as well as readers seems to be more expensive with SmartMedia.  Also, Compact Flash cameras have the option to use the 340MB IBM Microdrive.  Lucky them...
+
+The D-620L is a good camera for the user with an above average level of photographic knowledge.  Image quality, while not up to 35mm film standards, is very good and prints from this camera turn out good.  Diagonal images like a cat's whiskers will show stairstepping effects, especially at lower resolutions.  This is not Olympus's fault, to be honest.  It is the fact that 1.4 megapixels are not enough to resolve such fine detail.  If you can live with the aforementioned caveats and would use this camera primarily for computer/internet imaging, then this is a good camera to own.  If maximum quality is needed and you plan to print the digital images often, pass this model up, save the money, and purchase a 3 megapixel or greater camera.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

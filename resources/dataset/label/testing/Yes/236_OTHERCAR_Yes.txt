@@ -1,0 +1,26 @@
+DOC>
+<DOCID> 236 </DOCID>
+<PRODUCT> Digital_Cameras/elec-Photo-Cameras-All-Canon_Powershot_G1 </PRODUCT>
+<URL> http://www.epinions.com/content_10710191748 </URL>
+<TEXT>
+            You probably already know the specifications so I won't go into that at all. Last October I spent almost 4 weeks reviewing cameras that would suit my needs, and I decided to wait a couple of weeks for the release of the G1. I was one of the first people on the planet to get one of these things and I couldn't be happier. I sold my Olympus D-600 when I bought this one. To me, the most under-rated option on the camera is the photo-stitch mode. Here are the major things I really appreciate about the G1:
+
+1) Photo stitch mode. I do virtual tours and for me, this is what sealed the deal. In this mode, you decide how the photos will be laid out. I shoot mine in a 90�, left to right, circular panorama format. It has this mode covered! When you take the first photo, it will keep it on the screen and you can then align the next frame to the previous frame. It uses an overlap method, but unfortunately does not do a transparent overlap. After you download your photos, you open them in the Canon PhotoStitch software and have it seamlessly stitch your photos together! It's so easy to use that no instructions are necessary! It will save the finished panorama in several popular formats including QuickTime VR mode. The photostitch mode can also be used to make a poster. You can move the camera to different quadrants to capture huge stitched files. This feature literally takes care of the 3.3 megapixel limitation. Granted, it's not as easy to capture an image this way, but what other camera even gives you that option? I don't know of any. 
+
+2) Excellent battery. On my Olympus, I could take about 3 dozen photos, or one hours worth before I had to replace the batteries. With the G1, I can take over 250 shots, or run the camera constant for 2-3 hours before I start getting a warning light. 
+
+3) Microdrive capability. The 16 MB card will get you through if you shoot a few low res photos here and there, but if you do any real work or high res shooting, you're gonna need some space. I just bought a 340 MB IBM MicroDrive for $215. Now, instead of having 96 photos available to me, the camera says 999! I've got over 100 photos on the drive and it still says 999! Not many cameras give you this option, and if price is a consideration, you can't beat a MicroDrive for the money. 
+
+4) The twisting LCD was a big-time bonus. I didn't think it would be that big of a deal, but now that I have used it, I will NEVER buy another camera without one. I can set the camera on a table and tilt the screen so I can see everything I need without compromising my physical position. On a shoot I did two days ago, I had to get a high angle by sticking the camera over my head. I simply angled the screen straight down so I could look up and see what I was capturing. Not many cameras offer you that capability. 
+
+Now for the bad news... the optical viewfinder sucks. Although I don't really notice because I choose to use the LCD screen 100% of the time anyway. 
+
+Auto mode isn't very good. I find a lot of people complain about a magenta cast in this mode when shooting indoors, which I can verify is true. I have found several other modes and settings that don't reproduce this cast problem, but if you know nothing about photography, you either have to learn the other modes, do some color correcting, or pass up on this camera if you do a lot of indoor shooting. I'm hoping Canon will come out with a firmware update to fix this. If and when they do, it will be a point and shoot dream as well. I think the Macintosh software it ships with is excellent too. It has been very stable, straight forward and easy to use. 
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

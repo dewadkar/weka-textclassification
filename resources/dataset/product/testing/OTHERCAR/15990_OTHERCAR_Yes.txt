@@ -1,0 +1,34 @@
+DOC>
+<DOCID> 15990 </DOCID>
+<PRODUCT> Digital_Cameras/Samsung_Digimax_130_Digital_Still_Camera__Camera_digimax130 </PRODUCT>
+<URL> http://www.epinions.com/content_62112697988 </URL>
+<TEXT>
+            <b>I'm a cheapskate</b>
+
+I bought the 130 in December 2001. I mainly wanted a digital camera for e-mailing pictures, so print quality wasn't an issue. Price was, and the 130 was by far the cheapest around in its class.
+
+<B>Resolution, batteries, etc</b>
+
+The camera's resolution is 1.3 megapixels, which is on the low side of adequate for a modern digital camera - for not much more money you can get a 2.0/2.1 megapixel camera. The difference? Higher resolution gives you more detail, and allows you to make larger prints (if you want), or select and enlarge a smaller portion of an image and still have it be usable. Both of these are limited by the Digimax 130's modest resolution.
+
+The camera takes 4 AA cells. Two sets of 1600mah NI-MH cells carried me through a three week trip through Southeast Asia in February without needing to recharge. I took with me two CompactFlash cards (32mb and 64mb), which was more than enough. While unexciting, the camera has gotten the job done for me without any problems.
+
+<b>Performance</b>
+
+Like many digital cameras, it performs best in outdoor/daylight settings. Once inside it's much more hit and-miss with its white balance/colours. Indoor shots require some tweaking in Photoshop or Microsoft Photo Editor.
+
+The Digimax 130 comes with a carrying case. However, there is no lens cap, and the lens does stick out a bit, which worries me that it could get scratched. The lens does seem to attract a fair amount of fingerprints when children and other family members hold the unit to review shots of themselves on the LCD screen.
+
+The optical viewfinder is near-useless as its frame is quite inaccurate. It's better to use the LCD screen to make sure you have things framed correctly. I learned this the hard way during the first month when I was surprised to see subjects' heads cut off.
+
+<B>Ease of use</B>
+
+I've never encountered problems installing the storage driver in WinME or 98. WIndows XP comes with its own US storage driver. Transfer speeds through the USB port is pretty quick - it takes only a minute or two to transfer a full load of shots. You can set XP to automatically download and sort the pictures in your image folder upon connection to the USB port. I keep them in a store on the hard drive and regularly back that folder up on CD-RW.  
+
+It's been a good camera and it will continue to serve me well for another year or so when I splurge for a 2-3Mpxl unit.
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

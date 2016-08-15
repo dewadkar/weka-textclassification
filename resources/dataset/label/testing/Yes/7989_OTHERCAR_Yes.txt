@@ -1,0 +1,22 @@
+DOC>
+<DOCID> 7989 </DOCID>
+<PRODUCT> Digital_Cameras/pr-Digital_Cameras-Minolta_Dimage_S414_Digital_Camera </PRODUCT>
+<URL> http://www.epinions.com/content_109416451716 </URL>
+<TEXT>
+            I had planned for many years to buy a digital camera but was quite content to by disposables.  I didn't really have a need to have a digital camera and lower film development costs because I didn't take photos until lightening strike the home I was in and I lost the second story of my home.
+
+Come the need for multiple inventory photos of every item in my home for both the insurance company claim and prior to the packout by the restoration company (By the way it is a good thing I did that because their vendor found it necessary to steal some of my artwork and other items out of my home inventory).  I needed a camera that could provide the high-quality photos I needed in case their were any discrepancies in what I owned, or the condition of items before they were removed.  I also needed all of the cash I could muster so I had to find that fine line of GREAT deal but better than the average camera.
+
+I found the DIMAGE S414, and have been very happy with the results.  This is a great camera for the less-than-knowledgable photographer who wants to feel like a pro.  It is very easy to use, and with one full days session of learning the camera features and experimenting a little, yu can produce PRO quality photos while being just as IGNORANT as you were before regarding cameras.
+
+The menu hierarchy is logical and easy to navigate.  Some of the feature changes in manual mode are a little bit of a pain to navigate, but for the most part it is a great camera for what I needed at a very good price.
+
+I am in the process of weening myself off of the Windows O/S, so it was a bit of a disappointment when I found out the drivers were not available for SuSe Linux.  At the time I was shopping for it I didn't care and found out later their was a $20 dollar solution to bypass that issue with a card reader.
+
+Overall I am very pleased with this piece of equipment and it was definitely a great buy for the quality of camera I received.  If you are reading this MINOLTA, PLEASE create some linux drivers for the SuSE and Redhat users also.
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

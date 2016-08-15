@@ -1,0 +1,12 @@
+DOC>
+<DOCID> 350 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Nissan_Xterra </PRODUCT>
+<URL> http://www.epinions.com/auto-review-3DF4-37FDBAD-389A2F52-prod4 </URL>
+<TEXT>
+            The new Nissan Xterra is designed to keep up with your lifestyle. Sized between a Jeep Cherokee and the Nissan Pathfinder, it is designed specifically to take you and your gear to destinations and adventures beyond the end of the pavement. The 170-hp 3.3-liter V6 engine lets you tow up to 5,000 pounds thanks to 200 ft-lbs of torque, 90% of which is generated at a mere 1,500 rpm. Don't need that much engine? The 4-cylinder delivers 143-hp and 154 ft-lbs of torque and can tow up to 3,500 pounds. Choose between traction-enhancing 4WD or economical 2WD. Either way, your Xterra rides on road-gripping 235/75R15 all-season tires with standard anti-lock brakes. Larger 265 tires and Limited Slip are available. Ground clearance ranges from 9.0 inches on the 4X2 4-clinder Xterra to 9.7 inches on the 4x4 V6 Xterra. <br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

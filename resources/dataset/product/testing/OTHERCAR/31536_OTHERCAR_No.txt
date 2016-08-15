@@ -1,0 +1,30 @@
+DOC>
+<DOCID> 31536 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_FujiMXX-Fuji_MX-1700 </PRODUCT>
+<URL> http://www.epinions.com/content_22930624132 </URL>
+<TEXT>
+            I've now had my Fujifilm MX-1700 for a year and a half.  Since the camera has been out for a while, I would initially recommend that you look to other options before this one.  The prices have not come down much since its initial release, despite the long duration on the market.
+
+I have three major problems with the camera.
+
+<b>Poor picture quality</b> - The MX-1700 is a 1.5 megapixel camera, which is really not very good.  1.5 megapixels is certainly enough to capture what it is you are looking at, but lines come in rather choppy (as though they need anti-aliasing) and colors are very raw.  The camera can go up to 1280x1024 picture size, but at that size the shots are very grainy.
+
+<b>Poor flash</b> - The flash on the MX-1700 has a very rapid falloff, which means that things in the foreground will be <i>very</i> bright and things in the background will be dim.  This causes problems not only with luminosity, but since the camera has to pick up light to determine where lines are in the shot, not getting much light from the background leaves the shot really speckled with annoying rigidity in color transitions.  Also the colors are not that accurate, since some things are so much brighter then others it is hard to tell what is exactly what color.
+
+<b>Poor durability</b> - About a week ago, through normal use of my camera, I encountered a mechanical problem: the lens cover will not close.  This means my lens is exposed constantly, and furthermore, the camera will not take any pictures because it is convinced that the cover is closed.  I now have to go through the process of putting my camera in the Fuji warrantee system, which traditionally has been a bit shaky.
+
+Nonetheless, this camera has served me well.
+
+My favorite aspect is the user interface.  The back has 6 control buttons and a direction dial.  These buttons combine nicely to perform functions on the camera.  Most operations take multiple button presses, but there are always on screen instructions that tell you what all of your options are.
+
+I also very much appreciate Fuji keeping this camera compact.  It is just the right size to fit anywhere, it seems there is no wasted space on the camera.  The dimensions are approximately 3" x 3.5" x 1.5", which will fit into a pocket.
+
+The camera also has a good feature set.  You have full control over the content of your SmartMedia card, and you can even run effects on your pictures (if you're into that sort of thing).  There is also a manual picture mode which lets you tell the camera what type of lighting it's working with, what flash brightness to use, and a couple of other details.  While not as flexible as an SLR, the MX-1700 definitely puts you in the driver's seat with your camera.
+
+Overall the camera has a high quality design but the components are a little weak: as I mentioned, the megapixel count is low and the flash isn't very strong.  I would not recommend buying this camera new, but if you can find it used for cheap, definitely look into it.
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<

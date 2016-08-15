@@ -1,0 +1,107 @@
+DOC>
+<DOCID> 764 </DOCID>
+<PRODUCT> Digital_Cameras/Nikon_Coolpix_5000_Digital_Camera__Camera_25501 </PRODUCT>
+<URL> http://www.epinions.com/content_106214231684 </URL>
+<TEXT>
+            When I decided on Nikon Coolpix E5000 digital camera, this was the best prosumer camera on the market. Now after 4000+ picture shoots I have some things to say. It takes very realistic pictures (in terms of color and resolution), and shoots them fast, if used properly. But, before you buy it, you may want to read about my experience with the Nikon 5000, because I will not just sing songs of fame about the camera. I will also give it a reality check, because there are a few flaws worth talking about before spending several hundred dollars.
+
+
+<b>In the box</b>
+
+- The camera: 5MegaPixels, 3x zoom, prosumer level full auto and full manual features.
+- Compact flash card, 32MB
+- Lithium battery and charger: proprietary for Nikon cameras.
+- Software CD: Nikon-view 4, ArcSoft Photo Studio, Genuine Fractals, etc.
+- Lens cap and camera strap
+- User&#146s manual
+- Cables: camera to USB, camera to TV
+
+
+<b>Specs in plain English</b>
+
+- This is <i>5 mega-pixel</i> camera &#150 it gives you very high resolution, if you really need it. For computer screen pictures &#150 probably not. For nice prints &#150 probably yes. More on this later.
+
+- This camera has <i>3x optical zoom</i> lens &#150 you can get decent &#147enlargements&#148 of the picture, if you are too lazy or unable to move closer to the scene with the camera itself. Do you want more zoom? Probably not, since then you also might need tripod or extra-steady hand and lots of light. I think 3x is just right.
+
+- The camera gives you the freedom of choice between <i>fully automatic</i> picture taking, or, if you know what you are doing or are up to experiments, <i>full control over every parameter</i> of the picture taking: aperture, exposure speed, zoom, white balance, sharpening, flash on/ off/ red-eyes.
+
+- This camera has excellent <i>macro</i> capabilities: you can shoot grasshoppers as close as one inch, as long as they stand still.
+
+- Most cameras these days allow to take short <i>movies</i>, and this is not an exception. You can shoot low resolution movie and save it in Quick-time format.
+
+- The software that comes with the camera is decent, one of the best bundles I have seen. You can catalogue your pictures, edit and improve them with an editor which has multiplayer capabilities, and print bunch of pictures on a single page in various combinations. If you have Photoshop software, you also get a plug-in for it that features &#147genuine fractals&#148 file format for better quality enlargements.
+
+
+<b>Mega-pixels</b>
+
+Many think that the more mega-pixels you get the better. The truth is, it is a tradeoff.  Yes, you can get better pictures with more pixels. But it is going to cost you. You need better (and clean ;-) optics, more memory, and a decent printer. And, if you really want to take advantage of the high resolution, then you should save the pictures in raw (usually TIFF) format. In some cases, one memory card is too small for a picture in this format, or barely fits one. Eventually you may find out that you are not using all these millions of pixels and could have gotten away with a smaller camera, and saved a hand or a leg in the process. 
+But if you occasionally find yourself willing to make a big picture (or a poster), Then the high mega-pixels will start to matter to you. As a 3 mega-pixel camera Olympus C3040 seem to be a good compromise. If you want higher, I suggest Nikon 5000 as an excellent 5 mega pixel toy for around/under $1000.
+
+
+<b>Compact Flash media</b>
+
+The camera comes with 32MB CompactFlash card in the box. This is enough to get started. I estimate
+that you can store about 20 fine quality pictures. However, If you going for a trip, a party, or just outside to shoot some pictures, you will soon want for more. How big of a card do you need? This depends on your picture taking style. If you are greedy, you can go for IBM micro-drive, which offers you 1GB for about $250. It is fairly fast, but it will eat slightly more of the cameras battery power. Also, sometimes you might have to wait for the drive to spin up. 
+
+I have found that 256MB 4x speed Compact flash card works the best for me. Often I fill it up above half, but never I had to look for another card before being able to transfer the pictures to my computer or laptop. Each picture at the &#147Fine&#148 quality takes about 1.5 MB, so, you can do the math of how big of a card do you need. The Hi (no compression) quality pictures take about 15MB each, and they also take a few seconds to save to the card after taking the shoot. So, if you are a quality freak, you might want to think about faster cards, such as 8x or 16x speed Compact Flash. If you are shooting at a quality lesser than &#147Fine&#148, you probably should have gone for a cheaper camera anyway.
+
+
+<b>NOT in the box: but you want it!</b>
+
+Here are a few items to make your life easier, and your wallet thinner:
+- Extra Compact Flash card, 256MB, 4X speed.
+
+- Compact Flash adapter, USB and/or PCMCIA, depending if you use desktop, laptop or both.I have both an am very happy about it. USB is hooked up to my desktop, so that I do not need to power up laptop every time I want to transfer pictures. And PCMCIA is very handy for trips, when I travel with laptop.
+
+- A couple filters (and adapter ring for NIKON 5000). I use UV filter mostly to protect the lens, and circular polarizing filter when I want to play around with reflections or sky. The adapter ring came with the filter set I bought, and provides 52mm thread in front of the lens.
+
+- Some suggest to have macro filters, such as 1x, 2x, 4x, but this camera has excellent macro capabilities, and is able to shoot decent pictures at distances down to 1 inch. 
+
+
+<b>Tips: try this at home</b>
+
+Here are some tips for those who already have this camera.
+
+- To get nice macro shoots sometimes it is worth to change lens settings to as-if you are using the slide adapter. You can change this in the settings menu for modes 1, 2, and 3, but not for A.
+
+- Do not block the light sensor with your right hand fingers, this will lead to underexposure. Especially when shooting with the flash. This is a typical mistake by the first-time users of the CoolPix E5000. Complain to Nikon about the design flaw of the sensor placement with respect to the right hand grip.
+
+- To save the battery life let the camera auto-shut-off instead of turning it off and later again on. This way the lens ins not retracted.
+
+- Do yourself and the camera a favor and get an extension ring, which mounts on the cameras body and has 50mm or so thread on the other end. This way you will not forget to take the lens cap off before turning the camera on. Some of the earlier models got broken because of such forgetfulness. This way you can have a lenscap on the extension instead, and also use it for filters.
+
+
+<b>Let&#146s shoot some pictures!</b>
+
+I use my 256Mb Compact Flash card with the camera. The camera has 32Mb card included in the package, which might be enough if you go for a medium to low quality, high compression shots. But, then again, did you need to spend so much money if that&#146s what you wanted to do? You can fit about 16 high quality compressed images (HQ) on the included card. I usually take way more shoots, so I went for the bigger card. 
+
+So far I have made over 4000 shoots in wide range of conditions with the Nikon E5000. Most of them were excellent. I have taken pictures in overcast day and in bright sunlight. Static objects in easy light conditions, and moving downhill skiers against bright snow. The camera never failed me. I mostly had to worry about the composition than the quality control.
+
+A few of the experiments included shooting a moon at night &#150 how much crazier can one get. Here I noticed interesting artifacts &#150 tiny white dots which appeared as snow across the picture after the exposure which lasted for 30 seconds. Apparently this is due to so called noise, which can be corrected by turning on appropriate mode. But the moon picture came out nicely, and it even had some texture visible, as opposed to just bright spot on a dark background.
+
+There is an interesting adapter available for this camera for copying 35mm negatives and slides. The camera even has a special mode for it. I had to try, and the results were rather satisfactory. The only problem was the light source. You need quite bright, uniform white light source. Generally shooting against the sky works, but I found out that another option is to use a broken laptop screen, which generates white intradescent light across the whole screen. The adapter is available for around $60, the light source is up to you.
+
+Another set of extreme picture taking happened at my friends place. He is a jeweler. I offered to take pictures of a few of his rings. Here the cameras macro mode came in handy. The most challenging task was to keep the camera steady. I also tried a few 2x and 4x filters in front of the lens, but they did not give me much advantage in terms of quality of the picture. Let me just tell you that the sparkling of a faceted gem on a ring looks nice, even after the print was made for a 4x4 feet poster. If you ever happen to be in Pittsburgh, you may see it in the window of One Oxford Centre.
+
+
+<b> Conclusion </b>
+
+Nikon did a great job designing the camera, although a few flaws are present leaving space for improvement for the next models. The camera is sturdy and balanced, with a convenient grip on the right side, allowing one-hand operation, if desired. However one must be careful not to cover sensors and flash by hand located at the upper front part of the camera. 
+
+The controls are conveniently located, however not always intuitive. It is rather easy to switch basic operations, such as flash or zoom modes, but in order to switch priority of aperture vs. exposition speed, one will have to read the manual, probably a couple times. Eventually you might want to get a cheat sheet for shortcuts, or make one yourself. Menus however are quite intuitive and easy to operate.
+
+It is very convenient to operate the swivel LCD screen and adjust it for almost any angle of operation, which I did all the time, and in various situations. LCD however will not be very visible in bright sunlight, which is the case with most LCDs anyway. Then you can use the optical viewfinder, or &#147shoot first and ask questions later&#148
+
+Battery life was better than I expected. One battery charge lasted for couple hundreds of shoots without flash. Soon enough I got used to saving the power by couple tricks, such as switching off the zoom, leaving the camera on standby instead of shutting it down. Every time you turn the camera off, it retracts the lens, and vice versa. This might eat up considerable power,  therefore I prefer to let the camera go to automatic standby after 30 seconds of inactivity. It is easy to wake it up by halfway depressing the trigger button.
+
+Finally, this camera is very fast, if properly used. I have often been disappointed with the delay between the trigger is pressed and the actual shoot is taken. With this camera the delay is minimal and can be minimized to almost negligible, if you turn off automatic metering features. Another alternative is to use high-speed multi-shoot mode, which makes several shoots a second. You can choose the best picture later.
+
+Am I satisfied? Yes, very much so. The picture quality is great! Its sharp, and the colors look real. I recommend this camera, if you can afford it.
+
+
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

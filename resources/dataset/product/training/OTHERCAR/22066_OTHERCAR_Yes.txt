@@ -1,0 +1,21 @@
+DOC>
+<DOCID> 22066 </DOCID>
+<PRODUCT> Digital_Cameras/Kodak_DC215_Zoom_Digital_Camera__Camera_185_3175 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-3206-D555C67-388342D4-bd1 </URL>
+<TEXT>
+            People always find it surprising that my DC-215 is actually a digital camera. For all purposes it feels and acts just like an above average 35mm. It's got the flash, a tiny (2x) zoom, automatic timer, and view finder. It's a great pal. You'll have a great time hooking it up to a television (RCA video out) and presenting an instant slideshow. The graphics look extremely sharp on a television. It comes with a tiny 4 meg card, which holds about 25 lowres photos and 12 high res which is plenty if you are just using the camera on occasion. Make sure you get NiNH rechargables and not NiCD batteries. The NiNH (4 pack with charger Everready ($13.99)) lasts for about 50-75 pictures. 
+
+The image quality is so so. It's great compared to most cameras, but still appears washed out and streaked compared to a real photograph. For email and the web it makes a great companion. Printed results (HP880 with photo quality paper, PhotoRETII) is similar to the display onscreen, still appears blocky. I have yet to try the Kodak photo service (which a free coupon for a print is included with your camera) but would hope that the print quality is better.
+
+Go ahead and give it a shot if you are a student (like myself) or someone who justs wants to take lots of snapshots. I don't think you'll regret it, however with all of the new kodak models, it seems like this would be the ecomony choice.
+
+UPDATE: 6/16/00
+Hey all,
+I just want to check in and give you an update on the camera. I'm still liking it alot. Nowadays, it seems like the USB interface is the way to go and is so so much faster than the serial connection it comes with. Us laptop users are a bit more lucky, for about $10 we can pick up a PCMIA adapter for the CompactFlash cards for nearly instantanous transport. I've brought this camera to Chicago and New York and it's as rugged as ever. If you see one for less than $250 you won't go wrong! Stay tuned for my HP545 Pocket PC review (the compactflash film cards go right in it!)
+<br><br>
+            
+<label> Yes
+<rating>  5.0
+
+</DOC>
+<

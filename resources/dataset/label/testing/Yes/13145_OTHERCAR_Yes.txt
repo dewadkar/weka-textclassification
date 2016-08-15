@@ -1,0 +1,14 @@
+DOC>
+<DOCID> 13145 </DOCID>
+<PRODUCT> Digital_Cameras/Olympus_C_5050_Zoom_Digital_Camera_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_104303464068 </URL>
+<TEXT>
+            I love this camera. That said, I have experienced a major glitch you should know about. I originally bought a Viking 1 GB CompactFlash card to go with it. Hours out of the box the card doesn't work. After reading extensive forums on the subject (look under Olympus forum ..., it seems there are major compatibility issues with higher capacity CompactFlash cards and this camera. Specifically firmware version 77 and 76 (and lower if you have it). Version 78 seems to have very few complaints and you only get v79 when you send in the camera for repair and they happen to update it. Now, there seems to be no way to check this version until you take a pic, put it onto you computer and use a program to look at the Exif information (like Exifer, freeware). Olympus, Nikon, and other companies experiencing this are not giving up any info on this subject. Apparently Olympus firmware upgrades can only happen overseas. Some CompactFlash card companies are starting to list camera compatibility charts, but be warry. Viking says the CF1GB works with the C-5050, but it didn't in my case. I'm still trying to figure out whether I will be returning the camera and try to get another one in hopes it will have the better firmware. Fortunately this camera takes 4 types of media. Interesting how Olympus and Fuji make there own, new media type (xD Picture Card) and now the camera has problems with the CompactFlash. Hmmm. Maybe I should buy the Olympus brand card. Kind of fishy, but I bought this camera with plans of using the cheaper CF cards. I'm no expert on this. You now know what to look into if you want or have this camera. This is an annoying issue, but notice I still gave the camera 5 stars. I love it otherwise.
+
+
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

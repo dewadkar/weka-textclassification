@@ -1,0 +1,26 @@
+DOC>
+<DOCID> 1214 </DOCID>
+<PRODUCT> auto_Make/auto_Make-1991_Audi_200 </PRODUCT>
+<URL> http://www.epinions.com/auto-review-6F65-15F20F9C-38BD85F2-bd1 </URL>
+<TEXT>
+            Audi revised the 5000 series car in '89 and renamed the turbo version 200, matching the general european nomenclature for the car.  Changes from the 5000 series include a revised and updated interior; flush-mounted door handles; driver side airbag; and revised engines.  Beginning in '89, a revised version of the turbo engine was phased in, using a smaller water cooled turbo for increased torque off the line.
+
+The (USA) '91 200 quattro utilized a new 4-valve per cylinder engine (20-valve 3B engine, precursor to the '92-94 S4 and '95 S6), and upped horsepower from 167 in the previous 200, to 217.  The body was also changed, utilizing flared fenders, and wheels and suspension from the V8 model.  More details on this model here:
+http://members.aol.com/c1j1miller/index.html
+
+The automatic version of the 200 utilized a 3-speed transmission, except in '91, when a 4-speed version was introduced.
+
+The styling of the 200 has aged very gracefully, and interior materials are top notch.  Early 200's have had some problems with clouding of the clearcoat on the wood trim.  The body is fully galvanized, so rust should not be an issue.  Biggest design issue is poor headlights, which are often replaced by relatively expensive european units, or supplemented by auxiliary driving lights.
+
+As a luxury car, there are many features that can have problems with age.  Typical problems may include sticking rear brake calipers (e-brake lever can be lubed to free it up); failure of electrical switches for windows (typically need cleaning internally)or backlighting (replace bulb in switch); problems with climate control (oil contamination of controller vacuum valves); failure of the brake pressure accumulator (around $275); leaking steering rack (around $350); computer/radio display problems (clean contacts in dash); vacuum lines and electrical grounds in engine compartment; and bad seals in auto transmission (leaking between the differential and transmission).  See http://www.geocities.com/MotorCity/Garage/9715/faq.html
+for further details on typical problems and fixes on these cars.
+
+Drivelines are very robust, especially in quattro models.  This model has been rated at or near the top in similar models for safety in crash tests.
+
+Parts and labor costs can be high, but the purchase price is low, so it is a luxury performance bargain on the used car market.  See http://www.audifans.com for a discussion group on audis, including advice on repairs, diagnostics, and sources for parts.  Pre-purchase check recommended.<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

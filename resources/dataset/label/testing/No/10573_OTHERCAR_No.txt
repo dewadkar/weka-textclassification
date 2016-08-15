@@ -1,0 +1,27 @@
+DOC>
+<DOCID> 10573 </DOCID>
+<PRODUCT> Digital_Cameras/Toshiba_PDR_3320_Digital_Cameras_Digital_Cameras </PRODUCT>
+<URL> http://www.epinions.com/content_115591515780 </URL>
+<TEXT>
+            Slow shutter response is only the beginning of the bad news about this camera.
+
+The photo color quality varies from somewhat accurate, to off the wall. The white balance continually shifts unpredictably. Lens flare is absurdly present at all sun angles except when the shot is taken with sun at the photographer's back. Hand positions required to shade lens are awkward. Shutter lag makes it impossible to shade lens and take a decent telephoto shot. All photos taken at 90 degrees or less to sun become progressively yellow-green outdoors.
+
+The parallax is so bad that the view finder sees the lens in the lower left 10% of the image at wide angle viewing.
+
+The insult to all of this is the software provided with the camera.....ACDSee. My Mac began to run slower and slower after I installed this s..t. Norton Utilities identified no less than 5 major damaged sectors in the resource fork all associated with this software. Removal and repair restored my computer. 
+
+This Toshiba only recognizes its own formatting. Hence, when correcting color etc. (an absolute necessity) with an outside application, running the corrected JPEGs back into the camera for TV viewing despite not changing the format by one pixel renders the image useless for any viewing with the camera.
+
+I thought I was stuck with this bimbo of a camera until at 5 days following the purchase it mysteriously completely froze with the lens opened. My retailer, Costco politely refunded my money on the spot. I still believe in face-to-face retail.
+
+I paid $250 for this. I believe that the features, 3X optical zoom and 3.2mp are a good value at that price from a retail store which stands by what it sells.. The camera has an appealing look, feel and weight, but there's nothing inside; nothing worthwhile delivered. Thus I regard the Toshiba PDR-3320 as a bimbo. Consider this review a fair warning.
+
+So, I find myself still surfing to replace a Pacific dunked 2mp Olympus Camedia whose images were hard to beat, but whose repair price is as hard to swallow as that Pacific water was for that great little camera with no features other than great images delivered. I'm expecting to see the refurbished ones selling for less than repair costs soon.
+
+            
+<label> No
+<rating>  1.0
+
+</DOC>
+<

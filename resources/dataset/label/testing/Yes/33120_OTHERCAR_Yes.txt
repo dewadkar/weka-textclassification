@@ -1,0 +1,16 @@
+DOC>
+<DOCID> 33120 </DOCID>
+<PRODUCT> auto_Make/auto_Make-2000_Chevrolet_Malibu </PRODUCT>
+<URL> http://www.epinions.com/auto-review-6A00-30F82F1-38D06E17-prod2 </URL>
+<TEXT>
+            The Malibu sedan should seriously worry Japanese automakers because it shows General Motors can offer a reasonably priced, competitive rival in the big number midsize auto market. GM wasn't afraid to do things very efficiently with the front drive Malibu. For instance, the ignition switch has a European-style location just to the left of the radio on the dashboard... not on the steering column. Another nice touch is a gearshift handle angled toward the driver that makes it easier to use. So what's it like to drive the rigidly built, nicely painted Malibu? It's fun. Acceleration is lively, and steering and handling are sharp. The ride from the supple, all-independent suspension is comfortable. The easily modulated brake pedal has a nice feel and stopping distances are commendably short.
+
+
+
+<br><br>
+            
+<label> Yes
+<rating>  4.0
+
+</DOC>
+<

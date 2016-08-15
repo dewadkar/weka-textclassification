@@ -1,0 +1,15 @@
+DOC>
+<DOCID> 699 </DOCID>
+<PRODUCT> Digital_Cameras/elec_Cameras-Digital_NikonCoolpixx-Nikon_Coolpix_950 </PRODUCT>
+<URL> http://www.epinions.com/elec-review-4942-2FC0DC18-3A536979-prod2 </URL>
+<TEXT>
+            I purchased this camera just before Christmas.  Initially the camera is complicated to master, with certain settings requiring you to hold down a button while turning a thumb wheel - and unless the features are used often, you will need to revisit the instruction manual often. 
+Indoor photographs show a lot of Red eye, even with the red eye reduction on.  I had to correct the brightness and contrast on most indoor pictures using Photoshop. Battery life is short, my first set lasted only about 45 minutes while I tested some of the camera features. 
+The camera refused to connect to my COM3 port on my computer.  It did connect to COM1 after numerous tries.  After much frustration, I purchased a 64MB memory card and USB card reader.  This is the only way to go, and greatly speeds up the download process. 
+Overall not as pleased as I should be with a camera this expensive.     <br><br>
+            
+<label> No
+<rating>  3.0
+
+</DOC>
+<
