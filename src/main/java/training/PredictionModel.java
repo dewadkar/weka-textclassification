@@ -6,11 +6,11 @@ import weka.attributeSelection.*;
 import weka.classifiers.Classifier;
 import weka.classifiers.Evaluation;
 import weka.classifiers.meta.AttributeSelectedClassifier;
-import weka.classifiers.misc.SerializedClassifier;
 import weka.classifiers.trees.J48;
 import weka.core.Debug;
 import weka.core.Instances;
 import weka.core.converters.ArffLoader;
+import weka.core.converters.ArffSaver;
 import weka.core.converters.TextDirectoryLoader;
 import weka.core.stemmers.SnowballStemmer;
 import weka.filters.Filter;
@@ -29,8 +29,10 @@ import java.io.IOException;
  */
 public class PredictionModel {
 
-    public static String DATA_SET_TRAIN_FILES = "resources/dataset/training/";
-    public static String DATA_SET_TEST_FILES = "resources/dataset/testing";
+    public static String LABEL_TRAIN_DATA_SET_DIR_PATH = "resources/dataset/label/training/";
+    public static String LABEL_TEST_DATA_SET_DIR_PATH = "resources/dataset/label/testing";
+    public static String PRODUCT_TRAIN_DATA_SET_DIR_PATH = "resources/dataset/product/training/";
+    public static String PRODUCT_TEST_DATA_SET_DIR_PATH = "resources/dataset/product/testing";
 
 
     public static void main(String[] args) throws Exception {
@@ -47,8 +49,16 @@ public class PredictionModel {
         System.out.println("Done ..  Created data set directory.");
 
 
+        createDataSetForLabel(predictionModel);
+        createDataSetForProduct(predictionModel);
+
+    }
+
+    private static void createDataSetForProduct(PredictionModel predictionModel) throws Exception {
         System.out.println("Wait ..  loading training dataset");
-        Instances trainingDataSet = predictionModel.loadDirDataSetToWekaFormat(DATA_SET_TRAIN_FILES);
+        Instances trainingDataSet = predictionModel.loadDirDataSetToWekaFormat(PRODUCT_TRAIN_DATA_SET_DIR_PATH);
+
+        Instances testingDataSet = predictionModel.loadDirDataSetToWekaFormat(PRODUCT_TEST_DATA_SET_DIR_PATH);
 
         System.out.println("Done ..  loaded dataset");
 
@@ -56,28 +66,53 @@ public class PredictionModel {
         Filter stringToWordVectorFilter = predictionModel.filterStringToWordVectorType(trainingDataSet);
         Instances filteredTrainingDataSet = Filter.useFilter(trainingDataSet, stringToWordVectorFilter);
         System.out.println("Done ..  word vector file like arff file of weka created.");
-//        predictionModel.attributeScoring(filteredTrainingDataSet,"resources/scoring");
-        AttributeSelection attributeSelectionFilter = predictionModel.createFilter(300);
-        attributeSelectionFilter.setInputFormat(filteredTrainingDataSet);
-        Instances newData = Filter.useFilter(filteredTrainingDataSet, attributeSelectionFilter);
 
-        for (int i = 0; i < newData.numAttributes(); i++) {
-            System.out.print(newData.attribute(i).name() + " ");
-        }
+        ArffSaver saver = new ArffSaver();
+        saver.setInstances(filteredTrainingDataSet);
+        saver.setFile(new File("resources/product/train.arff"));
+        saver.writeBatch();
 
-//        ArffSaver saver = new ArffSaver();
-//        saver.setInstances(filteredTrainingDataSet);
-//        saver.setFile(new File("resources/train.arff"));
-//        saver.writeBatch();
-       /* Classifier decisionTreeJ48 =predictionModel.getClassifier(filteredTrainingDataSet);
+        System.out.println("Done ..  train file persisted.");
 
-        System.out.println("Wait .. Evaluating Cross - Fold trained classifier.");
-        predictionModel.evaluateCrossFoldModel(filteredTrainingDataSet, decisionTreeJ48);
+        System.out.println("Wait ..  converting test data set to word vectors.");
 
-        System.out.println("Wait .. Evaluating classifier for trained data.");
-        predictionModel.evaluateTestingDataSetGivenTrainingDataSet(stringToWordVectorFilter, filteredTrainingDataSet, decisionTreeJ48);
-*/
+        Instances filteredTestingDataSet = Filter.useFilter(testingDataSet, stringToWordVectorFilter);
+        ArffSaver saveTestFile = new ArffSaver();
+        saveTestFile.setInstances(filteredTestingDataSet);
+        saveTestFile.setFile(new File("resources/product/test.arff"));
+        saveTestFile.writeBatch();
+        System.out.println("Done ..  test file persisted.");
 
+    }
+
+    private static void createDataSetForLabel(PredictionModel predictionModel) throws Exception {
+        System.out.println("Wait ..  loading training dataset");
+        Instances trainingDataSet = predictionModel.loadDirDataSetToWekaFormat(LABEL_TRAIN_DATA_SET_DIR_PATH);
+
+        Instances testingDataSet = predictionModel.loadDirDataSetToWekaFormat(LABEL_TEST_DATA_SET_DIR_PATH);
+
+        System.out.println("Done ..  loaded dataset");
+
+        System.out.println("Wait ..  converting data set to word vectors.");
+        Filter stringToWordVectorFilter = predictionModel.filterStringToWordVectorType(trainingDataSet);
+        Instances filteredTrainingDataSet = Filter.useFilter(trainingDataSet, stringToWordVectorFilter);
+        System.out.println("Done ..  word vector file like arff file of weka created.");
+
+        ArffSaver saver = new ArffSaver();
+        saver.setInstances(filteredTrainingDataSet);
+        saver.setFile(new File("resources/label/train.arff"));
+        saver.writeBatch();
+
+        System.out.println("Done ..  train file persisted.");
+
+        System.out.println("Wait ..  converting test data set to word vectors.");
+
+        Instances filteredTestingDataSet = Filter.useFilter(testingDataSet, stringToWordVectorFilter);
+        ArffSaver saveTestFile = new ArffSaver();
+        saveTestFile.setInstances(filteredTestingDataSet);
+        saveTestFile.setFile(new File("resources/label/test.arff"));
+        saveTestFile.writeBatch();
+        System.out.println("Done ..  test file persisted.");
     }
 
     public AttributeSelection createFilter(int numAtts) {
@@ -155,7 +190,7 @@ public class PredictionModel {
     }
 
     private void evaluateTestingDataSetGivenTrainingDataSet(Filter filter, Instances dataFiltered, Classifier decisionTreeJ48) throws Exception {
-        Instances testRawData = loadDirDataSetToWekaFormat(DATA_SET_TEST_FILES);
+        Instances testRawData = loadDirDataSetToWekaFormat(LABEL_TEST_DATA_SET_DIR_PATH);
         Instances testingData = filteredData(filter, testRawData);
         Debug.saveToFile("resources/testing.arff", testingData);
         evaluateTestingDataOnClassifier(dataFiltered, decisionTreeJ48, testingData);
@@ -206,13 +241,13 @@ public class PredictionModel {
     }
 
     public Instances trainedData() throws IOException {
-        BufferedReader reader = new BufferedReader(new FileReader("resources/train.arff"));
+        BufferedReader reader = new BufferedReader(new FileReader("resources/label/train.arff"));
         ArffLoader.ArffReader arff = new ArffLoader.ArffReader(reader);
         return arff.getData();
     }
 
     public Instances testingData() throws IOException {
-        BufferedReader reader = new BufferedReader(new FileReader("resources/test.arff"));
+        BufferedReader reader = new BufferedReader(new FileReader("resources/label/test.arff"));
         ArffLoader.ArffReader arff = new ArffLoader.ArffReader(reader);
         return arff.getData();
     }

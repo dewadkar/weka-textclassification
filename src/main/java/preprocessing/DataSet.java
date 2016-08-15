@@ -39,7 +39,9 @@ public class DataSet {
         String docName = docID.trim()+ "_" + product.trim() + "_" + label.trim()+".txt";
         System.out.println("doc_name "+docName);
         try {
-            FileUtils.writeStringToFile(new File(dirPath+"/"+label.trim()+"/"+docName.trim()), document, "UTF-8");
+//            FileUtils.writeStringToFile(new File(dirPath+"/"+label.trim()+"/"+docName.trim()), document, "UTF-8");
+            FileUtils.writeStringToFile(new File(dirPath+"/"+product.trim()+"/"+docName.trim()), document, "UTF-8");
+
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -87,9 +89,9 @@ public class DataSet {
     }
 
     public static void main(String[] args) {
-//        DataSet dataSet = new DataSet();
-//        dataSet.createFilesDataSetFromSingleFile(DATA_SET_TRAIN,DATA_SET_TRAIN_FILES);
-//        dataSet.createFilesDataSetFromSingleFile(DATA_SET_TEST,DATA_SET_TEST_FILES);
+        DataSet dataSet = new DataSet();
+//        dataSet.createFilesDataSetFromSingleFile(DATA_SET_TRAIN,LABEL_TRAIN_DATA_SET_DIR_PATH);
+        dataSet.createFilesDataSetFromSingleFile(DATA_SET_TEST,DATA_SET_TEST_FILES);
 
     }
 
