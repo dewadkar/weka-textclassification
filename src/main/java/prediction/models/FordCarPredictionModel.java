@@ -25,15 +25,14 @@ public class FordCarPredictionModel extends PredictionModel {
         PredictionModel predictionModel = new FordCarPredictionModel();
         try {
             Instances trainingData = predictionModel.productTrainedData();
-            int numAttributes= 45;
+            int numAttributes= 1000;
             Instances attributeSelectedByChiSquare = predictionModel.chisquareAttributeSelection(trainingData, numAttributes);
             Instances attributeSelectedByInfoGain = predictionModel.infoGainAttributeSelection(trainingData, numAttributes);
             Instances attributeSelectedByGainRatio = predictionModel.gainRatioAttributeSelection(trainingData, numAttributes);
             File file = new File("resources/product/selectedAttributesLabelData.txt");
             for (int i = 0; i < numAttributes; i++) {
                 String data = attributeSelectedByChiSquare.attribute(i).name() + " "+attributeSelectedByInfoGain.attribute(i).name()+ " "+attributeSelectedByGainRatio.attribute(i).name()+"\n";
-                System.out.print(data);
-                FileUtils.writeStringToFile(file,data);
+                FileUtils.writeStringToFile(file,data,true);
             }
 
             List<Classifier> classifiers = new LinkedList<Classifier>();
