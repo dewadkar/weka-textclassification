@@ -33,6 +33,10 @@ public class FordCarPredictionModel extends PredictionModel {
             Instances attributeSelectedByChiSquare = predictionModel.chisquareAttributeSelection(trainingData, NUMBER_OF_ATTRIBUTES);
             Instances attributeSelectedByInfoGain = predictionModel.infoGainAttributeSelection(trainingData, NUMBER_OF_ATTRIBUTES);
             Instances attributeSelectedByGainRatio = predictionModel.gainRatioAttributeSelection(trainingData, NUMBER_OF_ATTRIBUTES);
+            List<Instances> instances = new LinkedList<Instances>();
+            instances.add(attributeSelectedByChiSquare);
+            instances.add(attributeSelectedByGainRatio);
+            instances.add(attributeSelectedByInfoGain);
 
             File file = new File(RESOURCES_PRODUCT_SELECTED_ATTRIBUTES_PRODUCT_DATA_TXT);
             for (int attributeIndex = 0; attributeIndex < NUMBER_OF_ATTRIBUTES; attributeIndex++) {
@@ -45,10 +49,7 @@ public class FordCarPredictionModel extends PredictionModel {
             classifiers.add(new J48());
             classifiers.add(new LibSVM());
 
-            List<Instances> instances = new LinkedList<Instances>();
-            instances.add(attributeSelectedByChiSquare);
-            instances.add(attributeSelectedByGainRatio);
-            instances.add(attributeSelectedByInfoGain);
+
 
             File evaluationFile = new File(RESOURCES_EVALUATION_PRODUCT_CLASSIFIER_EVALUATION_TXT);
             evaluateByTrainingData(predictionModel, classifiers, instances, evaluationFile);

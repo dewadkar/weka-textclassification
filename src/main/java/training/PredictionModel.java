@@ -333,6 +333,17 @@ public class PredictionModel {
         return Filter.useFilter(trainedData(), convert);
     }
 
+    public Instances labelTestData() throws Exception {
+        NumericToNominal convert= new NumericToNominal();
+        String[] options= new String[2];
+        options[0]="-R";
+        options[1]="first-last";  //range of variables to make numeric
+
+        convert.setOptions(options);
+        convert.setInputFormat(trainedData());
+        return Filter.useFilter(trainedData(), convert);
+    }
+
     public Classifier buildClassifier(Instances instance, Classifier classifier) throws Exception {
         classifier.buildClassifier(instance);
         System.out.println("\n\nClassifier model:\n\n" + classifier);
@@ -343,8 +354,9 @@ public class PredictionModel {
     public Evaluation testingClassifierForLabelData(Classifier classifierModel, Instances instance) throws Exception {
         instance.setClassIndex(0);
         Evaluation evaluation = new Evaluation(instance);
-        Instances testingData = testingData();
+        Instances testingData = labelTestData();
         Instances attributeSelectedByChiSquare = chisquareAttributeSelection(testingData, 1000);
+
         evaluation.evaluateModel(classifierModel, attributeSelectedByChiSquare);
         return evaluation;
     }

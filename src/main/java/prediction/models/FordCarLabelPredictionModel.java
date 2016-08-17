@@ -30,12 +30,12 @@ public class FordCarLabelPredictionModel extends PredictionModel {
             Instances attributeSelectedByChiSquare = predictionModel.chisquareAttributeSelection(trainingData, NUMBER_OF_ATTRIBUTES);
             Instances attributeSelectedByInfoGain = predictionModel.infoGainAttributeSelection(trainingData, NUMBER_OF_ATTRIBUTES);
             Instances attributeSelectedByGainRatio = predictionModel.gainRatioAttributeSelection(trainingData, NUMBER_OF_ATTRIBUTES);
-            File file = new File(RESOURCES_LABEL_SELECTED_ATTRIBUTES_LABEL_DATA_TXT);
-            for (int i = 0; i < NUMBER_OF_ATTRIBUTES; i++) {
-                String data = attributeSelectedByChiSquare.attribute(i).name() + " "+attributeSelectedByInfoGain.attribute(i).name()+ " "+attributeSelectedByGainRatio.attribute(i).name()+"\n";
-                System.out.print(data);
-                FileUtils.writeStringToFile(file,data,true);
-            }
+//            File file = new File(RESOURCES_LABEL_SELECTED_ATTRIBUTES_LABEL_DATA_TXT);
+//            for (int i = 0; i < NUMBER_OF_ATTRIBUTES; i++) {
+//                String data = attributeSelectedByChiSquare.attribute(i).name() + " "+attributeSelectedByInfoGain.attribute(i).name()+ " "+attributeSelectedByGainRatio.attribute(i).name()+"\n";
+//                System.out.print(data);
+//                FileUtils.writeStringToFile(file,data,true);
+//            }
 
             List<Classifier> classifiers = new LinkedList<Classifier>();
             classifiers.add(new NaiveBayes());
@@ -49,7 +49,7 @@ public class FordCarLabelPredictionModel extends PredictionModel {
 
             File evaluationFile = new File(RESOURCES_EVALUATION_LABEL_CLASSIFIER_EVALUATION_TXT);
             for (Classifier classifier: classifiers) {
-                FileUtils.writeStringToFile(evaluationFile,"Classifier "+classifier.getClass().getName());
+                FileUtils.writeStringToFile(evaluationFile,"Classifier "+classifier.getClass().getName(),true);
                 for (Instances instance : instances) {
                     FileUtils.writeStringToFile(evaluationFile,"Instance "+instance.getClass().getName());
                     Classifier classifierModel =  predictionModel.buildClassifier(instance, classifier);

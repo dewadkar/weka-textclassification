@@ -1,0 +1,9 @@
+Instance weka.core.Instances
+Correctly Classified Instances        3241               98.1526 %
+Incorrectly Classified Instances        61                1.8474 %
+Kappa statistic                          0     
+Mean absolute error                      0.0185
+Root mean squared error                  0.1359
+Relative absolute error                 51.3692 %
+Root relative squared error            100.9364 %
+Total Number of Instances             3302     
