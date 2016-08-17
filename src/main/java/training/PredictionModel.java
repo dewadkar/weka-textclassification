@@ -1,7 +1,6 @@
 package training;
 
 import org.apache.commons.io.FileUtils;
-import preprocessing.DataSet;
 import weka.attributeSelection.*;
 import weka.classifiers.Classifier;
 import weka.classifiers.Evaluation;
@@ -341,10 +340,13 @@ public class PredictionModel {
         return classifier;
     }
 
-    public Evaluation testingClassifierForLabelData(Classifier classifierModel) throws Exception {
-        Evaluation testEvaluation = new Evaluation(trainedData());
-        testEvaluation.evaluateModel(classifierModel, testingData());
-       return testEvaluation;
+    public Evaluation testingClassifierForLabelData(Classifier classifierModel, Instances instance) throws Exception {
+        instance.setClassIndex(0);
+        Evaluation evaluation = new Evaluation(instance);
+        Instances testingData = testingData();
+        Instances attributeSelectedByChiSquare = chisquareAttributeSelection(testingData, 1000);
+        evaluation.evaluateModel(classifierModel, attributeSelectedByChiSquare);
+        return evaluation;
     }
 
     public Instances productTrainedData() throws Exception {
@@ -358,9 +360,23 @@ public class PredictionModel {
         return Filter.useFilter(trainedDataProduct(), convert);
     }
 
-    public Evaluation testingClassifierForProductData(Classifier classifierModel) throws Exception {
-        Evaluation testEvaluation = new Evaluation(trainedDataProduct());
-        testEvaluation.evaluateModel(classifierModel, testingDataProduct());
+    public Instances productTestedData() throws Exception {
+        NumericToNominal convert= new NumericToNominal();
+        String[] options= new String[2];
+        options[0]="-R";
+        options[1]="first-last";  //range of variables to make numeric
+
+        convert.setOptions(options);
+        convert.setInputFormat(trainedDataProduct());
+        return Filter.useFilter(testingDataProduct(), convert);
+    }
+
+    public Evaluation testingClassifierForProductData(Classifier classifierModel, Instances instance) throws Exception {
+        instance.setClassIndex(0);
+        Evaluation testEvaluation = new Evaluation(instance);
+        Instances testingDataSet = productTestedData();
+        Instances attributeSelectedByChiSquare = chisquareAttributeSelection(testingDataSet, 1000);
+        testEvaluation.evaluateModel(classifierModel, attributeSelectedByChiSquare);
         return testEvaluation;
     }
 }
