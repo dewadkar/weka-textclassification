@@ -29,7 +29,7 @@ public class FordCarPredictionModel extends PredictionModel {
             Instances attributeSelectedByChiSquare = predictionModel.chisquareAttributeSelection(trainingData, numAttributes);
             Instances attributeSelectedByInfoGain = predictionModel.infoGainAttributeSelection(trainingData, numAttributes);
             Instances attributeSelectedByGainRatio = predictionModel.gainRatioAttributeSelection(trainingData, numAttributes);
-            File file = new File("resources/product/selectedAttributesLabelData.txt");
+            File file = new File("resources/product/selectedAttributesProductData.txt");
             for (int i = 0; i < numAttributes; i++) {
                 String data = attributeSelectedByChiSquare.attribute(i).name() + " "+attributeSelectedByInfoGain.attribute(i).name()+ " "+attributeSelectedByGainRatio.attribute(i).name()+"\n";
                 FileUtils.writeStringToFile(file,data,true);

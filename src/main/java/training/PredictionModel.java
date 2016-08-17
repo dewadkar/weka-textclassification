@@ -40,7 +40,7 @@ public class PredictionModel {
         PredictionModel predictionModel = new PredictionModel();
         System.out.println("Wait ..  Converting directory into Data set");
         // convert the directory into a dataset
-        DataSet securlyDataSet = new DataSet();
+//        DataSet securlyDataSet = new DataSet();
 //        securlyDataSet.createTrainFileToDataSetDirForCar();
 //        securlyDataSet.createTestFileToDataSetDirForCar();
 //        securlyDataSet.createTrainFileToDataSetDirForCarRecommendation();
@@ -49,7 +49,7 @@ public class PredictionModel {
         System.out.println("Done ..  Created data set directory.");
 
 
-        createDataSetForLabel(predictionModel);
+//        createDataSetForLabel(predictionModel);
         createDataSetForProduct(predictionModel);
 
     }
@@ -252,6 +252,20 @@ public class PredictionModel {
         return arff.getData();
     }
 
+
+    public Instances trainedDataProduct() throws IOException {
+        BufferedReader reader = new BufferedReader(new FileReader("resources/product/train.arff"));
+        ArffLoader.ArffReader arff = new ArffLoader.ArffReader(reader);
+        return arff.getData();
+    }
+
+    public Instances testingDataProduct() throws IOException {
+        BufferedReader reader = new BufferedReader(new FileReader("resources/product/test.arff"));
+        ArffLoader.ArffReader arff = new ArffLoader.ArffReader(reader);
+        return arff.getData();
+    }
+
+
     public Instances gainRatioAttributeSelection(Instances trainingData, int numAtts) {
 
         AttributeSelection filter = new AttributeSelection();
@@ -333,11 +347,20 @@ public class PredictionModel {
        return testEvaluation;
     }
 
-    public Instances productTrainedData() {
-        return null;
+    public Instances productTrainedData() throws Exception {
+        NumericToNominal convert= new NumericToNominal();
+        String[] options= new String[2];
+        options[0]="-R";
+        options[1]="first-last";  //range of variables to make numeric
+
+        convert.setOptions(options);
+        convert.setInputFormat(trainedDataProduct());
+        return Filter.useFilter(trainedDataProduct(), convert);
     }
 
-    public Evaluation testingClassifierForProductData(Classifier classifierModel) {
-        return null;
+    public Evaluation testingClassifierForProductData(Classifier classifierModel) throws Exception {
+        Evaluation testEvaluation = new Evaluation(trainedDataProduct());
+        testEvaluation.evaluateModel(classifierModel, testingDataProduct());
+        return testEvaluation;
     }
 }
