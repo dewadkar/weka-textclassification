@@ -12,6 +12,9 @@
 
    Label prediction features for [ChiSquare,InfoGain and GainRatio 
                         links](https://github.com/dewadkar/weka-textclassification/blob/master/resources/label/selectedAttributesLabelData.txt)
+   Product prediction features for [ChiSquare,InfoGain and GainRatio 
+                        links](https://github.com/dewadkar/weka-textclassification/blob/master/resources/product/selectedAttributesProductData.txt)
+                        
 
 3.  Which feature selection method works best? What seems to affect the performance of each algorithm?
 
