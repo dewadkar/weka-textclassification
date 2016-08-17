@@ -10,11 +10,8 @@
 ## Answer the following questions based on your experimental results.
 ### Required: the top 30 features of each algorithm for each task.
 
-      Label prediction:  features for [ChiSquare,InfoGain and GainRatio 
-                        links](https://github.com/dewadkar/weka-textclassification/blob/master/resources/label/selectedAttributesLabelData.txt)
-                        
-      Product prediction:  features for [ChiSquare,InfoGain and GainRatio 
-                        links](https://github.com/dewadkar/weka-textclassification/blob/master/resources/product/selectedAttributesProductData.txt)
+            1. Label prediction:  features for [ChiSquare,InfoGain and GainRatio       links](https://github.com/dewadkar/weka-textclassification/blob/master/resources/label/selectedAttributesLabelData.txt)
+            2. Product prediction:  features for [ChiSquare,InfoGain and GainRatio links](https://github.com/dewadkar/weka-textclassification/blob/master/resources/product/selectedAttributesProductData.txt)
                         
 
 ### Which feature selection method works best? What seems to affect the performance of each algorithm?
