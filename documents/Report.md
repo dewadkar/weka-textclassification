@@ -12,6 +12,7 @@
 
    Label prediction features for [ChiSquare,InfoGain and GainRatio 
                         links](https://github.com/dewadkar/weka-textclassification/blob/master/resources/label/selectedAttributesLabelData.txt)
+                        
    Product prediction features for [ChiSquare,InfoGain and GainRatio 
                         links](https://github.com/dewadkar/weka-textclassification/blob/master/resources/product/selectedAttributesProductData.txt)
                         
