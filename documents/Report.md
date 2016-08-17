@@ -19,10 +19,11 @@
 
 3.  Which feature selection method works best? What seems to affect the performance of each algorithm?
             1. Label prediction using [Naive Bayes, J48, and SVM link](https://github.com/dewadkar/weka-textclassification/blob/master/resources/evaluation/label/classifierEvaluation.txt) 
+                        
             2. Product prediction using [Naive Bayes, J48 and SVM link](https://github.com/dewadkar/weka-textclassification/blob/master/resources/evaluation/product/classifierEvaluation.txt)
             
 
-            Observation: In both the task SVM outperforms in all attribute selection algorithm. Text similarity is observed in mulitdimension where each dimension contribute with integratation. Where as in NB assumtion is simple, each feature is independent. Decision tree again evalutes on separable features, in most of the text prediction it is false. 
+             Observation: In both the task SVM outperforms in all attribute selection algorithm. Text similarity is observed in mulitdimension where each dimension contribute with integratation. Where as in NB assumtion is simple, each feature is independent. Decision tree again evalutes on separable features, in most of the text prediction it is false. 
 
 4.  How many features are required for the different tasks, algorithms, and feature weight methods?
             -Number of feature for the task could not determined. 
