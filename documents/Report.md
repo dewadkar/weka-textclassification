@@ -32,9 +32,15 @@
 ### Which text categorization algorithm is the most effective? Why it works better than other algorithms on this task?
            - Algorithms selected for the experiments are 1. J48-Decision tree 2. Naive Bayes 3. Support vector machine
 
-          Observation: In both the task SVM outperforms in all attribute selection algorithm. Text similarity is observed in mulitdimension where each dimension contribute with integratation. Where as in NB assumtion is simple, each feature is independent. Decision tree again evalutes on separable features, in most of the text prediction it is false. 
+               Observation: In both the task SVM outperforms in all attribute selection algorithm.
+             Text similarity is observed in mulitdimension where each dimension contribute with integratation.
+             Where as in NB assumtion is simple, each feature is independent. 
+             Decision tree again evalutes on separable features, in most of the text prediction it is false. 
           
 ### What is missing in Report?
 
-             As per assignment, Report of performance should be in terms of DodcID_Score_Method. This is not covered. The performance of the algorithm is measuerd by evaluating test set and not individual instance is analyzed. At this stage I am unware of the method to add new attribute (file name to the training and testing word vector format) which is obtained after StringToWordVector conversion. 
+             As per assignment, Report of performance should be in terms of DodcID_Score_Method. This is not covered.
+             The performance of the algorithm is measuerd by evaluating test set and not individual instance is analyzed.
+             At this stage I am unware of the method to add new attribute (file name to the training and testing word
+             vector format) which is obtained after StringToWordVector conversion. 
  
